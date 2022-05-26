@@ -2,11 +2,11 @@
 # text = A-nebeudigoù e ta an deiz.
 # text_fr =  'Le jour vient peu à peu.'
 # source = Herrieu (1994)
-1	A-nebeudigoù	a.nebeut.-ig	préposition.quantifieur.?		_	_	_	_	Gloss=à.peu.DIM
+1	A-nebeudigoù	a.nebeut.-ig	préposition.quantifieur.?	_	_	_	_	_	Gloss=à.peu.DIM
 2	e	e	?	4	_	_	_	_	Gloss=R
-3	ta	dont	verbe		_	_	_	_	Gloss=vient
-4	an	art	?		_	_	_	_	Gloss=le
-5	deiz	deiz	nom		_	_	_	_	Gloss=jour
+3	ta	dont	verbe	_	_	_	_	_	Gloss=vient
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1932:27)__1
@@ -15,15 +15,15 @@
 # source = Drezen (1932)
 # texttype = Références de corpus
 1	gand	gantma	?	4	_	_	_	_	Gloss=pourvu.que]
-2	ma	ma	complémenteur		_	_	_	_	Gloss=?
-3	n'	n'	?		_	_	_	_	Gloss=ne
-4	am	POP	?		_	_	_	_	Gloss=me
-5	lezo	lezel	?		_	_	_	_	Gloss=laissera
-6	ket	ket	adverbe		_	_	_	_	Gloss=pas
-7	a-istribilh	a-istribilh	?		_	_	_	_	Gloss=en.plan
-8	gant	gant	?		_	_	_	_	Gloss=avec
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	am	POP	?	_	_	_	_	_	Gloss=me
+5	lezo	lezel	?	_	_	_	_	_	Gloss=laissera
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	a-istribilh	a-istribilh	?	_	_	_	_	_	Gloss=en.plan
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
 9	va	POSS	?	2	_	_	_	_	Gloss=mon
-10	boulomoùigoù	boulom.-où(PL.).DIM	nom.?.?		_	_	_	_	Gloss=bonhomme.s.petits
+10	boulomoùigoù	boulom.-où(PL.).DIM	nom.?.?	_	_	_	_	_	Gloss=bonhomme.s.petits
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1958:'mohigou')__1
@@ -31,5 +31,5 @@
 # text_fr =  'tous ses porcelets.'
 # source = Le Gall (1958)
 1	he	POSS	?	2	_	_	_	_	Gloss=son
-2	oll	holl	adverbe-quantifieur		_	_	_	_	Gloss=tous
-3	mohigou	moc'h.DIM.-où(PL.)	?.?.?		_	_	_	_	Gloss=porcs.elet.s
+2	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+3	mohigou	moc'h.DIM.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=porcs.elet.s

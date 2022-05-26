@@ -3,11 +3,11 @@
 # text_fr =  'En Trégor à travers champs.' 
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	En	Pe	complémenteur-conjonction		_	_	_	_	Gloss=en
-2	bro	bro	nom		_	_	_	_	Gloss=pays
+1	En	Pe	complémenteur-conjonction	_	_	_	_	_	Gloss=en
+2	bro	bro	nom	_	_	_	_	_	Gloss=pays
 3	Dreger	nompropre	?	1	_	_	_	_	Gloss=Trégor]
 4	a-dreuz	a	préposition	1	_	_	_	_	Gloss=à
-5	parkoù	park.-où(PL.)	nom.?		_	_	_	_	Gloss=champ.s
+5	parkoù	park.-où(PL.)	nom.?	_	_	_	_	_	Gloss=champ.s
 
 # sent_id = Ternes(1970:318)__1
 # text = / məja drøs-ka:r d-əlan /
@@ -16,9 +16,9 @@
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
-2	məja	məja	?		_	_	_	_	Gloss=?
-3	drøs-ka:r	kaer	adjectif-adverbe		_	_	_	_	Gloss=INT
-4	d-əlan	da.art.lann	préposition.?.nom		_	_	_	_	Gloss=de.le.lande
+2	məja	məja	?	_	_	_	_	_	Gloss=?
+3	drøs-ka:r	kaer	adjectif-adverbe	_	_	_	_	_	Gloss=INT
+4	d-əlan	da.art.lann	préposition.?.nom	_	_	_	_	_	Gloss=de.le.lande
 5	/	/	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moulleg(1978:6)__1
@@ -26,16 +26,16 @@
 # text_fr =  'Et si cet énorme bazar se mettait à dérailler, einh ?!' 
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Ha	&	?		_	_	_	_	Gloss=et
+1	Ha	&	?	_	_	_	_	_	Gloss=et
 2	ma	ma(r)	?	4	_	_	_	_	Gloss=si
-3	teufe	dont	verbe		_	_	_	_	Gloss=venait
-4	ar	art	?		_	_	_	_	Gloss=le
-5	mell	mell	nom		_	_	_	_	Gloss=grand
-6	bazar-se	DEM	?		_	_	_	_	Gloss=là
+3	teufe	dont	verbe	_	_	_	_	_	Gloss=venait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	mell	mell	nom	_	_	_	_	_	Gloss=grand
+6	bazar-se	DEM	?	_	_	_	_	_	Gloss=là
 7	da	da	préposition	1	_	_	_	_	Gloss=à
-8	vont	mont	verbe		_	_	_	_	Gloss=aller
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 9	a-dreuz	a	préposition	1	_	_	_	_	Gloss=à
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	hañ	hañ	?		_	_	_	_	Gloss=[[hañ?|einh
-12	?	?	?		_	_	_	_	Gloss=?]]]
+11	hañ	hañ	?	_	_	_	_	_	Gloss=[[hañ?|einh
+12	?	?	?	_	_	_	_	_	Gloss=?]]]
 13	!	!	PUNCT	_	_	_	_	Gloss=punct

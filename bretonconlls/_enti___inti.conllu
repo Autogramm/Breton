@@ -4,13 +4,13 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	marteze	marteze	?		_	_	_	_	Gloss=peut.être
-2	c'hoazh	c'hoazh	?		_	_	_	_	Gloss=encore
-3	ez	ez	?		_	_	_	_	Gloss=R
-4	eus	ezeus	?		_	_	_	_	Gloss=est
-5	deut	dont.-et(Adj.)	verbe.?		_	_	_	_	Gloss=ven.u
-6	eun	art	?		_	_	_	_	Gloss=un
-7	nevezenti..	nevez.-enti	adjectif.?		_	_	_	_	Gloss=nouveau.té
+1	marteze	marteze	?	_	_	_	_	_	Gloss=peut.être
+2	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eus	ezeus	?	_	_	_	_	_	Gloss=est
+5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	nevezenti..	nevez.-enti	adjectif.?	_	_	_	_	_	Gloss=nouveau.té
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:14)__1
@@ -19,10 +19,10 @@
 # source = Riou (1941)
 # texttype = Références de corpus
 1	N'	N'	?	1	_	_	_	_	Gloss=ne
-2	onzont	gouzout	verbe-auxiliaire		_	_	_	_	Gloss=savent
-3	ket	ket	adverbe		_	_	_	_	Gloss=pas
-4	c'hoaz	c'hoazh	?		_	_	_	_	Gloss=encore
-5	an	art	?		_	_	_	_	Gloss=un
-6	nevezenti	nevez	adjectif		_	_	_	_	Gloss=nouveau
-7	veur	meur	quantifieur		_	_	_	_	Gloss=énorme
+2	onzont	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savent
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	an	art	?	_	_	_	_	_	Gloss=un
+6	nevezenti	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+7	veur	meur	quantifieur	_	_	_	_	_	Gloss=énorme
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

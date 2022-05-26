@@ -2,18 +2,18 @@
 # text = Ar paotr koz a ra laourassennoù runkunuz kenkoulz en ti evel er-mêz.
 # text_fr =  'Le vieux lance de gros crachats dégoûtants, tant dans la maison que dehors.'
 # source = Gros (1984)
-1	Ar	art	?		_	_	_	_	Gloss=le
-2	paotr	paotr	nom		_	_	_	_	Gloss=gârs
-3	koz	kozh	adjectif		_	_	_	_	Gloss=vieux
-4	a	a	préposition		_	_	_	_	Gloss=R
-5	ra	ober	verbe-auxiliaire		_	_	_	_	Gloss=fait
-6	laourassennoù	-as.-enn.-où(PL.)	nom.nom.?		_	_	_	_	Gloss=sfx.SG.PL
-7	runkunuz	-uz	?		_	_	_	_	Gloss=Adj
-8	kenkoulz	kenkoulz	?		_	_	_	_	Gloss=autant
-9	en	P.e.art	?.?		_	_	_	_	Gloss=en.le
-10	ti	ti	nom		_	_	_	_	Gloss=maison
-11	evel	evel	complémenteur-préposition		_	_	_	_	Gloss=comme
-12	er-mêz	er-maez	préposition-postposition		_	_	_	_	Gloss=dehors
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	paotr	paotr	nom	_	_	_	_	_	Gloss=gârs
+3	koz	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	laourassennoù	-as.-enn.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=sfx.SG.PL
+7	runkunuz	-uz	?	_	_	_	_	_	Gloss=Adj
+8	kenkoulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	ti	ti	nom	_	_	_	_	_	Gloss=maison
+11	evel	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+12	er-mêz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:26)__1
@@ -23,37 +23,37 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Pa	pa	complémenteur	1	_	_	_	_	Gloss=quand
-2	vehe	COP	?		_	_	_	_	Gloss=serait
-3	gwraet	ober	verbe-auxiliaire		_	_	_	_	Gloss=fait
-4	loeroù	loer.-où(PL.)	nom.?		_	_	_	_	Gloss=chaussette.s
-5	get	gant	?		_	_	_	_	Gloss=avec
-6	gargouilhennoù	gargouilhennoù	?		_	_	_	_	Gloss=gosiers
-7	ar	art	?		_	_	_	_	Gloss=le
+2	vehe	COP	?	_	_	_	_	_	Gloss=serait
+3	gwraet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	loeroù	loer.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussette.s
+5	get	gant	?	_	_	_	_	_	Gloss=avec
+6	gargouilhennoù	gargouilhennoù	?	_	_	_	_	_	Gloss=gosiers
+7	ar	art	?	_	_	_	_	_	Gloss=le
 8	baotred	paotr	nom	1	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ne	ne	?	1	_	_	_	_	Gloss=ne
-11	vankahe	mankout	verbe		_	_	_	_	Gloss=manquerait
-12	ket	ket	adverbe		_	_	_	_	Gloss=pas
-13	james	james	adverbe		_	_	_	_	Gloss=jamais
-14	!	!	?		_	_	_	_	Gloss=?
+11	vankahe	mankout	verbe	_	_	_	_	_	Gloss=manquerait
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	james	james	adverbe	_	_	_	_	_	Gloss=jamais
+14	!	!	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Riou(1941:125)__1
 # text = Penevet da andouilhennoù, ne vije ket bet c'hoaz echu ar brezel.
 # text_fr =  'Sans tes andouilles, la guerre ne serait pas finie.'
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Penevet	paneve	complémenteur-préposition		_	_	_	_	Gloss=si.ce.n'@est
+1	Penevet	paneve	complémenteur-préposition	_	_	_	_	_	Gloss=si.ce.n'@est
 2	da	da	préposition	1	_	_	_	_	Gloss=ton
-3	andouilhennoù	-où(PL.)	?		_	_	_	_	Gloss=s
+3	andouilhennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	ne	ne	?	1	_	_	_	_	Gloss=ne
-6	vije	COP	?		_	_	_	_	Gloss=serait
-7	ket	ket	adverbe		_	_	_	_	Gloss=pas
-8	bet	bet	?		_	_	_	_	Gloss=été
-9	c'hoaz	c'hoazh	?		_	_	_	_	Gloss=encore
-10	echu	echu	?		_	_	_	_	Gloss=fini
-11	ar	art	?		_	_	_	_	Gloss=le
-12	brezel	brezel	nom		_	_	_	_	Gloss=guerre
+6	vije	COP	?	_	_	_	_	_	Gloss=serait
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+10	echu	echu	?	_	_	_	_	_	Gloss=fini
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1947:§338)__1
@@ -61,15 +61,15 @@
 # text_fr =  'des nuages, un peu de nuages, quelque nuage.'
 # source = Kervella (1947)
 # texttype = Ouvrages de recherche
-1	un	art	?		_	_	_	_	Gloss=un
-2	nebeut	nebeut	quantifieur		_	_	_	_	Gloss=peu
-3	koumoul	koumoul	nom		_	_	_	_	Gloss=nuages
-4	=	=	?		_	_	_	_	Gloss=
-5	koumoulennoù	koumoul	nom		_	_	_	_	Gloss=nuages
-6	=	=	?		_	_	_	_	Gloss=
-7	ur	art	?		_	_	_	_	Gloss=un
-8	goumoulenn	koumoul	nom		_	_	_	_	Gloss=nuage
-9	bennak	bennak	adjectif-quantifieur		_	_	_	_	Gloss=quelque/quelconque
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+3	koumoul	koumoul	nom	_	_	_	_	_	Gloss=nuages
+4	=	=	?	_	_	_	_	_	Gloss=
+5	koumoulennoù	koumoul	nom	_	_	_	_	_	Gloss=nuages
+6	=	=	?	_	_	_	_	_	Gloss=
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	goumoulenn	koumoul	nom	_	_	_	_	_	Gloss=nuage
+9	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelque/quelconque
 
 # sent_id = Drezen(1932:9)__1
 # text = o tarlipat enezennoù diniverus
@@ -77,6 +77,6 @@
 # source = Drezen (1932)
 # texttype = Références de corpus
 1	o	particuleo	?	4	_	_	_	_	Gloss=à]
-2	tarlipat	tar-.lipat	?.?		_	_	_	_	Gloss=pfx.lécher
-3	enezennoù	enez.nomcollectif.-enn.-où(PL.)	nom.?.nom.?		_	_	_	_	Gloss=île.s.SG.s
-4	diniverus	di-	?		_	_	_	_	Gloss=in
+2	tarlipat	tar-.lipat	?.?	_	_	_	_	_	Gloss=pfx.lécher
+3	enezennoù	enez.nomcollectif.-enn.-où(PL.)	nom.?.nom.?	_	_	_	_	_	Gloss=île.s.SG.s
+4	diniverus	di-	?	_	_	_	_	_	Gloss=in

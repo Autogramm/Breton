@@ -4,12 +4,12 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Yoñ	pfi	?		_	_	_	_	Gloss=lui
-2	zo	zo	?		_	_	_	_	Gloss=est
+1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	daou	numérauxcardinaux	?	1	_	_	_	_	Gloss=deux]
-4	vet'	metr	?		_	_	_	_	Gloss=mètre
-5			?		_	_	_	_	Gloss=?
-6	chirijenn	hir	adjectif		_	_	_	_	Gloss=long
+4	vet'	metr	?	_	_	_	_	_	Gloss=mètre
+5			?	_	_	_	_	_	Gloss=?
+6	chirijenn	hir	adjectif	_	_	_	_	_	Gloss=long
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger(2004a:134)__1
@@ -17,8 +17,8 @@
 # text_fr =  'J'ai été pauvre ma petite fille.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	'	paour	adjectif		_	_	_	_	Gloss=pauvre
-2	pauum	COP	?		_	_	_	_	Gloss=suis
-3	be	COP	?		_	_	_	_	Gloss=été
+1	'	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+2	pauum	COP	?	_	_	_	_	_	Gloss=suis
+3	be	COP	?	_	_	_	_	_	Gloss=été
 4	va	POSS	?	2	_	_	_	_	Gloss=mon
-5	meXijɛn	merc'h	?		_	_	_	_	Gloss=fille
+5	meXijɛn	merc'h	?	_	_	_	_	_	Gloss=fille

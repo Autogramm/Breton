@@ -4,10 +4,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Redek	redek	verbe		_	_	_	_	Gloss=courir
+1	Redek	redek	verbe	_	_	_	_	_	Gloss=courir
 2	a	a	préposition	1	_	_	_	_	Gloss=R
-3	rae	ober	verbe-auxiliaire		_	_	_	_	Gloss=faisait
-4	par	par	préposition-nom		_	_	_	_	Gloss=comme
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	par	par	préposition-nom	_	_	_	_	_	Gloss=comme
 5	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
-6	c'helle	gallout	verbe		_	_	_	_	Gloss=pouvait
+6	c'helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

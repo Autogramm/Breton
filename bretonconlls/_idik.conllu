@@ -3,10 +3,10 @@
 # text_fr =  'Elle est devenue riche en travaillant beaucoup.'
 # source = Fave (1998:133)
 1	O	particuleo	?	4	_	_	_	_	Gloss=à]
-2	labourad	labourat	verbe		_	_	_	_	Gloss=travailler
-3	kalz	kalz	adverbe-quantifieur-déterminant		_	_	_	_	Gloss=beaucoup
-4	eo	COP	verbe-auxiliaire		_	_	_	_	Gloss=est
-5	savet	sevel	verbe		_	_	_	_	Gloss=monté
+2	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
+3	kalz	kalz	adverbe-quantifieur-déterminant	_	_	_	_	_	Gloss=beaucoup
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	savet	sevel	verbe	_	_	_	_	_	Gloss=monté
 6	da	da	préposition	1	_	_	_	_	Gloss=à
-7	binvidig	pinvidik	adjectif		_	_	_	_	Gloss=riche
+7	binvidig	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

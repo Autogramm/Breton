@@ -6,11 +6,11 @@
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
 1	A-baouez	a	préposition	1	_	_	_	_	Gloss=de
-2	ez	ez	?		_	_	_	_	Gloss=R
-3	eo	COP	verbe-auxiliaire		_	_	_	_	Gloss=est
-4	tremenet	tremen	verbe		_	_	_	_	Gloss=passé
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	tremenet	tremen	verbe	_	_	_	_	_	Gloss=passé
 5	dre	dre	préposition	1	_	_	_	_	Gloss=par
-6	amañ	amañ	?		_	_	_	_	Gloss=ici
+6	amañ	amañ	?	_	_	_	_	_	Gloss=ici
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(2014:'a-baouez')__1
@@ -19,15 +19,15 @@
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
-1	A	A	préposition		_	_	_	_	Gloss=
-2	:	:	?		_	_	_	_	Gloss=?
-3	Savet	sevel.-et(Adj.)	verbe.?		_	_	_	_	Gloss=lev.é
-4	out	COP	?		_	_	_	_	Gloss=es
-5	?	?	?		_	_	_	_	Gloss=?
-6	B	B	?		_	_	_	_	Gloss=
-7	:	:	?		_	_	_	_	Gloss=?
+1	A	A	préposition	_	_	_	_	_	Gloss=
+2	:	:	?	_	_	_	_	_	Gloss=?
+3	Savet	sevel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=lev.é
+4	out	COP	?	_	_	_	_	_	Gloss=es
+5	?	?	?	_	_	_	_	_	Gloss=?
+6	B	B	?	_	_	_	_	_	Gloss=
+7	:	:	?	_	_	_	_	_	Gloss=?
 8	-	-	PUNCT	_	_	_	_	Gloss=punct
-9	A-baouez.	A-baouez.	?		_	_	_	_	Gloss=?
+9	A-baouez.	A-baouez.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Konan(2017:25)__1
 # text = A-baouez ne vefe ket echu da labour
@@ -38,8 +38,8 @@
 # texttype = Ouvrages de recherche
 1	A-baouez	a	préposition	1	_	_	_	_	Gloss=de
 2	ne	ne	?	1	_	_	_	_	Gloss=ne
-3	vefe	COP	?		_	_	_	_	Gloss=serait
-4	ket	ket	adverbe		_	_	_	_	Gloss=pas
-5	echu	echu	?		_	_	_	_	Gloss=fini
+3	vefe	COP	?	_	_	_	_	_	Gloss=serait
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	echu	echu	?	_	_	_	_	_	Gloss=fini
 6	da	da	préposition	1	_	_	_	_	Gloss=ton
-7	labour	labour	nom		_	_	_	_	Gloss=travail
+7	labour	labour	nom	_	_	_	_	_	Gloss=travail

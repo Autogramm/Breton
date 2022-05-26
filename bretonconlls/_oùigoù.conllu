@@ -4,18 +4,18 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	an	art	?		_	_	_	_	Gloss=le
-2	tonnouigoù	tonn.tonnouigoù	nom.?		_	_	_	_	Gloss=flot.DIM
-3	stank	stank	adjectif-quantifieur-adverbe		_	_	_	_	Gloss=nombreux
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	tonnouigoù	tonn.tonnouigoù	nom.?	_	_	_	_	_	Gloss=flot.DIM
+3	stank	stank	adjectif-quantifieur-adverbe	_	_	_	_	_	Gloss=nombreux
 
 # sent_id = AlLay(1925:107)__1
 # text = tammouigou dilhad da vont d'an ôd
 # text_fr =  'des pièces d'habits pour aller en mer'
 # source = Al Lay (1925)
 # texttype = Références de corpus
-1	dilhad	dilhad	nom		_	_	_	_	Gloss=habits
+1	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
 2	da	da	préposition	1	_	_	_	_	Gloss=pour
-3	vont	mont	verbe		_	_	_	_	Gloss=aller
+3	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 4	d'	da	préposition	1	_	_	_	_	Gloss=à
-5	an	art	?		_	_	_	_	Gloss=le
-6	ôd	aod	nom		_	_	_	_	Gloss=côte
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	ôd	aod	nom	_	_	_	_	_	Gloss=côte
