@@ -1,0 +1,12 @@
+# sent_id = HorYezh(1983:25)__1
+# text = Papa gave ket aes anezhañ ar matelaouioù.
+# text_fr =  'Papa ne trouvait pas les matelas pratiques.' 
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	gave	kavout	verbe	1	_	_	_	_	Gloss=trouvait
+2	ket	ket	adverbe		_	_	_	_	Gloss=pas
+3	aes	aes	adjectif		_	_	_	_	Gloss=facile
+4	anezhañ	a.pronomincorporé	préposition.?		_	_	_	_	Gloss=P.lui
+5	ar	art	?		_	_	_	_	Gloss=le
+6	matelaouioù	-où(PL.)	?		_	_	_	_	Gloss=s
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

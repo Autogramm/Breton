@@ -1,0 +1,11 @@
+# sent_id = Gros(1984:356)__1
+# text = E wreg a zo eur vrizardenn.
+# text_fr =  'Sa femme est marquée de taches de rousseur.'
+# source = Gros (1984)
+1	E	POSS	?	1	_	_	_	_	Gloss=son
+2	wreg	gwreg	nom		_	_	_	_	Gloss=femme
+3	a	a	préposition		_	_	_	_	Gloss=R
+4	zo	COP	?		_	_	_	_	Gloss=est
+5	eur	art	nom		_	_	_	_	Gloss=un
+6	vrizardenn	brizh.-ard.-enn	adjectif.?.nom		_	_	_	_	Gloss=moucheté.Adj.1.fém
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

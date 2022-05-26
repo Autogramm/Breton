@@ -1,0 +1,13 @@
+# sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
+# text = Kê beteg an droidell da droi da garr.
+# text_fr =  'Va jusqu'au petit décrochage de la route pour faire demi-tour.' 
+# source = Le Gall (1958)
+1	Kê	mont	verbe		_	_	_	_	Gloss=va
+2	beteg	betek	complémenteur-préposition		_	_	_	_	Gloss=est
+3	an	art	?		_	_	_	_	Gloss=le
+4	droidell	treiñ	verbe	1	_	_	_	_	Gloss=tourne]].?.[[-ell|ette
+5	da	da	préposition	1	_	_	_	_	Gloss=pour
+6	droi	treiñ	verbe		_	_	_	_	Gloss=tourne
+7	da	da	préposition	1	_	_	_	_	Gloss=ton
+8	garr	karr	nom		_	_	_	_	Gloss=voiture
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
