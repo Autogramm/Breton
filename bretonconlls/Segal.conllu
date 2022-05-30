@@ -1,0 +1,12 @@
+# sent_id = ArBorgn(2011:11)__1
+# text = Segal ' zegas segal.
+# text_fr = 'L'argent amène l'argent.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Segal	Segal	nom	_	_	_	_	_	Gloss=seigle
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+3			PUNCT	_	_	_	_	Gloss=punct
+4	zegas	degas	verbe	_	_	_	_	_	Gloss=amène
+5	segal	segal	nom	_	_	_	_	_	Gloss=seigle
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

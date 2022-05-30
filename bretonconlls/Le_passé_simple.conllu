@@ -1,0 +1,92 @@
+# sent_id = arGow(1999:31)__2
+# text = Kement a vall a oa warnañ da vont kuit ma lezas e holl zanvez war e lerc'h.
+# text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
+# location = Pleyben
+# source = ar Gow (1999)
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	vall	mall	nom	_	_	_	_	_	Gloss=hâte
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+11	lezas	lezel	?	_	_	_	_	_	Gloss=laissa
+12	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+14	war	war-lerc'h	?	_	_	_	_	_	Gloss=sur.son.suite
+15	e	e	?	_	_	_	_	_	Gloss=?
+16	lerc'h.	lerc'h.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Denez(1993:33)__1
+# text = Lojañ-dilojañ a reas ar familh, ken na reas.
+# text_fr = 'La famille déménagea tant et tant.' (sans fin)
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	Lojañ-dilojañ	Xdi-X	?	_	_	_	_	_	Gloss=di
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	familh	familh	nom	_	_	_	_	_	Gloss=famille
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:81)__3
+# text = Heñv a foetas e zanvez o ren ur vuhez diroll.
+# text_fr = 'Il mangea tout son bien en menant une vie dissolue.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Heñv	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	foetas	foetañ	verbe	_	_	_	_	_	Gloss=fouetta
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	zanvez	danvez	nom	_	_	_	_	_	Gloss=matière
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	ren	ren	verbe	_	_	_	_	_	Gloss=mener
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+10	diroll	diroll	verbe	_	_	_	_	_	Gloss=dissolu
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bottineau(2010b:117)__1
+# text = E 1986 e { tarzhas / [[*]] tarzhe } un dazloc’her e kreizenn nukleel Tchernobyl en Ukrania.
+# text_fr = 'En 1986 explosait un réacteur de la centrale nucléaire de Tchernobyl, en Ukraine.'
+# source = Bottineau (2010b)
+# texttype = Ouvrages de recherche
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	1986	1986	?	_	_	_	_	_	Gloss=1986
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	{	tarzhañ	verbe	_	_	_	_	_	Gloss=explosa
+5	tarzhas	tarzhas	?	_	_	_	_	_	Gloss=/
+6	/	/	PUNCT	_	_	_	_	Gloss=punct
+7	[[*]]	tarzhañ	verbe	_	_	_	_	_	Gloss=explosait
+8	tarzhe	tarzhe	?	_	_	_	_	_	Gloss=?
+9	}	}	?	_	_	_	_	_	Gloss=?
+10	un	art	?	_	_	_	_	_	Gloss=un
+11	dazloc’her	dazloc’her	?	_	_	_	_	_	Gloss=réacteur
+12	e	P.e	?	_	_	_	_	_	Gloss=en
+13	kreizenn	kreiz.-enn	nom.nom	_	_	_	_	_	Gloss=centre.SG
+14	nukleel	nukleel	?	_	_	_	_	_	Gloss=nucléaire
+15	Tchernobyl	nompropre	?	_	_	_	_	_	Gloss=Tchernobyl
+16	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+17	Ukrania	nompropre	?	_	_	_	_	_	Gloss=Ukraine
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaille,ArScao(1945)__1
+# text = Herri IV a zistolas ar hargou.
+# text_fr = 'Henri IV abaissa les impôts.'
+# dialect = Cornouaillais
+# source = Ar Scao (1945)
+# texttype = Ouvrages de recherche
+1	Herri	Herri	?	_	_	_	_	_	Gloss=[[nompropre|Henri
+2	IV	IV	?	_	_	_	_	_	Gloss=IV]]]
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zistolas	di-,dis-.taoler	?.?	_	_	_	_	_	Gloss=dé.jeter
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	hargou	karg	nom	_	_	_	_	_	Gloss=charge]].[[-où(PL.)|s]|Morph=5
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

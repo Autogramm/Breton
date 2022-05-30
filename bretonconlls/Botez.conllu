@@ -1,0 +1,53 @@
+# sent_id = Konan(2017:30)__1
+# text = Lakaet ac'h eus da votoù en andu.
+# text_fr = 'Tu as mis tes chaussures à l'envers.'
+# dialect = Trégorrois
+# location = Perros-guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+2	ac'h	ac'h	?	_	_	_	_	_	Gloss=R
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+5	votoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	andu	an-,am-	?	_	_	_	_	_	Gloss=dé]|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(2011:9)__1
+# text = eur boutou, eur re voutou
+# text_fr = 'une paire de chaussures'
+# source = Merser (2011)
+# texttype = Ouvrages de recherche
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	boutou	-où	?	_	_	_	_	_	Gloss=s
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	re	re	adverbe	_	_	_	_	_	Gloss=1
+6	voutou	-où	?	_	_	_	_	_	Gloss=s
+
+# sent_id = Bijer(2003:14)__1
+# text = Hag ar votez-lèr-mañ ?
+# text_fr = 'Et cette chaussure ?'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2003)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+3	votez-lèr-mañ	ler	nom	_	_	_	_	_	Gloss=cuir
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:21)__1
+# text = Botou-ler kaer ouz e dreid.
+# text_fr = 'Il avait de belles chaussures de cuir aux pieds.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Botou-ler	-où(PL.).ler	?.nom	_	_	_	_	_	Gloss=s.cuir
+2	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+3	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

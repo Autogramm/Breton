@@ -1,0 +1,18 @@
+# sent_id = Drezen(1932:5)__1
+# text = N'oa nemedon er straed, etre an tiez liv an dienn.
+# text_fr = 'Il n'y avait dans la rue que moi, entre les maisons crème.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	nemedon	nemet.pronomincorporé	conjonction-adverbe-complémenteur.?	_	_	_	_	_	Gloss=seulement.moi
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	straed	straed	nom	_	_	_	_	_	Gloss=rue
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	etre	etre	préposition	_	_	_	_	_	Gloss=entre
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	tiez	ti.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=maison.s
+10	liv	liv	nom	_	_	_	_	_	Gloss=couleur
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

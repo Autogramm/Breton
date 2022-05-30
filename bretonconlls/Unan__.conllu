@@ -1,0 +1,12 @@
+# sent_id = Gros(1984:367)__1
+# text = En noz-mañ e-neus greet eun nozvez, unan !
+# text_fr = 'Cette nuit, il en a fait une nuit épouvantable !'
+# source = Gros (1984)
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	noz-mañ	noz	nom	_	_	_	_	_	Gloss=nuit
+3	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	eun	art	?	_	_	_	_	_	Gloss=un
+5	nozvez	noz.-vezh	nom.nom	_	_	_	_	_	Gloss=nuit.ée
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=1
+8	!	!	PUNCT	_	_	_	_	Gloss=punct

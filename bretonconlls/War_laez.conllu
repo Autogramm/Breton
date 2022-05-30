@@ -1,0 +1,95 @@
+# sent_id = Elégoët(1982:27)__1
+# text = war-laez e peus un all evit dalc'her anezhañ dres.
+# text_fr = '... en haut tu en as un autre pour le tenir droit.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	war-laez	war	adverbe	_	_	_	_	_	Gloss=sur
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	peus	kaout	?	_	_	_	_	_	Gloss=as
+4	un	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	all	all	?	_	_	_	_	_	Gloss=autre
+6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	dalc'her	derc'hel	?	_	_	_	_	_	Gloss=garder
+8	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	dres	dres	adverbe-adjectif	_	_	_	_	_	Gloss=droit
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__46
+# text = savet war-laez hag e tiskenned daou-ha-daou, med me 'm-oa tamm kavalier.
+# text_fr = 'On est montés et on descendait deux-à-deux, mais moi je n'avais pas de cavalier.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	savet	sevel	verbe	_	_	_	_	_	Gloss=monté
+2	war-laez	war	adverbe	_	_	_	_	_	Gloss=sur
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	tiskenned	diskenn.IMP	verbe.?	_	_	_	_	_	Gloss=descendait.on
+6	daou-ha-daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+9	me	pfi	?	_	_	_	_	_	Gloss=moi
+10	'	kaout	?	_	_	_	_	_	Gloss=avait
+11	m-oa	m-oa	?	_	_	_	_	_	Gloss=?
+12	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+13	kavalier	kavalier	?	_	_	_	_	_	Gloss=cavalier
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:21)__1
+# text = Eur gwaz a oe karget da vond war-laez…
+# text_fr = 'Un homme fut chargé de monter.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Eur	art	nom	_	_	_	_	_	Gloss=un
+2	gwaz	gwaz	?	_	_	_	_	_	Gloss=homme
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oe	COP	?	_	_	_	_	_	Gloss=fut
+5	karget	kargañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=charg.é
+6	vond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	war-laez…	war	?	_	_	_	_	_	Gloss=sur
+
+# sent_id = Elégoët(1982:14)__7
+# text = Pa deu ar mor war-laez...
+# text_fr = 'Quand la marée monte... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	deu	dont	verbe	_	_	_	_	_	Gloss=vient
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	mor	mor	nom	_	_	_	_	_	Gloss=mer
+5	war-laez..	war	?	_	_	_	_	_	Gloss=sur
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:30)__1
+# text = Hennezh a zo neuze, pa'z ay ar c'harr kuites dabord, da avañs ar vag adarre war laez.
+# text_fr = 'Quand la charrette s'en ira tout à l'heure, elle (la perche) servira à faire avancer le bateau.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	pa'	pa	complémenteur	_	_	_	_	_	Gloss=quand
+7	z	z	?	_	_	_	_	_	Gloss=?
+8	ay	mont	verbe	_	_	_	_	_	Gloss=ira
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture|Morph=5
+11	kuites	kuit	postposition	_	_	_	_	_	Gloss=parti
+12	dabord	dabort	adverbe	_	_	_	_	_	Gloss=bientôt
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+15	avañs	avañs	?	_	_	_	_	_	Gloss=avancer
+16	ar	art	?	_	_	_	_	_	Gloss=le
+17	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+18	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
+19	war	war	?	_	_	_	_	_	Gloss=sur
+20	laez.	laez.	?	_	_	_	_	_	Gloss=?

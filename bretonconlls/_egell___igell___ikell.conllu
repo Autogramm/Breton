@@ -1,42 +1,42 @@
 # sent_id = Gros(1970b:§)__1
 # text = eur fankigell ha na ziseh kammed.
-# text_fr =  'un bourbier qui ne dessèche jamais.'
+# text_fr = 'un bourbier qui ne dessèche jamais.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	eur	art	nom	_	_	_	_	_	Gloss=un
 2	fankigell	fankigell	?	_	_	_	_	_	Gloss=boue.sfx
 3	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-4	na	na	?	1	_	_	_	_	Gloss=ne
+4	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
 5	ziseh	di-.sec'h	?.?	_	_	_	_	_	Gloss=dé-.sèche
 6	kammed	kammed	adverbe	_	_	_	_	_	Gloss=jamais
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id =  Haut-vannetais (Plouhinec), Le Bozec (2018) __1
 # text = Ni o lake àr ar garrikell...
-# text_fr =  'Nous les mettions sur la brouette... '
+# text_fr = 'Nous les mettions sur la brouette... '
 # text_phon = ['/nɛj', 'u lake', "a'@r garʧɛl /"]
 1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
 2	o	POP	?	_	_	_	_	_	Gloss=les
 3	lake	lakaat	verbe	_	_	_	_	_	Gloss=mettait
 4	àr	war	?	_	_	_	_	_	Gloss=sur
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	garrikell..	karr	nom	1	_	_	_	_	Gloss=char
+6	garrikell..	karr	nom	_	_	_	_	_	Gloss=char|Morph=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herri(1982:85)__1
 # text = Ret e oa pouezañ war an droadikell pe heuliañ anezhi.
-# text_fr =  'Il fallait pousser sur les pédales, ou les suivre.'
+# text_fr = 'Il fallait pousser sur les pédales, ou les suivre.'
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	e	e	?	4	_	_	_	_	Gloss=R
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	pouezañ	pouezañ	verbe	_	_	_	_	_	Gloss=peser
 5	war	war	?	_	_	_	_	_	Gloss=sur
 6	an	art	?	_	_	_	_	_	Gloss=le
 7	droadikell	troad	nom	_	_	_	_	_	Gloss=pied
-8	pe	pe	complémenteur-conjonction	1	_	_	_	_	Gloss=ou
+8	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
 9	heuliañ	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
 10	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,100 @@
+# sent_id = Plougerneau,M-L.B(10/2018)__1
+# text = Ar vugale n'int ket kouezhet.
+# text_fr = 'Les enfants ne sont pas tombés.'
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'beuan')__1
+# text = Ma redoñ re veuan e gouiyin.
+# text_fr = 'Si je cours trop vite, je tomberai.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	redoñ	redek	verbe	_	_	_	_	_	Gloss=cours
+3	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
+4	veuan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+5	e	e	?	_	_	_	_	_	Gloss=1
+6	gouiyin	gouiyin	?	_	_	_	_	_	Gloss=tomberai
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:25)__4
+# text = Just 'oa bet din kouezho.
+# text_fr = 'J'ai failli tomber.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	kouezho	kouezho	?	_	_	_	_	_	Gloss=tomber
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:421)__1
+# text = Me zo mank't kouél.
+# text_fr = 'J'ai failli tomber.'
+1	Me	Me	?	_	_	_	_	_	Gloss=Me
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	mank'	mank'	?	_	_	_	_	_	Gloss=manket
+4	t	t	préposition	_	_	_	_	_	Gloss=da
+5	kouél	kouél	?	_	_	_	_	_	Gloss=gouezhañ.
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  collecté par B. Allaire, [http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.html dico parlants 2018]  __1
+# text = Imeingn tout i koéh !
+# text_fr = 'Ils sont tous en train de tomber!' (les brugnons)
+# source2 =  Vannetais (Riantec), RJ.,
+1	Imeingn	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+3	i	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	koéh	koéh	?	_	_	_	_	_	Gloss=tomber
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:320)__1
+# text = /məmbez ãn ra-kweɲ /
+# text_fr = 'J'ai peur de tomber.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/məmbez	pfi.kaout	?.?	_	_	_	_	_	Gloss=moi.a
+2	ãn	aon	nom	_	_	_	_	_	Gloss=peur
+3	ra-kweɲ	rak	?	_	_	_	_	_	Gloss=de
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:22)__5
+# text = Dre-se ne gouezhe ket nemeur a wenneien en ti...
+# text_fr = 'À cause de ça il n’y avait pas beaucoup d’argent dans le ménage... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Dre-se	dre	préposition	_	_	_	_	_	Gloss=par
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	gouezhe	gouezhe	?	_	_	_	_	_	Gloss=tombait
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	nemeur	nemeur	adverbe	_	_	_	_	_	Gloss=guère
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	wenneien	gwenneg	nom	_	_	_	_	_	Gloss=sous
+8	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	ti..	ti	nom	_	_	_	_	_	Gloss=maison
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite&Stéphan(1957:141),citantTaldir__1
+# text = An noz a oa kouezet.
+# text_fr = 'La nuit était tombée.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	kouezet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

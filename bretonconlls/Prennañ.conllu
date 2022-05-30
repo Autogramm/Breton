@@ -1,0 +1,13 @@
+# sent_id = Stephens(1982:247)__1
+# text = An nor-se a vo red prenna anezhi.
+# text_fr = 'Cette porte, il faudra la fermer.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	nor-se	dor	nom	_	_	_	_	_	Gloss=porte
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	red	ret	?	_	_	_	_	_	Gloss=obligé
+6	prenna	prenna	?	_	_	_	_	_	Gloss=fermer
+7	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

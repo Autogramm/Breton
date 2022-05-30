@@ -1,0 +1,51 @@
+# sent_id = Douarnenez,kontañkaoz(12/2017)__1
+# text = Kramm ar vugale
+# text_fr = 'la chambre des enfants'
+1	Kramm	Kramm	?	_	_	_	_	_	Gloss=chambre
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id =  Plogoneg, kontañ kaoz (12/2017)__1
+# text =  Degaset meus ma gasketenn ganin.
+# text_fr = 'J'ai emmené ma casquette.'
+1	??	??	?	_	_	_	_	_	Gloss=*
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Degaset	Degaset	?	_	_	_	_	_	Gloss=Kaset
+4	meus	meus	?	_	_	_	_	_	Gloss=meus
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=ma
+6	gasketenn	gasketenn	?	_	_	_	_	_	Gloss=gasketenn
+7	ganin	ganin	?	_	_	_	_	_	Gloss=ganin.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Planiel,M-N.Kadour-LeGonidec,kontañkaoz(12/2017)__1
+# text = An dud n’eo ket bras.
+# text_fr = 'Les gens ne sont pas grands.'
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Planiel,M-N.Kadour-LeGonidec,kontañkaoz(12/2017)__1
+# text = kambr / [[*]] (ar) gambr ar vugale
+# text_fr = 'la chambre des enfants'
+1	kambr	kambr	nom	_	_	_	_	_	Gloss=chambre
+2	/	/	PUNCT	_	_	_	_	Gloss=punct
+3	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=?
+4	(ar)	(ar)	?	_	_	_	_	_	Gloss=?
+5	gambr	gambr	?	_	_	_	_	_	Gloss=?
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id = Plougerne,YvonneP.,kontañkaoz(12/2017)__1
+# text = Breinañ a reont ar patatez_PL_ e-barzh ar boutot.
+# text_fr = 'Dans le panier, les patates pourrissent.'
+1	Breinañ	brein.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=pourr.ir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	patatez_PL_	patatez	nom	_	_	_	_	_	Gloss=patates
+6	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	boutot	boutot	?	_	_	_	_	_	Gloss=panier
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

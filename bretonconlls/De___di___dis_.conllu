@@ -1,0 +1,159 @@
+# sent_id = ArMoal(1902:12)__1
+# text = O tislavared kement-se, ar plah paour a grene.
+# text_fr = 'En disant cela, la pauvre femme tremblait.'
+# dialect = Trégorrois
+# location = Tréguier
+# source = Ar Moal (1902)
+# texttype = Références de corpus
+1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	tislavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+3	kement-se	kement.se	quantifieur-déterminant.pronom	_	_	_	_	_	Gloss=autant.ça
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	plah	plac'h	?	_	_	_	_	_	Gloss=femme
+7	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+8	a	a	préposition	_	_	_	_	_	Gloss=a|Morph=1
+9	grene	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=tremblait
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:152).__1
+# text = Goude e vezont bloñset ha dibloñset tout evel-just.
+# text_fr = 'Après, ils sont meurtris bien sûr.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	bloñset	bloñset	?	_	_	_	_	_	Gloss=tapé
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	dibloñset	dibloñset	?	_	_	_	_	_	Gloss='@'@dé'@'@-tapé
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sur
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = 'Raoul,titred'article',HorYezh(1996)__1
+# text = Roll ar c'helaouennoù brezhonek adalek dibenn an eil brezel-bed
+# text_fr = 'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
+# source = Hor Yezh
+1	Roll	roll	?	_	_	_	_	_	Gloss=liste
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]|Morph=5
+4	brezhonek	brezhonek	?	_	_	_	_	_	Gloss=breton
+5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
+6	dibenn	dibenn.penn	?.nom	_	_	_	_	_	Gloss=1.fin
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	eil	ordinal	pronom	_	_	_	_	_	Gloss=second
+9	brezel-bed	brezel	nom	_	_	_	_	_	Gloss=guerre
+
+# sent_id = Cornillet(2008:237)__1
+# text = adal m' en deus klevet ar c'heloù, ez eo deredet.
+# text_fr = 'Il s'est enfuit dès qu'il a entendu la nouvelle.'
+# source = Cornillet (2008)
+# texttype = Ouvrages de recherche
+1	adal	adalek	?	_	_	_	_	_	Gloss=depuis
+2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3			PUNCT	_	_	_	_	Gloss=punct
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	c'heloù	keloù	?	_	_	_	_	_	Gloss=nouvelles|Morph=5
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ez	ez	?	_	_	_	_	_	Gloss=R
+11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+12	deredet	redek	verbe	_	_	_	_	_	Gloss=encourru
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes (1970:319)__2
+# text = e-diaraok d'an ti
+# text_fr = 'devant la maison.'
+# text_phon = ['/e-dijaro:k', 't-ənti /']
+1	e-diaraok	P.e.araok	?.?	_	_	_	_	_	Gloss=à.avant
+2	d'	da.art.ti	préposition.?.nom	_	_	_	_	_	Gloss=de.le.maison
+3	an	an	?	_	_	_	_	_	Gloss=?
+4	ti	ti	nom	_	_	_	_	_	Gloss=?
+
+# sent_id =  Plogonnec, kontañ kaoz (12/2017)__1
+# text =  Degaset meus ma gasketenn ganin.
+# text_fr = 'J'ai emmené ma casquette.'
+1	??	??	?	_	_	_	_	_	Gloss=*
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Degaset	Degaset	?	_	_	_	_	_	Gloss=Kaset
+4	meus	meus	?	_	_	_	_	_	Gloss=meus
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=ma
+6	gasketenn	gasketenn	?	_	_	_	_	_	Gloss=gasketenn
+7	ganin	ganin	?	_	_	_	_	_	Gloss=ganin.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:57)__1
+# text = Sell doc'h ar yér é tiskrabellat al leurenn.
+# text_fr = 'Regarde les poules qui grattent l'aire.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	doc'h	diouzh	préposition	_	_	_	_	_	Gloss=à
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	yér	yar.plurielinterne	nom.?	_	_	_	_	_	Gloss=poule.s
+5	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	tiskrabellat	skrabellat	verbe	_	_	_	_	_	Gloss=gratter
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	leurenn	leurenn	nom	_	_	_	_	_	Gloss=sol
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1933:58)__1
+# text = bremañ, avat, edo bras-disec'het...
+# text_fr = '... elle était cependant maintenant complètement desséchée.'
+# source = Kervella (1993)
+# texttype = Références de corpus
+1	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	avat	avat	adverbe	_	_	_	_	_	Gloss=cependant
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	edo	COP	?	_	_	_	_	_	Gloss=était
+6	bras-disec'het..	INT.sec'h.-et(Adj.)	?.?.?	_	_	_	_	_	Gloss=grand.sec.é
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:13)__1
+# text = an defotadou beb sizun: sukr, holen, kafe…
+# text_fr = 'les produits de nécessité hebdomadaires : sucre, sel, café… '
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	defotadou	de-.faotañ.-ach,-aj.-où(PL.)	?.verbe.?.?	_	_	_	_	_	Gloss=pfx.faut.N.PL
+3	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+4	sizun:	sizhun	nom	_	_	_	_	_	Gloss=semaine
+5	sukr	sukr	nom	_	_	_	_	_	Gloss=sucre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	holen	holen	nom	_	_	_	_	_	Gloss=sel
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	kafe…	kafe	nom	_	_	_	_	_	Gloss=café
+
+# sent_id = Bouzeg(1986:30)__1
+# text = Gav ket nen aes boût dikriet.
+# text_fr = 'On n'aime pas être critiqué.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Gav	kavout	verbe	_	_	_	_	_	Gloss=trouve|Morph=1
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	nen	IMP	?	_	_	_	_	_	Gloss=on
+4	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
+5	boût	bezan	?	_	_	_	_	_	Gloss=être
+6	dikriet	krial	verbe	_	_	_	_	_	Gloss=crié
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Pérennès(1938:248-9)__1
+# text = Dibonjour, plac'hik Penn-al-lenn !
+# text_fr = 'Bonjour, fillette de Penn-al-lenn !'
+# source = Pérennès (1938)
+# texttype = Références de corpus
+1	Dibonjour	Dibonjour	?	_	_	_	_	_	Gloss=pfx.bonjour
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	plac'hik	plac'h.plac'hik	?.?	_	_	_	_	_	Gloss=fille.DIM
+4	Penn-al-lenn	nompropre	?	_	_	_	_	_	Gloss=Penn-al-lenn
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,20 @@
+# sent_id = Gros(1984:262)__1
+# text = Mil lur e-nevoa bet, war veteg nebeud.
+# text_fr = 'Il avait reçu mille francs, à peu de choses près.'
+# source = Gros (1984)
+1	e-nevoa	kaout	?	_	_	_	_	_	Gloss=avait
+2	bet	kaout	?	_	_	_	_	_	Gloss=eu
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	veteg	veteg	?	_	_	_	_	_	Gloss=?
+6	nebeud	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMerser(2009:§'war-veteg')__1
+# text = war-veteg nebeut.
+# text_fr = 'à peu de choses près.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	war-veteg	war-veteg	?	_	_	_	_	_	Gloss=sur-jusqu'@à
+2	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+3	.	.	PUNCT	_	_	_	_	Gloss=punct

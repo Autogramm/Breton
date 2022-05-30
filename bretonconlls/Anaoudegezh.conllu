@@ -1,0 +1,17 @@
+# sent_id = ArGow(2005:56)__1
+# text = Hep mar ebet, he devoa graet anaoudegezh gant unan eus kizhier gouez an enez.
+# text_fr = 'Elle avait sans doute fait connaissance avec un des chats sauvages de l'île.'
+# source = Ar Gow (2005)
+1	Hep	hep	préposition	_	_	_	_	_	Gloss=sans
+2	mar	mar	nom	_	_	_	_	_	Gloss=doute
+3	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	he	he	?	_	_	_	_	_	Gloss=3SGF
+6	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	anaoudegezh	anavezout.-egezh	verbe.nom	_	_	_	_	_	Gloss=connais.ance
+9	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+11	eus	eus	?	_	_	_	_	_	Gloss=de
+12	kizhier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+13	gouez	gouez	adjectif	_	_	_	_	_	Gloss=sauvage

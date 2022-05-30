@@ -1,10 +1,10 @@
 # sent_id = Gros(1989:'a-droujouëz')__1
 # text = Hag eñ o vond a-droujouez war ar gwele.
-# text_fr =  'Et le voila qui tombe à la renverse, comme une masse, sur le lit.'
+# text_fr = 'Et le voila qui tombe à la renverse, comme une masse, sur le lit.'
 # source = Gros (1989)
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-3	o	particuleo	?	4	_	_	_	_	Gloss=de]
+3	o	particuleo	?	_	_	_	_	_	Gloss=de]|Morph=4
 4	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 5	a-droujouez	a-droujouez	adverbe	_	_	_	_	_	Gloss=en.masse
 6	war	war	?	_	_	_	_	_	Gloss=sur

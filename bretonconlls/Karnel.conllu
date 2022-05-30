@@ -1,0 +1,22 @@
+# sent_id = Giraudon(2014:60)__1
+# text = Kerlies korf maro ' zo ennañ hag ' zo en karnel er gêr-mañ.
+# text_fr = 'Il y a là autant de cadavres qu'il y en a dans l'ossuaire de la ville.'
+# dialect = Trégorrois
+# location = Gros
+# source = Giraudon (2014)
+# texttype = Ouvrages de recherche
+1	korf	korf	nom	_	_	_	_	_	Gloss=corps
+2	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+3	'	'	?	_	_	_	_	_	Gloss=R
+4			PUNCT	_	_	_	_	Gloss=punct
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+8	'	'	?	_	_	_	_	_	Gloss=R
+9			PUNCT	_	_	_	_	Gloss=punct
+10	zo	zo	?	_	_	_	_	_	Gloss=est
+11	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	karnel	karnel	nom	_	_	_	_	_	Gloss=ossuaire
+13	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+14	gêr-mañ	kêr	nom	_	_	_	_	_	Gloss=ville]]-[[DEM|ci|Morph=1
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

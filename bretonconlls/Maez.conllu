@@ -1,0 +1,58 @@
+# sent_id = Seite(1985:42)__1
+# text = Ar vistri-skol o-unan ne boulzent ket ar vugale da jom war ar mêz.
+# text_fr = 'Les instituteurs eux-mêmes ne poussaient pas les enfants à rester à la campagne.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1985)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vistri-skol	mestr	nom	_	_	_	_	_	Gloss=maître]].[[plurielinterne|s]]]-[[skol|école|Morph=1
+3	o-unan	POSS	?	_	_	_	_	_	Gloss=leur
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	boulzent	boulzent	?	_	_	_	_	_	Gloss=poussaient
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	jom	chom	verbe	_	_	_	_	_	Gloss=rester
+11	war	war	?	_	_	_	_	_	Gloss=sur
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	mêz	mêz	?	_	_	_	_	_	Gloss=dehors
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:XXIII)__1
+# text = Ar brezel a zo bet poblus d'ar c'hêrioù, diboblus d'ar maezioù.
+# text_fr = 'La guerre a augmenté la population des villes et diminué celle des campagnes.'
+# source = Vallée (1980)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	COP	?	_	_	_	_	_	Gloss=est
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	poblus	pobl.-us	nom.?	_	_	_	_	_	Gloss=peupl.ant
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	c'hêrioù	kêr	nom	_	_	_	_	_	Gloss=ville]].[[-où(PL.)|s]|Morph=1
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	diboblus	di-	?	_	_	_	_	_	Gloss=dé|Morph=1
+12	d'	da	préposition	_	_	_	_	_	Gloss=à
+13	ar	art	?	_	_	_	_	_	Gloss=le
+14	maezioù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:19)__2
+# text = Ar maezioù a oa glas, ken na oant glas.
+# text_fr = 'La campagne était des plus vertes.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	maezioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
+8	na	na	?	_	_	_	_	_	Gloss=que.ne
+9	oant	COP	?	_	_	_	_	_	Gloss=étaient
+10	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

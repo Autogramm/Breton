@@ -1,0 +1,93 @@
+# sent_id = Herrieu(1994:39)__1
+# text = Ha rac’h an dud-se a ra kenwerzh, a c’hounid argant kement èl ma karont.
+# text_fr = 'Et tous ces gens font du commerce, gagnent de l'argent autant qu'ils veulent.'
+# source = Herrieu (1994)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	rac’h	rac'h	?	_	_	_	_	_	Gloss=tout
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dud-se	tud	nom	_	_	_	_	_	Gloss=gens]]-[[DEM|là|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	kenwerzh	kenwerzh	nom	_	_	_	_	_	Gloss=commerce
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	c’hounid	gounit	verbe	_	_	_	_	_	Gloss=gagne
+11	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
+12	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+13	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+14	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+15	karont	karout	verbe	_	_	_	_	_	Gloss=aiment
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:163)__1
+# text = Ha mui netra da brena er henwerziou.
+# text_fr = 'Et (il n'y avait) plus rien à acheter dans les commerces.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	brena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	henwerziou	ken-	?	_	_	_	_	_	Gloss=com-]]_[[1]]_.[[gwerzhañ|vente]].[[-ioù(PL.)|s]|Morph=5
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:159)__1
+# text = Sacha a rejont e kêr kalz marhadourien a ree d' ar hoñvers mond mad én-dro ...
+# text_fr = 'Ils attirèrent en ville beaucoup de marchands qui firent redémarrer le commerce.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Sacha	sachañ	verbe	_	_	_	_	_	Gloss=attirer
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rejont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=firent
+4	e	P.e	?	_	_	_	_	_	Gloss=en
+5	kêr	kêr	nom	_	_	_	_	_	Gloss=ville
+6	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+7	marhadourien	marc'had.-ourien	?.?	_	_	_	_	_	Gloss=march.ands
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	ree	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+10	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11			PUNCT	_	_	_	_	Gloss=punct
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	hoñvers	hoñvers	?	_	_	_	_	_	Gloss=5
+14	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+15	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+16	én-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
+17	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard/Cornouaillais,Drezen(1943)__3
+# text = Tan-gwallet pizh-rac'h holl vagazinioù meur ar Gambr-a-Genverzh.
+# text_fr = 'Incendiés complètement les grands bureaux de la Chambre de Commerce.'
+# source = Drezen (1943)
+# texttype = Références de corpus
+1	Tan-gwallet	Tan-gwallet	?	_	_	_	_	_	Gloss=incendié
+2	pizh-rac'h	pizh	adverbe-quantifieur	_	_	_	_	_	Gloss=INT
+3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	vagazinioù	magazin	?	_	_	_	_	_	Gloss=magasin]].[[-où(PL.)|s]|Morph=1
+5	meur	meur	quantifieur	_	_	_	_	_	Gloss=grand
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	Gambr-a-Genverzh	kambr	nom	_	_	_	_	_	Gloss=Chambre]]-[[a|de|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:21)__4
+# text = Kavet  veze da brenañ treid gilhotinoù gwechall.
+# text_fr = 'Autrefois, on trouvait dans le commerce des pieds de guillotine.''
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+2	??	??	?	_	_	_	_	_	Gloss=R|Morph=4
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	brenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+7	treid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+8	gilhotinoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+9	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

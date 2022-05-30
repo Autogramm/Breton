@@ -1,0 +1,47 @@
+# sent_id = Fagon&Riou(2015:'tan')__1
+# text = An teil zo seac'h-korn.
+# text_fr = 'Le goémon est très sec.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=un
+2	teil	teil	nom	_	_	_	_	_	Gloss=fumier
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	seac'h-korn	seac'h-korn	?	_	_	_	_	_	Gloss=sec-INT
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__17
+# text = Disterra ma teue an amzer da fallaad e veze ranket tenna aneuzeu war ar zeh.
+# text_fr = 'Au moindre grain, il fallait les tirer au sec.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Disterra	dister.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=minime.le.plus
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	teue	dont	verbe	_	_	_	_	_	Gloss=venait
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	fallaad	fall.-aat	adverbe-adjectif.verbe	_	_	_	_	_	Gloss=mauvais.er
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+11	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+12	aneuzeu	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+13	war	war	?	_	_	_	_	_	Gloss=sur
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	zeh	zeh	?	_	_	_	_	_	Gloss=sec
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'atrejou')__1
+# text = Douar-gretel, un tammig kras ah(e) his-se
+# text_fr = 'De la terre aride et graveleuse, un peu desséchée comme ça.'
+# location = Laz
+# source = Lozach (2014)
+1	Douar-gretel	douar	nom	_	_	_	_	_	Gloss=terre
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+5	kras	kras	?	_	_	_	_	_	Gloss=séché
+6	ah(e)	aze	?	_	_	_	_	_	Gloss=ici
+7	his-se	giz	nom	_	_	_	_	_	Gloss=comme

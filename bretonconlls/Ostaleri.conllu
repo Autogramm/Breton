@@ -1,0 +1,18 @@
+# sent_id = ArFloc'h(1985:35)__2
+# text = an tonton Laou a ranke lipat ur bigorn en ostaleri ar gar.
+# text_fr = '... le tonton Laou devait boire un petit coup au café de la gare.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	tonton	tonton	nom	_	_	_	_	_	Gloss=tonton
+3	Laou	Laou	nom	_	_	_	_	_	Gloss=Laou
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
+6	lipat	lipat	?	_	_	_	_	_	Gloss=lécher
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	bigorn	bigorn	?	_	_	_	_	_	Gloss=petit.truc
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	ostaleri	kafe	nom	_	_	_	_	_	Gloss=café
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	gar	gar	nom	_	_	_	_	_	Gloss=gare
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

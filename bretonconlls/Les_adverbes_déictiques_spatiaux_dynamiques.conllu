@@ -1,0 +1,16 @@
+# sent_id = Gros(1989:'abil')__1
+# text = N'ouzon ket med eur ger ahann, eur ger aleshont.
+# text_fr = 'Je n'en sais qu'un mot par ci, par là.'
+# source = Gros (1989)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	ger	ger	nom	_	_	_	_	_	Gloss=mot
+7	ahann	ac'hann	?	_	_	_	_	_	Gloss=d'@ici
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	eur	art	nom	_	_	_	_	_	Gloss=un
+10	ger	ger	nom	_	_	_	_	_	Gloss=mot
+11	aleshont	ads	?	_	_	_	_	_	Gloss=-là
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

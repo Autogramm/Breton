@@ -1,0 +1,134 @@
+# sent_id = Denez(1984:73)__1
+# text = Ha merc'hed Treboull noe ket tre ar memes taol dorn da lakaat o c'hoef.
+# text_fr = 'Et les filles de Tréboul n'avaient pas la même façon de mettre leur coiffe'.
+# dialect = Cornouaillais
+# source = Denez (1984)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+3	Treboull	nompropre	?	_	_	_	_	_	Gloss=Tréboul
+4	noe	kaout	?	_	_	_	_	_	Gloss=avait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tt.à.fait
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+9	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
+10	dorn	dorn	nom	_	_	_	_	_	Gloss=main
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+13	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+14	c'hoef	koef	nom	_	_	_	_	_	Gloss=coiffe
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:II)__9
+# text = Ne wriont ket war ar memes liñser.
+# text_fr = 'Ils ne sont pas du même bord politique.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	wriont	gwriat	verbe	_	_	_	_	_	Gloss=cousent
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+7	liñser	liñser	?	_	_	_	_	_	Gloss=drap
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:81)__1
+# text = met nend aomp ket d'ar memp tu.
+# text_fr = '...mais nous n'allons pas du même côté.'
+# source = Herrieu (1994)
+1	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	nend	nend	?	_	_	_	_	_	Gloss=ne
+3	aomp	mont	verbe	_	_	_	_	_	Gloss=allons
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	memp	memp	?	_	_	_	_	_	Gloss=même
+8	tu	tu	nom	_	_	_	_	_	Gloss=côté
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:131)__1
+# text = Hag amañ memp, bout 'h eus ur yoc'h ha 'deus berranal.
+# text_fr = 'Et ici même, il y a beaucoup (de pensionnaires) qui souffrent d’insuffisance respiratoire.'
+# dialect = Vannetais
+# location = JMh
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+3	memp	memp	?	_	_	_	_	_	Gloss=même
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	bout	bez'	?	_	_	_	_	_	Gloss=expl
+6	'	'	?	_	_	_	_	_	Gloss=R
+7	h	E	?	_	_	_	_	_	Gloss=y.a
+8	eus	eus	?	_	_	_	_	_	Gloss=?
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
+11	ha	c.ha(g)	?	_	_	_	_	_	Gloss=que
+12	'	'	?	_	_	_	_	_	Gloss=3PL
+13	deus	kaout	?	_	_	_	_	_	Gloss=a
+14	berranal	berr-.anal	adjectif.?	_	_	_	_	_	Gloss=court.souffle
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas(2005:31)__1
+# text = Eñ 'deus ar memp oad genin.
+# text_fr = 'Il a le même âge que moi.'
+# dialect = Vannetais
+# location = Kistinid
+# source = Nicolas (2005)
+# texttype = Ouvrages de recherche
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	'	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	deus	?	_	_	_	_	_	Gloss=?
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	memp	memp	?	_	_	_	_	_	Gloss=même
+6	oad	oad	nom	_	_	_	_	_	Gloss=âge
+7	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégor,Kerrain(2001)__1
+# text = Lenn a ra ar memes levrioù ha me.
+# text_fr = 'Elle lit les mêmes livres que moi.'
+# source = Kerrain (2001)
+# texttype = Ouvrages pédagogiques
+1	Lenn	lenn(V.)	?	_	_	_	_	_	Gloss=lire
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+6	levrioù	levr.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=livre.s
+7	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+8	me	pfi	?	_	_	_	_	_	Gloss=moi
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégor,Kerrain(2001)__1
+# text = Ar memes tra eveldout.
+# text_fr = 'Il a la même voiture que moi.'
+# source = Kerrain (2001)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+3	tra	tra	nom	_	_	_	_	_	Gloss=chose
+4	eveldout	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.toi
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__52
+# text = Ne galfec'h ket chom aze memes (la) ma vefec'h kourachus.
+# text_fr = 'Tu n'y resterais pas, même si tu étais courageux.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	galfec'h	gallout	verbe	_	_	_	_	_	Gloss=pourriez
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+5	aze	aze	?	_	_	_	_	_	Gloss=ici
+6	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+7	(la)	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+8	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+9	vefec'h	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=seriez
+10	kourachus	-us	?	_	_	_	_	_	Gloss=eux
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

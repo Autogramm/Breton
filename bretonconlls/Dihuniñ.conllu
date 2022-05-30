@@ -1,0 +1,19 @@
+# sent_id = Herrieu(1994:223)__1
+# text = hag e tihunan en un taol, é soñjal ema un obus bennak eo.
+# text_fr = '...et je me réveille brusquement, en pensant que c'est quelque obus.'
+# source = Herrieu (1994)
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	tihunan	tihunan	?	_	_	_	_	_	Gloss=réveille
+4	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
+10	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	un	art	?	_	_	_	_	_	Gloss=un
+12	obus	obus	?	_	_	_	_	_	Gloss=obus
+13	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+14	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

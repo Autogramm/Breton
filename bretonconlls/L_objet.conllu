@@ -1,0 +1,250 @@
+# sent_id = ArMeliner(2009:98)__1
+# text = Ha me d' he c'hlask, al loenig paour, he gronnet em danter.
+# text_fr = 'Et j'ai couru la chercher, la pauvre bête, je l'ai enveloppée dans mon tablier.'
+# source = Ar Meliner (2009)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	d'	da	préposition	_	_	_	_	_	Gloss=de
+4			PUNCT	_	_	_	_	Gloss=punct
+5	he	he	?	_	_	_	_	_	Gloss=?
+6	c'hlask	klask	verbe	_	_	_	_	_	Gloss=chercher
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	al	art	?	_	_	_	_	_	Gloss=le
+9	loenig	loen.-ig	nom.?	_	_	_	_	_	Gloss=animal.petit
+10	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	he	POP	?	_	_	_	_	_	Gloss=la|Morph=2
+13	gronnet	-et(inf.)	?	_	_	_	_	_	Gloss=er
+14	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+15	danter	danter	nom	_	_	_	_	_	Gloss=tablier
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:98)__1
+# text = Achuit-hi, achuit-hi 'ta.
+# text_fr = 'Achève-la, achève-la donc.'
+# source = Ar Meliner (2009)
+1	Achuit-hi	achu	?	_	_	_	_	_	Gloss=achève
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	achuit-hi	achu	?	_	_	_	_	_	Gloss=achève
+4	'	eta	?	_	_	_	_	_	Gloss=donc
+5	ta.	ta.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Herrieu(1994:85)__1
+# text = Ma soudarded en deus-int lazhet a daoloù bazh, e-pad an noz hag o lakaet aze evit farsal.
+# text_fr = 'Mes soldats les ont tués à coups de bâtons, pendant la nuit et les ont mis là pour rire.'
+# source = Herrieu (1994)
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	soudarded	soudard.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=soldat.s
+3	lazhet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+4	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	daoloù	daoloù	?	_	_	_	_	_	Gloss=coups
+6	bazh	bazh	nom	_	_	_	_	_	Gloss=bâton
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+11	hag	&	?	_	_	_	_	_	Gloss=et
+12	o	POP	?	_	_	_	_	_	Gloss=les
+13	lakaet	lakaat	verbe	_	_	_	_	_	Gloss=mis
+14	aze	ads	?	_	_	_	_	_	Gloss=là
+15	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+16	farsal	farsal	?	_	_	_	_	_	Gloss=rire
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:197)__1
+# text = Bez' e tebr Mona he boued er gegin.
+# text_fr = 'Mona mange sa nourriture dans la cuisine.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	tebr	debriñ	verbe	_	_	_	_	_	Gloss=mange
+5	Mona	nompropre	?	_	_	_	_	_	Gloss=Mona
+6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	gegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:35)__1
+# text = Fourlichou, hi ivez, a spias a-benn-kaer Leich.
+# text_fr = 'Fourlichou, elle aussi, aperçut tout de suite Leich.'
+# source = Ar Meliner (2009)
+1	Fourlichou	nompropre	?	_	_	_	_	_	Gloss=Fourlichou
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hi	pfi	?	_	_	_	_	_	Gloss=elle
+4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	spias	spias	?	_	_	_	_	_	Gloss=aperçut
+8	a-benn-kaer	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=tout.de.suite
+9	Leich	nompropre	?	_	_	_	_	_	Gloss=Leich
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press (1986:210)__1
+# text = Int a zeuy pa roy mammig dezho arc'hant.
+# text_fr = 'Ils viendront si maman leur donne de l'argent.'
+1	zeuy	pa	complémenteur	_	_	_	_	_	Gloss=quand/si
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
+3	roy	rein	?	_	_	_	_	_	Gloss=donnera
+4	mammig	mamm.mammig	nom.?	_	_	_	_	_	Gloss=maman.DIM
+5	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+6	arc'hant	arc'hant	?	_	_	_	_	_	Gloss=argent
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:87)__1
+# text =  Selloù rous  a eostan  get an holl ...
+# text_fr = 'Je récolte DES REGARDS NOIRS de tout le monde... '
+# source = Herrieu (1994)
+1	??	??	?	_	_	_	_	_	Gloss=[
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Selloù	sell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=regard.s
+4	rous	rous	?	_	_	_	_	_	Gloss=roux
+5	??	??	?	_	_	_	_	_	Gloss=]
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	eostan	eost	nom	_	_	_	_	_	Gloss=moisson
+9	??	??	?	_	_	_	_	_	Gloss=_
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	get	gant	?	_	_	_	_	_	Gloss=de
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+14	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hewitt(2001)__1
+# text = Heñv meus gweled, pas hiņt.
+# text_fr = 'C'est lui que j'ai vu, pas eux.'
+# source = Hewitt (2001)
+# texttype = Ouvrages de recherche
+1	Heñv	pfi	?	_	_	_	_	_	Gloss=lui
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	gweled	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	pas	pas	?	_	_	_	_	_	Gloss=pas
+6	hiņt	pfi	?	_	_	_	_	_	Gloss=eux
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hewitt(2001)__1
+# text = Anout-te meus gweled.
+# text_fr = 'Je t'ai vu(e).'
+# source = Hewitt (2001)
+# texttype = Ouvrages de recherche
+1	Anout-te	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	gweled	gwelout	verbe	_	_	_	_	_	Gloss=vu
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:95)__1
+# text = Mêd [ an êr ] he-deus _ da veza nevez?
+# text_fr = 'Mais elle a l'air d'être nouvelle ?'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Mêd	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	[	[	?	_	_	_	_	_	Gloss=?
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	êr	aer	nom	_	_	_	_	_	Gloss=air
+5	]	]	?	_	_	_	_	_	Gloss=?
+6	he-deus	kaout	?	_	_	_	_	_	Gloss=a
+7	_	_	?	_	_	_	_	_	Gloss=
+8	da	da	préposition	_	_	_	_	_	Gloss=de
+9	veza	bezan	?	_	_	_	_	_	Gloss=être
+10	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'arhant')__2
+# text = Ma arhant-me, bepred, n'aint ket da fall, pa n'em eus ket _[''ø'']_.
+# text_fr = 'Mon argent, en tout cas, ne perdra pas de sa valeur puisque je n'en ai pas.'
+# source = Gros (1989)
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	arhant-me	arc'hant	?	_	_	_	_	_	Gloss=argent
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	n'	n'	?	_	_	_	_	_	Gloss=ne
+7	aint	mont	verbe	_	_	_	_	_	Gloss=ira
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+13	n'	n'	?	_	_	_	_	_	Gloss=ne
+14	em	em	?	_	_	_	_	_	Gloss=R
+15	eus	kaout	?	_	_	_	_	_	Gloss=a
+16	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+17	_['	_['	?	_	_	_	_	_	Gloss=<'@'@argent'@'@>
+18	'	'	?	_	_	_	_	_	Gloss=?
+19	ø'	ø'	?	_	_	_	_	_	Gloss=?
+20	'	'	?	_	_	_	_	_	Gloss=?
+21	]_.	]_.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:256)__1
+# text = Piou ' rafe ket _[''ø'']_ ?
+# text_fr = 'Qui ne le ferait pas ?'
+# source = Gros (1984)
+1	Piou	Piv	pronom	_	_	_	_	_	Gloss=qui
+2	'	'	?	_	_	_	_	_	Gloss=ne
+3			PUNCT	_	_	_	_	Gloss=punct
+4	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	_['	_['	?	_	_	_	_	_	Gloss=<'@'@le'@'@>
+7	'	'	?	_	_	_	_	_	Gloss=?
+8	ø'	ø'	?	_	_	_	_	_	Gloss=?
+9	'	'	?	_	_	_	_	_	Gloss=?
+10	]_	]_	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArBorgn(2011:110)__1
+# text = Pa 'meus ket amzer, e kemeran _[''ø'']_.
+# text_fr = 'Quand je n'ai pas le temps, je le prends.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	'	kaout	?	_	_	_	_	_	Gloss=a
+3	meus	meus	?	_	_	_	_	_	Gloss=?
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	kemeran	kemer	verbe	_	_	_	_	_	Gloss=prends
+9	_['	_['	?	_	_	_	_	_	Gloss=<'@'@temps'@'@>
+10	'	'	?	_	_	_	_	_	Gloss=?
+11	ø'	ø'	?	_	_	_	_	_	Gloss=?
+12	'	'	?	_	_	_	_	_	Gloss=?
+13	]_.	]_.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Anglais__1
+# text = I gave him the book.
+# text_fr = 'Je lui ai donné le livre.'
+1	I	I	?	_	_	_	_	_	Gloss=je
+2	gave	gave	?	_	_	_	_	_	Gloss=donnai
+3	him	him	?	_	_	_	_	_	Gloss=lui
+4	the	the	?	_	_	_	_	_	Gloss=le
+5	book	book	?	_	_	_	_	_	Gloss=livre
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§575)__1
+# text =  Ar bleiz  a lazas ma c'hi anezhañ  a boueze tost da 80 lur.
+# text_fr = 'Le loup que mon chien a tué pesait près de 40 kilos.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bleiz	bleiz	nom	_	_	_	_	_	Gloss=loup
+3	??	??	?	_	_	_	_	_	Gloss=]
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	lazas	lazhañ	verbe	_	_	_	_	_	Gloss=tua
+7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	c'hi	ki	nom	_	_	_	_	_	Gloss=chien
+9	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+10	??	??	?	_	_	_	_	_	Gloss=]
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+13	boueze	pouezañ	verbe	_	_	_	_	_	Gloss=pesait
+14	tost	tost	adjectif	_	_	_	_	_	Gloss=près
+15	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+16	80	80	?	_	_	_	_	_	Gloss=80
+17	lur	lur	?	_	_	_	_	_	Gloss=lur
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

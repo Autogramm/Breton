@@ -1,6 +1,6 @@
 # sent_id = Gros(1984:358)__1
 # text = Ar paotr koz a ra laourassennoù runkunuz kenkoulz en ti evel er-mêz.
-# text_fr =  'Le vieux lance de gros crachats dégoûtants, tant dans la maison que dehors.'
+# text_fr = 'Le vieux lance de gros crachats dégoûtants, tant dans la maison que dehors.'
 # source = Gros (1984)
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
@@ -12,6 +12,6 @@
 8	kenkoulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
 9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 10	ti	ti	nom	_	_	_	_	_	Gloss=maison
-11	evel	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+11	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 12	er-mêz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,12 @@
+# sent_id = Riou(1941:22)__2
+# text = Brilli fresk... Eun diner ar vrellenn
+# text_fr = 'des maquereaux frais... un dîner de maquereau.
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Brilli	brezhell.plurielinterne	nom.?	_	_	_	_	_	Gloss=maquereau.x
+2	fresk..	fresk..	?	_	_	_	_	_	Gloss=frais
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+4	Eun	art	?	_	_	_	_	_	Gloss=un
+5	diner	diner	?	_	_	_	_	_	Gloss=dîner
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vrellenn	brezhell	nom	_	_	_	_	_	Gloss=maquereau|Morph=1

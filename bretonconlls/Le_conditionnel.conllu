@@ -1,0 +1,77 @@
+# sent_id = Moulleg(1978:27)__1
+# text = Ha ! ma 'ven ket amañ...
+# text_fr = 'Ah ! Si j'étais pas là... '
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ha	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+4	'	COP	?	_	_	_	_	_	Gloss=étais
+5	ven	ven	?	_	_	_	_	_	Gloss=?
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	amañ..	amañ	?	_	_	_	_	_	Gloss=là
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:226).__1
+# text = Petra am-bije-me greet ma vije arruet netra nemed peb mad ganit-te ?
+# text_fr = 'Qu'aurais-je fait s'il t'était arrivé malheur ?'
+# source = Gros (1984)
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	am-bije-me	am-bije-me	?	_	_	_	_	_	Gloss=R
+3	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+5	vije	bezan	?	_	_	_	_	_	Gloss=serait
+6	arruet	arru	?	_	_	_	_	_	Gloss=arrivé
+7	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+8	nemed	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+9	peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+10	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+11	ganit-te	gant.pronomincorporé.écho	?.?.?	_	_	_	_	_	Gloss=avec.toi.toi
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:502)__1
+# text = Ha ma vizé bet eun naer 'barz ?
+# text_fr = 'Et s'il y avait eu une vipère à l'intérieur ?!'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+3	vizé	COP	?	_	_	_	_	_	Gloss=était
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	eun	art	?	_	_	_	_	_	Gloss=un
+6	naer	naer	nom	_	_	_	_	_	Gloss=vipère
+7	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+8	barz	barz	?	_	_	_	_	_	Gloss=?
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaille,ArScao(1945)__2
+# text = Distruj ar sclavaj a glié béa bét gréet gant ar rouéet catolik.
+# text_fr = 'L'abolition de l'esclavage aurait dû être décidée par les rois catholiques.'
+# dialect = Cornouaillais
+# source = Ar Scao (1945)
+# texttype = Ouvrages de recherche
+1	Distruj	distruj	verbe	_	_	_	_	_	Gloss=destruction
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	sclavaj	sclavaj	?	_	_	_	_	_	Gloss=esclavage
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	glié	dleout	verbe	_	_	_	_	_	Gloss=aurait.dû
+6	béa	bezañ	?	_	_	_	_	_	Gloss=être
+7	bét	bet	?	_	_	_	_	_	Gloss=été
+8	gréet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+9	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	rouéet	roue.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=roi.s
+12	catolik	katolik	?	_	_	_	_	_	Gloss=catholique
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:350)__1
+# text = Yoñ 'nife eur baro bédég en dwar!
+# text_fr = 'Il avait une barbe qui touchait le sol !'
+1	Yoñ	Yoñ	?	_	_	_	_	_	Gloss=Eñ
+2	'	'	complémenteur	_	_	_	_	_	Gloss=en
+3	nife	nife	?	_	_	_	_	_	Gloss=devoa
+4	eur	eur	nom	_	_	_	_	_	Gloss=ur
+5	baro	baro	nom	_	_	_	_	_	Gloss=barv
+6	bédég	bédég	préposition-complémenteur	_	_	_	_	_	Gloss=betek

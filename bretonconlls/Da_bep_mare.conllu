@@ -1,0 +1,16 @@
+# sent_id = Troude(1886:'passer,14°)__1
+# text = Kement e kar anezhañ ma rank he gaout da bep mare.
+# text_fr = 'Il ne peut s'en passer, tant il l'aime.'
+# source = Troude (1886)
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tant
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kar	karout	verbe	_	_	_	_	_	Gloss=aime
+4	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
+7	he	POP	?	_	_	_	_	_	Gloss=le|Morph=1
+8	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	bep	bep	?	_	_	_	_	_	Gloss=chaque
+11	mare	mare	nom	_	_	_	_	_	Gloss=moment
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

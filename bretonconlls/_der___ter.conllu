@@ -1,8 +1,8 @@
 # sent_id = Gros(1984:360)__1
 # text = Evid kelou ar pellder ez out bet er gêr...
-# text_fr =  'Pour le peu de temps que tu as été à la maison... ' 
+# text_fr = 'Pour le peu de temps que tu as été à la maison... '
 # source = Gros (1984)
-1	Evid	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+1	Evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 2	kelou	keloù	?	_	_	_	_	_	Gloss=nouvelles
 3	ar	art	?	_	_	_	_	_	Gloss=le
 4	pellder	pell	adjectif	_	_	_	_	_	Gloss=loin
@@ -10,27 +10,27 @@
 6	out	COP	?	_	_	_	_	_	Gloss=es
 7	bet	bet	?	_	_	_	_	_	Gloss=été
 8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-9	gêr..	kêr	nom	1	_	_	_	_	Gloss=foyer
+9	gêr..	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:360)__1
 # text = En deoder d'ar wezenn-mañ e oa e ziouharr.
-# text_fr =  'Ses jambes étaient de l'épaisseur de cet arbre-ci.'
+# text_fr = 'Ses jambes étaient de l'épaisseur de cet arbre-ci.'
 # source = Gros (1984)
-1	En	P.e	?	1	_	_	_	_	Gloss=en]].[[art|le
+1	En	P.e	?	_	_	_	_	_	Gloss=en]].[[art|le|Morph=1
 2	deoder	tev	adjectif	_	_	_	_	_	Gloss=épais
 3	d'	da	préposition	_	_	_	_	_	Gloss=de
 4	ar	art	?	_	_	_	_	_	Gloss=le
-5	wezenn-mañ	gwez	nom	1	_	_	_	_	Gloss=arbres]].[[-enn|SG]]-[[DEM|ci
+5	wezenn-mañ	gwez	nom	_	_	_	_	_	Gloss=arbres]].[[-enn|SG]]-[[DEM|ci|Morph=1
 6	e	e	?	_	_	_	_	_	Gloss=R
 7	oa	COP	?	_	_	_	_	_	Gloss=était
-8	e	POSS	?	1	_	_	_	_	Gloss=son
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 9	ziouharr	duel.gar	?.nom	_	_	_	_	_	Gloss=2.jambe
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBozec(1933:52)__1
 # text = N'he deus ket aon rak an domder re vras.
-# text_fr =  'Elle n'a pas peur des grandes chaleurs.'
+# text_fr = 'Elle n'a pas peur des grandes chaleurs.'
 # source = Le Bozec
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	he	kaout	?	_	_	_	_	_	Gloss=a
@@ -39,14 +39,14 @@
 5	aon	aon	nom	_	_	_	_	_	Gloss=peur
 6	rak	rak	?	_	_	_	_	_	Gloss=de
 7	an	art	?	_	_	_	_	_	Gloss=le
-8	domder	tomm	adjectif	1	_	_	_	_	Gloss=chal
-9	re	re	adverbe	1	_	_	_	_	Gloss=trop
-10	vras	bras	adjectif-adverbe	_	_	_	_	_	Gloss=grand
+8	domder	tomm	adjectif	_	_	_	_	_	Gloss=chal|Morph=1
+9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
+10	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1947:§838)__1
 # text = uhelder un ti / uhelded ur spered
-# text_fr =  'la hauteur d'une maison / la hauteur d'un esprit.'
+# text_fr = 'la hauteur d'une maison / la hauteur d'un esprit.'
 # source = Kervella (1947)
 # texttype = Ouvrages de recherche
 1	uhelder	uhel	adjectif	_	_	_	_	_	Gloss=haut
@@ -59,7 +59,7 @@
 
 # sent_id = Vallée (1980:XVII) __1
 # text = ar gwanderiou a zeu eus ar wanded.
-# text_fr =  'les infirmités qui viennent de la faiblesse.'
+# text_fr = 'les infirmités qui viennent de la faiblesse.'
 # source2 =  Le Roux (1915)
 1	ar	art	?	_	_	_	_	_	Gloss=le
 2	gwanderiou	gwan.-où(PL.)	adjectif.?	_	_	_	_	_	Gloss=faible.s
@@ -67,27 +67,27 @@
 4	zeu	zeu	?	_	_	_	_	_	Gloss=vient
 5	eus	eus	?	_	_	_	_	_	Gloss=de
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	wanded	gwan	adjectif	1	_	_	_	_	Gloss=faible]].[[-ded|esse
+7	wanded	gwan	adjectif	_	_	_	_	_	Gloss=faible]].[[-ded|esse|Morph=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guillevic&LeGoff(1986:79)__1
 # text = pebéh hardéhted !
-# text_fr =  'Quelle beauté !'
+# text_fr = 'Quelle beauté !'
 # source = Guillevic & Le Goff (1986)
 1	pebéh	pebezh	?	_	_	_	_	_	Gloss=quel
-2	hardéhted	kaer	adjectif-adverbe	_	_	_	_	_	Gloss=beau
-3	!	!	?	_	_	_	_	_	Gloss=?
+2	hardéhted	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:85)__1
 # text = Yoñ zo daou vet' chirijenn.
-# text_fr =  'Il fait deux mètres de long.' 
+# text_fr = 'Il fait deux mètres de long.'
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	daou	numérauxcardinaux	?	1	_	_	_	_	Gloss=deux]
+3	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
 4	vet'	vet'	?	_	_	_	_	_	Gloss=mètre
-5			?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
 6	chirijenn	hir.-ijenn	adjectif.?	_	_	_	_	_	Gloss=long.eur
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

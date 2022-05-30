@@ -1,0 +1,55 @@
+# sent_id = Kervella(2009:109)__1
+# text = N'oun ket klañv defot mond er-meaz.
+# text_fr = 'Je n'ai pas très envie d'aller dehors.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oun	COP	?	_	_	_	_	_	Gloss=suis
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+5	defot	defot	préposition	_	_	_	_	_	Gloss=à.défaut.de
+6	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	er-meaz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois,Blanchard(2016)__1
+# text = N’eo ket a boan kaoud aon, kwa.
+# text_fr = 'Il ne faut pas avoir peur, quoi.'
+# source = Blanchard (2016)
+# texttype = Ouvrages de recherche
+1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+2	boan	poan	nom	_	_	_	_	_	Gloss=peine
+3	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+4	aon	aon	nom	_	_	_	_	_	Gloss=peur
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	kwa	kwa	?	_	_	_	_	_	Gloss=quoi
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:487)__1
+# text = N'ema ket diwar an dour.
+# text_fr = 'Il n'a pas bu que de l'eau.'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002b:62)__1
+# text = N'omp ket taer ken war ar c'hirri-nij... '
+# text_fr = 'L'avion, euh... Nous n'y tenons pas tellement... '
+# source = Kervella (2002b)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	omp	COP	?	_	_	_	_	_	Gloss=sommes
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	taer	taer	adjectif	_	_	_	_	_	Gloss=intense
+5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	c'hirri-nij...	karr	nom	_	_	_	_	_	Gloss=char]]-[[nijal|vole|Morph=5
+9	'	'	?	_	_	_	_	_	Gloss=?
+10			PUNCT	_	_	_	_	Gloss=punct

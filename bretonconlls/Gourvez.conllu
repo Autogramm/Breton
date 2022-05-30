@@ -1,0 +1,39 @@
+# sent_id = Gros(1989:'joga')__1
+# text = A-benn ma'z-po joget an tamm bara-ze e chomi div eur ez kourvez.
+# text_fr = 'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.'
+# source = Gros (1989)
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	z-po	kaout	?	_	_	_	_	_	Gloss=aura
+4	joget	joget	?	_	_	_	_	_	Gloss=froissé
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+7	bara-ze	bara	nom	_	_	_	_	_	Gloss=pain
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	chomi	chom	verbe	_	_	_	_	_	Gloss=resteras
+10	eur	eur	nom	_	_	_	_	_	Gloss=heure
+11	ez	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|ton|Morph=3
+12	kourvez	kourvez	?	_	_	_	_	_	Gloss=allongé
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:29)__1
+# text = Benn po droug kein, ' vo dav deoc'h chom ho kourvo.
+# text_fr = 'Quand vous aurez mal au dos, vous devrez rester allongé.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	po	kaout	?	_	_	_	_	_	Gloss=auras
+3	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+4	kein	kein	nom	_	_	_	_	_	Gloss=dos
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	'	COP	?	_	_	_	_	_	Gloss=sera
+7			PUNCT	_	_	_	_	Gloss=punct
+8	vo	vo	?	_	_	_	_	_	Gloss=?
+9	dav	dav	adjectif	_	_	_	_	_	Gloss=dû
+10	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+12	ho	POSS	?	_	_	_	_	_	Gloss=vos|Morph=3
+13	kourvo	kourvo	?	_	_	_	_	_	Gloss=allongé.PL
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

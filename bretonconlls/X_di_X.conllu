@@ -1,0 +1,76 @@
+# sent_id = Denez(1993:33)__1
+# text = Lojañ-dilojañ a reas ar familh, ken na reas.
+# text_fr = 'La famille déménagea tant et tant (sans fin).'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	Lojañ-dilojañ	Lojañ-dilojañ	?	_	_	_	_	_	Gloss=loger-'@'@di'@'@.loger
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	familh	familh	nom	_	_	_	_	_	Gloss=famille
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	na	na	?	_	_	_	_	_	Gloss=ne
+8	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dupuy(2007:26)__1
+# text = Brallet-divrallet e oa war azezenn a-dreñv karr e dud.
+# text_fr = 'Il était secoué de tous côtés sur le siège arrière de la voiture de ses parents.'
+# source = Dupuy (2007)
+# texttype = Références de corpus
+1	Brallet-divrallet	Brallet-divrallet	?	_	_	_	_	_	Gloss=branlé-'@'@di'@'@.branlé
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	azezenn	azezenn	?	_	_	_	_	_	Gloss=siège
+6	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=arrière
+7	karr	karr	nom	_	_	_	_	_	Gloss=voiture
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	dud	tud	nom	_	_	_	_	_	Gloss=parents
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dupuy(2007:25)__2
+# text = ken e koeñve-digoeñve toennoù al lestr mein.
+# text_fr = 'tant que les toits du vaisseau de pierre respiraient (se mettaient à s'enfler et se désenfler).'
+# source = Dupuy (2007)
+# texttype = Références de corpus
+1	e	e	?	_	_	_	_	_	Gloss=R
+2	koeñve-digoeñve	koeñv.koeñv	nom.nom	_	_	_	_	_	Gloss=enfl.enfl
+3	toennoù	toenn.-où(PL.)	?.?	_	_	_	_	_	Gloss=toit.s
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	lestr	lestr	nom	_	_	_	_	_	Gloss=vaisseau
+6	mein	maen,mein	?	_	_	_	_	_	Gloss=pierre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:12)__5
+# text = Treiñ ha distreiñ a ra ar paotr dindan e zilhad-gwele.
+# text_fr = 'Le garçon se tourne et se retourne dans ses draps.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Treiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	distreiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	paotr	paotr	nom	_	_	_	_	_	Gloss=garçon
+8	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	zilhad-gwele	dilhad	nom	_	_	_	_	_	Gloss=linge
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:152).__1
+# text = Goude e vezont bloñset ha dibloñset tout evel-just.
+# text_fr = 'Après, ils sont meurtris bien sûr.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	bloñset	bloñset	?	_	_	_	_	_	Gloss=tapé
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	dibloñset	dibloñset	?	_	_	_	_	_	Gloss=/di-tapé/
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sur
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

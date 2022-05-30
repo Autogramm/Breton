@@ -1,0 +1,62 @@
+# sent_id = Gros(1984:100)__1
+# text = N'eo ket awalh ar boan a vez, med ar frejou a vez, te !
+# text_fr = 'C'est pas le tout, le mal que l'on a, mais les frais qu'on a, toi ! (rends-toi compte !).'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	awalh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	boan	poan	nom	_	_	_	_	_	Gloss=peine|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	frejou	frejou	?	_	_	_	_	_	Gloss=frais
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+15	,	,	PUNCT	_	_	_	_	Gloss=punct
+16	te	pfi	?	_	_	_	_	_	Gloss=toi
+17	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:101)__1
+# text = An arhant a ya e-kerz hennez, c'hwi !
+# text_fr = '(mais) l'argent qu'il me coûte, celui-là... ne comprenez-vous pas ?'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	arhant	arc'hant	?	_	_	_	_	_	Gloss=argent
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ya	mont	verbe	_	_	_	_	_	Gloss=va
+5	e-kerz	e-kerz	préposition	_	_	_	_	_	Gloss=en.possession
+6	hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:208)__1
+# text = Ar re-ze zo pinvidik, te !
+# text_fr = 'Mais (dis-donc), ceux-là sont riches !'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	pinvidik	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	te	pfi	?	_	_	_	_	_	Gloss=toi
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:354)__1
+# text = Piw e' ar zac'had brenn, -te ?
+# text_fr = 'Qui c'est ce sac de son ?' (cette bonne femme)
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Piw	piv	pronom	_	_	_	_	_	Gloss=qui
+2	e'	COP	?	_	_	_	_	_	Gloss=est
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	zac'had	sac'h.-ad	?.?	_	_	_	_	_	Gloss=sac.ée
+6	brenn	brenn	?	_	_	_	_	_	Gloss=son
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	-te	pfi	?	_	_	_	_	_	Gloss=toi
+9	?	?	PUNCT	_	_	_	_	Gloss=punct

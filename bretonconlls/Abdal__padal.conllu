@@ -1,0 +1,21 @@
+# sent_id = Bouzeg(1986:29)__1
+# text = Ni 'oa ' c'hortoz Loeiz abdal 'oa chomet da ruzañ.
+# text_fr = 'Nous attendions Loeiz, alors qu'il était resté à traîner.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5			PUNCT	_	_	_	_	Gloss=punct
+6	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
+7	Loeiz	nompropre	?	_	_	_	_	_	Gloss=Loeiz
+8	abdal	abdal	?	_	_	_	_	_	Gloss=alors.que
+9	'	COP	?	_	_	_	_	_	Gloss=était
+10	oa	oa	?	_	_	_	_	_	Gloss=?
+11	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	ruzañ	ruzañ	verbe	_	_	_	_	_	Gloss=traîner
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

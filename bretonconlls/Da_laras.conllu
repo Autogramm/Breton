@@ -1,0 +1,32 @@
+# sent_id = Gros(1984:86)__1
+# text = Honnez a oa gast ha laer, da-lavaras ar gaoz.
+# text_fr = 'Celle-là était putain et voleuse, comme on dit.'
+# source = Gros (1984)
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	gast	gast	nom	_	_	_	_	_	Gloss=pute
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	laer	laer	nom	_	_	_	_	_	Gloss=voleur
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	da-lavaras	da	préposition	_	_	_	_	_	Gloss=à/de
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gaoz	kaoz	nom	_	_	_	_	_	Gloss=rumeur|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:39)__1
+# text = Ne oa ket deut e gig gantañ toud, da laras-añ !
+# text_fr = 'Il y avait laissé des plumes, comme il disait.'
+# source = Gros (1984)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	gig	kig	nom	_	_	_	_	_	Gloss=viande
+7	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+8	toud	toud	?	_	_	_	_	_	Gloss=tout
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	da	da	préposition	_	_	_	_	_	Gloss=à
+11	laras-añ	laras-añ	?	_	_	_	_	_	Gloss=dit.lui
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

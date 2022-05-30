@@ -1,0 +1,822 @@
+# sent_id = Trépos(2001:§440)__1
+# text = Bez' e vo pesked da goan.
+# text_fr = 'Il y aura du poisson à souper.'
+# source = Trépos (2001)
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=expl.
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	pesked	pesk.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=poisson.s
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	goan	koan	nom	_	_	_	_	_	Gloss=souper
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1947:§707,d)__1
+# text = A:- Bez' e vo glav hiriv! B:- Bezañ a-walc'h.
+# text_fr = -A: 'Il va pleuvoir aujourd'hui.' -B: 'Oui.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Bez'	Bez'	?	_	_	_	_	_	Gloss=être
+3			PUNCT	_	_	_	_	Gloss=punct
+4	e	COP	?	_	_	_	_	_	Gloss=sera
+5	vo	vo	?	_	_	_	_	_	Gloss=?
+6	glav	glav	nom	_	_	_	_	_	Gloss=pluie
+7	hiriv	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+9	B:-	B:-	?	_	_	_	_	_	Gloss=
+10	Bezañ	Bezañ	?	_	_	_	_	_	Gloss=être
+11	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:62)__1
+# text = Beu zo 'n glér'nn ar 'zeillad dour.
+# text_fr = 'L'eau du seau est recouverte de glace.'
+1	Beu	Beu	?	_	_	_	_	_	Gloss=Bout
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	'	'	?	_	_	_	_	_	Gloss=ur
+4	n	n	?	_	_	_	_	_	Gloss=glerenn
+5	glér'	glér'	?	_	_	_	_	_	Gloss=?
+6	nn	nn	?	_	_	_	_	_	Gloss=?
+7	ar	ar	?	_	_	_	_	_	Gloss=àr
+8	'	'	?	_	_	_	_	_	Gloss=ar
+9	zeillad	zeillad	?	_	_	_	_	_	Gloss=sailhad
+10	dour	dour	nom	_	_	_	_	_	Gloss=dour.
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:62)__1
+# text = Bou zo klér àr 'lenn.
+# text_fr = 'Il y a une couche de glace sur le lac.'
+1	Bou	Bou	?	_	_	_	_	_	Gloss=Bout
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	klér	klér	nom	_	_	_	_	_	Gloss=kler
+4	àr	àr	?	_	_	_	_	_	Gloss=àr
+5	'	'	?	_	_	_	_	_	Gloss=al
+6	lenn	lenn	?	_	_	_	_	_	Gloss=lenn.
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBerre&LeDû(1999:44)__1
+# text = Bea vez d'ober war an douar patatez-mañ.
+# text_fr = 'Il y a beaucoup de travail.'
+# source = Le Berre & Le Dû (1999)
+# texttype = Références de corpus
+1	Bea	bezañ	?	_	_	_	_	_	Gloss=être
+2	d'	da	préposition	_	_	_	_	_	Gloss=à
+3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	douar	douar	nom	_	_	_	_	_	Gloss=terre
+7	patatez-mañ	patatez	nom	_	_	_	_	_	Gloss=patates
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Bed e veho maread a draoù.
+# text_fr = 'Il y aura beaucoup de choses.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Bed	Bed	nom	_	_	_	_	_	Gloss=
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	veho	COP	?	_	_	_	_	_	Gloss=sera
+4	maread	maread	quantifieur	_	_	_	_	_	Gloss=beaucoup
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	draoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = (Bed) emaon er ger.
+# text_fr = 'Je suis à la maison.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	(Bed)	(Bed)	?	_	_	_	_	_	Gloss=
+2	emaon	eman	?	_	_	_	_	_	Gloss=suis
+3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:35)__1
+# text = Boût 'oa avel gouez.
+# text_fr = 'Il y avait un vent fou.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Boût	bezañ	?	_	_	_	_	_	Gloss=être
+2	'	E	?	_	_	_	_	_	Gloss=y.avait
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	avel	avel	nom	_	_	_	_	_	Gloss=vent
+5	gouez	gouez	adjectif	_	_	_	_	_	Gloss=sauvage
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:44)__1
+# text = Sounta da zellad be(a) zo dour
+# text_fr = 'sonder pour voir s'il y a de l'eau'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Sounta	Sounta	?	_	_	_	_	_	Gloss=sonder
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	zellad	sellout	verbe	_	_	_	_	_	Gloss=regarder
+4	be(a)	be(a)	nom	_	_	_	_	_	Gloss=si
+5	zo	zo	?	_	_	_	_	_	Gloss=y.a
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+
+# sent_id = Fagon&Riou(2015:'boutig')__1
+# text = da zellad be yade traou brao.
+# text_fr = 'pour voir s'il y avait de jolies choses.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	zellad	sellout	verbe	_	_	_	_	_	Gloss=voir
+3	be	be	nom	_	_	_	_	_	Gloss=si
+4	yade	COP	?	_	_	_	_	_	Gloss=était
+5	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+6	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Denez(1993:13)__1
+# text = bgcolor=#8E80FF| Politikerezh ha broadelouriezh, bez' e pege Frañsez Kervella a-drovriad enno (...)
+# text_fr = 'Frañsez Kervella empoignait à bras-le-corps politique et nationalisme.'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	bgcolor=#8E80FF|	bgcolor=#8E80FF|	?	_	_	_	_	_	Gloss=politique
+2	Politikerezh	Politikerezh	?	_	_	_	_	_	Gloss=?
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	broadelouriezh	broadelouriezh	?	_	_	_	_	_	Gloss=nationalisme
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	bez'	bez'	?	_	_	_	_	_	Gloss=être
+7			PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	pege	pegañ	verbe	_	_	_	_	_	Gloss=collait
+10	Frañsez	Frañsez	?	_	_	_	_	_	Gloss=[[nompropre|Frañsez
+11	Kervella	Kervella	?	_	_	_	_	_	Gloss=Kervella]]]
+12	a-drovriad	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+14	(...)	(...)	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = bgcolor=#8E80FF| An alc'hiou, be meus bet neho met meus ket neho ken.
+# text_fr = 'Les clefs ? Je les ai bien eues mais je ne les ai plus.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	bgcolor=#8E80FF|	art	?	_	_	_	_	_	Gloss=le
+2	An	alc'hwez.-où(PL.)	?.?	_	_	_	_	_	Gloss=clef.s
+3	alc'hiou,	alc'hiou,	?	_	_	_	_	_	Gloss=?
+4	be	bez'	?	_	_	_	_	_	Gloss=être
+5	meus	kaout	?	_	_	_	_	_	Gloss=a
+6	bet	bet	?	_	_	_	_	_	Gloss=eu
+7	neho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+8	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+9	meus	kaout	?	_	_	_	_	_	Gloss=a
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	neho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+12	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__10
+# text = Be ma ho mamm ganoc'h ma bihetch ?
+# text_fr = 'Tu as ta maman avec toi ma petite ?'
+# location = Locronan
+1	Be	Be	?	_	_	_	_	_	Gloss=être
+2	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+5	ganoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=3
+7	bihetch	bihan.-ig	adverbe-quantifieur-adjectif.?	_	_	_	_	_	Gloss=petit.petit
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dupuy(2007:39)__1
+# text = Daoust ha bez' e c'hallfec'h [...] kas ac'hanon davet an aotrou K?
+# text_fr = 'Pourriez-vous me mener à monsieur K?'
+# source = Dupuy (2007)
+# texttype = Références de corpus
+1	Daoust	Q	complémenteur	_	_	_	_	_	Gloss=est-ceque
+2	ha	ha	?	_	_	_	_	_	Gloss=?
+3	bez'	bez'	?	_	_	_	_	_	Gloss=
+4			PUNCT	_	_	_	_	Gloss=punct
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	c'hallfec'h	gallout	verbe	_	_	_	_	_	Gloss=pourriez
+7	[...]	[...]	?	_	_	_	_	_	Gloss=?
+8	kas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+9	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+10	davet	davet	préposition	_	_	_	_	_	Gloss=à
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+13	K	K	?	_	_	_	_	_	Gloss=K
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§592)__1
+# text = Lavar din ha bez' e teui.
+# text_fr = 'Dis-moi si tu viendras.'
+# source = Trépos (2001)
+1	Lavar	lavar	nom	_	_	_	_	_	Gloss=dis
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	ha	Q	?	_	_	_	_	_	Gloss=si
+4	bez'	bez'	?	_	_	_	_	_	Gloss=
+5			PUNCT	_	_	_	_	Gloss=punct
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	teui	dont	verbe	_	_	_	_	_	Gloss=viendras
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§592)__1
+# text = N'ouzon ket ha bez' e vo kreñv a-walh ar jadenn.
+# text_fr = 'Je ne sais pas si la chaîne sera assez forte.'
+# source = Trépos (2001)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ha	Q	?	_	_	_	_	_	Gloss=si
+5	bez'	bez'	?	_	_	_	_	_	Gloss=bez
+6			PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	vo	COP	?	_	_	_	_	_	Gloss=sera
+9	kreñv	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+10	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	jadenn	chadenn	nom	_	_	_	_	_	Gloss=chaîne|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Le Gléau (1973:75)__1
+# text = Me va-unan ne ouien ket ha bez' e oa ac'hanon.
+# text_fr = 'Moi-même je ne savais pas si c'était moi.'
+# source2 = Hemon (1962:64)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	va-unan	pronomréflexif	?	_	_	_	_	_	Gloss=reflex
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	ouien	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	ha	ha	nom	_	_	_	_	_	Gloss=si
+7	bez'	bez'	?	_	_	_	_	_	Gloss=bez
+8			PUNCT	_	_	_	_	Gloss=punct
+9	e	e	?	_	_	_	_	_	Gloss=R
+10	oa	COP	?	_	_	_	_	_	Gloss=était
+11	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:18)__1
+# text = Bez ez eus ur c'hategori tud ha n'ouzon ket pe o deus nosion eus un dra bennak pe d'o deus ket.
+# text_fr = 'Il y a une catégorie de personnes, je (ne) sais pas si ils ont une notion de quoi que ce soit.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Bez	Bez	?	_	_	_	_	_	Gloss=Bez
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	E	?	_	_	_	_	_	Gloss=y.a
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	c'hategori	c'hategori	?	_	_	_	_	_	Gloss=5
+6	tud	tud	nom	_	_	_	_	_	Gloss=gens
+7	ha	C.ha(g)	?	_	_	_	_	_	Gloss=C
+8	n'	n'	?	_	_	_	_	_	Gloss=ne
+9	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+12	o	o	?	_	_	_	_	_	Gloss=3PL
+13	deus	kaout	?	_	_	_	_	_	Gloss=a
+14	nosion	nosion	?	_	_	_	_	_	Gloss=notion
+15	eus	eus	?	_	_	_	_	_	Gloss=P
+16	un	art	?	_	_	_	_	_	Gloss=un
+17	dra	dra	?	_	_	_	_	_	Gloss=chose
+18	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+19	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+20	d'	d'	?	_	_	_	_	_	Gloss=NEG?
+21	o	o	?	_	_	_	_	_	Gloss=3PL
+22	deus	kaout	?	_	_	_	_	_	Gloss=a
+23	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+24	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Miossec (1981:7)__1
+# text = Bez'  omp digemeret en eur zal vraz spontuz.
+# text_fr = '(En effet) Elle fait au moins 60m de long et 30 de large.'
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=Bez
+2			PUNCT	_	_	_	_	Gloss=punct
+3			PUNCT	_	_	_	_	Gloss=punct
+4	omp	omp	?	_	_	_	_	_	Gloss=?
+5	digemeret	degemer	nom	_	_	_	_	_	Gloss=accueil
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	eur	art	nom	_	_	_	_	_	Gloss=un
+8	zal	zal	?	_	_	_	_	_	Gloss=salle
+9	vraz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grande|Morph=1
+10	spontuz	spontus	adjectif	_	_	_	_	_	Gloss=terrible
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:70)__1
+# text = un den kozh hag en deus graet e amzer soudard en Oriant, bout 'zo 50 vlez 'zo !
+# text_fr = '... un vieil homme qui a fait son service militaire à Lorient, il y a 50 ans !'
+# source = Herrieu (1994)
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+4	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+5	en	en	complémenteur	_	_	_	_	_	Gloss=R
+6	deus	kaout	?	_	_	_	_	_	Gloss=a
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+10	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
+11	en	P.e	complémenteur	_	_	_	_	_	Gloss=P
+12	Oriant	Oriant	?	_	_	_	_	_	Gloss=Oriant
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	bout	bout	?	_	_	_	_	_	Gloss=être
+15	'	zo	?	_	_	_	_	_	Gloss=y.a
+16	zo	zo	?	_	_	_	_	_	Gloss=?
+17	vlez	bloaz	nom	_	_	_	_	_	Gloss=an
+18	'	zo	?	_	_	_	_	_	Gloss=y.a
+19	zo	zo	?	_	_	_	_	_	Gloss=?
+20	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:215)__1
+# text = Tostennoù Kistinid ha glannoù ar Blaouezh ha bout am bo ar joa d'ho kwelet c'hoazh ur wezh ?
+# text_fr = 'Buttes de Kistinid et rives du Blavet, est-ce que j'aurai encore une fois la joie de vous voir ?'
+# source = Herrieu (1994)
+1	Tostennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+2	Kistinid	nompropre	?	_	_	_	_	_	Gloss=Kistinid
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	glannoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	Blaouezh	nompropre	?	_	_	_	_	_	Gloss=Blavet
+7	am	am	?	_	_	_	_	_	Gloss=R
+8	bo	kaout	?	_	_	_	_	_	Gloss=aurai
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	joa	joa	nom	_	_	_	_	_	Gloss=joie
+11	d'	da	préposition	_	_	_	_	_	Gloss=de
+12	ho	POP	?	_	_	_	_	_	Gloss=vous|Morph=3
+13	kwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+14	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+15	ur	art	?	_	_	_	_	_	Gloss=un
+16	wezh	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+17	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fleuriot(2001:20)__1
+# text = Bez' e c'helle an anv-verb, evel an holl anvioù-kadarn, beza rener pe renadenn [...]
+# text_fr = 'Le nom verbal pouvait, comme tous les noms, être sujet ou complément.'
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=bez
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	c'helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	anv-verb	anv-verb	?	_	_	_	_	_	Gloss=nom-verbe
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+11	anvioù-kadarn	anvioù-kadarn	?	_	_	_	_	_	Gloss=noms-fort
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	beza	beza	?	_	_	_	_	_	Gloss=être
+14	rener	rener	?	_	_	_	_	_	Gloss=sujet
+15	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+16	renadenn	renadenn	?	_	_	_	_	_	Gloss=complément
+17	[...]	[...]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bijer(2007:137)__1
+# text = Ha Bez ' e ouie ma zad kontañ ivez doare ar brezelioù a save (...) etre ar broioù hag an dud.
+# text_fr = 'Et mon père racontait aussi la façon dont les guerres naissaient entre les pays et les gens.'
+# dialect = Cornouaillais
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	Bez	Bez	?	_	_	_	_	_	Gloss=bez
+3	'	'	?	_	_	_	_	_	Gloss=?
+4			PUNCT	_	_	_	_	Gloss=punct
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	ouie	AUXgouzout	?	_	_	_	_	_	Gloss=savait
+7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	zad	tad	nom	_	_	_	_	_	Gloss=père
+9	kontañ	kontañ	verbe	_	_	_	_	_	Gloss=conter
+10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+11	doare	doare	nom	_	_	_	_	_	Gloss=manière
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	brezelioù	brezel.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=guerre.s
+14	a	a	préposition	_	_	_	_	_	Gloss=R
+15	save	sevel	verbe	_	_	_	_	_	Gloss=montait
+16	(...)	(...)	?	_	_	_	_	_	Gloss=?
+17	etre	etre	préposition	_	_	_	_	_	Gloss=entre
+18	ar	art	?	_	_	_	_	_	Gloss=le
+19	broioù	bro.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=pays.s
+20	hag	&	?	_	_	_	_	_	Gloss=et
+21	an	art	?	_	_	_	_	_	Gloss=le
+22	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+23	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = F.Broudig,Kenavod'amlabour,[http://www.langue-bretonne.com/Pajennou/kenavoLabour.htmltexte].__1
+# text = Bez' e rankan lavared da genta n'am-eus ket greet nemed se.
+# text_fr = 'Je dois tout d'abord dire que je n'ai pas fait que cela.'
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
+5	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	genta	kentañ	?	_	_	_	_	_	Gloss=premier
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+12	nemed	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+13	se	se	pronom	_	_	_	_	_	Gloss=cela
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = Noñ, bez' e ranked kaoud eur serten oad.
+# text_fr = 'Non, il fallait avoir un certain âge.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Noñ	nann	interjection	_	_	_	_	_	Gloss=non
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	bez'	bez'	?	_	_	_	_	_	Gloss=
+4			PUNCT	_	_	_	_	Gloss=punct
+5	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+6	eur	art	nom	_	_	_	_	_	Gloss=un
+7	serten	serten	adjectif	_	_	_	_	_	Gloss=certain
+8	oad	oad	nom	_	_	_	_	_	Gloss=âge
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§440)__1
+# text = Bez' e kaver c'hoaz tier-soul e Breizh.
+# text_fr = 'On trouve encore des chaumières en Bretagne.'
+# source = Trépos (2001)
+1	Bez'	Bezañpréverbal	?	_	_	_	_	_	Gloss=bez
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	kaver	kavout.IMP	verbe.?	_	_	_	_	_	Gloss=trouve.on
+5	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+6	tier-soul	tier-soul	?	_	_	_	_	_	Gloss=chaumières
+7	e	P.e	?	_	_	_	_	_	Gloss=en
+8	Breizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Denez(1993:13)__1
+# text = Politikerezh ha broadelouriezh, bez' e pege Frañsez Kervella a-drovriad enno (...)
+# text_fr = 'Frañsez Kervella empoignait à bras-le-corps politique et nationalisme.'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	Politikerezh	Politikerezh	?	_	_	_	_	_	Gloss=politique
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	broadelouriezh	broadelouriezh	?	_	_	_	_	_	Gloss=nationalisme
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	bez'	bez'	?	_	_	_	_	_	Gloss=
+6			PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	pege	pegañ	verbe	_	_	_	_	_	Gloss=collait
+9	Frañsez	Frañsez	?	_	_	_	_	_	Gloss=[[nompropre|Frañsez
+10	Kervella	Kervella	?	_	_	_	_	_	Gloss=Kervella]]]
+11	a-drovriad	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+13	(...)	(...)	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Denez(1993:20)__1
+# text = bez' ez eas Frañsez Kervella d'hen gwelout e 1938 (...)
+# text_fr = 'Frañsez Kervella alla le voir en 1938.'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	bez'	bez'	?	_	_	_	_	_	Gloss=
+2			PUNCT	_	_	_	_	Gloss=punct
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eas	mont	verbe	_	_	_	_	_	Gloss=alla
+5	Frañsez	Frañsez	?	_	_	_	_	_	Gloss=[[nompropre|Frañsez
+6	Kervella	Kervella	?	_	_	_	_	_	Gloss=Kervella]]]
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	hen	POP	?	_	_	_	_	_	Gloss=le
+9	gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
+10	e	P.e	?	_	_	_	_	_	Gloss=en
+11	1938	numérauxcardinaux	?	_	_	_	_	_	Gloss=1938
+12	(...)	(...)	?	_	_	_	_	_	Gloss=?
+
+# sent_id = FañchEliesAbeozen(1991:45)__1
+# text = Bez' e c'hounezas ur gaer a vrud ha karantez.
+# text_fr = '(le fait est qu') elle gagna affection et renommée.'
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	c'hounezas	gounit	verbe	_	_	_	_	_	Gloss=gagna
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=belle|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	vrud	brud	nom	_	_	_	_	_	Gloss=renommée
+9	ha	&	?	_	_	_	_	_	Gloss=et
+10	karantez	karantez	nom	_	_	_	_	_	Gloss=amour
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fave(1998:51)__1
+# text = Bez' e prenis eul leor d'am breur deh.
+# text_fr = 'J'ai acheté un livre hier à mon frère.'
+# dialect = Léonard
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	prenis	prenañ	verbe	_	_	_	_	_	Gloss=achetai
+5	eul	art	?	_	_	_	_	_	Gloss=un
+6	leor	levr	nom	_	_	_	_	_	Gloss=livre
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	am	POSS	?	_	_	_	_	_	Gloss=mon
+9	breur	breur	nom	_	_	_	_	_	Gloss=frère
+10	deh	dec'h	?	_	_	_	_	_	Gloss=hier
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Le Gléau (1973:45)__1
+# text = Gwir e oa. Bez 'e weled an ti gwenn.
+# text_fr = 'C'était vrai. On voyait la maison blanche.'
+# source2 =  Hemon, An tri boulomig kalon aour:27
+1	Gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	Bez	Bez	?	_	_	_	_	_	Gloss=
+6	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	?	_	_	_	_	_	Gloss=?
+8	weled	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voyait.on
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	ti	ti	nom	_	_	_	_	_	Gloss=maison
+11	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:212)__1
+# text = Bez' e lennan b. Lavar din ha bez' e teui.
+# text_fr = 'Je lis (effectivement).'/ 'Dis-moi si (effectivement) tu viens.'
+# source = Chalm (2008)
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	lennan	lenn(V.)	?	_	_	_	_	_	Gloss=lis
+5	b	b	?	_	_	_	_	_	Gloss=
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
+8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+9	ha	C.ha(g)	?	_	_	_	_	_	Gloss=si
+10	bez'	bez'	?	_	_	_	_	_	Gloss=
+11			PUNCT	_	_	_	_	Gloss=punct
+12	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+13	teui	dont	verbe	_	_	_	_	_	Gloss=viendras
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:350)__1
+# text = Bez ema Perig o klask e vreur er hoad.
+# text_fr = 'En ce moment, Perig est occupé à chercher son frère dans le bois.'
+# source = Trépos (2001)
+1	Bez	Bez	?	_	_	_	_	_	Gloss=
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	Perig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Per.ig
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	vreur	breur	nom	_	_	_	_	_	Gloss=frère
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:248)__1
+# text = /parskan bud  əwaj e-rgaer bijənoX ẃidon... ag əjaleče raportiɲ /
+# text_fr = 'Parce qu'à la maison il y a avait des plus petits que moi qui ne pouvaient pas rapporter (de l'argent).'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/parskan	/parskan	?	_	_	_	_	_	Gloss=parce.que
+2	bud	bez	?	_	_	_	_	_	Gloss=expl
+3			PUNCT	_	_	_	_	Gloss=punct
+4	əwaj	əwaj	?	_	_	_	_	_	Gloss=?
+5	bijənoX	bihan.-oc'h	adverbe-quantifieur-adjectif.?	_	_	_	_	_	Gloss=petit.plus
+6	ẃidon..	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.moi
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	ag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+9	əjaleče	əjaleče.gallout.ket	?.verbe.adverbe	_	_	_	_	_	Gloss=R.pouvait.pas
+10	raportiɲ	raportiɲ	?	_	_	_	_	_	Gloss=rapporter
+11	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:110)__1
+# text = Bez ' ez eus tud hag a zo mat da stagañ.
+# text_fr = 'Il y a (vraiment) des gens qui sont fous à lier.'
+# source = Gros (1984)
+1	Bez	Bez	?	_	_	_	_	_	Gloss=bez
+2	'	'	?	_	_	_	_	_	Gloss=?
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eus	E	?	_	_	_	_	_	Gloss=y.a
+6	tud	tud	nom	_	_	_	_	_	Gloss=gens
+7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=C
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	zo	zo	?	_	_	_	_	_	Gloss=est
+10	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	stagañ	stagañ	verbe	_	_	_	_	_	Gloss=lier
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:110)__1
+# text = Ha gwir eo klañv ? - Ya, bez ez eo !
+# text_fr = '- Est-il vrai qu'il soit malade ?'  '- Oui, il l'est ''réellement''.'
+# source = Gros (1984)
+1	Ha	Ha	?	_	_	_	_	_	Gloss=Q
+2	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	-	-	PUNCT	_	_	_	_	Gloss=punct
+7	Ya,	Ya,	?	_	_	_	_	_	Gloss=?
+8	bez	bez	?	_	_	_	_	_	Gloss=bez
+9	ez	ez	?	_	_	_	_	_	Gloss=R
+10	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:35)__1
+# text = Boût 'zo goulou.
+# text_fr = 'Il y a ''bien'' de la lumière.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Boût	Boût	?	_	_	_	_	_	Gloss=être
+2	'	E	?	_	_	_	_	_	Gloss=y.a
+3	zo	zo	?	_	_	_	_	_	Gloss=?
+4	goulou	gouloù	nom	_	_	_	_	_	Gloss=lumière
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:44)__1
+# text = A:- Ne yade ket er gear ? B:- Neo, bea e yade.
+# text_fr = 'A: Il n'était pas à la maison ? / B: Si, il était chez lui.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+3	yade	COP	?	_	_	_	_	_	Gloss=était
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	gear	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:-	B:-	?	_	_	_	_	_	Gloss=
+9	Neo	Neo	?	_	_	_	_	_	Gloss=Si,
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	bea	bea	?	_	_	_	_	_	Gloss=être
+12	e	e	?	_	_	_	_	_	Gloss=R
+13	yade	COP	?	_	_	_	_	_	Gloss=était
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bijer(2003:17).__1
+# text = An arhant-se n'int ket deoh; bez ez int ? Daoust m'emaint ganeoh.
+# text_fr = 'Cet argent ne vous appartient pas, n'est-ce pas ? Bien que vous l'ayez (sur vous).'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2003)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	arhant-se	arc'hant	?	_	_	_	_	_	Gloss=argent
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+7	;	;	PUNCT	_	_	_	_	Gloss=punct
+8	bez	bez	?	_	_	_	_	_	Gloss=bez
+9	ez	ez	?	_	_	_	_	_	Gloss=R
+10	int	COP	?	_	_	_	_	_	Gloss=sont
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+13	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+14	emaint	eman	?	_	_	_	_	_	Gloss=sont
+15	ganeoh	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = KavellarBodhisattva,Jonathan4,p.33.__1
+# text = Bez' zo ur wenodenn all ?
+# text_fr = 'Il y a un autre sentier ?'
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=bez
+2			PUNCT	_	_	_	_	Gloss=punct
+3	zo	E	?	_	_	_	_	_	Gloss=y.a
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	wenodenn	gwenojenn	nom	_	_	_	_	_	Gloss=sentier|Morph=1
+6	all	all	?	_	_	_	_	_	Gloss=autre
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016)__1
+# text = (Bed') emaoun er ger. / Er ger emaoun.
+# text_fr = 'Je suis à la maison.'
+# dialect = Léonard
+# source = A. M. (04/2016)
+# texttype = Élicitations
+1	(Bed'	(Bed'	?	_	_	_	_	_	Gloss=bez
+2	)	)	?	_	_	_	_	_	Gloss=?
+3	emaoun	eman	?	_	_	_	_	_	Gloss=suis
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	/	/	?	_	_	_	_	_	Gloss=
+8	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+10	emaoun	eman	?	_	_	_	_	_	Gloss=suis
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:44)__1
+# text = A:- Bea 'di er gear ? B:- O, bea tre bea.
+# text_fr = 'A: Il est à la maison ? / B: Oh, il doit y être.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Bea	Bea	?	_	_	_	_	_	Gloss=être
+3	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	di	di	?	_	_	_	_	_	Gloss=?
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	gear	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:-	B:-	?	_	_	_	_	_	Gloss=
+9	O	interjection	?	_	_	_	_	_	Gloss=Oh
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	bea	bea	?	_	_	_	_	_	Gloss=être
+12	tre	dleout	verbe	_	_	_	_	_	Gloss=doit
+13	bea	bezan	?	_	_	_	_	_	Gloss=être
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  Trégorrois, Janig Stephens-Bodiou [c.p. 09/05/2020]__1
+# text = _ M'eus ''WhatsApp'' met bezan meus ''facetime''.
+# text_fr = 'Je n'ai pas ''WhatsApp'', mais j'ai ''facetime''.'
+# text_phon = ['CONTEXTE:', 'proposition', "d'@appel utilisant '@'@WhatsApp'@'@."]
+1	_	_	?	_	_	_	_	_	Gloss=_
+2	M'	kaout	?	_	_	_	_	_	Gloss=a
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	'	nompropre	?	_	_	_	_	_	Gloss=WhatsApp
+5	'	'	?	_	_	_	_	_	Gloss=?
+6	WhatsApp'	WhatsApp'	?	_	_	_	_	_	Gloss=?
+7	'	'	?	_	_	_	_	_	Gloss=?
+8			PUNCT	_	_	_	_	Gloss=punct
+9	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+10	bezan	bez'	?	_	_	_	_	_	Gloss=être
+11	meus	kaout	?	_	_	_	_	_	Gloss=a
+12	'	nompropre	?	_	_	_	_	_	Gloss=facetime
+13	'	'	?	_	_	_	_	_	Gloss=?
+14	facetime'	facetime'	?	_	_	_	_	_	Gloss=?
+15	'	'	?	_	_	_	_	_	Gloss=?
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:15)__2
+# text = Bez' e vefomp en-dro a-benn teir sizhun.
+# text_fr = 'On revient dans trois semaines.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Bez'	Bez'	?	_	_	_	_	_	Gloss=être
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vefomp	COP	?	_	_	_	_	_	Gloss=serons
+5	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
+6	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
+7	teir	cardinaux	?	_	_	_	_	_	Gloss=trois
+8	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1947:§707,d)__1
+# text = A:- Bez' e vo glav hiriv ! B:- Bezañ a-walc'h.
+# text_fr = -A: 'Il va pleuvoir aujourd'hui.' -B: 'Oui.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Bez'	Bez'	?	_	_	_	_	_	Gloss=être
+3			PUNCT	_	_	_	_	Gloss=punct
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	vo	COP	?	_	_	_	_	_	Gloss=sera
+6	glav	glav	nom	_	_	_	_	_	Gloss=pluie
+7	hiriv	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+9	B:-	B:-	?	_	_	_	_	_	Gloss=
+10	Bezañ	Bezañ	?	_	_	_	_	_	Gloss=être
+11	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:350)__1
+# text = Bez ema Perig o klask e vreur er hoad.
+# text_fr = 'En ce moment, Perig est occupé à chercher son frère dans le bois.'
+# source = Trépos (2001)
+1	Bez	Bez	?	_	_	_	_	_	Gloss=
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	Perig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Per.ig
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	vreur	breur	nom	_	_	_	_	_	Gloss=frère
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = M.Jouitteau[05.2009]__1
+# text = ''Bez n' ema ket Perig o klask e vreur er hoad.
+# text_fr = 'En ce moment, Perig n'est pas occupé à chercher son frère dans le bois.'
+1	'	'	?	_	_	_	_	_	Gloss=bez
+2	'	'	?	_	_	_	_	_	Gloss=?
+3	Bez	Bez	?	_	_	_	_	_	Gloss=?
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5			PUNCT	_	_	_	_	Gloss=punct
+6	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	Perig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Per.ig
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	vreur	breur	nom	_	_	_	_	_	Gloss=frère
+13	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+14	hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

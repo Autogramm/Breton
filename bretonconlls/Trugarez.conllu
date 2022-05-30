@@ -1,0 +1,56 @@
+# sent_id = LeGarrec(1901:57)__1
+# text = N'am euz foeltr tamm ezom dimeuz e drugarez.
+# text_fr = 'Je n'ai pas le moindre besoin de sa pitié.'
+# location = Kergrist-Moëlou
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	am	am	?	_	_	_	_	_	Gloss=1SG
+3	euz	kaout	?	_	_	_	_	_	Gloss=a
+4	foeltr	foeltr	?	_	_	_	_	_	Gloss=foutre
+5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+6	ezom	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+7	dimeuz	dimeuz	préposition	_	_	_	_	_	Gloss=de
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	drugarez	drugarez	?	_	_	_	_	_	Gloss=merci
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Perrot(1943:48)__1
+# text = Diwar hiziv e vo peoc’h, en ti-mañ pelloc’h, a drugarez Doue.
+# text_fr = 'A partir d'aujourd'hui, grâce à Dieu, cette maison vivra finalement en paix.'
+# source = Perrot (1943)
+# texttype = Références de corpus
+1	Diwar	diwar	préposition	_	_	_	_	_	Gloss=à.partir.de
+2	hiziv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	peoc’h	peoc'h	?	_	_	_	_	_	Gloss=paix
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
+9	pelloc’h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	drugarez	drugarez	?	_	_	_	_	_	Gloss=merci
+13	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:56)__1
+# text = èl a pa vennahe ma zrugarekaat e'it ar pezh am eus graet eviti [...].
+# text_fr = '...comme si elle voulait me remercier de ce que j'ai fait pour elle [...].'
+# source = Herrieu (1994)
+1	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+2	a	a	préposition	_	_	_	_	_	Gloss=[[hapa|C
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=1
+4	vennahe	mennout	verbe	_	_	_	_	_	Gloss=voulait
+5	ma	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+6	zrugarekaat	trugarez.-at	nom-interjection.?	_	_	_	_	_	Gloss=merci.er
+7	e'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	it	art	?	_	_	_	_	_	Gloss=le
+9	ar	pezh	?	_	_	_	_	_	Gloss=ce.que
+10	pezh	pezh	?	_	_	_	_	_	Gloss=?
+11	am	am	?	_	_	_	_	_	Gloss=R
+12	eus	kaout	?	_	_	_	_	_	Gloss=a
+13	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+14	eviti	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.elle
+15	[...].	[...].	?	_	_	_	_	_	Gloss=?

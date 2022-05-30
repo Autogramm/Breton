@@ -1,0 +1,13 @@
+# sent_id = Standard,Menard&Kadored(2001)__1
+# text = Ma delc'her eno un toullad da varvailhat.
+# text_fr = 'Si on reste discuter ici un peu de temps.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	delc'her	derc'hel.IMP	?.?	_	_	_	_	_	Gloss=reste.on
+3	eno	eno	?	_	_	_	_	_	Gloss=y
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	toullad	toull.-ad	nom-adjectif.?	_	_	_	_	_	Gloss=trou.ée
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	varvailhat	varvailhat	?	_	_	_	_	_	Gloss=bavarder
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

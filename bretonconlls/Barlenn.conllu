@@ -1,0 +1,41 @@
+# sent_id = Drezen(1990:14)__1
+# text = Harpet war barlenn ar prenestr, tennañ a ra hir ar c'hrennard war e anal.
+# text_fr = 'Appuyé sur le rebord de la fenêtre, l'adolescent respire profondément.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Harpet	harpañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=appuy.é
+2	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+3	barlenn	barlenn	nom	_	_	_	_	_	Gloss=rebord
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+10	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	c'hrennard	krennard	?	_	_	_	_	_	Gloss=adolescent|Morph=5
+13	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+14	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+15	anal	anal	?	_	_	_	_	_	Gloss=haleine
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'c'hoar')__1
+# text = Gweled a ran ma c'hoar arru du-hont ha du barlenn he broz.
+# text_fr = 'Je vois s'approcher un nuage noir.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	c'hoar	c'hoar	?	_	_	_	_	_	Gloss=sœur
+6	arru	arru	?	_	_	_	_	_	Gloss=arriver
+7	du-hont	du-hont	?	_	_	_	_	_	Gloss=là-bas
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	du	du	adjectif	_	_	_	_	_	Gloss=noir
+10	barlenn	barlenn	nom	_	_	_	_	_	Gloss=devant
+11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+12	broz	brozh	nom	_	_	_	_	_	Gloss=jupe
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

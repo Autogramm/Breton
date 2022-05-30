@@ -1,0 +1,19 @@
+# sent_id = Mellouet&Pennec(2004:93)__1
+# text = N'eus ket aet den ebet da baour e trempañ e zouar.
+# text_fr = 'Personne n'est tombé dans la pauvreté en fumant sa terre.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	COP	?	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+5	den	den	nom	_	_	_	_	_	Gloss=personne
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	baour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+9	e	e	?	_	_	_	_	_	Gloss=4|Morph=4
+10	trempañ	trempañ	verbe	_	_	_	_	_	Gloss=fumer
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	zouar	douar	nom	_	_	_	_	_	Gloss=terre
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

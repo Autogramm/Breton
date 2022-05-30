@@ -1,0 +1,16 @@
+# sent_id = Croq(1908:11)__1
+# text = Daoust hag-en e vefe o vont gant an ankou ?
+# text_fr = 'Est-ce qu'il perdrait la boule ?'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Daoust	Q	complémenteur	_	_	_	_	_	Gloss=est.ce.que
+2	hag-en	hag-en	?	_	_	_	_	_	Gloss=?
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vefe	COP	?	_	_	_	_	_	Gloss=serait
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+7	gant	gant	?	_	_	_	_	_	Gloss=avec
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	ankou	ankou	nom	_	_	_	_	_	Gloss=Ankou
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

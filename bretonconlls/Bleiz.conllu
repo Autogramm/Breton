@@ -1,0 +1,32 @@
+# sent_id = Favereau(1984:299)__1
+# text = Koulz oa d'ar bobl gweled bleizi ba o blass.
+# text_fr = 'La population aurait préféré avoir des loups plutôt qu'eux.'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Koulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	d'	da	préposition	_	_	_	_	_	Gloss=à
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	bobl	pobl	nom	_	_	_	_	_	Gloss=peuple|Morph=1
+6	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+7	bleizi	-i(PL.)	?	_	_	_	_	_	Gloss=s
+8	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+9	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=1
+10	blass	plas	nom	_	_	_	_	_	Gloss=place
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Audic(2013:282)__1
+# text = T'eus ket james klewet komz ag ar garew ?
+# text_fr = 'Tu n'as jamais entendu parler du loup-garou ?'
+# source = Audic (2013)
+# texttype = Ouvrages de recherche
+1	T'	kaout	?	_	_	_	_	_	Gloss=as
+2	eus	eus	?	_	_	_	_	_	Gloss=?
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	james	james	adverbe	_	_	_	_	_	Gloss=jamais
+5	klewet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+6	komz	komz	verbe	_	_	_	_	_	Gloss=parler
+7	ag	eus,a(g)	?	_	_	_	_	_	Gloss=de
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	garew	garew	?	_	_	_	_	_	Gloss=garou
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

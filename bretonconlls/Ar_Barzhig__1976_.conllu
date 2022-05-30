@@ -1,0 +1,38 @@
+# sent_id = Trégorrois(Kaouenneg),ArBarzhig(1976:7)__1
+# text =  Komzet puilh  o deus _ ar c'hazetennoù eus Solzenitsyn.
+# text_fr = 'Les journaux ont abondamment parlé de Soljenisyn.'
+# location = Kaouenneg
+1	??	??	?	_	_	_	_	_	Gloss=[
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Komzet	komz	verbe	_	_	_	_	_	Gloss=parlé
+4	puilh	puilh	adverbe	_	_	_	_	_	Gloss=abondamment
+5	??	??	?	_	_	_	_	_	Gloss=]
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	o	o	?	_	_	_	_	_	Gloss=3PL
+8	deus	kaout	?	_	_	_	_	_	Gloss=a
+9	_	_	?	_	_	_	_	_	Gloss=
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	c'hazetennoù	kazetenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]|Morph=5
+12	eus	eus	?	_	_	_	_	_	Gloss=de
+13	Solzenitsyn	nompropre	?	_	_	_	_	_	Gloss=Soljenisyn
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:34)__1
+# text = Marteze ivez n'he doa ket klasket Matriona kalz war o lerc'h.
+# text_fr = 'Peut-être aussi que Matriona n'avait pas beaucoup cherché à les trouver.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	Marteze	marteze	?	_	_	_	_	_	Gloss=peut.être
+2	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	he	he	?	_	_	_	_	_	Gloss=3SGF
+5	doa	doa	?	_	_	_	_	_	Gloss=avait
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	klasket	klasket	?	_	_	_	_	_	Gloss=cherché
+8	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
+9	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+10	war	war	?	_	_	_	_	_	Gloss=sur
+11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

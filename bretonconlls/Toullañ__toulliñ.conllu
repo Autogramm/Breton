@@ -1,0 +1,12 @@
+# sent_id = ArBorgn(2011:28)__4
+# text = Toulliñ kaoz genin 'faote dezhoñ.
+# text_fr = 'Il voulait engager la conversation avec moi.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Toulliñ	Toulliñ	?	_	_	_	_	_	Gloss=engager
+2	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
+3	'	faotañ	verbe	_	_	_	_	_	Gloss=fallait
+4	faote	faote	?	_	_	_	_	_	Gloss=?
+5	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

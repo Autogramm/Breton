@@ -1,8 +1,8 @@
 # sent_id = Gros(1984:356)__1
 # text = E wreg a zo eur vrizardenn.
-# text_fr =  'Sa femme est marquée de taches de rousseur.'
+# text_fr = 'Sa femme est marquée de taches de rousseur.'
 # source = Gros (1984)
-1	E	POSS	?	1	_	_	_	_	Gloss=son
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 2	wreg	gwreg	nom	_	_	_	_	_	Gloss=femme
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	COP	?	_	_	_	_	_	Gloss=est

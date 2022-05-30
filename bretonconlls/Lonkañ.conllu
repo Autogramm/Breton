@@ -1,0 +1,46 @@
+# sent_id = Gros(1970b:§'lonka')__1
+# text = Lonka a ra ar homzou bep ma vezont lavaret.
+# text_fr = 'Il avale (il oublie) les paroles à mesure qu'on les prononce.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Lonka	Lonka	?	_	_	_	_	_	Gloss=avaler
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	homzou	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]|Morph=5
+6	bep	bep	?	_	_	_	_	_	Gloss=chaque
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+9	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012b:'tout')__6
+# text = [ lõnke na n u' en kri ]
+# text_fr = 'Il avait avalé un œuf tout cru.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	[	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+2	lõnke	lõnke	?	_	_	_	_	_	Gloss=?
+3	na	kaout	?	_	_	_	_	_	Gloss=avait
+4	n	art	?	_	_	_	_	_	Gloss=un
+5	u'	vi,u	?	_	_	_	_	_	Gloss=œuf
+6			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1985:95)__1
+# text = Ken braz e veze ar genaouajou ma venne tourlonka ...
+# text_fr = 'Les bottes étaient tellement grandes qu'elle manquait d'avaler de travers... ' (la moissonneuse)
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1985)
+# texttype = Références de corpus
+1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
+2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	veze	COP	?	_	_	_	_	_	Gloss=était
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	genaouajou	genoù.-ach,-aj.-où(PL.)	nom.?.?	_	_	_	_	_	Gloss=bouche.ée.s
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
+9	tourlonka	tour-	?	_	_	_	_	_	Gloss=pfx
+10	...	...	PUNCT	_	_	_	_	Gloss=punct

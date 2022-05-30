@@ -1,0 +1,13 @@
+# sent_id = Gros(1984:176)__1
+# text = Deus amañ evel-hennig . Azez aze evel-sedig.
+# text_fr = 'Viens ici comme ceci. Assieds-toi là comme cela.'
+# source = Gros (1984)
+1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
+2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+3	evel-hennig	evel.evel-hennig	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.DIM
+4			?	_	_	_	_	_	Gloss=
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	Azez	Azez	?	_	_	_	_	_	Gloss=assis.2SG
+7	aze	aze	?	_	_	_	_	_	Gloss=là
+8	evel-sedig	evel.se.evel-sedig	préposition-complémenteur.pronom.?	_	_	_	_	_	Gloss=comme.ça.DIM
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

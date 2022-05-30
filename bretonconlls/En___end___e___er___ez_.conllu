@@ -1,0 +1,146 @@
+# sent_id = Elégoët(1982:15)__1
+# text = Bezhin brein, berniet ez c'hlas, ha breinet da c'houde.
+# text_fr = 'Du goémon fermenté, entassé vert, et laissé à fermenter ensuite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Bezhin	bezhin	nom	_	_	_	_	_	Gloss=goémon
+2	brein	brein	adjectif	_	_	_	_	_	Gloss=fermenté
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	berniet	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+5	ez	ez	?	_	_	_	_	_	Gloss=1
+6	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=vert
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	breinet	brein	adjectif	_	_	_	_	_	Gloss=fermenté
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	c'houde	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:27)__1
+# text = o konta en-doa bet an tign ez-vihan.
+# text_fr = 'en racontant qu’'il avait eu la teigne petit'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	konta	kontañ	verbe	_	_	_	_	_	Gloss=conter
+3	en-doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	bet	bet	?	_	_	_	_	_	Gloss=eu
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	tign	tign	?	_	_	_	_	_	Gloss=teigne
+7	ez-vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1996:191)__1
+# text = Natali he doa lakeet he hig en sall.
+# text_fr = 'Nathalie avait mis sa viande en saumure.'
+# source = Gros (1996)
+1	Natali	nompropre	?	_	_	_	_	_	Gloss=Nathalie
+2	he	he	?	_	_	_	_	_	Gloss=3SGF
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	lakeet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	hig	kig	nom	_	_	_	_	_	Gloss=viande
+7	en	en	complémenteur	_	_	_	_	_	Gloss=pfx
+8	sall	sall	?	_	_	_	_	_	Gloss=sel/salé
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Solliec(2015:75)__1
+# text = en-istribilh doc'h ar skeul.
+# text_fr = 'suspendu à l'échelle'
+# source = Solliec (2015)
+# texttype = Ouvrages de recherche
+1	en-istribilh	istribilh	?	_	_	_	_	_	Gloss=suspens
+2	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	skeul	skeul	nom	_	_	_	_	_	Gloss=échelle
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§319)__1
+# text = Gwelloc'h e kavan ar hokez e-kriz.
+# text_fr = 'J'aime mieux les coquillages lorsqu'ils sont crus.
+# source = Trépos (2001)
+1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kavan	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	hokez	kokez	nom	_	_	_	_	_	Gloss=coquillages|Morph=5
+6	e-kriz	kriz	adjectif	_	_	_	_	_	Gloss=cru
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§230)__1
+# text = En-noaz eman ar paour-kaez bugelig.
+# text_fr = 'Le pauvre bébé est tout nu...
+# source = Trépos (2001)
+1	En-noaz	noaz	?	_	_	_	_	_	Gloss=nu
+2	eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	paour-kaez	paour-kaezh	adjectif	_	_	_	_	_	Gloss=pauvre-cher
+5	bugelig	bugel.-ig	nom.?	_	_	_	_	_	Gloss=enfant.DIM
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§319)__1
+# text = En-noaz e vo red din mond.
+# text_fr = 'Il faudra que j'aille tout nu...
+# source = Trépos (2001)
+1	En-noaz	En-noaz	?	_	_	_	_	_	Gloss=pfx-nu
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	red	ret	?	_	_	_	_	_	Gloss=obligé
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:26)__1
+# text = distagañ ez-aketus gant ur gontell ar c'hregin-se
+# text_fr = 'détacher délicatement ces coquillages avec un couteau.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	distagañ	dis-.stagañ	?.verbe	_	_	_	_	_	Gloss=dés.attacher
+2	ez-aketus	ez-aketus	?	_	_	_	_	_	Gloss=pfx-appliqué
+3	gant	gant	?	_	_	_	_	_	Gloss=avec
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	gontell	kontell	nom	_	_	_	_	_	Gloss=couteau|Morph=1
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	c'hregin-se	krogenn	nom	_	_	_	_	_	Gloss=coquillage]].[[plurielinterne|s]]]-[[DEM|là|Morph=5
+
+# sent_id = Favereau(1997:§235)__1
+# text = chom es-kroug, es-pign
+# text_fr = 'rester accroché'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+2	es-kroug	krougañ	verbe	_	_	_	_	_	Gloss=pendre
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	es-pign	pignat	verbe	_	_	_	_	_	Gloss=monter
+
+# sent_id = Gros(1996:190)__1
+# text = Ar re-ze a oa marvet en tud yaouank.
+# text_fr = 'Ceux-là moururent jeunes.'
+# source = Gros (1996)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	marvet	mervel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mour.u
+6	en	en	complémenteur	_	_	_	_	_	Gloss=pfx
+7	tud	tud	nom	_	_	_	_	_	Gloss=gens
+8	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:14)__1
+# text = En-hend-all, ne c'hellemp ket mont.
+# text_fr = 'Autrement, on ne pouvait pas y aller.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	En-hend-all	hent	nom	_	_	_	_	_	Gloss=chemin
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	c'hellemp	gallout	verbe	_	_	_	_	_	Gloss=pouvions
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

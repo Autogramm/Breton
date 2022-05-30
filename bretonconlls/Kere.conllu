@@ -1,0 +1,13 @@
+# sent_id = LeGléau(1973:17)__1
+# text = Hor c'here n'en deus anezhañ nag erv nag ant.
+# text_fr = 'Notre cordonnier n'a aucun bien.'
+# source = MG.
+1	Hor	POSS	?	_	_	_	_	_	Gloss=notre|Morph=5
+2	c'here	c'here	?	_	_	_	_	_	Gloss=cordonnier
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	nag	Na...na	?	_	_	_	_	_	Gloss=ni
+8	erv	erv	nom	_	_	_	_	_	Gloss=planche.de.terre
+9	nag	Na...na	?	_	_	_	_	_	Gloss=ni

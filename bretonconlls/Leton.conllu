@@ -1,0 +1,37 @@
+# sent_id = Elégoët(1982:42)__3
+# text = Nemet fall e vije an amzer, e pije meur a vare a-wechoù war al letoun.
+# text_fr = 'Sauf quand le temps était mauvais, alors tu avais plusieurs marées des fois sur la dune.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+2	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vije	COP	?	_	_	_	_	_	Gloss=serait
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	pije	kaout	?	_	_	_	_	_	Gloss=aurait
+10	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	vare	vare	?	_	_	_	_	_	Gloss=marée
+13	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=à.fois
+14	war	war	?	_	_	_	_	_	Gloss=sur
+15	al	art	?	_	_	_	_	_	Gloss=le
+16	letoun	letoun	?	_	_	_	_	_	Gloss=herbe
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:D4)__1
+# text = Skuizhañ a ran o touzañ ar geot.
+# text_fr = 'Je suis fatigué.e de tondre l'herbe.'
+# source = Chalm (2008)
+1	Skuizhañ	skuizh.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=fatigu.er
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	touzañ	touzañ	verbe	_	_	_	_	_	Gloss=tondre
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	geot	geot	nom	_	_	_	_	_	Gloss=herbe
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

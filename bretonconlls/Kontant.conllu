@@ -1,0 +1,186 @@
+# sent_id = Plougerneau,M-L.B(10/2018)__4
+# text = Ar vugale o doa ket aer da veha kountan.
+# text_fr = 'Les enfants ont semblé déçus.'
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	doa	kaout	?	_	_	_	_	_	Gloss=avait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	aer	aer	nom	_	_	_	_	_	Gloss=air
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	veha	bezañ	?	_	_	_	_	_	Gloss=être
+9	kountan	kountan	?	_	_	_	_	_	Gloss=content
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:33)__1
+# text = N'ouzon ket ha c'hwi a vefe kontant da zont ganin.
+# text_fr = 'Je ne sais pas si vous seriez d'accord de venir avec moi.'
+# source = Gros (1970)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ha	C.ha(g)	?	_	_	_	_	_	Gloss=si
+5	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	vefe	COP	?	_	_	_	_	_	Gloss=serait
+8	kontant	kontant	adjectif	_	_	_	_	_	Gloss=OK
+9	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	zont	dont	verbe	_	_	_	_	_	Gloss=venir
+11	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:31)__2
+# text = Bout a oa unan er-walc'h hag a vehe bet oc'hpenn kontant da chomel...
+# text_fr = 'Il y avait bien quelqu'un qui aurait été très content de rester... '
+# source = ar Meliner (2009)
+1	Bout	Bez	?	_	_	_	_	_	Gloss=expl
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	er-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+6	hag	haga	?	_	_	_	_	_	Gloss=qui
+7	a	a	préposition	_	_	_	_	_	Gloss=?
+8	vehe	COP	?	_	_	_	_	_	Gloss=serait
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	oc'hpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+11	kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	chomel..	chom	verbe	_	_	_	_	_	Gloss=rester
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Châtelier(2016:80)__1
+# text = ha te a so contant da guitaat da Zoue evit jamaes ?
+# text_fr = 'Veux-tu bien quitter ton Dieu pour jamais ?', [[IVD.]]
+# source = IN.
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	te	pfi	?	_	_	_	_	_	Gloss=toi
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	so	zo	?	_	_	_	_	_	Gloss=est
+5	contant	contant	?	_	_	_	_	_	Gloss=content
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	guitaat	guitaat	?	_	_	_	_	_	Gloss=quitter
+8	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+9	Zoue	Zoue	?	_	_	_	_	_	Gloss=Dieu
+10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+11	jamaes	james	adverbe	_	_	_	_	_	Gloss=jamais
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Corne(1991:4)__1
+# text = Den oa kotät de vonet d' er brezel.
+# text_fr = 'Personne n'était heureux d'aller à la guerre'
+# source = Corne (1991)
+# texttype = Ouvrages de recherche
+1	Den	nomsnus	nom	_	_	_	_	_	Gloss=personne
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	kotät	kotät	?	_	_	_	_	_	Gloss=heureux
+4	de	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	vonet	mont	verbe	_	_	_	_	_	Gloss=aller
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7			PUNCT	_	_	_	_	Gloss=punct
+8	er	art	?	_	_	_	_	_	Gloss=le
+9	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm (1987a:268)__1
+# text = Kontant oc'h d'ober krampouezh ?
+# text_fr = 'Tu es content.e de faire des crêpes ?'
+# text_phon = ["/'@kõtn", 'ɔR', "dɔX'@", "'@kXampus/"]
+1	Kontant	Kontant	adjectif	_	_	_	_	_	Gloss=content
+2	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:311)__1
+# text = Me vefe kontant [ gweled anezañ o tond amañ. ]
+# text_fr = 'Je serais content de le voir venir ici.'
+# text_phon = ['/me ve', "'@kwãntãn", 'ɡɥɛl', 'ˌnɛ', "ton '@ãmɛ/", '']
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	vefe	COP	?	_	_	_	_	_	Gloss=serait
+3	kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
+4	[	[	?	_	_	_	_	_	Gloss=?
+5	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+6	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	tond	dont	verbe	_	_	_	_	_	Gloss=venir
+9	amañ.	amañ	?	_	_	_	_	_	Gloss=ici
+10	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = AnDiberder(2000:95)__1
+# text = Mi vé koutant [ mounet te naan asamp kenoh ]
+# text_fr = 'Je veux bien aller nager avec vous.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Mi	pfi	?	_	_	_	_	_	Gloss=moi
+2	vé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	koutant	koutant	?	_	_	_	_	_	Gloss=content
+4	[	[	?	_	_	_	_	_	Gloss=?
+5	mounet	mont	verbe	_	_	_	_	_	Gloss=aller
+6	te	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	naan	neuial	verbe	_	_	_	_	_	Gloss=nager
+8	asamp	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
+9	kenoh	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+10	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = AnDiberder(2000:95)__1
+# text = mi yei de gonz dohté ha de houlen geté mar vent koutant [ me hemir ]
+# text_fr = 'J'irai leur parler et leur demander s'ils acceptent de me prendre.'
+# dialect = Vannetais
+# location = début XX°
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	mi	pfi	?	_	_	_	_	_	Gloss=moi
+2	yei	mont	verbe	_	_	_	_	_	Gloss=ira
+3	de	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	gonz	komz	verbe	_	_	_	_	_	Gloss=parler
+5	dohté	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	de	da	préposition	_	_	_	_	_	Gloss=pour
+8	houlen	houlen	?	_	_	_	_	_	Gloss=demander
+9	geté	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+10	mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+11	vent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+12	koutant	koutant	?	_	_	_	_	_	Gloss=content
+13	[	[	?	_	_	_	_	_	Gloss=?
+14	me	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+15	hemir	kemer	verbe	_	_	_	_	_	Gloss=prendre
+16	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = 'Maout kontant [ dond da Uhelgoad d'ober eur honkour kostumou ] ?
+# text_fr = 'Tu veux bien venir à Uhelgoat faire un concours de costumes ?'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	'	eman	?	_	_	_	_	_	Gloss=es
+2	Maout	Maout	nom	_	_	_	_	_	Gloss=content
+3	kontant	kontant	adjectif	_	_	_	_	_	Gloss=?
+4	[	[	?	_	_	_	_	_	Gloss=?
+5	dond	dont	verbe	_	_	_	_	_	Gloss=venir
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	Uhelgoad	nompropre	?	_	_	_	_	_	Gloss=Uhelgoat
+8	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	eur	art	nom	_	_	_	_	_	Gloss=un
+11	honkour	honkour	?	_	_	_	_	_	Gloss=5
+12	kostumou	kostumou	?	_	_	_	_	_	Gloss=costumes
+13	]	]	?	_	_	_	_	_	Gloss=?
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
+# text = Kontant e vichen ma kanfe Yann aliesoc'h.
+# text_fr = 'Je serais content si Yann chantait plus souvent.'
+# dialect = Léonard
+# source = A. M. (04/2016b)
+# texttype = Élicitations
+1	Kontant	Kontant	adjectif	_	_	_	_	_	Gloss=content
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vichen	COP	?	_	_	_	_	_	Gloss=serais
+4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+5	kanfe	kanañ	verbe	_	_	_	_	_	Gloss=chanterait
+6	Yann	Yann	?	_	_	_	_	_	Gloss=Yann
+7	aliesoc'h	alies.-oc'h	adverbe.?	_	_	_	_	_	Gloss=souvent.plus
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

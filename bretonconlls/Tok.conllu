@@ -1,0 +1,30 @@
+# sent_id = ArMeliner(2009:17)__2
+# text = n'en devo nemet tostaat da sellet e dok.
+# text_fr = '... il n'aura qu'à s'approcher pour regarder son chapeau.'
+# source = Ar Meliner (2009)
+1	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	en	en	complémenteur	_	_	_	_	_	Gloss=R
+3	devo	kaout	?	_	_	_	_	_	Gloss=aura
+4	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+5	tostaat	tostaat	verbe	_	_	_	_	_	Gloss=approcher
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	dok	dok	?	_	_	_	_	_	Gloss=chapeau
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBozec(1933:34)__1
+# text = Ar merc'hed a doug breman tokou evel ar baotred.
+# text_fr = 'Les filles portent maintenant des chapeaux comme les garçons.'
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	doug	dougen	verbe	_	_	_	_	_	Gloss=porte
+5	breman	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+6	tokou	-où(PL.)	?	_	_	_	_	_	Gloss=x
+7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

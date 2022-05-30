@@ -1,0 +1,41 @@
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016b)__1
+# text = Ne blij ket din e vo laosket ar c'hi a fas da dor ar vagajen.
+# text_fr = 'J'aime pas quand on laisse son chien devant la porte du magasin.'
+# dialect = Léonard
+# source = Y. M. (04/2016b)
+# texttype = Élicitations
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	vo	COP	?	_	_	_	_	_	Gloss=sera
+7	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	c'hi	c'hi	?	_	_	_	_	_	Gloss=5
+10	a	a	préposition	_	_	_	_	_	Gloss=[[afas
+11	fas	fas	nom	_	_	_	_	_	Gloss=da|devant]]]
+12	da	da	préposition	_	_	_	_	_	Gloss=de
+13	dor	dor	nom	_	_	_	_	_	Gloss=porte
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	vagajen	magazenn	?	_	_	_	_	_	Gloss=magasin|Morph=1
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:182)__1
+# text = Chi cher-ni 'n eus taget chi chemener bras chiou.
+# text_fr = 'Le chien de notre village a étranglé le chien du grand tailleur aujourd'hui.'
+# dialect = Cornouaillais
+# location = Bannalec
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Chi	Chi	?	_	_	_	_	_	Gloss=chien
+2	cher-ni	kêr	nom	_	_	_	_	_	Gloss=village
+3	'	kaout	?	_	_	_	_	_	Gloss=a
+4	n	n	?	_	_	_	_	_	Gloss=?
+5	eus	eus	?	_	_	_	_	_	Gloss=?
+6	taget	tagañ	verbe	_	_	_	_	_	Gloss=attaqué
+7	chi	chi	?	_	_	_	_	_	Gloss=chien
+8	chemener	kemener	nom	_	_	_	_	_	Gloss=tailleur
+9	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	chiou	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,259 @@
+# sent_id = Gros(1970b:§'lod')__1
+# text = C'hoant am-eus e-nefe lod euz ar sort a zo.
+# text_fr = 'Je désire qu'il ait sa part de ce qu'il y a.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	C'	C'	?	_	_	_	_	_	Gloss=envie
+2	hoant	hoant	?	_	_	_	_	_	Gloss=?
+3	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+4	e-nefe	e-nefe	?	_	_	_	_	_	Gloss=R|Morph=4
+5	lod	lod	quantifieur	_	_	_	_	_	Gloss=part
+6	euz	eus	?	_	_	_	_	_	Gloss=de
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	sort	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+9	a	a	préposition	_	_	_	_	_	Gloss=R
+10	zo	E	?	_	_	_	_	_	Gloss=y.a
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1957:'c'hoantuzenn')__1
+# text = N'am-eus ket bet anavezet morse gwasoh c'hoantuzenn.
+# text_fr = 'Je n'ai jamais connu de pire envieuse.'
+# source = Le Gall (1957)
+1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+2	bet	bet	?	_	_	_	_	_	Gloss=eu
+3	anavezet	anavezout	verbe	_	_	_	_	_	Gloss=connu
+4	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+5	gwasoh	gwasoc'h	?	_	_	_	_	_	Gloss=pire
+6	c'hoantuzenn	-us.-enn	?.nom	_	_	_	_	_	Gloss=eus.e
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:9)__1
+# text = Ne oant nemed devezourien, 'n-oa c'hoantet en em lakaad war o hont o-unan...
+# text_fr = 'C'était seulement des journaliers qui avaient voulu se mettre à leur propre compte... '
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	oant	COP	?	_	_	_	_	_	Gloss=étaient
+3	nemed	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	devezourien	deiz.-vezh.-ourien	nom.nom.?	_	_	_	_	_	Gloss=journ.ée.iers
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	'	kaout	?	_	_	_	_	_	Gloss=avait
+7	n-oa	n-oa	?	_	_	_	_	_	Gloss=?
+8	c'hoantet	-aat	verbe	_	_	_	_	_	Gloss=é
+9	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+10	em	em	?	_	_	_	_	_	Gloss=?
+11	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+12	war	war	?	_	_	_	_	_	Gloss=sur
+13	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+14	hont	kont	?	_	_	_	_	_	Gloss=compte
+15	o-unan..	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:155)__1
+# text = Me n'am-boa ket  a hoant  e vije gwerzet mann ebed.
+# text_fr = 'Je ne veux pas que l'on vende quoi que ce soit.'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	am-boa	am-boa	?	_	_	_	_	_	Gloss=R
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5			PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=?
+7	hoant	hoant	?	_	_	_	_	_	Gloss=envie
+8	??	??	?	_	_	_	_	_	Gloss=[
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	vije	COP	?	_	_	_	_	_	Gloss=serait
+12	gwerzet	gwerzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=vend.u
+13	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+
+# sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
+# text = Bet meus bet ar bizaoù ema bet c'hoant { kaout/da gaout } ui ma bla.
+# text_fr = 'J'ai eu la bague dont j'avais envie pour mon anniversaire.'
+# dialect = Cornouaillais
+# source = H. Gaudart (03/2017)
+# texttype = Élicitations
+1	Bet	bet	?	_	_	_	_	_	Gloss=eu
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	bet	bet	?	_	_	_	_	_	Gloss=eu
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	bizaoù	bizaoù	?	_	_	_	_	_	Gloss=bague
+6	ema	kaout	?	_	_	_	_	_	Gloss=avais
+7	bet	bet	?	_	_	_	_	_	Gloss=eu
+8	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+9	{	kaout	?	_	_	_	_	_	Gloss=avoir
+10	kaout/da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+12	}	}	?	_	_	_	_	_	Gloss=?
+13	ui	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+14	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+15	bla	bloaz	nom	_	_	_	_	_	Gloss=anniversaire
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1995:§274)__1
+# text = C'hoant ( _ dimeziñ e verc'h) en doa (da dimeziñ e verc'h).
+# text_fr = 'Il avait envie de marier sa fille.'
+# source = Kervella (1995)
+1	C'	C'	?	_	_	_	_	_	Gloss=envie
+2	hoant	hoant	?	_	_	_	_	_	Gloss=?
+3	(	(	?	_	_	_	_	_	Gloss=_
+4	_	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
+5	dimeziñ	POSS	?	_	_	_	_	_	Gloss=sa|Morph=1
+6	e	merc'h	?	_	_	_	_	_	Gloss=fille
+7	verc'h)	verc'h)	?	_	_	_	_	_	Gloss=?
+8	en	en	complémenteur	_	_	_	_	_	Gloss=R
+9	doa	kaout	?	_	_	_	_	_	Gloss=avait
+10	(da	da	préposition	_	_	_	_	_	Gloss=de
+11	dimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
+12	e	POSS	?	_	_	_	_	_	Gloss=sa|Morph=1
+13	verc'h)	merc'h	?	_	_	_	_	_	Gloss=fille
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:34)__1
+# text = C'hoant en doa, eñ e-unan,  mont da redek.
+# text_fr = 'Il avait envie, lui-même, d'aller courir.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	C'	C'	?	_	_	_	_	_	Gloss=envie
+2	hoant	hoant	?	_	_	_	_	_	Gloss=?
+3	en	kaout	complémenteur	_	_	_	_	_	Gloss=avait
+4	doa,	doa,	?	_	_	_	_	_	Gloss=?
+5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+6	e-unan	POSS	?	_	_	_	_	_	Gloss=son
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+
+# sent_id = Gros(1989:'barr')__1
+# text = Tremenet eo ma barr c'hoant-kousket.
+# text_fr = 'Mon accès de sommeil est passé.'
+# source = Gros (1989)
+1	Tremenet	tremen	verbe	_	_	_	_	_	Gloss=passé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	barr	barr	nom	_	_	_	_	_	Gloss=coup
+5	c'hoant-kousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:138)__1
+# text = Ur sulvezh, pa oa debret va lein, e teuas c'hoant kousket din.
+# text_fr = 'Un dimanche, mon déjeuner pris, me vint l'envie de dormir.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	sulvezh	sul.-vezh	?.nom	_	_	_	_	_	Gloss=dimanch.ée
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+7	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	lein	lein	nom	_	_	_	_	_	Gloss=déjeuner
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	teuas	dont	verbe	_	_	_	_	_	Gloss=vint
+12	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+13	kousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
+14	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = [http://nousteferonsbretagne.blogspot.fr/2010_02_01_archive.htmlcommuniqué]NousteferonsBretagne,Filippot2010__1
+# text = N'hon eus ket c'hoant kaout ur ped komision warn-ugent.
+# text_fr = 'Nous ne voulons pas avoir (trente-mille / watt mille / une multitude de) commissions.'
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	hon	hon	?	_	_	_	_	_	Gloss=1PL
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+6	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	ped	pet	pronom	_	_	_	_	_	Gloss=combien
+9	komision	komision	?	_	_	_	_	_	Gloss=commission
+10	warn-ugent	war	?	_	_	_	_	_	Gloss=sur
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:107)__1
+# text = Ar re-mañ, [...] a-noa bet c'hoant rei deom da weled ...
+# text_fr = 'Ils avaient eu envie [...] de nous montrer... '
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Ar	DEM	?	_	_	_	_	_	Gloss=ceux.là
+2	re-mañ,	re-mañ,	?	_	_	_	_	_	Gloss=?
+3	[...]	[...]	?	_	_	_	_	_	Gloss=
+4	a-noa	kaout	?	_	_	_	_	_	Gloss=avait
+5	bet	kaout	?	_	_	_	_	_	Gloss=eu
+6	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+7	rei	reiñ	verbe	_	_	_	_	_	Gloss=donner
+8	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+11	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:154)__1
+# text = Ni a-meum c'hoant kahad.
+# text_fr = 'Nous avons envie de chier.'
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	a-meum	a-meum	?	_	_	_	_	_	Gloss=R
+3	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+4	kahad	kaoc'h.-at	?.?	_	_	_	_	_	Gloss=merd.er
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:176)__1
+# text = Me am-eus ` c'hoant da lavared penaoz ema ar wirionez gant ar skolaer!
+# text_fr = 'Moi, je prétends que l'instituteur a raison.'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+3	`	`	?	_	_	_	_	_	Gloss=?
+4	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+7	penaoz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
+8	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+11	gant	gant	?	_	_	_	_	_	Gloss=avec
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	skolaer	skol.-aer	nom.?	_	_	_	_	_	Gloss=écol.eur
+14	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:158)__1
+# text = C'hoant a-walh e-neus da vond da zañsal.
+# text_fr = 'Il a assez envie d'aller danser.'
+# source = Gros (1970)
+1	C'	C'	?	_	_	_	_	_	Gloss=envie
+2	hoant	hoant	?	_	_	_	_	_	Gloss=?
+3	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+4	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	vond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zañsal	dañsal	verbe	_	_	_	_	_	Gloss=danser
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:10)__1
+# text = ha ne veze ket c'hoant e vije glepet ar bara gant an dour-mor.
+# text_fr = 'Et on ne voulait pas que le pain soit mouillé d'eau de mer.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	vije	COP	?	_	_	_	_	_	Gloss=serait
+8	glepet	gleb.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=mouill.-é
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bara	bara	nom	_	_	_	_	_	Gloss=pain
+11	gant	gant	?	_	_	_	_	_	Gloss=avec
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	dour-mor	dour	nom	_	_	_	_	_	Gloss=eau
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

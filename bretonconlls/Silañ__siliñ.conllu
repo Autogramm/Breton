@@ -1,0 +1,18 @@
+# sent_id = ArMeliner(2009:62)__1
+# text = Em siliñ a ra dre ar c'hostez, en ur glask an amc'houloù.
+# text_fr = 'Elle se faufile par le côté, en recherchant la pénombre.'
+# source = ar Meliner (2009)
+1	Em	enem	?	_	_	_	_	_	Gloss=se
+2	siliñ	siliñ	?	_	_	_	_	_	Gloss=faufiler
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	dre	dre	préposition	_	_	_	_	_	Gloss=par
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	c'hostez	kostez	nom	_	_	_	_	_	Gloss=côté|Morph=5
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+10	ur	ur	?	_	_	_	_	_	Gloss=?
+11	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	amc'houloù	an-,am-	?	_	_	_	_	_	Gloss=pfx]|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

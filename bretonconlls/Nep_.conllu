@@ -1,0 +1,16 @@
+# sent_id = M.Jouitteau(àtesterenélicitation)__1
+# text = Bet on e neblec'h.
+# text_fr = 'Je suis allé.e nulle part'
+1	Bet	bet	?	_	_	_	_	_	Gloss=été
+2	on	COP	?	_	_	_	_	_	Gloss=suis
+3	e	P.e	?	_	_	_	_	_	Gloss=P
+4	neblec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = M.Jouitteau(àtesterenélicitation)__1
+# text = Neblec'h e tebran.
+# text_fr = 'Nulle part je ne mange'
+1	Neblec'h	Neblec'h	?	_	_	_	_	_	Gloss=NEG.lieu
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	tebran	debriñ	verbe	_	_	_	_	_	Gloss=mange
+4	.	.	PUNCT	_	_	_	_	Gloss=punct

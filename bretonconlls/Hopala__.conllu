@@ -1,0 +1,14 @@
+# sent_id = Bzh5(2007:24).__1
+# text = Hopala, Sam ! Pebezh tres zo warnout !
+# text_fr = 'Hey, Sam ! T'en fais une tête !'
+# source = Bzh5 (2007)
+# texttype = Références de corpus
+1	Hopala	interjection	?	_	_	_	_	_	Gloss=Hey!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Sam	nompropre	?	_	_	_	_	_	Gloss=Sam
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	Pebezh	pebezh	?	_	_	_	_	_	Gloss=quel
+6	tres	tres	nom	_	_	_	_	_	Gloss=aspect
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	warnout	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.toi
+9	!	!	PUNCT	_	_	_	_	Gloss=punct

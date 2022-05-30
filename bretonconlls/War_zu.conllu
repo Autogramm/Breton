@@ -1,0 +1,33 @@
+# sent_id = Seite&Stéphan(1957:144),citantKerrien(1926)__1
+# text = Ar voul a yeas [...] war-du an teir reñkad kilhou.
+# text_fr = 'La boule se dirigea [...] vers les trois rangées de quilles.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	voul	voul	?	_	_	_	_	_	Gloss=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	yeas	mont	verbe	_	_	_	_	_	Gloss=alla
+5	[...]	[...]	?	_	_	_	_	_	Gloss=_
+6	war-du	tu	nom	_	_	_	_	_	Gloss=côté|Morph=1
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+9	reñkad	reñkad	?	_	_	_	_	_	Gloss=rangée
+10	kilhou	kilhou	?	_	_	_	_	_	Gloss=quilles
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGléau(1973:45)__1
+# text = Bale, redek, nijal a rit-hu war-du an termen.
+# text_fr = 'Vous marchez, courez, volez vers le terme.'
+# source = SMM.
+1	Bale	bale	verbe	_	_	_	_	_	Gloss=marcher
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	redek	redek	verbe	_	_	_	_	_	Gloss=courir
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	nijal	nijal	verbe	_	_	_	_	_	Gloss=voler
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	rit-hu	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+8	war-du	tu	nom	_	_	_	_	_	Gloss=côté|Morph=1
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	termen	termen	?	_	_	_	_	_	Gloss=terme
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

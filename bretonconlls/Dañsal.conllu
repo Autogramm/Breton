@@ -1,0 +1,13 @@
+# sent_id = Gros(1970:158)__1
+# text = C'hoant a-walh e-neus da vond da zañsal.
+# text_fr = 'Il a assez envie d'aller danser.'
+# source = Gros (1970)
+1	C'	c'hoant	?	_	_	_	_	_	Gloss=envie
+2	hoant	hoant	?	_	_	_	_	_	Gloss=?
+3	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+4	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	vond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zañsal	zañsal	?	_	_	_	_	_	Gloss=danser
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

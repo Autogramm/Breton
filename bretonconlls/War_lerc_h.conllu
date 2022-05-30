@@ -1,0 +1,176 @@
+# sent_id = Denez(1993:32)__1
+# text = ne oa ket an doareoù, war-lerc'h ar brezel, ar pezh e oant dek vloaz a-raok...
+# text_fr = 'Les choses n'étaient pas, après la guerre, ce qu'elles étaient dix ans auparavant.'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	ne	ne	?	_	_	_	_	_	Gloss=ne
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	doareoù	doare.-où(PL.)	nom.?	_	_	_	_	_	Gloss=manière.s
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	ar	ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
+12	pezh	pezh	?	_	_	_	_	_	Gloss=que]]]
+13	e	e	?	_	_	_	_	_	Gloss=R
+14	oant	COP	?	_	_	_	_	_	Gloss=étaient
+15	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+16	a-raok..	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:26)__3
+# text = Lakait-hé skoaz-doc'h-skoaz, par-doc'h-par, àr lerc'h c'hwi 'choajo.
+# text_fr = 'Mets-les épaule contre épaule, égal contre égal, après tu choisiras, i.e. compare-les, après.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	skoaz-doc'h-skoaz	skoaz	nom	_	_	_	_	_	Gloss=épaule
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	par-doc'h-par	par	préposition-nom	_	_	_	_	_	Gloss=égal
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	àr	àr	?	_	_	_	_	_	Gloss=après
+6	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=?
+7	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+8	'	choaz	verbe	_	_	_	_	_	Gloss=choisirez
+9	choajo.	choajo.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Ternes(1970:323)__1
+# text = /ar-lerX mə-Xwa laked ənavəlew, Xwa ret Xuxušətat /
+# text_fr = 'Après que les pommes-de-terre étaient mises, il fallait les butter.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/ar-lerX	/ar-lerX	?	_	_	_	_	_	Gloss=après
+2	mə-Xwa	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	laked	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+4	Xwa	COP	?	_	_	_	_	_	Gloss=était
+5	ret	red	?	_	_	_	_	_	Gloss=obligé
+6	Xuxušətat	POP	?	_	_	_	_	_	Gloss=les
+7	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = MonaBouzeg,Riec,c.p.(02/2012)__1
+# text = Ben ' zeber mat pez ket naon war-lerc'h.
+# text_fr = 'Quand on mange bien, on n'a pas faim après.'
+1	Ben	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+3			PUNCT	_	_	_	_	Gloss=punct
+4	zeber	debriñ.IMP	verbe.?	_	_	_	_	_	Gloss=mange.on
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	pez	kaout	?	_	_	_	_	_	Gloss=a
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	naon	naon	nom	_	_	_	_	_	Gloss=faim
+9	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:5)__3
+# text = An oll badeziantou a veze greet en devez war-lerh ma vezed ganet.
+# text_fr = 'Tous les baptêmes étaient faits le lendemain de la naissance.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous|Morph=1
+3	badeziantou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+6	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	devez	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
+9	war-lerh	war-lerh	?	_	_	_	_	_	Gloss=après
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+11	vezed	vez.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=était.on
+12	ganet	genel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=n.é
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arGow(1999:31)__2
+# text = Kement a vall a oa warnañ da vont kuit ma lezas e holl zanvez war e lerc'h.
+# text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
+# location = Pleyben
+# source = ar Gow (1999)
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	vall	mall	nom	_	_	_	_	_	Gloss=hâte
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+11	lezas	lezel	?	_	_	_	_	_	Gloss=laissa
+12	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+14	zanvez	danvez	nom	_	_	_	_	_	Gloss=affaire|Morph=1
+15	war	war	?	_	_	_	_	_	Gloss=sur
+16	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+17	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1950:157)__3
+# text = Va zad a lakay ac'hanoun da roue war e lerc'h.
+# text_fr = 'Mon père me fera roi à sa suite.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	zad	tad	nom	_	_	_	_	_	Gloss=père
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	lakay	lakaat	verbe	_	_	_	_	_	Gloss=mettra
+5	ac'hanoun	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	roue	roue	nom	_	_	_	_	_	Gloss=roi
+8	war	war	?	_	_	_	_	_	Gloss=sur
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:43)__1
+# text = Ma c'hi a red war-lerc'h ar gedon.
+# text_fr = 'Mon chien court les lièvres.'
+# location = Bulien
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	red	redek	verbe	_	_	_	_	_	Gloss=court
+5	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	gedon	gad.-on(PL.)	nom.?	_	_	_	_	_	Gloss=lièvre.s
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:45)__1
+# text = Eñ an hini a rede war-lerc’h ur plac’h yaouank dianav.
+# text_fr = 'C'est lui qui courait après une jeune fille inconnue.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	rede	redek	verbe	_	_	_	_	_	Gloss=courait
+6	war-lerc’h	war-lerc’h	?	_	_	_	_	_	Gloss=après
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	plac’h	plac'h	?	_	_	_	_	_	Gloss=fille
+9	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+10	dianav	di-.anavezout	?.verbe	_	_	_	_	_	Gloss=in.connu
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:67)__1
+# text = En araj ' oan àr e lerc'h.
+# text_fr = 'J'étais en rage après lui, fortement irrité.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	En	P.e	complémenteur	_	_	_	_	_	Gloss=en
+2	araj	araj	?	_	_	_	_	_	Gloss=rage
+3	'	'	?	_	_	_	_	_	Gloss=R
+4			PUNCT	_	_	_	_	Gloss=punct
+5	oan	COP	nom	_	_	_	_	_	Gloss=étais
+6	àr	war	?	_	_	_	_	_	Gloss=sur
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,41 +1,41 @@
 # sent_id = arBarzhig(1976:36)__1
 # text = Darn a red a-gleiz, darn all a-zehou...
-# text_fr =  'Certains courent à gauche, d'autres à droite.' 
+# text_fr = 'Certains courent à gauche, d'autres à droite.'
 # location = Kaouenneg
 # source = ar Barzhig (1976)
 1	Darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	red	redek	verbe	_	_	_	_	_	Gloss=court
-4	a-gleiz	kleiz	adjectif-nom	1	_	_	_	_	Gloss=gauche
+4	a-gleiz	kleiz	nom-adjectif	_	_	_	_	_	Gloss=gauche|Morph=1
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
 7	all	all	?	_	_	_	_	_	Gloss=autre
-8	a-zehou..	dehoù	adjectif-nom	1	_	_	_	_	Gloss=droite
+8	a-zehou..	dehoù	nom-adjectif	_	_	_	_	_	Gloss=droite|Morph=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Nicolas (2005:48)  __1
 # text = Me 'anava mat ar vaouez an hani 'zo ' chom a-kostez.
-# text_fr =  'Je connais bien la femme qui habite à côté.'
+# text_fr = 'Je connais bien la femme qui habite à côté.'
 # text_phon = ['mǝ', 'anawa', 'mat', 'ar vwes', 'nɛ͂n', 'zi', 'ʃom', 'akosti']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	'	anavezout	verbe	_	_	_	_	_	Gloss=connait
 3	anava	anava	?	_	_	_	_	_	Gloss=?
-4	mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
+4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vaouez	maouez	nom	1	_	_	_	_	Gloss=femme
+6	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
 7	an	an	?	_	_	_	_	_	Gloss=
 8	hani	hani	?	_	_	_	_	_	Gloss=?
 9	'	art	?	_	_	_	_	_	Gloss=le
 10	zo	zo	?	_	_	_	_	_	Gloss=hini
 11	'	zo	?	_	_	_	_	_	Gloss=est
-12			?	_	_	_	_	_	Gloss=?
+12			PUNCT	_	_	_	_	Gloss=punct
 13	chom	chom	verbe	_	_	_	_	_	Gloss=?
-14	a-kostez	chom	verbe	4	_	_	_	_	Gloss=rester
+14	a-kostez	chom	verbe	_	_	_	_	_	Gloss=rester|Morph=4
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:45)__1
 # text = Monet a rae a bihan fourchad.
-# text_fr =  'Il allait à petits pas.'
+# text_fr = 'Il allait à petits pas.'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
@@ -43,13 +43,13 @@
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
 4	a	a	préposition	_	_	_	_	_	Gloss=à
-5	bihan	bihan	adjectif-quantifieur-adverbe	_	_	_	_	_	Gloss=petit
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
 6	fourchad	fourch.-ad,-iad	nom.?	_	_	_	_	_	Gloss=pas.long
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Nicolas (2005:26)  __1
 # text = Betaat a rit a-vuzul m'eh vrasait.
-# text_fr =  'Vous devenez plus bête en grandissant.'
+# text_fr = 'Vous devenez plus bête en grandissant.'
 # text_phon = ['[ betad', 'ǝ', 'rǝt', 'avǝzǝl', 'mi', 'frasǝt ]']
 1	Betaat	betaat	?	_	_	_	_	_	Gloss=bêtir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
@@ -62,46 +62,46 @@
 
 # sent_id = ArBorgn(2011:110)__1
 # text = C'hwi a gemera ac'hanin e'it un azen pe petra ?
-# text_fr =  'Tu me prends pour un âne ou quoi ?'
+# text_fr = 'Tu me prends pour un âne ou quoi ?'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	C'	pfi	?	_	_	_	_	_	Gloss=vous
 2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	gemera	kemer	verbe	_	_	_	_	_	Gloss=prend
 5	ac'hanin	pronomincorporé	?	_	_	_	_	_	Gloss=moi
-6	e'	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+6	e'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 7	it	it	?	_	_	_	_	_	Gloss=?
 8	un	art	?	_	_	_	_	_	Gloss=un
 9	azen	azen	nom	_	_	_	_	_	Gloss=âne
-10	pe	pe	complémenteur-conjonction	_	_	_	_	_	Gloss=ou
-11	petra	petra	complémenteur-pronom	_	_	_	_	_	Gloss=quoi
-12	?	?	?	_	_	_	_	_	Gloss=?
+10	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+11	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Martin(1929:181)__1
 # text = Jôzeb, pa zec'h de Lañnijen, c'hui zei da welet nounn.
-# text_fr =  'Joseph, quand tu passeras par Lanvénégen, tu viendras me voir.' 
+# text_fr = 'Joseph, quand tu passeras par Lanvénégen, tu viendras me voir.'
 # dialect = Cornouaillais
 # location = Lanvenegen
 # source = Martin (1929)
 # texttype = Références de corpus
 1	Jôzeb	nompropre	?	_	_	_	_	_	Gloss=Joseph
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	pa	pa	complémenteur	1	_	_	_	_	Gloss=quand
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 4	zec'h	dont	verbe	_	_	_	_	_	Gloss=viendrez
-5	de	da	préposition	1	_	_	_	_	Gloss=à
+5	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 6	Lañnijen	nompropre	?	_	_	_	_	_	Gloss=Lanvénégen
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	zei	dont	verbe	_	_	_	_	_	Gloss=viendra
-9	da	da	préposition	1	_	_	_	_	Gloss=pour
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 10	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 11	nounn	pronomincorporé	?	_	_	_	_	_	Gloss=moi
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger (2004a:287)__1
 # text = Me 'wel ac'hanoc'h.
-# text_fr =  'Je vous vois.'
+# text_fr = 'Je vous vois.'
 # text_phon = ['[ me wɛl', 'hãX  ]']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	'	gwelout	verbe	_	_	_	_	_	Gloss=voit
@@ -111,7 +111,7 @@
 
 # sent_id = Avezard-Roger (2004a:288)__1
 # text = Gwelout a ran ac'hanoc'h.
-# text_fr =  'Je vous vois.'
+# text_fr = 'Je vous vois.'
 # text_phon = ['[ gɥɛl', 'arõ', 'oX  ]']
 1	Gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
@@ -121,15 +121,15 @@
 
 # sent_id = Kerrien(2000:12)__1
 # text = Nikun ne da tre, 'met a_[[1]]_ Vreiz e ve.
-# text_fr =  'Personne ne pénètre, à moins d'être né en Bretagne.'
+# text_fr = 'Personne ne pénètre, à moins d'être né en Bretagne.'
 # source = Kerrien (2000)
 1	Nikun	nikun	quantifieur	_	_	_	_	_	Gloss=personne
-2	ne	ne	?	1	_	_	_	_	Gloss=ne
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 3	da	dont	verbe	_	_	_	_	_	Gloss=vient
 4	tre	postpositions	postposition	_	_	_	_	_	Gloss=postpos.
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	'	met	complémenteur-conjonction	_	_	_	_	_	Gloss=sauf
-7	met	met	complémenteur-conjonction	_	_	_	_	_	Gloss=?
+6	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=sauf
+7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=?
 8	a_[[1]]_	a_[[1]]_	?	_	_	_	_	_	Gloss=1
 9	Vreiz	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
 10	e	e	?	_	_	_	_	_	Gloss=R
@@ -138,7 +138,7 @@
 
 # sent_id = Milin(1922:402)__1
 # text = Ar plac'h yaouank, ne ouie doare eus a netra, a zo souezet.
-# text_fr =  'La jeune femme, qui ne savait rien de rien, est étonnée.'
+# text_fr = 'La jeune femme, qui ne savait rien de rien, est étonnée.'
 # dialect = Léonard
 # location = Saint Pol de Léon
 # source = Milin (1922)
@@ -147,24 +147,24 @@
 2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
 3	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ne	ne	?	1	_	_	_	_	Gloss=ne
+5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 6	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
 7	doare	doare	nom	_	_	_	_	_	Gloss=façon
 8	eus	eus	?	_	_	_	_	_	Gloss=de
 9	a	a	préposition	_	_	_	_	_	Gloss=de
 10	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	a	a	préposition	1	_	_	_	_	Gloss=R
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 13	zo	zo	?	_	_	_	_	_	Gloss=est
 14	souezet	souezhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=étonn.é
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kernaudour (2017:7, 11)__1
 # text = kent ma sortio deus a Vreizh  ''Équivalent standardisé''
-# text_fr =  'avant qu'elle ne s'expatrie'
+# text_fr = 'avant qu'elle ne s'expatrie'
 # text_phon = ['quent', 'ma', 'sortiou', 'deus', 'a', 'vreis']
 1	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	sortio	sortial	verbe	_	_	_	_	_	Gloss=sortira
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	a	a	préposition	_	_	_	_	_	Gloss=1
@@ -176,11 +176,11 @@
 11	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=?
 12	standardisé'	standardisé'	?	_	_	_	_	_	Gloss=?
 13	'	'	?	_	_	_	_	_	Gloss=?
-14			?	_	_	_	_	_	Gloss=?
+14			PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = GW.__1
 # text = An buhez Sant Gwenole abat kentaf eus a Landevennec.
-# text_fr =  'La vie de Saint-Gwénolé premier abbé de Landévennec.'
+# text_fr = 'La vie de Saint-Gwénolé premier abbé de Landévennec.'
 # location = Berrien
 # source = GW.
 1	An	art	?	_	_	_	_	_	Gloss=le
@@ -196,9 +196,9 @@
 
 # sent_id = ar Barzhig (1976:36) __1
 # text = Darn a red a-gleiz, darn all a-zehou...
-# text_fr =  '[[*]] Certains couraient venant de la gauche, d'autres venant de la droite.'
+# text_fr = '[[*]] Certains couraient venant de la gauche, d'autres venant de la droite.'
 1	Darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	red	redek	verbe	_	_	_	_	_	Gloss=court
 4	a-gleiz	a-gleiz	?	_	_	_	_	_	Gloss=1
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -209,13 +209,13 @@
 
 # sent_id = Gros(1970b:§'libistra')__1
 # text = Eur marmouz bennag e-nevoa libistret ar prenestr a goh-saout.
-# text_fr =  'Quelque galopin avait enduit la fenêtre de bouse de vache.'
+# text_fr = 'Quelque galopin avait enduit la fenêtre de bouse de vache.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Eur	art	nom	_	_	_	_	_	Gloss=un
 2	marmouz	marmouz	nom	_	_	_	_	_	Gloss=singe
-3	bennag	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+3	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 4	e-nevoa	kaout	?	_	_	_	_	_	Gloss=avait
 5	libistret	libistrañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=barbouill.é
 6	ar	art	?	_	_	_	_	_	Gloss=le
@@ -226,12 +226,12 @@
 
 # sent_id = Gros(1970b:§'lien')__1
 # text = Hennez a oa e bord eur batiment a lïen.
-# text_fr =  'Celui-là était à bord d'un navire à voiles.'
+# text_fr = 'Celui-là était à bord d'un navire à voiles.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	e	P.e	?	_	_	_	_	_	Gloss=en
 5	bord	bord	?	_	_	_	_	_	Gloss=bord
@@ -243,7 +243,7 @@
 
 # sent_id = Gros(1970b:§'leue')__1
 # text = Aliesoh a grohen leue a ya da zeha evid a grohen buoh.
-# text_fr =  'Il meurt plus de jeunes que de vieux.'
+# text_fr = 'Il meurt plus de jeunes que de vieux.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
@@ -251,11 +251,11 @@
 2	a	a	préposition	_	_	_	_	_	Gloss=1
 3	grohen	grohen	?	_	_	_	_	_	Gloss=peau
 4	leue	leue	nom	_	_	_	_	_	Gloss=veau
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	ya	mont	verbe	_	_	_	_	_	Gloss=va
-7	da	da	préposition	1	_	_	_	_	Gloss=à
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 8	zeha	sec'hiñ	?	_	_	_	_	_	Gloss=sécher
-9	evid	evit	complémenteur-préposition	_	_	_	_	_	Gloss=que
+9	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
 10	a	a	préposition	_	_	_	_	_	Gloss=1
 11	grohen	grohen	?	_	_	_	_	_	Gloss=peau
 12	buoh	buoc'h	?	_	_	_	_	_	Gloss=vache
@@ -263,26 +263,26 @@
 
 # sent_id = Vannetais,IB.(1910:19)__1
 # text = É nep tu ne vehé kavet kement a sord guskemanteu èl é Breih.
-# text_fr =  'Nulle part on ne trouverait autant de sortes de costumes qu'en Bretagne.'
+# text_fr = 'Nulle part on ne trouverait autant de sortes de costumes qu'en Bretagne.'
 # source = IB.
 1	É	P.e	?	_	_	_	_	_	Gloss=en
 2	nep	nepX	quantifieur-déterminant	_	_	_	_	_	Gloss=nep
 3	tu	tu	nom	_	_	_	_	_	Gloss=côté
-4	ne	ne	?	1	_	_	_	_	Gloss=ne
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 5	vehé	COP	?	_	_	_	_	_	Gloss=serait
 6	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
 8	a	a	préposition	_	_	_	_	_	Gloss=1
 9	sord	sort	?	_	_	_	_	_	Gloss=sorte
 10	guskemanteu	gwiskañ.-amant.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=costum.e.s
-11	èl	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+11	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 12	é	P.e	?	_	_	_	_	_	Gloss=en
 13	Breih	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§317)__1
 # text = Kontit deom pep a gontadenn.
-# text_fr =  'Contez-nous chacun une histoire.'
+# text_fr = 'Contez-nous chacun une histoire.'
 # location = Bigouden
 # source = Trépos (2001)
 1	Kontit	kontañ	verbe	_	_	_	_	_	Gloss=contez
@@ -294,14 +294,14 @@
 
 # sent_id = ArFloc'h(1985:75)__1
 # text = Ar frer rener eta a rankas bezañ klevet un diaoul a dra diwar va fenn...
-# text_fr =  'Le frère supérieur a dû entendre une diable de chose sur mon compte... '
+# text_fr = 'Le frère supérieur a dû entendre une diable de chose sur mon compte... '
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	frer	frer	?	_	_	_	_	_	Gloss=frère
 3	rener	ren.-er,-our	verbe.?	_	_	_	_	_	Gloss=direct.eur
 4	eta	eta	?	_	_	_	_	_	Gloss=donc
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	rankas	rankout	verbe	_	_	_	_	_	Gloss=dut
 7	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
 8	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
@@ -310,13 +310,13 @@
 11	a	a	préposition	_	_	_	_	_	Gloss=1
 12	dra	tra	nom	_	_	_	_	_	Gloss=chose
 13	diwar	diwar	préposition	_	_	_	_	_	Gloss=de.sur
-14	va	POSS	?	2	_	_	_	_	Gloss=mon
+14	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 15	fenn..	penn	nom	_	_	_	_	_	Gloss=tête
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger (2004a:121)__1
 # text = Ur sizhun 'zo dija 'meus ket bet de keve deus eñ.
-# text_fr =  'Il y a une semaine déjà que je n'ai pas eu de nouvelles de lui.'
+# text_fr = 'Il y a une semaine déjà que je n'ai pas eu de nouvelles de lui.'
 # text_phon = ['o zyn', 'zo deʒa', 'mœs', 'ke bit', "dø '@kɛv_ə_", 'døs ã']
 1	Ur	art	?	_	_	_	_	_	Gloss=un
 2	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
@@ -335,7 +335,7 @@
 
 # sent_id = Seite(1998:21)__1
 # text = Te, marteze a hellfe kana anezi.
-# text_fr =  'Toi, tu pourrais peut-être la chanter.'
+# text_fr = 'Toi, tu pourrais peut-être la chanter.'
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
@@ -343,7 +343,7 @@
 1	Te	pfi	?	_	_	_	_	_	Gloss=toi
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	marteze	marteze	?	_	_	_	_	_	Gloss=peut.être
-4	a	a	préposition	1	_	_	_	_	Gloss=R
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 5	hellfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
 6	kana	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 7	anezi	pronomincorporé	?	_	_	_	_	_	Gloss=elle
@@ -351,7 +351,7 @@
 
 # sent_id = Seite(1998:21)__1
 # text = Greet am-eus anez-o oll.
-# text_fr =  'Je les ai toutes faites.' (les troménies)
+# text_fr = 'Je les ai toutes faites.' (les troménies)
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
@@ -364,7 +364,7 @@
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = ( C'hwi / [[*]] Ac'hanoc'h ) am eus gwelet er marc'had gant ur garrigellad avaloù.
-# text_fr =  'C'est vous que j'ai vu au marché avec un chariot de pommes.'
+# text_fr = 'C'est vous que j'ai vu au marché avec un chariot de pommes.'
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	(	pfi	?	_	_	_	_	_	Gloss=vous
@@ -381,13 +381,13 @@
 12	marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
 13	gant	gant	?	_	_	_	_	_	Gloss=avec
 14	ur	art	?	_	_	_	_	_	Gloss=un
-15	garrigellad	karr	nom	1	_	_	_	_	Gloss=char]].[[DIM|iot]].[[-ad|ée
+15	garrigellad	karr	nom	_	_	_	_	_	Gloss=char]].[[DIM|iot]].[[-ad|ée|Morph=1
 16	avaloù	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger(2004a:419)__1
 # text = [ anezi e velan ]
-# text_fr =  'Je la vois.' (C'est elle que je vois)
+# text_fr = 'Je la vois.' (C'est elle que je vois)
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
 1	[	pronomincorporé	?	_	_	_	_	_	Gloss=elle
@@ -398,7 +398,7 @@
 
 # sent_id = Avezard-Roger(2004a:419)__1
 # text = [ anezo e velɔ̃m bɛmde ]
-# text_fr =  'Nous les voyons tous les jours.' (C'est eux que nous...)
+# text_fr = 'Nous les voyons tous les jours.' (C'est eux que nous...)
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
 1	[	pronomincorporé	?	_	_	_	_	_	Gloss=elle
@@ -410,11 +410,11 @@
 
 # sent_id = Stephens(1982:81)__1
 # text = Anezho a gavas Lenaig war an aod.
-# text_fr =  'Lenaig les a trouvés sur la grève.'
+# text_fr = 'Lenaig les a trouvés sur la grève.'
 # source = Stephens (1982)
 # texttype = Ouvrages de recherche
 1	Anezho	pronomincorporé	?	_	_	_	_	_	Gloss=eux
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gavas	kavout	verbe	_	_	_	_	_	Gloss=trouva
 4	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
 5	war	war	?	_	_	_	_	_	Gloss=sur
@@ -424,41 +424,41 @@
 
 # sent_id = Avezard-Roger (2004a:419)__1
 # text = Karout a ra anezhan e vugale.
-# text_fr =  'Ses enfants l'aiment.'
+# text_fr = 'Ses enfants l'aiment.'
 # text_phon = ['[ kaʁud', 'aʁa', 'anezã', 'he', 'vygale]']
 1	Karout	karout	verbe	_	_	_	_	_	Gloss=aimer
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
 4	anezhan	pronomincorporé	?	_	_	_	_	_	Gloss=lui
-5	e	POSS	?	1	_	_	_	_	Gloss=son
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 6	vugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite(1998:7)__1
 # text = Méd lavar ''din'' anezi da welet.
-# text_fr =  'Mais dis-la moi pour voir.'
+# text_fr = 'Mais dis-la moi pour voir.'
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Méd	met	complémenteur-conjonction	_	_	_	_	_	Gloss=mais
+1	Méd	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
 2	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
 3	'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 4	'	'	?	_	_	_	_	_	Gloss=?
 5	din'	din'	?	_	_	_	_	_	Gloss=?
 6	'	'	?	_	_	_	_	_	Gloss=?
-7			?	_	_	_	_	_	Gloss=?
+7			PUNCT	_	_	_	_	Gloss=punct
 8	anezi	pronomincorporé	?	_	_	_	_	_	Gloss=elle
-9	da	da	préposition	1	_	_	_	_	Gloss=pour
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 10	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Douarnenez,[HD2010]__1
 # text = Marijo neus (o frenet / prenet anezho).
-# text_fr =  'Marijo (les) a achetés.' 
+# text_fr = 'Marijo (les) a achetés.'
 1	Marijo	nompropre	?	_	_	_	_	_	Gloss=Marijo
 2	neus	kaout	?	_	_	_	_	_	Gloss=a
-3	(o	POP	?	2	_	_	_	_	Gloss=les
+3	(o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
 4	frenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
 5	/	/	?	_	_	_	_	_	Gloss=/
 6	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
@@ -466,14 +466,14 @@
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite(1998:8)__1
-# text = <u>Hemañ</u> a oa eur paotr fin anezañ.
-# text_fr =  'Celui-ci était malin.'
+# text = Hemañ a oa eur paotr fin anezañ.
+# text_fr = 'Celui-ci était malin.'
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	<u>Hemañ</u>	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	eur	art	nom	_	_	_	_	_	Gloss=un
 5	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
@@ -483,13 +483,13 @@
 
 # sent_id = Cheveau & Kersulec (2012-évolutif:Moëlan,'a-bosubl')__1
 # text = Me zo deuet a-benn da gompren anezhañ a-bosubl n'en deus ket kaozeet ouzhin anezhañ.
-# text_fr =  'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.' 
+# text_fr = 'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.'
 # text_phon = ['[mə', 'zo', 'ˈdɛd', 'a bɛn', 'da', 'ˈgõpʁən', 'ˈnaɔ̯̃', 'a ˈpoʃə', 'nø', 'ʃə', 'ˈkoːst', 'ijõ', 'ˌnõ]']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-4	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=à.bout
-5	da	da	préposition	1	_	_	_	_	Gloss=de
+4	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à.bout
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	gompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
 7	anezhañ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
 8	a-bosubl	a-bosubl	?	_	_	_	_	_	Gloss=même.si
@@ -504,16 +504,16 @@
 
 # sent_id = Widmer 2017:226)__1
 # text = hogos dez eu anezy
-# text_fr =  'Ce sera bientôt le matin.' 
+# text_fr = 'Ce sera bientôt le matin.'
 # source2 =  Breton XVI°, Le Berre (2011) 
-1	hogos	hogos	adjectif-adverbe	_	_	_	_	_	Gloss=presque
+1	hogos	hogos	adverbe-adjectif	_	_	_	_	_	Gloss=presque
 2	dez	deiz	nom	_	_	_	_	_	Gloss=jour
 3	eu	E	?	_	_	_	_	_	Gloss=est
 4	anezy	pronomincorporé	?	_	_	_	_	_	Gloss=elle
 
 # sent_id = German(2007:172)__1
 # text = Ac yna edrych ohonaw fe ar liw yr erchwys.
-# text_fr =  'Et il regarda la couleur de la meute.' 
+# text_fr = 'Et il regarda la couleur de la meute.'
 # dialect = Cornouaillais
 # source = German (2007)
 # texttype = Ouvrages de recherche
@@ -530,7 +530,7 @@
 
 # sent_id = Heusaff(1996:30)__1
 # text = nid oes dim ohono efe 'n canu.
-# text_fr =  'Il n'est pas en train de chanter.' 
+# text_fr = 'Il n'est pas en train de chanter.'
 # location = Morgannwg
 # source = Heusaff (1996)
 # texttype = Ouvrages de recherche

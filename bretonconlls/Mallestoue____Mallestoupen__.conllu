@@ -1,0 +1,21 @@
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__4
+# text = Benn 'vez prenet un azen e vez dav gober war e dro, mallestoupen !
+# text_fr = 'Quand on achète un âne on s'en occupe, sacrebleu!'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	vez	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
+3	prenet	prenet	?	_	_	_	_	_	Gloss=?
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	azen	azen	nom	_	_	_	_	_	Gloss=âne
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	dav	dav	adjectif	_	_	_	_	_	Gloss=obligé
+9	gober	gober	?	_	_	_	_	_	Gloss=faire
+10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	mallestoupen	mallestoupen	?	_	_	_	_	_	Gloss=sacrebleu
+15	!	!	PUNCT	_	_	_	_	Gloss=punct

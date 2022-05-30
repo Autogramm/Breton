@@ -1,13 +1,13 @@
 # sent_id = ArFloc'h(1985:114)__1
 # text = muioc'h disfizius, muioc'h amgredig oant eget paotred Gwipavaz.
-# text_fr =  '... ils étaient plus méfiants, plus sceptiques que les gars de Guipavas.' 
+# text_fr = '... ils étaient plus méfiants, plus sceptiques que les gars de Guipavas.'
 # location = Bodilis
 # source = Ar Floch (1985)
 1	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 2	disfizius	di-.-us	?.?	_	_	_	_	_	Gloss=dé.ant
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-5	amgredig	krediñ	verbe	1	_	_	_	_	Gloss=croy
+5	amgredig	krediñ	verbe	_	_	_	_	_	Gloss=croy|Morph=1
 6	oant	COP	?	_	_	_	_	_	Gloss=étaient
 7	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 8	paotred	paotr	nom	_	_	_	_	_	Gloss=gars
@@ -16,7 +16,7 @@
 
 # sent_id = Herri(1982:85)__1
 # text = e ti ar binvidien
-# text_fr =  'dans les maisons des riches'
+# text_fr = 'dans les maisons des riches'
 # source = Herri (1982)
 # texttype = Références de corpus
 1	e	P.e	?	_	_	_	_	_	Gloss=en
@@ -26,7 +26,7 @@
 
 # sent_id = Hupel(2013:§17)__1
 # text = Ar pinvidig n'eo ket rividik.
-# text_fr =  'Le riche n'est pas frileux.'
+# text_fr = 'Le riche n'est pas frileux.'
 # source = Hupel (2013)
 # texttype = Références de corpus
 1	Ar	art	?	_	_	_	_	_	Gloss=le

@@ -1,0 +1,38 @@
+# sent_id = Konan(2017:'dagaout')__1
+# text = Pa ne oa benveg ebet dezhañ da gaout
+# text_fr = 'quand il n'avait aucun outil sous la main'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	benveg	benveg	nom	_	_	_	_	_	Gloss=outil
+5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+
+# sent_id = Gros(1984:49)__1
+# text = Peleh ar béd e-neus klenket ma binviou ?
+# text_fr = 'Où diable a-t-il rangé mes outils ?'
+# source = Gros (1984)
+1	Peleh	pelec'h	?	_	_	_	_	_	Gloss=où
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	béd	bed	nom	_	_	_	_	_	Gloss=monde
+4	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
+5	klenket	klenkañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=rang.é
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	binviou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:66)__1
+# text = binvioù va amezeien...
+# text_fr = 'les outils de mes voisins.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	binvioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+2	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	amezeien..	amezeg.-ien	nom.?	_	_	_	_	_	Gloss=voisin.s
+4	.	.	PUNCT	_	_	_	_	Gloss=punct

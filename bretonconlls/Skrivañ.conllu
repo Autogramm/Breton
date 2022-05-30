@@ -1,0 +1,17 @@
+# sent_id = ArFloc'h(1985:138)__3
+# text = Met morse n'em eus skrivet en brezhoneg war gazetenn ebet !
+# text_fr = 'Mais jamais je n'ai écrit en breton dans aucun journal!'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	em	em	?	_	_	_	_	_	Gloss=1SG
+5	eus	kaout	?	_	_	_	_	_	Gloss=a
+6	skrivet	skrivet	?	_	_	_	_	_	Gloss=écrit
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+10	gazetenn	kazetenn	nom	_	_	_	_	_	Gloss=journal
+11	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

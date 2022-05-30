@@ -1,0 +1,389 @@
+# sent_id = Favereau(1993:§-mañ)__1
+# text = an dra-mañ / Mari-mañ
+# text_fr = 'cette chose', 'Marie ici présente'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	dra-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+3	/	/	?	_	_	_	_	_	Gloss=
+4	Mari-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+
+# sent_id = Hingant(1868:210,202*)__1
+# text = C'hoand am euz da gaoud ar marc'h-mañ marc'h.
+# text_fr = 'J'ai envie d'avoir tel cheval.'
+# source = Hingant (1868)
+# texttype = Ouvrages de recherche
+1	C'	c'hoant	?	_	_	_	_	_	Gloss=envie
+2	hoand	hoand	?	_	_	_	_	_	Gloss=R
+3	am	kaout	?	_	_	_	_	_	Gloss=a
+4	euz	euz	?	_	_	_	_	_	Gloss=?
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	marc'h-mañ	marc'h	?	_	_	_	_	_	Gloss=cheval
+9	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:18)__1
+# text = Ya, ya, e-giz ma leverez, an devezh-mañ-devezh e vezo graet memestra.
+# text_fr = 'Oui, comme tu dis, tel ou tel jour ce sera fait quand même.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+7	leverez	lavarout	verbe	_	_	_	_	_	Gloss=dis
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	devezh-mañ-devezh	deiz.-vezh.DEM.deiz.-vezh	nom.nom.?.nom.nom	_	_	_	_	_	Gloss=journ.ée.ci.jour.ée
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	vezo	COP	?	_	_	_	_	_	Gloss=sera
+13	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+14	memestra	memestra	adverbe	_	_	_	_	_	Gloss=quand.même
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Pennaod(1969:30)__1
+# text = 'n deodyezh-mañ- 'n deodyezh
+# text_fr = 'tel ou tel dialecte'
+# source = Pennaod (1969)
+# texttype = Ouvrages de recherche
+1	'	art	?	_	_	_	_	_	Gloss=le
+2	n	DEM	?	_	_	_	_	_	Gloss=ci
+3	deodyezh-mañ-	deodyezh-mañ-	?	_	_	_	_	_	Gloss=?
+4	'	art	?	_	_	_	_	_	Gloss=le
+5	n	n	?	_	_	_	_	_	Gloss=dialecte
+6	deodyezh	deodyezh	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:73)__1
+# text = D'an eur-mañ-'n-eur e vo lano.
+# text_fr = 'La mer commencera à monter à telle heure.'
+# source = Gros (1984)
+1	D'	da	préposition	_	_	_	_	_	Gloss=à
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	eur-mañ-'	eur	nom	_	_	_	_	_	Gloss=heure
+4	n-eur	n-eur	?	_	_	_	_	_	Gloss=?
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	vo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=sera
+7	lano	lanv	nom	_	_	_	_	_	Gloss=marée
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:§Q6)__1
+# text = D'an eur-mañ-'n-eur ,  an den-mañ-'n den ,  an deiz-mañ-'n deiz
+# text_fr = 'à telle ou telle heure', 'telle ou telle personne', 'tel ou tel jour'
+# source = Chalm (2008)
+1	D'	da	préposition	_	_	_	_	_	Gloss=à
+2	an	eur	nom	_	_	_	_	_	Gloss=heure
+3	eur-mañ-'	eur-mañ-'	?	_	_	_	_	_	Gloss=?
+4	n-eur	n-eur	?	_	_	_	_	_	Gloss=?
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6			PUNCT	_	_	_	_	Gloss=punct
+7	an	den	nom	_	_	_	_	_	Gloss=homme
+8	den-mañ-'	den-mañ-'	?	_	_	_	_	_	Gloss=?
+9	n	n	?	_	_	_	_	_	Gloss=?
+10	den	den	nom	_	_	_	_	_	Gloss=?
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12			PUNCT	_	_	_	_	Gloss=punct
+13	an	an	?	_	_	_	_	_	Gloss=?
+14	deiz-mañ-'	deiz-mañ-'	?	_	_	_	_	_	Gloss=?
+15	n	n	?	_	_	_	_	_	Gloss=?
+16	deiz	deiz	nom	_	_	_	_	_	Gloss=?
+
+# sent_id = Favereau(1993:§-mañ)__1
+# text = an dez-mañ ('n) dez
+# text_fr = 'tel ou tel jour'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	dez-mañ	deiz	nom	_	_	_	_	_	Gloss=jour
+3	('	art	?	_	_	_	_	_	Gloss=le
+4	n)	deiz	nom	_	_	_	_	_	Gloss=jour
+5	dez	dez	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Kerrien(2000:8)__1
+# text = ma ran an dra-man-dra.
+# text_fr = '... si je fais telle ou telle chose.'
+# source = Kerrien (2000)
+1	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dra-man-dra	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci]]-_[[1]]_[[tra|chose|Morph=1
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hingant(1868:210)__1
+# text = Hen-a-hen en deuz gred ann dra-mañ dra.
+# text_fr = 'Un tel a fait telle chose.'
+# source = Hingant (1868)
+# texttype = Ouvrages de recherche
+1	Hen-a-hen	&	?	_	_	_	_	_	Gloss=et
+2	en	en	complémenteur	_	_	_	_	_	Gloss=R
+3	deuz	kaout	?	_	_	_	_	_	Gloss=a
+4	gred	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ann	art	?	_	_	_	_	_	Gloss=le
+6	dra-mañ	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+7	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Menard&Kadored(2001)__1
+# text = ar wezenn-mañ-gwezenn.
+# text_fr = 'tel ou tel arbre'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	wezenn-mañ-gwezenn	gwez	nom	_	_	_	_	_	Gloss=arbres]].[[-enn|SG]]-[[DEM|ci]]-[[gwez|arbres]].[[-enn|SG|Morph=1
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig(2010:104)__1
+# text = Pësort duoñn ê hèn-më-hèn !
+# text_fr = 'Quelle suie il est ! (pour quelqu'un de sale)'
+# source = Koadig (2010)
+# texttype = Ouvrages de recherche
+1	Pësort	peseurt	?	_	_	_	_	_	Gloss=quelle
+2	duoñn	du.-on	adjectif.?	_	_	_	_	_	Gloss=noir.N
+3	ê	COP	?	_	_	_	_	_	Gloss=est
+4	hèn-më-hèn	hèn-më-hèn	?	_	_	_	_	_	Gloss=lui-là-lui
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:32)__1
+# text = hemañ-hen a zo deuet, hemañ-hen n'eo ket deuet...
+# text_fr = 'Untel est venu, untel n'est pas venu.' (sans marque de genre)
+# source = ar Barzhig (1976)
+1	hemañ-hen	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	COP	?	_	_	_	_	_	Gloss=est
+4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	hemañ-hen	DEM	?	_	_	_	_	_	Gloss=celui.ci
+7	n'	n'	?	_	_	_	_	_	Gloss=ne
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	deuet..	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1995:82)__1
+# text = Klevet am-eus, an hen-mañ-hen a zo en em gavet gantañ an dra-mañ-tra !
+# text_fr = 'J'ai entendu, il est arrivé telle chose à untel.'
+# dialect = Léonard
+# source = Riou (1995)
+# texttype = Références de corpus
+1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	hen-mañ-hen	hen-mañ-hen	?	_	_	_	_	_	Gloss=DEM
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+9	em	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+10	gavet	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+11	gantañ	gantañ	?	_	_	_	_	_	Gloss=?
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	dra-mañ-tra	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci]]-[[tra|chose|Morph=1
+14	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:43)__1
+# text = an nep-ma-nep a brenefe loaned en e graou...
+# text_fr = 'untel achêterait des animaux dans sa crêche... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	nep-ma-nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=tel
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	brenefe	prenañ	verbe	_	_	_	_	_	Gloss=achêterait
+5	loaned	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animau.x
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	graou..	kraou	nom	_	_	_	_	_	Gloss=crêche
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(2009:'tel')__1
+# text = El leh-mañ-leh e vo kavet.
+# text_fr = 'On le trouvera à tel endroit'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	El	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	leh-mañ-leh	DEM	?	_	_	_	_	_	Gloss=ci
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = deRostrenen(1738:62)__1
+# text = Pe evit tra ne leveres-te qet an dra-man-dra ?
+# text_fr = 'Que ne dis-tu telle chose ?'
+# source = de Rostrenen (1738)
+1	Pe	Pe	conjonction-complémenteur	_	_	_	_	_	Gloss=que
+2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	tra	tra	nom	_	_	_	_	_	Gloss=chose
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	leveres-te	lavarout	verbe	_	_	_	_	_	Gloss=dis
+6	qet	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dra-man-dra	tra	nom	_	_	_	_	_	Gloss=chose]]-là-[[tra|chose|Morph=1
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dupuy(2007:40)__1
+# text = M'ho pez ezhomm ac'hanon da c'houzout tra pe dra, da gavout ar sal-mañ sal, sonit ar c'hloc'h.
+# text_fr = 'Si vous avez besoin de moi pour savoir quoi que ce soit, pour trouver une salle (quelconque), sonnez la cloche.'
+# source = Dupuy (2007)
+# texttype = Références de corpus
+1	M'	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	ho	kaout	?	_	_	_	_	_	Gloss=a
+3	pez	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+4	ezhomm	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+5	ac'hanon	ac'hanon	?	_	_	_	_	_	Gloss=?
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	c'houzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+8	tra	tra	nom	_	_	_	_	_	Gloss=chose
+9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+10	dra	tra	nom	_	_	_	_	_	Gloss=chose
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+13	gavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	sal-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+16	sal	sal	?	_	_	_	_	_	Gloss=salle,
+17	,	,	PUNCT	_	_	_	_	Gloss=punct
+18	sonit	seniñ	?	_	_	_	_	_	Gloss=sonnez
+19	ar	art	?	_	_	_	_	_	Gloss=le
+20	c'hloc'h	kloc'h	?	_	_	_	_	_	Gloss=cloche|Morph=5
+21	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Berthou(1985:77)__1
+# text = Hemañ eo hen-ha-hen, mab da hen-ha-hen, a barrez pe barrez.
+# text_fr = 'Celui-ci c'est untel, fils d'untel, de telle ou telle paroisse.'
+# source = Berthou (1985)
+# texttype = Références de corpus
+1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=E
+3	hen-ha-hen	DEM	?	_	_	_	_	_	Gloss=celui(là)
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	mab	mab	nom	_	_	_	_	_	Gloss=fils
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	hen-ha-hen	DEM	?	_	_	_	_	_	Gloss=celui(là)
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	barrez	parrez	nom	_	_	_	_	_	Gloss=paroisse
+11	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+12	barrez	parrez	nom	_	_	_	_	_	Gloss=paroisse
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Juluen(1935:19)__1
+# text = Ha me ha mont d'o c'havout, ha goulenn outo doare pe doare a-zivout kêr...
+# text_fr = 'Je fus les trouver et leur demandai quelque renseignement sur la ville... '
+# dialect = Trégorrois
+# source = Juluen (1935)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
+7	c'havout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ha	&	?	_	_	_	_	_	Gloss=et
+10	goulenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
+11	outo	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+12	doare	doare	nom	_	_	_	_	_	Gloss=info
+13	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+14	doare	doare	nom	_	_	_	_	_	Gloss=info
+15	a-zivout	a-zivout	?	_	_	_	_	_	Gloss=sur
+16	kêr..	kêr	nom	_	_	_	_	_	Gloss=ville
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:§Q6)__1
+# text = hag evel-henn hag evel-hont
+# text_fr = 'et patati, et patata'
+# source = Chalm (2008)
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	evel-henn	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	evel-hont	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+
+# sent_id = Hingant(1868:210)__1
+# text = Hen-a-hen en deuz préned eur marc'h.
+# text_fr = 'Un tel a acheté un cheval.'
+# source = Hingant (1868)
+# texttype = Ouvrages de recherche
+1	Hen-a-hen	&	?	_	_	_	_	_	Gloss=et
+2	en	en	complémenteur	_	_	_	_	_	Gloss=R
+3	deuz	kaout	?	_	_	_	_	_	Gloss=a
+4	préned	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Berthou(1985:73)__1
+# text = E ti hen-ha-hen ez eo bet ar wastell.
+# text_fr = 'Chez untel, c'est la fin des foins.'
+# source = Berthou (1985)
+# texttype = Références de corpus
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	hen-ha-hen	DEM	?	_	_	_	_	_	Gloss=celui
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	wastell	gwastell	nom	_	_	_	_	_	Gloss=gâteau|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:§Q6)__1
+# text = henn-ha-henn honn-ha-honn
+# text_fr = 'un tel', 'une telle'
+# source = Chalm (2008)
+1	henn-ha-henn	DEM	?	_	_	_	_	_	Gloss=celui(là)
+2	honn-ha-honn	DEM	?	_	_	_	_	_	Gloss=celle(là)
+
+# sent_id = Audic(2011:15)__1
+# text = an nos-man hag an nos
+# text_fr = 'tel ou tel soir'
+# location = Arradon
+# source = Audic (2011)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	nos-man	DEM	?	_	_	_	_	_	Gloss=ci
+3	hag	hag	?	_	_	_	_	_	Gloss=&/P
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	nos	nos	?	_	_	_	_	_	Gloss=soir
+
+# sent_id = Da'a,Haspelmath(1997:181)__1
+# text = Sema-sema na-rata rija'i kana ni-tarima-na.
+# text_fr = 'Qui vient à lui sera reçu.'
+1	Sema-sema	Sema-sema	?	_	_	_	_	_	Gloss=qui-qui
+2	na-rata	na-rata	?	_	_	_	_	_	Gloss=ptc.vient
+3	rija'	rija'	?	_	_	_	_	_	Gloss=à.lui
+4	i	i	?	_	_	_	_	_	Gloss=doit
+5	kana	kana	?	_	_	_	_	_	Gloss=?
+6	ni-tarima-na	ni-tarima-na	?	_	_	_	_	_	Gloss=objet-reçoit-3SG
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Pnar,Koshy(2008)__1
+# text = k_w_a-hi-mi u-k_h_ana yɛi-wan-yɛi-wan / i-yi-re-i-yi
+# text_fr = '(Avant que nous entrions dans la galerie, Edward,) veux-tu nous dire quoi que ce soit ?'
+1	k_w_a-hi-mi	k_w_a-hi-mi	?	_	_	_	_	_	Gloss=veut-emph-2SGM
+2	u-k_h_ana	u-k_h_ana	?	_	_	_	_	_	Gloss=dire
+3	yɛi-wan-yɛi-wan	yɛi-wan-yɛi-wan	?	_	_	_	_	_	Gloss=ACC/DAT-3SG-Q-ACC/DAT-3SG-Q
+4	/	/	?	_	_	_	_	_	Gloss=/
+5	i-yi-re-i-yi	i-yi-re-i-yi	?	_	_	_	_	_	Gloss=3SG-Q-particule-3SG-Q
+
+# sent_id = Da'a(titredetexte),Barr(1988)__1
+# text = ju'a-ju'a to na-ria ni kampu bagia nu Da'a.
+# text_fr = 'Les maladies qui sont dans les villages dans les environs de Da'a.'
+# location = titre de texte
+1	ju'	ju'	?	_	_	_	_	_	Gloss=maladie-maladie
+2	a-ju'	a-ju'	?	_	_	_	_	_	Gloss=?
+3	a	a	préposition	_	_	_	_	_	Gloss=?
+4	to	to	?	_	_	_	_	_	Gloss=C
+5	na-ria	na-ria	?	_	_	_	_	_	Gloss=realis-être
+6	ni	ni	?	_	_	_	_	_	Gloss=dans
+7	kampu	kampu	?	_	_	_	_	_	Gloss=village
+8	bagia	bagia	?	_	_	_	_	_	Gloss=environ
+9	nu	nu	?	_	_	_	_	_	Gloss=de
+10	Da'	Da'	?	_	_	_	_	_	Gloss=Da'@a
+11	a.	a.	?	_	_	_	_	_	Gloss=?

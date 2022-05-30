@@ -1,0 +1,112 @@
+# sent_id = Drezen(1990:64)__1
+# text = Ha, dezhañ _ bevañ e kumuniezh, n’en doa ket d’he c’henlodañ gant den.
+# text_fr = 'Et, bien qu’il vive en communauté, il n'avait pas à la partager avec quiconque.
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+4	_	_	?	_	_	_	_	_	Gloss=?
+5	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+6	e	P.e	?	_	_	_	_	_	Gloss=en
+7	kumuniezh	kumun.-iezh	nom.nom	_	_	_	_	_	Gloss=commun.auté
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	n’en	n’en	?	_	_	_	_	_	Gloss=ne
+10	doa	kaout	?	_	_	_	_	_	Gloss=avait
+11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	d’he	da	préposition	_	_	_	_	_	Gloss=à
+13	c’henlodañ	lod.-añ(V.)	quantifieur.?	_	_	_	_	_	Gloss=partag.er
+14	gant	gant	?	_	_	_	_	_	Gloss=avec
+15	den	nomnu	nom	_	_	_	_	_	Gloss=personne
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornillet(2020:'kehent')__1
+# text = Ar yezh he deus adkemeret he roll evel kehent a sevenadur.
+# text_fr = 'La langue a repris son rôle de moyen de communication de la culture.'
+# source = Cornillet (2020)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	yezh	yezh	nom	_	_	_	_	_	Gloss=langue
+3	he	he	?	_	_	_	_	_	Gloss=3SGF
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	adkemeret	ad-.kemer	?.verbe	_	_	_	_	_	Gloss=re.pris
+6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	roll	roll	?	_	_	_	_	_	Gloss=rôle
+8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	kehent	hent	nom	_	_	_	_	_	Gloss=route
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	sevenadur	seven.-adur	?.nom	_	_	_	_	_	Gloss=polis.ure
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:28)__1
+# text = Ne gare ket nemeur e genvreur, abalamour d’e spered risigner.
+# text_fr = 'Il n'aimait guère son confrère à cause de son esprit moqueur.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	gare	karout	verbe	_	_	_	_	_	Gloss=aimait
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	nemeur	nemeur	adverbe	_	_	_	_	_	Gloss=guère
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	genvreur	genvreur.breur	?.nom	_	_	_	_	_	Gloss=1.frère
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause
+9	spered	spered	nom	_	_	_	_	_	Gloss=esprit
+10	risigner	-er,-our	?	_	_	_	_	_	Gloss=eur
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:163)__1
+# text = Ha mui netra da brena er henwerziou.
+# text_fr = 'Et (il n'y avait) plus rien à acheter dans les commerces.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	brena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	henwerziou	ken-	?	_	_	_	_	_	Gloss=com-]]_[[1]]_.[[gwerzhañ|vente]].[[-ioù(PL.)|s]|Morph=5
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1922:347)__6
+# text = evit ma kavi eur gwaz eus da gendere, merc'hig ?
+# text_fr = 'Pour que tu trouves un mari de ton milieu social, ma fille ?'
+# location = Bodilis
+# source = Ar Floch (1922)
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	kavi	kavout	verbe	_	_	_	_	_	Gloss=trouveras
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
+6	eus	eus	?	_	_	_	_	_	Gloss=de
+7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+8	gendere	ken-	?	_	_	_	_	_	Gloss=com
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	merc'hig	merc'h.merc'hig	?.?	_	_	_	_	_	Gloss=fille.DIM
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:§13)__1
+# text = Em gavet a ran get kenseurted, amezeion.
+# text_fr = 'Je me retrouve avec mes pareils, des voisins.'
+# source = Herrieu (1994)
+1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	gavet	kavout	verbe	_	_	_	_	_	Gloss=trouver
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+5	get	gant	?	_	_	_	_	_	Gloss=avec
+6	kenseurted	seurt.-ed(PL.)	préposition-nom-quantifieur-adjectif.?	_	_	_	_	_	Gloss=sort.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	amezeion	amezeg.-ion	nom.?	_	_	_	_	_	Gloss=voisin.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:17)__1
+# text = daou zevezh kenstag
+# text_fr = 'deux jours (fériés) de suite'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	daou	cardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+2	zevezh	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
+3	kenstag	kenstag	?	_	_	_	_	_	Gloss=ensemble.lié

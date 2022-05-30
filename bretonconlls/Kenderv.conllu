@@ -1,0 +1,29 @@
+# sent_id = ArFloc'h(1985:21)__2
+# text = Va c'henderv ha me a yoa war gorf hor rochedoù.
+# text_fr = 'Mon cousin et moi étions en chemise.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	c'henderv	c'henderv	?	_	_	_	_	_	Gloss=cousin
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	me	pfi	?	_	_	_	_	_	Gloss=moi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	yoa	COP	?	_	_	_	_	_	Gloss=était
+7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	gorf	korf	nom	_	_	_	_	_	Gloss=corps
+9	hor	POSS	?	_	_	_	_	_	Gloss=notre
+10	rochedoù	roched.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chemise.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Thibault(1914:190)__1
+# text = Han de gavet me handarw.
+# text_fr = 'Je vais chez mon cousin.'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	Han	mont	verbe	_	_	_	_	_	Gloss=vais
+2	de	da-gaout	préposition	_	_	_	_	_	Gloss=pour-trouver
+3	gavet	gavet	?	_	_	_	_	_	Gloss=?
+4	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	handarw	handarw	?	_	_	_	_	_	Gloss=cousin
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

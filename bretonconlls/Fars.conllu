@@ -1,0 +1,10 @@
+# sent_id = Gros(1984:432)__2
+# text = Gwasad ma plij dezañ farsal !
+# text_fr = 'Comme il aime à plaisanter !'
+# source = Gros (1984)
+1	Gwasad	gwashat	adjectif	_	_	_	_	_	Gloss=pire!
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	plij	plijout	verbe	_	_	_	_	_	Gloss=plait
+4	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	farsal	-al	?	_	_	_	_	_	Gloss=er
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

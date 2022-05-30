@@ -1,0 +1,37 @@
+# sent_id = Herri(1982:97)__1
+# text = p'en deveze kavet rener ar gelaouenn arc'hant awalc'h evit lakaat he moulañ
+# text_fr = 'quand le directeur de la revue avait trouvé assez d'argent pour l'imprimer'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	p'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	deveze	kaout	?	_	_	_	_	_	Gloss=avait
+4	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+5	rener	ren.-er,-our	verbe.?	_	_	_	_	_	Gloss=direct.eur
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	gelaouenn	kelaouenn	nom	_	_	_	_	_	Gloss=revue|Morph=1
+8	arc'hant	arc'hant	?	_	_	_	_	_	Gloss=argent
+9	awalc'h	awalc'h	?	_	_	_	_	_	Gloss=assez
+10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+11	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+12	he	POP	?	_	_	_	_	_	Gloss=la|Morph=2
+13	moulañ	moulañ	verbe	_	_	_	_	_	Gloss=imprimer
+
+# sent_id = Herri(1982:107)__1
+# text = Ne wele netra, morse, nep boutailh ne antree er voulerezh.
+# text_fr = 'Il ne voyait rien, jamais, aucune bouteille n'entrait dans l'imprimerie.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyait
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=aucune
+8	boutailh	boutailh	nom	_	_	_	_	_	Gloss=bouteille
+9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	antree	antreal	?	_	_	_	_	_	Gloss=entrait
+11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	voulerezh	voulerezh.-erezh	?.?	_	_	_	_	_	Gloss=1.erie
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

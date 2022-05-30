@@ -1,17 +1,17 @@
 # sent_id = Herrieu(1994:96)__1
 # text = Er parkoùier ivez eh eus toulloù hag o gwelet ne raer ket, e-kreiz an teñvelded.
-# text_fr =  'Dans les champs aussi se trouvent des trous qu'on ne voit pas dans la pénombre.'
+# text_fr = 'Dans les champs aussi se trouvent des trous qu'on ne voit pas dans la pénombre.'
 # source = Herrieu (1994)
 1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 2	parkoùier	park	nom	_	_	_	_	_	Gloss=parc
 3	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 4	eh	eh	?	_	_	_	_	_	Gloss=R
 5	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
-6	toulloù	toull.-où(PL.)	adjectif-nom.?	_	_	_	_	_	Gloss=trou.s
+6	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
 7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-8	o	POP	?	2	_	_	_	_	Gloss=les
+8	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
 9	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-10	ne	ne	?	1	_	_	_	_	Gloss=ne
+10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 11	raer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -22,12 +22,12 @@
 
 # sent_id = ArMeliner(2009:78)__1
 # text = E'it paraat a-zoc'hti a sailh en douaroùier.
-# text_fr =  'pour l'empêcher de sauter dans les terres de culture'
+# text_fr = 'pour l'empêcher de sauter dans les terres de culture'
 # source = Ar Meliner (2009)
-1	E'	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+1	E'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 2	it	it	?	_	_	_	_	_	Gloss=?
 3	paraat	parat	?	_	_	_	_	_	Gloss=empêcher
-4	a-zoc'hti	a	préposition	1	_	_	_	_	Gloss=de
+4	a-zoc'hti	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	sailh	sailhat	verbe	_	_	_	_	_	Gloss=saute
 7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le

@@ -1,6 +1,6 @@
 # sent_id = Rostrenen(1732:'dessus')__1
 # text = Sellit dreist ha dindan, sellit a zioc'h hac a is.
-# text_fr =  'Regardez par-dessus et par-dessous.'
+# text_fr = 'Regardez par-dessus et par-dessous.'
 # source = Rostrenen (1732)
 # texttype = Ouvrages de recherche
 1	Sellit	sellout	verbe	_	_	_	_	_	Gloss=regardez
@@ -12,20 +12,20 @@
 7	a	a-zioc'h	préposition	_	_	_	_	_	Gloss=dessus
 8	zioc'h	zioc'h	?	_	_	_	_	_	Gloss=?
 9	hac	&	?	_	_	_	_	_	Gloss=et
-10	a	a	préposition	1	_	_	_	_	Gloss=P
+10	a	a	préposition	_	_	_	_	_	Gloss=P|Morph=1
 11	is	is	?	_	_	_	_	_	Gloss=dessous
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Rostrenen(1732:'dessus')__1
 # text = a-zioc'h ho penn hac a is ho treid
-# text_fr =  'Au-dessus de votre tête et au-dessous de vos pieds'
+# text_fr = 'Au-dessus de votre tête et au-dessous de vos pieds'
 # source = Rostrenen (1732)
 # texttype = Ouvrages de recherche
 1	a-zioc'h	a-zioc'h	?	_	_	_	_	_	Gloss=dessus
-2	ho	POSS	?	3	_	_	_	_	Gloss=votre
+2	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
 3	penn	penn	nom	_	_	_	_	_	Gloss=tête
 4	hac	&	?	_	_	_	_	_	Gloss=et
-5	a	a	préposition	1	_	_	_	_	Gloss=P
+5	a	a	préposition	_	_	_	_	_	Gloss=P|Morph=1
 6	is	is	?	_	_	_	_	_	Gloss=dessous
-7	ho	POSS	?	3	_	_	_	_	Gloss=votre
+7	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
 8	treid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s

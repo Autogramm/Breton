@@ -1,0 +1,77 @@
+# sent_id = Sauvé(2001:282)__1
+# text = Bicha bula, bicha bala, Piou e ialo da ingala ?
+# text_fr = 'Bicha bula, bicha bala, Lequel ira faire le partage ?'
+# source = Sauvé (2001)
+1	Bicha	Bicha	?	_	_	_	_	_	Gloss=Bicha
+2	bula	bula	?	_	_	_	_	_	Gloss=bula,
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	bicha	bicha	?	_	_	_	_	_	Gloss=bicha
+5	bala	bala	?	_	_	_	_	_	Gloss=bala
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	Piou	piv	pronom	_	_	_	_	_	Gloss=qui
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+9	ialo	mont	verbe	_	_	_	_	_	Gloss=ira
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	ingala	ingalañ	?	_	_	_	_	_	Gloss=égaler
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Monfort(2007:15)__1
+# text = ha bardi ha barda... ha bardi ha barda...
+# text_fr = 'Et blablabla, et blablabla ... Et patati, et patata ... '
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	bardi	bardi	?	_	_	_	_	_	Gloss=?
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	barda..	barda..	?	_	_	_	_	_	Gloss=?
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	bardi	bardi	?	_	_	_	_	_	Gloss=?
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	barda..	barda..	?	_	_	_	_	_	Gloss=?
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:58)__1
+# text = N'o deus ket bet tro da lavaret na bu na ba !
+# text_fr = 'Ils n'ont pas eu le temps de dire ouf !'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	o	kaout	?	_	_	_	_	_	Gloss=ont
+3	deus	deus	?	_	_	_	_	_	Gloss=?
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	bet	kaout	?	_	_	_	_	_	Gloss=eu
+6	tro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+9	na	na...na	?	_	_	_	_	_	Gloss=ni
+10	bu	bu	?	_	_	_	_	_	Gloss=/by/
+11	na	na...na	?	_	_	_	_	_	Gloss=ni
+12	ba	ba	?	_	_	_	_	_	Gloss=/ba/
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:9)__1
+# text = Chuchumuchu a oa er penn all
+# text_fr = 'On chuchotait à l'autre bout du fil... '
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Chuchumuchu	chuchumuchu	nom	_	_	_	_	_	Gloss=chuchotement
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	penn	penn	nom	_	_	_	_	_	Gloss=bout
+6	all	all	?	_	_	_	_	_	Gloss=autre
+
+# sent_id = SkolanEmsav(1977:18)__1
+# text = Emañ an holl o vont e belbi.
+# text_fr = 'Tout le monde perd la tête.'
+# source = Skol an Emsav (1977)
+# texttype = Références de corpus
+1	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	e	P.e	?	_	_	_	_	_	Gloss=en
+7	belbi	belbi	?	_	_	_	_	_	Gloss=futilité
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

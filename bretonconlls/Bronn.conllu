@@ -1,0 +1,16 @@
+# sent_id = Gros(1989:'bronn')__1
+# text = Kaer em-oa rei bronn dezi, ne zerre ket eur genou.
+# text_fr = 'J'avais beau lui donner le sein, elle ne fermait pas la bouche.'
+# source = Gros (1989)
+1	Kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+2	em-oa	em-oa	?	_	_	_	_	_	Gloss=R
+3	rei	reiñ	verbe	_	_	_	_	_	Gloss=donner
+4	bronn	bronn	nom	_	_	_	_	_	Gloss=sein
+5	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	zerre	serriñ	verbe	_	_	_	_	_	Gloss=fermait
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	eur	art	nom	_	_	_	_	_	Gloss=un
+11	genou	genoù	nom	_	_	_	_	_	Gloss=bouche
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

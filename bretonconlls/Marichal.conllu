@@ -1,0 +1,11 @@
+# sent_id = Stephens(1992:154)__1
+# text = gwetur kozh ha joget ar marichal
+# text_fr = 'la vieille voiture cabossée du maréchal-ferrant'
+# source = Stephens (1992)
+# texttype = Ouvrages de recherche
+1	gwetur	gwetur	nom	_	_	_	_	_	Gloss=voiture
+2	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	joget	jogañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=caboss.é
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	marichal	marichal	nom	_	_	_	_	_	Gloss=maréchal-ferrant

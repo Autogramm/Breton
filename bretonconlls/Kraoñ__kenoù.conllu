@@ -1,0 +1,40 @@
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Ar c'hraonv a goustoum louedañ buan.
+# text_fr = 'Les noix moisissent vite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hraonv	c'hraonv	?	_	_	_	_	_	Gloss=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goustoum	kustumiñ	verbe	_	_	_	_	_	Gloss=coutume
+5	louedañ	louediñ	?	_	_	_	_	_	Gloss=moisir
+6	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:83)__1
+# text = Tufiñ a ra ar c'henaou.
+# text_fr = 'Les noix moisissent.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Tufiñ	-iñ	?	_	_	_	_	_	Gloss=ir
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	c'henaou	c'henaou	?	_	_	_	_	_	Gloss=5
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:183)__1
+# text = Kraoñ am-oa bet digantañ leiz ma daou zorn.
+# text_fr = 'J'avais reçu de lui des noix plein les deux mains.'
+# source = Gros (1984)
+1	Kraoñ	Kraoñ	?	_	_	_	_	_	Gloss=noix
+2	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
+3	bet	kaout	?	_	_	_	_	_	Gloss=eu
+4	digantañ	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+5	leiz	leizh	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	zorn	dorn	nom	_	_	_	_	_	Gloss=main
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,31 @@
+# sent_id = Martin(1929:180)__1
+# text = Cheinik Doue, hema zo eun tamm tra goalldra !
+# text_fr = 'Mon Dieu, quel pleurnicheur !'
+# dialect = Cornouaillais
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Cheinik	Cheinik	?	_	_	_	_	_	Gloss=!
+2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	hema	DEM	?	_	_	_	_	_	Gloss=celui.ci
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	tra	tra	nom	_	_	_	_	_	Gloss=chose
+9	goalldra	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(1911),Menard&Bihan(2016-)__1
+# text = Cheinik ! lar Ian Pensek chilaou ta Fanch Kouik
+# text_fr = 'Oh ! la ! la ! dit Jean Pensec, écoute donc François Cozic.'
+# source = Menard & Bihan (2016-)
+# texttype = Ouvrages de recherche
+1	Cheinik	Cheinik	?	_	_	_	_	_	Gloss=!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	lar	lavar	nom	_	_	_	_	_	Gloss=dit
+4	Ian	Ian	?	_	_	_	_	_	Gloss=[[nompropre|Jean
+5	Pensek	Pensek	?	_	_	_	_	_	Gloss=Pensec]]]
+6	chilaou	selaou	verbe	_	_	_	_	_	Gloss=écoute
+7	ta	eta	?	_	_	_	_	_	Gloss=donc
+8	Fanch	Fanch	?	_	_	_	_	_	Gloss=[[nompropre|François
+9	Kouik	Kouik	?	_	_	_	_	_	Gloss=Cozic]]]

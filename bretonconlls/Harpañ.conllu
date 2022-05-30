@@ -1,0 +1,20 @@
+# sent_id = Drezen(1990:14)__1
+# text = Harpet war barlenn ar prenestr
+# text_fr = 'Appuyé sur le rebord de la fenêtre'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Harpet	Harpet	?	_	_	_	_	_	Gloss=appuyé
+2	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+3	barlenn	barlenn	nom	_	_	_	_	_	Gloss=rebord
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
+
+# sent_id = Kervella(1947:§234,nI)__1
+# text = hep harp ebet.
+# text_fr = 'sans l'adjonction de "ebet"'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	hep	hep	préposition	_	_	_	_	_	Gloss=sans
+2	harp	harp	?	_	_	_	_	_	Gloss=aide
+3	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=ebet
+4	.	.	PUNCT	_	_	_	_	Gloss=punct

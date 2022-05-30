@@ -1,0 +1,25 @@
+# sent_id = Gros(1984:359)__1
+# text = M' az-pije gwelet al loened-ze o palvata...
+# text_fr = 'Si tu avais vu ces bêtes-là agiter furieusement les pattes... '
+# source = Gros (1984)
+1	M'	ma(r)	?	_	_	_	_	_	Gloss=si
+2			PUNCT	_	_	_	_	Gloss=punct
+3	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	loened-ze	loen.-ed(PL.).DEM	nom.?.?	_	_	_	_	_	Gloss=bête.s.ci
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	palvata..	palv.-ad.-a	?.?.verbe	_	_	_	_	_	Gloss=paume.N.er
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:16)__1
+# text = Krozal ha stlaka a rae a bep eil.
+# text_fr = 'Il grondait et il éclatait tour à tour.'
+# source = Kerrien (2000)
+1	Krozal	-al	?	_	_	_	_	_	Gloss=er
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	stlaka	-añ	?	_	_	_	_	_	Gloss=er
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+6	a	a-bep-eil	adverbe	_	_	_	_	_	Gloss=à.chaque.second
+7	bep	bep	?	_	_	_	_	_	Gloss=?
+8	eil.	eil.	?	_	_	_	_	_	Gloss=?

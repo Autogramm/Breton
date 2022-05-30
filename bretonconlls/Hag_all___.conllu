@@ -1,0 +1,20 @@
+# sent_id = Standard,[http://br.dofollow.be/wiki/Patrom:Infobox_Sonerezh_%28arzour%29légendecouleurs]surWikipedia__1
+# text = Nep den, sonaozour, teknikour, hag all... a gemer perzh a-dreñv al leurenn.
+# text_fr = 'Tout sonorisateur, technicien, etc. qui participe hors la scène.'
+1	Nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	sonaozour	sonaozour	?	_	_	_	_	_	Gloss=sonorisateur
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	teknikour	teknikour	?	_	_	_	_	_	Gloss=technicien
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	hag	hag	?	_	_	_	_	_	Gloss=et
+9	all..	all..	?	_	_	_	_	_	Gloss=autre...
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	gemer	kemer	verbe	_	_	_	_	_	Gloss=prend
+13	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+14	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
+15	al	art	?	_	_	_	_	_	Gloss=le
+16	leurenn	leurenn	nom	_	_	_	_	_	Gloss=scène
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,33 @@
+# sent_id = LeGall(1957:'dizorden')__1
+# text = Ne oa ket dizorden a dud er foar hirio.
+# text_fr = 'Il n'y avait pas beaucoup de monde à la foire aujourd'hui.'
+# source = Le Gall (1957)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	dizorden	dizorden	adverbe	_	_	_	_	_	Gloss=beaucoup
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	dud	tud	nom	_	_	_	_	_	Gloss=gens
+7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	foar	foar	nom	_	_	_	_	_	Gloss=foire
+9	hirio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1957:'dizorden')__1
+# text = N'eus ket pell dizorden abaoe m'eo et an heol da gousked.
+# text_fr = 'Il n'y a pas beaucoup de temps que le soleil est couché.'
+# source = Le Gall (1957)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eus	E	?	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	pell	pell	adjectif	_	_	_	_	_	Gloss=long
+5	dizorden	dizorden	adverbe	_	_	_	_	_	Gloss=beaucoup
+6	abaoe	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
+7	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	et	mont	verbe	_	_	_	_	_	Gloss=allé
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	heol	heol	nom	_	_	_	_	_	Gloss=soleil
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	gousked	kousk	verbe	_	_	_	_	_	Gloss=dormir
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

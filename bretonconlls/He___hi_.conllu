@@ -1,0 +1,19 @@
+# sent_id = Gros(1984:126)__2
+# text = Evid peogwir ez eo deh da noz e oa, n'eo ket henoz.
+# text_fr = 'Car, puisque c'est hier soir que ça se passait, ce n'est pas cette nuit.'
+# source = Gros (1984)
+1	Evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=car
+2	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	deh	dec'h	?	_	_	_	_	_	Gloss=hier
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	n'	n'	?	_	_	_	_	_	Gloss=ne
+12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+14	henoz	fenoz	?	_	_	_	_	_	Gloss=ce.soir
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

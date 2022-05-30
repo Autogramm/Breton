@@ -1,0 +1,23 @@
+# sent_id = Bouzeg(1986:35)__1
+# text = Na boût 'zo Doue 'oa rial eñ ' gase istr da Gemperle.
+# text_fr = 'Même s'il y avait du verglas, il emmenait des huîtres à Quimperlé.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Na	Na	?	_	_	_	_	_	Gloss=[[nabout
+2	boût	boût	?	_	_	_	_	_	Gloss=zo
+3	'	'	?	_	_	_	_	_	Gloss=Doue|C.être.y.a.Dieu]]]
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	Doue	Doue	nom	_	_	_	_	_	Gloss=?
+6	'	E	?	_	_	_	_	_	Gloss=y.avait
+7	oa	oa	?	_	_	_	_	_	Gloss=?
+8	rial	rial	?	_	_	_	_	_	Gloss=verglas
+9	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+10	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+11			PUNCT	_	_	_	_	Gloss=punct
+12	gase	kas	verbe	_	_	_	_	_	Gloss=envoyait
+13	istr	istr	nom	_	_	_	_	_	Gloss=huîtres
+14	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+15	Gemperle	nompropre	?	_	_	_	_	_	Gloss=Kemperle
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

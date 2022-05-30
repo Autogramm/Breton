@@ -1,0 +1,27 @@
+# sent_id = SkolanEmsav(1977:26)__1
+# text = Salokras ! Ma rankan mont war ho ker...
+# text_fr = 'Pardon ! Si je peux me permettre... '
+# source = Skol an Emsav (1977)
+# texttype = Références de corpus
+1	Salokras	Salokras	interjection	_	_	_	_	_	Gloss=sauf.votre.grâce
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+4	rankan	rankout	verbe	_	_	_	_	_	Gloss=peux
+5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+7	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+8	ker..	ger	nom	_	_	_	_	_	Gloss=mot
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Pérennès (1938:252-3)__1
+# text =  [[Q|est.ce.que]] [[pfi|vous]] [[anavezout|connaitrait]] [[POSS|votre]]_[[3]]_ [[breur|frère]] [[ma(r)|si]]_[[+C]], [[4]]_ [[POP|le]] [[gwelout|voyiez]]
+# text_fr = -'Oh ! Pardon, je ne le ferai pas.'
+# text_phon = ['A :', 'A', 'cxxxhoui', 'anvéfé', 'o', 'preur', 'mar e', 'velfet ?']
+1	[[Q|est.ce.que]]	[[Q|est.ce.que]]	?	_	_	_	_	_	Gloss=O
+2	[[pfi|vous]]	[[pfi|vous]]	?	_	_	_	_	_	Gloss=salokras,
+3	[[POSS|votre]]_[[3]]_	[[POSS|votre]]_[[3]]_	?	_	_	_	_	_	Gloss=ket.
+4	[[breur|frère]]	[[breur|frère]]	?	_	_	_	_	_	Gloss=???
+5	[[ma(r)|si]]_[[+C]],	[[ma(r)|si]]_[[+C]],	?	_	_	_	_	_	Gloss=???
+6	[[4]]_	[[4]]_	?	_	_	_	_	_	Gloss=?
+7	[[POP|le]]	[[POP|le]]	?	_	_	_	_	_	Gloss=?
+8	[[gwelout|voyiez]]	[[gwelout|voyiez]]	?	_	_	_	_	_	Gloss=???

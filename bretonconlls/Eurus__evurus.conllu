@@ -1,0 +1,29 @@
+# sent_id = ArFloc'h(1985:41)__1
+# text = Mennout a ran gouelañ, pa sonjan hirio en amzer evurus...
+# text_fr = 'J'ai envie de pleurer, quand je pense aujourd'hui aux temps heureux... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Mennout	mennout	verbe	_	_	_	_	_	Gloss=manquer
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	gouelañ	gouelañ	verbe	_	_	_	_	_	Gloss=pleurer
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+7	sonjan	sonjal	?	_	_	_	_	_	Gloss=pense
+8	hirio	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+11	evurus..	evurus..	?	_	_	_	_	_	Gloss=heureux
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:323)__1
+# text = /bud mə-Xon peo:r məzo y:rys/
+# text_fr = 'Bien que je sois pauvre je suis heureuse.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/bud	/bud	?	_	_	_	_	_	Gloss=[[bezañma|être
+2	mə-Xon	COP	?	_	_	_	_	_	Gloss=suis
+3	peo:r	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+4	məzo	pfi.zo	?.?	_	_	_	_	_	Gloss=moi.est
+5	y:rys/	eurus	?	_	_	_	_	_	Gloss=heureux

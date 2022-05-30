@@ -1,22 +1,22 @@
 # sent_id = Bouzeg(1986:29)__1
 # text = Goude 'oa deuet da vat, 'veze gwelet Jos 'vale 'kost'z 'n aod bemdez.
-# text_fr =  'Après qu'il a été guéri, on voyait Jos se promener à la côte tous les jours.' 
+# text_fr = 'Après qu'il a été guéri, on voyait Jos se promener à la côte tous les jours.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Goude	goude	complémenteur-préposition-adverbe	_	_	_	_	_	Gloss=après
+1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
 2	'	COP	?	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
 4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-5	da	da	préposition	1	_	_	_	_	Gloss=pour
-6	vat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
 9	veze	veze	?	_	_	_	_	_	Gloss=?
 10	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 11	Jos	Jos	?	_	_	_	_	_	Gloss=Jos
-12	'	particuleo	?	4	_	_	_	_	Gloss=à]
+12	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 13	vale	bale	verbe	_	_	_	_	_	Gloss=marcher
 14	'	'	?	_	_	_	_	_	Gloss=à-côté
 15	kost'	kost'	?	_	_	_	_	_	Gloss=?
@@ -29,20 +29,20 @@
 
 # sent_id = Nicolas (2005:48)  __1
 # text = Me 'anava mat ar vaouez an hani 'zo ' chom a-kostez.
-# text_fr =  'Je connais bien la femme qui habite à côté.' 
+# text_fr = 'Je connais bien la femme qui habite à côté.'
 # text_phon = ['[ mǝ anawa mat', 'ar vwes', 'nɛ͂n', 'zi', 'ʃom', 'akosti']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	'	anavezout	verbe	_	_	_	_	_	Gloss=connait
-3	anava	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
-4	mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=?
+3	anava	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=?
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vaouez	maouez	nom	1	_	_	_	_	Gloss=femme
+6	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	hani	hani	?	_	_	_	_	_	Gloss=hini
 9	'	zo	?	_	_	_	_	_	Gloss=est
 10	zo	particuleo	?	_	_	_	_	_	Gloss=à
 11	'	'	?	_	_	_	_	_	Gloss=?
-12			?	_	_	_	_	_	Gloss=?
+12			PUNCT	_	_	_	_	Gloss=punct
 13	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 14	a-kostez	P.e	?	_	_	_	_	_	Gloss=à
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

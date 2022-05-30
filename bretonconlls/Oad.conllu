@@ -1,0 +1,91 @@
+# sent_id = ArBorgn(2011:80)__2
+# text = Daousto d'e oad kaset mat, e kerzhe c'hoazh buan pasapl.
+# text_fr = 'Malgré son âge bien avancé, il marchait encore passablement vite.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Daousto	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+2	d'	da	préposition	_	_	_	_	_	Gloss=de
+3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	oad	oad	nom	_	_	_	_	_	Gloss=âge
+5	kaset	kas.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=envoy.é
+6	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	kerzhe	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
+10	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+11	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+12	pasapl	pasapl	adverbe	_	_	_	_	_	Gloss=assez
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:194)__3
+# text = Hennez zo memez oad din.
+# text_fr = 'Il a le même âge que moi.'
+# text_phon = ["[ '@ene", "zo ˌmømøz '@wa:d", 'ˌdiɲ ]']
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	memez	memes	adjectif	_	_	_	_	_	Gloss=même
+4	oad	oad	nom	_	_	_	_	_	Gloss=âge
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas(2005:31)__1
+# text = Eñ 'deus ar memp oad genin.
+# text_fr = 'Il a le même âge que moi.'
+# dialect = Vannetais
+# location = Kistinid
+# source = Nicolas (2005)
+# texttype = Ouvrages de recherche
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	'	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	deus	?	_	_	_	_	_	Gloss=?
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	memp	memes	adjectif	_	_	_	_	_	Gloss=même
+6	oad	oad	nom	_	_	_	_	_	Gloss=âge
+7	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:15)__1
+# text = O daou 'emaont memes oad.
+# text_fr = 'Les deux ont le même âge.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	'	eman	?	_	_	_	_	_	Gloss=sont
+2	emaont	emaont	?	_	_	_	_	_	Gloss=?
+3	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+4	oad	oad	nom	_	_	_	_	_	Gloss=âge
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1993:§'nompas')__1
+# text = Nompas he doa kalz oad en tu all d'he nizez.
+# text_fr = 'Non pas qu'elle soit beaucoup plus vieille que sa nièce.'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	Nompas	nompas	?	_	_	_	_	_	Gloss=non.pas
+2	he	he	?	_	_	_	_	_	Gloss=3SGF
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	oad	oad	nom	_	_	_	_	_	Gloss=âge
+6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	tu	tu	nom	_	_	_	_	_	Gloss=côté
+8	all	all	?	_	_	_	_	_	Gloss=autre
+9	d'	da	préposition	_	_	_	_	_	Gloss=de
+10	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	nizez	nizez	?	_	_	_	_	_	Gloss=nièce
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1966:158)__1
+# text = Honnez a zo braz d'heh oad.
+# text_fr = 'Elle était grande pour son âge.'
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	d'	da	préposition	_	_	_	_	_	Gloss=pour
+6	heh	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	oad	oad	nom	_	_	_	_	_	Gloss=âge
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,27 @@
+# sent_id = arMeliner(2009:11)__2
+# text = Skrivet em eus-int hep ken soñj nemet ober plijadur...
+# text_fr = 'Je les ai écrits sans autre but que faire plaisir... '
+# source = ar Meliner (2009)
+1	Skrivet	skrivañ	verbe	_	_	_	_	_	Gloss=écrit
+2	hep	hep	préposition	_	_	_	_	_	Gloss=sans
+3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+4	soñj	soñj	nom	_	_	_	_	_	Gloss=pensée
+5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	plijadur..	plijadur..	?	_	_	_	_	_	Gloss=plaisir
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite&Stéphan(1957:103)__1
+# text = Eur blijadur eo bale d'an nevez-amzer...
+# text_fr = 'C'est un plaisir que de se promener au printemps.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Eur	art	nom	_	_	_	_	_	Gloss=un
+2	blijadur	blijadur	?	_	_	_	_	_	Gloss=1
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	bale	bale	verbe	_	_	_	_	_	Gloss=marcher
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	nevez-amzer..	nevez-	adjectif	_	_	_	_	_	Gloss=nouveau
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,77 @@
+# sent_id = Gros(1984:356)__1
+# text = Feson droukoh e-nevez an dukarded (duarded) evit ar meleganed.
+# text_fr = 'Les hommes bruns ont l'air plus méchants que les blonds.'
+# source = Gros (1984)
+1	Feson	feson	nom	_	_	_	_	_	Gloss=air
+2	droukoh	drouk.-oc'h	adjectif.?	_	_	_	_	_	Gloss=méchant.plus
+3	e-nevez	kaout	?	_	_	_	_	_	Gloss=a
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dukarded	-ard.-ed(PL.)	?.?	_	_	_	_	_	Gloss=sfx.s
+6	(duarded)	(duarded)	?	_	_	_	_	_	Gloss=?
+7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	meleganed	melen.-eg.-an(Adj.).-ed(PL.)	adjectif.?.?.?	_	_	_	_	_	Gloss=jaune.sfx.sfx.s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:I)__1
+# text = krampouezh gwiniz-tu.
+# text_fr = 'des crêpes de blé noir.'
+# dialect = Cornouaillais
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
+2	gwiniz-tu	gwinizh	nom	_	_	_	_	_	Gloss=blé
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:105)__1
+# text = krampouezh ed-du.
+# text_fr = 'galettes de sarrasin.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=galettes
+2	ed-du	ed	nom	_	_	_	_	_	Gloss=blé
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:6)__3
+# text = Un tasad kafe du en doa dirazañ.
+# text_fr = 'Il avait devant lui une tasse de café.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	tasad	-ad	?	_	_	_	_	_	Gloss=ée
+3	kafe	kafe	nom	_	_	_	_	_	Gloss=café
+4	du	du	adjectif	_	_	_	_	_	Gloss=noir
+5	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+6	doa	kaout	?	_	_	_	_	_	Gloss=avait
+7	dirazañ	dirak.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=devant.lui
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Heinecke(2001:79)__1
+# text = Iffig a zebr bara du.
+# text_fr = 'Iffig mange du pain noir.'
+# source = Heinecke (2001)
+# texttype = Ouvrages de recherche
+1	Iffig	Iffig	?	_	_	_	_	_	Gloss=Iffig
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	zebr	debriñ	verbe	_	_	_	_	_	Gloss=mange
+4	bara	bara	nom	_	_	_	_	_	Gloss=pain
+5	du	du	adjectif	_	_	_	_	_	Gloss=noir
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:43)__1
+# text = Marc'had kuzh a zeuio atav pa vanko n'eus forzh petra.
+# text_fr = 'Il y aura toujours un marché noir quand une chose manque, quel que soit cette chose.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
+2	kuzh	kuzhat	verbe	_	_	_	_	_	Gloss=caché
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zeuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+7	vanko	mankout	verbe	_	_	_	_	_	Gloss=manquera
+8	n'	n'	?	_	_	_	_	_	Gloss=[[N'@eusforzh
+9	eus	eus	conjonction-complémenteur	_	_	_	_	_	Gloss=pe
+10	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=X|n'@importe
+11	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi]]]
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

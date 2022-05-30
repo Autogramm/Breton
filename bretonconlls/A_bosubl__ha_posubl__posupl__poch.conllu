@@ -1,6 +1,6 @@
 # sent_id = Fagon&Riou(2015:165)__1
 # text = ha posubl ma defe henne, me yalo memestra.
-# text_fr =  'Et même si celui-là venait, j'irais quand même.' 
+# text_fr = 'Et même si celui-là venait, j'irais quand même.'
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
@@ -17,7 +17,7 @@
 
 # sent_id = Fagon&Riou(2015:165)__1
 # text = ha posubl dize gôet neoñ.
-# text_fr =  'Et même s'il avait su nager.' 
+# text_fr = 'Et même s'il avait su nager.'
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
@@ -30,13 +30,13 @@
 
 # sent_id = Cheveau & Kersulec (2012-évolutif:Moëlan,'a-bosubl')__1
 # text = Me zo deuet a-benn da gompren anezhañ ha posubl n'en deus ket kaozeet ouzhin anezhañ.
-# text_fr =  'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.' 
+# text_fr = 'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.'
 # text_phon = ['[mə', 'zo', 'ˈdɛd a bɛn', 'da', 'ˈgõpʁən', 'ˈnaɔ̯̃', 'a ˈpoʃə', 'nø', 'ʃə', 'ˈkoːs', 'tijõ', 'ˌnõ]']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-4	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=à.bout
-5	da	da	préposition	1	_	_	_	_	Gloss=de
+4	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à.bout
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	gompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
 7	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 8	ha	ha	?	_	_	_	_	_	Gloss=même.si

@@ -1,6 +1,6 @@
 # sent_id = Gros(1970b:§'lipadenn')__1
 # text = Lavaret a vefe lipadennou leue !
-# text_fr =  'On dirait des lèchements de veau !' (traînées inégales)
+# text_fr = 'On dirait des lèchements de veau !' (traînées inégales)
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
@@ -9,40 +9,40 @@
 3	vefe	COP	?	_	_	_	_	_	Gloss=serait
 4	lipadennou	lipat.-ad.-enn.-où	?.?.nom.?	_	_	_	_	_	Gloss=lèch.N.SG.PL
 5	leue	leue	nom	_	_	_	_	_	Gloss=veau
-6	!	!	?	_	_	_	_	_	Gloss=?
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:353)__1
 # text = Sell an deñvaladenn a zo deut aze er-mêz !
-# text_fr =  'Regarde les nuages noirs qui sont venus au large !' 
+# text_fr = 'Regarde les nuages noirs qui sont venus au large !'
 # source = Gros (1984)
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 2	an	art	?	_	_	_	_	_	Gloss=le
-3	deñvaladenn	teñval	adjectif	1	_	_	_	_	Gloss=sombre]].[[-ad|N]].[[-enn|SG
+3	deñvaladenn	teñval	adjectif	_	_	_	_	_	Gloss=sombre]].[[-ad|N]].[[-enn|SG|Morph=1
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
 7	aze	aze	?	_	_	_	_	_	Gloss=ici
 8	er-mêz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
-9	!	!	?	_	_	_	_	_	Gloss=?
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:352)__1
 # text = Me am-oa kavet eur guzadenn bér en eur hleuz.
-# text_fr =  'J'avais trouvé une cachette de poires dans un talus.'
+# text_fr = 'J'avais trouvé une cachette de poires dans un talus.'
 # source = Gros (1984)
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
 3	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-4	eur	art	?	1	_	_	_	_	Gloss=un
+4	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
 5	guzadenn	-ad.-enn	?.nom	_	_	_	_	_	Gloss=N.SG
-6	bér	per	nom	1	_	_	_	_	Gloss=poires
+6	bér	per	nom	_	_	_	_	_	Gloss=poires|Morph=1
 7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	hleuz	kleuz	?	5	_	_	_	_	Gloss=talus
+9	hleuz	kleuz	?	_	_	_	_	_	Gloss=talus|Morph=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Skragn(2002:192)__1
 # text = me a oa zur, ya, zur lar e-mesk an dra-ze toud, me a gleve ivez klemmadennou, evel loened o hirvoudi !
-# text_fr =  'J'étais sur, oui, sur que parmi tout ça, j'entendais aussi des plaintes, comme des animaux à gémir !' 
+# text_fr = 'J'étais sur, oui, sur que parmi tout ça, j'entendais aussi des plaintes, comme des animaux à gémir !'
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
@@ -57,35 +57,35 @@
 9	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
 10	e-mesk	e-mesk	préposition	_	_	_	_	_	Gloss=parmi
 11	an	art	?	_	_	_	_	_	Gloss=le
-12	dra-ze	tra	nom	1	_	_	_	_	Gloss=chose]]-[[DEM|ci
+12	dra-ze	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
 13	toud	toud	?	_	_	_	_	_	Gloss=tout
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
 15	me	pfi	?	_	_	_	_	_	Gloss=moi
-16	a	a	préposition	1	_	_	_	_	Gloss=R
+16	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 17	gleve	klevout	verbe	_	_	_	_	_	Gloss=entendait
 18	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 19	klemmadennou	klemm	verbe	_	_	_	_	_	Gloss=plaint
 20	,	,	PUNCT	_	_	_	_	Gloss=punct
-21	evel	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+21	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 22	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animau.x
-23	o	particuleo	?	4	_	_	_	_	Gloss=à]
+23	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 24	hirvoudi	hirvoudiñ	verbe	_	_	_	_	_	Gloss=gémir
-25	!	!	?	_	_	_	_	_	Gloss=?
+25	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:175)__1
 # text = Ne ran ket a van evid eur bikadenn: me n'on ket gwiridig.
-# text_fr =  'Une piqûre ne me fait rien: je ne suis pas douillet.'
+# text_fr = 'Une piqûre ne me fait rien: je ne suis pas douillet.'
 # source = Gros (1984)
-1	Ne	Ne	?	1	_	_	_	_	Gloss=ne
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	a	a	préposition	1	_	_	_	_	Gloss=de
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 5	van	van	nom	_	_	_	_	_	Gloss=cas
-6	evid	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+6	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 7	eur	art	nom	_	_	_	_	_	Gloss=un
 8	bikadenn:	bikadenn:	?	_	_	_	_	_	Gloss=1
 9	me	pfi	?	_	_	_	_	_	Gloss=moi
-10	n'	n'	?	1	_	_	_	_	Gloss=ne
+10	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
 11	on	COP	?	_	_	_	_	_	Gloss=suis
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	gwiridig	gwiridig	?	_	_	_	_	_	Gloss=douillet
@@ -93,44 +93,44 @@
 
 # sent_id = Gros(1984:392)__1
 # text = N'eo ket krennet mad ar harz: amañ ez eus un tort.
-# text_fr =  'La haie n'est pas bien taillée : ici il y a une bosse.'
+# text_fr = 'La haie n'est pas bien taillée : ici il y a une bosse.'
 # source = Gros (1984)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	krennet	krenn.-et(Adj.)	adverbe-adjectif.?	_	_	_	_	_	Gloss=taill.é
-5	mad	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
+5	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	harz:	garzh	nom	1	_	_	_	_	Gloss=haie
+7	harz:	garzh	nom	_	_	_	_	_	Gloss=haie|Morph=1
 8	amañ	ads	?	_	_	_	_	_	Gloss=ici
 9	ez	E	?	_	_	_	_	_	Gloss=y.a
 10	eus	eus	?	_	_	_	_	_	Gloss=?
 11	un	art	?	_	_	_	_	_	Gloss=un
-12	tort	tort	adjectif-nom	_	_	_	_	_	Gloss=bosse
+12	tort	tort	nom-adjectif	_	_	_	_	_	Gloss=bosse
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:392)__1
 # text = An disterrañ stok a ri enni e tiskari anezi.
-# text_fr =  'Le moindrement que tu la toucheras tu la feras tomber.'
+# text_fr = 'Le moindrement que tu la toucheras tu la feras tomber.'
 # source = Gros (1984)
 1	An	art	?	_	_	_	_	_	Gloss=le
 2	disterrañ	dister.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=insignifiant.le.plus
 3	stok	stok	?	_	_	_	_	_	Gloss=touche
-4	a	a	préposition	1	_	_	_	_	Gloss=R
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 5	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
 6	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-7	e	e	?	4	_	_	_	_	Gloss=R
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 8	tiskari	diskar	verbe	_	_	_	_	_	Gloss=abattras
 9	anezi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:'ober')__1
 # text = ma ranker ober div vervadenn...
-# text_fr =  'S'il faut faire bouillir la lessive deux fois... '
+# text_fr = 'S'il faut faire bouillir la lessive deux fois... '
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	ma	ma(r)	?	4	_	_	_	_	Gloss=si
+1	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 2	ranker	rankout	verbe	_	_	_	_	_	Gloss=doit
 3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=on]]
 4	div	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
@@ -139,24 +139,24 @@
 
 # sent_id = Gros(1970b:'ober')__1
 # text = Ne ri ken met ur berv d'ar meskl.
-# text_fr =  'Tu feras qu'un coup de chaud aux moules.' 
+# text_fr = 'Tu feras qu'un coup de chaud aux moules.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	1	_	_	_	_	Gloss=ne
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
-3	ken	ken	complémenteur-adverbe	_	_	_	_	_	Gloss=plus
-4	met	met	complémenteur-conjonction	_	_	_	_	_	Gloss=mais
+3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+4	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
 5	ur	art	?	_	_	_	_	_	Gloss=un
 6	berv	birviñ	verbe	_	_	_	_	_	Gloss=bouillon
-7	d'	da	préposition	1	_	_	_	_	Gloss=à
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	meskl	meskl	nom	_	_	_	_	_	Gloss=moules
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Italien,Soare(2017)__1
 # text = Gianni ha fatto una nuot-ata in piscina.
-# text_fr =  'Gianni a nagé dans la piscine.'
+# text_fr = 'Gianni a nagé dans la piscine.'
 1	Gianni	Gianni	?	_	_	_	_	_	Gloss=Gianni
 2	ha	ha	préposition	_	_	_	_	_	Gloss=a
 3	fatto	fatto	?	_	_	_	_	_	Gloss=fait

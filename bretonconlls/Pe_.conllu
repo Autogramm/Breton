@@ -1,0 +1,48 @@
+# sent_id = Ménard(2012:'quel')__1
+# text = Pere eo ar re vrasañ? / Petra eo ho tivizoù?
+# text_fr = 'Quelles sont les plus grandes ?'/ 'Quelles sont vos conditions ?'
+# source = Ménard (2012)
+# texttype = Ouvrages de recherche
+1	Pere	pere	?	_	_	_	_	_	Gloss=quel.ceux
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	vrasañ	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand]].[[superlatif|le.plus|Morph=1
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	/	/	?	_	_	_	_	_	Gloss=
+8	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ho	POSS	?	_	_	_	_	_	Gloss=vos|Morph=3
+11	tivizoù	diviz.-où(PL.)	?.?	_	_	_	_	_	Gloss=condition.s
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:9)__1
+# text = Pe kalon ne darzho get chif ha  get glac'har!
+# text_fr = 'Quel cœur ne se fendra, de chagrin et d'affliction !'
+# dialect = Vannetais
+# location = cantique
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Pe	peseurt,pezh	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+2	darzho	tarzhañ	verbe	_	_	_	_	_	Gloss=fendra
+3	get	gant	?	_	_	_	_	_	Gloss=avec
+4	chif	chif	?	_	_	_	_	_	Gloss=affliction
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6			PUNCT	_	_	_	_	Gloss=punct
+7	get	get	?	_	_	_	_	_	Gloss=?
+8	glac'har	glac'har	?	_	_	_	_	_	Gloss=chagrin
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc’h(1950:117)__1
+# text = Ranna en deus graet e beadra ganeomp.
+# text_fr = 'Il a partagé ce qu'il avait avec nous.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	Ranna	rannañ	verbe	_	_	_	_	_	Gloss=partager
+2	en	en	complémenteur	_	_	_	_	_	Gloss=R
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	beadra	peadra	nom	_	_	_	_	_	Gloss=possession
+7	ganeomp	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.nous
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,97 @@
+# sent_id = arBarzhig(1976:36)__1
+# text = Bremañ eo ret da Vatriona chom bev.
+# text_fr = 'Maintenant, Matriona doit rester en vie.'
+# location = Kaouenneg
+# source = ar Barzhig (1976)
+1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ret	ret	?	_	_	_	_	_	Gloss=obligé
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	Vatriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
+6	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+7	bev	bev	adjectif	_	_	_	_	_	Gloss=vivant
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = Ma neo an amezog renket e wele ne hellan ket lavaret dit !
+# text_fr = 'Si le voisin aura fait son lit, je ne peux pas te dire !'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	neo	kaout	?	_	_	_	_	_	Gloss=aura
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
+5	renket	renket	?	_	_	_	_	_	Gloss=rangé
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	wele	gwele	nom	_	_	_	_	_	Gloss=lit
+8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	hellan	gallout	verbe	_	_	_	_	_	Gloss=peux
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+12	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Ki va amezogez a deu da gac'hat war va fleur bemus !
+# text_fr = 'Le chien de ma voisine vient chaque jour faire sur mes fleurs !'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ki	ki	nom	_	_	_	_	_	Gloss=chien
+2	va	POSS	?	_	_	_	_	_	Gloss=mon
+3	amezogez	amezeg.-ez(F.)	nom.?	_	_	_	_	_	Gloss=voisin.e
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	deu	dont	verbe	_	_	_	_	_	Gloss=vient
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	gac'hat	kaoc'h.-at(V.)	?.?	_	_	_	_	_	Gloss=merd.er
+8	war	war	?	_	_	_	_	_	Gloss=sur
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	fleur	fleur	nom	_	_	_	_	_	Gloss=fleurs
+11	bemus	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:56)__1
+# text = Frank a galon eo ma voazin.
+# text_fr = 'Mon voisin est large de cœur, généreux.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	galon	kalon	nom	_	_	_	_	_	Gloss=cœur
+4	eo	CP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	voazin	voazin	?	_	_	_	_	_	Gloss=voisin
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:56)__1
+# text = Frank a galon eo ma voazin.
+# text_fr = 'Mon voisin est large de cœur, généreux.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	galon	kalon	nom	_	_	_	_	_	Gloss=cœur
+4	eo	CP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	voazin	voazin	?	_	_	_	_	_	Gloss=voisin
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGléau(2000b:461)__1
+# text = N'eus netra hag a gousi an douar evel an ed _[''ø'']_.
+# text_fr = 'Rien ne souille la terre comme la céréale (ne souille la terre).'
+# source = Dihunamb
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	gousi	gousi	?	_	_	_	_	_	Gloss=souille
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	douar	douar	nom	_	_	_	_	_	Gloss=terre
+9	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	ed	ed	nom	_	_	_	_	_	Gloss=céréale

@@ -1,0 +1,30 @@
+# sent_id = Riou(1941:14)__1
+# text = Hanter zigeri a ra eur prenestr.
+# text_fr = 'Il entrouvre une fenêtre.'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Hanter	hanter-	?	_	_	_	_	_	Gloss=moitié|Morph=1
+2	zigeri	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:51)__1
+# text = Sellout a ran dre ar prenestr a sko war-eeun el labouradeg.
+# text_fr = 'Je regarde par la fenêtre qui donne directement sur l'usine.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Sellout	sellout	verbe	_	_	_	_	_	Gloss=regarder
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	dre	dre	préposition	_	_	_	_	_	Gloss=par
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	sko	skeiñ	verbe	_	_	_	_	_	Gloss=frappe
+9	war-eeun	war-eeun	préposition	_	_	_	_	_	Gloss=directement
+10	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	labouradeg	labour.-adeg	nom.nom	_	_	_	_	_	Gloss=travail.lieucollectif
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

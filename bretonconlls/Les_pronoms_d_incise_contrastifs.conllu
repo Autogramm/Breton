@@ -1,0 +1,147 @@
+# sent_id = Drezen(1990:41)__2
+# text = Ha gouzout a rez, te, petra eo an dra-se, karout ?
+# text_fr = 'Et tu sais, toi, ce que c'est qu'aimer ?'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	te	te	?	_	_	_	_	_	Gloss=toi
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	karout	karout	verbe	_	_	_	_	_	Gloss=aimer
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vannetais,Guillome(1836)__1
+# text = ''Te'' garehe, té, bihuein hemb labourat ?
+# text_fr = 'Tu aimerais, toi, vivre sans travailler ?'
+# source = Guillome (1836)
+1	'	pfi	?	_	_	_	_	_	Gloss=toi
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+3	Te'	Te'	?	_	_	_	_	_	Gloss=?
+4	'	'	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6	garehe	karout	verbe	_	_	_	_	_	Gloss=aimerais
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	té	té	?	_	_	_	_	_	Gloss=toi
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	bihuein	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+11	hemb	hep	préposition	_	_	_	_	_	Gloss=sans
+12	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vannetais,Guillome(1836)__1
+# text = ''Te'' laboure, té, ha mé ne hran netra.
+# text_fr = 'Toi, tu travailles et moi je ne fais rien.'
+# source = Guillome (1836)
+1	'	pfi	?	_	_	_	_	_	Gloss=toi
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+3	Te'	Te'	?	_	_	_	_	_	Gloss=?
+4	'	'	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6	laboure	labourat	verbe	_	_	_	_	_	Gloss=travaille
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	té	té	?	_	_	_	_	_	Gloss=toi
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ha	&	?	_	_	_	_	_	Gloss=et
+11	mé	pfi	?	_	_	_	_	_	Gloss=moi
+12	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+13	hran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+14	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guillome(1836:32)__1
+# text = - Petra e lar''ès'', té ?  - Petra e lar''et'' -hu/ -hui ?
+# text_fr = - 'Que dis-tu ?', - 'Que dites-vous ?'
+# source = Guillome (1836)
+1	-	-	PUNCT	_	_	_	_	Gloss=punct
+2	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=R
+3	e	lavarout	verbe	_	_	_	_	_	Gloss=dis
+4	lar'	lar'	?	_	_	_	_	_	Gloss=?
+5	'	'	?	_	_	_	_	_	Gloss=?
+6	ès'	ès'	?	_	_	_	_	_	Gloss=?
+7	'	'	?	_	_	_	_	_	Gloss=?
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	té	té	?	_	_	_	_	_	Gloss=toi
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	??	??	?	_	_	_	_	_	Gloss=
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+13	-	-	PUNCT	_	_	_	_	Gloss=punct
+14	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=R
+15	e	lavarout	verbe	_	_	_	_	_	Gloss=dites
+16	lar'	lar'	?	_	_	_	_	_	Gloss=?
+17	'	'	?	_	_	_	_	_	Gloss=?
+18	et'	et'	?	_	_	_	_	_	Gloss=?
+19	'	'	?	_	_	_	_	_	Gloss=?
+20			PUNCT	_	_	_	_	Gloss=punct
+21	-hu/	echo	?	_	_	_	_	_	Gloss=vous
+22	-hui	-hui	?	_	_	_	_	_	Gloss=?
+23	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeMercierd'Erm1926:69)__1
+# text = E men ma éan?
+# text_fr = 'Où est-il ?'
+# source = Le Mercier dErm (1926)
+1	E	E	?	_	_	_	_	_	Gloss=où
+2	men	men	?	_	_	_	_	_	Gloss=?
+3	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	éan	éan	?	_	_	_	_	_	Gloss=lui
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeMercierd'Erm1926:69)__1
+# text = Ur skouid genemb té n'a pou ket.
+# text_fr = 'Tu n'auras pas de nous un écu.'
+# source = Le Mercier dErm (1926)
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	skouid	skouid	?	_	_	_	_	_	Gloss=écu
+3	genemb	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.nous
+4	té	té	?	_	_	_	_	_	Gloss=toi
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	pou	kaout	?	_	_	_	_	_	Gloss=aura
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guillome(1836:32)__1
+# text = M' ha câre, té, moes ne gâran quet ha vrèr.
+# text_fr = 'Je t'aime, toi, mais je n'aime pas ton frère.'
+# source = Guillome (1836)
+1	M'	pfi	?	_	_	_	_	_	Gloss=moi
+2			PUNCT	_	_	_	_	Gloss=punct
+3	ha	POP	?	_	_	_	_	_	Gloss=te
+4	câre	karout	verbe	_	_	_	_	_	Gloss=aime
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	té	té	?	_	_	_	_	_	Gloss=toi
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	moes	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	gâran	karout	verbe	_	_	_	_	_	Gloss=aime
+11	quet	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	ha	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+13	vrèr	breur	nom	_	_	_	_	_	Gloss=frère
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guillome(1836:32)__1
+# text = M' ha punissou, té, pé n'ellein quet er gobér.
+# text_fr = 'Je te punirai, toi, ou je ne le pourrai pas.'
+# source = Guillome (1836)
+1	M'	pfi	?	_	_	_	_	_	Gloss=moi
+2			PUNCT	_	_	_	_	Gloss=punct
+3	ha	POP	?	_	_	_	_	_	Gloss=te
+4	punissou	punissou	?	_	_	_	_	_	Gloss=punirai
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	té	té	?	_	_	_	_	_	Gloss=toi
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	pé	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+9	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	ellein	gallout	verbe	_	_	_	_	_	Gloss=pourrai
+11	quet	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	er	POP.er	?.?	_	_	_	_	_	Gloss=3SG.IN
+13	gobér	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,391 @@
+# sent_id = Gros (1970b:§'neuz')__1
+# text = C'hwi na reot ket gwelloh neuz evid evel-se goude beza seh ?
+# text_fr = (en s'adressant au bois de chauffage)
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi	hwi	?	_	_	_	_	_	Gloss=?
+3	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+4	reot	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferez
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=meilleur
+7	neuz	neuz	préposition	_	_	_	_	_	Gloss=figure
+8	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+9	evel-se	se	pronom	_	_	_	_	_	Gloss=ça
+10	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+11	beza	beza	?	_	_	_	_	_	Gloss=être
+12	seh	sec'h	?	_	_	_	_	_	Gloss=sec
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:38)__1
+# text = Kanañ iskis a reont, pas eveldomp.
+# text_fr = 'Ils chantent bizarrement, pas comme nous.'
+# location = Kaouenneg
+# source = ar Barzhig (1976)
+1	Kanañ	kanañ	verbe	_	_	_	_	_	Gloss=chanter
+2	iskis	iskis	adjectif	_	_	_	_	_	Gloss=bizarre
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	pas	pas	?	_	_	_	_	_	Gloss=pas
+7	eveldomp	pronomincorporé	?	_	_	_	_	_	Gloss=nous
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:223)__1
+# text = /jãzo čen bra:z jald-ida:t /
+# text_fr = 'Il est aussi grand que son père.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/jãzo	pfi.zo	?.?	_	_	_	_	_	Gloss=lui.est
+2	čen	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autant
+3	bra:z	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	jald-ida:t	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme]]-[[POSS|son|Morph=1
+5	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:309)__5
+# text = daoulagad mo' / 'gis ka' 'r c'houl-taro
+# text_fr = 'de grands yeux'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.oeil
+2	mo'	e-mod	préposition	_	_	_	_	_	Gloss=mode
+3			PUNCT	_	_	_	_	Gloss=punct
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	'	'	?	_	_	_	_	_	Gloss=?
+6	gis	gis	?	_	_	_	_	_	Gloss=?
+7	ka'	gant	?	_	_	_	_	_	Gloss=avec
+8			PUNCT	_	_	_	_	Gloss=punct
+9	'	art	?	_	_	_	_	_	Gloss=un
+10	r	kole	nom	_	_	_	_	_	Gloss=taureau]]-[[tarv|taureau|Morph=5
+11	c'houl-taro	c'houl-taro	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Vannetais,IB.(1910:19)__1
+# text = É nep tu ne vehé kavet kement a sord guskemanteu èl é Breih.
+# text_fr = 'Nulle part on ne trouverait autant de sortes de costumes qu'en Bretagne.'
+# source = IB.
+1	É	P.e	?	_	_	_	_	_	Gloss=en
+2	nep	NepX	quantifieur-déterminant	_	_	_	_	_	Gloss=nul
+3	tu	tu	nom	_	_	_	_	_	Gloss=côté
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	vehé	COP	?	_	_	_	_	_	Gloss=serait
+6	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	sord	sort	?	_	_	_	_	_	Gloss=sorte
+10	guskemanteu	guskemanteu	?	_	_	_	_	_	Gloss=costumes
+11	èl	èl	?	_	_	_	_	_	Gloss=comme
+12	é	P.e	?	_	_	_	_	_	Gloss=en
+13	Breih	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§200)__1
+# text = ken koant 'giz d'ar rozenn gaera
+# text_fr = 'aussi beau que la plus belle rose.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=aussi
+2	koant	koant	adjectif	_	_	_	_	_	Gloss=beau
+3	'	e-giz	préposition	_	_	_	_	_	Gloss=comme
+4	giz	giz	nom	_	_	_	_	_	Gloss=?
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	rozenn	rozenn	?	_	_	_	_	_	Gloss=rose
+8	gaera	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=belle]].[[superlatif|le.plus|Morph=1
+
+# sent_id = Seite(1998:23)__1
+# text = Eur feunteun, a gredan, a zo ive evel m ' he deus péb chapel e Breizh-Izel.
+# text_fr = 'Il y a aussi, je crois, une fontaine comme chaque chapelle en a en Basse-Bretagne.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Eur	art	nom	_	_	_	_	_	Gloss=le
+2	feunteun	feunteun	nom	_	_	_	_	_	Gloss=fontaine
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	gredan	krediñ	verbe	_	_	_	_	_	Gloss=crois
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	zo	COP	?	_	_	_	_	_	Gloss=est
+9	ive	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+10	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+11	m	ma	complémenteur	_	_	_	_	_	Gloss=que
+12	'	'	?	_	_	_	_	_	Gloss=?
+13			PUNCT	_	_	_	_	Gloss=punct
+14	he	he	?	_	_	_	_	_	Gloss=3SGF
+15	deus	kaout	?	_	_	_	_	_	Gloss=a
+16	péb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+17	chapel	chapel	nom	_	_	_	_	_	Gloss=chapelle
+18	e	P.e	?	_	_	_	_	_	Gloss=en
+19	Breizh-Izel	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite&Stéphan(1957:107)__1
+# text = rag, evel m'emañ gant an holl evned, bravoc'h eo an tad da weled egéd ar vamm...
+# text_fr = '...parce que, comme pour tous les oiseaux, le mâle est plus beau que la femelle... '
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	rag	kar	?	_	_	_	_	_	Gloss=car
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+4	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+5	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	gant	gant	?	_	_	_	_	_	Gloss=avec
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+9	evned	evn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=oiseau.x
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	bravoc'h	brav.-oc'h	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.plus
+12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	tad	tad	nom	_	_	_	_	_	Gloss=père
+15	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+16	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+17	egéd	eget	complémenteur	_	_	_	_	_	Gloss=que
+18	ar	art	?	_	_	_	_	_	Gloss=le
+19	vamm..	mamm	nom	_	_	_	_	_	Gloss=mère|Morph=1
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:19)__1
+# text = reiñ din an disiplin ken alies 'vel ma vije ret.
+# text_fr = '... me punir aussi souvent qu'il le faudrait.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	reiñ	reiñ	verbe	_	_	_	_	_	Gloss=donner
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	disiplin	disiplin	?	_	_	_	_	_	Gloss=correction
+5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
+6	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+7	'	'	?	_	_	_	_	_	Gloss=comme
+8	vel	vel	?	_	_	_	_	_	Gloss=?
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+10	vije	COP	?	_	_	_	_	_	Gloss=serait
+11	ret	ret	?	_	_	_	_	_	Gloss=obligé
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:64).__1
+# text = Mar karez az-po ar hoz tok-mañ, [ evel m' ema ema ] !
+# text_fr = 'Si tu veux tu auras ce vieux chapeau-ci, tel qu'il est.'
+# source = Gros (1984)
+1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+2	karez	karout	verbe	_	_	_	_	_	Gloss=aimes
+3	az-po	az-po	?	_	_	_	_	_	Gloss=R
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	hoz	kozh-	adjectif	_	_	_	_	_	Gloss=vieux|Morph=5
+6	tok-mañ	tok	nom	_	_	_	_	_	Gloss=chapeau
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	[	[	?	_	_	_	_	_	Gloss=comme
+9	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=?
+10	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+11			PUNCT	_	_	_	_	Gloss=punct
+12	ema	COP	?	_	_	_	_	_	Gloss=est
+13	ema	COP	?	_	_	_	_	_	Gloss=est
+14	]	]	?	_	_	_	_	_	Gloss=?
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:64).__1
+# text = An oaled-mañ, a zo greet [ evel ma teu e teu ].
+# text_fr = 'Ce foyer a été construit comme cela vient cela vient.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	oaled-mañ	oaled	nom	_	_	_	_	_	Gloss=foyer
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	COP	?	_	_	_	_	_	Gloss=est
+6	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	[	[	?	_	_	_	_	_	Gloss=comme
+8	evel	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+10	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+12	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+13	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Merser(2011:57)__1
+# text = evel ma ouezfe / evel ''na'' ouezfe ket
+# text_fr = 'comme s'il savait / comme s'il ne savait pas'
+# source = Merser (2011)
+# texttype = Ouvrages de recherche
+1	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+2	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+3	ouezfe	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+4	/	/	?	_	_	_	_	_	Gloss=/
+5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	'	'	?	_	_	_	_	_	Gloss=ne
+7	'	'	?	_	_	_	_	_	Gloss=?
+8	na'	na'	?	_	_	_	_	_	Gloss=?
+9	'	'	?	_	_	_	_	_	Gloss=?
+10			PUNCT	_	_	_	_	Gloss=punct
+11	ouezfe	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+
+# sent_id = Crahe(2013:332)__2
+# text = Gi ' ra just èl p' o dehe argant.
+# text_fr = 'Ils font comme s'ils avaient de l'argent.'
+# dialect = Vannetais
+# location = Languidic
+# source = Crahe (2013)
+# texttype = Ouvrages de recherche
+1	Gi	pfi	?	_	_	_	_	_	Gloss=eux
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+6	èl	èl	?	_	_	_	_	_	Gloss=comme
+7	p'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+8			PUNCT	_	_	_	_	Gloss=punct
+9	o	o	?	_	_	_	_	_	Gloss=3PL
+10	dehe	kaout	?	_	_	_	_	_	Gloss=aurait
+11	argant	argant	?	_	_	_	_	_	Gloss=argent
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:52)__1
+# text = N'emañ ket ar hiz da zaoulammad d'ar gêr dioustu evel ma vezer arru.
+# text_fr = 'Ce n'est pas l'habitude de retourner au galop à la maison aussitôt qu'on est arrivé.'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	hiz	giz	nom	_	_	_	_	_	Gloss=coutume|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	zaoulammad	duel	?	_	_	_	_	_	Gloss=2
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+11	dioustu	diouzhtu	adverbe	_	_	_	_	_	Gloss=de.suite
+12	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+13	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+14	vezer	vez.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
+15	arru	arruout	?	_	_	_	_	_	Gloss=arrivé
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = 133)__1
+# text = an heveleb ster evel ''o''.
+# text_fr = 'le même sens que ''o''.'
+# location = Cléder
+# source = Fave (1998:133)
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	heveleb	hevelep	adjectif	_	_	_	_	_	Gloss=même
+3	ster	ster	nom	_	_	_	_	_	Gloss=sens
+4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=que
+5	'	'	?	_	_	_	_	_	Gloss='@'@o'@'@
+6	'	'	?	_	_	_	_	_	Gloss=?
+7	o'	o'	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§200)__1
+# text = ken koant 'vel ar rozenn gaera
+# text_fr = 'aussi jolie que la plus belle des roses.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=aussi
+2	koant	koant	adjectif	_	_	_	_	_	Gloss=beau
+3	'	'	?	_	_	_	_	_	Gloss=comme
+4	vel	vel	?	_	_	_	_	_	Gloss=?
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	rozenn	rozenn	?	_	_	_	_	_	Gloss=rose
+7	gaera	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=belle]].[[superlatif|le.plus|Morph=1
+
+# sent_id = Nicolas (2005:16)__1
+# text = me 'espera m'e vo ket ken tuemm ar blez-mañ èl ar blez paset
+# text_fr = 'J'espère qu'il fera pas aussi chaud cette année que l'année passée.'
+# text_phon = ['[ mø ɛspera', 'mi wutʃəkɛn', 'tɥɛmərblema', 'ɛlər ble pasət ]']
+1	me	pfi	?	_	_	_	_	_	Gloss=moi
+2	'	'	?	_	_	_	_	_	Gloss=espère
+3	espera	espera	?	_	_	_	_	_	Gloss=?
+4	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+5	e	COP	?	_	_	_	_	_	Gloss=sera
+6	vo	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=[[ken,ker,
+8	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=kel|aussi]]]
+9	tuemm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	blez-mañ	bloaz	nom	_	_	_	_	_	Gloss=année
+12	èl	èl	?	_	_	_	_	_	Gloss=comme
+13	ar	art	?	_	_	_	_	_	Gloss=le
+14	blez	blez	?	_	_	_	_	_	Gloss=année
+15	paset	paset	?	_	_	_	_	_	Gloss=passé
+
+# sent_id = Favereau(1997:§200)__1
+# text = ken kaer 'vel (d)'ur boked
+# text_fr = 'aussi belle qu'un bouquet.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=aussi
+2	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+3	'	'	?	_	_	_	_	_	Gloss=comme
+4	vel	vel	?	_	_	_	_	_	Gloss=?
+5	(d)'	da	préposition	_	_	_	_	_	Gloss=à
+6	ur	ur	?	_	_	_	_	_	Gloss=?
+7	boked	boked	nom	_	_	_	_	_	Gloss=bouquet
+
+# sent_id = Favereau(1997:§200)__1
+# text = memes priz ([[gant]] / [[C.ha(g)|hag]] / *[[evel]]/ *[[eget]]) ar fuel
+# text_fr = '(de) même prix que le fuel.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+2	priz	priz	nom	_	_	_	_	_	Gloss=priz|prix]]
+3	([[gant]]	([[gant]]	?	_	_	_	_	_	Gloss=que
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	[[C.ha(g)|hag]]	[[C.ha(g)|hag]]	?	_	_	_	_	_	Gloss=?
+6	/	/	PUNCT	_	_	_	_	Gloss=punct
+7	*[[evel]]/	*[[evel]]/	?	_	_	_	_	_	Gloss=?
+8	*[[eget]])	*[[eget]])	?	_	_	_	_	_	Gloss=?
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	fuel	fuel	?	_	_	_	_	_	Gloss=fuel
+
+# sent_id = Berthou(1985:77)__1
+# text = Biskoazh n'em eus gwelet den o c'hoarzhin evelti.
+# text_fr = 'Jamais je n'ai vu personne rire comme elle (rit).'
+# source = Berthou (1985)
+# texttype = Références de corpus
+1	Biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	em	em	?	_	_	_	_	_	Gloss=R
+4	eus	kaout	?	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=vu
+6	den	nomsnus	nom	_	_	_	_	_	Gloss=homme
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	c'hoarzhin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
+9	evelti	pronomincorporé	?	_	_	_	_	_	Gloss=elle
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGarrec(1901:40)__1
+# text = Eun den karantezuz sort eo Fanch em c'hever.
+# text_fr = 'Un homme aussi aimant que l'est Fanch à mon égard'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	Eun	art	?	_	_	_	_	_	Gloss=un
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	karantezuz	karantez.-us	nom.?	_	_	_	_	_	Gloss=amour.ant
+4	sort	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=comme
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	Fanch	nompropre	?	_	_	_	_	_	Gloss=Fanch
+7	em	e-keñver	préposition	_	_	_	_	_	Gloss=dans]].[[POSS|mon|Morph=2
+8	c'hever	e-keñver	préposition	_	_	_	_	_	Gloss=endroit
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:61)__1
+# text = C’hwek eo ar garantez e-giz ar mel, ha taer e-giz an tan-flamm.
+# text_fr = 'L'amour est délicieux comme le miel et violent comme le feu.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	C’hwek	c'hwek	?	_	_	_	_	_	Gloss=délicieux
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	garantez	karantez	nom	_	_	_	_	_	Gloss=amour|Morph=1
+5	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	mel	mel	nom	_	_	_	_	_	Gloss=miel
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ha	&	?	_	_	_	_	_	Gloss=et
+10	taer	taer	adjectif	_	_	_	_	_	Gloss=violent
+11	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	tan-flamm	tan	nom	_	_	_	_	_	Gloss=feu
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,10 +1,10 @@
 # sent_id = 'Raoul,titred'article',HorYezh(1996).__1
 # text = Roll ar c'helaouennoù brezhonek adalek dibenn an eil brezel-bed
-# text_fr =  'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
+# text_fr = 'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
 # source = Hor Yezh
 1	Roll	roll	?	_	_	_	_	_	Gloss=liste
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'helaouennoù	kelaouenn	nom	5	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]|Morph=5
 4	brezhonek	brezhonek	?	_	_	_	_	_	Gloss=breton
 5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
 6	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
@@ -14,11 +14,11 @@
 
 # sent_id = Avezard-Roger (2004a:452)__1
 # text = Aze [...] e vije tremenet forzh kanaouennoù.
-# text_fr =  'Ici [...], on passait pas mal de chansons.'
+# text_fr = 'Ici [...], on passait pas mal de chansons.'
 # text_phon = ['[ aze [...]', 'eviʒɛ', 'tremenɛt', 'fɔʁs', 'kɔnwenu ]']
 1	Aze	aze	?	_	_	_	_	_	Gloss=ici
 2	[...]	[...]	?	_	_	_	_	_	Gloss=?
-3	e	e	?	4	_	_	_	_	Gloss=R
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 4	vije	bezan	?	_	_	_	_	_	Gloss=serait
 5	tremenet	tremen	verbe	_	_	_	_	_	Gloss=passé
 6	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=beaucoup

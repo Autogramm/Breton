@@ -1,0 +1,14 @@
+# sent_id = Elégoët(1982:9)__1
+# text = Pa vez ezhomm a-wechoù cheñch plas...
+# text_fr = 'Quand on devait se déplacer de temps en temps... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+4	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
+5	cheñch	cheñch	verbe	_	_	_	_	_	Gloss=changer
+6	plas..	plas	nom	_	_	_	_	_	Gloss=place
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

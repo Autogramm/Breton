@@ -1,0 +1,19 @@
+# sent_id = Seite&Stéphan(1957:102)__3
+# text = Na gemerit két an aval-se en e greiz ez eus eur preñv.
+# text_fr = 'Ne prenez pas cette pomme, il y a un ver au milieu.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Na	ne,na	?	_	_	_	_	_	Gloss=ne]|Morph=1
+2	gemerit	kemer	verbe	_	_	_	_	_	Gloss=prenez
+3	két	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	aval-se	aval	nom	_	_	_	_	_	Gloss=pomme
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	greiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
+9	ez	ez	?	_	_	_	_	_	Gloss=R
+10	eus	ezeus	?	_	_	_	_	_	Gloss=est
+11	eur	art	nom	_	_	_	_	_	Gloss=un
+12	preñv	preñv	nom	_	_	_	_	_	Gloss=ver
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

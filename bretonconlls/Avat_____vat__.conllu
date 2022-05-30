@@ -1,0 +1,17 @@
+# sent_id = KeitVimpBev(1984:4)__1
+# text = Feiz 'hat ! Lakaat ' ra anezho da vont endro !
+# text_fr = 'Eh bien ! Il les fait marcher à la baguette !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	'	'	?	_	_	_	_	_	Gloss=!
+2	hat	hat	?	_	_	_	_	_	Gloss=?
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+5	'	'	?	_	_	_	_	_	Gloss=R
+6			PUNCT	_	_	_	_	Gloss=punct
+7	ra	ra	complémenteur	_	_	_	_	_	Gloss=?
+8	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	da	da	préposition	_	_	_	_	_	Gloss=à
+10	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+11	endro	endro	?	_	_	_	_	_	Gloss=postpos.
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

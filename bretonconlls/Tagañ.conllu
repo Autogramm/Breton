@@ -1,0 +1,46 @@
+# sent_id = Gros(1984:488)__2
+# text = Honnez, tav n'eo ket taget diwar he hentañ gaou!
+# text_fr = 'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge (elle est menteuse).'
+# source = Gros (1984)
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle-là
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	tav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	taget	taget	?	_	_	_	_	_	Gloss=blessé
+8	diwar	diwar	préposition	_	_	_	_	_	Gloss=par
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	gaou	gaou	nom	_	_	_	_	_	Gloss=mensonge
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:182)__1
+# text = Chi cher-ni 'n eus taget chi chemener bras chiou.
+# text_fr = 'Le chien de notre village a étranglé le chien du grand tailleur aujourd'hui.'
+# dialect = Cornouaillais
+# location = Bannalec
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Chi	ki	nom	_	_	_	_	_	Gloss=chien
+2	cher-ni	kêr	nom	_	_	_	_	_	Gloss=village
+3	'	kaout	?	_	_	_	_	_	Gloss=a
+4	n	n	?	_	_	_	_	_	Gloss=?
+5	eus	eus	?	_	_	_	_	_	Gloss=?
+6	taget	taget	?	_	_	_	_	_	Gloss=attaqué
+7	chi	ki	nom	_	_	_	_	_	Gloss=chien
+8	chemener	kemener	nom	_	_	_	_	_	Gloss=tailleur
+9	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	chiou	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:428)__2
+# text = Touchant 'oan taget.
+# text_fr = 'Pour un peu, je m'étranglais.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Touchant	tuchant	adverbe	_	_	_	_	_	Gloss=tout.à.l'@heure
+2	'	COP	?	_	_	_	_	_	Gloss=étais
+3	oan	oan	nom	_	_	_	_	_	Gloss=?
+4	taget	taget	?	_	_	_	_	_	Gloss=attrapé
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

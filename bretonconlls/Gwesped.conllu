@@ -1,0 +1,15 @@
+# sent_id = LeBozec(1933:95)__1
+# text = Ar merien hag ar gwesped o deus kignet an aval.
+# text_fr = 'Les fourmis et les guêpes ont rongé la pomme.'
+# source = Le Bozec
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	merien	merien	nom	_	_	_	_	_	Gloss=fourmis
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	gwesped	gwesped	nom	_	_	_	_	_	Gloss=guêpes
+6	o	o	?	_	_	_	_	_	Gloss=3PL
+7	deus	kaout	?	_	_	_	_	_	Gloss=ont
+8	kignet	kignat	verbe	_	_	_	_	_	Gloss=rongé
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	aval	aval	nom	_	_	_	_	_	Gloss=pomme
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

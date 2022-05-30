@@ -1,0 +1,15 @@
+# sent_id = Favereau(1984:354)__1
+# text = Piw e' ar zac'had brenn, -te ?
+# text_fr = 'Qui c'est ce sac de son ?' (cette bonne femme)
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Piw	piv	pronom	_	_	_	_	_	Gloss=qui
+2	e'	COP	?	_	_	_	_	_	Gloss=est
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	zac'had	sac'h.-ad	?.?	_	_	_	_	_	Gloss=sac.ée
+6	brenn	brenn	?	_	_	_	_	_	Gloss=son
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	-te	-te	?	_	_	_	_	_	Gloss=[[te!|toi
+9			?	_	_	_	_	_	Gloss=!]]]
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

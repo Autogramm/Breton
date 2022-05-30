@@ -1,0 +1,77 @@
+# sent_id = Standard,Kervella(1995:§475)__1
+# text = Petra bennak m'eo brav an amzer, e vo dister an eost er bloaz-mañ.
+# text_fr = 'Quoique le temps soit beau, la moisson cette année sera négligeable.'
+# source = Kervella (1995:§475)
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=queconque
+3	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	vo	COP	?	_	_	_	_	_	Gloss=sera
+11	dister	dister	adjectif	_	_	_	_	_	Gloss=négligeable
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	eost	eost	nom	_	_	_	_	_	Gloss=moisson
+14	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+15	bloaz-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArGow(2005:25)__1
+# text = Ne 'm boa ket an disterañ pezh-dilhad sec'h da wiskañ.
+# text_fr = 'Je n'avais pas le moindre vêtement sec à me mettre.'
+# source = Ar Gow (2005)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	'	'	?	_	_	_	_	_	Gloss=1SG
+3	m	kaout	?	_	_	_	_	_	Gloss=avait
+4	boa	boa	?	_	_	_	_	_	Gloss=?
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	disterañ	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+8	pezh-dilhad	pezh	?	_	_	_	_	_	Gloss=pièce
+9	sec'h	sec'h	?	_	_	_	_	_	Gloss=sec
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	wiskañ	gwiskañ	?	_	_	_	_	_	Gloss=vêtir
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'gouez')__1
+# text = Ni a ya e gouez evit an disterra tra.
+# text_fr = 'Nous nous mettons en colère pour la moindre des choses.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ya	mont	verbe	_	_	_	_	_	Gloss=va
+4	e	P.e	?	_	_	_	_	_	Gloss=en|Morph=1
+5	gouez	gouez	adjectif	_	_	_	_	_	Gloss=sauvage
+6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	disterra	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+9	tra	tra	nom	_	_	_	_	_	Gloss=chose
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = Disterra ma teue an amzer da fallaad e veze ranket tenna aneuzeu war ar zeh.
+# text_fr = 'Au moindre grain, il fallait les tirer au sec.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Disterra	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	teue	dont	verbe	_	_	_	_	_	Gloss=venait
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	fallaad	fall.-aat	adverbe-adjectif.verbe	_	_	_	_	_	Gloss=mauvais.er
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+11	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+12	aneuzeu	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+13	war	war	?	_	_	_	_	_	Gloss=sur
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	zeh	sec'h	?	_	_	_	_	_	Gloss=sec
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

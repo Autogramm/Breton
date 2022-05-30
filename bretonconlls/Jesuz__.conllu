@@ -1,0 +1,26 @@
+# sent_id = Kervella(2001:34)__1
+# text = Chezuz ! Ma bravigoù !
+# text_fr = 'Ciel ! Mes bijoux !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Chezuz	Chezuz	?	_	_	_	_	_	Gloss=Jesus
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	bravigoù	brav.-ig.-où(PL.)	adverbe-adjectif.?.?	_	_	_	_	_	Gloss=beau.petit.s
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bannoù-Heol(2000:13)__1
+# text = Laouen e vo da vestrig, Iche !
+# text_fr = 'Il va être content, le petit maître à son chien-chien !'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Laouen	laouen	adjectif	_	_	_	_	_	Gloss=content
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+5	vestrig	mestr.-ig	nom.?	_	_	_	_	_	Gloss=maître.petit
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	Iche	Iche	?	_	_	_	_	_	Gloss=Jesus
+8			?	_	_	_	_	_	Gloss=!
+9	!	!	PUNCT	_	_	_	_	Gloss=punct

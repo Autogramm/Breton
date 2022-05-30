@@ -1,0 +1,46 @@
+# sent_id = Konan(2017:'aveiñ')__1
+# text = Me a oa oc'h aveiñ mont a-raok, pan eo erruet du-mañ.
+# text_fr = 'J'étais prêt à bouger quand il est arrivé chez moi.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	aveiñ	aveiñ	?	_	_	_	_	_	Gloss=atteler
+6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+7	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=en.avant
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	pan	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+10	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	erruet	arru	?	_	_	_	_	_	Gloss=arrivé
+12	du-mañ	tu	nom	_	_	_	_	_	Gloss=côté
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:22)__1
+# text = Ar gwellañ eo m'eh ahec'h a-raok ahanemañ.
+# text_fr = 'Le mieux c'est que vous partiez.'
+# text_phon = ['[ ər ɟɥelãn', 'ø', 'mi h', 'ehɛχ', 'arɔk', 'ahanəma ]']
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+5	eh	eh	?	_	_	_	_	_	Gloss=R
+6	ahec'h	mont	verbe	_	_	_	_	_	Gloss=alliez
+7	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=sur-avant
+8	ahanemañ	eno	?	_	_	_	_	_	Gloss=y
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:139)__2
+# text = Par da vont àr-rok.
+# text_fr = 'sur le point de partir, prêt à partir.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Par	pare	adjectif	_	_	_	_	_	Gloss=prêt
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+4	àr-rok	àr-rok	?	_	_	_	_	_	Gloss=sur-avant
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

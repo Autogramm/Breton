@@ -1,6 +1,6 @@
 # sent_id = Briant-Cadiou(1998:222)__1
 # text = war ar pont bihan a yioa a-rez an dour.
-# text_fr =  'sur le petit pont qui était au ras de l'eau.'
+# text_fr = 'sur le petit pont qui était au ras de l'eau.'
 # dialect = Léonard
 # location = Plouzane
 # source = Briant-Cadiou (1998)
@@ -8,17 +8,17 @@
 1	war	war	?	_	_	_	_	_	Gloss=sur
 2	ar	art	?	_	_	_	_	_	Gloss=le
 3	pont	pont	nom	_	_	_	_	_	Gloss=pont
-4	bihan	bihan	adjectif-quantifieur-adverbe	_	_	_	_	_	Gloss=petit
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+4	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	yioa	COP	?	_	_	_	_	_	Gloss=était
-7	a-rez	a	préposition	1	_	_	_	_	Gloss=à
+7	a-rez	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
 8	an	art	?	_	_	_	_	_	Gloss=le
 9	dour	dour	nom	_	_	_	_	_	Gloss=eau
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec & al. (2017:357)__1
 # text = 'pè dour 'resk hou fouessenno.
-# text_fr =  'On avait de l'eau jusqu'aux fesses.' 
+# text_fr = 'On avait de l'eau jusqu'aux fesses.'
 1	'	'	?	_	_	_	_	_	Gloss=Ho
 2	pè	pè	?	_	_	_	_	_	Gloss=poa
 3	dour	dour	nom	_	_	_	_	_	Gloss=dour
@@ -30,27 +30,27 @@
 
 # sent_id = Ledunois (2002:249)__1
 # text = hag e teuent a-rez din.
-# text_fr =  '... et elles me rasaient (les balles).'
+# text_fr = '... et elles me rasaient (les balles).'
 # source2 = Ar Barzhig (1988:120)
 1	hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	4	_	_	_	_	Gloss=R
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	teuent	dont	verbe	_	_	_	_	_	Gloss=venaient
-4	a-rez	a	préposition	1	_	_	_	_	Gloss=à
+4	a-rez	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
 5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMoal(1902:11)__1
 # text = e fri a-rez d ' an douar
-# text_fr =  'la truffe au ras du sol'
+# text_fr = 'la truffe au ras du sol'
 # dialect = Trégorrois
 # location = Tréguier
 # source = Ar Moal (1902)
 # texttype = Références de corpus
-1	e	POSS	?	1	_	_	_	_	Gloss=son
+1	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 2	fri	fri	nom	_	_	_	_	_	Gloss=nez
 3	a-rez	a-rez	préposition	_	_	_	_	_	Gloss=au-raz
-4	d	da	préposition	1	_	_	_	_	Gloss=de
+4	d	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 5	'	art	?	_	_	_	_	_	Gloss=le
-6			?	_	_	_	_	_	Gloss=?
+6			PUNCT	_	_	_	_	Gloss=punct
 7	an	an	?	_	_	_	_	_	Gloss=?
 8	douar	douar	nom	_	_	_	_	_	Gloss=terre

@@ -1,0 +1,50 @@
+# sent_id = Gros(1984:200)__1
+# text = Me a glev lavared a zo brezel dre-oll.
+# text_fr = 'J'entends dire qu'il y a la guerre partout.'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	glev	klevout	verbe	_	_	_	_	_	Gloss=entend
+4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	E	?	_	_	_	_	_	Gloss=y.a
+7	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
+8	dre-oll	dre	préposition	_	_	_	_	_	Gloss=par
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Académiebretonne(1922:293)__1
+# text = Eman o c'houilia dre-holl kas kavout ar pez en deus kollet.
+# text_fr = 'Il est en train de fouiner partout pour trouver ce qu'il a perdu.'
+# source = Académie bretonne (1922)
+# texttype = Ouvrages de recherche
+1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	c'houilia	c'hwil.-iañ(V.)	?.?	_	_	_	_	_	Gloss=insect.er
+4	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
+5	kas	kas	verbe	_	_	_	_	_	Gloss=chercher
+6	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+7	ar	ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
+8	pez	pez	?	_	_	_	_	_	Gloss=que]]]
+9	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+10	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Drezen(1943)__1
+# text = a dre-holl eo deredet pomperion, archerion, sikourerion a bep seurt...
+# text_fr = 'De partout, il est accouru des pompiers, policiers, secouristes de toutes sortes... '
+# source = Drezen (1943)
+# texttype = Références de corpus
+1	a	a	préposition	_	_	_	_	_	Gloss=de
+2	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	deredet	redek	verbe	_	_	_	_	_	Gloss=accourru
+5	pomperion	pomper.-ion	nom.?	_	_	_	_	_	Gloss=pompier.s
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	archerion	archer.-erion	nom.?	_	_	_	_	_	Gloss=polic.iers
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	sikourerion	sikour.-erion	verbe-nom.?	_	_	_	_	_	Gloss=secour.istes
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+12	seurt..	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,52 @@
+# sent_id = ArFloc'h(1985:20)__1
+# text = Mont a rajomp hon-tri d'ar prad gant bep a forc'h koad.
+# text_fr = 'Nous allâmes nous trois au pré avec chacun une fourche en bois.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rajomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=firent
+4	hon-tri	POSS	?	_	_	_	_	_	Gloss=notre
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	prad	prad	nom	_	_	_	_	_	Gloss=pré
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+10	forc'h	forc'h	?	_	_	_	_	_	Gloss=fourche
+11	koad	koad	nom	_	_	_	_	_	Gloss=bois
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:163)__1
+# text = Hag e rafe ferhier-houarn, bugale, d'ar skol e vo ret mond !
+# text_fr = 'Même s'il tombait des hallebardes, mes enfants, il faudra aller à l'école !'
+# source = Gros (1989)
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+4	ferhier-houarn	houarn	nom	_	_	_	_	_	Gloss=fer
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	skol	skol	nom	_	_	_	_	_	Gloss=école
+11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+12	vo	COP	?	_	_	_	_	_	Gloss=sera
+13	ret	ret	?	_	_	_	_	_	Gloss=obligé
+14	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:48)__1
+# text = Na boj dou rafe forc'hiou houarn.
+# text_fr = 'Même s'il devait tomber des cordes... '
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Na	nabochdou	?	_	_	_	_	_	Gloss=C.être.y.a.Dieu
+2	boj	boj	?	_	_	_	_	_	Gloss=?
+3	dou	dou	?	_	_	_	_	_	Gloss=?
+4	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+5	forc'hiou	forc'hiou	?	_	_	_	_	_	Gloss=fourches
+6	houarn	houarn	nom	_	_	_	_	_	Gloss=fer
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

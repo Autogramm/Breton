@@ -1,11 +1,11 @@
 # sent_id = :172-173)__1
 # text = Hendall ni  welem ket den 'bet gwech ebet ba n'amziriou-se.
-# text_fr =  'Autrement, nous ne voyions jamais personne en ce temps-là.'
+# text_fr = 'Autrement, nous ne voyions jamais personne en ce temps-là.'
 # location = Saint-Yvi
 # source = German (2007:172-173)
 1	Hendall	Hendall	?	_	_	_	_	_	Gloss=autrement
 2	ni	pfi	?	_	_	_	_	_	Gloss=nous
-3	??	??	?	1	_	_	_	_	Gloss=ne
+3	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	welem	gwelout	verbe	_	_	_	_	_	Gloss=voyions
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -21,14 +21,14 @@
 
 # sent_id = Elégoët(1982:14)__1
 # text = En-hend-all, ne c'hellemp ket mont.
-# text_fr =  'Autrement, on ne pouvait pas y aller.' 
+# text_fr = 'Autrement, on ne pouvait pas y aller.'
 # dialect = Léonard
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
 1	En-hend-all	P.e	?	_	_	_	_	_	Gloss=en
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	ne	ne	?	1	_	_	_	_	Gloss=ne
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 4	c'hellemp	gallout	verbe	_	_	_	_	_	Gloss=pouvions
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	mont	mont	verbe	_	_	_	_	_	Gloss=aller

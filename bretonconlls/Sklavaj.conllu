@@ -1,0 +1,19 @@
+# sent_id = Cornouaille,ArScao(1945)__2
+# text = Distruj ar sclavaj a glié béa bét gréet gant ar rouéet catolik.
+# text_fr = 'L'abolition de l'esclavage aurait dû être décidée par les rois catholiques.'
+# dialect = Cornouaillais
+# source = Ar Scao (1945)
+# texttype = Ouvrages de recherche
+1	Distruj	distruj	verbe	_	_	_	_	_	Gloss=destruction
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	sclavaj	sclavaj	?	_	_	_	_	_	Gloss=esclavage
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	glié	dleout	verbe	_	_	_	_	_	Gloss=aurait.dû
+6	béa	bezañ	?	_	_	_	_	_	Gloss=être
+7	bét	bet	?	_	_	_	_	_	Gloss=été
+8	gréet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+9	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	rouéet	roue.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=roi.s
+12	catolik	catolik	?	_	_	_	_	_	Gloss=catholique
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

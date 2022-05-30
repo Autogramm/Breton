@@ -1,0 +1,13 @@
+# sent_id = Ternes (1970:323)__1
+# text = Ken m'arruimp 'vo ar mor izel.
+# text_fr = 'D'ici à ce que nous arrivions la mer sera basse.'
+# text_phon = ['/čen', 'mə-Xa:ryjimp,', 'fo', 'rmour', 'izeil /']
+1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=d'@ici
+2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	arruimp	erruout	?	_	_	_	_	_	Gloss=arriverons
+4	'	COP	?	_	_	_	_	_	Gloss=sera
+5	vo	vo	?	_	_	_	_	_	Gloss=?
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	mor	mor	nom	_	_	_	_	_	Gloss=mer
+8	izel	izel	adjectif	_	_	_	_	_	Gloss=bas
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

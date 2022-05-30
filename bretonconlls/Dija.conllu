@@ -1,0 +1,86 @@
+# sent_id = Mellouet&Pennec(2004:20)__1
+# text = A-benn ugent vloaz dija e peze leun a vicher.
+# text_fr = 'A vingt ans, tu avais déjà beaucoup de métier.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=au.bout
+2	dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	peze	kaout	?	_	_	_	_	_	Gloss=avais
+5	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	vicher	micher	nom	_	_	_	_	_	Gloss=métier
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:III)__1
+# text = Me 'zo o vont, 'lar-hi, da zistrujañ tout bourc'h Elien, dija.
+# text_fr = 'Je vais, dit-elle, détruire pratiquement tout le bourg d'Elliant.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	'	'	?	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	'	incises	?	_	_	_	_	_	Gloss=dit-elle
+8	lar-hi,	lar-hi,	?	_	_	_	_	_	Gloss=?
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	zistrujañ	distruj	verbe	_	_	_	_	_	Gloss=détruire
+11	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+12	bourc'h	bourk	?	_	_	_	_	_	Gloss=bourg
+13	Elien	Elien	?	_	_	_	_	_	Gloss=Elliant
+14	,	,	PUNCT	_	_	_	_	Gloss=punct
+15	dija	dija	adverbe	_	_	_	_	_	Gloss=quasi
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:13)__1
+# text = Ma Doue a-wechoù viemp pad an noz dija o tañsal, a-wechoù.
+# text_fr = 'Mon Dieu des fois on dansait presque toute la nuit, des fois.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=des.fois
+2	viemp	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=serions
+3	pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+6	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	tañsal	dañsal	verbe	_	_	_	_	_	Gloss=danser
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=des.fois
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:27)__1
+# text = dija daou vetr
+# text_fr = 'presque deux mètres'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
+2	vetr	vetr	?	_	_	_	_	_	Gloss=mètre
+
+# sent_id = Bouzeg(1986:27)__1
+# text = dija sur
+# text_fr = 'pratiquement sur'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
+2	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+
+# sent_id = Bouzeg(1986:27)__1
+# text = dija 'walc'h
+# text_fr = 'Il y a des chances que... '
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
+2	'	awalc'h	?	_	_	_	_	_	Gloss=assez
+3	walc'h	walc'h	?	_	_	_	_	_	Gloss=?

@@ -1,0 +1,68 @@
+# sent_id = Proverbe__6
+# text = An hini ne sent ket ouzh ar stur, ouzh ar garreg a raio sur.
+# text_fr = 'Qui n'obéit pas à la barre obéira aux rochers.'
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	sent	sent	?	_	_	_	_	_	Gloss=obéit
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	stur	stur	nom	_	_	_	_	_	Gloss=gouvernail
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	garreg	karreg	nom	_	_	_	_	_	Gloss=rochers|Morph=1
+13	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+14	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+15	sur	sur	adverbe	_	_	_	_	_	Gloss=sûrement
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'estren')__1
+# text = N'eo ket mad selaou an estren.
+# text_fr = 'Il n'est pas bon d'obéir à autrui.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+5	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter/obéir
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	estren	estren	nom-adjectif	_	_	_	_	_	Gloss=étranger
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'imor')__1
+# text = Ma 'm-bije sentet ouz ma imor em-bije lazet anezañ.
+# text_fr = 'Si j'avais écouté ma colère, je l'aurais tué.'
+# source = Gros (1989)
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	'	kaout	?	_	_	_	_	_	Gloss=aurait
+3	m-bije	m-bije	?	_	_	_	_	_	Gloss=?
+4	sentet	sentet	?	_	_	_	_	_	Gloss=obéi
+5	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	imor	imor	nom	_	_	_	_	_	Gloss=humeur
+8	em-bije	kaout	?	_	_	_	_	_	Gloss=aurait
+9	lazet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+10	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon (2000:124)   __1
+# text = perac ... n'hun  es chet ni sentet avel guir bugalé ?
+# text_fr = 'Pourquoi... ne nous sommes nous pas obéi comme de vrais enfants ?'
+# source2 = LLB-41
+1	perac	perak	?	_	_	_	_	_	Gloss=pourquoi
+2	...	...	PUNCT	_	_	_	_	Gloss=punct
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	hun	hun	nom	_	_	_	_	_	Gloss=1PL
+5			PUNCT	_	_	_	_	Gloss=punct
+6	es	es	?	_	_	_	_	_	Gloss=?
+7	chet	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	ni	écho	?	_	_	_	_	_	Gloss=nous
+9	sentet	sentet	?	_	_	_	_	_	Gloss=obéi
+10	avel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+11	guir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+12	bugalé	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+13	?	?	PUNCT	_	_	_	_	Gloss=punct

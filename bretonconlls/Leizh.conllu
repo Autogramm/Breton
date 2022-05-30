@@ -1,0 +1,87 @@
+# sent_id = Gros(1970b:§'leiz')__1
+# text = E leiz az-teus bet ?
+# text_fr = 'As-tu obtenu toute sa contenance ?'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	E	POSS	?	_	_	_	_	_	Gloss=son
+2	leiz	leiz	?	_	_	_	_	_	Gloss=plein
+3	az-teus	az-teus	?	_	_	_	_	_	Gloss=R
+4	bet	kaout	?	_	_	_	_	_	Gloss=eu
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:175)__2
+# text = gand a-leiz a drouz
+# text_fr = 'à grand bruit'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	gand	gant	?	_	_	_	_	_	Gloss=avec
+2	a-leiz	a-leizh	?	_	_	_	_	_	Gloss=beaucoup
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	drouz	trouz	nom	_	_	_	_	_	Gloss=bruit
+
+# sent_id = Menard&Kadored(2001:'leizh')__1
+# text = Kemerit leizh ur gastelodenn a zour.
+# text_fr = 'Prenez une casserole pleine d'eau.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Kemerit	kemer	verbe	_	_	_	_	_	Gloss=prenez
+2	leizh	leizh	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	gastelodenn	gastelodenn	?	_	_	_	_	_	Gloss=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	zour	dour	nom	_	_	_	_	_	Gloss=eau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'leiz')__1
+# text = Honnez, hag e ve leiz an daol a aour, na fiñvo ket anezho.
+# text_fr = 'Celle-là, y-eût-il plein la table d'or, n'y touchera pas.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	ve	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	leiz	leiz	?	_	_	_	_	_	Gloss=plein
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	daol	taol(F.)	?	_	_	_	_	_	Gloss=table]|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	aour	aour	nom	_	_	_	_	_	Gloss=or
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+13	fiñvo	fiñval	verbe	_	_	_	_	_	Gloss=bougera
+14	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+15	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:183)__1
+# text = Kraoñ am-oa bet digantañ leiz ma daou zorn.
+# text_fr = 'J'avais reçu de lui des noix plein les deux mains.'
+# source = Gros (1984)
+1	Kraoñ	kraoñ	?	_	_	_	_	_	Gloss=noix
+2	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
+3	bet	kaout	?	_	_	_	_	_	Gloss=eu
+4	digantañ	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+5	leiz	leiz	?	_	_	_	_	_	Gloss=plein
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	zorn	dorn	nom	_	_	_	_	_	Gloss=main
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'leizh')__1
+# text = Degaset o doa leizh daou pe dri c'harr a zouar.
+# text_fr = 'Ils ont emmené deux ou trois voitures pleines de terre.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Degaset	degas	verbe	_	_	_	_	_	Gloss=emmené
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	leizh	leizh	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+6	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zouar	douar	nom	_	_	_	_	_	Gloss=terre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,69 @@
+# sent_id = Kervella(2009:59)__1
+# text = Amañ emañ ar roer-bilhiji.   < SG. roer-bilhed
+# text_fr = 'Le distributeur de billets est là.
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	roer-bilhiji	reiñ.-er,-our	verbe.?	_	_	_	_	_	Gloss=donn.eur
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	??	??	?	_	_	_	_	_	Gloss=???
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	??	??	?	_	_	_	_	_	Gloss=???
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	<	<	?	_	_	_	_	_	Gloss=???
+11	SG.	SG.	?	_	_	_	_	_	Gloss=?
+12	roer-bilhed	roer-bilhed	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Drezen(1990:53)__1
+# text = Ni, Breur Arzhur, a zo da vezañ menec’h ac’hanomp…
+# text_fr = 'Nous, Frère Arthur, sommes destinés à être moines.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Breur	breur	nom	_	_	_	_	_	Gloss=Frère
+4	Arzhur	Arzhur	?	_	_	_	_	_	Gloss=Arthur
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	COP	?	_	_	_	_	_	Gloss=est
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+10	menec’h	manac'h	?	_	_	_	_	_	Gloss=moine
+11	ac’hanomp…	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.nous
+
+# sent_id = Briant-Cadiou(1998:21)__3
+# text = botou-ler kaer ouz e dreid
+# text_fr = '(Il avait) de belles chaussures de cuir aux pieds.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	botou-ler	botez.-où(PL.).ler	nom.?.nom	_	_	_	_	_	Gloss=chaussure.s.cuir
+2	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+3	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	dreid	troad	nom	_	_	_	_	_	Gloss=pied
+
+# sent_id = carte[http://sbahuaud.free.fr/ALBB/Kartenn-111.jpg111]del'ALBB__1
+# text = un dañvad deñved
+# text_fr = 'un mouton, des moutons'
+# source = ALBB
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	dañvad	dañvad	?	_	_	_	_	_	Gloss=mouton
+3	deñved	deñved	?	_	_	_	_	_	Gloss=moutons
+
+# sent_id = Gros(1996:111)__1
+# text = Krog e oar da dapout toulladou brizili.
+# text_fr = 'On commence à prendre de petites quantités de maquereaux.'
+# source = Gros (1996)
+1	Krog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oar	COP.IMP	?.?	_	_	_	_	_	Gloss=était.on
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	dapout	tapout	?	_	_	_	_	_	Gloss=prendre
+6	toulladou	toullad.-où(PL.)	quantifieur.?	_	_	_	_	_	Gloss=poignée.s
+7	brizili	brezhell	nom	_	_	_	_	_	Gloss=maquereau
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

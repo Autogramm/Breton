@@ -1,0 +1,9 @@
+# sent_id = KeitVimpBev(1984:22)__1
+# text = Hegarat tre eo-int !
+# text_fr = 'Ils sont très aimables !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	Hegarat	Hegarat	adjectif	_	_	_	_	_	Gloss=aimable
+2	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tout-à-fait
+3	eo-int	COP	?	_	_	_	_	_	Gloss=est
+4	!	!	PUNCT	_	_	_	_	Gloss=punct

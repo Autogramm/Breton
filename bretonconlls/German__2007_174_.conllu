@@ -1,0 +1,14 @@
+# sent_id = German(2007:174)__1
+# text = N’oun ket hann ema chomet haoñ ba'n ger.
+# text_fr = 'Je ne sais pas s'il est resté à la maison.'
+# dialect = Cornouaillais
+# location = Saint-Yvi
+# source = German (2007)
+# texttype = Ouvrages de recherche
+1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+2	hann	Q	?	_	_	_	_	_	Gloss=si
+3	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+5	haoñ	echo	?	_	_	_	_	_	Gloss=lui
+6	ger	kêr	nom	_	_	_	_	_	Gloss=foyer
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

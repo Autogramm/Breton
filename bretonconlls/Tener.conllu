@@ -1,0 +1,17 @@
+# sent_id = Briant-Cadiou(1998:9)__3
+# text = Laosket e vezent da boaza ken e vezent tener.
+# text_fr = 'On les laissait cuire jusqu'à ce qu'ils s'attendrissent.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Laosket	laoskel	?	_	_	_	_	_	Gloss=laissé
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	boaza	poazhañ	verbe	_	_	_	_	_	Gloss=cuire
+6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+9	tener	tener	adjectif	_	_	_	_	_	Gloss=tendre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

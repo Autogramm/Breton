@@ -1,0 +1,100 @@
+# sent_id = ArFloc’h(1950:157)__2
+# text = Teir reunenn hepken a c'hellan da gemerout digant pep~hini.
+# text_fr = 'Je peux prendre seulement trois crins à chacun.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	reunenn	reun.singulatif	nom.?	_	_	_	_	_	Gloss=crin.SG
+2	hepken	hepken	adverbe	_	_	_	_	_	Gloss=seulement
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	c'hellan	gallout	verbe	_	_	_	_	_	Gloss=peux
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	gemerout	gemerout	?	_	_	_	_	_	Gloss=prendre
+7	digant	gant	préposition	_	_	_	_	_	Gloss=avec
+
+# sent_id = Briant-Cadiou(1998:25)__1
+# text = Teir loaiad bemdez he-doa da gemered.
+# text_fr = 'Elle devait (en) prendre trois cuillerées par jour.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+2	loaiad	loa.-ad,-iad	nom.?	_	_	_	_	_	Gloss=cuillère.-ée
+3	bemdez	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+4	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
+5	da	da	préposition	_	_	_	_	_	Gloss=1
+6	gemered	gemered	?	_	_	_	_	_	Gloss=prendre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:XIX)__1
+# text = kemeridigezh ur c'hreñvlec'h
+# text_fr = 'la prise d'un fort'
+# source = Vallée (1980)
+1	kemeridigezh	-edigezh,-idigezh	?	_	_	_	_	_	Gloss=N
+2	ur	art	?	_	_	_	_	_	Gloss=un
+3	c'hreñvlec'h	kreñv-.lec'h	adjectif.?	_	_	_	_	_	Gloss=fort.place
+
+# sent_id = Gros(1970:29)__3
+# text = N'on ket bet dalhet da gemer kig digand Jobig.
+# text_fr = 'Je n'ai pas continué à prendre de la viande à Jobig.'
+# source = Gros (1970)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	on	COP	?	_	_	_	_	_	Gloss=suis
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	dalhet	delc'her	?	_	_	_	_	_	Gloss=continué
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	gemer	gemer	?	_	_	_	_	_	Gloss=prendre
+8	kig	kig	nom	_	_	_	_	_	Gloss=viande
+9	digand	digant	préposition	_	_	_	_	_	Gloss=à
+10	Jobig	Jobig	?	_	_	_	_	_	Gloss=Jobig
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Perrot(1912:844)__1
+# text = da gemer tamm plijadur ebet.
+# text_fr = '... de prendre aucun plaisir.'
+# dialect = Léonard
+# source = Perrot (1912)
+# texttype = Références de corpus
+1	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	gemer	gemer	?	_	_	_	_	_	Gloss=prendre
+3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+4	plijadur	plijadur	nom	_	_	_	_	_	Gloss=plaisir
+5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,[http://br.dofollow.be/wiki/Patrom:Infobox_Sonerezh_%28arzour%29légendecouleurs]surWikipedia__1
+# text = Nep den, sonaozour, teknikour, hag all... a gemer perzh a-dreñv al leurenn.
+# text_fr = 'Quiconque, sonorisateur, technicien, etc. qui participe hors la scène.'
+1	Nep	nepX	quantifieur-déterminant	_	_	_	_	_	Gloss=tout
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	sonaozour	sonaozour	?	_	_	_	_	_	Gloss=sonorisateur,
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	teknikour	teknikour	?	_	_	_	_	_	Gloss=technicien,
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	hag	&	?	_	_	_	_	_	Gloss=et
+9	all..	all	?	_	_	_	_	_	Gloss=autre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	gemer	gemer	?	_	_	_	_	_	Gloss=prend
+13	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+14	a-dreñv	a-drenv	préposition	_	_	_	_	_	Gloss=derrière
+15	al	art	?	_	_	_	_	_	Gloss=le
+16	leurenn	leurenn	nom	_	_	_	_	_	Gloss=scène
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'berraj')__1
+# text = Tapet e oan bet en berraj.
+# text_fr = 'J'avais été prise de court.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Tapet	tapout	?	_	_	_	_	_	Gloss=pris
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oan	COP	nom	_	_	_	_	_	Gloss=étais
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+6	berraj	berr.-aj	adjectif.?	_	_	_	_	_	Gloss=court.esse
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

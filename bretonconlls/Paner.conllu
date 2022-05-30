@@ -1,0 +1,40 @@
+# sent_id = Trépos(2001:§383)__3
+# text = Kemer eur baner, ma tastumi an avaloù.
+# text_fr = 'Prends un panier pour ramasser les pommes.'
+# source = Trépos (2001)
+1	Kemer	kemer	verbe	_	_	_	_	_	Gloss=prends
+2	eur	art	nom	_	_	_	_	_	Gloss=un
+3	baner	baner	?	_	_	_	_	_	Gloss=1
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	tastumi	dastum	verbe	_	_	_	_	_	Gloss=ramasseras
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	avaloù	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:37)__1
+# text = eur goueriadez gant eur banerad viou.
+# text_fr = 'une fermière avec un panier d’œufs.'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	goueriadez	kouer	nom	_	_	_	_	_	Gloss=fermi]].[[-iad|er]].[[-ez|e|Morph=1
+3	gant	gant	?	_	_	_	_	_	Gloss=avec
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	banerad	banerad.-ad	?.?	_	_	_	_	_	Gloss=1.ée
+6	viou	vi,u	?	_	_	_	_	_	Gloss=œufs
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerne,YvonneP.,kontañkaoz(12/2017)__1
+# text = Breinañ a reont ar patatez e-barzh ar boutot.
+# text_fr = 'Dans le panier, les patates pourissent.'
+# source = kontañ kaoz (12/2017)
+1	Breinañ	brein.-añ	adjectif.?	_	_	_	_	_	Gloss=pourr.ir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
+6	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	boutot	boutot	?	_	_	_	_	_	Gloss=panier
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

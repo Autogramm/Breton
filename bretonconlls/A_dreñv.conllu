@@ -1,13 +1,13 @@
 # sent_id = Gros(1984:26)__1
 # text = Brema-zouden ez eot a-dreñv, pe me a roio eun ognad deoh-hu!
-# text_fr =  'Tout-à-l'heure vous allez reculer (décamper), ou bien je vous donnerai un marron !'
+# text_fr = 'Tout-à-l'heure vous allez reculer (décamper), ou bien je vous donnerai un marron !'
 # source = Gros (1984)
 1	Brema-zouden	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 2	ez	ez	?	_	_	_	_	_	Gloss=R
 3	eot	mont	verbe	_	_	_	_	_	Gloss=irez
 4	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=en.arrière
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	pe	pe	complémenteur-conjonction	_	_	_	_	_	Gloss=ou
+6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
 7	me	pfi	?	_	_	_	_	_	Gloss=moi
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	roio	reiñ	verbe	_	_	_	_	_	Gloss=donnerai
@@ -18,7 +18,7 @@
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__22
 # text = Eõn zo aet war e giz nes sell dreñoñ.
-# text_fr =  'Il a reculé sans regarder.'
+# text_fr = 'Il a reculé sans regarder.'
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
@@ -26,7 +26,7 @@
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 4	war	war	?	_	_	_	_	_	Gloss=sur
-5	e	POSS	?	1	_	_	_	_	Gloss=son
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 6	giz	war-giz	préposition-postposition	_	_	_	_	_	Gloss=arrière
 7	nes	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans
 8	sell	sell	nom	_	_	_	_	_	Gloss=sellout

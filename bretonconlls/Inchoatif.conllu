@@ -1,0 +1,96 @@
+# sent_id = Proverbe__1
+# text = Koshaat a reomp adal ma paouezomp a ebatal.
+# text_fr = 'On vieillit quand on cesse de s'amuser.'
+1	Koshaat	kozh.-aat	adjectif.verbe	_	_	_	_	_	Gloss=vieil.ir
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	adal	adalek	?	_	_	_	_	_	Gloss=dès
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	paouezomp	paouez	verbe	_	_	_	_	_	Gloss=cessons
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	ebatal	ebatal	?	_	_	_	_	_	Gloss=s'@.amuser
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMerser(2009:95,96)__1
+# text = dambrest, damdost, damhlaz.
+# text_fr = 'bientôt, tout près, bleuâtre.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	dambrest	dam-	?	_	_	_	_	_	Gloss=semi|Morph=1
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	damdost	dam-	?	_	_	_	_	_	Gloss=semi|Morph=1
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	damhlaz	dam-	?	_	_	_	_	_	Gloss=semi|Morph=1
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§443)__1
+# text = pa 'zo neve' la'het ur pemoc'h.
+# text_fr = 'Puisqu'on vient de tuer un cochon.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque|Morph=1
+2	'	zo	?	_	_	_	_	_	Gloss=est
+3	zo	zo	?	_	_	_	_	_	Gloss=?
+4	neve'	nevez-	adjectif	_	_	_	_	_	Gloss=nouveau
+5			PUNCT	_	_	_	_	Gloss=punct
+6	la'	la'	?	_	_	_	_	_	Gloss=?
+7	het	het	nom	_	_	_	_	_	Gloss=?
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	pemoc'h	pemoc'h	?	_	_	_	_	_	Gloss=cochon
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'dont')__1
+# text = dont da vailh war e vicher
+# text_fr = 'commencer à connaitre son métier.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	vailh	mailh	?	_	_	_	_	_	Gloss=expert
+4	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	vicher	micher	nom	_	_	_	_	_	Gloss=métier
+
+# sent_id = ArMoal(1902:12)__1
+# text = Ar plah a yeas livet fall
+# text_fr = 'La femme changea de couleur.'
+# dialect = Trégorrois
+# location = Tréguier
+# source = Ar Moal (1902)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	plah	plac'h	?	_	_	_	_	_	Gloss=femme
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	yeas	mont	verbe	_	_	_	_	_	Gloss=alla
+5	livet	livañ	verbe	_	_	_	_	_	Gloss=peint
+6	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+
+# sent_id = Gros(1989:'distoka')__1
+# text = Ha goude, pa vez arru distoket al lapined e varvont.
+# text_fr = 'Et après, quand les lapins commencent à grandir, ils meurent.'
+# source = Gros (1989)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	arru	arruout	?	_	_	_	_	_	Gloss=arrivé
+7	distoket	distoket	?	_	_	_	_	_	Gloss=démarré
+8	al	art	?	_	_	_	_	_	Gloss=le
+9	lapined	lapined.-ed	?.?	_	_	_	_	_	Gloss=lapin.s
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	varvont	mervel	verbe	_	_	_	_	_	Gloss=meurent
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'distoka')__2
+# text = Me a zo arru ruz ma bouzellou.
+# text_fr = 'Je commence à avoir très faim.'
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	arru	arru	?	_	_	_	_	_	Gloss=arrivé
+5	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	bouzellou	bouzell.-où(PL.)	?.?	_	_	_	_	_	Gloss=boyau.x
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

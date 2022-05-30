@@ -1,0 +1,71 @@
+# sent_id = Burel(2012:38)__3
+# text = Ar réma [ évito da véza paour ], a ziskenné eus eur famill énorabl.
+# text_fr = 'Ces gens, bien que pauvres, descendaient d'une famille honorable.'
+# dialect = Léonard
+# location = Lesneven
+# source = Burel (2012)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	réma	hini.DEM	nom-pronom.?	_	_	_	_	_	Gloss=ceux.ci
+3	[	[	?	_	_	_	_	_	Gloss=
+4	évito	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	véza	bezan	?	_	_	_	_	_	Gloss=être
+7	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+8	],	],	?	_	_	_	_	_	Gloss=?
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	ziskenné	diskenn	verbe	_	_	_	_	_	Gloss=descendait
+11	eus	eus	?	_	_	_	_	_	Gloss=de
+12	eur	art	nom	_	_	_	_	_	Gloss=un
+13	famill	familh	nom	_	_	_	_	_	Gloss=famille
+14	énorabl	enor.-abl	nom.?	_	_	_	_	_	Gloss=honor.able
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:82)__1
+# text = [_[[DP]]_ An traou-ze ] [_[[AdvP]]_ diwezatoc'h ] a vo un dudi sonjal enno.
+# text_fr = 'Tout cela plus tard, ce sera un bonheur d'y repenser.'
+# source = Kerrien (2000)
+1	[_[[DP]]_	[_[[DP]]_	?	_	_	_	_	_	Gloss=
+2	An	art	?	_	_	_	_	_	Gloss=le
+3	traou-ze	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+4	]	]	?	_	_	_	_	_	Gloss=?
+5	[_[[AdvP]]_	[_[[AdvP]]_	?	_	_	_	_	_	Gloss=
+6	diwezatoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
+7	]	]	?	_	_	_	_	_	Gloss=?
+8	a	a	préposition	_	_	_	_	_	Gloss=1
+9	vo	COP	?	_	_	_	_	_	Gloss=sera
+10	un	art	?	_	_	_	_	_	Gloss=un
+11	dudi	dudi	nom	_	_	_	_	_	Gloss=plaisir
+12	sonjal	sonjal	?	_	_	_	_	_	Gloss=penser
+13	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.eux
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:4)__1
+# text = [_[[DP]]_ Kement ki klanv a zeuio er vro ] [_[[PP]]_ dre Voujez ] a dremeno.
+# text_fr = 'Tout chien enragé qui arrivera dans la contrée passera par Boujez.'
+# source = Kerrien (2000)
+1	[_[[DP]]_	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+2	Kement	ki	nom	_	_	_	_	_	Gloss=chien
+3	ki	ki	nom	_	_	_	_	_	Gloss=?
+4	klanv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	zeuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+9	]	]	?	_	_	_	_	_	Gloss=?
+10	[_[[PP]]_	dre	préposition	_	_	_	_	_	Gloss=par
+11	dre	dre	préposition	_	_	_	_	_	Gloss=Boujez
+12	Voujez	Voujez	?	_	_	_	_	_	Gloss=?
+13	]	]	?	_	_	_	_	_	Gloss=?
+14	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+15	dremeno	tremen	verbe	_	_	_	_	_	Gloss=passera
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:531)__1
+# text = Ar gaozerien vrao alïez a vez kanaillez.
+# text_fr = 'Les beaux parleurs sont souvent des canailles.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gaozerien	kaozeal	verbe	_	_	_	_	_	Gloss=parl]].[[-erien|eurs]]_[[1|Morph=1
+3	vrao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	alïez	alies	adverbe	_	_	_	_	_	Gloss=souvent

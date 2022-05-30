@@ -1,0 +1,25 @@
+# sent_id = Kergoat(1976:42)__1
+# text = tri seurt douar dezho talvoudegezhioù disheñvel
+# text_fr = 'trois sortes de terres dont l'importance varie'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+2	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+3	douar	douar	nom	_	_	_	_	_	Gloss=terre
+4	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+5	talvoudegezhioù	-ioù	?	_	_	_	_	_	Gloss=s
+6	disheñvel	dis-.heñvel	?.?	_	_	_	_	_	Gloss=dé.semblable
+
+# sent_id = Kervella(1947:§234,nI)__1
+# text = un dalvoudegezh nac'h drezo o-unan.
+# text_fr = 'un sens négatif inhérent'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	dalvoudegezh	dalvoudegezh	?	_	_	_	_	_	Gloss=sens
+3	nac'h	nac'h	?	_	_	_	_	_	Gloss=négatif
+4	drezo	dre.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=par.eux
+5	o-unan	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,167 @@
+# sent_id = [http://per.kentel.pagesperso-orange.fr/son_fest_miz_even1.htmSonfestmizeven],'Chansondejuin'__1
+# text = Gant kalzig a garantez on deut hirio amañ.
+# text_fr = 'Je suis venu aujourd'hui ici avec pas mal d'amour.'
+1	Gant	gant	?	_	_	_	_	_	Gloss=avec
+2	kalzig	kalz.kalzig	quantifieur-adverbe-déterminant.?	_	_	_	_	_	Gloss=beaucoup.DIM
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	garantez	karantez	nom	_	_	_	_	_	Gloss=amour
+5	on	COP	?	_	_	_	_	_	Gloss=suis
+6	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+7	hirio	hirio	?	_	_	_	_	_	Gloss=aujourd'@hui
+8	amañ	ads	?	_	_	_	_	_	Gloss=ici
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:182)__1
+# text = Chi cher-ni 'n eus taget chi chemener bras chiou.
+# text_fr = 'Le chien de notre village a étranglé le chien du grand tailleur aujourd'hui.'
+# dialect = Cornouaillais
+# location = Bannalec
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Chi	ki	nom	_	_	_	_	_	Gloss=chien
+2	cher-ni	kêr	nom	_	_	_	_	_	Gloss=village
+3	'	kaout	?	_	_	_	_	_	Gloss=a
+4	n	n	?	_	_	_	_	_	Gloss=?
+5	eus	eus	?	_	_	_	_	_	Gloss=?
+6	taget	tagañ	verbe	_	_	_	_	_	Gloss=attaqué
+7	chi	ki	nom	_	_	_	_	_	Gloss=chien
+8	chemener	kemener	nom	_	_	_	_	_	Gloss=tailleur
+9	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	chiou	chiou	?	_	_	_	_	_	Gloss=aujourd'@hui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  collecté par Maï-Ewen auprès de sa mère (Bannalec/Skaer), 2011.__1
+# text = Chiou 'ma(ñ) n'deoz mod n'deoz la oa oet gaor [[nom propre|Yann]] ga 'r blei(z). ''Bannalec/Skaer''
+# text_fr = (Se dit d'un jour gris, pluvieux ou brumeux, où le ciel semble écraser la terre)
+1	Chiou	Chiou	adverbe	_	_	_	_	_	Gloss=Hiziv
+2	'	'	verbe-auxiliaire	_	_	_	_	_	Gloss=emañ
+3	ma(ñ)	ma(ñ)	?	_	_	_	_	_	Gloss=?
+4	n'	n'	?	_	_	_	_	_	Gloss=un
+5	deoz	deoz	?	_	_	_	_	_	Gloss=devezh
+6	mod	mod	préposition	_	_	_	_	_	Gloss=mod
+7	n'	n'	?	_	_	_	_	_	Gloss=an
+8	deoz	deoz	?	_	_	_	_	_	Gloss=devezh
+9	la	la	complémenteur	_	_	_	_	_	Gloss=ma
+10	oa	oa	?	_	_	_	_	_	Gloss=oa
+11	oet	oet	?	_	_	_	_	_	Gloss=aet
+12	gaor	gaor	nom	_	_	_	_	_	Gloss=gavr
+13	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+14	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+15	ga	ga	?	_	_	_	_	_	Gloss=gant
+16	'	'	?	_	_	_	_	_	Gloss=ar
+17	r	r	?	_	_	_	_	_	Gloss=bleiz.
+18	blei(z).	blei(z).	?	_	_	_	_	_	Gloss=?
+19	'	'	?	_	_	_	_	_	Gloss='@'@Standard'@'@
+20	'	'	?	_	_	_	_	_	Gloss=?
+21	Bannalec/Skaer'	Bannalec/Skaer'	?	_	_	_	_	_	Gloss=?
+22	'	'	?	_	_	_	_	_	Gloss=?
+23			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'lard')__1
+# text = Hizio emañ Meurz-al-lard.
+# text_fr = 'C'est aujourd'hui le mardi gras.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hizio	Hizio	?	_	_	_	_	_	Gloss=aujourd'@hui
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	Meurz-al-lard	art	?	_	_	_	_	_	Gloss=le
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:297)__1
+# text = Hiziv emañ ar foar.
+# text_fr = 'Aujourd’hui c’est la foire.'
+# text_phon = ["/'@ju", 'ma', "r '@vwa:r/"]
+1	Hiziv	Hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	foar	foar	nom	_	_	_	_	_	Gloss=foire
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kersulec(2016:30)__1
+# text = Ervoa 'di ar meurd keda ?
+# text_fr = 'Aujourd'hui, c'est le mardi, n'est-ce pas ?'
+# dialect = Cornouaillais
+# source = Kersulec (2016)
+# texttype = Ouvrages de recherche
+1	Ervoa	Ervoa	?	_	_	_	_	_	Gloss=aujourd'@hui
+2	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	di	di	?	_	_	_	_	_	Gloss=?
+4	keda	keta	?	_	_	_	_	_	Gloss=n'@est.ce.pas
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mathelier (2017:32)__1
+# text = Añ duem hirif.
+# text_fr = 'Il fait chaud aujourd'hui.'
+1	duem	duem	?	_	_	_	_	_	Gloss=domm
+2	hirif	hirif	?	_	_	_	_	_	Gloss=hiriv
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:5)__1
+# text = N'eo ket hirio c'hoazh e vo lakaet ar vojenn da zont da wir.
+# text_fr = 'C'est pas encore aujourd'hui que la légende deviendra réalité.'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	hirio	hirio	?	_	_	_	_	_	Gloss=aujourd'@hui
+5	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	vo	COP	?	_	_	_	_	_	Gloss=sera
+8	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+9	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+10	vojenn	vojenn	?	_	_	_	_	_	Gloss=légende
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	zont	mont	verbe	_	_	_	_	_	Gloss=aller
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+14	wir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§443)__1
+# text = Kement-all a draou 'z eus hirio !
+# text_fr = 'Il y a tellement de choses aujourd'hui !'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Kement-all	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tellement
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	draou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+4	'	ezeus	?	_	_	_	_	_	Gloss=est
+5	z	z	?	_	_	_	_	_	Gloss=?
+6	eus	eus	?	_	_	_	_	_	Gloss=?
+7	hirio	hirio	?	_	_	_	_	_	Gloss=aujourd'@hui
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:39)__1
+# text = Red eo hiriv an deiz espern an dour.
+# text_fr = 'Il faut aujourd'hui économiser l'eau.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Red	ret	?	_	_	_	_	_	Gloss=obligé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	hiriv	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+6	espern	espern	verbe	_	_	_	_	_	Gloss=économiser
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dour	dour	nom	_	_	_	_	_	Gloss=eau
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:385)__1
+# text = Chiou 'n dé yiè bochad-ré  louzou ga 'n dud.
+# text_fr = 'De nos jours on consomme beaucoup trop de médicaments.'
+1	Chiou	Chiou	adverbe	_	_	_	_	_	Gloss=Hiziv
+2	'	'	?	_	_	_	_	_	Gloss=an
+3	n	n	nom	_	_	_	_	_	Gloss=deiz
+4	dé	dé	?	_	_	_	_	_	Gloss=?
+5	??	??	préposition	_	_	_	_	_	Gloss=a
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	louzou	louzou	adverbe	_	_	_	_	_	Gloss=louzoù
+8	ga	ga	?	_	_	_	_	_	Gloss=gant
+9	'	'	?	_	_	_	_	_	Gloss=an
+10	n	n	?	_	_	_	_	_	Gloss=dud
+11	dud	dud	?	_	_	_	_	_	Gloss=.
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

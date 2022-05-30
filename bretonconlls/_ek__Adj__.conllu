@@ -1,6 +1,6 @@
 # sent_id = Herrieu(1994:153)__1
 # text = Amzer truek a ra deomp...
-# text_fr =  'Il (nous) fait un temps pitoyable.'
+# text_fr = 'Il (nous) fait un temps pitoyable.'
 # source = Herrieu (1994)
 1	Amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 2	truek	truez	nom	_	_	_	_	_	Gloss=pitoy
@@ -11,19 +11,19 @@
 
 # sent_id = Burel(2012:198)__1
 # text = ...dar récévour guinaouoc-sé.
-# text_fr =  '... à cet imbécile de receveur.' 
+# text_fr = '... à cet imbécile de receveur.'
 # dialect = Léonard
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	...dar	da	préposition	1	_	_	_	_	Gloss=pour
+1	...dar	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 2	récévour	resivout.-our	?.?	_	_	_	_	_	Gloss=recev.eur
 3	guinaouoc-sé	genaoueg	?	_	_	_	_	_	Gloss=idiot
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:360)__1
 # text = Bremañ e vez lakaet nebeud a irvin doureg.
-# text_fr =  'Maintenant on cultive peu de navets aqueux (blancs).' 
+# text_fr = 'Maintenant on cultive peu de navets aqueux (blancs).'
 # source = Gros (1984)
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 2	e	e	?	_	_	_	_	_	Gloss=R
@@ -37,9 +37,9 @@
 
 # sent_id = Trépos(2001:§385)__1
 # text = Ne chomfes ket eno ha pa vefes kaloneg.
-# text_fr =  'Tu n'y resterais pas, même si tu étais courageux.'
+# text_fr = 'Tu n'y resterais pas, même si tu étais courageux.'
 # source = Trépos (2001)
-1	Ne	Ne	?	1	_	_	_	_	Gloss=ne
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	chomfes	chom	verbe	_	_	_	_	_	Gloss=resterais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	eno	eno	?	_	_	_	_	_	Gloss=y
@@ -51,40 +51,40 @@
 
 # sent_id = Kergoat(1976:54)__1
 # text = Al lann a veze er gwaremmeier ar meinekañ parkeier a oa.
-# text_fr =  'Les landes de garennes étaient les plus caillouteuses.' 
+# text_fr = 'Les landes de garennes étaient les plus caillouteuses.'
 # dialect = Cornouaillais
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
 1	Al	art	?	_	_	_	_	_	Gloss=le
 2	lann	lann	nom	_	_	_	_	_	Gloss=lande
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	veze	COP	?	_	_	_	_	_	Gloss=était
 5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 6	gwaremmeier	gwaremm.-eier	nom.?	_	_	_	_	_	Gloss=garenne.s
 7	ar	art	?	_	_	_	_	_	Gloss=le
 8	meinekañ	mein.superlatif	?.adjectif	_	_	_	_	_	Gloss=caillout.le.plus
 9	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
-10	a	a	préposition	1	_	_	_	_	Gloss=R
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 11	oa	COP	?	_	_	_	_	_	Gloss=était
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:218)__1
 # text = Treuziñ a ran holl ar vro dostennek-mañ.
-# text_fr =  'Je traverse tout ce pays de collines.'
+# text_fr = 'Je traverse tout ce pays de collines.'
 # source = Herrieu (1994)
 1	Treuziñ	treuziñ	verbe	_	_	_	_	_	Gloss=traverser
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
 4	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vro	bro	nom	1	_	_	_	_	Gloss=pays
+6	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
 7	dostennek-mañ	tostenn	?	_	_	_	_	_	Gloss=collin
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Titre,ArC'hog(1983)dansHorYezh148-149:3-14.__1
 # text = 'Notennoù gramadeg a-ziwar skridoù Ivon Krog'
-# text_fr =  'Notes de grammaire sur les écrits d'Ivon Krog' 
+# text_fr = 'Notes de grammaire sur les écrits d'Ivon Krog'
 # source = Ar Chog (1983)
 1	'	notenn.-où(PL.)	?.?	_	_	_	_	_	Gloss=note.s
 2	Notennoù	Notennoù	?	_	_	_	_	_	Gloss=?
@@ -93,11 +93,11 @@
 5	skridoù	skrid.-où(PL.)	?.?	_	_	_	_	_	Gloss=écrit.s
 6	Ivon	Ivon	?	_	_	_	_	_	Gloss=[[nompropre|Ivon
 7	Krog'	Krog'	?	_	_	_	_	_	Gloss=Krog]]]
-8			?	_	_	_	_	_	Gloss=?
+8			PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Vallée(1980:XXI)__1
 # text = bleo rodellet bleo rodellek
-# text_fr =  'cheveux bouclés artificiellement vs. 'naturellement'
+# text_fr = 'cheveux bouclés artificiellement vs. 'naturellement'
 # source = Vallée (1980)
 1	bleo	blev	nom	_	_	_	_	_	Gloss=cheveux
 2	rodellet	rodellet	?	_	_	_	_	_	Gloss=bouclé
@@ -106,7 +106,7 @@
 
 # sent_id = Vallée(1980:XXI)__1
 # text = eun dén prederiet eun dén prederiek
-# text_fr =  'une personne soucieuse, préoccupée passagèrement', vs. 'habituellement'
+# text_fr = 'une personne soucieuse, préoccupée passagèrement', vs. 'habituellement'
 # source = Vallée (1980)
 1	eun	art	?	_	_	_	_	_	Gloss=un
 2	dén	den	nom	_	_	_	_	_	Gloss=homme

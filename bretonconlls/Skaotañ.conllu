@@ -1,0 +1,27 @@
+# sent_id = Standard,Kervella(2014)__2
+# text = N'houllan ket skaotañ an traoù.
+# text_fr = 'Je ne veux pas faire la vaisselle.'
+# source = Kervella (2014)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	houllan	goulenn	verbe	_	_	_	_	_	Gloss=demande
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	skaotañ	skaotañ	verbe	_	_	_	_	_	Gloss=échauder
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:chap.II)__3
+# text = Ar podou gré n'int ket diouzh beza skôtet.
+# text_fr = 'Les pots de grès ne sont pas (faits) pour être échaudés.'
+# source = Gros (1970)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	podou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+3	gré	gré	?	_	_	_	_	_	Gloss=grès
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	int	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+8	beza	beza	?	_	_	_	_	_	Gloss=être
+9	skôtet	skôtet	?	_	_	_	_	_	Gloss=échaudé
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

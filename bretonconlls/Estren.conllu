@@ -1,0 +1,51 @@
+# sent_id = Haïku,H.Gaudart[c.p.28/11/2020]__1
+# text = Kollet ar vaouez kozh / en ur ragach digompren - estrenez en he bro
+# text_fr = 'Vieille femme égarée/en un sabir incompréhensible - étrangère en son pays.'
+1	Kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+4	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+5	/	/	PUNCT	_	_	_	_	Gloss=punct
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	ragach	ragach	?	_	_	_	_	_	Gloss=sabir
+9	digompren	di-,dis-.kompren	?.verbe	_	_	_	_	_	Gloss=dé.comprendre
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	estrenez	-ez	?	_	_	_	_	_	Gloss=e
+12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+14	bro	bro	nom	_	_	_	_	_	Gloss=pays
+
+# sent_id = Gros(1970b:§'estren')__1
+# text = N'eo ket mad selaou an estren.
+# text_fr = 'Il n'est pas bon d'obéir à autrui.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+5	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter/obéir
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	estren	estren	nom-adjectif	_	_	_	_	_	Gloss=étranger
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'estren')__1
+# text = Gwelloh eo an estren ouz an den evid e dud e-unan.
+# text_fr = 'Les étrangers sont plus généreux à votre égard que vos propres parents.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	estren	estren	nom-adjectif	_	_	_	_	_	Gloss=étranger
+5	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+6	an	IMP	?	_	_	_	_	_	Gloss=on
+7	den	den	nom	_	_	_	_	_	Gloss=?
+8	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	dud	tud	nom	_	_	_	_	_	Gloss=parents
+11	e-unan	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

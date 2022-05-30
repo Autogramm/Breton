@@ -1,0 +1,31 @@
+# sent_id = ArBorgn(2011:85)__1
+# text = Hennezh a zo manier diwezhat.
+# text_fr = 'Celui-là est quelque peu en retard.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	manier	manier	?	_	_	_	_	_	Gloss=assez
+5	diwezhat	diwezhat	adverbe	_	_	_	_	_	Gloss=tard
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
+# text = C'hwi laro doñ e pasein | da beo (diwetoc'h).
+# text_fr = 'Tu lui diras que je passerai payer plus tard.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi	hwi	?	_	_	_	_	_	Gloss=?
+3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
+4	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
+7	|	-oc'h	?	_	_	_	_	_	Gloss=plus
+8	$$$	$$$	?	_	_	_	_	_	Gloss=?
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
+11	(diwetoc'h)	-oc'h	?	_	_	_	_	_	Gloss=plus
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

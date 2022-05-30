@@ -1,0 +1,29 @@
+# sent_id = Stephens(1982:88)__1
+# text = Gwelloc'h bezañ fur evit kaout madoù bras.
+# text_fr = 'Mieux vaut large sagesse que large richesse.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+3	fur	fur	adjectif	_	_	_	_	_	Gloss=sage
+4	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+5	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+6	madoù	mat.-où(PL.)	adverbe-adjectif.?	_	_	_	_	_	Gloss=bien.s
+7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat(2012:340)__1
+# text = Ar furnez 'daill aour forz da biou.
+# text_fr = 'La sagesse vaut de l'or pour quiconque.'
+# dialect = Cornouaillais
+# source = Goyat (2012)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	furnez	-nezh	nom	_	_	_	_	_	Gloss=esse
+3	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+4	daill	talvezout	verbe	_	_	_	_	_	Gloss=vaut
+5	aour	aour	nom	_	_	_	_	_	Gloss=or
+6	forz	forzh	quantifieur	_	_	_	_	_	Gloss=importe
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	biou	piv	pronom	_	_	_	_	_	Gloss=qui
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

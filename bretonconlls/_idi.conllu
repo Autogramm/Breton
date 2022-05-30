@@ -1,11 +1,11 @@
 # sent_id = Drezen(1990:49)__1
 # text = E sujidi nemeto a oa ar mul Alejandro ha daou gi-bleiz o mouezhioù braouac'hus.
-# text_fr =  'Ses seuls sujets étaient la mule Alejandro et deux chiens-loups aux aboiements terrifiants.'
+# text_fr = 'Ses seuls sujets étaient la mule Alejandro et deux chiens-loups aux aboiements terrifiants.'
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	E	POSS	?	_	_	_	_	_	Gloss=son
 2	sujidi	sujidi	?	_	_	_	_	_	Gloss=sujets
-3	nemeto	nemet.pronomincorporé	complémenteur-adverbe-conjonction.?	_	_	_	_	_	Gloss=seulement.eux
+3	nemeto	nemet.pronomincorporé	conjonction-adverbe-complémenteur.?	_	_	_	_	_	Gloss=seulement.eux
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	oa	COP	?	_	_	_	_	_	Gloss=était
 6	ar	art	?	_	_	_	_	_	Gloss=le
@@ -13,14 +13,14 @@
 8	Alejandro	nompropre	?	_	_	_	_	_	Gloss=Alejandro
 9	ha	&	?	_	_	_	_	_	Gloss=et
 10	gi-bleiz	ki	nom	_	_	_	_	_	Gloss=chien
-11	o	POSS	?	2	_	_	_	_	Gloss=leur
+11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 12	mouezhioù	-où(PL.)	?	_	_	_	_	_	Gloss=x
 13	braouac'hus	-us	?	_	_	_	_	_	Gloss=iant
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:96)__1
 # text = Ar brizonerion o doa marvet get an naon.
-# text_fr =  'Les prisonniers étaient morts de faim.'
+# text_fr = 'Les prisonniers étaient morts de faim.'
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche

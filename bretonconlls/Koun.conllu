@@ -1,0 +1,11 @@
+# sent_id = Drezen(1990:43)__1
+# text = e koun eus hon daremped ...
+# text_fr = 'en souvenir de notre relation.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	e	P.e	?	_	_	_	_	_	Gloss=en
+2	koun	koun	nom	_	_	_	_	_	Gloss=souvenir
+3	eus	eus	?	_	_	_	_	_	Gloss=de
+4	hon	POSS	?	_	_	_	_	_	Gloss=notre
+5	daremped	darempred	?	_	_	_	_	_	Gloss=relation
+6	...	...	PUNCT	_	_	_	_	Gloss=punct

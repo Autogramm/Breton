@@ -1,0 +1,16 @@
+# sent_id = ArMeliner(2009:75)__1
+# text = Dre bep div wezh e sav da sellet doc'h he loened...
+# text_fr = 'De temps en temps, elle se met debout pour surveiller ses bêtes... '
+# source = Ar Meliner (2009)
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+2	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	div	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux.F]|Morph=1
+4	wezh	gwech	nom	_	_	_	_	_	Gloss=fois
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	sav	sevel	verbe	_	_	_	_	_	Gloss=lève
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
+9	doc'h	doc'h	?	_	_	_	_	_	Gloss=à
+10	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	loened..	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bête.s
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

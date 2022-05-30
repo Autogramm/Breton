@@ -1,0 +1,20 @@
+# sent_id = Bouzeg(1986:I)__1
+# text = piz manjtout
+# text_fr = 'des haricots verts.'
+# dialect = Cornouaillais
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	piz	piz	nom	_	_	_	_	_	Gloss=pois
+2	manjtout	manjtout	?	_	_	_	_	_	Gloss=mange-tout
+
+# sent_id = Bouzec & al. (2017:236)__3
+# text = Blam  vo had't péz perchoù.
+# text_fr = 'Cette année on sèmera des haricots à rames.'
+1	??	??	?	_	_	_	_	_	Gloss=e
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	vo	vo	?	_	_	_	_	_	Gloss=vo
+4	had'	had'	?	_	_	_	_	_	Gloss=hadet
+5	t	t	?	_	_	_	_	_	Gloss=?
+6	péz	péz	nom	_	_	_	_	_	Gloss=piz
+7	perchoù	perchoù	?	_	_	_	_	_	Gloss=perchoù.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

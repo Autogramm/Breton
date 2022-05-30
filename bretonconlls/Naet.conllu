@@ -1,0 +1,30 @@
+# sent_id = Favereau(1997:§96)__1
+# text = Ho taouarn n'int ket net.
+# text_fr = 'Vos mains ne sont pas propres.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+2	taouarn	duel.dorn	?.nom	_	_	_	_	_	Gloss=2.main
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	int	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	net	net	?	_	_	_	_	_	Gloss=net
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:36)__1
+# text = 'Maon ' tont doc'h netaat an ti.
+# text_fr = 'Je viens de nettoyer la maison.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	'	eman	?	_	_	_	_	_	Gloss=suis
+2	Maon	Maon	?	_	_	_	_	_	Gloss=?
+3	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4			PUNCT	_	_	_	_	Gloss=punct
+5	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+6	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
+7	netaat	-aat	verbe	_	_	_	_	_	Gloss=oyer
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	ti	ti	nom	_	_	_	_	_	Gloss=maison
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,17 @@
+# sent_id = KeitVimpBev(1984:3)__1
+# text = Unan ! Daou ! Plouz ! Foenn !
+# text_fr = 'Une ! Deux ! Gauche ! Droite !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	Unan	cardinaux	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Daou	cardinaux	?	_	_	_	_	_	Gloss=un
+5			?	_	_	_	_	_	Gloss=!
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+7	Plouz	plouz	nom	_	_	_	_	_	Gloss=paille
+8			?	_	_	_	_	_	Gloss=!
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+10	Foenn	foenn	nom	_	_	_	_	_	Gloss=foin
+11			?	_	_	_	_	_	Gloss=!
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

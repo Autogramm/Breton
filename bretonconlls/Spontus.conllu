@@ -1,0 +1,23 @@
+# sent_id = Timm (1989:368)__1
+# text = Fenoz eo un devezh spontus.
+# text_fr = 'Aujourd'hui est une journée épouvantable.'
+# text_phon = ['/fenõs', 'e', 'on deves', 'spõtys/']
+1	Fenoz	fenoz	?	_	_	_	_	_	Gloss=ce.soir
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	devezh	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.née
+5	spontus	spont.-us	nom.?	_	_	_	_	_	Gloss=épouvant.able
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:22)__1
+# text = Resevet mad spontus e-noa ahanon ...
+# text_fr = 'Il m'avait très bien reçu ... '
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Resevet	Resevet	?	_	_	_	_	_	Gloss=reçu
+2	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+3	spontus	spontus	adjectif	_	_	_	_	_	Gloss=terrible
+4	e-noa	e-noa	?	_	_	_	_	_	Gloss=R
+5	ahanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+6	...	...	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,54 @@
+# sent_id = Gros(1970b:§'liva')__1
+# text = Arru oa toud an dud livet-fall a-benn ma oa fin d'an traou.
+# text_fr = 'Tout le monde avait mauvaise mine (était pâle de froid) pour la fin de la fête.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Arru	arru	?	_	_	_	_	_	Gloss=arrivé
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	livet-fall	livañ	verbe	_	_	_	_	_	Gloss=peint
+7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	fin	fin	?	_	_	_	_	_	Gloss=fin
+11	d'	da	préposition	_	_	_	_	_	Gloss=de
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:81)__1
+# text = Lan eo a fall dechoù.
+# text_fr = 'Il est plein de mauvais penchants.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Lan	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	fall	Fall-,fals-	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais-
+5	dechoù	tech	nom	_	_	_	_	_	Gloss=penchant]].[[-où(PL.)|s]|Morph=1
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Preder&Armor(1977:42)__1
+# text = Ne zeui ket c'hoazh da lavarout e'm eus graet fall, hañ ?
+# text_fr = 'Tu ne vas pas encore venir me dire que j'ai mal fait, si ?'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	zeui	dont	verbe	_	_	_	_	_	Gloss=viendras
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	lavarout	lavarout	verbe	_	_	_	_	_	Gloss=dire
+7	e'	e'	?	_	_	_	_	_	Gloss=1SG
+8	m	kaout	?	_	_	_	_	_	Gloss=a
+9	eus	eus	?	_	_	_	_	_	Gloss=?
+10	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+11	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mal
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	hañ	hañ	?	_	_	_	_	_	Gloss=[[hañ?|einh
+14			?	_	_	_	_	_	Gloss=?]]]
+15	?	?	PUNCT	_	_	_	_	Gloss=punct

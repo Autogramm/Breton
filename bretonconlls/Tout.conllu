@@ -1,0 +1,470 @@
+# sent_id = HorYezh(1983:72)__5
+# text = Met m'eus disoñjet tout an dra-se paotr paour, aet eo tout deus ma spered.
+# text_fr = 'Mais j'ai oublié tout ça, mon pauvre, c'est tout parti de ma tête.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	m'	kaout	?	_	_	_	_	_	Gloss=a
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	disoñjet	disoñjal	verbe	_	_	_	_	_	Gloss=oublié
+5	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+8	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+9	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+14	deus	deus	?	_	_	_	_	_	Gloss=de
+15	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+16	spered	spered	nom	_	_	_	_	_	Gloss=esprit
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:I)__12
+# text = piz manjtout
+# text_fr = 'des haricots verts.'
+# dialect = Cornouaillais
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	piz	piz	nom	_	_	_	_	_	Gloss=pois
+2	manjtout	manjtout	?	_	_	_	_	_	Gloss=mange-tout
+
+# sent_id = LeBerre&LeDû(1999:52)__1
+# text = N'ema ket  toud al lorc'h en Pariz !
+# text_fr = 'Tout l'orgueil ne se trouve pas à Paris !'
+# source = Le Berre & Le Dû (1999)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	??	??	?	_	_	_	_	_	Gloss=[
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	lorc'h	lorc'h	?	_	_	_	_	_	Gloss=orgueil
+9	en	en	complémenteur	_	_	_	_	_	Gloss=]
+10	Pariz	P.e	?	_	_	_	_	_	Gloss=à
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:104)__1
+# text = I kreiz en di i oé tout gouleu alumet.
+# text_fr = 'Toutes les lumières étaient allumées en plein jour.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	I	e-kreiz	préposition	_	_	_	_	_	Gloss=en-milieu
+2	kreiz	kreiz	nom	_	_	_	_	_	Gloss=?
+3	en	art	complémenteur	_	_	_	_	_	Gloss=le
+4	di	deiz	nom	_	_	_	_	_	Gloss=jour
+5	i	i	?	_	_	_	_	_	Gloss=R
+6	oé	COP	?	_	_	_	_	_	Gloss=était
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	gouleu	gouloù	nom	_	_	_	_	_	Gloss=lumières
+9	alumet	alumiñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=allum.é
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dastum,Enquêteethno-linguistiqueàCombrit,-[http://mediatheque.dastum.net/Record.htm?idlist=1&record=192737691249109194192004-12-14]__1
+# text = Tout kement ki ha kement kazh a oa bet d'an interamant braz.
+# text_fr = 'Tous les chiens et tous les chats avaient été au grand enterrement.'
+1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=Tout
+2	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+3	ki	ki	nom	_	_	_	_	_	Gloss=chien
+4	ha	&	?	_	_	_	_	_	Gloss=et
+5	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+6	kazh	kazh	nom	_	_	_	_	_	Gloss=chat
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	d'	da	préposition	_	_	_	_	_	Gloss=à
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	interamant	interamant	?	_	_	_	_	_	Gloss=enterrement
+13	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1996:259)__1
+# text = Amañ en-dro d'ar Rest emañ ar parkeier toud war zinaou.
+# text_fr = 'Ici autour du Rest tous les champs sont en pente.'
+# source = Gros (1996)
+1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
+2	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=autour
+3	d'	da	préposition	_	_	_	_	_	Gloss=de
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	Rest	nompropre	?	_	_	_	_	_	Gloss=Rest
+6	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
+9	toud	toud	?	_	_	_	_	_	Gloss=tous
+10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+11	zinaou	zinaou	?	_	_	_	_	_	Gloss=descente
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'kalamarhad')__1
+# text = C'hwi, kaz, na viot ket o kalamarhad an traoù toud amañ.
+# text_fr = 'Vous, mon chat, vous ne piétinerez pas tout (vous ne sauterez pas partout) ici !'
+# source = Gros (1989)
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi,	hwi,	?	_	_	_	_	_	Gloss=?
+3	kaz	kazh	nom	_	_	_	_	_	Gloss=chat
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
+6	viot	COP	?	_	_	_	_	_	Gloss=serez
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	kalamarhad	kalamarc'hat	?	_	_	_	_	_	Gloss=piétiner
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+12	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:75-76)__1
+# text = An dud a ouie dont tout da di ''Mémère'' neuze.
+# text_fr = 'Les gens venaient alors tous chez ''Mémère''.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	a	a	préposition	_	_	_	_	_	Gloss=R
+2	ouie	Auxiliairegouzout	?	_	_	_	_	_	Gloss=AUX
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	di	ti	nom	_	_	_	_	_	Gloss=maison
+5	'	nompropre	?	_	_	_	_	_	Gloss=Mémère
+6	'	'	?	_	_	_	_	_	Gloss=?
+7	Mémère'	Mémère'	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9			PUNCT	_	_	_	_	Gloss=punct
+10	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:70)__1
+# text = Al labourerien-douar gwechall a oa toud paour-pe-baouroh.
+# text_fr = 'Les cultivateurs autrefois étaient tous plus pauvres les uns que les autres.'
+# source = Gros (1984)
+1	a	a	préposition	_	_	_	_	_	Gloss=R
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	paour-pe-baouroh	paour	adjectif	_	_	_	_	_	Gloss=pauvre]]-[[pe|ou|Morph=1
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:39)__2
+# text = Ne oa ket deut e gig gantañ toud, da laras-añ !
+# text_fr = 'Il y avait laissé des plumes, comme il disait.'
+# source = Gros (1984)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+6	da	da-laras	préposition	_	_	_	_	_	Gloss=àdit
+7	laras-añ	laras-añ	?	_	_	_	_	_	Gloss=?
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:74)__1
+# text = Ha setu neus bet an traou-se tout evit netra deus perzh ma zud ivez.
+# text_fr = 'Et aussi il a eu toutes ces choses là gratuitement de mes parents.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	bet	kaout	?	_	_	_	_	_	Gloss=eu
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+7	deus	diouzh	préposition	_	_	_	_	_	Gloss=de
+8	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	zud	tud	nom	_	_	_	_	_	Gloss=parents
+11	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B(10/2018)__1
+# text = Ar vugale, toud  neus gwelet ar vaouez.
+# text_fr = 'Tous les enfants ont vu la femme.'
+# location = Plougerneau
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+5	??	??	?	_	_	_	_	_	Gloss=__
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	neus	kaout	?	_	_	_	_	_	Gloss=a
+8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:22)__1
+# text = Ar re-se oa tout  o taol foenn.
+# text_fr = 'Tous ceux-là étaient en foin.' (ces champs)
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+5	??	??	?	_	_	_	_	_	Gloss=__
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	taol	taoler	?	_	_	_	_	_	Gloss=jeter
+9	foenn	foenn	nom	_	_	_	_	_	Gloss=foin
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'jeu')__1
+# text = A-revr emañ ma jeu ganin, toud emañ ma zraoù d'ober.
+# text_fr = 'Mon travail est en retard, tout mon ouvrage reste à faire.'
+# source = Gros (1989)
+1	A-revr	a	préposition	_	_	_	_	_	Gloss=à
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	jeu	jeu	nom	_	_	_	_	_	Gloss=affaire
+5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	d'	da	préposition	_	_	_	_	_	Gloss=à
+10	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Derrien(1980:33)__1
+# text = Emaint toud  o lakaad o faoiou war ar zoudard.
+# text_fr = 'Ils mettent tous leurs mains sur le soldat.'
+# source = Derrien (1980)
+# texttype = Références de corpus
+1	Emaint	eman	?	_	_	_	_	_	Gloss=sont
+2	toud	toud	?	_	_	_	_	_	Gloss=tous
+3	??	??	?	_	_	_	_	_	Gloss=__
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	faoiou	pav.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=patte.s
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	zoudard	soudard	nom	_	_	_	_	_	Gloss=soldat
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__32
+# text = Tout an dessinou bleunioù en deus roget ur c'hruadur bennak.
+# text_fr = 'Un enfant a déchiré chaque dessin de fleur.' (unique enfant en contexte)
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dessinou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	bleunioù	bleuñ.-ioù	?.?	_	_	_	_	_	Gloss=fleur.s
+5	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+6	deus	kaout	?	_	_	_	_	_	Gloss=a
+7	roget	rogañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=déchir.é
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	c'hruadur	krouadur	nom	_	_	_	_	_	Gloss=enfant|Morph=5
+10	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:23)__1
+# text = E-skoaz pa veze sklaer ar mor ha kalm, e weles tout brav.
+# text_fr = 'tandis que lorsque la mer est claire et calme, tu vois très bien.' (ce que tu fais)
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	E-skoaz	e-skoaz	préposition-complémenteur	_	_	_	_	_	Gloss=alors.que
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	veze	COP	?	_	_	_	_	_	Gloss=était
+4	sklaer	sklaer	adverbe-adjectif	_	_	_	_	_	Gloss=clair
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	mor	mor	nom	_	_	_	_	_	Gloss=mer
+7	ha	&	?	_	_	_	_	_	Gloss=et
+8	kalm	kalm	adjectif	_	_	_	_	_	Gloss=calme
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	weles	gwelout	verbe	_	_	_	_	_	Gloss=vois
+12	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Giraudon(2014:18)__1
+# text = Tout aent da geneuta di.
+# text_fr = 'Ils allaient tous y ramasser du bois.'
+# dialect = Trégorrois
+# location = Gros
+# source = Giraudon (2014)
+# texttype = Ouvrages de recherche
+1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+2	aent	mont	verbe	_	_	_	_	_	Gloss=allaient
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	geneuta	keneud.-eta	nom.verbe	_	_	_	_	_	Gloss=bois.chercher
+5	di	di	?	_	_	_	_	_	Gloss=y
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:160)__1
+# text = Tout e vezont krevet oc'h ober bourjinerezh...
+# text_fr = 'Tous se crèvent en faisant des bêtises ... '
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	krevet	kreviñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=crev.é
+5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	bourjinerezh..	bourjinerezh..	?	_	_	_	_	_	Gloss=bêtise
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:11)__1
+# text = Tout c'hwalennet da vaïchou.
+# text_fr = 'Tes manches couvertes de sel.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	c'hwalennet	c'hwalennet	?	_	_	_	_	_	Gloss=salé
+3	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+4	vaïchou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:152).__1
+# text = Goude e vezont bloñset ha dibloñset tout evel-just.
+# text_fr = 'Après, ils sont meurtris bien sûr.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	bloñset	bloñsiñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tap.é
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sur
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:38)__1
+# text = Tristaet-tout e oa Matriona baour o tont d'ar gêr.
+# text_fr = 'Matriona était toute triste en rentrant à la maison.'
+# source = ar Barzhig (1976)
+1	Tristaet-tout	Tristaet-tout	?	_	_	_	_	_	Gloss=attristé-tout
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
+5	baour	paour	adjectif	_	_	_	_	_	Gloss=pauvre|Morph=1
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:14)__1
+# text = Hennezh eo an aesañ-tout evit labourat
+# text_fr = 'C'est le plus pratique pour travailler.'
+# text_phon = ['[ hònɛrhə', '', 'ənɛsã tut', 'awe', 'laburat ]']
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	aesañ-tout	aes.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=facile.le.plus
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+
+# sent_id = Gros(1984:39)__1
+# text = Fañch a oa deut d'ar gêr gwad-ha-labez toud.
+# text_fr = 'François était revenu à la maison couvert de sang.'
+# source = Gros (1984)
+1	Fañch	nompropre	?	_	_	_	_	_	Gloss=Fañch
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+8	gwad-ha-labez	gwad	nom	_	_	_	_	_	Gloss=sang
+9	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elegoet(1975:9)__1
+# text = P'edon me er skol, vehe kemet brezouneg toud...
+# text_fr = 'Du temps où j'allais à l'école, il n'y avait que du breton.' (dans la société)
+# location = Plougerneau
+# source = Elegoet (1975)
+# texttype = Ouvrages de recherche
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	edon	eman	?	_	_	_	_	_	Gloss=étais
+3	me	écho	?	_	_	_	_	_	Gloss=moi
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	skol	skol	nom	_	_	_	_	_	Gloss=école
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+8	kemet	ket.met	adverbe.conjonction-complémenteur	_	_	_	_	_	Gloss=pas.mais
+9	brezouneg	brezouneg	?	_	_	_	_	_	Gloss=breton
+10	toud..	toud..	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B(10/2018)__1
+# text = Ar vugale toud neus gwelet ar vaouez.
+# text_fr = 'Tous les enfants ont vu la femme.'
+# location = Plougerneau
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	neus	kaout	?	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:I)__13
+# text = avalou-douar plusk ha-tout
+# text_fr = 'des pommes de terres en robe des champs.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	avalou-douar	aval.-où(PL.).douar	nom.?.nom	_	_	_	_	_	Gloss=pomme.s.terre
+2	plusk	plusk	nom	_	_	_	_	_	Gloss=peau
+3	ha-tout	&	?	_	_	_	_	_	Gloss=et
+
+# sent_id = Gros(1970b:§'lien')__1
+# text = Ar vag he-doa ranket amina toud he lienou.
+# text_fr = 'Le bateau avait été obligé d'amener toutes ses voiles.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+3	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+5	amina	aminañ	?	_	_	_	_	_	Gloss=amener
+6	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+8	lienou	lien.-où(PL.)	nom.?	_	_	_	_	_	Gloss=voile.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012b:'tout')__4
+# text = toudd en oll dut
+# text_fr = 'tout le monde.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	toudd	toudd	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	en	art	complémenteur	_	_	_	_	_	Gloss=le
+3	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	dut	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+
+# sent_id = Fagon&Riou(2015:'bodennad')__1
+# text = a-gwalc'h evit toud an oll.
+# text_fr = 'assez pour tout le monde.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	a-gwalc'h	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

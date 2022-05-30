@@ -1,0 +1,72 @@
+# sent_id = Menard(1995:§'lammout')__1
+# text = Ne likin ket c'hoazh lammout va c'hazeg.
+# text_fr = 'Je ne ferai pas encore saillir ma jument.'
+# source = Le Gonidec (1821)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	likin	lakaat	verbe	_	_	_	_	_	Gloss=mettrai
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	lammout	lammat	?	_	_	_	_	_	Gloss=sauter
+6	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	c'hazeg	c'hazeg	?	_	_	_	_	_	Gloss=jument
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:19)__1
+# text = ag ar hezeg d'en em lakaad da beuri e-teid ar hae war bord an hent.
+# text_fr = 'et les chevaux de se mettre à brouter la haie sur le bord du chemin.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	ag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	hezeg	hezeg	?	_	_	_	_	_	Gloss=5
+4	d'	da	préposition	_	_	_	_	_	Gloss=de
+5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
+6	em	em	?	_	_	_	_	_	Gloss=?
+7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	beuri	peuriñ	verbe	_	_	_	_	_	Gloss=paître
+10	e-teid	e-teid	préposition	_	_	_	_	_	Gloss=P
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	hae	kae	nom	_	_	_	_	_	Gloss=haie|Morph=5
+13	war	war	?	_	_	_	_	_	Gloss=sur
+14	bord	bord	?	_	_	_	_	_	Gloss=bord
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	hent	hent	nom	_	_	_	_	_	Gloss=route
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:182)__1
+# text = Ped loen-kezeg ho-peus ?
+# text_fr = 'Combien de chevaux avez-vous ?'
+# source = Gros (1984)
+1	Ped	wh	?	_	_	_	_	_	Gloss=combien
+2	loen-kezeg	loen	nom	_	_	_	_	_	Gloss=animal
+3	ho-peus	kaout	?	_	_	_	_	_	Gloss=a
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:7)__2
+# text = Peb tiegez a laboure gand kezekenned. Ar re-mañ a veze kaset d'ar marh beb bloaz.
+# text_fr = 'Les fermes travaillaient avec des juments. On les envoyait au cheval chaque année.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	tiegez	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.née
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	laboure	labourat	verbe	_	_	_	_	_	Gloss=travaillait
+5	gand	gant	?	_	_	_	_	_	Gloss=avec
+6	kezekenned	-enn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=SG.PL
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	Ar	art	?	_	_	_	_	_	Gloss=le
+9	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+12	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
+13	d'	da	préposition	_	_	_	_	_	Gloss=à
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	marh	marc'h	?	_	_	_	_	_	Gloss=cheval
+16	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+17	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

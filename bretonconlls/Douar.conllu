@@ -1,0 +1,262 @@
+# sent_id = Herrieu(1994:108)__1
+# text = malezadoù douar bras-bras, ed enne rac'h.
+# text_fr = 'des grands champs cultivés, tous en blé.'
+# source = Herrieu (1994)
+1	malezadoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+2	douar	douar	nom	_	_	_	_	_	Gloss=terre
+3	bras-bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ed	ed	nom	_	_	_	_	_	Gloss=blé
+6	enne	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+7	rac'h	razh	?	_	_	_	_	_	Gloss=tout
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois,Hewitt(2001)__1
+# text = E zouar n-iņt ked mad.
+# text_fr = 'Ses terres ne sont pas bonnes.'
+# source = Hewitt (2001)
+# texttype = Ouvrages de recherche
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	zouar	zouar	?	_	_	_	_	_	Gloss=terre
+3	n-iņt	n-iņt	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:16)__1
+# text = Treuziñ a reomp douaroùier leun a winizh.
+# text_fr = 'Nous traversons des terres pleines de blé.'
+# source = Herrieu (1994)
+1	Treuziñ	treuziñ	verbe	_	_	_	_	_	Gloss=traverser
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	douaroùier	-oùier	?	_	_	_	_	_	Gloss=s.s
+5	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	winizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:350)__1
+# text = Yoñ 'nife eur baro bédég en dwar !
+# text_fr = 'Il avait une barbe qui touchait le sol !'
+1	Yoñ	Yoñ	?	_	_	_	_	_	Gloss=Eñ
+2	'	'	complémenteur	_	_	_	_	_	Gloss=en
+3	nife	nife	?	_	_	_	_	_	Gloss=devoa
+4	eur	eur	nom	_	_	_	_	_	Gloss=ur
+5	baro	baro	nom	_	_	_	_	_	Gloss=barv
+6	bédég	bédég	préposition-complémenteur	_	_	_	_	_	Gloss=betek
+7	en	en	complémenteur	_	_	_	_	_	Gloss=an
+8	dwar	dwar	nom	_	_	_	_	_	Gloss=douar
+9			?	_	_	_	_	_	Gloss=!
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:35)__1
+# text = Amañ e plij d'al labourerien-douar boueta ar c'hezeg.
+# text_fr = 'Ici, les paysans aiment (à) nourrir les chevaux.'
+# location = Kaouenneg
+# source = ar Barzhig (1976)
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	plij	plijout	verbe	_	_	_	_	_	Gloss=plait
+4	d'	da	préposition	_	_	_	_	_	Gloss=à
+5	al	art	?	_	_	_	_	_	Gloss=le
+6	labourerien-douar	labourat.-erien	verbe.?	_	_	_	_	_	Gloss=travaill.eurs
+7	boueta	boued.-a	nom.verbe	_	_	_	_	_	Gloss=nourr.ir
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	c'hezeg	kezeg	?	_	_	_	_	_	Gloss=chevaux|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:88)__1
+# text = 'N al douar-me zo méllou traou.  ''Cornouaillais de l'est maritime''
+# text_fr = 'Ces pommes-de-terre-ci sont vraiment énormes.'
+1	'	'	?	_	_	_	_	_	Gloss=An
+2	N	N	?	_	_	_	_	_	Gloss=avaloù-douar-mañ
+3	al	al	?	_	_	_	_	_	Gloss=?
+4	douar-me	douar-me	?	_	_	_	_	_	Gloss=?
+5	zo	zo	?	_	_	_	_	_	Gloss=zo
+6	méllou	méllou	?	_	_	_	_	_	Gloss=melloù
+7	traou	traou	?	_	_	_	_	_	Gloss=traoù.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	??	??	?	_	_	_	_	_	Gloss=
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	'	'	?	_	_	_	_	_	Gloss='@'@Standard'@'@
+12	'	'	?	_	_	_	_	_	Gloss=?
+13	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
+14	de	de	?	_	_	_	_	_	Gloss=?
+15	l'	l'	?	_	_	_	_	_	Gloss=?
+16	est	est	?	_	_	_	_	_	Gloss=?
+17	maritime'	maritime'	?	_	_	_	_	_	Gloss=?
+18	'	'	?	_	_	_	_	_	Gloss=?
+19			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1974:07/09/1918)__1
+# text = Haval é get en dén en en dehè ur hrén doar groeit un heij spontus d'er gérig-ma.
+# text_fr = 'On dirait qu'un tremblement de terre aurait mis sens dessus dessous cette bourgade.'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Haval	hañval	?	_	_	_	_	_	Gloss=sembler
+2	é	COP	?	_	_	_	_	_	Gloss=est
+3	get	gant	?	_	_	_	_	_	Gloss=avec
+4	en	IMP	complémenteur	_	_	_	_	_	Gloss=on
+5	dén	dén	?	_	_	_	_	_	Gloss=?
+6	en	en	complémenteur	_	_	_	_	_	Gloss=R
+7	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+8	dehè	kaout	?	_	_	_	_	_	Gloss=aurait
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	hrén	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=tremble
+11	doar	doar	?	_	_	_	_	_	Gloss=terre
+12	groeit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+13	un	art	?	_	_	_	_	_	Gloss=un
+14	heij	hejañ	verbe	_	_	_	_	_	Gloss=secoue
+15	spontus	spontus	adjectif	_	_	_	_	_	Gloss=terrible
+16	d'	da	préposition	_	_	_	_	_	Gloss=à
+17	er	art	?	_	_	_	_	_	Gloss=le
+18	gérig-ma	kêr.-ig.DEM	nom.?.?	_	_	_	_	_	Gloss=bourg.ade.ci
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = an amzer fall a teu war om kein, muioh neged en douar-braz.
+# text_fr = '... le mauvais temps nous tombe dessus, plus que sur le continent.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+3	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	om	POSS	?	_	_	_	_	_	Gloss=notre
+8	kein	kein	nom	_	_	_	_	_	Gloss=dos
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	muioh	muioc'h	?	_	_	_	_	_	Gloss=plus
+11	neged	eget	complémenteur	_	_	_	_	_	Gloss=que
+12	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+13	douar-braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'atrejou')__1
+# text = Douar-gretel, un tammig kras ah(e) his-se
+# text_fr = 'De la terre aride et graveleuse, un peu desséchée comme ça'
+# location = Laz
+# source = Lozach (2014)
+1	Douar-gretel	Douar-gretel	?	_	_	_	_	_	Gloss=terre-adj.
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+5	kras	kraz	adjectif	_	_	_	_	_	Gloss=séché
+6	his-se	giz	nom	_	_	_	_	_	Gloss=façon
+
+# sent_id = Kervella(2001:57)__1
+# text = Da belec'h an douar emaoc'h ' vont ?
+# text_fr = 'Mais où donc allez-vous ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	belec'h	pelec'h	?	_	_	_	_	_	Gloss=où
+3	an	intensifieur	?	_	_	_	_	_	Gloss=le.terre
+4	douar	douar	nom	_	_	_	_	_	Gloss=?
+5	emaoc'h	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=êtes
+6	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+7			PUNCT	_	_	_	_	Gloss=punct
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Denez(1984:74)__1
+# text = Met tout an dud-se noe un tamm douar da zispariñ.
+# text_fr = 'Mais ''tous ces gens'' avaient un lopin de terre à travailler.'
+# dialect = Cornouaillais
+# source = Denez (1984)
+# texttype = Références de corpus
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dud-se	tud	nom	_	_	_	_	_	Gloss=gens]]-[[DEM|ci|Morph=1
+5	noe	kaout	?	_	_	_	_	_	Gloss=avait
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	douar	douar	nom	_	_	_	_	_	Gloss=terre
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	zispariñ	zispariñ	?	_	_	_	_	_	Gloss=travailler
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:93)__1
+# text = N'eus ket aet den ebet da baour e trempañ e zouar.
+# text_fr = 'Personne n'est tombé dans la pauvreté en fumant sa terre.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	COP	?	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+5	den	den	nom	_	_	_	_	_	Gloss=personne
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	baour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+9	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	trempañ	-añ	?	_	_	_	_	_	Gloss=er
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	zouar	zouar	?	_	_	_	_	_	Gloss=terre
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:17)__2
+# text = N'eus bet biskoaz sotez war an douar evel ma'z out-te !
+# text_fr = 'Il n'y a jamais eu sur la terre une sotte comme toi !'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	biskoaz	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+5	sotez	sod.-ez(F.)	nom.?	_	_	_	_	_	Gloss=sot.te
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	douar	douar	nom	_	_	_	_	_	Gloss=terre
+9	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+10	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+11	z	z	?	_	_	_	_	_	Gloss=?
+12	out-te	COP	?	_	_	_	_	_	Gloss=es
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Perrot(1912:54)__1
+# text = He dilhad ne oant tamm ebet henvel ouz ar re a weler gant itronezed vras an douar-man.
+# text_fr = 'Ses habits n'étaient pas du tout semblables à ceux qu'on voit aux grandes dames sur ces terres.'
+# dialect = Léonard
+# source = Perrot (1912)
+# texttype = Références de corpus
+1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
+3	ne	ne	?	_	_	_	_	_	Gloss=ne
+4	oant	COP	?	_	_	_	_	_	Gloss=étaient
+5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	henvel	heñvel	?	_	_	_	_	_	Gloss=pareil
+8	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	weler	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voit.on
+13	gant	gant	?	_	_	_	_	_	Gloss=avec
+14	itronezed	itron	?	_	_	_	_	_	Gloss=dame]].[[-ezed|s|Morph=1
+15	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grande
+16	an	art	?	_	_	_	_	_	Gloss=le
+17	douar-man	DEM	?	_	_	_	_	_	Gloss=ci
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__1
+# text = na stage deus an douar, van ket gouest !
+# text_fr = 'Ça collait au sol, une misère !'
+# location = Locronan
+# source = A-M. Louboutin (02/2022)
+# texttype = Élicitations
+1	na	na(pronom)	?	_	_	_	_	_	Gloss=ça
+2	stage	stagañ	verbe	_	_	_	_	_	Gloss=collait
+3	deus	deus	?	_	_	_	_	_	Gloss=à
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	douar	douar	nom	_	_	_	_	_	Gloss=terre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	van	COP	nom	_	_	_	_	_	Gloss=étais
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,19 @@
+# sent_id = LeDû(2012:45)__1
+# text = té zó e malestoué.
+# text_fr = 'Tu es un(e) maudit(e). (c'est-à-dire une personne méchante)'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	té	pfi	?	_	_	_	_	_	Gloss=toi
+2	zó	zo	?	_	_	_	_	_	Gloss=est
+3	e	art	?	_	_	_	_	_	Gloss=un
+4	malestoué	malestoué	?	_	_	_	_	_	Gloss=malédiction.de.dieu
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012:45)__1
+# text = mallestoué génóek.
+# text_fr = 'espèce de grand imbécile.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	mallestoué	mallestoué	?	_	_	_	_	_	Gloss=malédiction.de.dieu
+2	génóek	génóek	?	_	_	_	_	_	Gloss=imbécile
+3	.	.	PUNCT	_	_	_	_	Gloss=punct

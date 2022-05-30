@@ -1,0 +1,32 @@
+# sent_id = Guilliot(2006:1891)__1
+# text = Pep den [ a lares [ a gare e  vamm anezhañ ]]
+# text_fr = 'chaque homme que tu dis que sa mère (l')aimait'
+# source = Guilliot (2006b)
+# texttype = Ouvrages de recherche
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	[	[	?	_	_	_	_	_	Gloss=
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	lares	lavarout	verbe	_	_	_	_	_	Gloss=dis
+6	[	[	?	_	_	_	_	_	Gloss=?
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=4
+8	gare	karout	verbe	_	_	_	_	_	Gloss=aimait
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10			PUNCT	_	_	_	_	Gloss=punct
+11	vamm	vamm	?	_	_	_	_	_	Gloss=?
+12	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+
+# sent_id = Gros (1984:207)__1
+# text = Pep hini e-neus e benn... pa rank hen dougen.
+# text_fr = ('Chacun a son avis puisque chacun a une tête.')
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+3	e-neus	kaout	?	_	_	_	_	_	Gloss=a
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	benn..	penn	nom	_	_	_	_	_	Gloss=tête
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque|Morph=1
+8	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
+9	hen	pronominanimé	?	_	_	_	_	_	Gloss=le
+10	dougen	dougen	verbe	_	_	_	_	_	Gloss=porter
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

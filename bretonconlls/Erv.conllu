@@ -1,0 +1,13 @@
+# sent_id = Mellouet&Pennec(2004:158)__1
+# text = An ervennoù a veze palet tout.
+# text_fr = 'On bêchait les plates-bandes.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	ervennoù	-ennoù	nom	_	_	_	_	_	Gloss=s
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	palet	pal.-et(Adj.)	?.?	_	_	_	_	_	Gloss=bêch.é
+6	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

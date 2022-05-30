@@ -1,0 +1,46 @@
+# sent_id = Herri(1982:18)__1
+# text = den ebet ne daole pled ouzh an dour lous.
+# text_fr = 'Personne ne prêtait attention à l'eau sale.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	den	den	nom	_	_	_	_	_	Gloss=personne
+2	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	daole	taoler	?	_	_	_	_	_	Gloss=jeter
+5	pled	pled	nom-postposition	_	_	_	_	_	Gloss=intérêt
+6	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dour	dour	nom	_	_	_	_	_	Gloss=eau
+9	lous	lous	adjectif	_	_	_	_	_	Gloss=sale
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:261)__1
+# text = Taol plê a dispignfez.
+# text_fr = 'Attention de ne pas dépenser.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Taol	taoler	?	_	_	_	_	_	Gloss=jeter
+2	plê	plê	?	_	_	_	_	_	Gloss=intérêt
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	dispignfez	dispign	?	_	_	_	_	_	Gloss=dépenserait
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:358)__2
+# text = Ne visae ket e'mm da daol evezh pi plet tehe !
+# text_fr = 'Il n'y avait pas besoin d'y prêter attention ou cas.'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	visae	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	e'	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+5	mm	mm	?	_	_	_	_	_	Gloss=?
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	daol	teurel	?	_	_	_	_	_	Gloss=jeter
+8	evezh	evezh	nom	_	_	_	_	_	Gloss=attention
+9	pi	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+10	plet	plet	?	_	_	_	_	_	Gloss=cas
+11	tehe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

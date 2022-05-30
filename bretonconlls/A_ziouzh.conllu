@@ -1,40 +1,40 @@
 # sent_id = Herrieu(1994:92)__1
 # text = Setu unan, ar gwad é tiver a-zoc'htoñ.
-# text_fr =  'En voici un qui saigne.'
+# text_fr = 'En voici un qui saigne.'
 # source = Herrieu (1994)
-1	Setu	setu	complémenteur-adverbe-conjonction	_	_	_	_	_	Gloss=voici
-2	unan	unan	quantifieur-pronom	_	_	_	_	_	Gloss=un
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	ar	art	?	_	_	_	_	_	Gloss=le
 5	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
-6	é	particuleo	?	4	_	_	_	_	Gloss=à]
+6	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 7	tiver	diverañ	?	_	_	_	_	_	Gloss=couler
 8	a-zoc'htoñ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:41)__1
 # text = Dre-mañ, a pa lazher un hoc'h, e lamer ar c'hig druz a-zoc'htoñ.
-# text_fr =  'Ici, quand on tue un cochon, on en enlève la chair grasse.'
+# text_fr = 'Ici, quand on tue un cochon, on en enlève la chair grasse.'
 # source = Herrieu (1994)
 1	Dre-mañ	dre	préposition	_	_	_	_	_	Gloss=par
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	a	hapa	?	1	_	_	_	_	Gloss=quand]
+3	a	hapa	?	_	_	_	_	_	Gloss=quand]|Morph=1
 4	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 5	lazher	lazhañ.IMP	verbe.?	_	_	_	_	_	Gloss=tue.on
 6	un	art	?	_	_	_	_	_	Gloss=un
 7	hoc'h	hoc'h	?	_	_	_	_	_	Gloss=cochon
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	e	e	?	4	_	_	_	_	Gloss=R
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 10	lamer	lemel.IMP	verbe.?	_	_	_	_	_	Gloss=enleve.on
 11	ar	art	?	_	_	_	_	_	Gloss=le
-12	c'hig	kig	nom	5	_	_	_	_	Gloss=chair
+12	c'hig	kig	nom	_	_	_	_	_	Gloss=chair|Morph=5
 13	druz	druz	adjectif	_	_	_	_	_	Gloss=gras
 14	a-zoc'htoñ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ar Borgn (2011:31)__1
 # text = En deus me distaget a zoc'h ar barrig kamm.
-# text_fr =  'Il m'a détaché de la branche torte.' 
+# text_fr = 'Il m'a détaché de la branche torte.'
 # source2 =  Guillam ar Borgn, Le Scorff
 1	En	En	complémenteur	_	_	_	_	_	Gloss=R
 2	deus	kaout	?	_	_	_	_	_	Gloss=a

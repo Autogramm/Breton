@@ -1,0 +1,113 @@
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = ... Welan ket viche tra all.
+# text_fr = 'Je ne vois pas autre chose.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	..	..	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	Welan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	viche	COP	?	_	_	_	_	_	Gloss=serait
+6	tra	tra	nom	_	_	_	_	_	Gloss=chose
+7	all	all	?	_	_	_	_	_	Gloss=autre
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vannetais,Herrieu(1994)citéparRezac(2009)__1
+# text = Hani ag an ofiserion arall ne ra vad dezhoñ er gwelet.
+# text_fr = 'Ça ne fait de bien à aucun des autres officiers de le voir.'
+# source = Herrieu (1994)
+1	Hani	hini	nom-pronom	_	_	_	_	_	Gloss=aucun
+2	ag	eus	?	_	_	_	_	_	Gloss=de
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	ofiserion	-erion	?	_	_	_	_	_	Gloss=s
+5	arall	arall	?	_	_	_	_	_	Gloss=autre
+6	ne	ne	?	_	_	_	_	_	Gloss=ne
+7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	vad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien|Morph=1
+9	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+10	er	POP	?	_	_	_	_	_	Gloss=le
+11	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon,Milin(1924)__1
+# text = ha, war e dro, kement hag a zo e nep maner all ebet !...
+# text_fr = '...et autour, autant de choses qu'il y en a dans tous les manoirs.'
+# source = Milin (1924)
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	war	war	?	_	_	_	_	_	Gloss=sur
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+8	hag	C-ha(g)	?	_	_	_	_	_	Gloss=que
+9	a	a	préposition	_	_	_	_	_	Gloss=R
+10	zo	zo	?	_	_	_	_	_	Gloss=y.a
+11	e	P.e	?	_	_	_	_	_	Gloss=en
+12	nep	nepX	quantifieur-déterminant	_	_	_	_	_	Gloss=quelque
+13	maner	maner	nom	_	_	_	_	_	Gloss=manoir
+14	all	all	?	_	_	_	_	_	Gloss=autre
+15	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+16	!...	!...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1989:'a-hed')__1
+# text = Me a zo arru ankounahaüz all.
+# text_fr = 'Je deviens oublieux au possible.'
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	arru	arruout	?	_	_	_	_	_	Gloss=arrivé
+5	ankounahaüz	ankounac'h.-aus	?.adjectif	_	_	_	_	_	Gloss=oubli.eux
+6	all	all	?	_	_	_	_	_	Gloss=autre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:135)__1
+# text = Hennez a zo pounner all, ar helorn-ze !
+# text_fr = 'Il est rudement lourd, ce seau-là!'
+# source = Gros (1984)
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	pounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
+5	all	all	?	_	_	_	_	_	Gloss=autre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	helorn-ze	kelorn	nom	_	_	_	_	_	Gloss=seau]]-[[DEM|là|Morph=5
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gourmelon(2014:94)__1
+# text = Hag hemañ all o c'hortoz e yafen d'e sikour, pa labouran noz-deiz dija !
+# text_fr = 'Et l'autre qu'attend qu' je l'aide alors que je travaille déjà jour et nuit !'
+# source = Gourmelon (2014)
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+3	all	all	?	_	_	_	_	_	Gloss=autre
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	e	POP	?	_	_	_	_	_	Gloss=le
+8	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=secourir
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	pa	pa	complémenteur	_	_	_	_	_	Gloss=alors.que|Morph=1
+11	labouran	labourat	verbe	_	_	_	_	_	Gloss=travaille
+12	noz-deiz	noz	nom	_	_	_	_	_	Gloss=nuit
+13	dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
+14	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon(1956:xlviii)__1
+# text = tirantet, hani guet é gontel, aral guet é glehan
+# text_fr = 'des tyrans, un avec son couteau, un autre avec son épée'
+# source = Moyen breton
+1	tirantet	tirantet	?	_	_	_	_	_	Gloss=tyrans
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hani	hani	?	_	_	_	_	_	Gloss=hini
+4	guet	gant	?	_	_	_	_	_	Gloss=avec
+5	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	gontel	kontell	nom	_	_	_	_	_	Gloss=couteau
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	aral	aral	?	_	_	_	_	_	Gloss=autre
+9	guet	gant	?	_	_	_	_	_	Gloss=avec
+10	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	glehan	kleze	nom	_	_	_	_	_	Gloss=épée

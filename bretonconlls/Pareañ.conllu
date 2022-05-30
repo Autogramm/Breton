@@ -1,0 +1,24 @@
+# sent_id = Chansonderelevailles(Locronan),A-M.Louboutin(10/2021)__1
+# text = Baling Balom, Marrig zo klaoñv, Marrig ' valeo, Marrig  bareo.
+# text_fr = 'Baling Balom, Marrig est malade, Marrig marchera, Marrig guérira.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Baling	onomatopée	?	_	_	_	_	_	Gloss=Baling
+2	Balom	onomatopée	?	_	_	_	_	_	Gloss=Balom
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	klaoñv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
+9	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+10			PUNCT	_	_	_	_	Gloss=punct
+11	valeo	bale	verbe	_	_	_	_	_	Gloss=marchera
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
+14	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+15	?	?	PUNCT	_	_	_	_	Gloss=punct
+16	bareo	bareo	?	_	_	_	_	_	Gloss=guérira
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

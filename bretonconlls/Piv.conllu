@@ -1,0 +1,78 @@
+# sent_id = ArBorgn(2011:26)__6
+# text = Pa vehec'h lakaet paravis din, 'vehe gwelet piv eo an hani brasañ.
+# text_fr = 'Si on nous mettait en vis-à-vis (si on nous comparait), on verrait qui est le plus grand.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vehec'h	COP	?	_	_	_	_	_	Gloss=seriez
+3	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+4	paravis	paravis	préposition	_	_	_	_	_	Gloss=vis-à-vis
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	'	'	?	_	_	_	_	_	Gloss=R
+8	vehe	COP	?	_	_	_	_	_	Gloss=serait
+9	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+10	piv	piv	pronom	_	_	_	_	_	Gloss=qui
+11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+14	brasañ	bras.superlatif	adverbe-adjectif.adjectif	_	_	_	_	_	Gloss=grand.le.plus
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:434)__1
+# text = Gant piv e peus komzet ar mintin-mañ?
+# text_fr = 'A qui as-tu parlé ce matin ?'
+# text_phon = ['[ gã', 'pij', 'epøs', 'kõmzɛt', 'aʁ mintin mã ]']
+1	Gant	gant	?	_	_	_	_	_	Gloss=avec
+2	piv	piv	pronom	_	_	_	_	_	Gloss=qui
+3	e	e	?	_	_	_	_	_	Gloss=2
+4	peus	kaout	?	_	_	_	_	_	Gloss=avoir
+5	komzet	komz	verbe	_	_	_	_	_	Gloss=parlé
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	mintin-mañ	mintin	nom	_	_	_	_	_	Gloss=matin
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:98)__1
+# text = Piv bennag a goll e yehed a rank paouez da labourad.
+# text_fr = 'Quiconque perd la santé doit cesser de travailler.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Piv	Piv	pronom	_	_	_	_	_	Gloss=qui
+2	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goll	koll	verbe	_	_	_	_	_	Gloss=perd
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	yehed	yec'hed	?	_	_	_	_	_	Gloss=santé
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
+9	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesser
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:218)__1
+# text = Piv yan da gontañ deoc'h...
+# text_fr = 'Qu'est-ce que je vais te raconter... '
+# text_phon = ['pij', 'eã da gɔ̃ te', 'dɔX...']
+1	Piv	Piv	pronom	_	_	_	_	_	Gloss=qu(o)i
+2	yan	mont	verbe	_	_	_	_	_	Gloss=vais
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	gontañ	kontañ	verbe	_	_	_	_	_	Gloss=conter
+5	deoc'h..	da.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:189)__1
+# text = Ma piv lakefen 'vit mont da fesen ?
+# text_fr = 'Qu'est-ce que je pourrais mettre pour aller à la fête ?'
+# text_phon = ['ma pju', 'lakefən', 've mã', 'da fesən']
+1	Ma	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	piv	piv	pronom	_	_	_	_	_	Gloss=qu(o)i
+3	lakefen	lakaat	verbe	_	_	_	_	_	Gloss=mettrais
+4	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour|Morph=1
+5	vit	mont	verbe	_	_	_	_	_	Gloss=aller
+6	mont	mont	verbe	_	_	_	_	_	Gloss=?
+7	da	da	préposition	_	_	_	_	_	Gloss=à
+8	fesen	fesen	?	_	_	_	_	_	Gloss=fête
+9	?	?	PUNCT	_	_	_	_	Gloss=punct

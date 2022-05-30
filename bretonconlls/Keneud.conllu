@@ -1,0 +1,36 @@
+# sent_id = Gros(1984:358)__2
+# text = Me am-eus choukatet behiou keuneud euz ar hoad-ze !
+# text_fr = 'J'en ai transporté (sur mon dos) des fardeaux de bois (des fagots) depuis ce bois-là!'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	choukatet	chouk.-ad.-et(Adj.)	nom.?.?	_	_	_	_	_	Gloss=nuque.N.é
+3	behiou	bec'h.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=charge.s
+4	keuneud	keuneud	?	_	_	_	_	_	Gloss=petit.bois
+5	euz	eus	?	_	_	_	_	_	Gloss=de
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	hoad-ze	koad	nom	_	_	_	_	_	Gloss=bois]]-[[DEM|là|Morph=5
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:392)__1
+# text = or mell bern keneud
+# text_fr = 'un énorme tas de fagots'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	or	art	?	_	_	_	_	_	Gloss=un
+2	mell	mell	nom	_	_	_	_	_	Gloss=grand
+3	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+4	keneud	keneud	nom	_	_	_	_	_	Gloss=bois
+
+# sent_id = ArFloc'h(1985:22)__1
+# text = Me [...] a ranke mont da geuneuta...
+# text_fr = 'Moi [...] je devais aller chercher du petit bois.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	[...]	[...]	?	_	_	_	_	_	Gloss=?
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
+5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	geuneuta..	-a	verbe	_	_	_	_	_	Gloss=rassembler
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

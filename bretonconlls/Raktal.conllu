@@ -1,0 +1,84 @@
+# sent_id = Gros(1970b:§'raktal')__1
+# text = Pa oa hopet warnañ e oa deut d'ar gêr raktal.
+# text_fr = 'Quand on l'appela, il vint à la maison aussitôt.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	oa	CP	?	_	_	_	_	_	Gloss=était
+3	hopet	hopal	verbe	_	_	_	_	_	Gloss=appelé
+4	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+11	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGléau(1973:41)__2
+# text = Pa reot meuleudi un all bennak dirazo, emaint raktal ankeniet.
+# text_fr = 'Ils sont tout de suite inquiets quand sont chantées devant eux les louanges de quelque autre.'
+# source = KAV.
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	reot	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+3	meuleudi	meuleudi	nom	_	_	_	_	_	Gloss=louange
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	all	all	?	_	_	_	_	_	Gloss=autre
+6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	dirazo	dirak.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=devant.eux
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+10	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+11	ankeniet	anken.-iet(Adj.)	nom.?	_	_	_	_	_	Gloss=angoiss.é
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1995:§279)__1
+# text = Raktal, ar merc'hed da sevel o fenn, ar vugale da zigeriñ o genoù...
+# text_fr = 'De suite, les femmes levèrent la tête, les enfants ouvrirent la bouche... '
+# source = Kervella (1995)
+1	Raktal	Raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
+7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	fenn	penn	nom	_	_	_	_	_	Gloss=tête
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	zigeriñ	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+14	genoù..	genou	?	_	_	_	_	_	Gloss=bouche
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:10)__2
+# text = raktal ma vije lazhet ar goulou-rousin...
+# text_fr = 'Dès qu'on éteignait la chandelle de résine... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	lazhet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	goulou-rousin..	gouloù	nom	_	_	_	_	_	Gloss=lumière
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:120)__1
+# text = raktal ma welan eo koeñvet unan eus va saout...
+# text_fr = '... dès que je vois qu'une de mes vaches est gonflée... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	welan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	koeñvet	koeñv.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=gonfl.é
+6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+7	eus	eus	?	_	_	_	_	_	Gloss=de
+8	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	saout..	saout	nom	_	_	_	_	_	Gloss=vaches
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

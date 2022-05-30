@@ -1,0 +1,21 @@
+# sent_id = Briant-Cadiou(1998:33)__1
+# text = Hiniennou a oa mad da labourad, re all a gare mond gouestadig.
+# text_fr = 'Certains travaillaient bien, d’autres préféraient aller lentement.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Hiniennou	hini.-enn.-où(PL.)	nom-pronom.nom.?	_	_	_	_	_	Gloss=N.SG.PL
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+9	all	all	?	_	_	_	_	_	Gloss=autre
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	gare	karout	verbe	_	_	_	_	_	Gloss=aimait
+12	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+13	gouestadig	goustadig	adverbe	_	_	_	_	_	Gloss=lentement
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,55 @@
+# sent_id = LeGarrec(1901:64)__2
+# text = Anez am oa true, vijen ket deut aman.
+# text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	Anez	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans
+2	am	am	?	_	_	_	_	_	Gloss=R
+3	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	true	truez	nom	_	_	_	_	_	Gloss=pitié
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	vijen	COP	?	_	_	_	_	_	Gloss=serais
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+9	aman	amañ	?	_	_	_	_	_	Gloss=ici
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:56)__1
+# text = ...èl a pa vennahe ma zrugarekaat e'it ar pezh am eus graet eviti [...].
+# text_fr = '...comme si elle voulait me remercier de ce que j'ai fait pour elle [...].'
+# source = Herrieu (1994)
+1	...èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+2	a	a	préposition	_	_	_	_	_	Gloss=[[hapa|et
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=1
+4	vennahe	mennout	verbe	_	_	_	_	_	Gloss=voulait
+5	ma	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+6	zrugarekaat	trugarez.-at	nom-interjection.?	_	_	_	_	_	Gloss=merci.er
+7	e'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	it	it	?	_	_	_	_	_	Gloss=?
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	pezh	pezh	?	_	_	_	_	_	Gloss=ce.que
+11	am	am	?	_	_	_	_	_	Gloss=R
+12	eus	kaout	?	_	_	_	_	_	Gloss=a
+13	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+14	eviti	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.elle
+15	[...].	[...].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__22
+# text = Ma houezan e veho avel Nort, e sarin ar bouliji.
+# text_fr = 'Si je sais qu'il y aura du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	houezan	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	veho	COP	?	_	_	_	_	_	Gloss=sera
+5	avel	avel	nom	_	_	_	_	_	Gloss=vent
+6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	sarin	serriñ	verbe	_	_	_	_	_	Gloss=fermerai
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

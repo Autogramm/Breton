@@ -1,0 +1,19 @@
+# sent_id = ArFloc'h(1985:117)__2
+# text = lezet em oa an dud da gempenn o sivi evel ma'c'h intentent.
+# text_fr = '... j'avais laissé les gens s'occuper de leurs fraises comme ils le voulaient.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	lezet	lezel	?	_	_	_	_	_	Gloss=laissé
+2	em	em	?	_	_	_	_	_	Gloss=1SG
+3	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	gempenn	kempenn	verbe	_	_	_	_	_	Gloss=arranger
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	sivi	sivi	nom	_	_	_	_	_	Gloss=fraises
+10	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+11	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+12	c'h	c'h	?	_	_	_	_	_	Gloss=?
+13	intentent	intentent	?	_	_	_	_	_	Gloss=entendaient
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

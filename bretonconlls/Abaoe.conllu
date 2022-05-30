@@ -1,13 +1,13 @@
 # sent_id = Gros(1970:133)__1
 # text = Sell, c'hoaz eo boset ma zal abaoe an ougnad am-oa bet aze.
-# text_fr =  'Regarde, j'ai encore une bosse au front depuis le coup que j'avais reçu là'
+# text_fr = 'Regarde, j'ai encore une bosse au front depuis le coup que j'avais reçu là'
 # source = Gros (1970)
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
 4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 5	boset	boset	?	_	_	_	_	_	Gloss=bossé
-6	ma	POSS	?	2	_	_	_	_	Gloss=mon
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 7	zal	tal	nom	_	_	_	_	_	Gloss=front
 8	abaoe	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
 9	an	art	?	_	_	_	_	_	Gloss=le
@@ -19,11 +19,11 @@
 
 # sent_id = Croq(1908:10)__1
 # text = N'em eus gwelet liou ebet anezan abaoue ma'z eo eat ac'halen...
-# text_fr =  'Je ne l'ai pas vu depuis qu'il est parti d'ici... ' 
+# text_fr = 'Je ne l'ai pas vu depuis qu'il est parti d'ici... '
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	N'	N'	?	1	_	_	_	_	Gloss=ne
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	em	em	?	_	_	_	_	_	Gloss=R
 3	eus	kaout	?	_	_	_	_	_	Gloss=a
 4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -40,7 +40,7 @@
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__6
 # text = An hini zo ga banniel a zo e baoe e pignat kost ar menez.
-# text_fr =  'La personne dont je vois la bannière monte déjà la côte.'
+# text_fr = 'La personne dont je vois la bannière monte déjà la côte.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
@@ -54,7 +54,7 @@
 7	zo	zo	?	_	_	_	_	_	Gloss=est
 8	e	e	?	_	_	_	_	_	Gloss=déjà
 9	baoe	baoe	?	_	_	_	_	_	Gloss=?
-10	e	particuleo	?	4	_	_	_	_	Gloss=à]
+10	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 11	pignat	pignat	verbe	_	_	_	_	_	Gloss=monter
 12	kost	kost	nom	_	_	_	_	_	Gloss=côte
 13	ar	art	?	_	_	_	_	_	Gloss=le
@@ -63,7 +63,7 @@
 
 # sent_id = Bouzeg(1986:25)__1
 # text = diboa dec'h
-# text_fr =  'depuis hier.'
+# text_fr = 'depuis hier.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
@@ -73,7 +73,7 @@
 
 # sent_id = Bouzeg(1986:25)__1
 # text = 'Meus ket 'n em dommet doc'h ' re-se diboa.
-# text_fr =  'Je ne les ai pas fréquentés depuis.'
+# text_fr = 'Je ne les ai pas fréquentés depuis.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
@@ -81,20 +81,20 @@
 1	'	kaout	?	_	_	_	_	_	Gloss=ai
 2	Meus	Meus	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	'	enem	?	1	_	_	_	_	Gloss=se]
+4	'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
 5	n	n	?	_	_	_	_	_	Gloss=?
 6	em	em	?	_	_	_	_	_	Gloss=?
 7	dommet	tomm	adjectif	_	_	_	_	_	Gloss=chauf
 8	doc'h	diouzh	préposition	_	_	_	_	_	Gloss=à
 9	'	art	?	_	_	_	_	_	Gloss=le
-10			?	_	_	_	_	_	Gloss=?
+10			PUNCT	_	_	_	_	Gloss=punct
 11	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
 12	diboa	diboa	?	_	_	_	_	_	Gloss=depuis
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Merser(1963:§12)__1
 # text = Aba gerze.
-# text_fr =  'Depuis qu'il marchait.'
+# text_fr = 'Depuis qu'il marchait.'
 # source = Merser (1963)
 # texttype = Ouvrages de recherche
 1	gerze	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
@@ -102,7 +102,7 @@
 
 # sent_id = Fagon&Riou(2015:'bordiallourez')__1
 # text = Abagoa ma 'di var-dro henne eo deut or vordiallourez.
-# text_fr =  'Depuis qu'elle le fréquente, c'est devenu une débauchée.'
+# text_fr = 'Depuis qu'elle le fréquente, c'est devenu une débauchée.'
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
@@ -110,7 +110,7 @@
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 3	'	edo	?	_	_	_	_	_	Gloss=est
 4	di	di	?	_	_	_	_	_	Gloss=?
-5	var-dro	war	?	1	_	_	_	_	Gloss=sur
+5	var-dro	war	?	_	_	_	_	_	Gloss=sur|Morph=1
 6	henne	DEM	?	_	_	_	_	_	Gloss=celui-ci
 7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 8	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
@@ -120,15 +120,15 @@
 
 # sent_id = ArFloc'h(1985:136)__1
 # text = Abaoe m ' eo marv Marc'harid ar B. em eus nebeut darempredet an ti.
-# text_fr =  'J'ai peu fréquenté la maison depuis que Marguerite Le B. est décédée.'
+# text_fr = 'J'ai peu fréquenté la maison depuis que Marguerite Le B. est décédée.'
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Abaoe	Abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
-2	m	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	m	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	'	'	?	_	_	_	_	_	Gloss=?
-4			?	_	_	_	_	_	Gloss=?
+4			PUNCT	_	_	_	_	Gloss=punct
 5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	marv	marv	adjectif-nom	_	_	_	_	_	Gloss=mort
+6	marv	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
 7	Marc'harid	Marc'harid	?	_	_	_	_	_	Gloss=[[nompropre|Marguerite
 8	ar	ar	?	_	_	_	_	_	Gloss=Le
 9	B	B	?	_	_	_	_	_	Gloss=B.]]]
@@ -143,10 +143,10 @@
 
 # sent_id = Gros(1970:133)__1
 # text = Abaoe ma 'm-eus tapet an arwez-dour
-# text_fr =  'depuis que j'ai attrapé des rhumatismes'
+# text_fr = 'depuis que j'ai attrapé des rhumatismes'
 # source = Gros (1970)
 1	Abaoe	Abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
-2	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	'	'	?	_	_	_	_	_	Gloss=1SG
 4	m-eus	kaout	?	_	_	_	_	_	Gloss=a
 5	tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
@@ -155,7 +155,7 @@
 
 # sent_id = ArBorgn(2011:111)__1
 # text = Abaoe eman marc'hadour e ra berzh.
-# text_fr =  'Depuis qu'il est marchand, il prospère.'
+# text_fr = 'Depuis qu'il est marchand, il prospère.'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
@@ -169,32 +169,32 @@
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = - Abaoe pegoulz ? - Abaoe dilun.
-# text_fr =  '- Depuis quand ? - Lundi.'
+# text_fr = '- Depuis quand ? - Lundi.'
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	-	-	?	_	_	_	_	_	Gloss=
 2	Abaoe	Abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
 3	pegoulz	pegoulz	?	_	_	_	_	_	Gloss=quand
-4	?	?	?	_	_	_	_	_	Gloss=?
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	-	-	PUNCT	_	_	_	_	Gloss=punct
 6	Abaoe	Abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = - Abaoe pegeit ? - Abaoe daou zevezh.
-# text_fr =  '- Depuis combien de temps ? - Deux jours.'
+# text_fr = '- Depuis combien de temps ? - Deux jours.'
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	-	-	?	_	_	_	_	_	Gloss=
 2	Abaoe	pegeit	pronom	_	_	_	_	_	Gloss=combien(temps)
 3	pegeit	pegeit	pronom	_	_	_	_	_	Gloss=depuis
-4	?	?	?	_	_	_	_	_	Gloss=?
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	-	-	PUNCT	_	_	_	_	Gloss=punct
-6	Abaoe	numérauxcardinaux	?	1	_	_	_	_	Gloss=deux]
+6	Abaoe	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
 7	daou	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__5
 # text = An hini zo ga banniel e bign dija kost ar menez.
-# text_fr =  'La personne dont je vois la bannière monte déjà la côte.'
+# text_fr = 'La personne dont je vois la bannière monte déjà la côte.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
@@ -204,7 +204,7 @@
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	ga	gant	?	_	_	_	_	_	Gloss=avec
 5	banniel	banniel	nom	_	_	_	_	_	Gloss=bannière
-6	e	e	?	1	_	_	_	_	Gloss=R
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
 7	bign	pignat	verbe	_	_	_	_	_	Gloss=monte
 8	dija	dija	adverbe	_	_	_	_	_	Gloss=déja
 9	kost	kost	nom	_	_	_	_	_	Gloss=côte
@@ -214,7 +214,7 @@
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__6
 # text = An hini zo ga banniel a zo e baoe e pignat kost ar menez.
-# text_fr =  'La personne dont je vois la bannière monte déjà la côte.'
+# text_fr = 'La personne dont je vois la bannière monte déjà la côte.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
@@ -228,7 +228,7 @@
 7	zo	zo	?	_	_	_	_	_	Gloss=est
 8	e	e	?	_	_	_	_	_	Gloss=déjà
 9	baoe	baoe	?	_	_	_	_	_	Gloss=?
-10	e	particuleo	?	4	_	_	_	_	Gloss=à]
+10	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 11	pignat	pignat	verbe	_	_	_	_	_	Gloss=monter
 12	kost	kost	nom	_	_	_	_	_	Gloss=côte
 13	ar	art	?	_	_	_	_	_	Gloss=le

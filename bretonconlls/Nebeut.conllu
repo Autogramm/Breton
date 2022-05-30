@@ -1,0 +1,120 @@
+# sent_id = Standard,titred'article,Gerven(1978)dansArFalz26__1
+# text = Un nebeut notennoù diwar-benn ''Gwalarn''.
+# text_fr = 'Quelques notes sur ''Gwalarn''.'
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+3	notennoù	-ennoù	nom	_	_	_	_	_	Gloss=s
+4	diwar-benn	diwar	préposition	_	_	_	_	_	Gloss=à.propos
+5	'	'	?	_	_	_	_	_	Gloss=Gwalarn
+6	'	'	?	_	_	_	_	_	Gloss=?
+7	Gwalarn'	Gwalarn'	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:213)__1
+# text = A-nebeudigoù e ta an deiz.
+# text_fr = 'Le jour vient peu à peu.'
+# source = Herrieu (1994)
+1	A-nebeudigoù	a.A-nebeudigoù.-où(PL.)	préposition.?.?	_	_	_	_	_	Gloss=à.DIM.PL
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ta	dont	verbe	_	_	_	_	_	Gloss=vient
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:209)__1
+# text = Un ivraign e goll é speret a nebedigueu, e uz é yéhæd.
+# text_fr = 'Un ivrogne perd son esprit petit-à-petit, s'use la santé, (...).'
+# source = IS.
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	ivraign	ivraign	?	_	_	_	_	_	Gloss=ivrogne
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+4	goll	koll	verbe	_	_	_	_	_	Gloss=perd
+5	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	speret	spered	nom	_	_	_	_	_	Gloss=esprit
+7	a	a	préposition	_	_	_	_	_	Gloss=à
+8	nebedigueu	nebedigueu.-où(PL.)	?.?	_	_	_	_	_	Gloss=DIM.PL
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+11	uz	uz	?	_	_	_	_	_	Gloss=use
+12	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	yéhæd	yec'hed	?	_	_	_	_	_	Gloss=santé
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1958:'nebeud')__1
+# text = An eil nebeud a gresk egile.
+# text_fr = 'Les petits ruisseaux font les grandes rivières.'
+# source = Le Gall (1958)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	eil	eil	pronom	_	_	_	_	_	Gloss=second
+3	nebeud	nebeud	?	_	_	_	_	_	Gloss=peu
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	gresk	kreskiñ	verbe	_	_	_	_	_	Gloss=grandit
+6	egile	egile	?	_	_	_	_	_	Gloss=autre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:103)__1
+# text = Neubeud tud vê ba kêr da zul ab'dae.
+# text_fr = 'Il y a peu de monde en ville le dimanche après-midi.'
+1	tud	tud	nom	_	_	_	_	_	Gloss=dud
+2	ba	ba	?	_	_	_	_	_	Gloss=e
+3	kêr	kêr	nom	_	_	_	_	_	Gloss=ker
+4	da	da	préposition	_	_	_	_	_	Gloss=d'@ar
+5	zul	zul	?	_	_	_	_	_	Gloss=Sul
+6	ab'	ab'	?	_	_	_	_	_	Gloss=abardaez.
+7	dae.	dae.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArFloc'h(1985:136)__1
+# text = Abaoe m'eo marv Marc'harid ar B. em eus nebeut darempredet an ti.
+# text_fr = 'J'ai peu fréquenté la maison depuis que Marguerite Le B. est décédée.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Abaoe	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
+2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	marv	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+5	Marc'harid	Marc'harid	?	_	_	_	_	_	Gloss=[[nompropre|Marguerite
+6	ar	ar	?	_	_	_	_	_	Gloss=Le
+7	B	B	?	_	_	_	_	_	Gloss=B.]]]
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	em	em	?	_	_	_	_	_	Gloss=1SG
+10	eus	kaout	?	_	_	_	_	_	Gloss=a
+11	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+12	darempredet	daremprediñ	?	_	_	_	_	_	Gloss=fréquenté
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	ti	ti	nom	_	_	_	_	_	Gloss=maison
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Constantius(1900:147)__1
+# text = Gwechall, e karemp hon amezeien, hirio avad e karomp nebeut anezho.
+# text_fr = 'Autrefois nous aimions nos voisins mais aujourd'hui nous les aimons peu.'
+# source = Constantius (1900)
+1	Gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=fois.autre
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	karemp	karout	verbe	_	_	_	_	_	Gloss=aimions
+5	hon	POSS	?	_	_	_	_	_	Gloss=notre
+6	amezeien	amezeg.-ien	nom.?	_	_	_	_	_	Gloss=voisin.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	hirio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+9	avad	avat	adverbe	_	_	_	_	_	Gloss=cependant
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	karomp	karout	verbe	_	_	_	_	_	Gloss=aimons
+12	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+13	anezho	eus.pronomincorporé	?.?	_	_	_	_	_	Gloss=P.eux
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__18
+# text = Ie (da nebeutañ), a zeu alies.
+# text_fr = 'Eux (au moins), ils viennent souvent.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	Ie	pfi	?	_	_	_	_	_	Gloss=eux
+2	(da	da	préposition	_	_	_	_	_	Gloss=à
+3	nebeutañ)	-añ	?	_	_	_	_	_	Gloss=le.plus
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	zeu	dont	verbe	_	_	_	_	_	Gloss=vient
+7	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

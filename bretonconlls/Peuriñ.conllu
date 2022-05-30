@@ -1,0 +1,24 @@
+# sent_id = Briant-Cadiou(1998:19)__1
+# text = ag ar hezeg d'en em lakaad da beuri e-teid ar hae war bord an hent.
+# text_fr = 'et les chevaux de se mettre à brouter la haie sur le bord du chemin.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	ag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	hezeg	kezeg	?	_	_	_	_	_	Gloss=chevaux|Morph=5
+4	d'	da	préposition	_	_	_	_	_	Gloss=de
+5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
+6	em	em	?	_	_	_	_	_	Gloss=?
+7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	beuri	beuri	?	_	_	_	_	_	Gloss=paître
+10	e-teid	e-teid	préposition	_	_	_	_	_	Gloss=en-long
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	hae	kae	nom	_	_	_	_	_	Gloss=haie|Morph=5
+13	war	war	?	_	_	_	_	_	Gloss=sur
+14	bord	bord	?	_	_	_	_	_	Gloss=bord
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	hent	hent	nom	_	_	_	_	_	Gloss=route
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

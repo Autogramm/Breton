@@ -1,0 +1,177 @@
+# sent_id = Elégoët(1982:22)__2
+# text = Merket eo warnañ peur emañ ar mor en he brasañ...
+# text_fr = 'C'est marqué dessus (l'Almanach) quand la mer est haute... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Merket	merkañ	verbe	_	_	_	_	_	Gloss=marqué
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+4	peur	peur	?	_	_	_	_	_	Gloss=quand
+5	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	mor	mor	nom	_	_	_	_	_	Gloss=mer
+8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	brasañ..	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:54)__1
+# text = Al lann a veze er gwaremmeier ar meinekañ parkeier a oa.
+# text_fr = 'Les landes de garennes étaient les plus caillouteuses.'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	lann	lann	nom	_	_	_	_	_	Gloss=lande
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	COP	?	_	_	_	_	_	Gloss=était
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	gwaremmeier	gwaremm.-eier	nom.?	_	_	_	_	_	Gloss=garenne.s
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	meinekañ	maen.plurielinterne.-ek(Adj.)	?.?.?	_	_	_	_	_	Gloss=caillou.x.eux
+9	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	oa	COP	?	_	_	_	_	_	Gloss=était
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:130)__1
+# text = kreñvan den am eus gwelet.
+# text_fr = 'le plus fort homme que j'aie vu.'
+# source = Le Clerc (1986)
+1	kreñvan	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+2	den	den	nom	_	_	_	_	_	Gloss=personne
+3	am	am	?	_	_	_	_	_	Gloss=1SG
+4	eus	kaout	?	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=vu
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arGow(1999:18)__1
+# text = Sebezusañ ha fallakrañ tra am eus klevet diwar-benn al laeroñsioù dienn.
+# text_fr = 'La chose la plus stupéfiante et la plus odieuse que j'aie entendu sur les vols de crème.'
+# location = Pleyben
+# source = ar Gow (1999)
+1	Sebezusañ	sebezus	?	_	_	_	_	_	Gloss=stupéfiant
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	fallakrañ	fallakr	?	_	_	_	_	_	Gloss=odieux
+4	tra	tra	nom	_	_	_	_	_	Gloss=chose
+5	am	am	?	_	_	_	_	_	Gloss=R
+6	eus	kaout	?	_	_	_	_	_	Gloss=a
+7	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+8	diwar-benn	diwar	préposition	_	_	_	_	_	Gloss=sur
+9	al	art	?	_	_	_	_	_	Gloss=le
+10	laeroñsioù	laer.-onsi.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=vol.N.s
+11	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Evenou (1987:575)__3
+# text = ar fonnusañ oa moaien bout bet graet
+# text_fr = 'le plus rapidement qu'il était possible de faire.'
+# text_phon = ['[ ɵ', 'funisô', 'wa', 'mojen', 'bu be', 'grajT ]']
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	fonnusañ	fonnusañ	?	_	_	_	_	_	Gloss=vite.plus
+3	oa	E	?	_	_	_	_	_	Gloss=y.avait
+4	moaien	moien	nom	_	_	_	_	_	Gloss=moyen
+5	bout	bezan	?	_	_	_	_	_	Gloss=être
+6	bet	bet	?	_	_	_	_	_	Gloss=ptc
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+
+# sent_id = Nicolas(2005:22).__3
+# text = an ti (ar) brasañ er vourc'h
+# text_fr = 'la maison la plus grande du bourg'
+# dialect = Vannetais
+# location = Kistinid
+# source = Nicolas (2005)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	(ar)	art	?	_	_	_	_	_	Gloss=le
+4	brasañ	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	vourc'h	bourk	?	_	_	_	_	_	Gloss=bourg|Morph=1
+
+# sent_id = Nicolas(2005:22).__1
+# text = an hini_[[1]]_ (ar) goshañ
+# text_fr = 'la plus vieille'
+# dialect = Vannetais
+# location = Kistinid
+# source = Nicolas (2005)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	hini_[[1]]_	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	(ar)	art	?	_	_	_	_	_	Gloss=le
+4	goshañ	kozh	adjectif	_	_	_	_	_	Gloss=vieux|Morph=1
+
+# sent_id = ArFloc'h(1985:21)__4
+# text = un degemer ar c'halonekañ oa graet din...
+# text_fr = 'un accueil des plus chaleureux me fut fait... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	degemer	degemer	nom	_	_	_	_	_	Gloss=accueil
+3	ar	art	?	_	_	_	_	_	Gloss=le|Morph=5
+4	c'halonekañ	c'halonekañ	?	_	_	_	_	_	Gloss=chaleureux.le.plus
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	din..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:37)__1
+# text = N'oa ket bet meret er bleud an tanavañ.
+# text_fr = 'Il n'avait pas été élevé dans la farine la plus fine.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	oa	COP	?	_	_	_	_	_	Gloss=avait
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	meret	merañ	?	_	_	_	_	_	Gloss=géré
+6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	bleud	bleud	nom	_	_	_	_	_	Gloss=farine
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	tanavañ	tanav	adjectif	_	_	_	_	_	Gloss=fine
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:160)__1
+# text = Tout e vezont krevet oc'h ober bourjinerezh, o klask gwelet piv eo ar c'hapaplañ.
+# text_fr = 'Tous se crèvent en faisant des bêtises à essayer de voir qui est le meilleur.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	krevet	krevet	?	_	_	_	_	_	Gloss=crevé
+5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	bourjinerezh	bourjinerezh	?	_	_	_	_	_	Gloss=bêtise
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+11	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+12	piv	piv	pronom	_	_	_	_	_	Gloss=qui
+13	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	c'hapaplañ	kapap	?	_	_	_	_	_	Gloss=capable|Morph=5
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:33)__1
+# text = Ar gwragez a veze heligentañ etreze evit bevañ ar vesaerien diouzh o gwellañ.
+# text_fr = 'Les femmes étaient en compétition pour nourrir les bergers de leur mieux.'
+# source = ar Barzhig (1976)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gwragez	gwreg.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=femme.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	heligentañ	heligentañ	?	_	_	_	_	_	Gloss=≈qui.mieux-mieux
+6	etreze	etre.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=entre.eux
+7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=nourrir
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	vesaerien	mesaer	?	_	_	_	_	_	Gloss=berger]].[[-erien|s|Morph=1
+11	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+13	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,71 @@
+# sent_id = Herri(1982:57)__1
+# text = evit kas un daouzegad boutailhoù gwin.
+# text_fr = 'pour envoyer une douzaine de bouteilles de vin'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	kas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	daouzegad	cardinaux.-ad	?.?	_	_	_	_	_	Gloss=douze.ée
+5	boutailhoù	boutailh.-où(PL.)	nom.?	_	_	_	_	_	Gloss=bouteille.s
+6	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guilloux(1992:133)__1
+# text = A-hend-aral, guéh erbet n'em es guélet ur voutailhad guin ér gér.
+# text_fr = 'Autrement, je n'ai jamais vu de bouteille de vin à la maison.'
+# source = Guilloux (1992)
+# texttype = Références de corpus
+1	A-hend-aral	a.hent.all	préposition.nom.?	_	_	_	_	_	Gloss=à.chemin.autre
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	guéh	gwech	nom	_	_	_	_	_	Gloss=fois
+4	erbet	ebet	quantifieur	_	_	_	_	_	Gloss=aucune
+5	n'	n'	?	_	_	_	_	_	Gloss=ne
+6	em	em	?	_	_	_	_	_	Gloss=R
+7	es	kaout	?	_	_	_	_	_	Gloss=ai
+8	guélet	gwelet	?	_	_	_	_	_	Gloss=vu
+9	ur	art	?	_	_	_	_	_	Gloss=le
+10	voutailhad	boutailh.-ad	nom.?	_	_	_	_	_	Gloss=bouteill.ée
+11	guin	guin	?	_	_	_	_	_	Gloss=vin
+12	ér	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+13	gér	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(1963:§354)__1
+# text = Bep ma tostaer d'ar hreisteiz, e kav an nen ar gwiniennou stankoh.
+# text_fr = 'Au fur et à mesure qu'on approche du Midi, les vignobles deviennent plus nombreux.'
+# source = Merser (1963)
+# texttype = Ouvrages de recherche
+1	Bep	bep	?	_	_	_	_	_	Gloss=chaque
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	tostaer	tost.IMP	adjectif.?	_	_	_	_	_	Gloss=proche.on
+4	d'	da	préposition	_	_	_	_	_	Gloss=à
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	hreisteiz	hreisteiz	?	_	_	_	_	_	Gloss=5
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	kav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+10	an	IMP	?	_	_	_	_	_	Gloss=on
+11	nen	nen	?	_	_	_	_	_	Gloss=?
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	gwiniennou	-iennoù	?	_	_	_	_	_	Gloss=es
+14	stankoh	stank.-oc'h	adverbe-quantifieur-adjectif.?	_	_	_	_	_	Gloss=nombreux.plus
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Luzel(1874:296)__1
+# text = Gant-han tric'houec'h marc'h sammet finn / Dimeuz a vutun hag a winn.
+# text_fr = 'Avec lui dix-huit chevaux fin chargés de tabac et de vin.'
+# source = Luzel (1874)
+1	Gant-han	gant	?	_	_	_	_	_	Gloss=avec
+2	tric'houec'h	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois.six
+3	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
+4	sammet	sammañ	verbe	_	_	_	_	_	Gloss=chargé
+5	finn	finn	?	_	_	_	_	_	Gloss=bien
+6	/	/	?	_	_	_	_	_	Gloss=
+7	Dimeuz	dimeuz	préposition	_	_	_	_	_	Gloss=de
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	vutun	butun	nom	_	_	_	_	_	Gloss=tabac
+10	hag	&	?	_	_	_	_	_	Gloss=et
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	winn	winn	?	_	_	_	_	_	Gloss=vin
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

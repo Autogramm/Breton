@@ -1,0 +1,215 @@
+# sent_id = Kervella(2006:39)__1
+# text = Ac'hanta, Aotrou Doktor ?
+# text_fr = 'Alors, Docteur ?'
+# source = Kervella (2006)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hann.eta	?.?	_	_	_	_	_	Gloss=depuis.donc
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+4	Doktor	doktor	nom	_	_	_	_	_	Gloss=docteur
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moulleg(1978:4)__1
+# text = Ac'hanta ! Kousket out ?
+# text_fr = 'Eh bien ! Tu dors (limaçon !) ?'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hann.eta	?.?	_	_	_	_	_	Gloss=depuis.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Kousket	kousk	verbe	_	_	_	_	_	Gloss=dormi
+4	out	COP	?	_	_	_	_	_	Gloss=es
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Preder&Armor(1977:23)__1
+# text = Ac'hanta ! Mont a rez er-maez, ya pe get ?
+# text_fr = 'Bon alors ! Tu sors, oui ou non ?'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hann.eta	?.?	_	_	_	_	_	Gloss=depuis.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+6	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+10	get	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(2003:9)__1
+# text = Ac'hanta, tudoù, kit en ho koazezioù ...
+# text_fr = 'Eh bien, messieurs, installez-vous... '
+# source = An Here (2003)
+# texttype = Références de corpus
+1	tudoù	tudoù!	?	_	_	_	_	_	Gloss=amis
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	kit	mont	verbe	_	_	_	_	_	Gloss=allez
+4	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+5	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=1
+6	koazezioù	koazez.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=assis.es
+7	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite&Stéphan(1957:71)__1
+# text = Ahanta, Kaou! Mond a ra mad ganéz ?
+# text_fr = 'Eh, Kaou, ça va ?'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Ahanta	interjection	?	_	_	_	_	_	Gloss=Eh!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Kaou	nompropre	?	_	_	_	_	_	Gloss=Kaou
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	Mond	mont	verbe	_	_	_	_	_	Gloss=aller
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+9	ganéz	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:59)__1
+# text = Ac'hanta, Sam, Ha sevenet eo bet ma urzhioù ?
+# text_fr = 'Dis-donc, Sam, mes ordres ont-ils été exécutés ?'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=Dis-donc!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Sam	nompropre	?	_	_	_	_	_	Gloss=Sam
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	Ha	Q	?	_	_	_	_	_	Gloss=est.ce.que
+6	sevenet	seveniñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=réalis.é
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	urzhioù	urzh.-où(PL.)	nom.?	_	_	_	_	_	Gloss=ordre.s
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:61)__1
+# text = Ac'hanta, c'hwi, sturier !...
+# text_fr = 'Dites-donc, vous, le pilote !... '
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=Dites-donc!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	sturier	stur.-er,-our	nom.?	_	_	_	_	_	Gloss=gouvernail.eur
+6	!...	!...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArMenn(2015:29)__1
+# text = Ac'hanta ? Perak am dihunit e-kreiz an noz ?
+# text_fr = 'Alors ? Pourquoi me réveillez-vous au milieu de la nuit ?'
+# source = Ar Menn (2015)
+# texttype = Références de corpus
+1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=Alors?
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Perak	perak	?	_	_	_	_	_	Gloss=pourquoi
+4	am	POP	?	_	_	_	_	_	Gloss=me
+5	dihunit	dihuniñ	verbe	_	_	_	_	_	Gloss=réveillez
+6	e-kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=au-milieu
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bzh5(2007:6).__1
+# text = Ac'hanta ?! An Daltoned ! Emaint o tec'hout kuit ? Feiz, ne raint ket !
+# text_fr = 'Quoi ? Les Daltons ! Ils s'enfuient ? Pas question !'
+# source = Bzh5 (2007)
+# texttype = Références de corpus
+1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=quoi?
+2	?!	?!	?	_	_	_	_	_	Gloss=?
+3	An	art	?	_	_	_	_	_	Gloss=le
+4	Daltoned	nompropre.-ed(PL.)	?.?	_	_	_	_	_	Gloss=dalton.s
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	tec'hout	tec'hout	?	_	_	_	_	_	Gloss=enfuir
+9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+12	raint	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feront
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+14	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bzh5(2007:45)__1
+# text = Ac'hanta, Aotrounez ! Pa lavaran deoc'h eo ur farsadenn !
+# text_fr = 'Mais enfin messieurs, puisque je vous dis que c'est une blague !'
+# source = Bzh5 (2007)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hann.eta	?.?	_	_	_	_	_	Gloss=depuis.donc
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Aotrounez	aotrou.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=monsieur.s
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+6	lavaran	lavarout	verbe	_	_	_	_	_	Gloss=dis
+7	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	farsadenn	farsadenn	?	_	_	_	_	_	Gloss=blague
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moulleg(1978:28)__1
+# text = Ac'hanta, Aotrounez, Pelec'h emañ Fantasio ?
+# text_fr = 'Mais enfin, messieurs, Où est Fantasio ?'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hann.eta	?.?	_	_	_	_	_	Gloss=depuis.donc
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Aotrounez	Aotrou.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=monsieur.s
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	Pelec'h	pelec'h	?	_	_	_	_	_	Gloss=où
+6	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	Fantasio	nompropre	?	_	_	_	_	_	Gloss=Fantasio
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:41)__1
+# text = Ac'hanta ! c'hwi hoc'h eus chañs 'vat !
+# text_fr = 'Ma parole ! Vous pouvez vous vanter d'avoir une sacrée chance !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ac'hanta	Ac'hanta	?	_	_	_	_	_	Gloss=[[interjection|Maparole
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+5	hoc'h	kaout	?	_	_	_	_	_	Gloss=a
+6	eus	eus	?	_	_	_	_	_	Gloss=?
+7	chañs	chañs	nom	_	_	_	_	_	Gloss=chance
+8	'	'vat!	?	_	_	_	_	_	Gloss=!
+9	vat	vat	?	_	_	_	_	_	Gloss=?
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:3)__1
+# text = Ac'hanta, Petra zo ?
+# text_fr = 'Et bien, quoi ? Qu'y-a-t-il ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:22)__1
+# text = Ac'hanta, petra soñjez eus kement-se ?
+# text_fr = 'Dis-donc, mon vieux, qu'en penses-tu ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	soñjez	soñjal	verbe	_	_	_	_	_	Gloss=penses
+3	eus	eus	?	_	_	_	_	_	Gloss=de
+4	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:33)__1
+# text = Ac'hanta ! Mar kav dit ez eo ur blijadur ...
+# text_fr = 'Dis-donc, Tintin ! Si tu crois que c'est gai... '
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=Dis-donc!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Mar	mar	nom	_	_	_	_	_	Gloss=si
+4	kav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+5	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+6	ez	ez	?	_	_	_	_	_	Gloss=R
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	blijadur	plijadur	nom	_	_	_	_	_	Gloss=plaisir|Morph=1
+10	...	...	PUNCT	_	_	_	_	Gloss=punct

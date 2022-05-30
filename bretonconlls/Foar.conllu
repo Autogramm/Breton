@@ -1,0 +1,14 @@
+# sent_id = Riou(1941:46)__1
+# text = Penaos hon eus-ni graet foar hon daou [...] ?
+# text_fr = 'Comment (ça) on a été en affaire à la foire, nous deux [...] ?'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
+2	hon	hon	?	_	_	_	_	_	Gloss=1PL
+3	eus-ni	kaout	?	_	_	_	_	_	Gloss=kaout
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	foar	foar	nom	_	_	_	_	_	Gloss=foire
+6	hon	POSS	?	_	_	_	_	_	Gloss=notre|Morph=3
+7	daou	daou	?	_	_	_	_	_	Gloss=?
+8	[...]	[...]	?	_	_	_	_	_	Gloss=?
+9	?	?	PUNCT	_	_	_	_	Gloss=punct

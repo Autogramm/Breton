@@ -1,0 +1,79 @@
+# sent_id = ArMerser(2009:585)__1
+# text = [[nom propre|Yann]] a zo o tond da zerri an nor.
+# text_fr = 'Jean vient de fermer la porte.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+2	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	tond	dont	verbe	_	_	_	_	_	Gloss=venir
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zerri	-i(V.)	?	_	_	_	_	_	Gloss=er
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	nor	dor	nom	_	_	_	_	_	Gloss=porte
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:179)__1
+# text = Jarret ho stokenn.
+# text_fr = 'Taisez-vous.'
+# dialect = Cornouaillais
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Jarret	Jarret	?	_	_	_	_	_	Gloss=fermez
+2	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+3	stokenn	stokenn	?	_	_	_	_	_	Gloss=langue
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__24
+# text = Ma avel Nort e veche, e sarfen ar bouliji.
+# text_fr = 'S'il y avait du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	avel	avel	nom	_	_	_	_	_	Gloss=vent
+3	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	veche	COP	?	_	_	_	_	_	Gloss=serait
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	sarfen	sarfen	?	_	_	_	_	_	Gloss=fermerai
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:46)__1
+# text = met daou zornig gwenn [[nom propre|Anna]] nen daint ket ken d'o serrezh.
+# text_fr = '... mais les deux petites mains blanches d'Anna ne viendront plus les cueillir.'
+# source = Ar Meliner (2009)
+1	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	zornig	dorn.-ig	nom.?	_	_	_	_	_	Gloss=main.DIM
+3	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Anna
+5	propre|Anna]]	propre|Anna]]	?	_	_	_	_	_	Gloss=?
+6	nen	nen	?	_	_	_	_	_	Gloss=ne
+7	daint	dont	verbe	_	_	_	_	_	Gloss=viendront
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+10	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+11	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
+12	serrezh	serrezh	?	_	_	_	_	_	Gloss=cueillir
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGléau(1973:§78)__2
+# text = Serret eo bet dor ar Baradoz ouzh o bugale.
+# text_fr = 'La porte du paradis fut fermée à leurs enfants.'
+# source = BUJK.
+1	Serret	-et(adj.)	?	_	_	_	_	_	Gloss=é
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	dor	dor	nom	_	_	_	_	_	Gloss=porte
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	Baradoz	baradoz	nom	_	_	_	_	_	Gloss=paradis
+7	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

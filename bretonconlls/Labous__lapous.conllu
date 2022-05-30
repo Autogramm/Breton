@@ -1,0 +1,14 @@
+# sent_id = Ouessant,Malgorn(1909)__5
+# text = Laboused a zo, golo an douar.
+# text_fr = 'Des oiseaux recouvrent la terre.'
+# dialect = Léonard
+# source = Malgorn (1909)
+# texttype = Ouvrages de recherche
+1	Laboused	-ed(PL.)	?	_	_	_	_	_	Gloss=x
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	golo	golo	adverbe-adjectif	_	_	_	_	_	Gloss=couvert
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	douar	douar	nom	_	_	_	_	_	Gloss=terre
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

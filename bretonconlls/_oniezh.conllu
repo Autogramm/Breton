@@ -1,6 +1,6 @@
 # sent_id = ArBarzhig(1976:10)__1
 # text = N'ho pefe ket ezhomm eus kelennerien war ar jedoniezh evit lec'hioù pell diouzh an hent-houarn ?
-# text_fr =  'Vous n'auriez pas besoin d'enseignants en mathématiques pour des lieux éloignés de l'accès au train ?' 
+# text_fr = 'Vous n'auriez pas besoin d'enseignants en mathématiques pour des lieux éloignés de l'accès au train ?'
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
@@ -14,10 +14,10 @@
 8	war	war	?	_	_	_	_	_	Gloss=sur
 9	ar	art	?	_	_	_	_	_	Gloss=le
 10	jedoniezh	jediñ	?	_	_	_	_	_	Gloss=compt
-11	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+11	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 12	lec'hioù	lec'h.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=lieu.x
 13	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
 14	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
 15	an	art	?	_	_	_	_	_	Gloss=le
 16	hent-houarn	hent	nom	_	_	_	_	_	Gloss=chemin
-17	?	?	?	_	_	_	_	_	Gloss=?
+17	?	?	PUNCT	_	_	_	_	Gloss=punct

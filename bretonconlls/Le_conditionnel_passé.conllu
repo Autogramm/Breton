@@ -1,0 +1,213 @@
+# sent_id = Falc'hun&Fleuriot(1978-79:7B)__1
+# text = Kriz e vije ar galon na ouelje.
+# text_fr = 'Il aurait été dur le cœur qui n'eût pleuré.'
+# source = Falchun & Fleuriot (1978-79)
+1	Kriz	kriz	adjectif	_	_	_	_	_	Gloss=cruel
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	galon	kalon	nom	_	_	_	_	_	Gloss=coeur|Morph=1
+6	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	ouelje	gouelañ	verbe	_	_	_	_	_	Gloss=pleurerait
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:189)__1
+# text = A-benn ma'z aje kuit e vijed a-unan gantañ.
+# text_fr = 'Avant qu'il ne partît, on était d'accord avec lui.'
+# source = Gros (1984)
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=avant
+2	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	z	mont	verbe	_	_	_	_	_	Gloss=irait
+4	aje	kuit	postposition	_	_	_	_	_	Gloss=parti
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=?
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	vijed	COP.IMP	?.?	_	_	_	_	_	Gloss=fut.on
+8	a-unan	a	préposition	_	_	_	_	_	Gloss=de
+9	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elegoet(1975:9)__1
+# text = Ma vijes o c'hoari kanetennoù [...], oas ket gouest da jom eken pesogwir e rankes klask eun all.
+# text_fr = 'Si on était en train de jouer, on ne pouvait même pas rester parce qu'on devait en chercher un autre.'
+# location = Plougerneau
+# source = Elegoet (1975)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	vijes	COP	?	_	_	_	_	_	Gloss=serais
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
+5	kanetennoù	kanetennoù	?	_	_	_	_	_	Gloss=canettes
+6	[...],	[...],	?	_	_	_	_	_	Gloss=?
+7	oas	COP	?	_	_	_	_	_	Gloss=étais
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	jom	chom	verbe	_	_	_	_	_	Gloss=rester
+12	eken	evelkent	adverbe	_	_	_	_	_	Gloss=même
+13	pesogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
+14	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+15	rankes	rankout	verbe	_	_	_	_	_	Gloss=dois
+16	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+17	eun	art	?	_	_	_	_	_	Gloss=un
+18	all	all	?	_	_	_	_	_	Gloss=autre
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:20)__4
+# text = Pa vijen o c'hlizennañ ar saout e parkeier ar Bugn...
+# text_fr = 'Quand j'étais à faire paître les vaches dans les champs du Bugn.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vijen	COP	?	_	_	_	_	_	Gloss=serais
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	c'hlizennañ	c'hlizennañ	?	_	_	_	_	_	Gloss=V
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	saout	saout	nom	_	_	_	_	_	Gloss=vaches
+7	e	P.e	?	_	_	_	_	_	Gloss=en
+8	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	Bugn..	nompropre	?	_	_	_	_	_	Gloss=Bugn
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:119)__1
+# text = Alies gwech, mestr an ti a vije er park o labourat...
+# text_fr = 'Bien souvent, le maître de maison était à travailler aux champs... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+2	gwech	gwech	nom	_	_	_	_	_	Gloss=fois
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	mestr	mestr	nom	_	_	_	_	_	Gloss=maître
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	ti	ti	nom	_	_	_	_	_	Gloss=maison
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	vije	bezañ	?	_	_	_	_	_	Gloss=serait
+9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	park	park	nom	_	_	_	_	_	Gloss=champ
+11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	labourat..	labourat	verbe	_	_	_	_	_	Gloss=travailler
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:36)__4
+# text = Kar dezhi boût bet deuet !
+# text_fr = 'Si elle était venue hier!'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Kar	karout	verbe	_	_	_	_	_	Gloss=aime
+2	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+3	boût	bezan	?	_	_	_	_	_	Gloss=être
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:276)__2
+# text = Ma kar eñ beza tommet an dour…
+# text_fr = 'S’il avait voulu faire chauffer l’eau… '
+# text_phon = ['/ma kar ˌheãw', "be '@tomɛd ãn ˌdu:r/"]
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	kar	karout	verbe	_	_	_	_	_	Gloss=aime
+3	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+4	beza	bezan	?	_	_	_	_	_	Gloss=être
+5	tommet	tomm	adjectif	_	_	_	_	_	Gloss=chauff
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	dour…	dour	nom	_	_	_	_	_	Gloss=eau
+
+# sent_id = Bouzeg(1986:36)__1
+# text =  'Oa ket dav mont du-se.
+# text_fr = 'Il n'aurait pas fallu aller là-bas.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=ne
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	'	COP	?	_	_	_	_	_	Gloss=était
+4	Oa	Oa	?	_	_	_	_	_	Gloss=?
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	dav	dav	adjectif	_	_	_	_	_	Gloss=fallu
+7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+8	du-se	ads	?	_	_	_	_	_	Gloss=côté-là
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:36)__1
+# text = Ret 'oa deoc'h boût bet tañvaet 'nezhañ !
+# text_fr = 'Si vous l'aviez goûté!'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	boût	bezan	?	_	_	_	_	_	Gloss=être
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	tañvaet	tañvañ	verbe	_	_	_	_	_	Gloss=goûté
+8	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	nezhañ	nezhañ	?	_	_	_	_	_	Gloss=?
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'la/lar')__1
+# text = Ma mije gouiet lar a oah é tond ma laket (a)han(o)h ba ma gwetur (me)mestra !
+# text_fr = 'Si j'avais su que tu venais je t'aurais pris dans ma voiture quand-même !'
+# location = Berrien
+# source = Lozach (2012-)
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	mije	kaout	?	_	_	_	_	_	Gloss=avais
+3	gouiet	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=su
+4	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	oah	COP	?	_	_	_	_	_	Gloss=étiez
+7	é	dont	verbe	_	_	_	_	_	Gloss=venir|Morph=4
+8	tond	tond	?	_	_	_	_	_	Gloss=?
+9	ma	kaout	complémenteur	_	_	_	_	_	Gloss=avais
+10	laket	lakaat	verbe	_	_	_	_	_	Gloss=mis
+11	(a)han(o)h	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
+12	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+13	ma	POSS	complémenteur	_	_	_	_	_	Gloss=mon
+14	gwetur	gwetur	nom	_	_	_	_	_	Gloss=voiture
+15	(me)mestra	memestra	adverbe	_	_	_	_	_	Gloss=quand.même
+16	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:27)__1
+# text = An hini a yaje a-benn dezañ e hallfes lavared hardiz e oa maro.
+# text_fr = 'Celui qui l'aurait affronté, tu pourrais dire sans crainte qu'il était (qu'il serait) mort.'
+# source = Gros (1970)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	yaje	mont	verbe	_	_	_	_	_	Gloss=irait
+5	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à.tête
+6	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	hallfes	gallout	verbe	_	_	_	_	_	Gloss=pourrais
+9	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+10	hardiz	hardiz	adverbe	_	_	_	_	_	Gloss=sans.crainte
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	oa	COP	?	_	_	_	_	_	Gloss=était
+13	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:138)__1
+# text = Soñjal a raen a-zevri | en desped din, en istor a c'halljen da ober.
+# text_fr = 'Je pensais sérieusement, malgré moi, à l'histoire que je pourrais créer.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	raen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisais
+4	a-zevri	a-zevri	adverbe	_	_	_	_	_	Gloss=sérieusement
+5	|	Endespet	?	_	_	_	_	_	Gloss=malgré
+6	en	en	complémenteur	_	_	_	_	_	Gloss=?
+7	desped	desped	?	_	_	_	_	_	Gloss=?
+8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	istor	istor	nom	_	_	_	_	_	Gloss=histoire
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+13	c'halljen	gallout	verbe	_	_	_	_	_	Gloss=pourrais
+14	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+15	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

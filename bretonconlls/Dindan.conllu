@@ -1,0 +1,169 @@
+# sent_id = ArBorgn(2011:13)__1
+# text = Chomet 'oa badaouet ar c'hazh e-dan ar peul.
+# text_fr = 'Le chat était resté assommé sous le poteau.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	badaouet	badaouiñ	?	_	_	_	_	_	Gloss=assommé
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Morph=5
+7	e-dan	e-dan	?	_	_	_	_	_	Gloss=sous
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	peul	peul	nom	_	_	_	_	_	Gloss=poteau
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:47)__1
+# text = Bet ê bét yoñ ' lhabour' ba didan 'n amz'r.
+# text_fr = 'Il a travaillé sous les intempéries.'
+1	Bet	Bet	?	_	_	_	_	_	Gloss=Bet
+2	ê	ê	verbe-auxiliaire	_	_	_	_	_	Gloss=eo
+3	bét	bét	?	_	_	_	_	_	Gloss=bet
+4	yoñ	yoñ	?	_	_	_	_	_	Gloss=
+5	'	'	?	_	_	_	_	_	Gloss=o
+6			PUNCT	_	_	_	_	Gloss=punct
+7	lhabour'	lhabour'	?	_	_	_	_	_	Gloss=?
+8			PUNCT	_	_	_	_	Gloss=punct
+9	ba	ba	?	_	_	_	_	_	Gloss=
+10	didan	didan	préposition	_	_	_	_	_	Gloss=dindan
+11	'	'	?	_	_	_	_	_	Gloss=an
+12	n	n	?	_	_	_	_	_	Gloss=amzer.
+13	amz'	amz'	?	_	_	_	_	_	Gloss=?
+14	r.	r.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lozac'h(2014:'he')__1
+# text = Tamm koshouarn mod-se ba dan he boutou, us eint.
+# text_fr = 'Un peu de ferraille de récupération comme ça sous ses chaussures, elles sont usées.'
+# source = Lozach (2014)
+1	Tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+2	koshouarn	kozh-	adjectif	_	_	_	_	_	Gloss=vieil
+3	mod-se	mod	préposition	_	_	_	_	_	Gloss=comme
+4	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+5	dan	dan	?	_	_	_	_	_	Gloss=sous
+6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	boutou	botez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussure.s
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	us	us	?	_	_	_	_	_	Gloss=usé
+10	eint	COP	?	_	_	_	_	_	Gloss=sont
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = N'on ket kapab, krena ra on divesker niennon.
+# text_fr = 'Je n'en suis pas capable, mes jambes tremblent sous moi.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=na|Morph=1
+2	on	COP	?	_	_	_	_	_	Gloss=suis
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	kapab	kapap	?	_	_	_	_	_	Gloss=capable
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	krena	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=trembler
+7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	on	on	?	_	_	_	_	_	Gloss=POSS
+9	divesker	duel.gar	?.nom	_	_	_	_	_	Gloss=deux.F.jambe
+10	niennon	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Pa sellez dinian ar mean...
+# text_fr = 'Quand tu regardes sous la pierre... '
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	sellez	sellout	verbe	_	_	_	_	_	Gloss=regardes
+3	dinian	dinian	?	_	_	_	_	_	Gloss=sous
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	mean..	maen	?	_	_	_	_	_	Gloss=pierre
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:29)__1
+# text = lâret a rae o ofiserion dezhe eh oant edan monet e Pariz [...].
+# text_fr = '... leurs officiers leur disaient qu'ils étaient sur le point d'aller à Paris [...].'
+# source = Herrieu (1994)
+1	lâret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	o	POSS	?	_	_	_	_	_	Gloss=leur
+5	ofiserion	-erion	?	_	_	_	_	_	Gloss=iers
+6	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+7	eh	eh	?	_	_	_	_	_	Gloss=R
+8	oant	COP	?	_	_	_	_	_	Gloss=étaient
+9	edan	edan	?	_	_	_	_	_	Gloss=sous
+10	monet	mont	verbe	_	_	_	_	_	Gloss=aller
+11	e	P.e	?	_	_	_	_	_	Gloss=à
+12	Pariz	nompropre	?	_	_	_	_	_	Gloss=Paris
+13	[...].	[...].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Seite(1998:21)__1
+# text = Me ive am-eus he hanet dindan eñvor ...
+# text_fr = 'Moi aussi, je l'ai chantée de mémoire... '
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	ive	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+3	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+4	he	POP	?	_	_	_	_	_	Gloss=la|Morph=2
+5	hanet	kanañ	verbe	_	_	_	_	_	Gloss=chanté
+6	dindan	dindan	préposition	_	_	_	_	_	Gloss=de
+7	eñvor	eñvor	nom	_	_	_	_	_	Gloss=mémoire
+8	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:153)__1
+# text = Da borpant da dresa a zo dindannout?
+# text_fr = 'Ton paletot qui doit être raccommodé, l'as-tu sur toi ?'
+# source = Gros (1970)
+1	Da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+2	borpant	porpant	?	_	_	_	_	_	Gloss=paletot
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	dresa	dresañ	verbe	_	_	_	_	_	Gloss=raccommoder
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	dindannout	pronomincorporé	?	_	_	_	_	_	Gloss=toi
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = Bobby Fisher 'oa un deus c'hoarien echek djwellañ memes ma vehe la'ar't 'oa di'an boeson.
+# text_fr = 'Bobby Fisher était un des meilleurs joueurs d’échecs, même si il se disait qu'il était alcoolique.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Bobby	Bobby	?	_	_	_	_	_	Gloss=[[nompropre|Bobby
+2	Fisher	Fisher	?	_	_	_	_	_	Gloss=Fisher]]]
+3	'	COP	?	_	_	_	_	_	Gloss=était
+4	oa	oa	?	_	_	_	_	_	Gloss=?
+5	un	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+6	deus	deus	?	_	_	_	_	_	Gloss=de
+7	echek	echek	?	_	_	_	_	_	Gloss=echec
+8	djwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=meilleur
+9	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+10	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+11	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+12	la'	lavarout	verbe	_	_	_	_	_	Gloss=dit
+13	ar'	ar'	?	_	_	_	_	_	Gloss=?
+14	t	t	?	_	_	_	_	_	Gloss=?
+15	'	COP	?	_	_	_	_	_	Gloss=était
+16	oa	oa	?	_	_	_	_	_	Gloss=?
+17	di'	di'	?	_	_	_	_	_	Gloss=sous
+18	an	an	?	_	_	_	_	_	Gloss=?
+19	boeson	boeson	nom	_	_	_	_	_	Gloss=boisson
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moyenbreton(1350),glosed'IvonetOmnès__1
+# text = Me am eus vn amoric iolivic indan an del me.
+# text_fr = 'J'ai une amourette gentille, sous les feuilles, moi.'
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	am	am	?	_	_	_	_	_	Gloss=R
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	vn	art	?	_	_	_	_	_	Gloss=un
+5	amoric	amoric	?	_	_	_	_	_	Gloss=DIM
+6	iolivic	iolivic	?	_	_	_	_	_	Gloss=DIM
+7	indan	indan	?	_	_	_	_	_	Gloss=sous
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	del	del	nom	_	_	_	_	_	Gloss=feuilles

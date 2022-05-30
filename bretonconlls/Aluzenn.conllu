@@ -1,0 +1,34 @@
+# sent_id = Borsley&Stephens(1989:421)__1
+# text = An dud a oa paour hag a c'houlenne an aluzenn.
+# text_fr = 'Les gens étaient pauvres et demandaient l'aumône.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	c'houlenne	goulenn	verbe	_	_	_	_	_	Gloss=demandait
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	aluzenn	aluzenn	nom	_	_	_	_	_	Gloss=aumône
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cheveau(2017:§326)__1
+# text = er peur ma rein en alézon dehon e bédo aveidomp.
+# text_fr = 'Le pauvre à qui je donnerai l'aumône priera pour nous.'
+# dialect = Vannetais
+# source = Cheveau (2017)
+# texttype = Ouvrages de recherche
+1	er	art	?	_	_	_	_	_	Gloss=le
+2	peur	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	rein	reiñ	verbe	_	_	_	_	_	Gloss=donnerai
+5	en	art	complémenteur	_	_	_	_	_	Gloss=le
+6	alézon	alézon	?	_	_	_	_	_	Gloss=aumône
+7	dehon	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+9	bédo	pediñ	verbe	_	_	_	_	_	Gloss=priera
+10	aveidomp	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.nous
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

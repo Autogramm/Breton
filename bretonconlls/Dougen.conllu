@@ -1,0 +1,74 @@
+# sent_id = ArBorgn(2011:80)__3
+# text = Daousto dezhi dougen, eh ae d'an oferenn.
+# text_fr = 'Bien qu'enceinte, elle allait à la messe.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Daousto	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+2	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.elle
+3	dougen	dougen	verbe	_	_	_	_	_	Gloss=porter
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	eh	eh	?	_	_	_	_	_	Gloss=R
+6	ae	mont	verbe	_	_	_	_	_	Gloss=allait
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	oferenn	oferenn	nom	_	_	_	_	_	Gloss=messe
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = Pa meus kleet ar jansson-se evit ar wech kentañ, evedon dougeres.
+# text_fr = 'Quand j'ai entendu cette chanson pour la première fois, j’étais enceinte.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	kleet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	jansson-se	DEM	?	_	_	_	_	_	Gloss=ci
+6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+9	kentañ	kentañ	?	_	_	_	_	_	Gloss=premier
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	evedon	COP	?	_	_	_	_	_	Gloss=étais
+12	dougeres	-erez	?	_	_	_	_	_	Gloss=euse
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'dougen')__1
+# text = Poan en devo an amzer o 'n em zougen hirie e-pad an deiz.
+# text_fr = 'Le temps aura du mal à se maintenir toute la journée.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Poan	poan	nom	_	_	_	_	_	Gloss=peine
+2	en	en	complémenteur	_	_	_	_	_	Gloss=R
+3	devo	kaout	?	_	_	_	_	_	Gloss=aura
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+8	n	n	?	_	_	_	_	_	Gloss=porter
+9	em	em	?	_	_	_	_	_	Gloss=?
+10	zougen	zougen	?	_	_	_	_	_	Gloss=?
+11	hirie	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
+12	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mathelier (2017:31)__1
+# text = Me zo bet de zoueñ añmeneñn de me brèr Hañri.
+# text_fr = 'Je suis allée apporter du beurre à mon frère Henri.'
+1	Me	Me	?	_	_	_	_	_	Gloss=Me
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	bet	bet	?	_	_	_	_	_	Gloss=bet
+4	de	de	préposition	_	_	_	_	_	Gloss=da
+5	zoueñ	zoueñ	?	_	_	_	_	_	Gloss=zougen
+6	añmeneñn	añmeneñn	nom	_	_	_	_	_	Gloss=amann
+7	de	de	?	_	_	_	_	_	Gloss=d'@
+8	me	me	?	_	_	_	_	_	Gloss=am
+9	brèr	brèr	nom	_	_	_	_	_	Gloss=breur
+10	Hañri	Hañri	?	_	_	_	_	_	Gloss=Hañri.
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

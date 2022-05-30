@@ -1,0 +1,263 @@
+# sent_id = Herri(1982:107)__1
+# text = Ne wele netra, morse, nep boutailh ne antree er voulerezh.
+# text_fr = 'Il ne voyait rien, jamais, aucune bouteille n'entrait dans l'imprimerie.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyait
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=aucune
+8	boutailh	boutailh	nom	_	_	_	_	_	Gloss=bouteille
+9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	antree	antreal	?	_	_	_	_	_	Gloss=entrait
+11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	voulerezh	moulañ	verbe	_	_	_	_	_	Gloss=imprim]].[[-erezh|erie|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:R.2.4)__1
+# text = ''hep'' nep mezh
+# text_fr = 'sans aucune honte.'
+# source = Chalm (2008)
+1	'	hep	préposition	_	_	_	_	_	Gloss=sans
+2	'	'	?	_	_	_	_	_	Gloss=?
+3	hep'	hep'	?	_	_	_	_	_	Gloss=?
+4	'	'	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@any'@'@
+7	mezh	mezh	nom	_	_	_	_	_	Gloss=honte
+
+# sent_id = Beyer2009:15)__1
+# text = ne veze, da skorañ lavaroù diarvar an aozerien, na kartenn na skeudenn a nep seurt.
+# text_fr = '...il n'y avait, pour étayer les dires des auteurs, ni carte ni image d'aucune sorte.'
+# source = Beyer (2009)
+# texttype = Références de corpus
+1	ne	ne	?	_	_	_	_	_	Gloss=ne
+2	veze	E	?	_	_	_	_	_	Gloss=y.avait
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	da	da	préposition	_	_	_	_	_	Gloss=pour
+5	skorañ	skorañ	?	_	_	_	_	_	Gloss=étayer
+6	lavaroù	lavaroù	?	_	_	_	_	_	Gloss=dires
+7	diarvar	diarvar	?	_	_	_	_	_	Gloss=incontestable
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	aozerien	aozañ.-erien	verbe.?	_	_	_	_	_	Gloss=aut.eurs
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	na	na...na	?	_	_	_	_	_	Gloss=ni
+12	kartenn	kartenn	nom	_	_	_	_	_	Gloss=carte
+13	na	na...na	?	_	_	_	_	_	Gloss=ni
+14	skeudenn	skeudenn	?	_	_	_	_	_	Gloss=image
+15	a	a	préposition	_	_	_	_	_	Gloss=de
+16	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@any'@'@
+17	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:'nep')__1
+# text = Eno ne gresk neb gwezenn.
+# text_fr = 'Là ne pousse aucun arbre.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	Eno	eno	?	_	_	_	_	_	Gloss=y
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	gresk	kreskiñ	verbe	_	_	_	_	_	Gloss=pousse
+4	neb	neb	?	_	_	_	_	_	Gloss='@'@any'@'@
+5	gwezenn	gwez.-enn	nom.nom	_	_	_	_	_	Gloss=arbres.SG
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:'nep')__1
+# text = Nep den all n 'en deus klevet ar c'heloù.
+# text_fr = 'Personne d'autre n'a entendu la nouvelle.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	Nep	Nep	quantifieur-déterminant	_	_	_	_	_	Gloss=aucun
+2	den	den	nom	_	_	_	_	_	Gloss=personne
+3	all	all	?	_	_	_	_	_	Gloss=autre
+4	n	n	?	_	_	_	_	_	Gloss=ne
+5	'	kaout	?	_	_	_	_	_	Gloss=a
+6	en	en	complémenteur	_	_	_	_	_	Gloss=?
+7	deus	deus	?	_	_	_	_	_	Gloss=?
+8	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	c'heloù	keloù	?	_	_	_	_	_	Gloss=nouvelles|Morph=5
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vannetais,IB.(1910:19)__1
+# text = É nep tu ne vehé kavet kement a sord guskemanteu èl é Breih.
+# text_fr = 'Nulle part on ''ne'' trouverait autant de sortes de costumes qu'en Bretagne.'
+# source = IB.
+1	É	P.e	?	_	_	_	_	_	Gloss=en
+2	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=aucun
+3	tu	tu	nom	_	_	_	_	_	Gloss=côté
+4	ne	ne	?	_	_	_	_	_	Gloss=ne
+5	vehé	COP	?	_	_	_	_	_	Gloss=serait
+6	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+8	a	a	préposition	_	_	_	_	_	Gloss=de
+9	sord	sort	?	_	_	_	_	_	Gloss=sorte
+10	guskemanteu	guskemanteu	?	_	_	_	_	_	Gloss=costumes
+11	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+12	é	P.e	?	_	_	_	_	_	Gloss=en
+13	Breih	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:R.2.4)__1
+# text = Redek a c'haller ober da nep koulz eus ar bloaz.
+# text_fr = 'On peut courir à n'importe quelle période de l'année.'
+# source = Chalm (2008)
+1	Redek	redek	verbe	_	_	_	_	_	Gloss=courir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	c'haller	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=peut.on
+4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	da	da	préposition	_	_	_	_	_	Gloss=à
+6	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@nep'@'@
+7	koulz	koulz	?	_	_	_	_	_	Gloss=moment
+8	eus	eus	?	_	_	_	_	_	Gloss=de
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:R.2.4)__1
+# text = Setu un oberenn a blij din muioc'h eget nep hini all.
+# text_fr = 'Voici une œuvre qui me plait plus qu'aucune autre.'
+# source = Chalm (2008)
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	un	art	?	_	_	_	_	_	Gloss=un
+3	oberenn	oberenn	?	_	_	_	_	_	Gloss=œuvre
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
+6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+7	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
+8	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
+9	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@nep'@'@
+10	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+11	all	all	?	_	_	_	_	_	Gloss=autre
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  Standard, site de l'[http://www.ofis-bzh.org/index.php Office de la langue bretonne] __1
+# text = Lakaet ez eus bet da gefridi dezhañ ambroug hag aliañ neb den,
+# text_fr = ... 'Il lui a été donné pour mission d'accompagner et de conseiller toute personne, entreprise, organisme ou élu qui aimerait tenir compte du breton au quotidien.'
+1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	gefridi	gefridi	?	_	_	_	_	_	Gloss=mission
+7	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	ambroug	ambroug	verbe	_	_	_	_	_	Gloss=accompagner
+9	hag	&	?	_	_	_	_	_	Gloss=et
+10	aliañ	aliañ	?	_	_	_	_	_	Gloss=conseiller
+11	neb	neb	?	_	_	_	_	_	Gloss='@'@any'@'@
+12	den	den	nom	_	_	_	_	_	Gloss=personne
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Troude(1869:§ABS)__1
+# text = ABSOLU, adj. Indépendant; nep n'en deuz mestr ebed; digabestr.
+# text_fr = 'Absolu, adj. Indépendant; qui n'a pas de maître; libre.'
+# dialect = Léonard
+# source = Troude (1869)
+# texttype = Ouvrages de recherche
+1	ABSOLU,	ABSOLU,	?	_	_	_	_	_	Gloss=
+2	adj.	adj.	?	_	_	_	_	_	Gloss=?
+3	Indépendant;	Indépendant;	?	_	_	_	_	_	Gloss=?
+4	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@nep'@'@
+5	n'	n'	?	_	_	_	_	_	Gloss=ne
+6	en	en	complémenteur	_	_	_	_	_	Gloss=a
+7	deuz	deuz	?	_	_	_	_	_	Gloss=?
+8	mestr	mestr	nom	_	_	_	_	_	Gloss=maître
+9	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+10	;	;	PUNCT	_	_	_	_	Gloss=punct
+11	digabestr	digabestr	?	_	_	_	_	_	Gloss=libre
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,[http://br.dofollow.be/wiki/Patrom:Infobox_Sonerezh_%28arzour%29légendecouleurs]surWikipedia__1
+# text = Nep den, sonaozour, teknikour, hag all... a gemer perzh a-dreñv al leurenn.
+# text_fr = 'Tout sonorisateur, technicien, etc. qui participe hors la scène.'
+1	Nep	Nep	quantifieur-déterminant	_	_	_	_	_	Gloss='@'@any'@'@
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	sonaozour	sonaozour	?	_	_	_	_	_	Gloss=sonorisateur,
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	teknikour	teknikour	?	_	_	_	_	_	Gloss=technicien,
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	hag	hag	?	_	_	_	_	_	Gloss=[[hagall...|et
+9	all..	all..	?	_	_	_	_	_	Gloss=autre...]]]
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	gemer	kemer	verbe	_	_	_	_	_	Gloss=prend
+13	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+14	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
+15	al	art	?	_	_	_	_	_	Gloss=le
+16	leurenn	leurenn	nom	_	_	_	_	_	Gloss=scène
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:43)__1
+# text = an nep-ma-nep a brenefe loaned en e graou...
+# text_fr = 'untel achèterait des animaux dans sa crèche... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	nep-ma-nep	nep-ma-nep	?	_	_	_	_	_	Gloss=tel-ci-tel
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	brenefe	prenañ	verbe	_	_	_	_	_	Gloss=achêterait
+5	loaned	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animau.x
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	graou..	kraou	nom	_	_	_	_	_	Gloss=crèche
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard__1
+# text = d'an neb a gar.
+# text_fr = ... 'à celui qui veut / à qui voudra',
+1	d'	da.art	préposition.?	_	_	_	_	_	Gloss=à.le
+2	an	an	?	_	_	_	_	_	Gloss=?
+3	neb	neb	?	_	_	_	_	_	Gloss=any
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+
+# sent_id = Drezen(1990:84)__1
+# text = Nep ne zañs ket a zo ur genaoueg.
+# text_fr = 'Qui ne danse pas est un idiot'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Nep	Nep	quantifieur-déterminant	_	_	_	_	_	Gloss=qui
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	zañs	dañsal	verbe	_	_	_	_	_	Gloss=danse
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	genaoueg	genaoueg	?	_	_	_	_	_	Gloss=idiot
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1933:42)__1
+# text = [ an neb a venn ] a c'hell.
+# text_fr = 'Qui veut peut.'
+# source = Kervella (1993)
+# texttype = Références de corpus
+1	[	art	?	_	_	_	_	_	Gloss=le
+2	an	an	?	_	_	_	_	_	Gloss='@'@nep'@'@
+3	neb	neb	?	_	_	_	_	_	Gloss=?
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	venn	mennout	verbe	_	_	_	_	_	Gloss=veut
+6	]	]	?	_	_	_	_	_	Gloss=?
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ar Barzhig (1976:63) __1
+# text = Neb n'en deus gwelet, keta, e vez roet peoc'h dezhañ
+# text_fr = 'Celui qui n'a rien vu est laissé tranquille, mais celui qui sait est parfois envoyé au loin.... '
+1	Neb	Neb	?	_	_	_	_	_	Gloss='@'@nep'@'@
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	keta	keta	?	_	_	_	_	_	Gloss=n'@est.ce.pas
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	e	e	?	_	_	_	_	_	Gloss=R
+10	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
+12	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
+13	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui

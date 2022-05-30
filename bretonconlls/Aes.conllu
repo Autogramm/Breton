@@ -1,0 +1,196 @@
+# sent_id = Fave(1998:140)__1
+# text = Mond a-eneb réd an dour n'eo ket êz.
+# text_fr = 'Il est difficile d'aller contre le courant.'
+# dialect = Léonard
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	Mond	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a-eneb	a-enep	préposition-adjectif	_	_	_	_	_	Gloss=contre
+3	réd	redek	verbe	_	_	_	_	_	Gloss=cours
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dour	dour	nom	_	_	_	_	_	Gloss=eau
+6	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	êz	êz	?	_	_	_	_	_	Gloss=facile
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:41)__1
+# text = N'oa ket eas dit lakaat kement-se ablamour ar bezhin a zo rinklus.
+# text_fr = 'On ne pouvait pas en mettre tellement que ça, car les algues sont glissantes.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	eas	eas	?	_	_	_	_	_	Gloss=facile
+5	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+6	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+7	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+8	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bezhin	bezhin	nom	_	_	_	_	_	Gloss=algues
+11	a	a	préposition	_	_	_	_	_	Gloss=R
+12	zo	zo	?	_	_	_	_	_	Gloss=est
+13	rinklus	rinklus	?	_	_	_	_	_	Gloss=glissant
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:30)__1
+# text =  Gav ket nen aes boût dikriet.
+# text_fr = 'On n'aime pas être critiqué.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	nen	IMP	?	_	_	_	_	_	Gloss=on
+6	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
+7	boût	bezan	?	_	_	_	_	_	Gloss=être
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = peogwir ha ni amañ en Eusa oa ket kalz a dra hag a yoa êz...
+# text_fr = '... parce que pour nous à Ouessant il n'y avait pas beaucoup de choses faciles.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+3	ni	pfi	?	_	_	_	_	_	Gloss=nous
+4	amañ	ads	?	_	_	_	_	_	Gloss=ici
+5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+6	Eusa	nompropre	?	_	_	_	_	_	Gloss=Ouessant
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	dra	tra	nom	_	_	_	_	_	Gloss=chose
+12	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	yoa	COP	?	_	_	_	_	_	Gloss=était
+15	êz..	êz..	?	_	_	_	_	_	Gloss=facile
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm (1987a:291)__1
+# text = Aesaet eo dezhañ.
+# text_fr = 'Il est guéri.'
+# text_phon = ["/'@esed", 'e', "'@dã ̆w/"]
+1	Aesaet	-aat	verbe	_	_	_	_	_	Gloss=é
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:198)__1
+# text = Me, pa zavan diouzh ar beure, a vez ken êzet ha den ebed.
+# text_fr = 'Moi, quand je me lève le matin, je suis aussi dispos que quiconque.'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+4	zavan	sevel	verbe	_	_	_	_	_	Gloss=lève
+5	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	beure	beure	nom	_	_	_	_	_	Gloss=matin
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	êzet	-et	?	_	_	_	_	_	Gloss=é
+12	ha	ha(g)	?	_	_	_	_	_	Gloss=que
+13	den	den	nom	_	_	_	_	_	Gloss=homme
+14	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bégard),GeorgelindansYekel,Georgelin&ArC'hozh(2015-2019)__1
+# text = Ne vefe ket soñjet biken pegen aezet e vijent d'ober.
+# text_fr = 'On n'imaginerait jamais à quel point elles [ces choses] sont faciles à faire.'
+# location = Bégard
+# source = Yekel, Georgelin & Ar Chozh (2015-2019)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	vefe	COP	?	_	_	_	_	_	Gloss=serait
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	soñjet	soñjal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pens.é
+5	biken	biken	adverbe	_	_	_	_	_	Gloss=jamais
+6	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+7	aezet	aezet	?	_	_	_	_	_	Gloss=facilité
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	vijent	COP	?	_	_	_	_	_	Gloss=seraient
+10	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:14)__1
+# text = Hennezh eo an aesañ-tout evit labourat
+# text_fr = 'C'est le plus pratique pour travailler.'
+# text_phon = ['[ hònɛrh', 'ə', 'ənɛsã tut', 'awe', 'laburat ]']
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	aesañ-tout	superlatif.aesañ-tout	adjectif.?	_	_	_	_	_	Gloss=le.plus.tout
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+
+# sent_id = HorYezh(1983:25)__1
+# text = Papa  gave ket aes anezhañ ar matelaouioù.
+# text_fr = 'Papa ne trouvait pas les matelas pratiques.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	gave	kavout	verbe	_	_	_	_	_	Gloss=trouvait
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
+6	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	matelaouioù	matelas.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=matelas.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:54)__1
+# text = An dud zo savet eas bremañ e-skoaz gwechall.
+# text_fr = 'Les gens maintenant sont élevés à la douce par rapport à autrefois.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	savet	sevel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=élev.é
+5	eas	eas	?	_	_	_	_	_	Gloss=facile
+6	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+7	e-skoaz	e-skoaz	préposition-complémenteur	_	_	_	_	_	Gloss=dans.épaule
+8	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'êz')__1
+# text = Pipi e-neus eur gorzaillenn êz.
+# text_fr = 'Pierre a un gosier facile.' (ivrogne)
+# source = Gros (1989)
+1	Pipi	nompropre	?	_	_	_	_	_	Gloss=Pipi
+2	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
+3	eur	art	nom	_	_	_	_	_	Gloss=un
+4	gorzaillenn	gorzaillenn	?	_	_	_	_	_	Gloss=1
+5	êz	êz	?	_	_	_	_	_	Gloss=facile
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__13
+# text = N'eo ket diaes vi laret deoc'h oa ken glu partout !
+# text_fr = 'C'est bien simple, il y avait de la glu partout !'
+# location = Locronan
+# source = A-M. Louboutin (02/2022)
+# texttype = Élicitations
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
+5	vi	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+7	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+10	glu	glud	nom	_	_	_	_	_	Gloss=glu
+11	partout	partout	adverbe	_	_	_	_	_	Gloss=partout
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

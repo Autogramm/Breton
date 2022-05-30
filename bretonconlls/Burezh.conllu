@@ -1,0 +1,18 @@
+# sent_id = Monfort(2007:19)__1
+# text = gant an tommder, en ul luc'hedenn pffuitt ! Aet da vurezh !
+# text_fr = '... grâce à la chaleur, en deux secondes, pfffuit !, évaporé !'
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	gant	gant	?	_	_	_	_	_	Gloss=avec
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	tommder	tomm.-der	adjectif.?	_	_	_	_	_	Gloss=chal.eur
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+6	ul	art	?	_	_	_	_	_	Gloss=un
+7	luc'hedenn	luc'hed.-enn	?.nom	_	_	_	_	_	Gloss=éclairs.SG
+8	pffuitt	interjection	?	_	_	_	_	_	Gloss=pfffuit
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+10	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	vurezh	vurezh	?	_	_	_	_	_	Gloss=vapeur
+13	!	!	PUNCT	_	_	_	_	Gloss=punct

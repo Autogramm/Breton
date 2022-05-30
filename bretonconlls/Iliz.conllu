@@ -1,0 +1,29 @@
+# sent_id = Guillevic&LeGoff(1986:79)__1
+# text = (na) braùet un iliz !
+# text_fr = 'Quelle belle église !'
+# source = Guillevic & Le Goff (1986)
+1	(na)	na(g)	complémenteur	_	_	_	_	_	Gloss=quel
+2	un	art	?	_	_	_	_	_	Gloss=un
+3	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArScao(1945:'adulte')__1
+# text = Evit an Iliz, a neus ar furnez piou bénag neuz seiz vloas.
+# text_fr = 'Pour l’Église est adulte quiconque a sept ans.'
+# dialect = Cornouaillais
+# source = Ar Scao (1945)
+# texttype = Ouvrages de recherche
+1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	Iliz	Iliz	nom	_	_	_	_	_	Gloss=Eglise
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	neus	kaout	?	_	_	_	_	_	Gloss=a
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	furnez	fur.-nezh	adjectif.nom	_	_	_	_	_	Gloss=sag.esse
+9	piou	piv	pronom	_	_	_	_	_	Gloss=qui
+10	bénag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+11	neuz	kaout	préposition	_	_	_	_	_	Gloss=a
+12	seiz	numérauxcardinaux	?	_	_	_	_	_	Gloss=sept]|Morph=1
+13	vloas	bloaz	nom	_	_	_	_	_	Gloss=an
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

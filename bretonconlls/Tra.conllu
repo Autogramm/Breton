@@ -1,0 +1,75 @@
+# sent_id = Cheveau(2017:§322)__1
+# text = ma zad m'en dehe bet gouiet an dra-se... '
+# text_fr = 'Mon père, s'il avait su cela... '
+# dialect = Vannetais
+# source = Cheveau (2017)
+# texttype = Ouvrages de recherche
+1	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	zad	tad	nom	_	_	_	_	_	Gloss=père
+3	m'	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	dehe	kaout	?	_	_	_	_	_	Gloss=avait
+6	bet	bet	?	_	_	_	_	_	Gloss=eu
+7	gouiet	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=su
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	dra-se...	dra-se...	?	_	_	_	_	_	Gloss=1
+10	'	'	?	_	_	_	_	_	Gloss=?
+11			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:123)__1
+# text = 'N dreu-s 'oa pad't duran' teir eur.
+# text_fr = 'Ça a duré trois heures.'
+# dialect = Cornouaillais
+# location = Clohars-Carnoët
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	'	art	?	_	_	_	_	_	Gloss=le
+2	N	N	?	_	_	_	_	_	Gloss=1
+3	dreu-s	dreu-s	?	_	_	_	_	_	Gloss=?
+4	'	COP	?	_	_	_	_	_	Gloss=était
+5	oa	oa	?	_	_	_	_	_	Gloss=?
+6	pad'	padout	verbe	_	_	_	_	_	Gloss=duré
+7	t	t	?	_	_	_	_	_	Gloss=?
+8	duran'	duran'	?	_	_	_	_	_	Gloss=durant
+9			PUNCT	_	_	_	_	Gloss=punct
+10	teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+11	eur	eur	nom	_	_	_	_	_	Gloss=heure
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:180)__2
+# text = Cheinik Doue, hema zo eun tamm tra goalldra !
+# text_fr = 'Mon Dieu, quel pleurnicheur!'
+# dialect = Cornouaillais
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Cheinik	cheinik	?	_	_	_	_	_	Gloss=dos.petit?
+2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	hema	DEM	?	_	_	_	_	_	Gloss=celui.ci
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	tra	tra	nom	_	_	_	_	_	Gloss=chose
+9	goalldra	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__19
+# text = Ah bah ndrahe hat ! C'hwi zo va ma du dehou.
+# text_fr = 'Ça alors, je vous ai à ma droite, en fait.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ah	interjection	?	_	_	_	_	_	Gloss=ahbah
+2	bah	bah	?	_	_	_	_	_	Gloss=?
+3	ndrahe	art.ndrahe.DEM	?.?.?	_	_	_	_	_	Gloss=le.1.ci
+4	hat	avat	adverbe	_	_	_	_	_	Gloss=mais
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	C'	pfi	?	_	_	_	_	_	Gloss=vous
+7	hwi	hwi	?	_	_	_	_	_	Gloss=?
+8	zo	zo	?	_	_	_	_	_	Gloss=est
+9	va	war	?	_	_	_	_	_	Gloss=sur
+10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+11	du	tu	nom	_	_	_	_	_	Gloss=côté
+12	dehou	dehou	?	_	_	_	_	_	Gloss=droit
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

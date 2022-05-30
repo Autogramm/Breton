@@ -1,0 +1,22 @@
+# sent_id = Lozac'h(2014:'passaad')__1
+# text = Pa vijen à passaad da vad...
+# text_fr = 'Lorsque je toussais pour de bon... '
+# location = Plouye
+# source = Lozach (2014)
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vijen	COP	?	_	_	_	_	_	Gloss=étais
+3	à	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	passaad	passaad	?	_	_	_	_	_	Gloss=tousser
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	vad..	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = BretonfinXIX°,Troude(1886)__1
+# text = Ema ar peud gant-hi.
+# text_fr = '(Cette brebis) elle a la toux.'
+# source = Troude (1886)
+1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=se.trouve
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	peud	peud	?	_	_	_	_	_	Gloss=toux
+4	gant-hi	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

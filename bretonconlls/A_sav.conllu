@@ -1,29 +1,29 @@
 # sent_id = AnHere(2003:1)__1
 # text = Chomit a-sav !...
-# text_fr =  'Arrêtez !' 
+# text_fr = 'Arrêtez !'
 # source = An Here (2003)
 # texttype = Références de corpus
 1	Chomit	chom	verbe	_	_	_	_	_	Gloss=restez
-2	a-sav	sevel	verbe	1	_	_	_	_	Gloss=debout
+2	a-sav	sevel	verbe	_	_	_	_	_	Gloss=debout|Morph=1
 3	!...	!...	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Mellouet&Pennec(2004:79).__1
 # text = Setu, en ur zont d'ar gêr e choment a-sav eno neuze.
-# text_fr =  'Donc, en rentrant à la maison, ils s'arrêtaient là.' 
+# text_fr = 'Donc, en rentrant à la maison, ils s'arrêtaient là.'
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Setu	setu	complémenteur-adverbe-conjonction	_	_	_	_	_	Gloss=voici
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	en	enur	?	1	_	_	_	_	Gloss=en]
+3	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
 4	ur	ur	?	_	_	_	_	_	Gloss=?
 5	zont	dont	verbe	_	_	_	_	_	Gloss=venir
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	gêr	kêr	nom	1	_	_	_	_	Gloss=foyer
-9	e	e	?	4	_	_	_	_	Gloss=R
+8	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 10	choment	chom	verbe	_	_	_	_	_	Gloss=restaient
-11	a-sav	a	préposition	1	_	_	_	_	Gloss=à
+11	a-sav	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
 12	eno	eno	?	_	_	_	_	_	Gloss=y
-13	neuze	neuze	adverbe-conjonction	_	_	_	_	_	Gloss=alors
+13	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

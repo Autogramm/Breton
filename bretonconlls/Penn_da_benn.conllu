@@ -1,0 +1,33 @@
+# sent_id = ArBorgn(2011:66)__3
+# text = Lonket eo bet dezhoñ penn-da-benn !
+# text_fr = 'Il l'a bu d'un bout à l'autre, i.e. intégralement.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Lonket	lonkañ	verbe	_	_	_	_	_	Gloss=avalé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	penn-da-benn	penn	nom	_	_	_	_	_	Gloss=tête]]-[[da|à|Morph=1
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes (1970:319)__1
+# text = penn-d'ar-benn d'ar vuhez
+# text_fr = 'tout le long de la vie.'
+# text_phon = ['/pen d-ərben', 'd-ər', 'vyXej /']
+1	penn-d'	penn	nom	_	_	_	_	_	Gloss=tête
+2	ar-benn	art	?	_	_	_	_	_	Gloss=le
+3	d'	da	préposition	_	_	_	_	_	Gloss=de
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+
+# sent_id = Gros(1970b:§'loer')__1
+# text = Eur re loerou penn-da-benn
+# text_fr = 'Une paire de bas longs'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Eur	art	nom	_	_	_	_	_	Gloss=un
+2	re	hini	nom-pronom	_	_	_	_	_	Gloss=paire
+3	loerou	loer.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussette.s
+4	penn-da-benn	penn	nom	_	_	_	_	_	Gloss=tête]]-[[da|à|Morph=1

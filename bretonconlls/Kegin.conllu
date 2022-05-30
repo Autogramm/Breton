@@ -1,0 +1,99 @@
+# sent_id = ArBarzhig(1976:29)__1
+# text = e toull dor he c'hegin.
+# text_fr = 'dans l'encadrement de la porte de sa cuisine.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	e	P.e	?	_	_	_	_	_	Gloss=en
+2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	dor	dor	nom	_	_	_	_	_	Gloss=porte
+4	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+5	c'hegin	c'hegin	?	_	_	_	_	_	Gloss=cuisine
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016),préférencemarquéepar<<__1
+# text = da benturiñ tout ar guzun.
+# text_fr = 'pour repeindre toute la cuisine.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	benturiñ	benturiñ	?	_	_	_	_	_	Gloss=peindre
+3	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	guzun	guzun	?	_	_	_	_	_	Gloss=1
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger(2004a:248)__1
+# text = [ baʁ gyzin e'zebʁajn baʁ ]
+# text_fr = 'Dans la cuisine, ils mangent du pain.'
+# source = Avezard-Roger (2004a)
+# texttype = Ouvrages de recherche
+1	[	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans]].[[art|le|Morph=1
+2	baʁ	baʁ	?	_	_	_	_	_	Gloss=cuisine
+3	gyzin	gyzin	?	_	_	_	_	_	Gloss=?
+4	e'	e'	?	_	_	_	_	_	Gloss=1
+5	zebʁajn	debriñ	verbe	_	_	_	_	_	Gloss=mangent
+6	baʁ	bara	nom	_	_	_	_	_	Gloss=pain
+7	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Avezard-Roger (2004a:119)__1
+# text = un tamm kuizin tamm kegin vihan vihan
+# text_fr = 'une petite cuisine, une petite cuisine toute petite.'
+# text_phon = ['un tam kyzən', 'tam kigin', 'vi_ə_n  vi_ə_n']
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	kuizin	kuizin	?	_	_	_	_	_	Gloss=cuisine
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	kegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
+6	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+7	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+
+# sent_id = Gros(1984:364)__2
+# text = Ar geginérez a zo war ar geginèrez.
+# text_fr = 'La cuisinière est en train de faire la cuisine.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	geginérez	-erez	?	_	_	_	_	_	Gloss=ière
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	war	war	?	_	_	_	_	_	Gloss=sur
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	geginèrez	-erezh	?	_	_	_	_	_	Gloss=N
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:443)__1
+# text = an dud 'larae dehi peneus "ah, rin ket boued kin...".
+# text_fr = 'Les gens lui disaient "ah, je ne ferai plus la cuisine... '
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	'	lavarout	verbe	_	_	_	_	_	Gloss=disait
+4	larae	larae	?	_	_	_	_	_	Gloss=?
+5	dehi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	peneus	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
+7	"ah	interjection	?	_	_	_	_	_	Gloss=ah
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	rin	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferai.je
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+12	kin..."	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:23)__1
+# text = pa ne reer tamm kegin ebet, penaos e c'hellfed degemer unan bennak?
+# text_fr = '... quand on ne cuisine pas du tout, comment accueillir quelqu'un ?.'
+# source = ar Barzhig (1976)
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	kegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	c'hellfed	gallout	verbe	_	_	_	_	_	Gloss=pourrait
+11	degemer	degemer	nom	_	_	_	_	_	Gloss=accueillir

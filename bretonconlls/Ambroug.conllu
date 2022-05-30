@@ -1,0 +1,17 @@
+# sent_id = Trépos(2001:§363)__1
+# text = N'am-bo ket aon, abalamour ma vezin ambrouget gant ma zad.
+# text_fr = 'Je n'aurai pas peur, parce que mon père m'escortera.'
+# source = Trépos (2001)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	am-bo	kaout	?	_	_	_	_	_	Gloss=aurai
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	aon	aon	nom	_	_	_	_	_	Gloss=peur
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=en.raison
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	vezin	COP	?	_	_	_	_	_	Gloss=serai
+9	ambrouget	ambrouget	?	_	_	_	_	_	Gloss=escorté
+10	gant	gant	?	_	_	_	_	_	Gloss=avec
+11	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+12	zad	tad	nom	_	_	_	_	_	Gloss=père
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

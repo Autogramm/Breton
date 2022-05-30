@@ -1,0 +1,52 @@
+# sent_id = Milin(1922:402)__1
+# text = Ar plac'h yaouank, ne ouie doare eus a netra, a zo souezet.
+# text_fr = 'La jeune femme, qui ne savait rien de rien, est étonnée.'
+# dialect = Léonard
+# location = Saint Pol de Léon
+# source = Milin (1922)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+3	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+7	doare	doare	nom	_	_	_	_	_	Gloss=façon
+8	eus	eus	?	_	_	_	_	_	Gloss=de
+9	a	a	préposition	_	_	_	_	_	Gloss=de
+10	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+13	zo	zo	?	_	_	_	_	_	Gloss=est
+14	souezet	souezet	?	_	_	_	_	_	Gloss=étonné
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:65)__4
+# text = Ma zud a veze souezhet dezhoñ bout yen sklas.
+# text_fr = 'Mes parents étaient surpris qu'il soit gelé.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	zud	tud	nom	_	_	_	_	_	Gloss=parents
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	veze	COP	?	_	_	_	_	_	Gloss=était
+5	souezhet	souezhet	?	_	_	_	_	_	Gloss=étonné
+6	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	bout	bezañ	?	_	_	_	_	_	Gloss=être
+8	yen	yen	adjectif	_	_	_	_	_	Gloss=froid
+9	sklas	intensifieur	?	_	_	_	_	_	Gloss=glacé
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Thibault(1914:184)__1
+# text = So-se en dwe me sehetã.
+# text_fr = 'C'est ce qui m'étonna le plus.'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	So-se	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+3	dwe	kaout	?	_	_	_	_	_	Gloss=avait
+4	me	POP	?	_	_	_	_	_	Gloss=me
+5	sehetã	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

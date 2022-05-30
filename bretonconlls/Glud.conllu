@@ -1,0 +1,16 @@
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__1
+# text = N’eo ket diaes vi laret deoc’h oa ken glu partout !
+# text_fr = 'C’est bien simple, il y avait de la glu partout !'
+# location = Locronan
+# source = A-M. Louboutin (02/2022)
+# texttype = Élicitations
+1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+2	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
+3	vi	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+4	laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+5	deoc’h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+8	glu	glu	?	_	_	_	_	_	Gloss=glu
+9	partout	partout	adverbe	_	_	_	_	_	Gloss=partout
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

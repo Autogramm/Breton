@@ -1,0 +1,43 @@
+# sent_id = Biguet(2017:8)__1
+# text = Fou ! Chañs meus bet !
+# text_fr = 'Ouf ! J'ai eu de la chance !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Fou	interjection	?	_	_	_	_	_	Gloss=Oh!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Chañs	chañs	nom	_	_	_	_	_	Gloss=chance
+4	meus	kaout	?	_	_	_	_	_	Gloss=a
+5	bet	bet	?	_	_	_	_	_	Gloss=eu
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(2003:40)__1
+# text = C'hou ! Pebezh tommadenn 'm eus bet !
+# text_fr = 'Ouf !... Eh bien ! Je peux dire que j'ai eu chaud !'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	C'	interjection	?	_	_	_	_	_	Gloss=Ouf!
+2	hou	hou	?	_	_	_	_	_	Gloss=?
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Pebezh	pebezh	?	_	_	_	_	_	Gloss=quel
+5	tommadenn	tomm.-adenn	adjectif.nom	_	_	_	_	_	Gloss=chaud.ée
+6	'	'	?	_	_	_	_	_	Gloss=1SG
+7	m	kaout	?	_	_	_	_	_	Gloss=a
+8	eus	eus	?	_	_	_	_	_	Gloss=?
+9	bet	kaout	?	_	_	_	_	_	Gloss=eu
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bannoù-Heol(2000:14)__1
+# text = Fow ! N'emañ ket ma mignoned amañ !
+# text_fr = 'Pfiew, mes amis ne sont pas là !'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Fow	Fow	?	_	_	_	_	_	Gloss=Pfiew
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	mignoned	mignon.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=ami.s
+9	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

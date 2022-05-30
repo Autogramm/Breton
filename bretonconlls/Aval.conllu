@@ -1,0 +1,59 @@
+# sent_id = Bouzec & al. (2017:88)__1
+# text = 'N al douar-me zo méllou traou.
+# text_fr = 'Ces pommes-de-terre-ci sont vraiment énormes.'
+1	'	'	?	_	_	_	_	_	Gloss=An
+2	N	N	?	_	_	_	_	_	Gloss=avaloù-douar-mañ
+3	al	al	?	_	_	_	_	_	Gloss=?
+4	douar-me	douar-me	?	_	_	_	_	_	Gloss=?
+5	zo	zo	?	_	_	_	_	_	Gloss=zo
+6	méllou	méllou	?	_	_	_	_	_	Gloss=melloù
+7	traou	traou	?	_	_	_	_	_	Gloss=traoù.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:323)__1
+# text = /ar-lerX mə-Xwa laked ənavəlew, Xwa ret Xuxušətat /
+# text_fr = 'Après que les pommes-de-terre étaient mises, il fallait les butter.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/ar-lerX	war-lerc'h	?	_	_	_	_	_	Gloss=après
+2	mə-Xwa	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	laked	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+4	ənavəlew	art.-où(PL.)	?.?	_	_	_	_	_	Gloss=le.s
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	Xwa	COP	?	_	_	_	_	_	Gloss=était
+7	ret	red	?	_	_	_	_	_	Gloss=obligé
+8	Xuxušətat	POP	?	_	_	_	_	_	Gloss=les
+9	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBozec(1933:18)__1
+# text = An avalou hag ar c'histin bremaïk a vo dare.
+# text_fr = 'Les pommes et les châtaignes seront bientôt mûres.'
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	avalou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	c'histin	kistin	nom	_	_	_	_	_	Gloss=châtaigne]].[[nomscollectifs|s]|Morph=5
+6	bremaïk	bremaïk.bremaïk	adverbe.adverbe	_	_	_	_	_	Gloss=bientôt.DIM
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	vo	COP	?	_	_	_	_	_	Gloss=sera
+9	dare	darev	adjectif	_	_	_	_	_	Gloss=mûr
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:35)__1
+# text = Hêp ! C'hoazh unan o kouezhañ e paramouz !
+# text_fr = 'Hé ! Ici ! Encore quelqu'un dans les pommes !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Hêp	Hêp	?	_	_	_	_	_	Gloss=hep!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	C'	c'hoazh	?	_	_	_	_	_	Gloss=encore
+4	hoazh	hoazh	?	_	_	_	_	_	Gloss=?
+5	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+7	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+8	e	P.e	?	_	_	_	_	_	Gloss=en
+9	paramouz	paramouz	?	_	_	_	_	_	Gloss=pâmoison
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Elégoët(1982:15)__4
+# text = Eno oa tud maread, sur 'vat !
+# text_fr = 'Il y avait du monde !'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Eno	eno	?	_	_	_	_	_	Gloss=y
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	tud	tud	nom	_	_	_	_	_	Gloss=gens
+4	maread	maread	quantifieur	_	_	_	_	_	Gloss=beaucoup
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+7	'	avat	adverbe	_	_	_	_	_	Gloss=cependant
+8	vat	vat	?	_	_	_	_	_	Gloss=?
+9	!	!	PUNCT	_	_	_	_	Gloss=punct

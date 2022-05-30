@@ -1,12 +1,12 @@
 # sent_id = Herrieu(1994:84)__1
 # text = Em lakaet em eus da sevel un tammig lojell...
-# text_fr =  'Je me suis mis à construire un petit abri... '
+# text_fr = 'Je me suis mis à construire un petit abri... '
 # source = Herrieu (1994)
-1	Em	enem	?	1	_	_	_	_	Gloss=se]
+1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
 2	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
 3	em	em	?	_	_	_	_	_	Gloss=R
 4	eus	kaout	?	_	_	_	_	_	Gloss=a
-5	da	da	préposition	1	_	_	_	_	Gloss=à
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 6	sevel	sevel	verbe	_	_	_	_	_	Gloss=construire
 7	un	art	?	_	_	_	_	_	Gloss=un
 8	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
@@ -15,34 +15,34 @@
 
 # sent_id = Seite&Stéphan(1957:19)__1
 # text = An tad a daol an avalou flastret er waskell
-# text_fr =  'Le père jette les pommes écrasées dans la presse.' 
+# text_fr = 'Le père jette les pommes écrasées dans la presse.'
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	An	art	?	_	_	_	_	_	Gloss=le
 2	tad	tad	nom	_	_	_	_	_	Gloss=père
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	daol	teuler	?	_	_	_	_	_	Gloss=jette
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	avalou	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
 7	flastret	flastrañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=écras.é
 8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-9	waskell	gwaskañ	verbe	1	_	_	_	_	Gloss=press
+9	waskell	gwaskañ	verbe	_	_	_	_	_	Gloss=press|Morph=1
 
 # sent_id = Seite&Stéphan(1957:123)__1
 # text = he mantell dano.
-# text_fr =  'son épais manteau' 
+# text_fr = 'son épais manteau'
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	he	POSS	?	2	_	_	_	_	Gloss=son
+1	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 2	mantell	mantell	nom	_	_	_	_	_	Gloss=manteau
-3	dano	tanav	adjectif	1	_	_	_	_	Gloss=épais
+3	dano	tanav	adjectif	_	_	_	_	_	Gloss=épais|Morph=1
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§276)__1
 # text = Hag eñ, ker buan, mont ha sankañ e gontell...
-# text_fr =  'Et lui, aussi vite, de planter son couteau.'
+# text_fr = 'Et lui, aussi vite, de planter son couteau.'
 # source = Kervella (1995)
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
@@ -52,13 +52,13 @@
 6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	ha	Ha(g)	?	_	_	_	_	_	Gloss=ha
 8	sankañ	sankañ	?	_	_	_	_	_	Gloss=planter
-9	e	POSS	?	1	_	_	_	_	Gloss=son
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 10	gontell..	kontell	nom	_	_	_	_	_	Gloss=couteau
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:106)__1
 # text = Karget eo ar fozelloù get ar glav en deus kouezhet a-c'houde dec'h.
-# text_fr =  'La pluie qui est tombée depuis hier a rempli les fossés.'
+# text_fr = 'La pluie qui est tombée depuis hier a rempli les fossés.'
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
@@ -78,7 +78,7 @@
 
 # sent_id = Fave(1998:60)__1
 # text = Ar ruzell zo gantañ.
-# text_fr =  'Il a la rougeole.'
+# text_fr = 'Il a la rougeole.'
 # dialect = Léonard
 # location = Cléder
 # source = Fave (1998)
@@ -91,10 +91,10 @@
 
 # sent_id = Gros(1996:258)__1
 # text = A-benn neuze e oa ar sorohell warni.
-# text_fr =  'A ce moment là, le râle était déjà sur elle (elle râlait).' 
+# text_fr = 'A ce moment là, le râle était déjà sur elle (elle râlait).'
 # source = Gros (1996)
-1	A-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-2	neuze	neuze	adverbe-conjonction	_	_	_	_	_	Gloss=alors
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	oa	COP	?	_	_	_	_	_	Gloss=est
 5	ar	art	?	_	_	_	_	_	Gloss=le
@@ -104,18 +104,18 @@
 
 # sent_id = Gros(1974:144)__1
 # text = E kernebleh e vez greet yod gant ur sklisenn grampouez.
-# text_fr =  'A Ker-nulle-part on tourne la bouillie avec la palette à crêpes.'
+# text_fr = 'A Ker-nulle-part on tourne la bouillie avec la palette à crêpes.'
 # dialect = Trégorrois
 # source = Gros (1974)
 # texttype = Ouvrages de recherche
 1	E	P.e	?	_	_	_	_	_	Gloss=à
 2	kernebleh	kêr.nep-.lec'h	nom.quantifieur.?	_	_	_	_	_	Gloss=ker.nul.lieu
-3	e	e	?	4	_	_	_	_	Gloss=R
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
 6	yod	yod	nom	_	_	_	_	_	Gloss=bouillie
 7	gant	gant	?	_	_	_	_	_	Gloss=avec
 8	ur	art	?	_	_	_	_	_	Gloss=un
 9	sklisenn	sklisenn	?	_	_	_	_	_	Gloss=palette
-10	grampouez	krampouezh	nom	1	_	_	_	_	Gloss=crêpes
+10	grampouez	krampouezh	nom	_	_	_	_	_	Gloss=crêpes|Morph=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

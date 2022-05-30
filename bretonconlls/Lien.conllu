@@ -1,0 +1,46 @@
+# sent_id = Herrieu(1994:40)__1
+# text = Em astenn a ran-me àr tamm lien…
+# text_fr = 'Je m'allonge, moi, sur un morceau de drap.'
+# source = Herrieu (1994)
+1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	astenn	astenn	verbe	_	_	_	_	_	Gloss=allonger
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ran-me	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+5	àr	war	?	_	_	_	_	_	Gloss=sur
+6	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+7	lien…	lien…	?	_	_	_	_	_	Gloss=drap
+
+# sent_id = Briant-Cadiou(1998:198)__1
+# text = Deuz uhelder Koz-kastell, an Amerikaned a wele va lienennou.
+# text_fr = '... des hauts de Koz-Kastell, les Américains voyaient mes draps.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Deuz	deus	?	_	_	_	_	_	Gloss=de
+2	uhelder	uhel.-der	adjectif.?	_	_	_	_	_	Gloss=haut.eur
+3	Koz-kastell	nompropre	?	_	_	_	_	_	Gloss=Koz-Kastell
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	Amerikaned	-an(Adj.).-ed(PL.)	?.?	_	_	_	_	_	Gloss=ain.s
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyaient
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+10	lienennou	-enn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=une.PL
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'lien')__1
+# text = Hennez a oa e bord eur batiment a lïen.
+# text_fr = 'Celui-là était à bord d'un navire à voiles.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	e	P.e	?	_	_	_	_	_	Gloss=en
+5	bord	bord	?	_	_	_	_	_	Gloss=bord
+6	eur	art	nom	_	_	_	_	_	Gloss=un
+7	batiment	batiment	?	_	_	_	_	_	Gloss=bâtiment
+8	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	lïen	lïen	?	_	_	_	_	_	Gloss=voile
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

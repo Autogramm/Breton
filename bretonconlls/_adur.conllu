@@ -1,12 +1,12 @@
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
 # text = Mat eo evit benn disadorn, be meus kod antre ar savadur.
-# text_fr =  'C'est bon pour samedi, j'ai le code d'entrée de l'immeuble.' 
+# text_fr = 'C'est bon pour samedi, j'ai le code d'entrée de l'immeuble.'
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	Mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bon
+1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 4	be	bez'	?	_	_	_	_	_	Gloss=expl
 5	meus	kaout	?	_	_	_	_	_	Gloss=ai
 6	kod	kod	?	_	_	_	_	_	Gloss=code
@@ -17,7 +17,7 @@
 
 # sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
 # text = Echu eo ar vansoniaj, hag ar hoataj braz a zo e plas.
-# text_fr =  'La maçonnerie est finie et la charpente est en place.' 
+# text_fr = 'La maçonnerie est finie et la charpente est en place.'
 # source = Le Gall (1958)
 1	Echu	echu	?	_	_	_	_	_	Gloss=fini
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
@@ -26,8 +26,8 @@
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	hag	&	?	_	_	_	_	_	Gloss=et
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	hoataj	koad	nom	5	_	_	_	_	Gloss=bois]].[[-aj|erie
-9	braz	bras	adjectif-adverbe	_	_	_	_	_	Gloss=grand
+8	hoataj	koad	nom	_	_	_	_	_	Gloss=bois]].[[-aj|erie|Morph=5
+9	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
 10	a	a	préposition	_	_	_	_	_	Gloss=R
 11	zo	zo	?	_	_	_	_	_	Gloss=est
 12	e	P.e	?	_	_	_	_	_	Gloss=en
@@ -36,18 +36,18 @@
 
 # sent_id = Madeg(2013:21)__1
 # text = o yezhadur diemskiant.
-# text_fr =  'leur grammaire inconsciente'
+# text_fr = 'leur grammaire inconsciente'
 # dialect = Léonard
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
-1	o	POSS	?	2	_	_	_	_	Gloss=leur
+1	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 2	yezhadur	yezhadur	?	_	_	_	_	_	Gloss=grammaire
 3	diemskiant	di-.em-	?.?	_	_	_	_	_	Gloss=sans.se
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec & al. (2017:376)__1
 # text = Peucheut tap't chifernadur ?
-# text_fr =  'Vous n'avez pas attrapé un rhume ?' 
+# text_fr = 'Vous n'avez pas attrapé un rhume ?'
 1	tap'	tap'	?	_	_	_	_	_	Gloss=tapet
 2	t	t	?	_	_	_	_	_	Gloss=ur
 3	chifernadur	chifernadur	?	_	_	_	_	_	Gloss=sifernadur
@@ -56,33 +56,33 @@
 
 # sent_id = Konan(2017:66)__1
 # text = N'eus ket graet a devadur c'hoazh evit an hañv.
-# text_fr =  'Il n'a pas encore fait chaud , cet été.'
+# text_fr = 'Il n'a pas encore fait chaud , cet été.'
 # dialect = Trégorrois
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	1	_	_	_	_	Gloss=ne
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	eus	ezeus	?	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	a	a	préposition	1	_	_	_	_	Gloss=de
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	devadur	devadur	?	_	_	_	_	_	Gloss=brûlure
 7	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
-8	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 9	an	art	?	_	_	_	_	_	Gloss=le
 10	hañv	hañv	nom	_	_	_	_	_	Gloss=été
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite&Stéphan(1957:103)__1
 # text = Eur blijadur eo bale d'an nevez-amzer...
-# text_fr =  'C'est un plaisir que de se promener au printemps.' 
+# text_fr = 'C'est un plaisir que de se promener au printemps.'
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Eur	art	nom	_	_	_	_	_	Gloss=un
-2	blijadur	plijadur	nom	1	_	_	_	_	Gloss=plaisir
+2	blijadur	plijadur	nom	_	_	_	_	_	Gloss=plaisir|Morph=1
 3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 4	bale	bale	verbe	_	_	_	_	_	Gloss=marcher
-5	d'	da	préposition	1	_	_	_	_	Gloss=à
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 6	an	art	?	_	_	_	_	_	Gloss=le
 7	nevez-amzer..	nevez-	adjectif	_	_	_	_	_	Gloss=nouveau
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

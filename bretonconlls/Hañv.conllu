@@ -1,0 +1,27 @@
+# sent_id = Elégoët(1982:47)__1
+# text = Met ar c'hoefoù ne vezent ket lakeat ral en hañv.
+# text_fr = 'Mais les coiffes, on les mettait rarement en été.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'hoefoù	koef	nom	_	_	_	_	_	Gloss=coiffe]].[[-où(PL.)|s]|Morph=5
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	lakeat	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+8	ral	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rarement
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	hañv	hañv	nom	_	_	_	_	_	Gloss=été
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:320)__1
+# text = /dyrãd-ənaŋ /
+# text_fr = 'pendant l'été'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/dyrãd-ənaŋ	durant	préposition-complémenteur	_	_	_	_	_	Gloss=pendant
+2	/	/	PUNCT	_	_	_	_	Gloss=punct

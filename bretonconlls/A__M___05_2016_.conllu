@@ -1,15 +1,15 @@
 # sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
 # text = Me a gred alato e planto Simone patatez er bloavezh-mañ.
-# text_fr =  'Je crois bien sûr que Simone plantera des patates cette année comme son voisin'
+# text_fr = 'Je crois bien sûr que Simone plantera des patates cette année comme son voisin'
 # dialect = Léonard
 # location = Lesneven/Kerlouan
 # source = A. M. (05/2016)
 # texttype = Élicitations
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gred	kredin	?	_	_	_	_	_	Gloss=crois
 4	alato	alato	?	_	_	_	_	_	Gloss=bien.sûr
-5	e	e	?	4	_	_	_	_	Gloss=R
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	planto	planto	?	_	_	_	_	_	Gloss=plantera
 7	Simone	nompropre	?	_	_	_	_	_	Gloss=Simone
 8	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
@@ -18,16 +18,16 @@
 
 # sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
 # text = Me a gred Simone a blanto patatez sur awalc'h/alato er bloavezh-mañ.
-# text_fr =  'Je crois que Simone plantera bien sûr des patates cette année comme son voisin.' 
+# text_fr = 'Je crois que Simone plantera bien sûr des patates cette année comme son voisin.'
 # dialect = Léonard
 # location = Lesneven/Kerlouan
 # source = A. M. (05/2016)
 # texttype = Élicitations
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gred	kredin	?	_	_	_	_	_	Gloss=crois
 4	Simone	nompropre	?	_	_	_	_	_	Gloss=Simone
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	blanto	blanto	?	_	_	_	_	_	Gloss=plantera
 7	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 8	sur	sur	adverbe	_	_	_	_	_	Gloss=|
@@ -35,7 +35,7 @@
 
 # sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
 # text = Ya, un apprenti bennak en deus dekoret pep skotenn.
-# text_fr =  'Oui, un apprenti a décoré chaque gâteau' 
+# text_fr = 'Oui, un apprenti a décoré chaque gâteau'
 # dialect = Léonard
 # location = Lesneven/Kerlouan
 # source = A. M. (05/2016)
@@ -44,7 +44,7 @@
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	un	art	?	_	_	_	_	_	Gloss=un
 4	apprenti	apprenti	?	_	_	_	_	_	Gloss=apprenti
-5	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 6	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
 7	deus	kaout	?	_	_	_	_	_	Gloss=a
 8	dekoret	dekoriñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=décor.é
@@ -54,7 +54,7 @@
 
 # sent_id =  Léon (Lesneven/Kerlouan), A. M. (05/2016)__1
 # text = # Ya, pep skotenn en deus dekoret un apprenti bennak.
-# text_fr =  (c'est l'apprenti qui est décoré) 
+# text_fr = (c'est l'apprenti qui est décoré)
 1	#	#	?	_	_	_	_	_	Gloss=
 2	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -65,12 +65,12 @@
 8	dekoret	dekoriñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=décor.é
 9	un	art	?	_	_	_	_	_	Gloss=un
 10	apprenti	apprenti	?	_	_	_	_	_	Gloss=apprenti
-11	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+11	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
 # text = # Ya, pep skotenn zo bet dekoret gant un apprenti bennak.
-# text_fr =  'Chaque gâteau a été décoré par un apprenti.' 
+# text_fr = 'Chaque gâteau a été décoré par un apprenti.'
 # dialect = Léonard
 # location = Lesneven/Kerlouan
 # source = A. M. (05/2016)
@@ -86,14 +86,14 @@
 9	gant	gant	?	_	_	_	_	_	Gloss=avec
 10	un	art	?	_	_	_	_	_	Gloss=un
 11	apprenti	apprenti	?	_	_	_	_	_	Gloss=apprenti
-12	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+12	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Me a gred neus (#Simone) plantet (Simone) patatez (Simone) er bloavezh-mañ egist he amezog.
-# text_fr =  'Je crois que Simone a planté des patates cette année comme son voisin.'
+# text_fr = 'Je crois que Simone a planté des patates cette année comme son voisin.'
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
 4	neus	kaout	?	_	_	_	_	_	Gloss=a
 5	(#Simone)	nompropre	?	_	_	_	_	_	Gloss=Simone
@@ -104,15 +104,15 @@
 10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 11	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
 12	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-13	he	POSS	?	2	_	_	_	_	Gloss=son
+13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 14	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Me a gred (//?)_[[*]]_ plantet neus Simone patatez er bloavezh-mañ egist he amezog.
-# text_fr =  'Je crois que Simone a planté des patates cette année comme son voisin.' 
+# text_fr = 'Je crois que Simone a planté des patates cette année comme son voisin.'
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gred	gred	?	_	_	_	_	_	Gloss=crois
 4	(//?)_[[*]]_	(//?)_[[*]]_	?	_	_	_	_	_	Gloss=?
 5	plantet	plantet	?	_	_	_	_	_	Gloss=planté
@@ -122,18 +122,18 @@
 9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 10	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
 11	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-12	he	POSS	?	2	_	_	_	_	Gloss=son
+12	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 13	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Me jouch disul an imbisil-se a fardo kig-ha-farz gant soja espress.
-# text_fr =  'Je pense que cet imbécile fera exprès de cuisiner un kig ha farz au soja dimanche.'
+# text_fr = 'Je pense que cet imbécile fera exprès de cuisiner un kig ha farz au soja dimanche.'
 1	jouch	jouch	?	_	_	_	_	_	Gloss=pense
 2	disul	disul	?	_	_	_	_	_	Gloss=dimanche
 3	an	art	?	_	_	_	_	_	Gloss=le
 4	imbisil-se	DEM	?	_	_	_	_	_	Gloss=ci
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	fardo	fardo	?	_	_	_	_	_	Gloss=cuisinera
 7	kig-ha-farz	kig-ha-farz	?	_	_	_	_	_	Gloss=kig-ha-farz
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
@@ -142,66 +142,63 @@
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
-# text = A-wechoù, ar pezh a gaser ganeomp hon unan ([[*]] a)e kaver barzh ar magajinoù.
-# text_fr =  'Des fois, ce qu'on apporte avec soi-même, on le trouve dans les magasins.' 
+# text = A-wechoù, ar pezh a gaser ganeomp hon unan $$$e kaver barzh ar magajinoù.
+# text_fr = 'Des fois, ce qu'on apporte avec soi-même, on le trouve dans les magasins.'
 1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	ar	arpezh	?	_	_	_	_	_	Gloss=ce.que
 4	pezh	pezh	?	_	_	_	_	_	Gloss=?
-5	a	a	préposition	1	_	_	_	_	Gloss=R
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	gaser	kas.IMP	verbe.?	_	_	_	_	_	Gloss=envoie.on
 7	ganeomp	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.nous
 8	hon	POSS	?	_	_	_	_	_	Gloss=notre
-9	unan	unan	quantifieur-pronom	_	_	_	_	_	Gloss=un
-10	([[*]]	([[*]]	?	_	_	_	_	_	Gloss=*
-11	a)e	a)e	?	4	_	_	_	_	Gloss=1]]_/[[R
-12	kaver	kavout	verbe	_	_	_	_	_	Gloss=trouve
-13	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	magajinoù	magazin.-où(PL.)	?.?	_	_	_	_	_	Gloss=magasin.s
-16	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+10	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	magajinoù	magazin.-où(PL.)	?.?	_	_	_	_	_	Gloss=magasin.s
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
 # text = seizh ha daou ugent logodenn vihan brav
-# text_fr =  '47 belles petites souris'
+# text_fr = '47 belles petites souris'
 # location = Lesneven/Kerlouan
 1	seizh	cardinal	?	_	_	_	_	_	Gloss=47
 2	ha	ha	?	_	_	_	_	_	Gloss=?
 3	daou	daou	?	_	_	_	_	_	Gloss=?
 4	ugent	ugent	?	_	_	_	_	_	Gloss=?
 5	logodenn	logod.-enn	nom.nom	_	_	_	_	_	Gloss=souris.SG
-6	vihan	bihan	adjectif-quantifieur-adverbe	1	_	_	_	_	Gloss=petit
-7	brav	brav	adjectif-adverbe	_	_	_	_	_	Gloss=beau
+6	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+7	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Ma viche ket avel, e viche tomm-kenañ.
-# text_fr =  'Si ce n'est le vent, il ferait bien chaud.' 
-1	Ma	ma(r)	?	4	_	_	_	_	Gloss=si
+# text_fr = 'Si ce n'est le vent, il ferait bien chaud.'
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 2	ket	avel	nom	_	_	_	_	_	Gloss=vent
 3	e	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 4	viche	viche	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Pennefe d'an avel e veche gwall-domm.
-# text_fr =  'Si ce n'est le vent, il ferait bien chaud.' 
-1	Pennefe	paneve	complémenteur-préposition	_	_	_	_	_	Gloss=si.ce.n'@est
-2	d'	da	préposition	1	_	_	_	_	Gloss=de
+# text_fr = 'Si ce n'est le vent, il ferait bien chaud.'
+1	Pennefe	paneve	préposition-complémenteur	_	_	_	_	_	Gloss=si.ce.n'@est
+2	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 3	an	art	?	_	_	_	_	_	Gloss=le
 4	avel	avel	nom	_	_	_	_	_	Gloss=vent
-5	e	e	?	4	_	_	_	_	Gloss=R
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	veche	COP	?	_	_	_	_	_	Gloss=serait
-7	gwall-domm	gwall-	adverbe-nom	1	_	_	_	_	Gloss=très
+7	gwall-domm	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(05/2016)__1
 # text = Tristan a gas atao ur gartenn deus a-bell.
-# text_fr =  'Tristan envoie toujours une carte de loin.' 
+# text_fr = 'Tristan envoie toujours une carte de loin.'
 1	Tristan	nompropre	?	_	_	_	_	_	Gloss=Tristan
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	gas	kas	verbe	_	_	_	_	_	Gloss=envoie
 4	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
 5	ur	art	?	_	_	_	_	_	Gloss=un
-6	gartenn	kartenn	nom	1	_	_	_	_	Gloss=carte
+6	gartenn	kartenn	nom	_	_	_	_	_	Gloss=carte|Morph=1
 7	deus	deus	?	_	_	_	_	_	Gloss=de
-8	a-bell	a	préposition	1	_	_	_	_	Gloss=de
+8	a-bell	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

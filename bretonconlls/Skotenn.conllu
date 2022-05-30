@@ -1,0 +1,17 @@
+# sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__1
+# text = pep skotenn zo bet dekoret gant un apprenti bennak.
+# text_fr = 'Chaque gâteau a été décoré par un apprenti.'
+# dialect = Léonard
+# location = Lesneven/Kerlouan
+# source = A. M. (05/2016)
+# texttype = Élicitations
+1	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	skotenn	skotenn	nom	_	_	_	_	_	Gloss=gâteau
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	dekoret	dekoriñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=décor.é
+6	gant	gant	?	_	_	_	_	_	Gloss=avec
+7	un	art	?	_	_	_	_	_	Gloss=un
+8	apprenti	apprenti	?	_	_	_	_	_	Gloss=apprenti
+9	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,14 @@
+# sent_id = Standard,M.Lincoln(05/2014)__1
+# text = An arrebeuri neus bet pep a lufr koar.
+# text_fr = 'Tous les meubles ont été cirés.'
+# source = M. Lincoln (05/2014)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	arrebeuri	arrebeurri	nom	_	_	_	_	_	Gloss=mobilier
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	bet	bet	?	_	_	_	_	_	Gloss=eu
+5	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	lufr	lufr	?	_	_	_	_	_	Gloss=polissage
+8	koar	koar	nom	_	_	_	_	_	Gloss=cire
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

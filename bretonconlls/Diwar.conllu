@@ -1,0 +1,237 @@
+# sent_id = Konan(2017:'diwar')__1
+# text = Diwar gizhier ne deu ket a logod.
+# text_fr = 'Les chiens ne font pas des chats.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Diwar	Diwar	préposition	_	_	_	_	_	Gloss=1
+2	gizhier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	deu	dont	verbe	_	_	_	_	_	Gloss=vient
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	logod	logod	nom	_	_	_	_	_	Gloss=souris
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:31)__1
+# text = Diàr had
+# text_fr = 'en provenance de semis'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Diàr	Diàr	?	_	_	_	_	_	Gloss=de
+2	had	had	nom	_	_	_	_	_	Gloss=semis
+
+# sent_id = Herrieu(1994:57)__2
+# text = Sevel a ra diàrnezhe frond c'hwek an amzer nevez o tivorenniñ.
+# text_fr = 'Monte d'eux l'odeur délicieuse du printemps qui s'éveille.'
+# source = Herrieu (1994)
+1	Sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	diàrnezhe	pronomincorporé	?	_	_	_	_	_	Gloss=eux
+5	frond	frond	nom	_	_	_	_	_	Gloss=odeur
+6	c'hwek	c'hwek	?	_	_	_	_	_	Gloss=délicieux
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+9	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+10	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	tivorenniñ	di-,dis-.morenn.-iñ	?.nom.?	_	_	_	_	_	Gloss=dé.brouillard.er
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:57)__1
+# text = Kalz euz pesketerien Treboul a zo o zud-koz ginidig diwar ar mêz.
+# text_fr = 'Beaucoup de pêcheurs de Tréboul ont leurs grands-parents qui viennent de la campagne.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+2	euz	eus	?	_	_	_	_	_	Gloss=de
+3	pesketerien	pesk.-ed(PL.).-aerien	nom.?.?	_	_	_	_	_	Gloss=poisson.s.eurs
+4	Treboul	nompropre	?	_	_	_	_	_	Gloss=Treboul
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	COP	?	_	_	_	_	_	Gloss=est
+7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	zud-koz	den.plurielinterne.kozh	nom.?.adjectif	_	_	_	_	_	Gloss=parent.s.vieil
+9	ginidig	genel.-idig	verbe.?	_	_	_	_	_	Gloss=nat.if
+10	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	mêz	maez	nom	_	_	_	_	_	Gloss=campagne
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:29)__1
+# text = An dra-se 'zo serrapl diàr al loened.
+# text_fr = 'On peut attraper cela avec les bêtes.' (des dartres)
+# dialect = Vannetais
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+3	'	zo	?	_	_	_	_	_	Gloss=est
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	serrapl	serriñ.-abl	verbe.?	_	_	_	_	_	Gloss=attrap.able
+6	diàr	diàr	?	_	_	_	_	_	Gloss=de
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bête.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:218)__1
+# text = Gwelet e vez diàrnezhi ar c’hornad-bro a-bezh, tre beta kornad al linennoù.
+# text_fr = 'De là, on voit le coin de pays en entier, jusqu’au coin de la ligne de front.'
+# source = Herrieu (1994)
+1	Gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	diàrnezhi	pronomincorporé	?	_	_	_	_	_	Gloss=elle
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c’hornad-bro	korn	nom	_	_	_	_	_	Gloss=coin]]-[[bro|pays|Morph=5
+7	a-bezh	a-bezh	quantifieur-adjectif	_	_	_	_	_	Gloss=en.entier
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tout-à-fait
+10	beta	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu’à
+11	kornad	korn.-ad	nom.?	_	_	_	_	_	Gloss=coin.ée
+12	al	art	?	_	_	_	_	_	Gloss=le
+13	linennoù	linenn.-où(PL.)	?.?	_	_	_	_	_	Gloss=ligne.s
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Perrot(1943:48)__1
+# text = Diwar hiziv e vo peoc’h, en ti-mañ pelloc'h, a drugarez Doue.
+# text_fr = 'A partir d'aujourd'hui, grâce à Dieu, cette maison vivra finalement en paix.'
+# source = Perrot (1943)
+# texttype = Références de corpus
+1	Diwar	Diwar	préposition	_	_	_	_	_	Gloss=de
+2	hiziv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	peoc’h	peoc'h	?	_	_	_	_	_	Gloss=paix
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
+9	pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	drugarez	trugarez	nom-interjection	_	_	_	_	_	Gloss=merci
+13	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:202)__1
+# text = Diwar an devez-se den ebet ne guiteas mui ar gêr.
+# text_fr = 'A partir de ce jour là, plus personne ne quitta plus la maison.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Diwar	Diwar	préposition	_	_	_	_	_	Gloss=de
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	devez-se	deiz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=journ.ée.là
+4	den	den	nom	_	_	_	_	_	Gloss=personne
+5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	guiteas	kuitaat	?	_	_	_	_	_	Gloss=quitta
+8	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:488)__1
+# text = Honnez, tav n'eo ket taget diwar he hentañ gaou!
+# text_fr = 'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge.' (elle est menteuse)
+# source = Gros (1984)
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle-là
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	tav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	taget	tagañ	verbe	_	_	_	_	_	Gloss=blessé
+8	diwar	diwar	préposition	_	_	_	_	_	Gloss=par
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	gaou	gaou	nom	_	_	_	_	_	Gloss=mensonge
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:R.1.2.3)__1
+# text = Kalz o deus kriet diwar o aon.
+# text_fr = 'Beaucoup ont pleuré de peur.'
+# source = Chalm (2008)
+1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	kriet	krial	verbe	_	_	_	_	_	Gloss=pleuré
+5	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+6	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+7	aon	aon	nom	_	_	_	_	_	Gloss=peur
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Jouitteau(2005:183)__1
+# text = Evidout-te, komzet 'zo bet diwar da benn.
+# text_fr = 'Quant à toi, on a parlé de toi.'
+# source = Jouitteau (2005/2010)
+# texttype = Ouvrages de recherche
+1	Evidout-te	evit.pronomincorporé.écho	préposition-complémenteur.?.?	_	_	_	_	_	Gloss=pour.toi.toi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	komzet	komz	verbe	_	_	_	_	_	Gloss=parlé
+4	'	'	?	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+8	da	POSS	?	_	_	_	_	_	Gloss=ta|Morph=1
+9	benn	penn	nom	_	_	_	_	_	Gloss=tête
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Schafer(1995:153)__1
+# text = Ne gomz diwar mann.
+# text_fr = 'Il ne parle de rien.'
+# source = Schafer (1995)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	gomz	komz	verbe	_	_	_	_	_	Gloss=parle
+3	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+4	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:295)__1
+# text = Eveshaet en deus ivez peger bihan eo niver ar soudarded, hag e komz diàr kement-se.
+# text_fr = 'Il a vu aussi le peu de soldats qu'il y avait, et en parle.'
+# source = Herrieu (1994)
+1	Eveshaet	Eveshaet	?	_	_	_	_	_	Gloss=remarqué
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+5	peger	pegen	?	_	_	_	_	_	Gloss=combien
+6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	niver	niver	?	_	_	_	_	_	Gloss=nombre
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	soudarded	soudard.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=soldat.s
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	hag	&	?	_	_	_	_	_	Gloss=et
+13	e	e	?	_	_	_	_	_	Gloss=R
+14	komz	komz	verbe	_	_	_	_	_	Gloss=parle
+15	diàr	diàr	?	_	_	_	_	_	Gloss=de
+16	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'leuskel')__1
+# text = Leuskel a rit diwarnoc'h !
+# text_fr = 'Vous pétez beaucoup !'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Leuskel	leuskel	verbe	_	_	_	_	_	Gloss=lâcher
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	diwarnoc'h	Pronomincorporé	?	_	_	_	_	_	Gloss=vous
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:487)__1
+# text = N'ema ket diwar an dour.
+# text_fr = 'Il n'a pas bu que de l'eau.'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

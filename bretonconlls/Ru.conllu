@@ -1,0 +1,15 @@
+# sent_id = Herrieu(1994:264)__1
+# text = E kement ru e chom skriteloù, get jermaned àrnezhe.
+# text_fr = 'Dans chaque rue, il reste des affiches, écrites en allemand.'
+# source = Herrieu (1994)
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+3	ru	ru	nom	_	_	_	_	_	Gloss=rue
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	chom	chom	verbe	_	_	_	_	_	Gloss=reste
+6	skriteloù	skritell.-où	?.?	_	_	_	_	_	Gloss=affiche.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	get	gant	?	_	_	_	_	_	Gloss=avec
+9	jermaned	jermaned	nom	_	_	_	_	_	Gloss=allemand
+10	àrnezhe	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

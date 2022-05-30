@@ -1,0 +1,49 @@
+# sent_id = Bouzeg(1986:II)__9
+# text = Ne wriont ket war ar memes liñser.
+# text_fr = 'Ils ne sont pas du même bord politique.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	wriont	gwriat	verbe	_	_	_	_	_	Gloss=cousent
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+7	liñser	liñser	?	_	_	_	_	_	Gloss=drap
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau (1984:441)__1
+# text = ha vrrip, [[nom propre|Yann]] ' hont roud nor gass ar liñsen...
+# text_fr = '... et vrrip, Yann s'en fût en prenant le drap.'
+# source2 =  Poullaouen, locuteur né vers 1910
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	vrrip	interjection	?	_	_	_	_	_	Gloss=vrrip
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+6	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7			PUNCT	_	_	_	_	Gloss=punct
+8	hont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	roud	rout	postposition	_	_	_	_	_	Gloss=route
+10	nor	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+11	gass	kas	verbe	_	_	_	_	_	Gloss=envoyer
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	liñsen..	liñsen	?	_	_	_	_	_	Gloss=drap
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:38)__1
+# text = Kroget 'oant get brezel al linselioù.
+# text_fr = 'Ils avaient attaqué la guerre des draps (ébats amoureux).'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Kroget	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+2	'	'	?	_	_	_	_	_	Gloss=R
+3	oant	COP	?	_	_	_	_	_	Gloss=étaient
+4	get	gant	?	_	_	_	_	_	Gloss=avec
+5	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
+6	al	art	?	_	_	_	_	_	Gloss=le
+7	linselioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,65 @@
+# sent_id = Proverbe__1
+# text = Hennezh zo evel ar bleiz, kontant da gaout kuit da reiñ.
+# text_fr = 'Il est comme le loup, recevoir mais pas donner.'
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	bleiz	bleiz	nom	_	_	_	_	_	Gloss=loup
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+10	kuit	kuit	postposition	_	_	_	_	_	Gloss=C
+11	da	da	préposition	_	_	_	_	_	Gloss=?
+12	reiñ	reiñ	verbe	_	_	_	_	_	Gloss=donner
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:347)__1
+# text = 'Vi' bi' kuit ta weled ar viser hag ar baourente(z) dindan o zreid !
+# text_fr = 'Pour ne pas voir la misère et la pauvreté sous leurs pieds !'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	Vi'	Vi'	?	_	_	_	_	_	Gloss=?
+3			PUNCT	_	_	_	_	Gloss=punct
+4	bi'	bezañ	?	_	_	_	_	_	Gloss=être
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=quitte
+6	ta	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	viser	mizer	nom	_	_	_	_	_	Gloss=misère|Morph=1
+10	hag	&	?	_	_	_	_	_	Gloss=et
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	baourente(z)	paour	adjectif	_	_	_	_	_	Gloss=pauvr]].[[-entez|eté|Morph=1
+13	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
+14	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+15	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+16	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:271)__1
+# text = kuit dê beut zort'd
+# text_fr = 'pour ne pas les salir'
+1	kuit	kuit	postposition	_	_	_	_	_	Gloss=kuit
+2	dê	dê	?	_	_	_	_	_	Gloss=dezhe
+3	beut	beut	?	_	_	_	_	_	Gloss=bout
+4	zort'	zort'	?	_	_	_	_	_	Gloss=saotret
+5	d	d	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Elégoët(1982:12)__1
+# text = Sate e veze kaset kuites da vaneañ anezho kement.
+# text_fr = 'Aussi on en apportait beaucoup pour ne plus les remuer ensuite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Sate	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
+5	kuites	kuites	?	_	_	_	_	_	Gloss=C
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	vaneañ	vaneañ	?	_	_	_	_	_	Gloss=remuer
+8	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

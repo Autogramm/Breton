@@ -1,0 +1,41 @@
+# sent_id = Croq(1908:1)__1
+# text = Pa vez da gaout, oh ! neuze eo doun ha ledan e c'hodelloù.
+# text_fr = 'Quand il s'agit de posséder, oh, alors ses poches sont larges et profondes.'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	gaout	gaout	?	_	_	_	_	_	Gloss=avoir
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	oh	interjection	?	_	_	_	_	_	Gloss=oh
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+8	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	doun	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
+11	ha	&	?	_	_	_	_	_	Gloss=et
+12	ledan	ledan	adjectif	_	_	_	_	_	Gloss=large
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	c'hodelloù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:36)__1
+# text = rak daoust ma ne oa ket toull hor godelloù, goullo e oant.
+# text_fr = '... car bien que nous ne soyons pas dépensiers, nos poches étaient vides.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	rak	rak	?	_	_	_	_	_	Gloss=car
+2	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=troué
+8	hor	POSS	?	_	_	_	_	_	Gloss=notre
+9	godelloù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	goullo	goullo	adjectif	_	_	_	_	_	Gloss=vide
+12	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+13	oant	COP	?	_	_	_	_	_	Gloss=étaient
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

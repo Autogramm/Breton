@@ -1,0 +1,39 @@
+# sent_id = Hingant(1868:§117)__1
+# text = Bréma pa oud pinvidik, té a zo gwall c'hloriuz.
+# text_fr = 'Maintenant que tu es riche, tu es bien fier.'
+# source = Hingant (1868)
+# texttype = Ouvrages de recherche
+1	Bréma	breman	?	_	_	_	_	_	Gloss=maintenant
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=que
+3	oud	COP	?	_	_	_	_	_	Gloss=es
+4	pinvidik	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	té	pfi	?	_	_	_	_	_	Gloss=toi
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	zo	zo	?	_	_	_	_	_	Gloss=est
+9	gwall	INT	?	_	_	_	_	_	Gloss=très|Morph=1
+10	c'hloriuz	c'hloriuz	adjectif	_	_	_	_	_	Gloss=fier
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = §139-146)__1
+# text = Hé varc'h n'eo kéd eul loen mâd, neuz fors péger gloruz éc'h oufé béa gant-hañ.
+# text_fr = 'Son cheval n'est pas une bonne bête, quelque fier qu'il en soit.'
+# source = Hingant (1868:§139-146)
+1	Hé	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	varc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	kéd	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	eul	art	?	_	_	_	_	_	Gloss=un
+7	loen	loen	nom	_	_	_	_	_	Gloss=animal
+8	mâd	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	neuz	neuz.E	préposition.?	_	_	_	_	_	Gloss=ne.y.a
+11	fors	forzh	quantifieur	_	_	_	_	_	Gloss=importe
+12	péger	pegen	?	_	_	_	_	_	Gloss=combien
+13	gloruz	gloruz	adjectif	_	_	_	_	_	Gloss=fier
+14	éc'h	éc'h	?	_	_	_	_	_	Gloss=R
+15	oufé	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=saurait
+16	béa	bezan	?	_	_	_	_	_	Gloss=être
+17	gant-hañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

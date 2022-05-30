@@ -1,0 +1,17 @@
+# sent_id = Loqueffret,Solliec(2015)__1
+# text = Lak' 'neoñ beke 'moc'h ' sell' !
+# text_fr = 'Mets-la, puisque tu es en train de regarder !' (ceinture de sécurité)
+# source = Solliec (2015)
+# texttype = Ouvrages de recherche
+1	Lak'	lakaat	verbe	_	_	_	_	_	Gloss=mets
+2			PUNCT	_	_	_	_	Gloss=punct
+3	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+4	neoñ	neoñ	?	_	_	_	_	_	Gloss=?
+5	beke	beke	complémenteur	_	_	_	_	_	Gloss=puisque
+6	'	eman	?	_	_	_	_	_	Gloss=êtes
+7	moc'h	moc'h	?	_	_	_	_	_	Gloss=?
+8	'	particuleo	?	_	_	_	_	_	Gloss=à
+9			PUNCT	_	_	_	_	Gloss=punct
+10	sell'	sellout	verbe	_	_	_	_	_	Gloss=regarder
+11			PUNCT	_	_	_	_	Gloss=punct
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Gros(1970b:'brid')__1
+# text = Ma vije laosket o brid ganto war o moue.
+# text_fr = 'Si on leur laissait la bride sur le cou.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	vije	COP	?	_	_	_	_	_	Gloss=serait
+3	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+5	brid	brid	?	_	_	_	_	_	Gloss=bride
+6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	moue	moue	nom	_	_	_	_	_	Gloss=crinière
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

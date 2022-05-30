@@ -1,0 +1,169 @@
+# sent_id = Madeg(2013:8)__1
+# text = Nag a c'hoarzh a vez ganto !
+# text_fr = 'Qu'est-ce qu'ils nous font rire !'
+# dialect = Léonard
+# source = Madeg (2013)
+# texttype = Ouvrages de recherche
+1	Nag	Nag	?	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	c'hoarzh	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1990:163)__3
+# text = Hag a lizherou a lenne Lenaig !
+# text_fr = 'Que de lettres Lenaig lisait-elle !'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Hag	Hag	?	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	lizherou	lizher.-où(PL.)	nom.?	_	_	_	_	_	Gloss=lettre.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	lenne	lenn(V.)	?	_	_	_	_	_	Gloss=lisait
+6	Lenaig	nompropre	?	_	_	_	_	_	Gloss=Lenaig
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:7)__7
+# text = Nag a wez pilet d'an avel foll !
+# text_fr = 'Que d'arbres abattus par le vent déchainé!'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Nag	Nag	?	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	wez	gwez	nom	_	_	_	_	_	Gloss=arbres
+4	pilet	pilañ	?	_	_	_	_	_	Gloss=abattu
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	avel	avel	nom	_	_	_	_	_	Gloss=vent
+8	foll	foll	adjectif	_	_	_	_	_	Gloss=fou
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:218)__1
+# text = E ma goûg ha rac’h 'm eus bet unan. O ! Na droug !
+# text_fr = 'J’en ai eu aussi un [furoncle] à la gorge. Oh ! Comme ça fait mal!'
+# dialect = Vannetais
+# location = JMh
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	goûg	gouzoug	nom	_	_	_	_	_	Gloss=gorge
+4	ha	&	?	_	_	_	_	_	Gloss=et
+5	rac’h	rac'h	?	_	_	_	_	_	Gloss=tout
+6	'	'	?	_	_	_	_	_	Gloss=1SG
+7	m	kaout	?	_	_	_	_	_	Gloss=a
+8	eus	kaout	?	_	_	_	_	_	Gloss=eu
+9	bet	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+10	unan.	unan.	?	_	_	_	_	_	Gloss=?
+11	O	O	?	_	_	_	_	_	Gloss=Oh
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+13	Na	Na	?	_	_	_	_	_	Gloss=que
+14	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:532)__1
+# text = Nag e kavan hir an amzer!
+# text_fr = 'Que je trouve le temps long !'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Nag	Nag	?	_	_	_	_	_	Gloss=que
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kavan	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:70)__2
+# text = Nag hen a zo diod koulskoude !
+# text_fr = 'Mais qu'est-ce qu'il est bête !'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Nag	Nag	?	_	_	_	_	_	Gloss=que
+2	hen	pfi	?	_	_	_	_	_	Gloss=lui
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	diod	diod	?	_	_	_	_	_	Gloss=idiot
+6	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abeozen(1942:377)__1
+# text = Na me garfe bezañ soudard !
+# text_fr = 'Que j'aimerais être soldat !'
+# dialect = Léonard
+# source = Abeozen (1942)
+# texttype = Références de corpus
+1	Na	Na	?	_	_	_	_	_	Gloss=que
+2	garfe	karout	verbe	_	_	_	_	_	Gloss=aimerais
+3	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+4	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:532)__1
+# text = Nag eo hir an hent !
+# text_fr = 'Que la route est longue !'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Nag	Nag	?	_	_	_	_	_	Gloss=que
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	hent	hent	nom	_	_	_	_	_	Gloss=route
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:214)__5
+# text = Ar pemoc'h, nag e rae un toull en douar, 'rae ket droug ebet anezhoñ.
+# text_fr = 'Le cochon, même s'il faisait des trous dans le sol, il ne faisait aucun mal.'
+# dialect = Vannetais
+# location = Jo Sergent
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	pemoc'h	pemoc'h	?	_	_	_	_	_	Gloss=cochon
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	nag	nag	?	_	_	_	_	_	Gloss=bien.que
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+7	un	art	?	_	_	_	_	_	Gloss=un
+8	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+11	rae	rae	?	_	_	_	_	_	Gloss=?
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+14	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+15	anezhoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes (1970:325)__1
+# text = Nag e vefent bet er mor
+# text_fr = 'bien qu'ils eussent été en mer'
+# text_phon = ['/nag', 'əfəXen', 'ped', 'e-r', 'mour /']
+1	Nag	Nag	?	_	_	_	_	_	Gloss=bien.que
+2	e	e.COP	?.?	_	_	_	_	_	Gloss=R.seraient
+3	vefent	vefent	?	_	_	_	_	_	Gloss=?
+4	bet	mont	verbe	_	_	_	_	_	Gloss=bet
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	mor	mor	nom	_	_	_	_	_	Gloss=mer
+
+# sent_id = Ternes (1970:326)__1
+# text = Ar vugale a zeue atav, na veze ket bet kalz argant.
+# text_fr = 'Les enfants venaient tout de même, bien qu'il n'y eût pas beucoup d'argent.'
+# text_phon = ['/ərvyga:le ze ta:w,', 'na vəXeče be', 'kalz argãt /']
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zeue	dont	verbe	_	_	_	_	_	Gloss=venait
+5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	na	na	?	_	_	_	_	_	Gloss=bien.que
+8	veze	COP.ket	?.adverbe	_	_	_	_	_	Gloss=était.pas
+9	ket	bet	adverbe	_	_	_	_	_	Gloss=eu
+10	bet	bet	?	_	_	_	_	_	Gloss=?
+11	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+12	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,19 @@
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = Amelia e neus c'hoarzhet pa neus komprenet e noa en em dromplet.
+# text_fr = 'Amélia a ri parce qu'elle a compris son erreur.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Amelia	nompropre	?	_	_	_	_	_	Gloss=Amelia
+2	e	e	?	_	_	_	_	_	Gloss=3SG
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	c'hoarzhet	c'hoarzin	?	_	_	_	_	_	Gloss=ri
+5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+6	neus	kaout	?	_	_	_	_	_	Gloss=a
+7	komprenet	kompren.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=compri.s
+8	e	e	?	_	_	_	_	_	Gloss=3SG
+9	noa	kaout	?	_	_	_	_	_	Gloss=avait
+10	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+11	em	em	?	_	_	_	_	_	Gloss=?
+12	dromplet	tromplañ	?	_	_	_	_	_	Gloss=trompé
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,60 @@
+# sent_id = Stephens(1982:101)__1
+# text = Lomig a raio d'ar vugale dastum avaloù.
+# text_fr = 'Lomig fera ramasser des pommes aux enfants.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Lomig	nompropre	?	_	_	_	_	_	Gloss=Lomig
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+4	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	dastum	dastum	verbe	_	_	_	_	_	Gloss=récolter
+8	avaloù	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArGo(1950:8)__1
+# text = Hogen ouzhpenn eun dastumer pe aozer marvailhou e oa Yann ar Floc'h.
+# text_fr = 'Mais Yann ar Floc'h était plus qu'un collecteur ou créateur de contes.'
+# location = Pleyben
+# source = Ar Go (1950)
+# texttype = Références de corpus
+1	Hogen	hogen	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=mais
+2	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+3	eun	art	?	_	_	_	_	_	Gloss=un
+4	dastumer	-er	?	_	_	_	_	_	Gloss=eur
+5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+6	aozer	aozañ.-er	verbe.?	_	_	_	_	_	Gloss=créat.eur
+7	marvailhou	marvailh.-où	nom.?	_	_	_	_	_	Gloss=conte.s
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	Yann	Yann	?	_	_	_	_	_	Gloss=[[nompropre|Yann
+11	ar	ar	?	_	_	_	_	_	Gloss=ar
+12	Floc'h	Floc'h	?	_	_	_	_	_	Gloss=Flocxxxh]]]
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:25)__1
+# text = Kaol, strev panez a ranken da zastum bemdez...
+# text_fr = 'Chaque jour, je devais ramasser des choux et des fânes de panais... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Kaol	kaol	nom	_	_	_	_	_	Gloss=choux
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	strev	strev	?	_	_	_	_	_	Gloss=fânes
+4	panez	panez	nom	_	_	_	_	_	Gloss=panais
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	ranken	rankout	verbe	_	_	_	_	_	Gloss=devais
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zastum	zastum	?	_	_	_	_	_	Gloss=ramasser
+9	bemdez..	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:18)__1
+# text = evit ramañs ar gourlañioù...
+# text_fr = 'pour ramasser le goémon d'épave... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ramañs	ramañs	?	_	_	_	_	_	Gloss=ramasser

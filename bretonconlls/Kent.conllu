@@ -1,0 +1,85 @@
+# sent_id = ArBorgn(2011:25)__2
+# text = Red eo komañs kent achu.
+# text_fr = 'Il faut commencer avant de finir (proverbe).'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Red	ret	?	_	_	_	_	_	Gloss=obligé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	komañs	komañs	verbe	_	_	_	_	_	Gloss=commencer
+4	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+5	achu	achu	?	_	_	_	_	_	Gloss=finir
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Langleiz(1943:13)__1
+# text = Ne c'hell ket mui va c'harout evel agent !
+# text_fr = 'Elle ne peut plus m'aimer comme autrefois.'
+# source = Langleiz (1943)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+5	va	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+6	c'harout	karout	verbe	_	_	_	_	_	Gloss=aimer
+7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+8	agent	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:12)__1
+# text = kent antreal er c'hlas
+# text_fr = 'avant d'entrer en classe'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+2	antreal	-al(V.)	?	_	_	_	_	_	Gloss=er
+3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	c'hlas	c'hlas	?	_	_	_	_	_	Gloss=5
+
+# sent_id = ArMeliner(2009:105)__1
+# text = Un arrest a ra Alan kent digor kloued ar liorzh.
+# text_fr = 'Alan s'arrête avant d'ouvrir la barrière du jardin.'
+# source = Ar Meliner (2009)
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	arrest	arrest	?	_	_	_	_	_	Gloss=arrêt
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	Alan	Alan	?	_	_	_	_	_	Gloss=Alan
+6	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+7	digor	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+8	kloued	kloued	nom	_	_	_	_	_	Gloss=barrière
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	liorzh	liorzh	nom	_	_	_	_	_	Gloss=jardin
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1966:233)__1
+# text = Ha ken seder goude evel kent.
+# text_fr = 'Et d'aussi bonne humeur après qu'avant.'
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	seder	seder	adverbe-adjectif	_	_	_	_	_	Gloss=gai
+3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+5	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kernaudour (2017:7, 11)__1
+# text = kent ma sortio deus a Vreizh  ''Graphie peurunvan''
+# text_fr = 'avant qu'elle ne s'expatrie'
+# text_phon = ['quent', 'ma', 'sortiou', 'deus', 'a', 'vreis']
+1	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	sortio	sortial	verbe	_	_	_	_	_	Gloss=sortira
+4	deus	deus	?	_	_	_	_	_	Gloss=de
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	Vreizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+7	??	??	?	_	_	_	_	_	Gloss=???
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	'	?	_	_	_	_	_	Gloss=???
+10	'	'	?	_	_	_	_	_	Gloss=?
+11	Graphie	Graphie	?	_	_	_	_	_	Gloss=?
+12	peurunvan'	peurunvan'	?	_	_	_	_	_	Gloss=?
+13	'	'	?	_	_	_	_	_	Gloss=?
+14			PUNCT	_	_	_	_	Gloss=punct

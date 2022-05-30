@@ -1,0 +1,128 @@
+# sent_id = Gros(1984:199)__1
+# text = N'eo ket keid-se oll ahann.
+# text_fr = 'Ce n'est pas vraiment tellement loin d'ici.'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	keid-se	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.long
+5	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+6	ahann	ahann	?	_	_	_	_	_	Gloss=de.là
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:176)__1
+# text = Pa zegouezo deoh mond ahannig.
+# text_fr = 'Quand vous devrez partir d'ici.'
+# source = Gros (1984)
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	zegouezo	degouezhout	verbe	_	_	_	_	_	Gloss=arrivera
+3	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+4	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+5	ahannig	ahannig	?	_	_	_	_	_	Gloss=DIM
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:401)__1
+# text = Ha  Per prim ac'hano d'ar gêr.
+# text_fr = 'Pierre s'en alla prestement à la maison.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	??	??	?	_	_	_	_	_	Gloss=[
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	Per	nompropre	nom	_	_	_	_	_	Gloss=Pierre
+5	prim	prim	?	_	_	_	_	_	Gloss=prestement
+6	ac'hano	eno	?	_	_	_	_	_	Gloss=y
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:39)__1
+# text = Atav e kav din e welan anezho ac'halenn ...
+# text_fr = 'Il me semble encore les voir d'ici... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	welan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+7	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+8	ac'halenn	ac'halenn	?	_	_	_	_	_	Gloss=de.là
+9	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:10)__1
+# text = N'em eus gwelet liou ebet anezan abaoue ma'z eo eat ac'halen...
+# text_fr = 'Je ne l'ai pas vu depuis qu'il est parti d'ici... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	em	em	?	_	_	_	_	_	Gloss=R
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	liou	liv	nom	_	_	_	_	_	Gloss=couleur
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	anezan	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+8	abaoue	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
+9	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+10	z	z	?	_	_	_	_	_	Gloss=?
+11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+12	eat	mont	verbe	_	_	_	_	_	Gloss=allé
+13	ac'halen..	ac'halen..	?	_	_	_	_	_	Gloss=de.ici
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:198)__1
+# text = Deus ahalese. Ne welez ket e tenner warnout.
+# text_fr = 'Tire-toi de là. Tu vois pas qu'on te tire dessus.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
+2	ahalese	ahalese	?	_	_	_	_	_	Gloss=de.là
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+4	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	welez	gwelout	verbe	_	_	_	_	_	Gloss=vois
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	tenner	tennañ.IMP	verbe.?	_	_	_	_	_	Gloss=tire.on
+9	warnout	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.toi
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1996:118)__1
+# text = mar teu hemañ diwar dour bervet, emañ pell ahann.
+# text_fr = 'S'il provient d'une eau bouillante, elle se trouve loin d'ici.' (il est froid)
+# source = Gros (1996)
+1	mar	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+3	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+4	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+5	dour	dour	nom	_	_	_	_	_	Gloss=eau
+6	bervet	berv	adjectif	_	_	_	_	_	Gloss=bouillante
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=se.trouve
+9	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
+10	ahann	ahann	?	_	_	_	_	_	Gloss=de.là
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:39)__1
+# text = d'am diwall ac'han m'eo bet digoret ar voest.
+# text_fr = 'pour me surveiller jusqu'à l'ouverture de l'urne'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	d'	da	préposition	_	_	_	_	_	Gloss=pour
+2	am	POP	?	_	_	_	_	_	Gloss=me
+3	diwall	diwall	verbe	_	_	_	_	_	Gloss=surveiller
+4	ac'han	ac'han	?	_	_	_	_	_	Gloss=jusqu.à
+5	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
+6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	bet	bet	?	_	_	_	_	_	Gloss=été
+8	digoret	digeriñ	?	_	_	_	_	_	Gloss=ouvert
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	voest	boest	nom	_	_	_	_	_	Gloss=boîte|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

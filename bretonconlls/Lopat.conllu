@@ -1,0 +1,16 @@
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = Unan mennak 'zo o lopat war an nor.
+# text_fr = 'On frappe à la porte.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	mennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	'	zo	?	_	_	_	_	_	Gloss=est
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	lopat	lopat	verbe	_	_	_	_	_	Gloss=frapper
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	nor	dor	nom	_	_	_	_	_	Gloss=porte
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

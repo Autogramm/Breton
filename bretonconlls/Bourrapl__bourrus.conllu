@@ -1,0 +1,60 @@
+# sent_id = Drezen(1932:5)__1
+# text = War a glevan ez eus [...] ur gêr a zo bourrus bevañ enni...
+# text_fr = 'On dit que [...] il existe une cité au séjour enchanté... '
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	War	war	?	_	_	_	_	_	Gloss=sur
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	glevan	klevout	verbe	_	_	_	_	_	Gloss=entends
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+6	[...]	[...]	?	_	_	_	_	_	Gloss=
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	gêr	kêr	nom	_	_	_	_	_	Gloss=ville|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R
+10	zo	zo	?	_	_	_	_	_	Gloss=est
+11	bourrus	bourrus	?	_	_	_	_	_	Gloss=plaisant
+12	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+13	enni..	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:188)__1
+# text = Doc'h an tu-mañ ne vezont ket forzh bourrus naket !
+# text_fr = 'De ce côté-ci ils ne sont pas très agréables non plus !'
+# source = Herrieu (1994)
+1	Doc'h	doc'h	?	_	_	_	_	_	Gloss=de
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	tu-mañ	tu	nom	_	_	_	_	_	Gloss=côté
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
+8	bourrus	bourrus	?	_	_	_	_	_	Gloss=plaisant
+9	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ar Borgn (2011:83)__1
+# text = Un taolad bourrapl ni boa gwraet barzh amañ.
+# text_fr = 'On a vécu ici un bon moment d'ambiance.'
+# source2 =  Le Scorff, J. Danvic, Plouay
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	taolad	taol(M.).-ad	?.?	_	_	_	_	_	Gloss=coup.coup
+3	bourrapl	bourrapl	?	_	_	_	_	_	Gloss=joyeux
+4	ni	pfi	?	_	_	_	_	_	Gloss=nous
+5	boa	kaout	?	_	_	_	_	_	Gloss=avait
+6	gwraet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+8	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1974:54)__1
+# text = evit kompren pegen divourrus eo
+# text_fr = '... pour comprendre combien c'est déplaisant.'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	kompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
+3	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+4	divourrus	di-,dis-	?	_	_	_	_	_	Gloss=dé]|Morph=1
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est

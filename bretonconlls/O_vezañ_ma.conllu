@@ -1,0 +1,15 @@
+# sent_id = Gros(1989:'dibennet')__1
+# text = Lom a oa droug ennañ o vezañ ma oa dibennet.
+# text_fr = 'Guillaume était en colère parce qu'il n'était plus héritier unique.'
+# source = Gros (1989)
+1	Lom	Lom	?	_	_	_	_	_	Gloss=Lom
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+5	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+6	o	o	?	_	_	_	_	_	Gloss=à.être.que
+7	vezañ	vezañ	?	_	_	_	_	_	Gloss=?
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	dibennet	di-	?	_	_	_	_	_	Gloss=dé-|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

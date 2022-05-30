@@ -1,0 +1,17 @@
+# sent_id = Trépos(2001:§592)__1
+# text = N'ouzon ket ha bez' e vo kreñv a-walh ar jadenn.
+# text_fr = 'Je ne sais pas si la chaîne sera assez forte.'
+# source = Trépos (2001)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ha	Q	?	_	_	_	_	_	Gloss=si
+5	bez'	bez'	?	_	_	_	_	_	Gloss=être
+6			PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	vo	COP	?	_	_	_	_	_	Gloss=sera
+9	kreñv	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+10	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	jadenn	jadenn	?	_	_	_	_	_	Gloss=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

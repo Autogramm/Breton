@@ -1,0 +1,34 @@
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Kement a vall e oa warnañ da vont kuit en neus lesket e holl draoù war e lerc'h.
+# text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	vall	vall	?	_	_	_	_	_	Gloss=hâte
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+10	en	en	complémenteur	_	_	_	_	_	Gloss=R
+11	neus	kaout	?	_	_	_	_	_	Gloss=a
+12	lesket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout|Morph=1
+15	draoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+16	war	war	?	_	_	_	_	_	Gloss=sur
+17	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+18	lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=suite
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:XXIV)__1
+# text = Mall eo gantañ.
+# text_fr = 'Il a hâte.'
+# source = Vallée (1980)
+1	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+3	.	.	PUNCT	_	_	_	_	Gloss=punct

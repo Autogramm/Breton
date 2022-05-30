@@ -1,0 +1,245 @@
+# sent_id = Seite(1998:136)__1
+# text = Méd hastom buan bremañ evid deom da veza a-raog an noz e Konkerne.
+# text_fr = 'Mais pressons-nous maintenant pour être à Concarneau avant la nuit.'
+# dialect = Léonard
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Méd	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	hastom	hastañ	verbe	_	_	_	_	_	Gloss=pressons
+3	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+4	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+5	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	veza	bezañ	?	_	_	_	_	_	Gloss=être
+9	a-raog	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+12	e	P.e	?	_	_	_	_	_	Gloss=à
+13	Konkerne	nompropre	?	_	_	_	_	_	Gloss=Concarneau
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:51)__2
+# text = Daoust dezhañ da vezañ krommet un tammmig gant ar boan-gein...
+# text_fr = 'bien qu'il soit un peu courbé par le mal de dos... '.
+# source = ar Barzhig (1976)
+1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+2	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	krommet	kromm.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=courb.é
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	tammmig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	boan-gein..	poan	nom	_	_	_	_	_	Gloss=douleur]]-_[[1]]_[[kein|dos|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§346)__3
+# text = abalamour dezañ da zond en-dro
+# text_fr = 'pour pouvoir retourner'
+# location = Bigouden
+# source = Trépos (2001)
+1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause
+2	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	zond	dont	verbe	_	_	_	_	_	Gloss=venir
+5	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de-retour
+
+# sent_id = Kerrain(2010:79)__1
+# text = Ret e vo deoc'h kas ho mab d'ar skol, dezhañ da zeskiñ lenn ha skrivañ.
+# text_fr = 'Vous allez devoir envoyer votre fils à l'école pour qu'il apprenne à lire et à écrire.'
+# source = Kerrain (2010)
+# texttype = Ouvrages pédagogiques
+1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	kas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+6	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+7	mab	mab	nom	_	_	_	_	_	Gloss=fils
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	skol	skol	nom	_	_	_	_	_	Gloss=école
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+13	da	da	préposition	_	_	_	_	_	Gloss=P|Morph=1
+14	zeskiñ	deskiñ	verbe	_	_	_	_	_	Gloss=apprendre
+15	lenn	lenn(V.)	?	_	_	_	_	_	Gloss=lire
+16	ha	&	?	_	_	_	_	_	Gloss=et
+17	skrivañ	skrivañ	verbe	_	_	_	_	_	Gloss=écrire
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:152)__1
+# text = Ma vefe brao an amzer deom [ da gerc'had an traou ].
+# text_fr = 'S'il faisait beau pour que nous allions chercher les affaires !'
+# source = Gros (1970)
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	vefe	COP	?	_	_	_	_	_	Gloss=était
+3	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+7	[	[	?	_	_	_	_	_	Gloss=
+8	da	da	préposition	_	_	_	_	_	Gloss=1
+9	gerc'had	kerc'hat	?	_	_	_	_	_	Gloss=chercher
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+12	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1970:150)__1
+# text = Ar re-ze n'int ket eur botou da [ eun den da vale ].
+# text_fr = 'Ceux-là ne sont pas des sabots avec lesquels un homme peut marcher.'
+# source = Gros (1970)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	eur	art	nom	_	_	_	_	_	Gloss=un
+7	botou	botez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=sabot.s
+8	da	da	préposition	_	_	_	_	_	Gloss=1
+9	[	[	?	_	_	_	_	_	Gloss=?
+10	eun	art	?	_	_	_	_	_	Gloss=un
+11	den	den	nom	_	_	_	_	_	Gloss=homme
+12	da	da	préposition	_	_	_	_	_	Gloss=1
+13	vale	bale	verbe	_	_	_	_	_	Gloss=marcher
+14	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Trépos(1980:261)__1
+# text = Deuit tostoc'h eta evit din ho klevet gwelloc'h.
+# text_fr = 'Venez donc plus près que je puisse vous entendre mieux.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Deuit	dont	verbe	_	_	_	_	_	Gloss=venez
+2	tostoc'h	tost.-oc'h	adjectif.?	_	_	_	_	_	Gloss=près.plus
+3	eta	eta	?	_	_	_	_	_	Gloss=donc
+4	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+6	ho	POP	?	_	_	_	_	_	Gloss=vous
+7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+8	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(1980:261)__1
+# text = Deuit tostoc'h eta evid-on d' ho klevet gwelloc'h.
+# text_fr = 'Venez donc plus près que je puisse vous entendre mieux.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Deuit	dont	verbe	_	_	_	_	_	Gloss=venez
+2	tostoc'h	tost.-oc'h	adjectif.?	_	_	_	_	_	Gloss=près.plus
+3	eta	eta	?	_	_	_	_	_	Gloss=donc
+4	evid-on	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.moi
+5	d'	da	préposition	_	_	_	_	_	Gloss=de
+6			PUNCT	_	_	_	_	Gloss=punct
+7	ho	POP	?	_	_	_	_	_	Gloss=vous
+8	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+9	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1995:§278)__1
+# text = Evitañ da gavout mat / Evit dezhañ kavout mat
+# text_fr = 'bien qu'il apprécie.'
+# source = Kervella (1995)
+1	Evitañ	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.lui
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	gavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+5	/	/	?	_	_	_	_	_	Gloss=
+6	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+8	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+9	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+
+# sent_id = Kervella(1995:§278)__1
+# text = Evit Yann da vezañ kozh / Evit da Yann bezañ kozh
+# text_fr = 'bien que Yann soit vieux.'
+# source = Kervella (1995)
+1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+6	/	/	?	_	_	_	_	_	Gloss=
+7	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	da	da	préposition	_	_	_	_	_	Gloss=de
+9	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+10	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+11	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+
+# sent_id = Gros(1970:157)__1
+# text = Hennez a zo c'hwezet, _ dezañ [ da veza paour ].
+# text_fr = 'Celui-là est fier, bien qu'il soit pauvre.'
+# source = Gros (1970)
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	c'hwezet	c'hwezañ	?	_	_	_	_	_	Gloss=fier
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	_	_	?	_	_	_	_	_	Gloss=_
+7	dezañ	dezañ	?	_	_	_	_	_	Gloss=P.3SGM
+8	[	[	?	_	_	_	_	_	Gloss=
+9	da	da	préposition	_	_	_	_	_	Gloss=1
+10	veza	bezañ	?	_	_	_	_	_	Gloss=être
+11	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+12	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Trépos(1980:261)__1
+# text = Deuit tostoc'h eta evid d-in  ho klevet gwelloc'h
+# text_fr = 'Venez donc plus près que je puisse vous entendre mieux.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Deuit	dont	verbe	_	_	_	_	_	Gloss=venez
+2	tostoc'h	tost.-oc'h	adjectif.?	_	_	_	_	_	Gloss=près.plus
+3	eta	eta	?	_	_	_	_	_	Gloss=donc
+4	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	d-in	da	préposition	_	_	_	_	_	Gloss=P
+6	ho	POP	?	_	_	_	_	_	Gloss=vous
+7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+
+# sent_id = Trépos(1980:261)__1
+# text = Deuit tostoc'h eta evid-on d'  ho klevet gwelloc'h
+# text_fr = 'Venez donc plus près que je puisse vous entendre mieux.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Deuit	dont	verbe	_	_	_	_	_	Gloss=venez
+2	tostoc'h	tost.-oc'h	adjectif.?	_	_	_	_	_	Gloss=près.plus
+3	eta	eta	?	_	_	_	_	_	Gloss=donc
+4	evid-on	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	d'	da	préposition	_	_	_	_	_	Gloss=P
+6			PUNCT	_	_	_	_	Gloss=punct
+7	ho	POP	?	_	_	_	_	_	Gloss=vous
+8	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+
+# sent_id = Espagnol,Rivas(1977:176)__1
+# text = Maria obligo [ a José ] [ a tocar la flauta ].
+# text_fr = 'Maria a obligé José à jouer de la flûte.'
+1	Maria	Maria	?	_	_	_	_	_	Gloss=Maria
+2	obligo	obligo	?	_	_	_	_	_	Gloss=obligea
+3	[	[	?	_	_	_	_	_	Gloss=
+4	a	a	préposition	_	_	_	_	_	Gloss='@'@P'@'@
+5	José	José	?	_	_	_	_	_	Gloss=José
+6	]	]	?	_	_	_	_	_	Gloss=?
+7	[	[	?	_	_	_	_	_	Gloss=
+8	a	a	préposition	_	_	_	_	_	Gloss=à
+9	tocar	tocar	?	_	_	_	_	_	Gloss=jouer
+10	la	la	?	_	_	_	_	_	Gloss=la
+11	flauta	flauta	?	_	_	_	_	_	Gloss=flute
+12	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Espagnol,Rivas(1977:176)__1
+# text = Maria le permitio [ _ tocar la flauta ] [ a José ].
+# text_fr = 'Maria a permis à José de jouer de la flûte.'
+1	Maria	Maria	?	_	_	_	_	_	Gloss=Maria
+2	le	le	?	_	_	_	_	_	Gloss=cl
+3	permitio	permitio	?	_	_	_	_	_	Gloss=permit
+4	[	[	?	_	_	_	_	_	Gloss=
+5	_	_	?	_	_	_	_	_	Gloss=jouer
+6	tocar	tocar	?	_	_	_	_	_	Gloss=la
+7	la	la	?	_	_	_	_	_	Gloss=flute
+8	flauta	flauta	?	_	_	_	_	_	Gloss=?
+9	]	]	?	_	_	_	_	_	Gloss=?
+10	[	[	?	_	_	_	_	_	Gloss=
+11	a	a	préposition	_	_	_	_	_	Gloss='@'@P'@'@
+12	José	José	?	_	_	_	_	_	Gloss=José
+13	].	].	?	_	_	_	_	_	Gloss=?

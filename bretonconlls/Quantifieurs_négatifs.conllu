@@ -1,0 +1,21 @@
+# sent_id = Briant-Cadiou(1998:45)__1
+# text = … hag ano ebed da ober eur housk da greisteiz evel ar wazed.
+# text_fr = '… et pas question de faire un somme à midi comme les hommes.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	…	…	?	_	_	_	_	_	Gloss=…
+2	hag	&	?	_	_	_	_	_	Gloss=et
+3	ano	anv	nom	_	_	_	_	_	Gloss=nom
+4	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	eur	art	nom	_	_	_	_	_	Gloss=un
+8	housk	kousk	verbe	_	_	_	_	_	Gloss=sommeil|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	greisteiz	greisteiz	?	_	_	_	_	_	Gloss=midi
+11	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	wazed	gwaz	?	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

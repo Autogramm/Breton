@@ -1,0 +1,36 @@
+# sent_id = Kervella(2009:187)__3
+# text = Dabord ez in da winkal e-giz ur bouch bihan.
+# text_fr = 'Tout à l'heure j'irai ruer comme un petit poulain.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Dabord	dabort	adverbe	_	_	_	_	_	Gloss=bientôt
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	in	mont	verbe	_	_	_	_	_	Gloss=irai
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	winkal	gwinkal	verbe	_	_	_	_	_	Gloss=ruer
+6	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	bouch	bouch	nom	_	_	_	_	_	Gloss=poulain
+9	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gourvez')__1
+# text = An ebeulez na oa ket bet pell o skei ar harr en e hourvez.
+# text_fr = 'La pouliche ne fut pas longue à renverser la charrette.'
+# source = Gros (1989)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	ebeulez	ebeulez	?	_	_	_	_	_	Gloss=pouliche
+3	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	pell	pell	adjectif	_	_	_	_	_	Gloss=long
+8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	skei	skeiñ	verbe	_	_	_	_	_	Gloss=cogner
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	harr	karr	nom	_	_	_	_	_	Gloss=voiture|Morph=5
+12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	hourvez	gourvez	nom	_	_	_	_	_	Gloss=couché
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

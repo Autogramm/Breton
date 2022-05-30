@@ -1,0 +1,47 @@
+# sent_id = LeGall(1957:'horvad')__3
+# text = Deh e oa eur hovad melchon gand ar zaout...
+# text_fr = 'Les vaches ont mangé une ventrée de trèfle hier... '
+# source = Le Gall (1957)
+1	Deh	dec'h	?	_	_	_	_	_	Gloss=hier
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	hovad	kof	nom	_	_	_	_	_	Gloss=ventre]].[[-ad|ée|Morph=5
+6	melchon	melchon	nom	_	_	_	_	_	Gloss=trèfle
+7	gand	gant	?	_	_	_	_	_	Gloss=avec
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	zaout..	zaout..	?	_	_	_	_	_	Gloss=vaches
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Doujet(2016:21)__1
+# text = gobèr ardro er seud.
+# text_fr = 'S'occuper des vaches'
+# dialect = Vannetais
+# source = Doujet (2016)
+# texttype = Ouvrages de recherche
+1	gobèr	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	ardro	war-dro	préposition	_	_	_	_	_	Gloss=autour
+3	er	art	?	_	_	_	_	_	Gloss=le
+4	seud	seud	?	_	_	_	_	_	Gloss=vaches
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = ar zaout a veze lazet en Eusa [...] deuent ket deuz an douar-braz.
+# text_fr = 'Les vaches qui étaient tuées à Ouessant [...] ne venaient pas du continent.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	zaout	zaout	?	_	_	_	_	_	Gloss=vaches
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	lazet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	Eusa	nompropre	?	_	_	_	_	_	Gloss=Ouessant
+8	[...]	[...]	?	_	_	_	_	_	Gloss=?
+9	deuent	dont	verbe	_	_	_	_	_	Gloss=venaient
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	deuz	deus	?	_	_	_	_	_	Gloss=de
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	douar-braz	douar	nom	_	_	_	_	_	Gloss=terre
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

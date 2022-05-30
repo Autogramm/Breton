@@ -1,0 +1,15 @@
+# sent_id = ArMeliner(2009:64)__1
+# text = a pa zas an Aotrou d'ober skarzhiñ ar gambr...
+# text_fr = '... quand le propriétaire vint faire libérer la chambre'
+# source = Ar Meliner (2009)
+1	a	hapa	?	_	_	_	_	_	Gloss=quand]|Morph=1
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
+3	zas	dont	verbe	_	_	_	_	_	Gloss=vint
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=Monsieur
+6	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+8	skarzhiñ	skarzhiñ	?	_	_	_	_	_	Gloss=évacuer
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gambr..	kambr	nom	_	_	_	_	_	Gloss=chambre|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

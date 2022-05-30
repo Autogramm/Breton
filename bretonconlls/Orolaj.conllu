@@ -1,0 +1,26 @@
+# sent_id = Trépos(1956:78)__1
+# text = Poent  sevel i vwijou d'an orolaj.
+# text_fr = 'Il est temps de remonter l'horloge.'
+# location = Plozévet
+# source = Trépos (1956)
+# texttype = Ouvrages de recherche
+1	Poent	poent	nom	_	_	_	_	_	Gloss=temps
+2	??	COP	?	_	_	_	_	_	Gloss=est
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
+5	i	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	vwijou	pouez.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=poid.s
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	orolaj	orolaj	nom	_	_	_	_	_	Gloss=horloge
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:23)__1
+# text = soubenn ar poueziou orolaj.
+# text_fr = 'de la soupe très maigre.'
+# source = Gros (1984)
+1	soubenn	soubenn	nom	_	_	_	_	_	Gloss=soupe
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	poueziou	pouez.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=poids.s
+4	orolaj	orolaj	nom	_	_	_	_	_	Gloss=horloge
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

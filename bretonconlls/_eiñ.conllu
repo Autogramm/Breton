@@ -1,14 +1,14 @@
 # sent_id = Berthou(1985:76)__1
 # text = N'heller ken treiñ ar seurt traoù-mañ e galleg.
-# text_fr =  'On ne peut plus traduire ces choses en français.'
+# text_fr = 'On ne peut plus traduire ces choses en français.'
 # source = Berthou (1985)
 # texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	heller	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=peut.on
-3	ken	ken	complémenteur-adverbe	_	_	_	_	_	Gloss=plus
+3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
 4	treiñ	treiñ	verbe	_	_	_	_	_	Gloss=traduire
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	seurt	seurt	adjectif-quantifieur-préposition-nom	_	_	_	_	_	Gloss=sorte
+6	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
 7	traoù-mañ	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
 8	e	P.e	?	_	_	_	_	_	Gloss=en
 9	galleg	galleg	nom	_	_	_	_	_	Gloss=français
@@ -16,29 +16,29 @@
 
 # sent_id = Guillevic&LeGoff(1986:80)__1
 # text = Get ou des de zoujein !
-# text_fr =  'Combien ils ont à craindre !'
+# text_fr = 'Combien ils ont à craindre !'
 # source = Guillevic & Le Goff (1986)
 1	Get	gant	?	_	_	_	_	_	Gloss=exclamatif
 2	ou	ou	?	_	_	_	_	_	Gloss=3PL
 3	des	kaout	?	_	_	_	_	_	Gloss=a
-4	de	da	préposition	1	_	_	_	_	Gloss=à
+4	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 5	zoujein	zoujein	?	_	_	_	_	_	Gloss=craindre
-6	!	!	?	_	_	_	_	_	Gloss=?
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Vannetais,Guillome(1836)__1
 # text = Te garehe, té, bihuein hemb labourat ?
-# text_fr =  'Tu aimerais, toi, vivre sans travailler ?'
+# text_fr = 'Tu aimerais, toi, vivre sans travailler ?'
 # source = Guillome (1836)
 1	garehe	karout	verbe	_	_	_	_	_	Gloss=aimerais
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	bihuein	bevañ	verbe	_	_	_	_	_	Gloss=vivre
 4	hemb	hep	préposition	_	_	_	_	_	Gloss=sans
 5	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
-6	?	?	?	_	_	_	_	_	Gloss=?
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§247)__1
 # text = gorteiñ -he
-# text_fr =  'les attendre.' 
+# text_fr = 'les attendre.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	gorteiñ	gortoz	verbe	_	_	_	_	_	Gloss=attendre

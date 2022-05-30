@@ -1,0 +1,136 @@
+# sent_id = Bouzeg(1986:35)__1
+# text = Na boût 'zo Doue 'vo glav 'ni yelo da vale.
+# text_fr = 'Même s'il pleut, nous irons nous promener.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Na	Na	?	_	_	_	_	_	Gloss=[[Nabout
+2	boût	boût	?	_	_	_	_	_	Gloss=zo
+3	'	'	?	_	_	_	_	_	Gloss=Doue|même.si]]]
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	Doue	Doue	nom	_	_	_	_	_	Gloss=?
+6	'	E	?	_	_	_	_	_	Gloss=y.aura
+7	vo	vo	?	_	_	_	_	_	Gloss=?
+8	glav	glav	nom	_	_	_	_	_	Gloss=pluie
+9	'	pfi	?	_	_	_	_	_	Gloss=nous
+10	ni	ni	?	_	_	_	_	_	Gloss=?
+11	yelo	mont	verbe	_	_	_	_	_	Gloss=ira
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	vale	bale	verbe	_	_	_	_	_	Gloss=marcher
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1957:'horvad')__1
+# text = Diwall da baka eur horvad en eur jom dindan ar glô.
+# text_fr = 'Fais attention de ne pas attraper un gros rhume en restant sous la pluie.'
+# source = Le Gall (1957)
+1	Diwall	diwall	verbe	_	_	_	_	_	Gloss=attention.ne.pas
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	baka	pakañ	verbe	_	_	_	_	_	Gloss=attraper
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	horvad	korf.-ad	nom.?	_	_	_	_	_	Gloss=corps.ée
+6	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+7	eur	eur	nom	_	_	_	_	_	Gloss=?
+8	jom	chom	verbe	_	_	_	_	_	Gloss=rester
+9	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	glô	glô	?	_	_	_	_	_	Gloss=pluie
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mathelier(2017:371)__1
+# text = Me dochté ar gér pi er glow déez me gameréit.
+# text_fr = 'Je m'approchais de la maison quand la pluie m'a surpris.'
+# source = Mathelier (2017)‎
+1	dochté	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.ais
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	gér	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+4	pi	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+5	er	art	?	_	_	_	_	_	Gloss=le
+6	glow	glow	?	_	_	_	_	_	Gloss=pluie
+7	déez	kaout	?	_	_	_	_	_	Gloss=a
+8	me	POP	?	_	_	_	_	_	Gloss=me|Morph=1
+9	gameréit	kemer	verbe	_	_	_	_	_	Gloss=pris
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:96)__1
+# text = Glavaj a ra arre.
+# text_fr = 'Il mouille encore.'
+# source = Herrieu (1994)
+1	Glavaj	Glavaj	?	_	_	_	_	_	Gloss=pluie.sfx
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	arre	adarre	adverbe	_	_	_	_	_	Gloss=encore
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:29)__4
+# text = Degas't ho harz-glav ganeoc'h betegoût ma teuio ar barrad.
+# text_fr = 'Prenez votre parapluie, au cas où il viendrait une averse.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Degas'	degas	verbe	_	_	_	_	_	Gloss=apportez
+2	t	t	?	_	_	_	_	_	Gloss=?
+3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	harz-glav	herzel	?	_	_	_	_	_	Gloss=stoppe
+5	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+6	betegoût	betegout	complémenteur	_	_	_	_	_	Gloss=au.cas.où
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	barrad	barr.-ad	nom.?	_	_	_	_	_	Gloss=avers.ée
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'ardevel')__1
+# text = Bremañ eo ardavet un tamm ar glav.
+# text_fr = 'Maintenant, la pluie a diminué un peu.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	ardavet	ar-	?	_	_	_	_	_	Gloss=pfx|Morph=1
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	glav	glav	nom	_	_	_	_	_	Gloss=pluie
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:50)__1
+# text = Loud glaw zo bet ba 'noz.
+# text_fr = 'Il a plu un peu cette nuit.'
+1	Loud	Loud	quantifieur	_	_	_	_	_	Gloss=Lod
+2	glaw	glaw	nom	_	_	_	_	_	Gloss=glav
+3	zo	zo	?	_	_	_	_	_	Gloss=zo
+4	bet	bet	?	_	_	_	_	_	Gloss=bet
+5	ba	ba	complémenteur	_	_	_	_	_	Gloss=en
+6	'	'	?	_	_	_	_	_	Gloss=noz.
+7	noz.	noz.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bouzeg(1986:27)__1
+# text = 'vo ket pikol glav.
+# text_fr = 'Il ne pleuvra pas beaucoup.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	'	E	?	_	_	_	_	_	Gloss=y.aura
+2	vo	vo	?	_	_	_	_	_	Gloss=?
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	pikol	pikol	nom-adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=beaucoup
+5	glav	glav	nom	_	_	_	_	_	Gloss=pluie
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:48)__1
+# text = Na boj dou rafe forc'hiou houarn.
+# text_fr = 'Même s'il devait tomber des cordes... '
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Na	nabochdou	?	_	_	_	_	_	Gloss=C.être.y.a.Dieu
+2	boj	boj	?	_	_	_	_	_	Gloss=?
+3	dou	dou	?	_	_	_	_	_	Gloss=?
+4	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+5	forc'hiou	forc'h	?	_	_	_	_	_	Gloss=fourches
+6	houarn	houarn	nom	_	_	_	_	_	Gloss=fer
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

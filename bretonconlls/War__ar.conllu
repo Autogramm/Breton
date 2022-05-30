@@ -1,0 +1,317 @@
+# sent_id = Evenou (1987:575)__2
+# text = Int o dije bet marse tennet warnon.
+# text_fr = 'Eux, m'auraient peut-être tiré dessus.'
+# text_phon = ['[ hje', 'nize be', 'marsən', 'tenəd', 'a:nun ]']
+1	Int	pfi	?	_	_	_	_	_	Gloss=eux
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	dije	kaout	?	_	_	_	_	_	Gloss=aurait
+4	bet	bet	?	_	_	_	_	_	Gloss=eu
+5	marse	marteze	?	_	_	_	_	_	Gloss=peut.être
+6	tennet	tennañ	verbe	_	_	_	_	_	Gloss=tiré
+7	warnon	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:69)__4
+# text = Ha da fardiñ àrnin, fachet ruz.
+# text_fr = 'Et de se jeter sur moi, fâché rouge.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	da	da	préposition	_	_	_	_	_	Gloss=de
+3	fardiñ	fardiñ	?	_	_	_	_	_	Gloss=fondre
+4	àrnin	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	fachet	fachet	?	_	_	_	_	_	Gloss=fâché
+7	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:138)__3
+# text = Met morse n'em eus skrivet en brezhoneg war gazetenn ebet !
+# text_fr = 'Mais jamais je n'ai écrit en breton dans aucun journal!'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	em	em	?	_	_	_	_	_	Gloss=1SG
+5	eus	kaout	?	_	_	_	_	_	Gloss=a
+6	skrivet	skrivañ	verbe	_	_	_	_	_	Gloss=écrit
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+9	war	war	?	_	_	_	_	_	Gloss=1
+10	gazetenn	kazetenn	nom	_	_	_	_	_	Gloss=journal
+11	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:41)__1
+# text = Pleustriñ a reomp war gement Levr Sakr a zo.
+# text_fr = 'Nous nous entraînons sur tous les livres sacrés.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Pleustriñ	-iñ	?	_	_	_	_	_	Gloss=er
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	war	war	?	_	_	_	_	_	Gloss=1
+5	gement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+6	Levr	levr	nom	_	_	_	_	_	Gloss=livre
+7	Sakr	sakr	?	_	_	_	_	_	Gloss=sacré
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	zo	E	?	_	_	_	_	_	Gloss=y.a
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:194)__2
+# text = var bord an aod...
+# text_fr = 'sur le bord de la mer'
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	var	var	adverbe	_	_	_	_	_	Gloss=sur
+2	bord	bord	?	_	_	_	_	_	Gloss=bord
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	aod..	aod	nom	_	_	_	_	_	Gloss=côte
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:19)__1
+# text = ag ar hezeg d'en em lakaad da beuri e-teid ar hae war bord an hent.
+# text_fr = 'et les chevaux de se mettre à brouter la haie sur le bord du chemin.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	ag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	hezeg	kezeg	?	_	_	_	_	_	Gloss=chevaux|Morph=5
+4	d'	da	préposition	_	_	_	_	_	Gloss=de
+5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
+6	em	em	?	_	_	_	_	_	Gloss=?
+7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+8	beuri	peuriñ	verbe	_	_	_	_	_	Gloss=paître
+9	e-teid	e-teid	préposition	_	_	_	_	_	Gloss=P
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	hae	hae	nom	_	_	_	_	_	Gloss=haie|Morph=5
+12	war	war	adverbe	_	_	_	_	_	Gloss=sur
+13	bord	bord	?	_	_	_	_	_	Gloss=bord
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	hent	hent	nom	_	_	_	_	_	Gloss=route
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Milin(1922:403)__2
+# text = war zigarez ma oa bet devet an diou wreg fall.
+# text_fr = 'puisque les deux mauvaises femmes avaient été brulées.'
+# dialect = Léonard
+# location = Saint Pol de Léon
+# source = Milin (1922)
+# texttype = Références de corpus
+1	war	war	?	_	_	_	_	_	Gloss=1
+2	zigarez	digarez	nom	_	_	_	_	_	Gloss=excuse
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	devet	deviñ	verbe	_	_	_	_	_	Gloss=brûlé
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	diou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+9	wreg	gwreg	nom	_	_	_	_	_	Gloss=femme
+10	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMerser(2009:§'rayonner')__1
+# text = E zremm a bar warni al levenez.
+# text_fr = 'Son visage rayonne de bonheur.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	zremm	dremm	nom	_	_	_	_	_	Gloss=visage
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	bar	parañ	?	_	_	_	_	_	Gloss=brille
+5	warni	pronomincorporé	?	_	_	_	_	_	Gloss=elle
+6	al	art	?	_	_	_	_	_	Gloss=le
+7	levenez	levenez	?	_	_	_	_	_	Gloss=joie
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:391)__1
+# text = Me, pa vezan war ma gwri ...
+# text_fr = 'Moi, quand je suis à ma couture... '
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+4	vezan	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+5	war	war	adverbe	_	_	_	_	_	Gloss=sur
+6	ma	POSS	complémenteur	_	_	_	_	_	Gloss=mon
+7	gwri	gwriat	verbe	_	_	_	_	_	Gloss=couture
+8	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:50)__1
+# text = Matriona gaezh a yae war goshaat ivez hec'h unanik.
+# text_fr = 'Matriona vieillissait aussi seule.
+# source = ar Barzhig (1976)
+1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
+2	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=chère|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	yae	mont	verbe	_	_	_	_	_	Gloss=allait
+5	war	war	?	_	_	_	_	_	Gloss=1
+6	goshaat	kozh.-aat	adjectif.verbe	_	_	_	_	_	Gloss=vieil.ir
+7	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+8	hec'h	POSS	?	_	_	_	_	_	Gloss=son
+9	unanik	unan.-ik	pronom-quantifieur.?	_	_	_	_	_	Gloss=un.DIM
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:216).__1
+# text = Amañ a zo (/ez eus) bet unan bennag war an nor.
+# text_fr = 'Ici, il y a eu quelqu'un qui a cherché à ouvrir la porte.'
+# source = Gros (1984)
+1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	ezeus	?	_	_	_	_	_	Gloss=est
+4	(/ez	(/ez	?	_	_	_	_	_	Gloss=?
+5	eus)	eus)	?	_	_	_	_	_	Gloss=?
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+8	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+9	war	war	?	_	_	_	_	_	Gloss=P
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	nor	dor	nom	_	_	_	_	_	Gloss=porte
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'hent')__1
+# text = E vab a zo war an hent-houarn.
+# text_fr = 'Son fils est (employé) au chemin de fer.'
+# source = Gros (1989)
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	vab	mab	nom	_	_	_	_	_	Gloss=fils
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	war	war	adverbe	_	_	_	_	_	Gloss=sur
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	hent-houarn	hent	nom	_	_	_	_	_	Gloss=chemin
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:28)__1
+# text = evit lakaat gwarded war an holl c'heunioù.
+# text_fr = '... pour garder toutes les tourbières.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+3	gwarded	gwarded	?	_	_	_	_	_	Gloss=gardes
+4	war	war	adverbe	_	_	_	_	_	Gloss=sur
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous|Morph=1
+7	c'heunioù	geun	nom	_	_	_	_	_	Gloss=marais
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Audic(2011:15)__1
+# text = Med eñw oa an diaoul med dalc'het oa bet "an diaoul" arnehou.
+# text_fr = 'Mais il était le diable (dans la pièce) mais il continuait à porter ce nom de "diable".'
+# location = Arradon
+# source = Audic (2011)
+# texttype = Ouvrages de recherche
+1	Med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	eñw	pfi	?	_	_	_	_	_	Gloss=lui
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
+6	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+7	dalc'het	derc'hel	?	_	_	_	_	_	Gloss=gardé
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	"an	art	?	_	_	_	_	_	Gloss=le
+11	diaoul"	diaoul"	?	_	_	_	_	_	Gloss=diable"
+12	arnehou	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:75)__2
+# text = Mat ac'h eus graet, d'am meno, tevel war seurt darvoud.
+# text_fr = 'Tu as bien fait, à mon avis, de taire un tel incident.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+2	ac'h	ac'h	?	_	_	_	_	_	Gloss=R
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	am	POSS	?	_	_	_	_	_	Gloss=mon
+8	meno	mennozh	nom	_	_	_	_	_	Gloss=avis
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	tevel	tevel	verbe	_	_	_	_	_	Gloss=taire
+11	war	war	adverbe	_	_	_	_	_	Gloss=sur
+12	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+13	darvoud	darvoud	nom	_	_	_	_	_	Gloss=incident
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:70)__1
+# text = Waet eo d'e labour àr yun.
+# text_fr = 'Il est allé au travail à jeun.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Waet	mont	verbe	_	_	_	_	_	Gloss=allé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	d'	da	préposition	_	_	_	_	_	Gloss=à
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	labour	labour	nom	_	_	_	_	_	Gloss=travail
+6	àr	àr	adverbe	_	_	_	_	_	Gloss=sur
+7	yun	yun	?	_	_	_	_	_	Gloss=jeûne
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gwellaad')__3
+# text = War he halon noaz.
+# text_fr = 'à jeun'
+# source = Gros (1989)
+1	War	War	adverbe	_	_	_	_	_	Gloss=sur
+2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+3	halon	kalon	nom	_	_	_	_	_	Gloss=estomac
+4	noaz	noazh	?	_	_	_	_	_	Gloss=nu
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:21)__2
+# text = Va c'henderv ha me a yoa war gorf hor rochedoù.
+# text_fr = 'Mon cousin et moi étions en chemise.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	c'henderv	kenderv	nom	_	_	_	_	_	Gloss=cousin
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	me	pfi	?	_	_	_	_	_	Gloss=moi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	yoa	COP	?	_	_	_	_	_	Gloss=était
+7	war	war	?	_	_	_	_	_	Gloss=1
+8	gorf	korf	nom	_	_	_	_	_	Gloss=corps
+9	hor	POSS	?	_	_	_	_	_	Gloss=notre
+10	rochedoù	roched.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chemise.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite&Stéphan(1957:51)__2
+# text = Da unneg eur e tigor warnom an dorioù...
+# text_fr = 'Nous sommes libérés à onze heures... '
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	unneg	numérauxcardinaux	?	_	_	_	_	_	Gloss=onze
+3	eur	eur	nom	_	_	_	_	_	Gloss=heure
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	tigor	digor	?	_	_	_	_	_	Gloss=ouvre
+6	warnom	pronomincorporé	?	_	_	_	_	_	Gloss=nous
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dorioù..	dor.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=porte.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'derc'helda')__1
+# text = Dalc'het eo bet an anv-se warnon.
+# text_fr = 'Ce nom m'est resté.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Dalc'het	delc'her	?	_	_	_	_	_	Gloss=gardé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	anv-se	anv	nom	_	_	_	_	_	Gloss=nom
+6	warnon	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

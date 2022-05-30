@@ -1,0 +1,14 @@
+# sent_id = Gros(1984:356)__3
+# text = E Lanngoad e vez greet strudaj euz ar struj.
+# text_fr = 'A Langoat on appelle les broussailles (''struj'') ''strudaj''.'
+# source = Gros (1984)
+1	E	P.e	?	_	_	_	_	_	Gloss=à
+2	Lanngoad	nompropre	?	_	_	_	_	_	Gloss=Langoat
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	strudaj	strudaj	?	_	_	_	_	_	Gloss="strudaj"
+7	euz	eus	?	_	_	_	_	_	Gloss=de
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	struj	struj	?	_	_	_	_	_	Gloss=broussailles
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

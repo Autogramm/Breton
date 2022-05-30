@@ -1,0 +1,26 @@
+# sent_id = HorYezh(1983:17)__1
+# text = benn gave fav brene ket onenn anezhañ.
+# text_fr = 'Quand il trouvait du hêtre il n'achetait pas de frêne.'
+# location = Douarnenez
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	benn	benn	?	_	_	_	_	_	Gloss=a|Morph=1
+2	gave	kavout	verbe	_	_	_	_	_	Gloss=trouvait|Morph=1
+3	fav	fav	nom	_	_	_	_	_	Gloss=hêtres
+4	brene	prenañ	verbe	_	_	_	_	_	Gloss=achetait|Morph=1
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	onenn	onn	nom	_	_	_	_	_	Gloss=frênes
+7	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBayon(1878:45)__1
+# text = Hadet ur fawen benak.
+# text_fr = 'Semez quelques hêtres.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	Hadet	hadañ	verbe	_	_	_	_	_	Gloss=semez
+2	ur	art	?	_	_	_	_	_	Gloss=un
+3	fawen	-enn	nom	_	_	_	_	_	Gloss=SG
+4	benak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,10 +1,10 @@
 # sent_id = Gros(1984:360)__1
 # text = N'az-peus ket gwelet ar varvegez koz-se ?
-# text_fr =  'N'as-tu pas vu cette vieille barbue ? ' 
+# text_fr = 'N'as-tu pas vu cette vieille barbue ? '
 # source = Gros (1984)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	az-peus	az-peus	?	_	_	_	_	_	Gloss=R
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 5	koz-se	DEM	?	_	_	_	_	_	Gloss=là
-6	?	?	?	_	_	_	_	_	Gloss=?
+6	?	?	PUNCT	_	_	_	_	Gloss=punct

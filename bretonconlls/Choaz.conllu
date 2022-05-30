@@ -1,0 +1,35 @@
+# sent_id = ArBorgn(2011:26)__1
+# text = Lakait-hé skoaz-doc'h-skoaz, par-doc'h-par, àr lerc'h c'hwi ' choajo.
+# text_fr = 'Mets-les épaule contre épaule, égal contre égal, après tu choisiras.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	skoaz-doc'h-skoaz	skoaz	nom	_	_	_	_	_	Gloss=épaule
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	par-doc'h-par	par	préposition-nom	_	_	_	_	_	Gloss=égal
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	àr	war-lerc'h	?	_	_	_	_	_	Gloss=après
+6	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=?
+7	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+8	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+9			PUNCT	_	_	_	_	Gloss=punct
+10	choajo	choajo	?	_	_	_	_	_	Gloss=choisirez
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:41)__1
+# text = Gelloud a helle mond war ar bern da joaz.
+# text_fr = 'Il pouvait choisir librement.' (partenaire amoureux)
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Gelloud	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
+4	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+5	war	war	?	_	_	_	_	_	Gloss=sur
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	joaz	joaz	?	_	_	_	_	_	Gloss=choisir
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

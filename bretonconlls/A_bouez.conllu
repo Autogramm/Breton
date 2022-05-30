@@ -1,9 +1,9 @@
 # sent_id = LeGléau(1973:41)__1
 # text = Hag e kri a-bouez penn "'Emaon pare"!
-# text_fr =  'Et il crie à tue-tête: "Je suis prêt"!'
+# text_fr = 'Et il crie à tue-tête: "Je suis prêt"!'
 # source = BSA.
 1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	4	_	_	_	_	Gloss=R
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	kri	krial	verbe	_	_	_	_	_	Gloss=crie
 4	a-bouez	a-bouez	préposition	_	_	_	_	_	Gloss=à-poids
 5	penn	penn	nom	_	_	_	_	_	Gloss=tête

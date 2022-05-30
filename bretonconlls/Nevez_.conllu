@@ -1,0 +1,46 @@
+# sent_id = Gros(1989:'ingali')__1
+# text = O fenn, a glevan lavared, a vez ingalet d'ar vugale nevez-hanet.
+# text_fr = 'J'entends dire qu'on modèle leur tête aux nouveaux-nés.'
+# source = Gros (1989)
+1	O	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+2	fenn	penn	nom	_	_	_	_	_	Gloss=tête
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	glevan	klevout	verbe	_	_	_	_	_	Gloss=entends
+6	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ingalet	ingalet	?	_	_	_	_	_	Gloss=arrangé
+11	d'	da	préposition	_	_	_	_	_	Gloss=à
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+14	nevez-hanet	nevez-hanet	?	_	_	_	_	_	Gloss=1
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(2014:'a-nevez')__1
+# text = A-nevez brenet en deus an ti.
+# text_fr = 'Il a acheté la maison récemment.'
+# dialect = Trégorrois
+# source = Gros (2014)
+# texttype = Ouvrages de recherche
+1	A-nevez	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	brenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
+3	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	ti	ti	nom	_	_	_	_	_	Gloss=maison
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(2014:'a-nevez')__1
+# text = A-nevez grog eo an tan.
+# text_fr = 'Le feu est allumé depuis peu.'
+# dialect = Trégorrois
+# source = Gros (2014)
+# texttype = Ouvrages de recherche
+1	A-nevez	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	grog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	tan	tan	nom	_	_	_	_	_	Gloss=feu
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

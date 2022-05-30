@@ -1,0 +1,27 @@
+# sent_id = Elégoët(1982:9)__4
+# text = Great gant pri, great gros, e c'helles da grediñ !
+# text_fr = 'Faite de glaise, faite grossièrement, tu peux me croire !'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	gant	gant	?	_	_	_	_	_	Gloss=avec
+3	pri	pri	nom	_	_	_	_	_	Gloss=terre
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	gros	gros	adverbe-adjectif	_	_	_	_	_	Gloss=grossièrement
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	c'helles	gallout	verbe	_	_	_	_	_	Gloss=peux
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	grediñ	krediñ	verbe	_	_	_	_	_	Gloss=croire
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:13)__1
+# text = fornioù pri-livet
+# text_fr = 'fours de faïencerie(s)'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	fornioù	forn.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=four.s
+2	pri-livet	livañ	verbe	_	_	_	_	_	Gloss=peint

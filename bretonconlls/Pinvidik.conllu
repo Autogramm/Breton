@@ -1,0 +1,54 @@
+# sent_id = Ouessant,Gouedig(1982)__40
+# text = Bez' oa tud pinvidikoh hag e labourent ket.
+# text_fr = 'Il y avait des gens plus riches et qui ne travaillaient pas.' (leur terre)
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
+2			PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	tud	tud	nom	_	_	_	_	_	Gloss=gens
+5	pinvidikoh	-oc'h	?	_	_	_	_	_	Gloss=plus
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	labourent	labourat	verbe	_	_	_	_	_	Gloss=travaillaient
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fave(1989:25)__1
+# text = Ar re-mañ a zo tud en o êz, pinvidig zoken.
+# text_fr = 'Ces gens sont à leur aise, ou même riches.'
+# dialect = Léonard
+# source = Fave (1989)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	tud	tud	nom	_	_	_	_	_	Gloss=gens
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	êz	aes	adjectif	_	_	_	_	_	Gloss=aise
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	pinvidig	pinvidig	?	_	_	_	_	_	Gloss=riche
+11	zoken	zoken	?	_	_	_	_	_	Gloss=même
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:II)__5
+# text = Hennezh 'oa graet e vragoù 'raok e revr.
+# text_fr = 'Il est né riche.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	vragoù	bragoù	nom	_	_	_	_	_	Gloss=pantalons
+7	'	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+8	raok	raok	?	_	_	_	_	_	Gloss=?
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	revr	revr	nom	_	_	_	_	_	Gloss=cul
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

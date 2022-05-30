@@ -1,0 +1,27 @@
+# sent_id = Briant-Cadiou(1998:193)__3
+# text = eun ostill anvet "harpon" e galleg.
+# text_fr = 'un outil appelé "harpon" en français.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	eun	art	?	_	_	_	_	_	Gloss=un
+2	ostill	ostill	?	_	_	_	_	_	Gloss=outil
+3	anvet	anv	nom	_	_	_	_	_	Gloss=nom
+4	"harpon"	"harpon"	?	_	_	_	_	_	Gloss="harpon"
+5	e	P.e	?	_	_	_	_	_	Gloss=en
+6	galleg	galleg	nom	_	_	_	_	_	Gloss=français
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Monfort(2006:6)__1
+# text = Evit an ostilhoù, emzibab a raimp...
+# text_fr = 'Quant aux outils, on se débrouillera... '
+# source = Monfort (2006)
+# texttype = Références de corpus
+1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	ostilhoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	emzibab	em-	?	_	_	_	_	_	Gloss=se|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	raimp..	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferons
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Preder&Armor(1977:44)__4
+# text = Difloupet eo a-dre va daouarn e-kerz an emgann, moarvat.
+# text_fr = 'Il m'aura échappé des mains pendant la bataille.'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Difloupet	di-,dis-.-et(Adj.)	?.?	_	_	_	_	_	Gloss=dé.é
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	a-dre	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	daouarn	duel.dorn	?.nom	_	_	_	_	_	Gloss=deux.main
+6	e-kerz	e-kerzh	préposition-complémenteur	_	_	_	_	_	Gloss=pendant
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	emgann	emgann	nom	_	_	_	_	_	Gloss=combat
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	moarvat	moarvat	adverbe	_	_	_	_	_	Gloss=sans.doute
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

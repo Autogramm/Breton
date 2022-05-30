@@ -1,6 +1,6 @@
 # sent_id = arBarzhig(1976:60)__1
 # text = Gwelout a-walc'h a raent ne oa ket bet lonkadeg.
-# text_fr =  'Ils voyaient bien qu'il n'y avait pas eu de saoulerie.' 
+# text_fr = 'Ils voyaient bien qu'il n'y avait pas eu de saoulerie.'
 # source = ar Barzhig (1976)
 1	Gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
@@ -15,12 +15,12 @@
 
 # sent_id = Bijer(2007:243)__1
 # text = Pa veze dornadeg, e kêr-mañ-kêr...
-# text_fr =  'Quand on battait les blés dans telle ou telle maison... '
+# text_fr = 'Quand on battait les blés dans telle ou telle maison... '
 # dialect = Cornouaillais
 # location = Bigouden
 # source = Bijer (2007)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	1	_	_	_	_	Gloss=quand
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
 3	dornadeg	dorn	nom	_	_	_	_	_	Gloss=batt
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -28,16 +28,16 @@
 
 # sent_id = Herri(1982:51)__1
 # text = Sellout a ran dre ar prenestr a sko war-eeun el labouradeg.
-# text_fr =  'Je regarde par la fenêtre qui donne directement sur l'usine.'
+# text_fr = 'Je regarde par la fenêtre qui donne directement sur l'usine.'
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Sellout	sellout	verbe	_	_	_	_	_	Gloss=regarder
-2	a	a	préposition	1	_	_	_	_	Gloss=R
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
 4	dre	dre	préposition	_	_	_	_	_	Gloss=par
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
-7	a	a	préposition	1	_	_	_	_	Gloss=R
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	sko	skeiñ	verbe	_	_	_	_	_	Gloss=frappe
 9	war-eeun	war-eeun	préposition	_	_	_	_	_	Gloss=directement
 10	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
@@ -46,7 +46,7 @@
 
 # sent_id = Gros(1984:392)__1
 # text = En ti all ez eus kaoze (/#kaozeadeg).
-# text_fr =  'Dans la maison voisine, il y a du bavardage.'
+# text_fr = 'Dans la maison voisine, il y a du bavardage.'
 # source = Gros (1984)
 1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
@@ -59,7 +59,7 @@
 
 # sent_id = Italien,Soare(2017)__1
 # text = Gianni ha fatto una nuot-ata in piscina.
-# text_fr =  'Gianni a nagé dans la piscine.'
+# text_fr = 'Gianni a nagé dans la piscine.'
 1	Gianni	Gianni	?	_	_	_	_	_	Gloss=Gianni
 2	ha	ha	préposition	_	_	_	_	_	Gloss=a
 3	fatto	fatto	?	_	_	_	_	_	Gloss=fait
@@ -71,7 +71,7 @@
 
 # sent_id = Roumain,Soare(2017)__1
 # text = Am fost cu băieții la o băut-ă.
-# text_fr =  'Je suis allée boire des coups avec les gars.'
+# text_fr = 'Je suis allée boire des coups avec les gars.'
 1	Am	Am	?	_	_	_	_	_	Gloss=ai
 2	fost	fost	?	_	_	_	_	_	Gloss=été
 3	cu	cu	?	_	_	_	_	_	Gloss=avec

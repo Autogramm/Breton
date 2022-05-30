@@ -1,0 +1,11 @@
+# sent_id = Gros(1984:636)__1
+# text = Marh Amon a ya da Vrest.
+# text_fr = 'Le cheval d'Aymon va à Brest.'
+# source = Gros (1984)
+1	Marh	marc'h	?	_	_	_	_	_	Gloss=cheval
+2	Amon	nompropre	?	_	_	_	_	_	Gloss=Aymon
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ya	mont	verbe	_	_	_	_	_	Gloss=va
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	Vrest	nompropre	?	_	_	_	_	_	Gloss=Brest
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,50 @@
+# sent_id = Elegoet(1975:58)__1
+# text = Bara e poa er gear ie, peogwir gwiniz e pehe.
+# text_fr = 'Il y avait du pain à la maison, puisqu'il y avait du blé.'
+# source = Elegoet (1975)
+# texttype = Ouvrages de recherche
+1	Bara	Bara	nom	_	_	_	_	_	Gloss=pain
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	poa	kaout	?	_	_	_	_	_	Gloss=avait
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+6	ie	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+9	gwiniz	gwinizh	nom	_	_	_	_	_	Gloss=blé
+10	e	e	?	_	_	_	_	_	Gloss=R
+11	pehe	kaout	?	_	_	_	_	_	Gloss=aviez
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Miossec(1980:71)__1
+# text = Med beza ma'z int studierien e rankont labourad evid gounid o bara.
+# text_fr = 'Mais bien qu'ils soient étudiants ils doivent travailler pour gagner leur vie.'
+# dialect = Léonard
+# source = Miossec (1980)
+# texttype = Références de corpus
+1	Med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	beza	bezañ	?	_	_	_	_	_	Gloss=être
+3	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+4	z	z	?	_	_	_	_	_	Gloss=?
+5	int	COP	?	_	_	_	_	_	Gloss=sont
+6	studierien	studiañ.-erien	verbe.?	_	_	_	_	_	Gloss=étud.iants
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	rankont	rankout	verbe	_	_	_	_	_	Gloss=doivent
+9	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
+10	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+11	gounid	gounit	verbe	_	_	_	_	_	Gloss=gagner
+12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+13	bara	bara	nom	_	_	_	_	_	Gloss=pain
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Borsley&al.(2007:12)__1
+# text = Gwnaeth Elin brynu torth o fara.
+# text_fr = 'Elin a acheté une miche da pain.'
+# source = Borsley & al. (2007)
+1	Gwnaeth	Gwnaeth	?	_	_	_	_	_	Gloss=fit
+2	Elin	Elin	?	_	_	_	_	_	Gloss=Elin
+3	brynu	brynu	?	_	_	_	_	_	Gloss=acheter
+4	torth	torth	?	_	_	_	_	_	Gloss=miche
+5	o	o	?	_	_	_	_	_	Gloss=de
+6	fara	fara	?	_	_	_	_	_	Gloss=pain
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

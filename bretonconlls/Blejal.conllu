@@ -1,0 +1,23 @@
+# sent_id = Kerrien(2000:80)__1
+# text = Blejal dispar a rit.
+# text_fr = 'Vous beuglez à merveille.'
+# source = Kerrien (2000)
+1	Blejal	Blejal	verbe	_	_	_	_	_	Gloss=beugler
+2	dispar	di-,dis-.par	?.préposition-nom	_	_	_	_	_	Gloss=sans.pareil
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:90)__1
+# text = Kroget on da vlejal evel ul leue.
+# text_fr = 'J'ai commencé à beugler comme un veau.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Kroget	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+2	on	COP	?	_	_	_	_	_	Gloss=suis
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	vlejal	vlejal	?	_	_	_	_	_	Gloss=beugler
+5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	ul	art	?	_	_	_	_	_	Gloss=un
+7	leue	leue	nom	_	_	_	_	_	Gloss=veau
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

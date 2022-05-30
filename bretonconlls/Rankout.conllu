@@ -1,0 +1,323 @@
+# sent_id = ArFloc’h(1950:70)__1
+# text = Pep~hini a rankas kana.
+# text_fr = 'Chacun dût chanter.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	rankas	rankas	?	_	_	_	_	_	Gloss=dut
+3	kana	kanañ	verbe	_	_	_	_	_	Gloss=chanter
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnnaColin[01/1984]Cornouaille(Plouhinec),[http://fresques.ina.fr/ouest-en-memoire/fiche-media/Region00850/d-an-nav-vloaz-d-an-aod-ha-da-pevarzek-vloaz-d-an-uzin-des-neuf-ans-a-la-greve-et-en-usine-a-quatorze-ans.htmlOuestenmémoire]__2
+# text = Oh ya, betek ma vez al labour a renke bezañ graet.
+# text_fr = 'Oh oui, tant qu'il y avait du travail à faire.'
+# location = Plouhinec
+1	Oh	interjection	?	_	_	_	_	_	Gloss=oh
+2	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	labour	labour	nom	_	_	_	_	_	Gloss=travail
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	renke	renke	?	_	_	_	_	_	Gloss=devait
+11	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+12	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Thibault1914:184)__1
+# text = Gye rika gober.
+# text_fr = 'Il faut qu'il fasse.'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	Gye	pfi	?	_	_	_	_	_	Gloss=lui
+2	rika	rika	?	_	_	_	_	_	Gloss=doit
+3	gober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:147)__1
+# text = Nag a sac'hadoù poultr a zo reket evit ober un toull ker bras !
+# text_fr = 'Que de poudre il a fallu pour faire un trou si grand !'
+# source = Herrieu (1994)
+1	Nag	Na(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	sac'hadoù	sac'h.-ad.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=sac.ée.s
+4	poultr	poultr	?	_	_	_	_	_	Gloss=poudre
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	reket	reket	?	_	_	_	_	_	Gloss=dû
+8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	un	art	?	_	_	_	_	_	Gloss=un
+11	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+12	ker	ker	adjectif	_	_	_	_	_	Gloss=[[ken,ker,
+13	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=kel|si]]]
+14		bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:33)__1
+# text = Ne reka ket c'hoazh arru a-bennik...
+# text_fr = 'Il ne doit pas arriver tout de suite... '
+# source = ar Meliner (2009)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	reka	reka	?	_	_	_	_	_	Gloss=doit
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	arru	arru	?	_	_	_	_	_	Gloss=arriver
+6	a-bennik..	a-benn.a-bennik..	préposition-complémenteur.?	_	_	_	_	_	Gloss=tout.de.suite.DIM
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:25)__2
+# text = Kaol, strev panez a ranken da zastum __ bemdez...
+# text_fr = 'Chaque jour, je devais ramasser des choux et des fânes de panais... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Kaol	kaol	nom	_	_	_	_	_	Gloss=choux
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	strev	strev	?	_	_	_	_	_	Gloss=fânes
+4	panez	panez	nom	_	_	_	_	_	Gloss=panais
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	ranken	ranken	?	_	_	_	_	_	Gloss=devais
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zastum	dastum	verbe	_	_	_	_	_	Gloss=ramasser
+9	__	__	?	_	_	_	_	_	Gloss=
+10	bemdez..	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc’h(1950:156)__1
+# text = Al labous pleuñv aour a rankan da gaout, emezañ...
+# text_fr = 'Je dois me procurer l'oiseau d'or, dit-il.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	labous	labous	?	_	_	_	_	_	Gloss=oiseau
+3	pleuñv	pluñv	nom	_	_	_	_	_	Gloss=plumage
+4	aour	aour	nom	_	_	_	_	_	Gloss=or
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	rankan	rankan	?	_	_	_	_	_	Gloss=dois
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	emezañ..	eme.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=dit.il
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = O ! A-leiz a draou a viche bet ranket da ober __ .
+# text_fr = 'Oh ! Il aurait fallu faire plein de choses.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	O	interjection	?	_	_	_	_	_	Gloss=oh
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	A-leiz	e-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=plein
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	draou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	ranket	ranket	?	_	_	_	_	_	Gloss=dû
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	__	__	?	_	_	_	_	_	Gloss=
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:21)__2
+# text = Un tamm brav a zour a rankemp da gaout, anat dit.
+# text_fr = 'Tu imagines bien qu'on avait besoin de pas mal d'eau.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	zour	dour	nom	_	_	_	_	_	Gloss=eau
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	rankemp	rankemp	?	_	_	_	_	_	Gloss=devions
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	anat	anat	?	_	_	_	_	_	Gloss=évident
+12	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:45)__2
+# text = An dillad a ranked da walhi, da zeha, da fera, da zresa.
+# text_fr = 'On devait laver, sécher, repasser et raccommoder les habits.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dillad	dilhad	nom	_	_	_	_	_	Gloss=habits
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ranked	IMP	?	_	_	_	_	_	Gloss=on
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	walhi	gwalc'hiñ	?	_	_	_	_	_	Gloss=laver
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	zeha	sec'hiñ	?	_	_	_	_	_	Gloss=sécher
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	fera	ferañ	?	_	_	_	_	_	Gloss=repasser
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+15	zresa	dresañ	verbe	_	_	_	_	_	Gloss=raccommoder
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:191)__2
+# text = Kas a rankent ganto o boued hag hini o loan.
+# text_fr = 'Ils devaient emmener leur nourriture et celle de leur animal.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Kas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rankent	rankent	?	_	_	_	_	_	Gloss=devaient
+4	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+7	hag	&	?	_	_	_	_	_	Gloss=et
+8	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+9	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+10	loan	loen	nom	_	_	_	_	_	Gloss=animal
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:191)__3
+# text = Daou waz a rank beza evid labourad gand an ostill-ze.
+# text_fr = 'Il faut (qu'il y ait) deux hommes pour travailler avec cet outil.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+2	waz	gwaz	?	_	_	_	_	_	Gloss=homme
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	rank	rank	?	_	_	_	_	_	Gloss=doit
+5	beza	bezañ	?	_	_	_	_	_	Gloss=être
+6	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
+8	gand	gant	?	_	_	_	_	_	Gloss=avec
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	ostill-ze	ostilh	nom	_	_	_	_	_	Gloss=outil
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:236)__2
+# text = Div euriad e rekan da glask lec'h d'am soudarded…
+# text_fr = 'Je dois chercher un lieu pour mes soldats pendant deux heures.'
+# source = Herrieu (1994)
+1	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	rekan	rekan	?	_	_	_	_	_	Gloss=dois
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
+5	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	am	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	soudarded…	soudard.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=soldat.s
+
+# sent_id = Gros(1984:378)__1
+# text = Eun hantér-kant patatez am-eus ranket prenañ __ .
+# text_fr = 'J'ai dû acheter un demi-cent de pommes-de-terres.' (25kg)
+# source = Gros (1984)
+1	Eun	art	?	_	_	_	_	_	Gloss=un
+2	hantér-kant	hanter	quantifieur	_	_	_	_	_	Gloss=moitié
+3	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
+4	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+5	ranket	ranket	?	_	_	_	_	_	Gloss=dû
+6	prenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+7	__	__	?	_	_	_	_	_	Gloss=
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:45)__3
+# text = Ouspenn e ranked aoza ar gweleou, skuba, kempenn, tenna dour euz ar puns…
+# text_fr = 'En plus on devait faire les lits, balayer, nettoyer, tirer l’eau du puits… '
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ouspenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ranked	IMP	?	_	_	_	_	_	Gloss=on
+4	aoza	aozañ	verbe	_	_	_	_	_	Gloss=faire
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	gweleou	gwele.-où(PL.)	nom.?	_	_	_	_	_	Gloss=lit.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	skuba	skubañ	?	_	_	_	_	_	Gloss=balayer
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	kempenn	kempenn	verbe	_	_	_	_	_	Gloss=nettoyer
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+13	dour	dour	nom	_	_	_	_	_	Gloss=eau
+14	euz	eus	?	_	_	_	_	_	Gloss=de
+15	ar	art	?	_	_	_	_	_	Gloss=le
+16	puns…	puñs	nom	_	_	_	_	_	Gloss=puits
+
+# sent_id = ArFloc'h(1985:22)__1
+# text = rak daou vloavezhiad a ranke __ dezhañ.
+# text_fr = '... parce qu’il lui devait deux années de loyer.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	rak	rak	?	_	_	_	_	_	Gloss=car
+2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+3	vloavezhiad	bloaz.-iad	nom.?	_	_	_	_	_	Gloss=an.ée
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	ranke	ranke	?	_	_	_	_	_	Gloss=devait
+6	__	__	?	_	_	_	_	_	Gloss=
+7	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__4
+# text = E ranki atao kaout ur velo, da vont d'ar bourk.
+# text_fr = 'Tu devras avoir un vélo, toujours, pour aller dans le bourg.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	E	E	?	_	_	_	_	_	Gloss=R
+2	ranki	ranki	?	_	_	_	_	_	Gloss=devras
+3	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
+4	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	velo	belo	nom	_	_	_	_	_	Gloss=vélo|Morph=1
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+10	d'	da	préposition	_	_	_	_	_	Gloss=à
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	bourk	bourk	?	_	_	_	_	_	Gloss=bourg
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:75)__1
+# text = Ar frer rener eta a rankas bezañ klevet un diaoul a dra diwar va fenn...
+# text_fr = 'Le frère supérieur a dû entendre une diable de chose sur mon compte... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	frer	frer	?	_	_	_	_	_	Gloss=frère
+3	rener	ren.-er,-our	verbe.?	_	_	_	_	_	Gloss=direct.eur
+4	eta	eta	?	_	_	_	_	_	Gloss=donc
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	rankas	rankas	?	_	_	_	_	_	Gloss=dut
+7	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+8	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	dra	tra	nom	_	_	_	_	_	Gloss=chose
+13	diwar	diwar	préposition	_	_	_	_	_	Gloss=de.sur
+14	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+15	fenn..	penn	nom	_	_	_	_	_	Gloss=tête
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:22)__1
+# text = rak daou vloavezhiad a ranke dezhañ.
+# text_fr = '... parce qu’il lui devait deux années de loyer.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	rak	rak	?	_	_	_	_	_	Gloss=car
+2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+3	vloavezhiad	bloaz.-iad	nom.?	_	_	_	_	_	Gloss=an.ée
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	ranke	ranke	?	_	_	_	_	_	Gloss=devait
+6	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

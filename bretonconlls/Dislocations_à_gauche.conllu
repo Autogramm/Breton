@@ -1,0 +1,62 @@
+# sent_id = Avezard-Roger (2004a:422)__1
+# text = An distañs (ne) sellomp ket _ .
+# text_fr = 'La distance, nous ne regardons pas.'
+# text_phon = ['[ undistãs', '', 'zelãm', 'ket ]']
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	distañs	distañs	?	_	_	_	_	_	Gloss=distance
+3	sellomp	sellout	verbe	_	_	_	_	_	Gloss=regardons
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+
+# sent_id = (Gros1984:137)__1
+# text = Jañn, honnez a oa maeronez din.
+# text_fr = 'Jañn, elle était ma marraine.'
+# source = Gros (1984)
+1	Jañn	nompropre	?	_	_	_	_	_	Gloss=Jañn
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	maeronez	maeronez	?	_	_	_	_	_	Gloss=marraine
+7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:137)__1
+# text = Ar hizier, ar re-ze a zalh soñj.
+# text_fr = 'Les chats, ils se souviennent.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	hizier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	zalh	delc'her	?	_	_	_	_	_	Gloss=garde
+8	soñj	soñj	nom	_	_	_	_	_	Gloss=souvenir
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:137)__1
+# text = Me, ma daoulagad am-eus poan enno.
+# text_fr = 'Moi, j'ai mal aux yeux.'
+# source = Gros (1984)
+1	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	poan	poan	nom	_	_	_	_	_	Gloss=mal
+3	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:137)__2
+# text = An dostenn-ze, honnez a zo peg he hrohenn ouz he hein.
+# text_fr = 'Cette avare-là, celle-là a la peau collée au dos.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dostenn-ze	tost	adjectif	_	_	_	_	_	Gloss=près]].[[-enn|ée]]-[[DEM|là|Morph=1
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	peg	pegañ	verbe	_	_	_	_	_	Gloss=collé
+8	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+9	hrohenn	kroc'hen	?	_	_	_	_	_	Gloss=peau
+10	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+12	hein	kein	nom	_	_	_	_	_	Gloss=dos
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,6 +1,6 @@
 # sent_id = Bouzec & al. (2017:70)__1
 # text = 'lamp  oa 'stripil 'uc'h 'n dol.
-# text_fr =  'La lampe était suspendue au-dessus de la table.' 
+# text_fr = 'La lampe était suspendue au-dessus de la table.'
 1	'	'	?	_	_	_	_	_	Gloss=Al
 2	lamp	lamp	?	_	_	_	_	_	Gloss=lamp
 3	??	??	préposition	_	_	_	_	_	Gloss=a
@@ -16,7 +16,7 @@
 
 # sent_id = LeGall(1957:'ispilh')__1
 # text = Darbedig eo bet dei chom doh an ispilh.
-# text_fr =  'Elle a failli ne pas trouver à se marier.' 
+# text_fr = 'Elle a failli ne pas trouver à se marier.'
 # source = Le Gall (1957)
 1	Darbedig	darbet.Darbedig	?.?	_	_	_	_	_	Gloss=failli.DIM
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
@@ -30,10 +30,10 @@
 
 # sent_id = Drezen(1932:27)__1
 # text = gand ma n'am lezo ket a-istribilh gant va boulomoùigoù.
-# text_fr =  'Pourvu qu'elle ne me laisse pas en plan avec mes statuettes !'
+# text_fr = 'Pourvu qu'elle ne me laisse pas en plan avec mes statuettes !'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	gand	gantma	?	4	_	_	_	_	Gloss=pourvu.que]
+1	gand	gantma	?	_	_	_	_	_	Gloss=pourvu.que]|Morph=4
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
 4	am	POP	?	_	_	_	_	_	Gloss=me
@@ -41,6 +41,6 @@
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	a-istribilh	a-istribilh	?	_	_	_	_	_	Gloss=en.plan
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	va	POSS	?	2	_	_	_	_	Gloss=mon
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 10	boulomoùigoù	boulom.-où(PL.).boulomoùigoù	nom.?.?	_	_	_	_	_	Gloss=bonhomme.s.DIM
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

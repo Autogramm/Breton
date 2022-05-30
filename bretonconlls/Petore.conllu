@@ -1,0 +1,15 @@
+# sent_id = Borsley&Stephens(1989:420)__1
+# text = Petore paotred a soñj deoc'h a lenne al levrioù ?
+# text_fr = 'Quels gars pensez-vous qui ont lu les livres ?'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	Petore	Petore	?	_	_	_	_	_	Gloss=quel
+2	paotred	paotr	nom	_	_	_	_	_	Gloss=gars
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	soñj	soñjal	verbe	_	_	_	_	_	Gloss=pense
+5	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	lenne	lenn(V.)	?	_	_	_	_	_	Gloss=lisait
+8	al	art	?	_	_	_	_	_	Gloss=le
+9	levrioù	levr.-où(PL.)	nom.?	_	_	_	_	_	Gloss=livre.s
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

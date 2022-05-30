@@ -1,0 +1,84 @@
+# sent_id = Denez(1993:21)__1
+# text = Ez-yaouank e oa bet dedennet gant al luc'hskeudenniñ.
+# text_fr = 'Jeune, il avait été attiré par la photographie.'
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	Ez-yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	dedennet	dedenn	?	_	_	_	_	_	Gloss=attiré
+6	gant	gant	?	_	_	_	_	_	Gloss=par
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	luc'hskeudenniñ	luc'hskeudenniñ	?	_	_	_	_	_	Gloss=photographier
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012b:'tout')__1
+# text = [ diske  na kozéal galleg en bien ]
+# text_fr = 'Il avait appris tout petit à parler français.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	[	deskiñ	verbe	_	_	_	_	_	Gloss=appris
+2	diske	kaout	?	_	_	_	_	_	Gloss=avait
+3			PUNCT	_	_	_	_	Gloss=punct
+4	na	galleg	nom	_	_	_	_	_	Gloss=français
+5	kozéal	kozéal	?	_	_	_	_	_	Gloss=?
+6	galleg	galleg	nom	_	_	_	_	_	Gloss=?
+7	en	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+8	bien	bien	?	_	_	_	_	_	Gloss=?
+9	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Goyat (2012:194)__1
+# text = Ar haz e-neus debret al logodenn e-beo.
+# text_fr = 'Le chat a mangé la souris vivante.'
+# text_phon = ["[ ar '@ha:z", "nøz '@dɛ:bɛd", "al lo'@ɡo:dɛn", "e '@bew ]"]
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	haz	kazh	nom	_	_	_	_	_	Gloss=chat|Morph=5
+3	e-neus	kaout	?	_	_	_	_	_	Gloss=a
+4	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+5	al	art	?	_	_	_	_	_	Gloss=le
+6	logodenn	logod.-enn	nom.nom	_	_	_	_	_	Gloss=souris.SG
+7	e-beo	bev	adjectif	_	_	_	_	_	Gloss=vivant
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012b:'tout')__1
+# text = [ lõnkɑ̃  glésker en béw ]
+# text_fr = 'avaler des grenouilles tout[es] vivantes'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	[	lonkañ	verbe	_	_	_	_	_	Gloss=avaler
+2	lõnkɑ̃	lõnkɑ̃	?	_	_	_	_	_	Gloss=grenouilles
+3			PUNCT	_	_	_	_	Gloss=punct
+4	glésker	glésker	?	_	_	_	_	_	Gloss=?
+5	en	bev	adjectif	_	_	_	_	_	Gloss=vivant
+6	béw	béw	?	_	_	_	_	_	Gloss=?
+7	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Goyat (2012:194)__1
+# text = Me a gav gwelloh an avalou e-kriz.
+# text_fr = 'Je préfère les pommes crues.'
+# text_phon = ["[ me ɡav '@ɡɥɛloh", "ãn a'@va:lu", "e '@kri ]"]
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	avalou	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
+7	e-kriz	kriz	adjectif	_	_	_	_	_	Gloss=cru
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012b:'tout')__1
+# text = [ lõnke  na n u' en kri ]
+# text_fr = 'Il avait avalé un œuf tout cru.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	[	lonkañ	verbe	_	_	_	_	_	Gloss=avalé
+2	lõnke	kaout	?	_	_	_	_	_	Gloss=avait
+3			PUNCT	_	_	_	_	Gloss=punct
+4	na	vi,u	?	_	_	_	_	_	Gloss=œuf
+5	n	n	?	_	_	_	_	_	Gloss=?
+6	u'	u'	?	_	_	_	_	_	Gloss=?
+7			PUNCT	_	_	_	_	Gloss=punct
+8	en	kriz	adjectif	_	_	_	_	_	Gloss=cru
+9	kri	kri	?	_	_	_	_	_	Gloss=?
+10	]	]	?	_	_	_	_	_	Gloss=?

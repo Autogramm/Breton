@@ -1,0 +1,21 @@
+# sent_id = Bouzeg(1986:28)__1
+# text = Goût 'rit lar 'oa bet prenet he zi ganti dre gle ?
+# text_fr = 'Saviez-vous qu'elle avait acheté sa maison à crédit ?'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Goût	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+2	'	auxiliaireober	?	_	_	_	_	_	Gloss=faites
+3	rit	rit	?	_	_	_	_	_	Gloss=?
+4	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+5	'	bezan	?	_	_	_	_	_	Gloss=était
+6	oa	oa	?	_	_	_	_	_	Gloss=?
+7	bet	bet	?	_	_	_	_	_	Gloss=été
+8	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	zi	ti	nom	_	_	_	_	_	Gloss=maison
+11	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+12	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+13	gle	gle	?	_	_	_	_	_	Gloss=dette
+14	?	?	PUNCT	_	_	_	_	Gloss=punct

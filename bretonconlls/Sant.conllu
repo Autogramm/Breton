@@ -1,0 +1,25 @@
+# sent_id = Plourin (1982:669)__1
+# text = Sant Tomas ne gredas kent ne welas.
+# text_fr = 'Saint Thomas ne crut qu'une fois qu'il vit.'
+# text_phon = ['[ zân', "'@tomaz", 'nǝ', "'@grédaz", 'kén', 'nǝ', "'@ɥelaz ]"]
+1	Sant	Sant	nom	_	_	_	_	_	Gloss=Saint
+2	Tomas	Tomas	?	_	_	_	_	_	Gloss=Thomas
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	gredas	krediñ	verbe	_	_	_	_	_	Gloss=crut
+5	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+6	ne	ne	?	_	_	_	_	_	Gloss=ne
+7	welas	gwelout	verbe	_	_	_	_	_	Gloss=vit|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:11)__1
+# text = Setu ma fiñv ar skeudenn santel.
+# text_fr = 'Voici que bouge l'image sainte.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	fiñv	fiñval	verbe	_	_	_	_	_	Gloss=bouge
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	skeudenn	skeudenn	?	_	_	_	_	_	Gloss=image
+6	santel	-el(Adj.)	?	_	_	_	_	_	Gloss=e
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

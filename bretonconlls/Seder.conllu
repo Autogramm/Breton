@@ -1,0 +1,12 @@
+# sent_id = Gros(1966:233)__1
+# text = Ha ken seder goude evel kent.
+# text_fr = 'Et d'aussi bonne humeur après qu'avant.'
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	seder	seder	adverbe-adjectif	_	_	_	_	_	Gloss=gai
+3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+5	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

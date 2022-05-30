@@ -1,12 +1,12 @@
 # sent_id = Herrieu(1994:80)__1
 # text = ne welomp nemet gwinizhegi bras, berrik-tra an ed enne ha treut...
-# text_fr =  '...nous ne voyons que de grands champs de blé, aux céréales très courtes et maigres.'
+# text_fr = '...nous ne voyons que de grands champs de blé, aux céréales très courtes et maigres.'
 # source = Herrieu (1994)
-1	ne	ne	?	1	_	_	_	_	Gloss=ne
+1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
-3	nemet	nemet	complémenteur-adverbe-conjonction	_	_	_	_	_	Gloss=seulement
+3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
 4	gwinizhegi	gwinizh	nom	_	_	_	_	_	Gloss=blé
-5	bras	bras	adjectif-adverbe	_	_	_	_	_	Gloss=grand
+5	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	berrik-tra	berr.berrik-tra.INT	adjectif.?.?	_	_	_	_	_	Gloss=court.DIM.chose
 8	an	art	?	_	_	_	_	_	Gloss=le

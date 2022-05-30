@@ -1,0 +1,42 @@
+# sent_id = Poèmed'AngelaDuval__1
+# text = E-tal an tan
+# text_fr = 'auprès du feu'
+1	E-tal	P.e	préposition	_	_	_	_	_	Gloss=en
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	tan	tan	nom	_	_	_	_	_	Gloss=feu
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__16
+# text = n 'den 'tal-kichen
+# text_fr = 'le voisin'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	n	art	?	_	_	_	_	_	Gloss=le
+2	'	den	nom	_	_	_	_	_	Gloss=homme
+3	den	den	nom	_	_	_	_	_	Gloss=?
+4	'	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=(à)-côté
+5	tal-kichen	tal-kichen	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Seite&Stéphan(1957:102)__1
+# text = Ar harotez ruz-se a zo euz ar penngenn a zo e-harz ar voger e-tal an ti.
+# text_fr = 'Ces carottes rouges viennent de la planche au pied du mur devant la maison.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	harotez	karotez	?	_	_	_	_	_	Gloss=carottes|Morph=5
+3	ruz-se	ruz	adjectif	_	_	_	_	_	Gloss=rouge
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	euz	eus	?	_	_	_	_	_	Gloss=de
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	penngenn	penngenn	?	_	_	_	_	_	Gloss=planche
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	zo	zo	?	_	_	_	_	_	Gloss=est
+11	e-harz	e-harz	préposition	_	_	_	_	_	Gloss=au.pied
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	voger	moger	verbe	_	_	_	_	_	Gloss=mur|Morph=1
+14	e-tal	P.e.tal	?.nom	_	_	_	_	_	Gloss=en.front
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	ti	ti	nom	_	_	_	_	_	Gloss=maison
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

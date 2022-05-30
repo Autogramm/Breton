@@ -1,0 +1,196 @@
+# sent_id = ArBorgn(2011:15)__1
+# text = Klevet ar c'homzoù-se, em boa hum hiriset.
+# text_fr = 'En entendant ces paroles, j'étais plein d'aversion.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'homzoù-se	komz.-où(PL.).DEM	verbe.?.?	_	_	_	_	_	Gloss=parole.s.là
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	em	em	?	_	_	_	_	_	Gloss=R
+6	boa	kaout	?	_	_	_	_	_	Gloss=avait
+7	hum	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+8	hiriset	hiriset	?	_	_	_	_	_	Gloss=hérisser
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:79).__7
+# text = Hag un amezeg, Job Ch., un dro, yaouank ivez, aet d'ar marc'had.
+# text_fr = 'Et une fois, un voisin, Job Ch., jeune aussi, était parti au marché.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	un	art	?	_	_	_	_	_	Gloss=un
+3	amezeg	amezeg	nom	_	_	_	_	_	Gloss=voisin
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	Job	Job	?	_	_	_	_	_	Gloss=[[nompropre|Job
+6	Ch.	Ch.	?	_	_	_	_	_	Gloss=Ch.]]]
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	un	art	?	_	_	_	_	_	Gloss=un
+9	dro	tro	préposition-nom	_	_	_	_	_	Gloss=fois|Morph=1
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+12	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+15	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+16	ar	art	?	_	_	_	_	_	Gloss=le
+17	marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:79)__1
+# text = P'oa deuet er maez, partiet al loan kuit.
+# text_fr = 'Quand il est sorti, le cheval était parti.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+4	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+5	maez,	maez,	?	_	_	_	_	_	Gloss=?
+6	partiet	partial	verbe	_	_	_	_	_	Gloss=parti
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	loan	loen	nom	_	_	_	_	_	Gloss=bête
+9	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois,Blanchard(2016)__1
+# text = Alies pa vezent bihan, bet baleet o mamm warne.
+# text_fr = 'Souvent, petits, leur mère leur a marché dessus.'
+# source = Blanchard (2016)
+# texttype = Ouvrages de recherche
+1	Alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+4	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	baleet	bale	verbe	_	_	_	_	_	Gloss=marché
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+10	warne	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois,Blanchard(2016)__7
+# text = Kemeret un tamm nerzh, bremañ eomp adarre.
+# text_fr = 'On a repris un peu de force, alors reprenons maintenant.'
+# source = Blanchard (2016)
+# texttype = Ouvrages de recherche
+1	Kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
+2	un	art	?	_	_	_	_	_	Gloss=un
+3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+4	nerzh	nerzh	nom	_	_	_	_	_	Gloss=force
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+7	eomp	mont	verbe	_	_	_	_	_	Gloss=aller
+8	adarre	adarre	adverbe	_	_	_	_	_	Gloss=de.nouveau
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:19)__1
+# text = Un dervezh, an aotrou person, bet moarvat o welet unan bennak klañv diwar-dro, a dremenas dre tal an ti...
+# text_fr = 'Un jour, le curé, qui était sans doute allé visiter un malade aux environs, passa devant la maison... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	dervezh	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	moarvat	moarvat	adverbe	_	_	_	_	_	Gloss=sans.doute
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+8	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+9	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+10	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	dremenas	tremen	verbe	_	_	_	_	_	Gloss=passa
+13	dre	dre	préposition	_	_	_	_	_	Gloss=par
+14	tal	tal	nom	_	_	_	_	_	Gloss=front
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	ti..	ti	nom	_	_	_	_	_	Gloss=maison
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:53)__1
+# text = Chom a reas Sezni Abgrall  digor e c'henoù gantañ .
+# text_fr = 'Sezni Abgrall en resta bouche bée.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Chom	chom	verbe	_	_	_	_	_	Gloss=rester
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Sezni	Sezni	?	_	_	_	_	_	Gloss=[[nompropre|Sezni
+5	Abgrall	Abgrall	?	_	_	_	_	_	Gloss=Abgrall]]]
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	digor	digeriñ	?	_	_	_	_	_	Gloss=ouvert
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	c'henoù	genoù	nom	_	_	_	_	_	Gloss=bouche
+11	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+12			?	_	_	_	_	_	Gloss=]
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:101)__1
+# text = ken ruz ha feskennoù ur c'houadur bihan  tapet gantañ ar ruzell 
+# text_fr = 'aussi rouge que les fesses d'un petit enfant qui a la rougeole'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
+2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+3	feskennoù	feskenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=fesse.s
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	c'houadur	krouadur	nom	_	_	_	_	_	Gloss=enfant|Morph=5
+6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+7	??	??	?	_	_	_	_	_	Gloss=[
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	tapet	tapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=attrap.é
+10	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	ruzell	ruz.-ell	adjectif.nom	_	_	_	_	_	Gloss=rouge.ole
+13	??	??	?	_	_	_	_	_	Gloss=]
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§710)__1
+# text = Gwelloc'h ' tae ar c'hoaven war-c'horre,  daspugnet gant ur loa-bod .
+# text_fr = 'La crème remontait mieux à la surface, qu'on ramassait à la louche.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+3			PUNCT	_	_	_	_	Gloss=punct
+4	tae	dont	verbe	_	_	_	_	_	Gloss=venait
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c'hoaven	koaven	nom	_	_	_	_	_	Gloss=crème|Morph=5
+7	war-c'horre	war-c'horre	?	_	_	_	_	_	Gloss=en.surface
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	??	??	?	_	_	_	_	_	Gloss=[
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	daspugnet	daspugn.-et(Adj.)	?.?	_	_	_	_	_	Gloss=ramass.é
+12	gant	gant	?	_	_	_	_	_	Gloss=avec
+13	ur	art	?	_	_	_	_	_	Gloss=un
+14	loa-bod	pod	nom	_	_	_	_	_	Gloss=pot|Morph=1
+15			?	_	_	_	_	_	Gloss=]
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:65)__1
+# text = Simudet e chome ar paotr. Ur vag  kollet ganti he stur. 
+# text_fr = 'L'homme restait muet. Un bateau ayant perdu son gouvernail.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Simudet	mut.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=muett.é
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	chome	chom	verbe	_	_	_	_	_	Gloss=restait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Ur	art	?	_	_	_	_	_	Gloss=un
+8	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+9	??	??	?	_	_	_	_	_	Gloss=[
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+12	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+14	stur	stur	nom	_	_	_	_	_	Gloss=gouvernail
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+16	??	??	?	_	_	_	_	_	Gloss=]
+17	?	?	PUNCT	_	_	_	_	Gloss=punct

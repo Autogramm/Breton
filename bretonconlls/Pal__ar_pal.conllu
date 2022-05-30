@@ -1,0 +1,18 @@
+# sent_id = Langleiz(1975:15)__1
+# text = setu ar pal en doa klasket tizhout an Droug-Spered, a holl-viskoazh.
+# text_fr = 'Voici le but que le Mal avait de tous temps cherché à atteindre.'
+# source = Langleiz (1975)
+# texttype = Références de corpus
+1	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	pal	pal	?	_	_	_	_	_	Gloss=but
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
+7	tizhout	tizhout	verbe	_	_	_	_	_	Gloss=atteindre
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	Droug-Spered	droug	nom-adjectif	_	_	_	_	_	Gloss=Mal
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	holl-viskoazh	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,83 @@
+# sent_id = Ouessant,Gouedig(1982)__10
+# text = An avel a teu direct douh kement korn zo toud.
+# text_fr = 'Le vent vient de toutes les directions.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	avel	avel	nom	_	_	_	_	_	Gloss=vent
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=4
+4	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+5	direct	direct	?	_	_	_	_	_	Gloss=direct
+6	douh	diouzh	préposition	_	_	_	_	_	Gloss=de
+7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tant
+8	korn	korn	nom	_	_	_	_	_	Gloss=coin
+9	zo	zo	?	_	_	_	_	_	Gloss=y.a
+10	toud	toud	?	_	_	_	_	_	Gloss=tout
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:69)__1
+# text = Neuze unan gozh-kozh a ziflukas diouzh ur c'hogn...
+# text_fr = 'Alors une très vieille femme surgit d'un coin.'
+# source = ar Barzhig (1976)
+1	Neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=une|Morph=1
+3	gozh-kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieil
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ziflukas	diflukañ	verbe	_	_	_	_	_	Gloss=surgit
+6	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+7	ur	art	?	_	_	_	_	_	Gloss=le
+8	c'hogn..	c'hogn..	?	_	_	_	_	_	Gloss=5
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Crocq(1924:208)__1
+# text = Ha tan d'ar c'horn, pouaf ! pouaf !
+# text_fr = 'Et il alluma sa pipe, pouf! pouf!'
+# source = Crocq (1924)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	tan	tan	nom	_	_	_	_	_	Gloss=feu
+3	d'	da	préposition	_	_	_	_	_	Gloss=à
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	c'horn	c'horn	?	_	_	_	_	_	Gloss=5
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	pouaf	onomatopée	?	_	_	_	_	_	Gloss=pouf
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+9	pouaf	onomatopée	?	_	_	_	_	_	Gloss=pouf
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = KeitVimpBev(1987:25)__1
+# text = Tennañ a reont da gerniel, a larfe an unan.
+# text_fr = 'On dirait des cornes.'
+# source = Keit Vimp Bev (1987)
+# texttype = Références de corpus
+1	Tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+4	da	da	préposition	_	_	_	_	_	Gloss=à
+5	gerniel	plurielinterne	?	_	_	_	_	_	Gloss=s
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	larfe	lavarout	verbe	_	_	_	_	_	Gloss=dirait
+9	an	IMP	?	_	_	_	_	_	Gloss=on
+10	unan.	unan.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = LeGall(1957:'kornia')__1
+# text = evid kornia he hoefou dei.
+# text_fr = 'pour monter sa coiffe.'
+# source = Le Gall (1957)
+1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	kornia	-iañ	?	_	_	_	_	_	Gloss=er
+3	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+4	hoefou	koef.-où(PL.)	nom.?	_	_	_	_	_	Gloss=coiffe.s
+5	dei	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon(1956:xlii)__1
+# text = pep cornë a-ves en hent
+# text_fr = 'chaque tournant de la route'
+# source = NG.
+1	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	cornë	cornë	?	_	_	_	_	_	Gloss=tournant
+3	a-ves	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+5	hent	hent	nom	_	_	_	_	_	Gloss=route

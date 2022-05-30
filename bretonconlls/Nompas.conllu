@@ -1,0 +1,193 @@
+# sent_id = Bijer(2007:366)__1
+# text = Eviti da nompas chom hec'h unan er gêr
+# text_fr = 'Pour pour ne pas qu'elle reste seule à la maison.'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	Eviti	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.elle
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	nompas	nompas	?	_	_	_	_	_	Gloss=non.pas
+4	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+5	hec'h	POSS	?	_	_	_	_	_	Gloss=son
+6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=+C
+7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+
+# sent_id = Bijer(2007:225)__1
+# text = Evitañ da nompas kouezhañ war e gostez
+# text_fr = 'Pour pour ne pas qu'il tombe sur le côté.'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	Evitañ	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.lui
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	nompas	nompas	?	_	_	_	_	_	Gloss=non.pas
+4	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+5	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	gostez	kostez	nom	_	_	_	_	_	Gloss=côté
+
+# sent_id = VannetaisdébutXX°,Broudig(1983)__1
+# text = Me garehe e komandehe er bobl ha nompaz er penneu braz...
+# text_fr = 'J'aimerai que le peuple, et pas les élites, soit aux commandes.'
+# source = Broudig (1983)
+# texttype = Références de corpus
+1	garehe	karout	verbe	_	_	_	_	_	Gloss=aimerait
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	komandehe	komandehe	?	_	_	_	_	_	Gloss=commanderait
+4	er	art	?	_	_	_	_	_	Gloss=le
+5	bobl	pobl	nom	_	_	_	_	_	Gloss=peuple|Morph=1
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	nompaz	nompaz	?	_	_	_	_	_	Gloss=ne.pas
+8	er	art	?	_	_	_	_	_	Gloss=le
+9	penneu	penn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=tête.s
+10	braz..	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Lesneven),A.M.(c.p.2016)__1
+# text = Nompas laret geier kar e houzon ar wirionez.
+# text_fr = 'Ne mentez pas car je connais la vérité.'
+# location = Lesneven
+# source = A.M.
+1	Nompas	Nompas	?	_	_	_	_	_	Gloss=ne.pas
+2	laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+3	geier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+4	kar	kar	?	_	_	_	_	_	Gloss=car
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	houzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+7	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+8	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:193)__1
+# text = Urz a oa bet da nompaz kuitaad an tiez e-pad an noz.
+# text_fr = 'Le couvre-feu avait été déclaré.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Urz	urzh	nom	_	_	_	_	_	Gloss=ordre
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	nompaz	nompaz	?	_	_	_	_	_	Gloss=ne.pas
+7	kuitaad	kuit.-aat	postposition.verbe	_	_	_	_	_	Gloss=quit.ter
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	tiez	ti.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=maison.s
+10	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__6
+# text = Ar vugale o deus graet an aer da nompas gwelet ar vaouez.
+# text_fr = 'Les enfants ont semblé ne pas voir la femme.'
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	aer	aer	nom	_	_	_	_	_	Gloss=air
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	nompas	nompas	?	_	_	_	_	_	Gloss=ne.pas
+10	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
+# text = Pas lar geier ka me 'oar ar wirionez. $$$
+# text_fr = 'Ne mentez pas car je connais la vérité.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	Pas	Pas	?	_	_	_	_	_	Gloss=pas
+2	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
+3	geier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+4	ka	kar	?	_	_	_	_	_	Gloss=car
+5	me	pfi	?	_	_	_	_	_	Gloss=moi
+6	'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+7	oar	oar	?	_	_	_	_	_	Gloss=?
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(2009:§'nompaz')__1
+# text = Lavaret am-eus dit nompaz lakaad da ano.
+# text_fr = 'Je t'ai dit de ne pas t'inscrire.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	Lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+3	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+4	nompaz	nompaz	?	_	_	_	_	_	Gloss=ne.pas
+5	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+7	ano	anv	nom	_	_	_	_	_	Gloss=nom
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Tallerman(1997:219)__1
+# text = abalamour da Yann nompas ankouaad...
+# text_fr = 'Pour que Yann n'oublie pas.'
+# source = Tallerman (1997)
+# texttype = Ouvrages de recherche
+1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause.de
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+4	nompas	nompas	?	_	_	_	_	_	Gloss=ne.pas
+5	ankouaad..	ankounac'haat	?	_	_	_	_	_	Gloss=oublier
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bijer(2007:342),citédansJouitteau(2012b)__2
+# text = evit deomp nompas bezañ gwelet oc’h erruout asambles
+# text_fr = 'Pour pour que nous ne soyons pas vus arrivant ensemble.'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	deomp	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+3	nompas	nompas	?	_	_	_	_	_	Gloss=ne.pas
+4	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+6	oc’h	particuleo	?	_	_	_	_	_	Gloss=à
+7	erruout	erruout	?	_	_	_	_	_	Gloss=arriver
+8	asambles	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
+
+# sent_id = Favereau(1993:§'nompas')__1
+# text = Nompas he doa kalz oad en tu all d'he nizez.
+# text_fr = 'Non pas qu'elle soit beaucoup plus vieille que sa nièce.'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	Nompas	Nompas	?	_	_	_	_	_	Gloss=non.pas
+2	he	he	?	_	_	_	_	_	Gloss=3SGF
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	oad	oad	nom	_	_	_	_	_	Gloss=âge
+6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	tu	tu	nom	_	_	_	_	_	Gloss=côté
+8	all	all	?	_	_	_	_	_	Gloss=autre
+9	d'	da	préposition	_	_	_	_	_	Gloss=de
+10	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	nizez	nizez	?	_	_	_	_	_	Gloss=nièce
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__21
+# text = nompaz e-kreiz a Lambaol med kentoh 'tramant Roh-ar-Mor.
+# text_fr = 'Pas dans Lambaol mais plutôt vers Roc'h-ar-Mor.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	nompaz	nompaz	?	_	_	_	_	_	Gloss=pas
+2	e-kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=dans
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=4
+4	Lambaol	nompropre	?	_	_	_	_	_	Gloss=Lambaol
+5	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+6	kentoh	kentoc'h	?	_	_	_	_	_	Gloss=plutôt
+7	'	trema	?	_	_	_	_	_	Gloss=vers
+8	tramant	tramant	?	_	_	_	_	_	Gloss=?
+9	Roh-ar-Mor	nompropre	?	_	_	_	_	_	Gloss=Rocxxxh-ar-Mor
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

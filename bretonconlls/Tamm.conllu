@@ -1,0 +1,332 @@
+# sent_id = arMeliner(2009:16)__1
+# text = Gwall drist e oa gwelet an traoù-se holl é kouezhel tamm àr-lec'h tamm.
+# text_fr = 'C'était triste de voir tout cela tomber peu à peu en ruines.'
+# source = ar Meliner (2009)
+1	Gwall	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
+2	drist	trist	adjectif	_	_	_	_	_	Gloss=triste
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	traoù-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+8	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	kouezhel	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+11	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+12	àr-lec'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+13	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:96)__1
+# text = Pep hini a vez sod gand e dammou loened.
+# text_fr = 'Chacun aime ses petites bêtes.'
+# source = Gros (1984)
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	sod	sot	adjectif	_	_	_	_	_	Gloss=sot
+6	gand	gant	?	_	_	_	_	_	Gloss=avec
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	dammou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+9	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bête.s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:119)__1
+# text = un tamm kuizin tamm kegin vihan vihan
+# text_fr = 'une petite cuisine, une petite cuisine toute petite.'
+# text_phon = ['un tam', 'kyzən', 'tam', 'kigin', 'vi_ə_n', 'vi_ə_n']
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	kuizin	kuizin	?	_	_	_	_	_	Gloss=cuisine
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	kegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
+6	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+7	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+
+# sent_id = Stephens(1982:122)__1
+# text = Tamm ha tamm e kolle Anna ar gwelout.
+# text_fr = 'Anna perdait la vue petit à petit.'
+# location = Bulien
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Tamm	Tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	kolle	koll	verbe	_	_	_	_	_	Gloss=perdait
+6	Anna	nompropre	?	_	_	_	_	_	Gloss=Anna
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	gwelout	gweloud	verbe	_	_	_	_	_	Gloss=voir
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:22)__1
+# text = A-raog mond d'or gwele, on-noa greet eun tamm mad a gaoz [...]
+# text_fr = 'Nous avions bien parlé avant de nous mettre au lit... '
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	A-raog	araok	?	_	_	_	_	_	Gloss=avant
+2	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+3	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	or	POSS	?	_	_	_	_	_	Gloss=notre
+5	gwele	gwele	nom	_	_	_	_	_	Gloss=lit
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	on-noa	kaout	?	_	_	_	_	_	Gloss=avait
+8	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+9	eun	art	?	_	_	_	_	_	Gloss=un
+10	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+11	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	gaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
+14	[...]	[...]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1989:'diaocha')__1
+# text = Ni on-oa bet mil boan o tïaocha ar pez tamm koad-se.
+# text_fr = 'Nous avions eu mille peines à tirer cette pièce de bois de la grève.'
+# source = Gros (1989)
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	on-oa	kaout	?	_	_	_	_	_	Gloss=avait
+3	bet	kaout	?	_	_	_	_	_	Gloss=eu
+4	boan	poan	nom	_	_	_	_	_	Gloss=peine
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	tïaocha	di-.aod.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dé.grèv.er
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	pez	pezh	?	_	_	_	_	_	Gloss=pièce
+9	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+10	koad-se	koad	nom	_	_	_	_	_	Gloss=bois
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig(2010:42)__1
+# text = 'Po ket un tamm bara ? - Bou !
+# text_fr = 'Tu ne veux pas (un morceau) de pain ? - Si !'
+# source = Koadig (2010)
+# texttype = Ouvrages de recherche
+1	'	kaout	?	_	_	_	_	_	Gloss=auras
+2	Po	Po	?	_	_	_	_	_	Gloss=?
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+6	bara	bara	nom	_	_	_	_	_	Gloss=pain
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	-	-	PUNCT	_	_	_	_	Gloss=punct
+9	Bou	kaout	?	_	_	_	_	_	Gloss=aurai
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGarrec(1901:24,25)__1
+# text = 'Rabad eo, Bastien, heul tamm war va gourre.
+# text_fr = 'Inutile, Bastien, d'insister du tout sur moi.'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	'	arabat	?	_	_	_	_	_	Gloss=interdit
+2	Rabad	Rabad	?	_	_	_	_	_	Gloss=?
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	Bastien	nompropre	?	_	_	_	_	_	Gloss=Bastien
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	heul	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
+8	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+11	gourre	gorre	?	_	_	_	_	_	Gloss=dessus
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gér')__1
+# text = Amañ n'eus ger a damm.
+# text_fr = 'Ici il n'est pas question de manger.'
+# source = Gros (1989)
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	eus	E	?	_	_	_	_	_	Gloss=y.a
+4	ger	ger	nom	_	_	_	_	_	Gloss=mot
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	damm	damm	?	_	_	_	_	_	Gloss=morceau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:29)__1
+# text = Bremañ n'eo ket tamm memestra.
+# text_fr = 'Maintenant ce n'est pas du tout pareil.'
+# location = Le Juch
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Bremañ	Bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=du.tout
+6	memestra	memestra	adverbe	_	_	_	_	_	Gloss=même.chose
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:60)__1
+# text = Kelenner an Istor Santel n'oa tamm gwelloc'h.
+# text_fr = 'Le professeur d'histoire religieuse n'était pas (du tout) mieux.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Kelenner	kelenn(V.).-er,-our	?.?	_	_	_	_	_	Gloss=profess.eur
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	Istor	istor	nom	_	_	_	_	_	Gloss=histoire
+4	Santel	sant.-el(Adj.)	nom.?	_	_	_	_	_	Gloss=saint.e
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:27)__2
+# text = Ne gouchent tamm a-grenn an eil get egile.
+# text_fr = 'Ils ne convenaient absolument pas l'un à l'autre.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	gouchent	kouchañ	?	_	_	_	_	_	Gloss=convenaient
+3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=neg
+4	a-grenn	a-grenn	adverbe	_	_	_	_	_	Gloss=absolument
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	eil	egile	pronom	_	_	_	_	_	Gloss=second
+7	get	gant	?	_	_	_	_	_	Gloss=avec
+8	egile	egile	?	_	_	_	_	_	Gloss=l'@autre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBayon(1878:57)__1
+# text = Tamm ne greska.
+# text_fr = 'Il ne grandit pas du tout.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	Tamm	Tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	greska	kreskiñ	verbe	_	_	_	_	_	Gloss=grandit
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:407)__2
+# text = Hennezh na zav tamm ebet : ur skronn fall a-walh ?
+# text_fr = 'Il ne pousse pas du tout: c'est un gringalet.'
+# source = Gros (1984)
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
+3	zav	sevel	verbe	_	_	_	_	_	Gloss=monte
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6	:	art	?	_	_	_	_	_	Gloss=un
+7	ur	ur	?	_	_	_	_	_	Gloss=gringalet
+8	skronn	skronn	?	_	_	_	_	_	Gloss=?
+9	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+10	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+11		COP	?	_	_	_	_	_	Gloss=est
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__11
+# text = bankeier ya, oa tamm kadoriou neuze, noñ, bankeier.
+# text_fr = 'des bancs, oui, il n'y avait pas de chaises alors, non, des bancs.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	bankeier	bank.-eier	nom.?	_	_	_	_	_	Gloss=banc.s
+2	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	oa	E	?	_	_	_	_	_	Gloss=était
+5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+6	kadoriou	kador.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=chaise.s
+7	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	noñ	nann	interjection	_	_	_	_	_	Gloss=non
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	bankeier	bank.-eier	nom.?	_	_	_	_	_	Gloss=banc.s
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:44)__1
+# text = - "Mab va breur-kaer eo," emezi sec'h a-walc'h  an tamm anezhi ...
+# text_fr = 'C'est le fils de mon beau-frère, dit-elle assez sèchement.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	-	-	PUNCT	_	_	_	_	Gloss=punct
+2	"Mab	"Mab	?	_	_	_	_	_	Gloss=?
+3	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	breur-kaer	breur	nom	_	_	_	_	_	Gloss=frère
+5	eo,"	COP	?	_	_	_	_	_	Gloss=est
+6	sec'h	sec'h	?	_	_	_	_	_	Gloss=sec
+7	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+8	??	??	?	_	_	_	_	_	Gloss=[
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+12	..	..	?	_	_	_	_	_	Gloss=]
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Denez(1984:74)__1
+# text = Met tout an dud-se noe un tamm douar da zispariñ.
+# text_fr = 'Mais ils avaient tous un lopin de terre à travailler.'
+# dialect = Cornouaillais
+# source = Denez (1984)
+# texttype = Références de corpus
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dud-se	tud	nom	_	_	_	_	_	Gloss=gens]]-[[DEM|ci|Morph=1
+5	noe	kaout	?	_	_	_	_	_	Gloss=avait
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	douar	douar	nom	_	_	_	_	_	Gloss=terre
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	zispariñ	zispariñ	?	_	_	_	_	_	Gloss=travailler
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:21)__2
+# text = Un tamm brav a zour a rankemp da gaout, anat dit.
+# text_fr = 'Tu imagines bien qu'on avait besoin de pas mal d'eau.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	zour	dour	nom	_	_	_	_	_	Gloss=eau
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	rankemp	rankout	verbe	_	_	_	_	_	Gloss=devions
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	anat	anat	?	_	_	_	_	_	Gloss=évident
+12	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'eus')__4
+# text = Un tamm diskuizh ne ray ket droug dit, eus na ray.
+# text_fr = 'Un peu de repos ne te fera pas de mal.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	diskuizh	di-,dis-.skuizh	?.adjectif	_	_	_	_	_	Gloss=dé.fatigué
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	ray	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+8	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	eus	eus	?	_	_	_	_	_	Gloss=P
+11	na	na.na.ober	?.?.verbe-auxiliaire	_	_	_	_	_	Gloss=ne.R.fera
+12	ray.	ray.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Standard,Kervella(2014)__1
+# text = An tamm hag al lomm a zalc'h an den en e blom.
+# text_fr = 'Il faut manger et boire pour être en forme et travailler.'
+# source = Kervella (2014)
+# texttype = Ouvrages pédagogiques
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	lomm	lomm	quantifieur	_	_	_	_	_	Gloss=goutte
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	zalc'h	derc'hel	?	_	_	_	_	_	Gloss=garde
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	den	den	nom	_	_	_	_	_	Gloss=homme
+10	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	blom	plom	?	_	_	_	_	_	Gloss=aplomb
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,14 @@
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__1
+# text = tout ar ganatennoù 'zo kouet war an douar !
+# text_fr = '... toutes les billes sont tombées par terre !'
+# location = Locronan
+1	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	ganatennoù	ganatennoù.-où(PL.)	?.?	_	_	_	_	_	Gloss=1.s
+4	'	zo	?	_	_	_	_	_	Gloss=est
+5	zo	zo	?	_	_	_	_	_	Gloss=?
+6	kouet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
+7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	douar	douar	nom	_	_	_	_	_	Gloss=terre
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

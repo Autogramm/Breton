@@ -1,0 +1,128 @@
+# sent_id = Gros(1996:120)__2
+# text = N'ouzon ket pe oa o lavared ar wirionez pe o lavar gevier.
+# text_fr = 'Je ne sais s'il disait la vérité ou s'il mentait.'
+# source = Gros (1996)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+10	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	lavar	lavar	nom	_	_	_	_	_	Gloss=dire
+13	gevier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:79).__1
+# text = Hag e chome e-giz-se div pe deir eur horolaj, ha den ebet war e dro.
+# text_fr = 'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	chome	chom	verbe	_	_	_	_	_	Gloss=restait
+4	e-giz-se	e-giz.se	préposition.pronom	_	_	_	_	_	Gloss=comme.ça
+5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=1
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	den	den	nom	_	_	_	_	_	Gloss=personne
+8	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:26)__1
+# text = Setu m'o-doa kredennou, pe gentoc'h superstisionou.
+# text_fr = 'Donc ils avaient des croyances, ou plutôt des superstitions.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	o-doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	kredennou	kredennou	?	_	_	_	_	_	Gloss=croyances
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=1
+7	gentoc'h	kentoc'h	?	_	_	_	_	_	Gloss=plutôt
+8	superstisionou	superstisionou	?	_	_	_	_	_	Gloss=superstitions
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Lavar din ha dont a ri pe { ket /[[*]] get }.
+# text_fr = 'Di-moi si tu viendras ou pas.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	ha	C.ha(g)	?	_	_	_	_	_	Gloss=si
+4	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
+7	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+8	{	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=?
+10	/[[*]]	/[[*]]	?	_	_	_	_	_	Gloss=?
+11	get	get	?	_	_	_	_	_	Gloss=?
+12	}.	}.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArMoal(1902:7)__1
+# text = Red e vije deoh bezañ klevet pe welet anezañ.
+# text_fr = 'Vous auriez dû l'entendre ou le voir.'
+# dialect = Trégorrois
+# location = Tréguier
+# source = Ar Moal (1902)
+# texttype = Références de corpus
+1	Red	ret	?	_	_	_	_	_	Gloss=obligé
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+6	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+7	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=1
+8	welet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+9	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig (2010:27)__1
+# text = Deus din pe [[pfi|me]] az ay dit  ''Standard''
+# text_fr = 'Viens à moi ou je viens à toi.’ (se dit à qq de trop voyant)
+# text_phon = ['Deus', 'tiñ', 'pa méñ', 'hèy', 'dit', '!', "'@'@Goëlo'@'@"]
+1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+4	[[pfi|me]]	pfi	?	_	_	_	_	_	Gloss=moi
+5	az	az	?	_	_	_	_	_	Gloss=R|Morph=1
+6	ay	mont	verbe	_	_	_	_	_	Gloss=irai
+7	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+8	??	??	?	_	_	_	_	_	Gloss=
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	'	'	?	_	_	_	_	_	Gloss=
+11	'	'	?	_	_	_	_	_	Gloss=?
+12	Standard'	Standard'	?	_	_	_	_	_	Gloss=?
+13	'	'	?	_	_	_	_	_	Gloss=?
+14			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:26)__1
+# text = Brema-zouden ez eot a-dreñv, pe me a roio eun ognad deoh-hu!
+# text_fr = 'Tout-à-l'heure vous allez décamper, ou bien je vous donnerai un marron !'
+# source = Gros (1984)
+1	Brema-zouden	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
+3	eot	mont	verbe	_	_	_	_	_	Gloss=irez
+4	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=en.arrière
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+7	me	pfi	?	_	_	_	_	_	Gloss=moi
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	roio	reiñ	verbe	_	_	_	_	_	Gloss=donnerai
+10	eun	art	?	_	_	_	_	_	Gloss=un
+11	ognad	ognad	?	_	_	_	_	_	Gloss=marron
+12	deoh-hu	da.pronomincorporé.echo	préposition.?.?	_	_	_	_	_	Gloss=à.vous.vous
+13	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,13 @@
+# sent_id = ArBorgn(2011:77)__1
+# text = Hennezh 'zo hir e anal.
+# text_fr = 'Celui-là a le souffle long.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	'	zo	?	_	_	_	_	_	Gloss=est
+3	zo	zo	?	_	_	_	_	_	Gloss=?
+4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	anal	anal	?	_	_	_	_	_	Gloss=souffle
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

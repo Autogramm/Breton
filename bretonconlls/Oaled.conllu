@@ -1,0 +1,22 @@
+# sent_id = ArMeliner(2009:135)__1
+# text = A pa oa predet, holl an dud o doa em stardet muioc'h c'hoazh trema an oaled...
+# text_fr = 'Après le repas, tout le monde se rapprocha encore plus du foyer... '
+# source = Ar Meliner (2009)
+1	A	&	préposition	_	_	_	_	_	Gloss=et
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	predet	prediñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=dîn.é
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	o	kaout	?	_	_	_	_	_	Gloss=avaient
+10	doa	doa	?	_	_	_	_	_	Gloss=?
+11	em	pronomréfléchi	?	_	_	_	_	_	Gloss=se
+12	stardet	stardet	?	_	_	_	_	_	Gloss=rapprocher
+13	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
+14	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+15	trema	trema	?	_	_	_	_	_	Gloss=vers
+16	an	art	?	_	_	_	_	_	Gloss=le
+17	oaled..	oaled..	?	_	_	_	_	_	Gloss=foyer
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

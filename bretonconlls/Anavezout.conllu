@@ -1,0 +1,279 @@
+# sent_id = arGo(1950:6).__1
+# text = Anavezet mat em eus Yann ar Floc'h.
+# text_fr = 'J'ai bien connu Yann ar Floc'h.'
+# location = Pleyben
+# source = ar Go (1950)
+1	Anavezet	Anavezet	?	_	_	_	_	_	Gloss=connu
+2	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+3	em	em	?	_	_	_	_	_	Gloss=R
+4	eus	kaout	?	_	_	_	_	_	Gloss=ai
+5	Yann	Yann	?	_	_	_	_	_	Gloss=[[nompropre|Yann
+6	ar	ar	?	_	_	_	_	_	Gloss=ar
+7	Floc'h	Floc'h	?	_	_	_	_	_	Gloss=Flocxxxh]]]
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:45)__1
+# text = Eñ an hini a rede war-lerc'h ur plac'h yaouank dianav.
+# text_fr = 'C'est lui qui courait après une jeune fille inconnue.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	rede	redek	verbe	_	_	_	_	_	Gloss=courait
+6	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+9	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+10	dianav	di-	?	_	_	_	_	_	Gloss=in
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArGow(2005:56)__1
+# text = Hep mar ebet, he devoa graet anaoudegezh gant unan eus kizhier gouez an enez.
+# text_fr = 'Elle avait sans doute fait connaissance avec un des chats sauvages de l'île.'
+# source = Ar Gow (2005)
+1	Hep	hep	préposition	_	_	_	_	_	Gloss=sans
+2	mar	mar	nom	_	_	_	_	_	Gloss=doute
+3	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	he	he	?	_	_	_	_	_	Gloss=3SGF
+6	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	anaoudegezh	-egezh	nom	_	_	_	_	_	Gloss=ance
+9	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+11	eus	eus	?	_	_	_	_	_	Gloss=de
+12	kizhier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+13	gouez	gouez	adjectif	_	_	_	_	_	Gloss=sauvage
+
+# sent_id = Ternes(1970:309)__1
+# text = /məmbwa   čed ana:ẃed ən /
+# text_fr = 'Je ne l'avais pas connu.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/məmbwa	pfi.kaout	?.?	_	_	_	_	_	Gloss=moi.avais
+2			PUNCT	_	_	_	_	Gloss=punct
+3			PUNCT	_	_	_	_	Gloss=punct
+4	čed	čed	?	_	_	_	_	_	Gloss=?
+5	ana:ẃed	ana:ẃed	?	_	_	_	_	_	Gloss=connu
+6	ən	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1957:'lorgenn')__1
+# text = N'em-eus ket an'vet gwasoh lorgenn morse !
+# text_fr = 'Je n'ai jamais rencontré quelqu'un avec un tel poil dans la main !'
+# source = Le Gall (1957)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	em-eus	kaout	?	_	_	_	_	_	Gloss=a
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	an'	an'	?	_	_	_	_	_	Gloss=connu
+5	vet	vet	?	_	_	_	_	_	Gloss=?
+6	gwasoh	gwasoc'h	?	_	_	_	_	_	Gloss=pire
+7	lorgenn	lorgenn	?	_	_	_	_	_	Gloss=paresseux
+8	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:264)__1
+# text = N'inewen ket ac'hanout.
+# text_fr = 'Je ne te connaissais pas.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	inewen	inewen	?	_	_	_	_	_	Gloss=connaissais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ac'hanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = Me ' anava mat ar vaouez an hani 'zo ' chom a-kostez.
+# text_fr = 'Je connais bien la femme qui habite à côté.'
+# text_phon = ['mǝ', 'anawa', 'mat', 'ar vwes', 'nɛ͂n', 'zi ʃom akosti']
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	'	'	?	_	_	_	_	_	Gloss=?
+3			PUNCT	_	_	_	_	Gloss=punct
+4	anava	anava	?	_	_	_	_	_	Gloss=connait
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	hani	hani	?	_	_	_	_	_	Gloss=hini
+10	'	zo	?	_	_	_	_	_	Gloss=est
+11	zo	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	'	chom	verbe	_	_	_	_	_	Gloss=rester
+13			PUNCT	_	_	_	_	Gloss=punct
+14	chom	chom	verbe	_	_	_	_	_	Gloss=?
+15	a-kostez.	a-kostez.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Anavezet e oa en doa evet.
+# text_fr = 'On voyait qu'il était saoul.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Anavezet	Anavezet	?	_	_	_	_	_	Gloss=connu
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	evet	evañ	verbe	_	_	_	_	_	Gloss=bu
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016)__10
+# text = Anet eo ec'h anavezez ar vicher.
+# text_fr = 'On voit que tu connais le métier.'
+1	Anet	anat	?	_	_	_	_	_	Gloss=évident
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
+4	anavezez	anavezez	?	_	_	_	_	_	Gloss=connais
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vicher	micher	nom	_	_	_	_	_	Gloss=métier|Morph=1
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:108)__1
+# text = o fedenn trema an hani he deus anavezet hi ivez an holl glac'har...
+# text_fr = '... leur prière vers celle qui a connu, elle aussi, la grande affliction... '
+# source = Ar Meliner (2009)
+1	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+2	fedenn	pediñ.-enn	verbe.nom	_	_	_	_	_	Gloss=pri.ère
+3	trema	trema	?	_	_	_	_	_	Gloss=vers
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	hani	hini	nom-pronom	_	_	_	_	_	Gloss=N
+6	he	he	?	_	_	_	_	_	Gloss=3SGF
+7	deus	kaout	?	_	_	_	_	_	Gloss=a
+8	anavezet	anavezet	?	_	_	_	_	_	Gloss=connu
+9	hi	pfi	?	_	_	_	_	_	Gloss=elle
+10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	glac'har..	glac'har	?	_	_	_	_	_	Gloss=chagrin
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:40)__1
+# text = Gallek mad a ouient tout ivé, pétra benac ma né ouient ket scriva na lenn.
+# text_fr = 'Ils connaissaient tous bien le français bien qu'ils ne sussent ni lire ni écrire.'
+# dialect = Léonard
+# location = Lesneven
+# source = Burel (2012)
+# texttype = Références de corpus
+1	Gallek	galleg	nom	_	_	_	_	_	Gloss=français
+2	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ouient	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savaient
+5	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+6	ivé	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	pétra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+9	benac	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+11	né	né	?	_	_	_	_	_	Gloss=ne
+12	ouient	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savaient
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+14	scriva	skrivañ	verbe	_	_	_	_	_	Gloss=écrire
+15	na	na...na	?	_	_	_	_	_	Gloss=ni
+16	lenn	lenn(V.)	?	_	_	_	_	_	Gloss=lire
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Wmffre1998:56)__1
+# text = [ fot ke la:ɤ gɛj_ə_ɤ kaɤ gud ɤã a_ɤ_ veɤjõn_ə_ ]
+# text_fr = 'Ne dites pas de mensonges car je connais la vérité.'
+# source = Wmffre (1998)
+# texttype = Ouvrages de recherche
+1	[	faotañ	verbe	_	_	_	_	_	Gloss=faut
+2	fot	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	ke	ke	complémenteur	_	_	_	_	_	Gloss=?
+4	la:ɤ	lavarout	verbe	_	_	_	_	_	Gloss=dire
+5	gɛj_ə_ɤ	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+6	kaɤ	rak	?	_	_	_	_	_	Gloss=car
+7	gud	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+8	ɤã	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+9	a_ɤ_	art	?	_	_	_	_	_	Gloss=le
+10	veɤjõn_ə_	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+11	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Drezen(1990:42)__1
+# text = Ha dizifenn, pa n'ouzez ket ar pep retañ.
+# text_fr = 'Et sans défense, puisque tu ne connais pas le minimum.' (l'indispensable)
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	dizifenn	di-	?	_	_	_	_	_	Gloss=sans|Morph=1
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=comme
+5	n'	n'	?	_	_	_	_	_	Gloss=ne
+6	ouzez	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+10	retañ	ret.superlatif	?.adjectif	_	_	_	_	_	Gloss=obligé.le.plus
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Description"RedanAmzer"deUrSkragnenUhelgoad[02/05/2010].__1
+# text = Kement hent, kement gwenojenn, kement korn a zo er vro a zo anavezet gantañ.
+# text_fr = 'Il connait chaque chemin, chaque riboulle, chaque coin du pays.'
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+2	hent	hent	nom	_	_	_	_	_	Gloss=chemin
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+5	gwenojenn	gwenojenn	nom	_	_	_	_	_	Gloss=riboulle
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=chaque
+8	korn	korn	nom	_	_	_	_	_	Gloss=coin
+9	a	a	préposition	_	_	_	_	_	Gloss=R
+10	zo	E	?	_	_	_	_	_	Gloss=y.a
+11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	zo	zo	?	_	_	_	_	_	Gloss=est
+15	anavezet	anavezet	?	_	_	_	_	_	Gloss=connu
+16	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=par.lui
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:22)__1
+# text = A-boan ma anavezit zoken an "a" ouz an "o".
+# text_fr = 'Tu sais à peine lire !'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	A-boan	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+3	anavezit	anavezit	?	_	_	_	_	_	Gloss=connaissez
+4	zoken	zoken	?	_	_	_	_	_	Gloss=même
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	"a"	"a"	?	_	_	_	_	_	Gloss="a"
+7	ouz	ouz	?	_	_	_	_	_	Gloss=de
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	"o"	"o"	?	_	_	_	_	_	Gloss="o"
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:29)__1
+# text = N'e-teus ket bet anavezet Mark?
+# text_fr = 'N'as-tu pas connu Mark?'
+# source = Gros (1970)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	e-teus	e-teus	?	_	_	_	_	_	Gloss=R
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	anavezet	anavezet	?	_	_	_	_	_	Gloss=connu
+6	Mark	nompropre	?	_	_	_	_	_	Gloss=Mark
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:13)__1
+# text = An êr az-peus da houzoud ar vicher, 'mezaon !
+# text_fr = 'Mais c'est que tu t'y connais !'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	êr	êr	?	_	_	_	_	_	Gloss=air
+3	az-peus	az-peus	?	_	_	_	_	_	Gloss=R
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	houzoud	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vicher	micher	nom	_	_	_	_	_	Gloss=métier|Morph=1
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	'	Meusaon	?	_	_	_	_	_	Gloss=!
+10	mezaon	mezaon	?	_	_	_	_	_	Gloss=?
+11	!	!	PUNCT	_	_	_	_	Gloss=punct

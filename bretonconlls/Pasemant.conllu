@@ -1,0 +1,46 @@
+# sent_id = Thibault(1914:190)__1
+# text = pasemant te me fwoen.
+# text_fr = 'en plus de ma peine, nonobstant mon mal'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	pasemant	pasemant	préposition	_	_	_	_	_	Gloss=pas.seulement
+2	te	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	fwoen	poan	nom	_	_	_	_	_	Gloss=peine
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Thibault(1914:191)__2
+# text = / pasemãt mi ma mi_e_w, i ma fal eẅe / .
+# text_fr = 'Non seulement il est ivre, mais de plus il est méchant.'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	pasemãt	pasemãt	?	_	_	_	_	_	Gloss=?
+3	mi	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	mi_e_w	mezv	adjectif	_	_	_	_	_	Gloss=saoûl
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+9	fal	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+10	eẅe	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+11	/	/	PUNCT	_	_	_	_	Gloss=punct
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Thibault(1914:191)__1
+# text = Pasemant mi hon klañv i ma tein labourat.
+# text_fr = 'Bien que je sois malade, il me faut encore travailler.'
+# dialect = Vannetais
+# source = Thibault (1914)
+# texttype = Ouvrages de recherche
+1	Pasemant	Pasemant	préposition	_	_	_	_	_	Gloss=pas.seulement
+2	mi	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	hon	hon	?	_	_	_	_	_	Gloss=+C
+4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+5	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+7	tein	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+8	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,89 @@
+# sent_id = Perrot(1943:48)__1
+# text = Diwar hiziv e vo peoc’h, en ti-mañ pelloc'h, a drugarez Doue.
+# text_fr = 'A partir d'aujourd'hui, grâce à Dieu, cette maison vivra finalement en paix.'
+# source = Perrot (1943)
+# texttype = Références de corpus
+1	Diwar	diwar	préposition	_	_	_	_	_	Gloss=à.partir.de
+2	hiziv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	peoc’h	peoc'h	?	_	_	_	_	_	Gloss=paix
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
+9	pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	drugarez	trugarez	nom-interjection	_	_	_	_	_	Gloss=merci
+13	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016b)__1
+# text = Me jouch ar bla-mañ pelloc'h e planto patatez e-lec'h plantañ pour.
+# text_fr = 'Je pense que cette année finalement elle plantera des patates au lieu des poireaux.'
+# dialect = Léonard
+# source = M-L. B. (04/2016b)
+# texttype = Élicitations
+1	jouch	soñjal	verbe	_	_	_	_	_	Gloss=pense
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	bla-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
+4	pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	planto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
+7	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
+8	e-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
+9	plantañ	plantañ	verbe	_	_	_	_	_	Gloss=planter
+10	pour	pour	nom	_	_	_	_	_	Gloss=poireaux
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:26)__2
+# text = Pelloc'h goude oan deuet mat d'an aotrou, ha meur a vanne gwin a roas din a-c'houdevezh.
+# text_fr = 'J'étais finalement bien vu par le curé, et il m'a offert bien des coups depuis.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Pelloc'h	Pelloc'h	?	_	_	_	_	_	Gloss=finalement
+2	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+3	oan	COP	nom	_	_	_	_	_	Gloss=étais
+4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ha	&	?	_	_	_	_	_	Gloss=et
+11	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	vanne	banne	?	_	_	_	_	_	Gloss=verre
+14	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
+15	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+16	roas	reiñ	verbe	_	_	_	_	_	Gloss=donna
+17	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+18	a-c'houdevezh	a-c'houdevezh	?	_	_	_	_	_	Gloss=depuis
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:7)__2
+# text = Ehana a ri pelloc'h dispac'ha ha termi ?
+# text_fr = 'Tu vas t'arrêter à la fin de t'agiter et de geindre ?'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Ehana	ehanañ	?	_	_	_	_	_	Gloss=cesser
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
+4	pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
+5	dispac'ha	dispac'hañ	?	_	_	_	_	_	Gloss=agiter
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	termi	termal	verbe	_	_	_	_	_	Gloss=geindre
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moal(1890:238)__1
+# text = Pelloc'h ez eus goaz anezhañ.
+# text_fr = 'Enfin, le voila homme !'
+# dialect = Léonard
+# source = Moal (1890)
+# texttype = Ouvrages de recherche
+1	Pelloc'h	Pelloc'h	?	_	_	_	_	_	Gloss=finalement
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	goaz	gwaz	?	_	_	_	_	_	Gloss=homme
+5	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

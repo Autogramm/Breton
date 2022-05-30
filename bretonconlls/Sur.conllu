@@ -1,0 +1,86 @@
+# sent_id = Herrieu(1994:64)__1
+# text = Divroiñ a rae sur tud ar vro-mañ, […] rak ne weler ti nevez erbet.
+# text_fr = 'Les gens de ce pays ont sûrement émigré car on ne voit aucune maison neuve.'
+# source = Herrieu (1994)
+1	Divroiñ	di-	?	_	_	_	_	_	Gloss=dé|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	sur	sur	adverbe	_	_	_	_	_	Gloss=sûrement
+5	tud	tud	nom	_	_	_	_	_	Gloss=gens
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vro-mañ,	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|ci|Morph=1
+8	[…]	[…]	?	_	_	_	_	_	Gloss=?
+9	rak	rak	?	_	_	_	_	_	Gloss=car
+10	ne	ne	?	_	_	_	_	_	Gloss=ne
+11	weler	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voit.on
+12	ti	ti	nom	_	_	_	_	_	Gloss=maison
+13	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+14	erbet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:49)__1
+# text = Eul leh kreñv e tle beza bet evito sur a-walh.
+# text_fr = 'Ça a sûrement été pour eux une place forte.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Eul	art	?	_	_	_	_	_	Gloss=un
+2	leh	lec'h	?	_	_	_	_	_	Gloss=place
+3	kreñv	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	tle	dleout	verbe	_	_	_	_	_	Gloss=doit
+6	beza	bezañ	?	_	_	_	_	_	Gloss=être
+7	bet	bet	?	_	_	_	_	_	Gloss=été
+8	evito	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
+9	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+10	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:19)__1
+# text = Dre aman zo sur anezho.
+# text_fr = 'Il y en a sûrement ici.'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
+2	aman	amañ	?	_	_	_	_	_	Gloss=ici
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+5	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__5
+# text = Kontant e vichen ma c'houefen sur e kanfe [[nom propre|Yann]].
+# text_fr = 'Je serais content si je savais avec certitude que Yann chantera.'
+# dialect = Léonard
+# source = A. M. (04/2016b)
+# texttype = Élicitations
+1	Kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vichen	COP	?	_	_	_	_	_	Gloss=serais
+4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+5	c'houefen	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+6	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	kanfe	kanañ	verbe	_	_	_	_	_	Gloss=chanterait
+9	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+10	propre|Yann]].	propre|Yann]].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Press (1986:258)__1
+# text = Mar deus ul loen ganin karet me lavar eo sur va c'hazeg.
+# text_fr = 'S'il y a un animal que j'aime, c'est sûrement mon cheval.'
+# source2 = Duval (1982:51)
+1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+2	deus	ezeus	?	_	_	_	_	_	Gloss=y.a
+3	ul	art	?	_	_	_	_	_	Gloss=un
+4	loen	loen	nom	_	_	_	_	_	Gloss=animal
+5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+6	karet	kaout	?	_	_	_	_	_	Gloss=aimé
+7	me	pfi	?	_	_	_	_	_	Gloss=moi
+8	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	sur	sur	adverbe	_	_	_	_	_	Gloss=surement
+11	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+12	c'hazeg	kazeg	?	_	_	_	_	_	Gloss=jument
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

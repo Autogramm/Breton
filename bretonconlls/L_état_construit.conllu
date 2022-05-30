@@ -1,0 +1,524 @@
+# sent_id = Gros(1970b:§'liou')__1
+# text = Hizio n'eus ket med ø liou ar goañv war an amzer.
+# text_fr = 'Aujourd'hui le temps n'a que l'apparence de l'hiver.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hizio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	eus	E	?	_	_	_	_	_	Gloss=y.a
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+6	ø	ø	?	_	_	_	_	_	Gloss=
+7	liou	liv	nom	_	_	_	_	_	Gloss=couleur
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	goañv	goañv	nom	_	_	_	_	_	Gloss=hiver
+10	war	war	?	_	_	_	_	_	Gloss=sur
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__5
+# text = N'eus forz da di biou ez in, e vin degemeret mad.
+# text_fr = 'N'importe chez qui j'irai, je serai bien reçu.'
+# source = Gros (1989)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	forz	forzh	quantifieur	_	_	_	_	_	Gloss=cas
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	di	ti	nom	_	_	_	_	_	Gloss=maison
+6	biou	piv	pronom	_	_	_	_	_	Gloss=qui|Morph=1
+7	ez	ez	?	_	_	_	_	_	Gloss=R
+8	in	mont	verbe	_	_	_	_	_	Gloss=irai
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R
+11	vin	COP	?	_	_	_	_	_	Gloss=serai
+12	degemeret	degemer.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=accueill.i
+13	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Planiel,M-N.Kadour-LeGonidec,kontañkaoz(12/2017)__1
+# text = {kambr / [[*]] (ar) gambr } ar vugale
+# text_fr = 'la chambre des enfants'
+# source = kontañ kaoz (12/2017)
+1	{kambr	kambr	nom	_	_	_	_	_	Gloss=chambre
+2	/	/	PUNCT	_	_	_	_	Gloss=punct
+3	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=?
+4	(ar)	(ar)	?	_	_	_	_	_	Gloss=?
+5	gambr	gambr	?	_	_	_	_	_	Gloss=?
+6	}	}	?	_	_	_	_	_	Gloss=?
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id = Douarnenez,kontañkaoz(12/2017)__1
+# text = ø kramm ar vugale
+# text_fr = 'la chambre des enfants'
+# source = kontañ kaoz (12/2017)
+1	ø	ø	?	_	_	_	_	_	Gloss=
+2	kramm	kambr	nom	_	_	_	_	_	Gloss=chambre
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id = Press(1986:211)__1
+# text = ø toenn ø ti ar pesketaer
+# text_fr = 'le toit de la maison du pêcheur.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	ø	ø	?	_	_	_	_	_	Gloss=
+2	toenn	toenn	?	_	_	_	_	_	Gloss=toit
+3	ø	ø	?	_	_	_	_	_	Gloss=?
+4	ti	ti	nom	_	_	_	_	_	Gloss=maison
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	pesketaer	pesk.-ed(PL.).-a.-er,-our	nom.?.verbe.?	_	_	_	_	_	Gloss=poisson.s.V.eur
+
+# sent_id = Croq(1908:62)__1
+# text = Ema ar zouben al leaz o vont war an daol! Souben a leaz, ha bara gwenn...
+# text_fr = 'La soupe au lait est servie ! Soupe au lait et pain blanc... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	zouben	soubenn	nom	_	_	_	_	_	Gloss=soupe
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	leaz	laezh	nom	_	_	_	_	_	Gloss=lait
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+8	war	war	?	_	_	_	_	_	Gloss=sur
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	daol	taol(F.)	?	_	_	_	_	_	Gloss=table]|Morph=1
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+12	Souben	soubenn	nom	_	_	_	_	_	Gloss=soupe
+13	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+14	leaz	laezh	nom	_	_	_	_	_	Gloss=lait
+15	,	,	PUNCT	_	_	_	_	Gloss=punct
+16	ha	&	?	_	_	_	_	_	Gloss=et
+17	bara	bara	nom	_	_	_	_	_	Gloss=pain
+18	gwenn..	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:22)__2
+# text = Brilli fresk... Eun diner ar vrellenn
+# text_fr = 'des maquereaux frais... un dîner de maquereau.
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Brilli	brezhell.plurielinterne	nom.?	_	_	_	_	_	Gloss=maquereau.x
+2	fresk..	fresk	nom	_	_	_	_	_	Gloss=frais
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+4	Eun	art	?	_	_	_	_	_	Gloss=un
+5	diner	diner	?	_	_	_	_	_	Gloss=dîner
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vrellenn	brezhell	nom	_	_	_	_	_	Gloss=maquereau|Morph=1
+
+# sent_id = Fagon&Riou(2015:'dibaba')__1
+# text = hag e veze laket sier war ar plañch ar grignol
+# text_fr = 'et on posait des sacs sur le plancher du grenier'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	veze	COP	?	_	_	_	_	_	Gloss=était
+4	laket	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+5	sier	sac'h.-ier(PL.)	?.?	_	_	_	_	_	Gloss=sac.s
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	plañch	plañch	?	_	_	_	_	_	Gloss=plancher
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	grignol	grignol	?	_	_	_	_	_	Gloss=grenier
+
+# sent_id = Kergoat(1976:46)__1
+# text = C'hwi oa e-barzh ar c'houch an dud a oa araok [...] ?.
+# text_fr = 'Vous étiez dans l'équipe de ceux d'avant ?'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi	hwi	?	_	_	_	_	_	Gloss=?
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c'houch	c'houch	?	_	_	_	_	_	Gloss=équipe
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	oa	COP	?	_	_	_	_	_	Gloss=était
+11	araok	araok	?	_	_	_	_	_	Gloss=avant
+12	[...]	[...]	?	_	_	_	_	_	Gloss=?
+13	?.	?.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Yekel(2016:'[http://www.brezhonegbrovear.bzh/yezhadur.php?pajenn=renadenn_draarrenadenn-dra]')__1
+# text = (ar) gambr ar vugale
+# text_fr = 'la chambre des enfants.'
+# source = Yekel (2016)
+1	(ar)	art	?	_	_	_	_	_	Gloss=le|Morph=1
+2	gambr	kambr	nom	_	_	_	_	_	Gloss=chambre
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id = Yekel(2016:'[http://www.brezhonegbrovear.bzh/yezhadur.php?pajenn=renadenn_draarrenadenn-dra]')__1
+# text = Arri eo (ar) vazh ar paotr kozh !
+# text_fr = 'Voilà le bâton du vieux !'
+# source = Yekel (2016)
+1	Arri	arru	?	_	_	_	_	_	Gloss=arrivé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	(ar)	art	?	_	_	_	_	_	Gloss=le
+4	vazh	bazh	nom	_	_	_	_	_	Gloss=bâton|Morph=1
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+7	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Yekel(2016:'[http://www.brezhonegbrovear.bzh/yezhadur.php?pajenn=renadenn_draarrenadenn-dra]')__1
+# text = (ar) volotenn an hini bihan
+# text_fr = 'la balle du petit.'
+# source = Yekel (2016)
+1	(ar)	art	?	_	_	_	_	_	Gloss=le|Morph=1
+2	volotenn	volotenn	?	_	_	_	_	_	Gloss=balle
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+
+# sent_id = Léon1913,LoeizarFloc'h,Andiouvuntrerez,RomantGazetenArBobl__1
+# text = mar kerez e kemerimp an trein div heur hanter
+# text_fr = 'Si tu veux, nous prendrons le train de deux heures et demi.'
+1	mar	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	kerez	karout	verbe	_	_	_	_	_	Gloss=aimes
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	kemerimp	kemer	verbe	_	_	_	_	_	Gloss=prendrons
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	trein	trein	?	_	_	_	_	_	Gloss=train
+7	div	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+8	heur	eur	nom	_	_	_	_	_	Gloss=heure
+9	hanter	hanter	quantifieur	_	_	_	_	_	Gloss=demi
+
+# sent_id = Bouzec&al.(2017:205)__1
+# text = Ba n deun m prad oa un takad lerc'h 'oa ket 'mè' boull'nn.
+# text_fr = 'Dans le bas de la prairie, il y avait un endroit où il n'y avait que de la boue.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+2	n	art	?	_	_	_	_	_	Gloss=un
+3	deun	don	adverbe-adjectif	_	_	_	_	_	Gloss=fond
+4	m	art	?	_	_	_	_	_	Gloss=le
+5	prad	prad	nom	_	_	_	_	_	Gloss=champ
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	un	art	?	_	_	_	_	_	Gloss=un
+8	takad	takad	?	_	_	_	_	_	Gloss=endroit
+9	lerc'h	e-lec'h	?	_	_	_	_	_	Gloss=où
+10	'	COP	?	_	_	_	_	_	Gloss=était
+11	oa	oa	?	_	_	_	_	_	Gloss=?
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+14	mè'	mè'	?	_	_	_	_	_	Gloss=?
+15			PUNCT	_	_	_	_	Gloss=punct
+16	boull'	boull'	?	_	_	_	_	_	Gloss=boue
+17	nn.	nn.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bouzec & al. (2017:410)__1
+# text = 'N dorn m baël'nn zo tomm-ru.
+# text_fr = 'La queue de la poële est brûlante !'
+1	'	'	?	_	_	_	_	_	Gloss=
+2	N	N	?	_	_	_	_	_	Gloss=?
+3	dorn	dorn	nom	_	_	_	_	_	Gloss=Dorn
+4	m	m	?	_	_	_	_	_	Gloss=ar
+5	baël'	baël'	?	_	_	_	_	_	Gloss=baelon
+6	nn	nn	?	_	_	_	_	_	Gloss=?
+7	zo	zo	?	_	_	_	_	_	Gloss=zo
+8	tomm-ru	tomm-ru	?	_	_	_	_	_	Gloss=tomm-ruz
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:448)__1
+# text = pa yemp 'barzh (ar ?) sal ar gouelioù...
+# text_fr = 'Quand nous allions à la salle des fêtes... '
+# text_phon = ['[ pe', 'hɛmp', 'baʁsal', 'aʁgwiju ]']
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	yemp	mont	verbe	_	_	_	_	_	Gloss=allions
+3	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+4	barzh	art	?	_	_	_	_	_	Gloss=le
+5	(ar	(ar	?	_	_	_	_	_	Gloss=salle
+6	?)	?)	?	_	_	_	_	_	Gloss=?
+7	sal	sal	?	_	_	_	_	_	Gloss=?
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	gouelioù..	gouel(M.).-ioù(PL.)	?.?	_	_	_	_	_	Gloss=fête.s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ernault(1887a:90,91)__1
+# text = prest da meruell euit an hanoff hon saluer iesus-christ
+# text_fr = 'prêts à mourir pour le nom de notre sauveur Jésus-Christ'
+# source = Moyen breton
+1	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
+2	da	da	préposition	_	_	_	_	_	Gloss=à
+3	meruell	mervel	verbe	_	_	_	_	_	Gloss=mourir
+4	euit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	hanoff	anv	nom	_	_	_	_	_	Gloss=nom
+7	hon	POSS	?	_	_	_	_	_	Gloss=notre
+8	saluer	salver	?	_	_	_	_	_	Gloss=sauveur
+9	iesus-christ	nompropre	?	_	_	_	_	_	Gloss=Jésus-Christ
+
+# sent_id = ArFloc'h(1985:35)__1
+# text = an tonton Laou a ranke lipat ur bigorn en ostaleri ar gar.
+# text_fr = '... le tonton Laou devait boire un petit coup au café de la gare.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	tonton	tonton	nom	_	_	_	_	_	Gloss=tonton
+3	Laou	nompropre	nom	_	_	_	_	_	Gloss=Laou
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
+6	lipat	lipat	?	_	_	_	_	_	Gloss=lécher
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	bigorn	bigorn	?	_	_	_	_	_	Gloss=petit.truc
+9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	ostaleri	ostaleri	nom	_	_	_	_	_	Gloss=café
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	gar	gar	nom	_	_	_	_	_	Gloss=gare
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMoal(1902:14)__1
+# text = En toull an hent-se.
+# text_fr = 'dans le creux de ce chemin.'
+# dialect = Trégorrois
+# location = Tréguier
+# source = Ar Moal (1902)
+# texttype = Références de corpus
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hent-se	hent	nom	_	_	_	_	_	Gloss=chemin
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Berrien),1580,GW.__1
+# text = An buhez Sant Gwenole abat kentaf eus a Landevennec.
+# text_fr = 'La vie de Saint-Gwénolé premier abbé de Landévennec.'
+# location = Berrien
+# source = GW.
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+3	Sant	sant	nom	_	_	_	_	_	Gloss=saint
+4	Gwenole	Gwenole	?	_	_	_	_	_	Gloss=Gwenole
+5	abat	abat	?	_	_	_	_	_	Gloss=abbé
+6	kentaf	kentaf	?	_	_	_	_	_	Gloss=premier
+7	eus	eus	?	_	_	_	_	_	Gloss=de
+8	a	a	préposition	_	_	_	_	_	Gloss=de
+9	Landevennec	Landevennec	?	_	_	_	_	_	Gloss=Landevennec
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abeozen(1969:125)__1
+# text = N'eo ket possupl, plac'h-kaezh-me ! eme Seza...
+# text_fr = 'Ce n'est pas possible, ma pauvre ! dit Seza... '
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	possupl	posupl	?	_	_	_	_	_	Gloss=possible
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	plac'h-kaezh-me	plac'h	?	_	_	_	_	_	Gloss=fille
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+8	eme	eme	préposition	_	_	_	_	_	Gloss=dit
+9	Seza..	nompropre	?	_	_	_	_	_	Gloss=Seza
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'mond')__1
+# text = An heñi  gouez ba krabanou hezh beñ heñ n'a ket pell (a)nahoñ.
+# text_fr = 'Celui qui tombe entre ses paluches ne va pas loin.'
+# location = Plouyé
+# source = Lozach (2012-)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	heñi	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	gouez	kouezhañ	adjectif	_	_	_	_	_	Gloss=tombe
+6	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	krabanou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+8	hezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+9	beñ	interjection	?	_	_	_	_	_	Gloss=ben
+10	heñ	pfi	?	_	_	_	_	_	Gloss=lui
+11	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+12	a	mont	verbe	_	_	_	_	_	Gloss=va
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+14	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
+15	(a)nahoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Miossec(1980:69)__5
+# text = Famill homañ a gendalh d'ar galleg evel ar re all endro dezi.
+# text_fr = 'Sa famille (à elle) continue en français comme les autres autour d'elle.'
+# dialect = Léonard
+# source = Miossec (1980)
+# texttype = Références de corpus
+1	Famill	familh	nom	_	_	_	_	_	Gloss=famille
+2	homañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	gendalh	kenderc'hel	?	_	_	_	_	_	Gloss=continue
+5	d'	da	préposition	_	_	_	_	_	Gloss=de
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	galleg	galleg	nom	_	_	_	_	_	Gloss=français
+8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+11	all	all	?	_	_	_	_	_	Gloss=autre
+12	endro	endro	?	_	_	_	_	_	Gloss=autour
+13	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.elle
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__5
+# text = N'eus forz da di biou ez in, e vin degemeret mad.
+# text_fr = 'N'importe chez qui j'irai, je serai bien reçu.'
+# source = Gros (1989)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	forz	forzh	quantifieur	_	_	_	_	_	Gloss=importance
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	di	ti	nom	_	_	_	_	_	Gloss=maison
+6	biou	piv	pronom	_	_	_	_	_	Gloss=qui
+7	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
+8	in	mont	verbe	_	_	_	_	_	Gloss=irai
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	vin	COP	?	_	_	_	_	_	Gloss=serai
+12	degemeret	degemer.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=accueil.i
+13	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1992:154)__2
+# text = merc'h henañ ar roue
+# text_fr = 'la fille aînée du roi'
+# source = Stephens (1992)
+# texttype = Ouvrages de recherche
+1	merc'h	merc'h	?	_	_	_	_	_	Gloss=fille
+2	henañ	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	roue	roue	nom	_	_	_	_	_	Gloss=roi
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__8
+# text = An dud o deus ezhomm dour evit chom beo.
+# text_fr = 'On a besoin d'eau pour survivre.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+9	beo	bev	adjectif	_	_	_	_	_	Gloss=vivant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc’h(1950:57)__1
+# text = O sacha e-giz-mañ war ø nask va buoc'h, a rankan da stleja ...
+# text_fr = 'En tirant ainsi sur la chaîne de ma vache, que je dois trainer.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	sacha	sachañ	verbe	_	_	_	_	_	Gloss=tirer
+3	e-giz-mañ	e-giz.ads	préposition.?	_	_	_	_	_	Gloss=comme.là
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	ø	ø	?	_	_	_	_	_	Gloss=
+6	nask	nask	?	_	_	_	_	_	Gloss=chaîne
+7	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	buoc'h	buoc'h	?	_	_	_	_	_	Gloss=vache
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	stleja	stlejañ	?	_	_	_	_	_	Gloss=trainer
+14	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'lien')__1
+# text = Hennez a oa e ø bord eur batiment a lïen.
+# text_fr = 'Celui-là était à bord d'un navire à voiles.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	e	P.e	?	_	_	_	_	_	Gloss=en
+5	ø	ø	?	_	_	_	_	_	Gloss=
+6	bord	bord	?	_	_	_	_	_	Gloss=bord
+7	eur	art	nom	_	_	_	_	_	Gloss=un
+8	batiment	batimant	?	_	_	_	_	_	Gloss=bâtiment
+9	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	lïen	lien	nom	_	_	_	_	_	Gloss=voile
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arGow(1999:51)__1
+# text = Evit ober dezho diskenn e lonkas Yann meur a skudellad laezh.
+# text_fr = 'Yann avala plus d'une écuelle de lait pour les faire descendre (les crêpes).'
+# location = Pleyben
+# source = ar Gow (1999)
+1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+3	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=pour.eux
+4	diskenn	diskenn	verbe	_	_	_	_	_	Gloss=descendre
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	lonkas	lonkañ	verbe	_	_	_	_	_	Gloss=avala
+7	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+8	meur	meur	quantifieur	_	_	_	_	_	Gloss=moulte
+9	a	a	préposition	_	_	_	_	_	Gloss=de
+10	skudellad	skudell.-ad	nom.?	_	_	_	_	_	Gloss=écuelle.ée
+11	laezh	laezh	nom	_	_	_	_	_	Gloss=lait
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:7)__2
+# text = an niver eñvorioù
+# text_fr = 'le nombre de souvenirs'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	niver	niver	?	_	_	_	_	_	Gloss=nombre
+3	eñvorioù	eñvor.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=souvenir.s
+
+# sent_id = Goyat (2012:203)__1
+# text = ar chapel gaerañ eus ar barrez
+# text_fr = 'la plus belle chapelle de la paroisse.'
+# text_phon = ['ø', 'chapel', 'gaerañ', '', 'ar barrez', "'@'@état construit'@'@"]
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	chapel	chapel	nom	_	_	_	_	_	Gloss=chapelle
+3	gaerañ	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=jolie]].[[superlatif|le.plus|Morph=1
+4	eus	eus	?	_	_	_	_	_	Gloss=de
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	barrez	parrez	nom	_	_	_	_	_	Gloss=paroisse|Morph=1
+
+# sent_id = Burel(2012:188)__1
+# text = tri mis bennac goudé ar maro eus à Yvon...
+# text_fr = 'Trois mois après la mort d'Yvon... '
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	mis	miz	?	_	_	_	_	_	Gloss=mois
+2	bennac	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	goudé	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+6	eus	eus	?	_	_	_	_	_	Gloss=de
+7	à	à	préposition	_	_	_	_	_	Gloss=a
+8	Yvon..	Yvon..	?	_	_	_	_	_	Gloss=Yvon
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'liou')__1
+# text = He bizaj a oa el liou d'ar pri.
+# text_fr = 'Son visage avait la couleur de l'argile.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	bizaj	bizaj	nom	_	_	_	_	_	Gloss=visage
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	liou	liv	nom	_	_	_	_	_	Gloss=couleur
+7	d'	da	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	pri	pri	nom	_	_	_	_	_	Gloss=argile
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

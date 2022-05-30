@@ -1,0 +1,57 @@
+# sent_id = Miossec(1980:70)__1
+# text = Ar gambr a'z om resevet enni a zo eur gambr vihan.
+# text_fr = 'La chambre dans laquelle nous sommes reçus est petite.'
+# dialect = Léonard
+# source = Miossec (1980)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+2	gambr	gambr	?	_	_	_	_	_	Gloss=chambre
+3	a'	a'	?	_	_	_	_	_	Gloss=R
+4	z	z	?	_	_	_	_	_	Gloss=?
+5	om	COP	?	_	_	_	_	_	Gloss=sommes
+6	resevet	resevet	?	_	_	_	_	_	Gloss=reçu
+7	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	zo	zo	?	_	_	_	_	_	Gloss=est
+10	eur	art	nom	_	_	_	_	_	Gloss=un
+11	gambr	gambr	?	_	_	_	_	_	Gloss=1
+12	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petite|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Douarnenez,kontañkaoz(12/2017)__1
+# text = Kramm ar vugale
+# text_fr = 'la chambre des enfants'
+# source = kontañ kaoz (12/2017)
+1	Kramm	Kramm	?	_	_	_	_	_	Gloss=chambre
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+
+# sent_id = Press(1986:202)__1
+# text = E gambrig-kousket e oa Divi o naetaat gant evezh.
+# text_fr = 'Divi nettoyait sa chambre avec attention.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	gambrig-kousket	gambrig-kousket.kousk	?.verbe	_	_	_	_	_	Gloss=DIM.dormir
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	Divi	nompropre	?	_	_	_	_	_	Gloss=Divi
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	naetaat	naet.-aat	adjectif.verbe	_	_	_	_	_	Gloss=net.oyer
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	evezh	evezh	nom	_	_	_	_	_	Gloss=attention
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard/Cornouaillais,Drezen(1943)__1
+# text = Tan-gwallet pizh-rac'h holl vagazinioù meur ar Gambr-a-Genverzh.
+# text_fr = 'Incendiés complètement les grands bureaux de la Chambre de Commerce.'
+# source = Drezen (1943)
+# texttype = Références de corpus
+1	Tan-gwallet	tan.gwall.-et(Adj.)	nom.?.?	_	_	_	_	_	Gloss=feu.mal.é
+2	pizh-rac'h	pizh-rac'h	?	_	_	_	_	_	Gloss=INT
+3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	vagazinioù	magazin	?	_	_	_	_	_	Gloss=magasin]].[[-où(PL.)|s]|Morph=1
+5	meur	meur	quantifieur	_	_	_	_	_	Gloss=grand
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	Gambr-a-Genverzh	1]]_Chambre-[[a	?	_	_	_	_	_	Gloss=de|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

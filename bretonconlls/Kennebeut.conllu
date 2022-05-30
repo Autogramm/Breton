@@ -1,0 +1,69 @@
+# sent_id = Locronan,A-M.Louboutin(09/2015b)__1
+# text = Ar burug ne lennont ket brezhoneg, na galleg kennebeut.
+# text_fr = 'Les vers de terre ne lisent pas le breton, ni le français non plus.'
+# source = A-M. Louboutin (09/2015b)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	burug	buzhug	nom	_	_	_	_	_	Gloss=vers.de.terre
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	lennont	lenn(V.)	?	_	_	_	_	_	Gloss=lisent
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	na	na...na	?	_	_	_	_	_	Gloss=ni
+9	galleg	galleg	nom	_	_	_	_	_	Gloss=français
+10	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = TBKA.:26,citédansLeGléau(1973:§88)__1
+# text = Eno kennebeut ne oa lec'h ebet da lojañ.
+# text_fr = 'Là non plus il n'y avait nulle part où loger.'
+# source = TBKA.
+1	Eno	eno	?	_	_	_	_	_	Gloss=y
+2	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	lojañ	lojañ	?	_	_	_	_	_	Gloss=loger
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1985:8)__1
+# text = N'eus kennebeud chomet poltred e-bèd war e lerh.
+# text_fr = 'Il n'a non plus laissé aucune photo.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1985)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	kennebeud	kennebeud	?	_	_	_	_	_	Gloss=non.plus
+4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+5	poltred	poltred	?	_	_	_	_	_	Gloss=portrait
+6	e-bèd	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	lerh	war-lerc'h	?	_	_	_	_	_	Gloss=suite
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArC’hog(1983:10)__1
+# text = Youenn,[...] ne  oa ket kennebeut kalz pounneroc’h pouez an aour en e yalc’h louedet.
+# text_fr = 'L'or ne pesait pas non plus beaucoup plus lourd dans la bourse grise de Youenn.'
+# source = Crocq (1924)
+1	Youenn,[...]	Youenn,[...]	?	_	_	_	_	_	Gloss=Youenn
+2	ne	ne	?	_	_	_	_	_	Gloss=ne
+3			PUNCT	_	_	_	_	Gloss=punct
+4	oa	oa	?	_	_	_	_	_	Gloss=?
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
+7	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+8	pounneroc’h	pounner.-oc'h	adjectif.?	_	_	_	_	_	Gloss=lourd.plus
+9	pouez	pouez	nom	_	_	_	_	_	Gloss=poids
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	aour	aour	nom	_	_	_	_	_	Gloss=or
+12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	yalc’h	yalc’h	?	_	_	_	_	_	Gloss=bourse
+15	louedet	louedañ	?	_	_	_	_	_	Gloss=grisé
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

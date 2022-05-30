@@ -1,6 +1,6 @@
 # sent_id = Wmffre1998:56)__1
 # text = [ fot ke la:ɤ gɛj_ə_ɤ kaɤ gud ɤã a_ɤ_ veɤjõn_ə_ ]
-# text_fr =  'Ne dites pas de mensonges car je connais la vérité.' 
+# text_fr = 'Ne dites pas de mensonges car je connais la vérité.'
 # source = Wmffre (1998)
 # texttype = Ouvrages de recherche
 1	[	[	?	_	_	_	_	_	Gloss=[
@@ -12,12 +12,12 @@
 7	gud	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
 8	ɤã	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
 9	a_ɤ_	art	?	_	_	_	_	_	Gloss=le
-10	veɤjõn_ə_	gwirionez	nom	1	_	_	_	_	Gloss=vérité
+10	veɤjõn_ə_	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
 11	]	]	?	_	_	_	_	_	Gloss=]
 
 # sent_id = Trépos(2001:§198)__1
 # text = E-leh seier nevez em-eus kavet traoù kozh.
-# text_fr =  'Au lieu de sacs neufs, j'en ai trouvé des vieux.' 
+# text_fr = 'Au lieu de sacs neufs, j'en ai trouvé des vieux.'
 # source = Trépos (2001)
 1	E-leh	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
 2	seier	sac'h.-ier	?.?	_	_	_	_	_	Gloss=sac.s
@@ -29,12 +29,12 @@
 
 # sent_id = Berthou(1985:78)__1
 # text = Ur re bennak, koulskoude, zo chomet en tier...
-# text_fr =  'Quelques-uns, cependant, sont restés dans les maisons... '
+# text_fr = 'Quelques-uns, cependant, sont restés dans les maisons... '
 # source = Berthou (1985)
 # texttype = Références de corpus
 1	Ur	art	?	_	_	_	_	_	Gloss=un
 2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -46,7 +46,7 @@
 
 # sent_id = LeBozec(1933:82)__1
 # text = Ar chatal, dalc'het e pad an deiz er c'hreier, a vez laosket en o frankiz.
-# text_fr =  'Les bestiaux, tout le jour retenus dans la crèche, vont errer librement.' 
+# text_fr = 'Les bestiaux, tout le jour retenus dans la crèche, vont errer librement.'
 # source = Le Bozec
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
@@ -57,12 +57,12 @@
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
 9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	c'hreier	kraou	nom	5	_	_	_	_	Gloss=crèche
+10	c'hreier	kraou	nom	_	_	_	_	_	Gloss=crèche|Morph=5
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	a	a	préposition	1	_	_	_	_	Gloss=R
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 13	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 14	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
 15	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-16	o	POSS	?	2	_	_	_	_	Gloss=leur
+16	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 17	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

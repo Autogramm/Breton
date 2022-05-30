@@ -1,0 +1,360 @@
+# sent_id = Gros(1970b:§'fonta')__1
+# text = Prest e oan da fonta gand ar vez.
+# text_fr = 'J'étais prêt à fondre (mourir) de honte.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oan	COP	nom	_	_	_	_	_	Gloss=était
+4	fonta	fonta	?	_	_	_	_	_	Gloss=fondre
+5	gand	gant	?	_	_	_	_	_	Gloss=avec
+
+# sent_id = Gros(1970b:'ardevel')__1
+# text = Galloud a ra ardevel.
+# text_fr = 'La pluie peut diminuer.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	a	a	préposition	_	_	_	_	_	Gloss=R
+2	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	ardevel	ardevel.tevel	?.verbe	_	_	_	_	_	Gloss=1.taire
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'pare')__1
+# text = Arru eo pare-zevet ar skillou.
+# text_fr = 'Les bûches sont presque toutes brûlées.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Arru	arru	?	_	_	_	_	_	Gloss=arrivé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	pare-zevet	pare-	?	_	_	_	_	_	Gloss=presque|Morph=1
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	skillou	skillou	?	_	_	_	_	_	Gloss=bûches
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1993)__1
+# text = peuzachu, peuzlazhañ peuzloskiñ.
+# text_fr = 'semi fini, tuer à demi, brûler à demi.'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	peuzachu	peuz-.achu	?.?	_	_	_	_	_	Gloss=presque.fini
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	peuzlazhañ	peuz-.lazhañ	?.verbe	_	_	_	_	_	Gloss=semi.tuer
+4	peuzloskiñ	peuz-.loskiñ	?.?	_	_	_	_	_	Gloss=semi.brûler
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1993)__1
+# text = peuzenoriñ, peuzevañ
+# text_fr = 'honorer assez, boire assez.'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	peuzenoriñ	peuz-	?	_	_	_	_	_	Gloss=semi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	peuzevañ	peuz-.evañ	?.verbe	_	_	_	_	_	Gloss=semi.boire
+
+# sent_id = Konan(2017:'aveiñ')__1
+# text = Me a oa oc'h aveiñ mont a-raok, pan eo erruet du-mañ.
+# text_fr = 'J'étais prêt à bouger quand il est arrivé chez moi.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	aveiñ	aveiñ	?	_	_	_	_	_	Gloss=atteler
+6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+7	a-raok	war-raok	postposition	_	_	_	_	_	Gloss=en.avant
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	pan	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+10	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	erruet	arru	?	_	_	_	_	_	Gloss=arrivé
+12	du-mañ	tu	nom	_	_	_	_	_	Gloss=côté
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:139)__1
+# text = Me a oa just o tiblas mont du-se.
+# text_fr = 'J'étais juste sur le point d'y aller.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	tiblas	tiblas	?	_	_	_	_	_	Gloss=déplacer
+7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+8	du-se	tu	nom	_	_	_	_	_	Gloss=côté
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:283)__1
+# text = Emaint dindan donet d'ar gêr.
+# text_fr = 'Ils sont sur le point de rentrer.'
+# source = Herrieu (1994)
+1	Emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+2	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
+3	donet	dont	verbe	_	_	_	_	_	Gloss=venir
+4	d'	da	préposition	_	_	_	_	_	Gloss=à
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMerser(2009:§'war-nes')__1
+# text = Bez ema war-nes mervel.
+# text_fr = 'Il est sur le point de mourir.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	Bez	Bezañpréverbal	?	_	_	_	_	_	Gloss=expl
+2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	war-nes	war-nes	préposition	_	_	_	_	_	Gloss=sur.le.point
+4	mervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'emañ')__1
+# text = Edo an dour war-bouez birviñ.
+# text_fr = 'L'eau était sur le point de bouillir.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Edo	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dour	dour	nom	_	_	_	_	_	Gloss=eau
+4	war-bouez	war-bouez	préposition-adverbe	_	_	_	_	_	Gloss=sur.le.point
+5	birviñ	birviñ	verbe	_	_	_	_	_	Gloss=bouillir
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:22)__1
+# text = Mestr an tiegezh a ouie ne oa ket va zad a-wel da c’hellout paeañ ...
+# text_fr = 'Le propriétaire savait que mon père n’allait pas pouvoir payer... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Mestr	mestr	nom	_	_	_	_	_	Gloss=maître
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	tiegezh	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.sfx
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	zad	tad	nom	_	_	_	_	_	Gloss=père
+11	a-wel	a-wel	préposition	_	_	_	_	_	Gloss=en-vue
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	c’hellout	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
+14	paeañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
+15	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:106)__1
+# text = 'Gosik eh on-me er-maez.
+# text_fr = 'Je suis presque dehors.'
+# source = Herrieu (1994)
+1	'	hogos.'	adverbe-adjectif.?	_	_	_	_	_	Gloss=presque.DIM
+2	Gosik	Gosik	?	_	_	_	_	_	Gloss=?
+3	eh	eh	?	_	_	_	_	_	Gloss=R
+4	on-me	COP	?	_	_	_	_	_	Gloss=suis
+5	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = pa 'eus gwelet an nor a oa pare da zigeri...
+# text_fr = 'quand ils ont vu que la porte était prête à s'ouvrir... '
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	'	kaout	?	_	_	_	_	_	Gloss=ont
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	nor	dor	nom	_	_	_	_	_	Gloss=porte|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	pare	pare	adjectif	_	_	_	_	_	Gloss=prêt
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	zigeri..	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:9)__1
+# text = Bremaïk e oan war ar pare da lavaret deoc'h...
+# text_fr = 'J'étais sur le point de vous dire tout-à-l'heure... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Bremaïk	bremaik	adverbe	_	_	_	_	_	Gloss=tout.à.l'@heure
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oan	COP	nom	_	_	_	_	_	Gloss=étais
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	pare	pare	adjectif	_	_	_	_	_	Gloss=prêt
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+9	deoc'h..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gourmelon(2014:40)__2
+# text = Hemañ zo darev da chom da ruzañ e-pad an deiz !
+# text_fr = 'Comme il est parti, il ne fera que trainer de toute la journée.'
+# source = Gourmelon (2014)
+1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	darev	darev	adjectif	_	_	_	_	_	Gloss=mûr
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	ruzañ	ruzañ	verbe	_	_	_	_	_	Gloss=trainer
+8	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gourmelon(2014:40)__1
+# text = Darev eo da vanne kafe da glouaraat.
+# text_fr = 'Ton café va être tiède.'
+# source = Gourmelon (2014)
+1	Darev	darev	adjectif	_	_	_	_	_	Gloss=mûr
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=ton|Morph=1
+4	vanne	banne	?	_	_	_	_	_	Gloss=verre
+5	kafe	kafe	nom	_	_	_	_	_	Gloss=café
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	glouaraat	klouar.-aat	adjectif.verbe	_	_	_	_	_	Gloss=tiéd.ir
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'emañ')__1
+# text = Emañ e-tailh da vervel.
+# text_fr = 'Il est sur le point de mourir.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	e-tailh	e-tailh	?	_	_	_	_	_	Gloss=
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	vervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Troude&Milin(1950:96)__1
+# text = Tost e oa dezhañ da vezañ graet tro ar bed gantañ.
+# text_fr = 'Il avait presque fait le tour du monde.'
+# source = Troude & Milin (1950)
+# texttype = Références de corpus
+1	Tost	tost	adjectif	_	_	_	_	_	Gloss=près
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	vezañ	bezan	?	_	_	_	_	_	Gloss=être
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	tro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bed	bed	nom	_	_	_	_	_	Gloss=monde
+11	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=par.lui
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gweled')__2
+# text = Me, pa welin [ kaout ma gwenneg ]...
+# text_fr = 'Moi, quand j'entreverrai la possibilité d'avoir mon sou... '
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+4	welin	gwelout	verbe	_	_	_	_	_	Gloss=verrai
+5	[	[	?	_	_	_	_	_	Gloss=
+6	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+7	ma	POSS	complémenteur	_	_	_	_	_	Gloss=mon
+8	gwenneg	gwenneg	nom	_	_	_	_	_	Gloss=sou
+9	]...	]...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Ouessant,Malgorn(1909)__2
+# text = Eman o farda mont kuit.
+# text_fr = 'Il fait ses préparatifs de départ.'
+# dialect = Léonard
+# source = Malgorn (1909)
+# texttype = Ouvrages de recherche
+1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	farda	fardañ	?	_	_	_	_	_	Gloss=préparer
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:46)__1
+# text = Darbet oa bet din semplañ o klevet ar c'homzoù-se.
+# text_fr = 'J'ai failli m'évanouir en entendant ces paroles.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Darbet	darbet	?	_	_	_	_	_	Gloss=failli
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	semplañ	semplañ	verbe	_	_	_	_	_	Gloss=évanouir
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]]]-[[DEM|ci|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:421)__1
+# text = Me zo mank't  kouél.
+# text_fr = 'J'ai failli tomber.'
+1	Me	Me	?	_	_	_	_	_	Gloss=Me
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	mank'	mank'	?	_	_	_	_	_	Gloss=manket
+4	t	t	?	_	_	_	_	_	Gloss=?
+5	??	??	préposition	_	_	_	_	_	Gloss=da
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	kouél	kouél	?	_	_	_	_	_	Gloss=gouezhañ.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:428)__1
+# text = Just 'ra din bout taget.
+# text_fr = 'J'ai failli m'étouffer.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+2	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	ra	ra	complémenteur	_	_	_	_	_	Gloss=?
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+5	bout	bezañ	?	_	_	_	_	_	Gloss=être
+6	taget	tagañ	verbe	_	_	_	_	_	Gloss=attrapé
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:428)__1
+# text = Touchant 'oan taget.
+# text_fr = 'Pour un peu, je m'étranglais.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Touchant	tuchant	adverbe	_	_	_	_	_	Gloss=tout.à.l'@heure
+2	'	COP	?	_	_	_	_	_	Gloss=étais
+3	oan	oan	nom	_	_	_	_	_	Gloss=?
+4	taget	tagañ	verbe	_	_	_	_	_	Gloss=attrapé
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:108)__1
+# text = Hennañ zo manier burlu, un toullad getoñ !
+# text_fr = 'Celui-ci est quelque peu pompette, il en tient une !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Hennañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	manier	maniel	?	_	_	_	_	_	Gloss=presque
+4	burlu	burlu	?	_	_	_	_	_	Gloss=pompette
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	toullad	toullad	quantifieur	_	_	_	_	_	Gloss=trouée
+8	getoñ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:27)__4
+# text = dija sur
+# text_fr = 'pratiquement sûr.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
+2	sur	sur	adverbe	_	_	_	_	_	Gloss=sûr

@@ -1,0 +1,97 @@
+# sent_id = Bouzeg(1986:28)__1
+# text = Goût ' rit lar 'oa bet prenet he zi ganti dre gle ?
+# text_fr = 'Saviez-vous qu'elle avait acheté sa maison à crédit ?'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Goût	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	rit	auxiliaireober	?	_	_	_	_	_	Gloss=faites
+5	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+6	'	bezan	?	_	_	_	_	_	Gloss=était
+7	oa	oa	?	_	_	_	_	_	Gloss=?
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
+10	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	zi	ti	nom	_	_	_	_	_	Gloss=maison
+12	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+13	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+14	gle	dle	nom	_	_	_	_	_	Gloss=dette
+15	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:316)__2
+# text = / Xizo y:rys tə-zit Xi Xwe:r /
+# text_fr = 'Elle est heureuse en comparaison de sa sœur.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	Xizo	Xizo	?	_	_	_	_	_	Gloss=?
+3	y:rys	eurus	?	_	_	_	_	_	Gloss=heureux
+4	tə-zit	dezit	préposition	_	_	_	_	_	Gloss=par.rapport.à
+5	Xi	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	Xwe:r	c'hoar	?	_	_	_	_	_	Gloss=sœur
+7	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:36)__1
+# text = Panevet _ e oan trellet gant ar vezh em bije gwelet izeloc’h dezho.
+# text_fr = 'Si je n'avais pas été secoué de honte, j'aurais pu voir plus bas.' (que leurs épaules)
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Panevet	Panevet	?	_	_	_	_	_	Gloss=si.ce.n.est
+2	_	_	?	_	_	_	_	_	Gloss=_
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	oan	COP	nom	_	_	_	_	_	Gloss=étais
+5	trellet	trelliñ	?	_	_	_	_	_	Gloss=secoué
+6	gant	gant	?	_	_	_	_	_	Gloss=par
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vezh	mezh	nom	_	_	_	_	_	Gloss=honte|Morph=1
+9	em	em	?	_	_	_	_	_	Gloss=R
+10	bije	kaout	?	_	_	_	_	_	Gloss=aurais
+11	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+12	izeloc’h	izel.-oc'h	adjectif.?	_	_	_	_	_	Gloss=bas.plus
+13	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:34)__2
+# text = Kenevezoñ 'vehe ket bet kement a dud.
+# text_fr = 'Sans lui, si ce n'était lui, il n'y aurait pas eu autant de monde.'
+# text_phon = ['[ kønøɥe:_i_zõ', 'ɥehɛ', 'tʃəbə', 'tʃəmɛn', 'adət ]']
+1	Kenevezoñ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+2	'	COP	?	_	_	_	_	_	Gloss=serait
+3	vehe	vehe	?	_	_	_	_	_	Gloss=?
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	bet	kaout	?	_	_	_	_	_	Gloss=eu
+6	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+7	a	a	préposition	_	_	_	_	_	Gloss=de
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:158)__1
+# text = M-eus aon e ya d'ober eun tamm barr c'hoaz.
+# text_fr = 'Je crois qu'il va faire encore une petite averse.'
+# source = Gros (1984)
+1	M-eus	meusaon	?	_	_	_	_	_	Gloss=selon.moi
+2	aon	aon	nom	_	_	_	_	_	Gloss=?
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	ya	mont	verbe	_	_	_	_	_	Gloss=va
+5	d'	da	préposition	_	_	_	_	_	Gloss=de
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	eun	art	?	_	_	_	_	_	Gloss=un
+8	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+9	barr	barr	nom	_	_	_	_	_	Gloss=averse
+10	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:395)__1
+# text = An hik a zo ganin.
+# text_fr = 'J'ai le hoquet.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	hik	onomatopée	?	_	_	_	_	_	Gloss=hik
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

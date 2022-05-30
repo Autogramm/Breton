@@ -1,0 +1,33 @@
+# sent_id = Gros(1970b:'kroaz')__1
+# text = N'on ket evit diluzia al lasou-mañ: sell penaoz az-peus kroaz-hualet anezo.
+# text_fr = 'Je ne peux pas démêler ces lacets-ci, regarde comme tu les as embrouillés.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	diluzia	di-.luziañ	?.?	_	_	_	_	_	Gloss=dés.embrouiller
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	lasou-mañ:	las.-où(PL.).DEM	nom.?.?	_	_	_	_	_	Gloss=lacet.s.ci
+6	sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+7	penaoz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
+8	kroaz-hualet	hualañ,hualiñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=entrav.é
+9	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'kroaz')__1
+# text = Ar maout a veze kroas-hualet. / hualet e dreid a-groaz.
+# text_fr = 'On entravait les pieds du bélier, on croisait les entraves du bélier.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	a	a	préposition	_	_	_	_	_	Gloss=R
+2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	kroas-hualet	hualañ	?	_	_	_	_	_	Gloss=entravé
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	/	/	?	_	_	_	_	_	Gloss=
+6	hualet	hualañ	?	_	_	_	_	_	Gloss=entravé
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+9	a-groaz	a	préposition	_	_	_	_	_	Gloss=en|Morph=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

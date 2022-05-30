@@ -1,6 +1,6 @@
 # sent_id = Gros(1970b:§'liva')__1
 # text = Arru oa toud an dud livet-fall a-benn ma oa fin d'an traou.
-# text_fr =  'Tout le monde avait mauvaise mine (était pâle de froid) pour la fin de la fête.'
+# text_fr = 'Tout le monde avait mauvaise mine (était pâle de froid) pour la fin de la fête.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
@@ -8,10 +8,10 @@
 2	oa	COP	?	_	_	_	_	_	Gloss=était
 3	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
 4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	1	_	_	_	_	Gloss=gens
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
 6	livet-fall	livañ	verbe	_	_	_	_	_	Gloss=peint
-7	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-8	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 9	oa	COP	?	_	_	_	_	_	Gloss=était
 10	fin	fin	?	_	_	_	_	_	Gloss=fin
 11	d'	da	préposition	_	_	_	_	_	Gloss=de
@@ -21,20 +21,20 @@
 
 # sent_id = Gros(2014:'a-benn')__1
 # text = Aet eo a-benn er vur.
-# text_fr =  'Il s'est jeté la tête contre le mur.'
+# text_fr = 'Il s'est jeté la tête contre le mur.'
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
 1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	a-benn	a	préposition	1	_	_	_	_	Gloss=de
+3	a-benn	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 5	vur	vur	?	_	_	_	_	_	Gloss=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec & al. (2017:29)__1
 # text = Dessyoñ 'tèfèc'h ket da r'hob'r 'n droiad ganim benn dichul?
-# text_fr =  'Pourquoi tu ne viendrais pas avec moi faire un tour dimanche ?' 
+# text_fr = 'Pourquoi tu ne viendrais pas avec moi faire un tour dimanche ?'
 1	Dessyoñ	Dessyoñ	?	_	_	_	_	_	Gloss=Daoust-hag-eñ
 2	'	'	?	_	_	_	_	_	Gloss=ne
 3	tèfèc'h	tèfèc'h	?	_	_	_	_	_	Gloss=zeufecxxxh
@@ -50,13 +50,13 @@
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
 # text = Mat eo evit benn disadorn, be meus kod antre ar savadur.
-# text_fr =  'C'est bon pour samedi, j'ai le code d'entrée de l'immeuble.'
+# text_fr = 'C'est bon pour samedi, j'ai le code d'entrée de l'immeuble.'
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	Mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bon
+1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 4	benn	benn	?	_	_	_	_	_	Gloss=à
 5	be	bez	?	_	_	_	_	_	Gloss=expl
 6	meus	kaout	?	_	_	_	_	_	Gloss=ai
@@ -68,21 +68,21 @@
 
 # sent_id = ArFloc'h(1922:347)__1
 # text = Mat ! m'en tou, a rankan kaout eur gwaz a-benn miz Du kenta.
-# text_fr =  'Bien ! pour sur, je dois avoir un mari d'ici novembre.' 
+# text_fr = 'Bien ! pour sur, je dois avoir un mari d'ici novembre.'
 # location = Bodilis
 # source = Ar Floch (1922)
-1	Mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
-2	!	!	?	_	_	_	_	_	Gloss=?
+1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	m'	pfi	?	_	_	_	_	_	Gloss=moi
 4	en	POP	complémenteur	_	_	_	_	_	Gloss=le
 5	tou	touiñ	?	_	_	_	_	_	Gloss=jure
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	a	a	préposition	1	_	_	_	_	Gloss=R
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
 9	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
 10	eur	art	nom	_	_	_	_	_	Gloss=un
 11	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
-12	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=avant
+12	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=avant
 13	miz	miz	?	_	_	_	_	_	Gloss=mois
 14	Du	miz	adjectif	_	_	_	_	_	Gloss=novembre
 15	kenta	numéralordinal	?	_	_	_	_	_	Gloss=premier
@@ -90,14 +90,14 @@
 
 # sent_id = Gros(1984:189)__1
 # text = A-benn ma'z aje kuit e vijed a-unan gantañ.
-# text_fr =  'Avant qu'il ne partît, on était d'accord avec lui.'
+# text_fr = 'Avant qu'il ne partît, on était d'accord avec lui.'
 # source = Gros (1984)
-1	A-benn	A-benn	complémenteur-préposition	_	_	_	_	_	Gloss=avant
+1	A-benn	A-benn	préposition-complémenteur	_	_	_	_	_	Gloss=avant
 2	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
 3	z	mont	verbe	_	_	_	_	_	Gloss=irait
 4	aje	aje	?	_	_	_	_	_	Gloss=?
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-6	e	e	?	4	_	_	_	_	Gloss=R
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 7	vijed	COP.IMP	?.?	_	_	_	_	_	Gloss=fut.on
 8	a-unan	a	préposition	_	_	_	_	_	Gloss=de
 9	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
@@ -105,25 +105,25 @@
 
 # sent_id = Herri(1982:15)__1
 # text = Bez' e vefomp en-dro a-benn teir sizhun.
-# text_fr =  'On revient dans trois semaines'
+# text_fr = 'On revient dans trois semaines'
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Bez'	bez'	?	_	_	_	_	_	Gloss=être
-2			?	_	_	_	_	_	Gloss=?
+2			PUNCT	_	_	_	_	Gloss=punct
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	vefomp	COP	?	_	_	_	_	_	Gloss=serons
 5	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
-6	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=d'@ici
+6	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
 7	teir	cardinaux	?	_	_	_	_	_	Gloss=trois
 8	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:312)__1
 # text = A-benn neuze e vint debret toud.
-# text_fr =  'D'ici là ils seront tous mangés.'
+# text_fr = 'D'ici là ils seront tous mangés.'
 # source = Gros (1984)
-1	A-benn	A-benn	complémenteur-préposition	_	_	_	_	_	Gloss=d'@ici
-2	neuze	neuze	adverbe-conjonction	_	_	_	_	_	Gloss=alors
+1	A-benn	A-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	vint	COP	?	_	_	_	_	_	Gloss=seront
 5	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
@@ -132,13 +132,13 @@
 
 # sent_id = Gourmelon(2014:6)__1
 # text = Pell e oa bet é plego ha displego a-benn dont er-maez deus ar park.
-# text_fr =  'Il est resté longtemps à braquer contrebraquer avant de sortir du champ.'
+# text_fr = 'Il est resté longtemps à braquer contrebraquer avant de sortir du champ.'
 # source = Gourmelon (2014)
 1	Pell	pell	adjectif	_	_	_	_	_	Gloss=long
 2	e	e	?	_	_	_	_	_	Gloss=R
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	é	particuleo	?	4	_	_	_	_	Gloss=à]
+5	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 6	plego	plego	?	_	_	_	_	_	Gloss=?
 7	ha	&	?	_	_	_	_	_	Gloss=et
 8	displego	displego	?	_	_	_	_	_	Gloss=contrebraquer
@@ -151,17 +151,17 @@
 
 # sent_id = Gourmelon(2014:6)__1
 # text = Aet e oamp pemp pe c'hwec'h gwech betek e di a-benn gwelet anezhañ.
-# text_fr =  'Nous étions passés cinq ou six fois chez lui avant de le voir.'
+# text_fr = 'Nous étions passés cinq ou six fois chez lui avant de le voir.'
 # source = Gourmelon (2014)
 1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
 2	e	e	?	_	_	_	_	_	Gloss=R
 3	oamp	COP	?	_	_	_	_	_	Gloss=étions
 4	pemp	numérauxcardinaux	?	_	_	_	_	_	Gloss=cinq
-5	pe	pe	complémenteur-conjonction	_	_	_	_	_	Gloss=ou
+5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
 6	c'hwec'h	numérauxcardinaux	?	_	_	_	_	_	Gloss=six
 7	gwech	gwech	nom	_	_	_	_	_	Gloss=fois
-8	betek	betek	complémenteur-préposition	_	_	_	_	_	Gloss=jusqu'@à
-9	e	POSS	?	1	_	_	_	_	Gloss=son
+8	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 10	di	ti	nom	_	_	_	_	_	Gloss=maison
 11	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 12	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
@@ -169,29 +169,29 @@
 
 # sent_id = Menard&Kadored(2001:'mortuaj')__1
 # text = gwirioù a vez da baeañ a-benn tennañ splet eus un hêrezh bennak.
-# text_fr =  'les droits qu'il faut payer avant d'hériter'
+# text_fr = 'les droits qu'il faut payer avant d'hériter'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	gwirioù	gwirioù	?	_	_	_	_	_	Gloss=droits
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	da	da	préposition	1	_	_	_	_	Gloss=à
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 5	baeañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
-6	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=avant
+6	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=avant
 7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
 8	splet	splet	?	_	_	_	_	_	Gloss=action
 9	eus	eus	?	_	_	_	_	_	Gloss=de
 10	un	art	?	_	_	_	_	_	Gloss=un
 11	hêrezh	hêrezh	?	_	_	_	_	_	Gloss=héritage
-12	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+12	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros (1970:133)__1
 # text = Evelkent, a-benn laza eun den e vez red beza kriz.
-# text_fr =  (avant de tuer un homme...)  
+# text_fr = (avant de tuer un homme...)
 1	Evelkent	evelkent	adverbe	_	_	_	_	_	Gloss=tout.de.même
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=avant
+3	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=avant
 4	laza	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
 5	eun	art	?	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=homme
@@ -204,10 +204,10 @@
 
 # sent_id = Gros(1996:258)__1
 # text = A-benn neuze e oa ar sorohell warni.
-# text_fr =  'A ce moment là, le râle était déjà sur elle (elle râlait).'
+# text_fr = 'A ce moment là, le râle était déjà sur elle (elle râlait).'
 # source = Gros (1996)
-1	A-benn	A-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-2	neuze	neuze	adverbe-conjonction	_	_	_	_	_	Gloss=alors
+1	A-benn	A-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	oa	COP	?	_	_	_	_	_	Gloss=est
 5	ar	art	?	_	_	_	_	_	Gloss=le
@@ -217,46 +217,46 @@
 
 # sent_id = Croq(1908:7)__1
 # text = Va marc'h Laouik a dle beza sterniet ouz va gwetur a-benn vremañ.
-# text_fr =  'Mon cheval Laouik doit être sellé de suite (au plus vite).' 
+# text_fr = 'Mon cheval Laouik doit être sellé de suite (au plus vite).'
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	Va	POSS	?	2	_	_	_	_	Gloss=mon
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 2	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
 3	Laouik	Laouik	?	_	_	_	_	_	Gloss=Laouik
-4	a	a	préposition	1	_	_	_	_	Gloss=R
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 5	dle	dleout	verbe	_	_	_	_	_	Gloss=doit
 6	beza	bezañ	?	_	_	_	_	_	Gloss=être
 7	sterniet	sterniet	?	_	_	_	_	_	Gloss=attelé
 8	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-9	va	POSS	?	2	_	_	_	_	Gloss=mon
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 10	gwetur	gwetur	nom	_	_	_	_	_	Gloss=voiture
-11	a-benn	bremañ	adverbe	1	_	_	_	_	Gloss=maintenant
+11	a-benn	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant|Morph=1
 12	vremañ.	vremañ.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Quéré(2011:121)__1
 # text = Pa vé laket gouil é leah, é dro a-benn.
-# text_fr =  'Quand on met du ferment dans le lait, ça tourne tout de suite.' 
+# text_fr = 'Quand on met du ferment dans le lait, ça tourne tout de suite.'
 # location = Plaudren
 # source = Quéré (2011)
 # texttype = Ouvrages de recherche
-1	Pa	pa	complémenteur	1	_	_	_	_	Gloss=quand
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 2	vé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	laket	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
 4	gouil	gouil	?	_	_	_	_	_	Gloss=ferment
 5	é	P.e	?	_	_	_	_	_	Gloss=en
 6	leah	laezh	nom	_	_	_	_	_	Gloss=lait
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	é	é	?	4	_	_	_	_	Gloss=R
+8	é	é	?	_	_	_	_	_	Gloss=R|Morph=4
 9	dro	treiñ	verbe	_	_	_	_	_	Gloss=tourne
-10	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=tout.de.suite
+10	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=tout.de.suite
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:33)__1
 # text = Ne reka ket c'hoazh arru a-bennik...
-# text_fr =  'Il ne doit pas arriver tout de suite... '
+# text_fr = 'Il ne doit pas arriver tout de suite... '
 # source = ar Meliner (2009)
-1	Ne	Ne	?	1	_	_	_	_	Gloss=ne
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	reka	rankout	verbe	_	_	_	_	_	Gloss=doit
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
@@ -266,22 +266,22 @@
 
 # sent_id = ArMeliner(2009:35)__1
 # text = Fourlichou, hi ivez, a spias a-benn-kaer Leich.
-# text_fr =  'Fourlichou, elle aussi, aperçut tout de suite Leich.' 
+# text_fr = 'Fourlichou, elle aussi, aperçut tout de suite Leich.'
 # source = Ar Meliner (2009)
 1	Fourlichou	Fourlichou	?	_	_	_	_	_	Gloss=Fourlichou
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	hi	pfi	?	_	_	_	_	_	Gloss=elle
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	a	a	préposition	1	_	_	_	_	Gloss=R
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 7	spias	spias	?	_	_	_	_	_	Gloss=aperçut
-8	a-benn-kaer	kaer	adjectif-adverbe	_	_	_	_	_	Gloss=très
+8	a-benn-kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=très
 9	Leich	Leich	?	_	_	_	_	_	Gloss=Leich
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:249)__1
 # text = e beñ 'pehe bet droug-bouzelloù a-benn.
-# text_fr =  'Eh bien tu aurais aussitôt eu mal au ventre.' 
+# text_fr = 'Eh bien tu aurais aussitôt eu mal au ventre.'
 # dialect = Vannetais
 # location = JMh
 # source = Louis (2015)
@@ -291,27 +291,27 @@
 3	'	'	?	_	_	_	_	_	Gloss=2
 4	pehe	kaout	?	_	_	_	_	_	Gloss=aurait
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	droug-bouzelloù	droug	adjectif-nom	_	_	_	_	_	Gloss=mal
-7	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=tout.de.suite
+6	droug-bouzelloù	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=tout.de.suite
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(2014:'a-benn')__1
 # text = an ti a welomp a-benn amañ...
-# text_fr =  'la maison que nous voyons d'ici'
+# text_fr = 'la maison que nous voyons d'ici'
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
 1	an	art	?	_	_	_	_	_	Gloss=le
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
-5	a-benn	a	préposition	1	_	_	_	_	Gloss=de
+5	a-benn	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	amañ..	amañ	?	_	_	_	_	_	Gloss=ici
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = German(2007:174)__1
 # text = Benn eo kouet hè barz.
-# text_fr =  'Quand ils sont tombés dedans.'
+# text_fr = 'Quand ils sont tombés dedans.'
 # dialect = Cornouaillais
 # source = German (2007)
 # texttype = Ouvrages de recherche
@@ -324,29 +324,29 @@
 
 # sent_id = Bouzeg(1986:29)__1
 # text = Benn po droug kein, ' vo dav deoc'h chom ho kourvo.
-# text_fr =  'Quand vous aurez mal au dos, vous devrez rester allongé.' 
+# text_fr = 'Quand vous aurez mal au dos, vous devrez rester allongé.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Benn	Benn	?	_	_	_	_	_	Gloss=quand
 2	po	kaout	?	_	_	_	_	_	Gloss=auras
-3	droug	droug	adjectif-nom	_	_	_	_	_	Gloss=mal
+3	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
 4	kein	kein	nom	_	_	_	_	_	Gloss=dos
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	'	COP	?	_	_	_	_	_	Gloss=sera
-7			?	_	_	_	_	_	Gloss=?
+7			PUNCT	_	_	_	_	Gloss=punct
 8	vo	vo	?	_	_	_	_	_	Gloss=?
 9	dav	dav	adjectif	_	_	_	_	_	Gloss=obligé
 10	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-12	ho	POSS	?	3	_	_	_	_	Gloss=votre
+12	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
 13	kourvo	gourvez	nom	_	_	_	_	_	Gloss=allongé
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = MonaBouzeg,Riec,c.p.(02/2012)__1
 # text = Ben 'glever soniñ kreizteiz ma poent d'an nen mont d'ar gêr.
-# text_fr =  'Quand on entend sonner midi, il est temps de rentrer à la maison.'
+# text_fr = 'Quand on entend sonner midi, il est temps de rentrer à la maison.'
 1	Ben	Ben	?	_	_	_	_	_	Gloss=1
 2	'	klevout.IMP	verbe.?	_	_	_	_	_	Gloss=entend.on
 3	glever	glever	?	_	_	_	_	_	Gloss=?
@@ -354,18 +354,18 @@
 5	kreizteiz	kreizteiz	?	_	_	_	_	_	Gloss=midi
 6	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 7	poent	poent	nom	_	_	_	_	_	Gloss=temps
-8	d'	da	préposition	1	_	_	_	_	Gloss=pour
+8	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 9	an	art	?	_	_	_	_	_	Gloss=le
 10	nen	den	nom	_	_	_	_	_	Gloss=IMP
 11	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-12	d'	da	préposition	1	_	_	_	_	Gloss=à
+12	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 13	ar	art	?	_	_	_	_	_	Gloss=le
-14	gêr	kêr	nom	1	_	_	_	_	Gloss=foyer
+14	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:81)__1
 # text = Berr an traoù g'ur bochad tiadoù 'benn tosta fin ar miz.
-# text_fr =  'Beaucoup de familles manquent d'argent dès qu'approche la fin du mois.' 
+# text_fr = 'Beaucoup de familles manquent d'argent dès qu'approche la fin du mois.'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
@@ -386,12 +386,12 @@
 
 # sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
 # text = Farsusoc'h ' vez 'benn teu [[nom propre|Yann]] d'ar fest.
-# text_fr =  'C'est plus drôle quand Yann vient à la fête.'
+# text_fr = 'C'est plus drôle quand Yann vient à la fête.'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
 1	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2			?	_	_	_	_	_	Gloss=?
+2			PUNCT	_	_	_	_	Gloss=punct
 3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
 4	'	'	?	_	_	_	_	_	Gloss=quand
 5	benn	benn	?	_	_	_	_	_	Gloss=R
@@ -405,21 +405,21 @@
 
 # sent_id = Gros(1984:53).__1
 # text = Al labourer douar, a-benn ma vez hanter-kant vloaz, a vez friket e gorf gand al labour.
-# text_fr =  'Le cultivateur, quand il arrive à cinquante ans, a le corps brisé par le travail.'
+# text_fr = 'Le cultivateur, quand il arrive à cinquante ans, a le corps brisé par le travail.'
 # source = Gros (1984)
 1	Al	art	?	_	_	_	_	_	Gloss=le
 2	labourer	labourat.-er(A.)	verbe.?	_	_	_	_	_	Gloss=travaill.eur
 3	douar	douar	nom	_	_	_	_	_	Gloss=terre
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-6	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+5	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 8	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	a	a	préposition	_	_	_	_	_	Gloss=R
 11	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 12	friket	frikañ	?	_	_	_	_	_	Gloss=brisé
-13	e	POSS	?	1	_	_	_	_	Gloss=son
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 14	gorf	korf	nom	_	_	_	_	_	Gloss=corps
 15	gand	gant	?	_	_	_	_	_	Gloss=avec
 16	al	art	?	_	_	_	_	_	Gloss=le
@@ -428,30 +428,30 @@
 
 # sent_id = Gros(1989:'joga')__1
 # text = A-benn ma'z-po joget an tamm bara-ze e chomi div eur ez kourvez.
-# text_fr =  'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.'
+# text_fr = 'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.'
 # source = Gros (1989)
-1	A-benn	A-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-2	ma'	ma	complémenteur	4	_	_	_	_	Gloss=que
+1	A-benn	A-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	z-po	kaout	?	_	_	_	_	_	Gloss=aura
 4	joget	joget	?	_	_	_	_	_	Gloss=froissé
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 7	bara-ze	bara	nom	_	_	_	_	_	Gloss=pain
-8	e	e	?	4	_	_	_	_	Gloss=R
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 9	chomi	chom	verbe	_	_	_	_	_	Gloss=resteras
-10	ez	P.e	?	3	_	_	_	_	Gloss=en]].[[POSS|ton
+10	ez	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|ton|Morph=3
 11	kourvez	gourvez	nom	_	_	_	_	_	Gloss=allongé
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cheveau & Kersulec (2012-évolutif:Moëlan,'a-bosubl')__1
 # text = Me zo deuet a-benn da gompren anezhañ a-bosubl n'en deus ket kaozeet ouzhin anezhañ.
-# text_fr =  'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.' 
+# text_fr = 'J'ai réussi à le comprendre quand bien même il ne m'a pas parlé.'
 # text_phon = ['[mə', 'zo', 'ˈdɛd', 'a bɛn', 'da', 'ˈgõpʁən', 'ˈnaɔ̯̃', 'a ˈpoʃə', 'nø', 'ʃə', 'ˈkoːs', 'tijõ', 'ˌnõ]']
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-4	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=à.bout
-5	da	da	préposition	1	_	_	_	_	Gloss=de
+4	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à.bout
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	gompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
 7	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 8	a-bosubl	a-bosubl	?	_	_	_	_	_	Gloss=même.si
@@ -466,34 +466,34 @@
 
 # sent_id = Menard&Kadored(2001:'netra')__1
 # text = Ne oa deuet netra na den a-benn anezhañ.
-# text_fr =  '(Ni) Rien ni personne n'en était venu à bout.'
+# text_fr = '(Ni) Rien ni personne n'en était venu à bout.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	1	_	_	_	_	Gloss=ne
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	oa	COP	?	_	_	_	_	_	Gloss=était
 3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
 4	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 5	na	na...na	?	_	_	_	_	_	Gloss=ni
 6	den	den	nom	_	_	_	_	_	Gloss=personne
-7	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=à-bout
+7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à-bout
 8	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:27)__1
 # text = An hini a yaje a-benn dezañ e hallfes lavared hardiz e oa maro.
-# text_fr =  'Celui qui l'aurait affronté, tu pourrais dire sans crainte qu'il était (qu'il serait) mort.'
+# text_fr = 'Celui qui l'aurait affronté, tu pourrais dire sans crainte qu'il était (qu'il serait) mort.'
 # source = Gros (1970)
 1	An	art	?	_	_	_	_	_	Gloss=le
 2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	yaje	mont	verbe	_	_	_	_	_	Gloss=irait
-5	a-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=à-tête
+5	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à-tête
 6	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-7	e	e	?	4	_	_	_	_	Gloss=R
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 8	hallfes	gallout	verbe	_	_	_	_	_	Gloss=pourrais
 9	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 10	hardiz	hardiz	adverbe	_	_	_	_	_	Gloss=sans.crainte
 11	e	e	?	_	_	_	_	_	Gloss=R
 12	oa	COP	?	_	_	_	_	_	Gloss=était
-13	maro	marv	adjectif-nom	_	_	_	_	_	Gloss=mort
+13	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

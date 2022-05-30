@@ -1,0 +1,71 @@
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__36
+# text = Sant' rit 'n douar ' kreno.
+# text_fr = 'Vous sentez la terre qui tremble.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Sant'	Sant'	?	_	_	_	_	_	Gloss=sentir
+2			PUNCT	_	_	_	_	Gloss=punct
+3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	'	art	?	_	_	_	_	_	Gloss=le
+5	n	douar	nom	_	_	_	_	_	Gloss=terre
+6	douar	douar	nom	_	_	_	_	_	Gloss=?
+7	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8			PUNCT	_	_	_	_	Gloss=punct
+9	kreno.	kreno.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Louis(2015:233)__2
+# text = Mes er ré e venn hé santein a dost hag épad hir amzér, e cherr en droug pen.
+# text_fr = Mais ceux qui veulent sentir (cette plante) de près et pendant longtemps attrapent le mal de tête.’
+# source = ENVD.
+1	Mes	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	er	art	?	_	_	_	_	_	Gloss=le
+3	ré	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+5	venn	mennout	verbe	_	_	_	_	_	Gloss=veut
+6	hé	POP	?	_	_	_	_	_	Gloss=les
+7	santein	santein	?	_	_	_	_	_	Gloss=sentir
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	dost	tost	adjectif	_	_	_	_	_	Gloss=près
+10	hag	&	?	_	_	_	_	_	Gloss=et
+11	épad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+12	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+13	amzér	amzer	nom	_	_	_	_	_	Gloss=temps
+14	,	,	PUNCT	_	_	_	_	Gloss=punct
+15	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+16	cherr	serriñ	verbe	_	_	_	_	_	Gloss=attrape
+17	en	art	complémenteur	_	_	_	_	_	Gloss=le
+18	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+19	pen	penn	nom	_	_	_	_	_	Gloss=tête
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'bannah')__1
+# text = He gwaz a oa arru da zantoud e vannah.
+# text_fr = 'Son mari commençait à être éméché.'
+# source = Gros (1989)
+1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	arru	arruout	?	_	_	_	_	_	Gloss=arrivé
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	zantoud	zantoud	?	_	_	_	_	_	Gloss=sentir
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	vannah	banne	?	_	_	_	_	_	Gloss=verre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:52)__1
+# text = Santet 'noa an taol brav da ober.
+# text_fr = 'Il avait flairé la bonne affaire.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Santet	Santet	?	_	_	_	_	_	Gloss=senti
+2	'	kaout	?	_	_	_	_	_	Gloss=avait
+3	noa	noa	?	_	_	_	_	_	Gloss=?
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
+6	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

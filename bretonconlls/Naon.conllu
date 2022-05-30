@@ -1,0 +1,23 @@
+# sent_id = Kervella(2009:35)__1
+# text = Meus ket a naon.
+# text_fr = 'Je n'ai pas faim.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Meus	kaout	?	_	_	_	_	_	Gloss=ai
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	naon	naon	nom	_	_	_	_	_	Gloss=faim
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = MonaBouzeg,Riec,c.p.(02/2012)__1
+# text = Ben 'zeber mat pez ket naon war-lerc'h.
+# text_fr = 'Quand on mange bien, on n'a pas faim après.'
+1	'	debriñ.IMP	verbe.?	_	_	_	_	_	Gloss=mange.on
+2	zeber	zeber	?	_	_	_	_	_	Gloss=?
+3	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+4	pez	kaout	?	_	_	_	_	_	Gloss=a
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	naon	naon	nom	_	_	_	_	_	Gloss=faim
+7	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

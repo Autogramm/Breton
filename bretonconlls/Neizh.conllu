@@ -1,0 +1,17 @@
+# sent_id = Konan(2017:'aztozv')__1
+# text = O lakaat an aztov out 'barzh an neizh ?
+# text_fr = 'Tu montres aux gens comment faire ?'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	aztov	aztov	?	_	_	_	_	_	Gloss=oeuf.factice
+5	out	COP	?	_	_	_	_	_	Gloss=es
+6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	barzh	barzh	?	_	_	_	_	_	Gloss=?
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	neizh	neizh	nom	_	_	_	_	_	Gloss=nid
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

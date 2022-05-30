@@ -1,0 +1,13 @@
+# sent_id = Le Gléau (1973:18).__1
+# text = Krugell gavr-Iniz a zo anezhi ur run douar.
+# text_fr = 'Le Tumulus de Gavrinis est une colline de terre.'
+# source2 = Drezen (1932:55)
+1	Krugell	Krugell	nom	_	_	_	_	_	Gloss=tumulus
+2	gavr-Iniz	nompropre	?	_	_	_	_	_	Gloss=gavr-iniz
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	COP	?	_	_	_	_	_	Gloss=est
+5	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+6	ur	art	?	_	_	_	_	_	Gloss=un
+7	run	run	nom	_	_	_	_	_	Gloss=colline
+8	douar	douar	nom	_	_	_	_	_	Gloss=terre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

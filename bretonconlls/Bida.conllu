@@ -1,0 +1,14 @@
+# sent_id = Fagon&Riou(2015:'bida')__1
+# text = Bidaed,  yade ket leun.
+# text_fr = 'Des chèvres, il n'y en avait pas beaucoup.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Bidaed	-ed(PL.)	?	_	_	_	_	_	Gloss=s
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	yade	E	?	_	_	_	_	_	Gloss=était
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

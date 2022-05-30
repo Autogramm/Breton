@@ -1,0 +1,48 @@
+# sent_id = ArGow(1999:19)__2
+# text = Met a-raok tamall den ebet da laerezh ho tanvez-amann...
+# text_fr = 'Mais avant d'accuser quiconque de voler votre crème... '
+# dialect = Cornouaillais
+# location = Pleyben
+# source = Ar Gow (1999)
+# texttype = Références de corpus
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+3	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
+4	den	den	nom	_	_	_	_	_	Gloss=homme
+5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
+8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+9	tanvez-amann..	amann	nom	_	_	_	_	_	Gloss=beurre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:81)__1
+# text = Heñv a foetas e zanvez o ren ur vuhez diroll.
+# text_fr = 'Il mangea tout son bien en menant une vie dissolue.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Heñv	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	foetas	foetañ	verbe	_	_	_	_	_	Gloss=fouetta
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	zanvez	zanvez	?	_	_	_	_	_	Gloss=matière
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	ren	ren	verbe	_	_	_	_	_	Gloss=mener
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+10	diroll	diroll	verbe	_	_	_	_	_	Gloss=dissolu
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:28)__1
+# text = Da vervel e vo o c'hoarzhin en noz-man !
+# text_fr = 'Il va y avoir matière à mourir de rire ce soir !'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	vervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vo	bezañ	?	_	_	_	_	_	Gloss=sera
+5	c'hoarzhin	P.e	?	_	_	_	_	_	Gloss=en
+6	en	noz	nom	_	_	_	_	_	Gloss=nuit

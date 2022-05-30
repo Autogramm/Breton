@@ -1,0 +1,318 @@
+# sent_id = Timm(1995:8)__1
+# text = Tregont vloaz a-raok e oa anezhi [ ur gaer a blac'h faro ].
+# text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
+# source = Abeozen (1986)
+1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente]|Morph=1
+2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	anezhi	pronomincorporé	?	_	_	_	_	_	Gloss=elle
+7	[	[	?	_	_	_	_	_	Gloss=?
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	blac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+12	faro	farv	adjectif	_	_	_	_	_	Gloss=fière
+
+# sent_id = Seite(1998:8)__1
+# text = Hemañ a oa [ eur paotr fin anezañ].
+# text_fr = 'Celui-ci était malin.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	[	[	?	_	_	_	_	_	Gloss=
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+7	fin	fin	?	_	_	_	_	_	Gloss=fin
+8	anezañ]	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:21)__1
+# text = N'eo ken eñ laer anezhañ.
+# text_fr = 'Ce n'est qu'un voleur.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+5	laer	laer	nom	_	_	_	_	_	Gloss=voleur
+6	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fave(1998:136)__1
+# text = [ Eur houblad euz an oll loened ] a zo anezo.
+# text_fr = 'Ils sont un couple de tous les animaux (chaque animal).'
+# dialect = Léonard
+# location = Cléder
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	[	[	?	_	_	_	_	_	Gloss=
+2	Eur	art	nom	_	_	_	_	_	Gloss=un
+3	houblad	houblad	?	_	_	_	_	_	Gloss=couple
+4	euz	eus	?	_	_	_	_	_	Gloss=de
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+7	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animal.s
+8	]	]	?	_	_	_	_	_	Gloss=?
+9	a	a	préposition	_	_	_	_	_	Gloss=R
+10	zo	COP	?	_	_	_	_	_	Gloss=est
+11	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:7)__1
+# text = [ Ur senior ] ez eus ac'hanon.
+# text_fr = 'Je suis un senior.'
+# source = Timm (1995)
+# texttype = Ouvrages de recherche
+1	[	[	?	_	_	_	_	_	Gloss=
+2	Ur	art	?	_	_	_	_	_	Gloss=un
+3	senior	senior	?	_	_	_	_	_	Gloss=senior
+4	]	]	?	_	_	_	_	_	Gloss=?
+5	ez	ez	?	_	_	_	_	_	Gloss=R
+6	eus	E	?	_	_	_	_	_	Gloss=y.a
+7	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:7)__1
+# text = Ur senior ez eus ac'hanon.
+# text_fr = 'Je suis un senior.'
+# source = Timm (1995)
+# texttype = Ouvrages de recherche
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	senior	senior	?	_	_	_	_	_	Gloss=senior
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eus	E	?	_	_	_	_	_	Gloss=y.a
+5	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Solliec(2015:75)__1
+# text = Me  joñj 'm'on ke mat  'noñ.
+# text_fr = 'Je me suis dit que je ne me trouve pas au bon endroit.'
+# source = Solliec (2015)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	??	??	?	_	_	_	_	_	Gloss=R
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	joñj	soñjal	verbe	_	_	_	_	_	Gloss=pense
+5	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+6	m'	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	on	on	?	_	_	_	_	_	Gloss=?
+8	ke	ke	complémenteur	_	_	_	_	_	Gloss=?
+9	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+10			PUNCT	_	_	_	_	Gloss=punct
+11	'	'	?	_	_	_	_	_	Gloss=?
+12	noñ.	noñ.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Drezen(1932:26)__1
+# text = an arzour divrud a oa ac'hanon
+# text_fr = 'l'artiste inconnu que j'étais.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	arzour	arzour	?	_	_	_	_	_	Gloss=artiste
+3	divrud	di-	?	_	_	_	_	_	Gloss=sans|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+
+# sent_id = Drezen(1990:53)__1
+# text = Ni, Breur Arzhur, a zo da vezañ  menec’h ac’hanomp…
+# text_fr = 'Nous, frère Arthur, sommes destinés à être moines.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Breur	breur	nom	_	_	_	_	_	Gloss=Frère
+4	Arzhur	Arzhur	?	_	_	_	_	_	Gloss=Arthur
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	COP	?	_	_	_	_	_	Gloss=est
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+10	??	??	?	_	_	_	_	_	Gloss=[
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	menec’h	manac'h.plurielinterne	?.?	_	_	_	_	_	Gloss=moine.s
+
+# sent_id = Timm(1995:8)__1
+# text = Ne oa ket anezhañ un den bihan treut.
+# text_fr = 'Ce n'était pas un petit homme malingre.'
+# source = Konan (1980)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	den	den	nom	_	_	_	_	_	Gloss=homme
+7	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+8	treut	treut	adjectif	_	_	_	_	_	Gloss=maigre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:7)__1
+# text = Krediñ a ran ez eus ac'hanout  ur paotr a boell hag a furnezh.
+# text_fr = 'Je crois que tu es un homme de raison et de sagesse.'
+# source = Timm (1995)
+# texttype = Ouvrages de recherche
+1	Krediñ	krediñ	verbe	_	_	_	_	_	Gloss=croire
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eus	E	?	_	_	_	_	_	Gloss=est
+6	ac'hanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+7	??	??	?	_	_	_	_	_	Gloss=[
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	paotr	paotr	nom	_	_	_	_	_	Gloss=garçon
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	boell	poell	nom	_	_	_	_	_	Gloss=raison
+13	hag	&	?	_	_	_	_	_	Gloss=et
+
+# sent_id = Drezen(1990:38)__1
+# text = Eñ a oa anezhañ  ur penn yen.
+# text_fr = 'Lui était une "tête froide".'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	??	??	?	_	_	_	_	_	Gloss=[
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	penn	penn	nom	_	_	_	_	_	Gloss=tête
+
+# sent_id = Le Gléau (1973:18).__1
+# text = Krugell gavr-Iniz a zo anezhi  ur run douar.
+# text_fr = 'Le Tumulus de Gavrinis est une colline de terre.'
+# source2 = Drezen (1932:55)
+1	Krugell	krugell	nom	_	_	_	_	_	Gloss=tumulus
+2	gavr-Iniz	nompropre	?	_	_	_	_	_	Gloss=gavr-iniz
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	COP	?	_	_	_	_	_	Gloss=est
+5	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	ur	art	?	_	_	_	_	_	Gloss=un
+9	run	run	nom	_	_	_	_	_	Gloss=colline
+
+# sent_id = Solliec(2015:75)__1
+# text = Me  joñj 'm'on ke mat 'noñ.
+# text_fr = 'Je me suis dit que je ne me trouve pas au bon endroit.'
+# source = Solliec (2015)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	??	??	?	_	_	_	_	_	Gloss=R
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	joñj	soñjal	verbe	_	_	_	_	_	Gloss=pense
+5	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+6	m'	m'	?	_	_	_	_	_	Gloss=?
+7	on	on	?	_	_	_	_	_	Gloss=?
+8	ke	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+10	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+11	noñ.	noñ.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = German(2007:175)__1
+# text = Ema ket 'n ger vraz 'nei.
+# text_fr = 'Ce n'est pas une grande ferme.'
+# dialect = Cornouaillais
+# source = German (2007)
+# texttype = Ouvrages de recherche
+1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	'	art	?	_	_	_	_	_	Gloss=un
+4	n	kêr	nom	_	_	_	_	_	Gloss=ferme|Morph=1
+5	ger	ger	nom	_	_	_	_	_	Gloss=?
+6	vraz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand|Morph=1
+7	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+8	nei.	nei.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Derrien(1980:11)__1
+# text = Evid ar baotred, [ penn zod ahanoh ], ar baotred...
+# text_fr = 'Pour les hommes, idiots (que vous êtes), les hommes... '
+# source = Derrien (1980)
+# texttype = Références de corpus
+1	Evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	baotred,	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+4	[	[	?	_	_	_	_	_	Gloss=?
+5	penn	penn	nom	_	_	_	_	_	Gloss=tête
+6	zod	sod	nom	_	_	_	_	_	Gloss=sot
+7	ahanoh	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
+8	],	],	?	_	_	_	_	_	Gloss=?
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	baotred..	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:44)__1
+# text = - "Mab va breur-kaer eo," emezi [ sec'h a-walc'h [ an tamm anezhi ] ]...
+# text_fr = 'C'est le fils de mon beau-frère, dit-elle assez sèchement.' (litt: ''sèche assez le morceau de elle'')
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	-	-	PUNCT	_	_	_	_	Gloss=punct
+2	"Mab	"Mab	?	_	_	_	_	_	Gloss=?
+3	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	breur-kaer	breur	nom	_	_	_	_	_	Gloss=frère
+5	eo,"	COP	?	_	_	_	_	_	Gloss=est
+6	emezi	eme	préposition	_	_	_	_	_	Gloss=dit
+7	[	[	?	_	_	_	_	_	Gloss=?
+8	sec'h	sec'h	?	_	_	_	_	_	Gloss=sec
+9	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+10	[	[	?	_	_	_	_	_	Gloss=
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+13	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+14	]	]	?	_	_	_	_	_	Gloss=?
+15	]..	]..	?	_	_	_	_	_	Gloss=
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:57)__1
+# text = ar blenier, [ lorc'hus ha reut a-walc'h an tamm anezhañ].
+# text_fr = 'le conducteur, fier et raide'.
+# source = ar Barzhig (1976)
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	blenier	bleniañ.-er,-our	verbe.?	_	_	_	_	_	Gloss=conduct.eur
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	[	[	?	_	_	_	_	_	Gloss=
+5	lorc'hus	lorc'h.-us	?.?	_	_	_	_	_	Gloss=orgueil.eux
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	reut	reut	adjectif	_	_	_	_	_	Gloss=raide
+8	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+11	anezhañ]	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Helias(2002:II,117),citédansRezac(2009).__1
+# text = Ar yez ma ra ganti un den a zo [ anezi eur bed ma vev ha ma striv ennañ ]...
+# text_fr = 'La langue qu'un homme parle est un monde dans lequel il vit et agit... '
+# location = bigouden
+# source = Helias (2002)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	yez	yezh	nom	_	_	_	_	_	Gloss=langue
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	den	den	nom	_	_	_	_	_	Gloss=homme
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	zo	COP	?	_	_	_	_	_	Gloss=est
+10	[	[	?	_	_	_	_	_	Gloss=?
+11	anezi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+12	eur	art	nom	_	_	_	_	_	Gloss=un
+13	bed	bed	nom	_	_	_	_	_	Gloss=monde
+14	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+15	vev	bevañ	verbe	_	_	_	_	_	Gloss=vit
+16	ha	&	?	_	_	_	_	_	Gloss=et
+17	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+18	striv	strivañ	verbe	_	_	_	_	_	Gloss=agit
+19	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+20	]...	]...	?	_	_	_	_	_	Gloss=?

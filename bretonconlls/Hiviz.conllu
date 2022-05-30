@@ -1,0 +1,17 @@
+# sent_id = Bouzeg(1986:II)__1
+# text = Laket 'peus ho hiviz war an tu gin.
+# text_fr = 'Vous avez mis votre chemise à l'envers.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Laket	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+2	'	kaout	?	_	_	_	_	_	Gloss=avez
+3	peus	peus	?	_	_	_	_	_	Gloss=?
+4	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+5	hiviz	hiviz	nom	_	_	_	_	_	Gloss=chemise
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	tu	tu	nom	_	_	_	_	_	Gloss=côté
+9	gin	gin	nom	_	_	_	_	_	Gloss=envers
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

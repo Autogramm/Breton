@@ -1,0 +1,10 @@
+# sent_id = Guillevic&LeGoff(1986:80)__1
+# text = Get ou des de zoujein !
+# text_fr = 'Combien ils ont à craindre !'
+# source = Guillevic & Le Goff (1986)
+1	Get	exclamatif	?	_	_	_	_	_	Gloss=que!
+2	ou	kaout	?	_	_	_	_	_	Gloss=3PLa
+3	des	des	?	_	_	_	_	_	Gloss=?
+4	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	zoujein	zoujein	?	_	_	_	_	_	Gloss=craindre
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

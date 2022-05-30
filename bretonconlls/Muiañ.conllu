@@ -1,0 +1,13 @@
+# sent_id = Gros(1984:126)__1
+# text = Ar muiañ aon am-oa eo e vijes lahet.
+# text_fr = 'Ce que je craignais le plus c'est que tu sois tué.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	muiañ	muiañ	quantifieur	_	_	_	_	_	Gloss=le.plus
+3	aon	aon	nom	_	_	_	_	_	Gloss=peur
+4	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	vijes	COP	?	_	_	_	_	_	Gloss=serais
+8	lahet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

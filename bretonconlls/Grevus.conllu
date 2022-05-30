@@ -1,0 +1,12 @@
+# sent_id = Kervella(2002:49)__1
+# text = Netra  c'hrevus, hañ, Tchang ?...
+# text_fr = 'Rien de grave, n'est-ce pas, Tchang ?... '
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+2	??	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	c'hrevus	c'hrevus	?	_	_	_	_	_	Gloss=grave
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	Tchang	nompropre	?	_	_	_	_	_	Gloss=Tchang
+7	?...	?...	?	_	_	_	_	_	Gloss=?

@@ -1,0 +1,23 @@
+# sent_id = KeitVimpBev(1984:39)__1
+# text = Dalc'hit mat krog !
+# text_fr = 'Accroche-toi !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	Dalc'hit	delc'her	?	_	_	_	_	_	Gloss=atrapper
+2	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+3	krog	krog	postposition	_	_	_	_	_	Gloss=croche
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Beyer(2009:15)__1
+# text = tapout a reas krog er roeñv bounner.
+# text_fr = '... il attrapa la lourde rame.'
+# source = Beyer (2009)
+# texttype = Références de corpus
+1	tapout	tapout	?	_	_	_	_	_	Gloss=prendre
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	krog	krog	postposition	_	_	_	_	_	Gloss=poigne
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	roeñv	roeñv	nom	_	_	_	_	_	Gloss=rame
+7	bounner	pounner	adjectif	_	_	_	_	_	Gloss=lourde|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

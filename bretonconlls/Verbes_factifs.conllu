@@ -1,0 +1,174 @@
+# sent_id = Favereau(1997:§597)__1
+# text = Ankouaet 'n'a la 'h ae an dour dreist ar bontenn .
+# text_fr = 'Il avait oublié que l’eau passait par dessus la passerelle.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Ankouaet	ankounac'haat	?	_	_	_	_	_	Gloss=oublié
+2	'	'	?	_	_	_	_	_	Gloss=3SG
+3	n'	kaout	?	_	_	_	_	_	Gloss=avait
+4	a	a	préposition	_	_	_	_	_	Gloss=?
+5	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+6	'	'	?	_	_	_	_	_	Gloss=R
+7	h	mont	verbe	_	_	_	_	_	Gloss=allait
+8	ae	art	?	_	_	_	_	_	Gloss=le
+9	an	dour	nom	_	_	_	_	_	Gloss=eau
+10	dour	dreist	préposition	_	_	_	_	_	Gloss=par.sur
+11	dreist	art	préposition	_	_	_	_	_	Gloss=le
+12	ar	pont]].[[-enn	?	_	_	_	_	_	Gloss=elle|Morph=1
+13	bontenn	bontenn	?	_	_	_	_	_	Gloss=?
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__25
+# text = Petra an archerien e neus soñjet ar seurezed a houie _ ?
+# text_fr = 'Qu’est-ce que la police a suspecté que les sœurs savaient ?'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	archerien	archer.-ien	nom.?	_	_	_	_	_	Gloss=policier.s
+4	e	e	?	_	_	_	_	_	Gloss=3SG
+5	neus	kaout	?	_	_	_	_	_	Gloss=a
+6	soñjet	soñjal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pens.é
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	seurezed	-ezed	?	_	_	_	_	_	Gloss=s
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	houie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+11	_	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Basque,Elordieta&Haddican(2018)__1
+# text = Non esa-n duzu [ utz-i dute-(e)la liburu-a ] ?
+# text_fr = 'Tu as dit qu'ils avaient laissé le livre où ça ?'
+1	Non	Non	?	_	_	_	_	_	Gloss=où
+2	esa-n	esa-n	?	_	_	_	_	_	Gloss=dit-PERF
+3	duzu	duzu	?	_	_	_	_	_	Gloss=AUX
+4	[	[	?	_	_	_	_	_	Gloss=
+5	utz-i	utz-i	?	_	_	_	_	_	Gloss=laissé-PERF
+6	dute-(e)la	dute-(e)la	?	_	_	_	_	_	Gloss=AUX-a
+7	liburu-a	liburu-a	?	_	_	_	_	_	Gloss=livre-le
+8	]	]	?	_	_	_	_	_	Gloss=?
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__40
+# text = Tout an dud o deus keuz (Alain / lennet) e neus (lennet) (Alain) an dra-se.
+# text_fr = 'Tout le monde regrette que Alain ait lu ce truc.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+4	o	o	?	_	_	_	_	_	Gloss=3PL
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	keuz	keuz	nom	_	_	_	_	_	Gloss=regret
+7	(Alain	(Alain	?	_	_	_	_	_	Gloss=Alain/lu
+8	/	/	PUNCT	_	_	_	_	Gloss=punct
+9	lennet)	lennet)	?	_	_	_	_	_	Gloss=?
+10	e	e	?	_	_	_	_	_	Gloss=R
+11	neus	kaout	?	_	_	_	_	_	Gloss=a
+12	(lennet)	lenn(V.)	?	_	_	_	_	_	Gloss=lu
+13	(Alain)	(Alain)	?	_	_	_	_	_	Gloss=Alain
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__34
+# text = Er bourk, an dud a lavare/ouie alkolik e oa.
+# text_fr = 'Dans le bourg, on disait/savait qu'il était alcoolique.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	bourk	bourk	?	_	_	_	_	_	Gloss=bourg
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	lavare/ouie	lavarout	verbe	_	_	_	_	_	Gloss=disait
+8	alkolik	alkolik	?	_	_	_	_	_	Gloss=alcoolique
+9	e	e	?	_	_	_	_	_	Gloss=R
+10	oa	COP	?	_	_	_	_	_	Gloss=était
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = Amelia e neus rentet kount (ar c'huadur) en neus kemeret an alc’hwezh fall.
+# text_fr = 'Amélia a découvert (qu’elle/que l'enfant) avait pris la mauvaise clef.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Amelia	Amelia	?	_	_	_	_	_	Gloss=Amelia
+2	e	e	?	_	_	_	_	_	Gloss=3SGM
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	rentet	rentet	?	_	_	_	_	_	Gloss=rendu
+5	kount	kount	?	_	_	_	_	_	Gloss=compte
+6	(ar	art	?	_	_	_	_	_	Gloss=le
+7	c'huadur)	krouadur	nom	_	_	_	_	_	Gloss=enfant|Morph=5
+8	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+9	neus	kaout	?	_	_	_	_	_	Gloss=a
+10	kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	alc’hwezh	alc'hwez	?	_	_	_	_	_	Gloss=clef
+13	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = Amelia en deus zouchet (ar c’huadur) en neus kemeret an alc’hwez fall.
+# text_fr = 'Amélia a imaginé qu’elle avait pris la mauvaise clef.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	Amelia	Amelia	?	_	_	_	_	_	Gloss=Amelia
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	zouchet	soñjal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pens.é
+5	(ar	art	?	_	_	_	_	_	Gloss=le
+6	c’huadur)	krouadur	nom	_	_	_	_	_	Gloss=enfant|Morph=5
+7	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+8	neus	kaout	?	_	_	_	_	_	Gloss=a
+9	kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	alc’hwez	alc'hwez	?	_	_	_	_	_	Gloss=clef
+12	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(05/2016)__2
+# text = Me a gred (//?)_[[*]]_ plantet neus Simone patatez er bloavezh-mañ egist he amezog.
+# text_fr = 'Je crois que Simone a planté des patates cette année comme son voisin.'
+# dialect = Léonard
+# source = A. M. (05/2016)
+# texttype = Élicitations
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
+4	(//?)_[[*]]_	(//?)_[[*]]_	?	_	_	_	_	_	Gloss=?
+5	plantet	plantet	?	_	_	_	_	_	Gloss=planté
+6	neus	kaout	?	_	_	_	_	_	Gloss=a
+7	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
+8	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
+9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+11	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
+12	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+13	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(05/2018)__1
+# text = [ E neus lennet Alain an dra-se ], tout an dud neus keuz _.
+# text_fr = 'Tout le monde regrette que Alain ait lu ce truc.'
+# dialect = Léonard
+# source = M-L. B. (05/2018)
+# texttype = Élicitations
+1	[	[	?	_	_	_	_	_	Gloss=R
+2	E	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	neus	?	_	_	_	_	_	Gloss=?
+4	lennet	lenn(V.)	?	_	_	_	_	_	Gloss=lu
+5	Alain	Alain	?	_	_	_	_	_	Gloss=Alain
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+8	],	],	?	_	_	_	_	_	Gloss=?
+9	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+12	neus	kaout	?	_	_	_	_	_	Gloss=a
+13	keuz	keuz	nom	_	_	_	_	_	Gloss=regret

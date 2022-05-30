@@ -1,0 +1,10 @@
+# sent_id = Gros(1984:86)__2
+# text = Biskoaz n'am-oa gwelet na klevet kemend-all.
+# text_fr = 'Jamais je n'avais vu ni entendu pareille chose.'
+# source = Gros (1984)
+1	Biskoaz	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+2	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+3	na	na...na	?	_	_	_	_	_	Gloss=ni
+4	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+5	kemend-all	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

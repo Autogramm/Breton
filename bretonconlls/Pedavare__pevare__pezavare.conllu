@@ -1,0 +1,46 @@
+# sent_id = Bouzec & al. (2017:124)__1
+# text = Pévar yèy kuit ?
+# text_fr = 'Quand s'en ira-t-il ?'
+1	Pévar	Pévar	?	_	_	_	_	_	Gloss=Pevare
+2	kuit	kuit	postposition	_	_	_	_	_	Gloss=kuit
+3			?	_	_	_	_	_	Gloss=?
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'diavi')__1
+# text = Goût e ouzer pedavare deve diavet ar yar.
+# text_fr = 'On savait quand la poule avait pondu.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Goût	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	ouzer	gouzout.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=savait.on
+4	pedavare	pevare	?	_	_	_	_	_	Gloss=quand
+5	deve	kaout	?	_	_	_	_	_	Gloss=avait
+6	diavet	dozviñ	?	_	_	_	_	_	Gloss=pondu
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	yar	yar	nom	_	_	_	_	_	Gloss=poule
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm (1987a:284)__1
+# text = Penvare (e) teuio Jean war-giz?
+# text_fr = 'Quand est-ce que Jean reviendra ?'
+# text_phon = ["/pɛn'@vaR", 'tɛj', 'ʒɔ̃', 'waj̆ji:s/']
+1	Penvare	Penvare	?	_	_	_	_	_	Gloss=quand
+2	(e)	(e)	?	_	_	_	_	_	Gloss=R|Morph=4
+3	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+4	Jean	Jean	?	_	_	_	_	_	Gloss=Jean
+5	war-giz	war-giz	préposition-postposition	_	_	_	_	_	Gloss=sur-arrière
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:401)__1
+# text = penvar' oa maro Jesus Krist
+# text_fr = '...quand était mort Jésus Christ'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	penvar'	penvar'	?	_	_	_	_	_	Gloss=quand
+2			PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+5	Jesus	Jesus	?	_	_	_	_	_	Gloss=Jésus
+6	Krist	Krist	?	_	_	_	_	_	Gloss=Christ

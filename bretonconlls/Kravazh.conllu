@@ -1,0 +1,18 @@
+# sent_id = Elégoët(1982:18)__1
+# text = O ! Tragaer a dud yoa oc'h ober gant ar c'hravazh !
+# text_fr = 'Oh ! Un grand nombre de gens se servaient de brancards.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	O	interjection	?	_	_	_	_	_	Gloss=Oh!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Tragaer	tragaer	quantifieur	_	_	_	_	_	Gloss=beaucoup
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens
+6	yoa	yoa.COP	?.?	_	_	_	_	_	Gloss=R.était
+7	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	c'hravazh	c'hravazh	?	_	_	_	_	_	Gloss=5
+11	!	!	PUNCT	_	_	_	_	Gloss=punct

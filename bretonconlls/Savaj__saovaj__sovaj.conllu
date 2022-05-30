@@ -1,0 +1,30 @@
+# sent_id = Gros(1989:'devez')__1
+# text = Feteiz e raio eun devez sovaj 'vat.
+# text_fr = 'Aujourd'hui il va faire une journée de tempête !'
+# source = Gros (1989)
+1	Feteiz	feteiz	interjection-adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+4	eun	art	?	_	_	_	_	_	Gloss=un
+5	devez	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
+6	sovaj	sovaj	?	_	_	_	_	_	Gloss=sauvage
+7	'	avat	adverbe	_	_	_	_	_	Gloss=...!
+8	vat.	vat.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Yekel (2016:'[http://brezhonegbrovear.bzh/yezhadur.php?pajenn=goulenn_nach goulenn nac'h]')__1
+# text = Ar re-se n'int ket plant saovaj, 'h int ?
+# text_fr = 'Ce ne sont pas des plantes sauvages, si ?'
+# text_phon = ['', "[ '@ree", 'niɲ', 'cə', 'plɑ̃n', "'@ʒɔ:vaʃ", 'hiɲ ]']
+# source2 =  Trégorrois (Bégard), locuteur né en 1931
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	plant	plant	?	_	_	_	_	_	Gloss=plantes
+7	saovaj	saovaj	?	_	_	_	_	_	Gloss=sauvage
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	'	'	?	_	_	_	_	_	Gloss=R
+10	h	COP	?	_	_	_	_	_	Gloss=sont
+11	int	int	?	_	_	_	_	_	Gloss=?
+12	?	?	PUNCT	_	_	_	_	Gloss=punct

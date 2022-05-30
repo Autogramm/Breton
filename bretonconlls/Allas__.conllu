@@ -1,0 +1,14 @@
+# sent_id = ArFloc'h(1985:161)__1
+# text = Allas ! Faziet oan, ha faziet a-galz.
+# text_fr = 'Hélas ! Je me trompais, et de beaucoup.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Allas	interjection	?	_	_	_	_	_	Gloss=Hélas!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Faziet	fazi.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=faut.é
+4	oan	COP	nom	_	_	_	_	_	Gloss=étais
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	faziet	fazi.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=faut.é
+8	a-galz	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

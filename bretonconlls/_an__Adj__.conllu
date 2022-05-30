@@ -1,6 +1,6 @@
 # sent_id = Briant-Cadiou(1998:198)__1
 # text = Deuz uhelder Koz-kastell, an Amerikaned a wele va lienennou.
-# text_fr =  '... des hauts de ''Koz-Kastell'', les américains voyaient mes draps.'   
+# text_fr = '... des hauts de ''Koz-Kastell'', les américains voyaient mes draps.'
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
@@ -10,26 +10,26 @@
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	Amerikaned	-ed(PL.)	?	_	_	_	_	_	Gloss=s
-7	a	a	préposition	1	_	_	_	_	Gloss=R
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyaient
-9	va	POSS	?	1	_	_	_	_	Gloss=mon
+9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
 10	lienennou	lien.-enn.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=linge.une.PL
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:44)__1
 # text = Dao d'ar c'halianed !
-# text_fr =  'Sus aux gaulois !'
+# text_fr = 'Sus aux gaulois !'
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
 1	Dao	dao!	?	_	_	_	_	_	Gloss=sus
 2	d'	da	préposition	_	_	_	_	_	Gloss=à
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	c'halianed	nompropre	?	5	_	_	_	_	Gloss=gaul]]].oi.[[-ed(PL.)|s]
-5	!	!	?	_	_	_	_	_	Gloss=?
+4	c'halianed	nompropre	?	_	_	_	_	_	Gloss=gaul]]].oi.[[-ed(PL.)|s]|Morph=5
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1966:28)__1
 # text = Me am-oa kollet warlene ma broz toskan.
-# text_fr =  'J'ai perdu l'année dernière ma jupe de couleur.'
+# text_fr = 'J'ai perdu l'année dernière ma jupe de couleur.'
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
@@ -37,7 +37,7 @@
 2	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
 3	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
 4	warlene	warlene	adverbe	_	_	_	_	_	Gloss=année.dernière
-5	ma	POSS	?	2	_	_	_	_	Gloss=mon
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 6	broz	brozh	nom	_	_	_	_	_	Gloss=jupe
 7	toskan	toskan	?	_	_	_	_	_	Gloss=toscane
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,40 @@
+# sent_id = Skragn(2002:96)__1
+# text = Me, atao, a huñvree en eur en em lakaad e stad ar baotred faro ...
+# text_fr = 'Moi, toujours, je rêvais en me mettant à la place des gars fiers... '
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	huñvree	hunvreal	verbe	_	_	_	_	_	Gloss=rêvait
+7	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+8	eur	eur	nom	_	_	_	_	_	Gloss=?
+9	en	pronomreflexif	complémenteur	_	_	_	_	_	Gloss=se
+10	em	em	?	_	_	_	_	_	Gloss=?
+11	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+12	e	P.e	?	_	_	_	_	_	Gloss=en
+13	stad	stad	nom	_	_	_	_	_	Gloss=état
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	baotred	paotr	nom	_	_	_	_	_	Gloss=gars]].[[-ed(PL.)|s]|Morph=1
+16	faro	faro	adjectif	_	_	_	_	_	Gloss=fier
+17	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:8)__1
+# text = Tregont vloaz a-raok e oa anezhi ur gaer a blac'h faro.
+# text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
+# source = Abeozen (1986)
+1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente]|Morph=1
+2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	blac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+11	faro	faro	?	_	_	_	_	_	Gloss=fièr
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

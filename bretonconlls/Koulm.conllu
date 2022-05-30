@@ -1,0 +1,15 @@
+# sent_id = LeBozec(1933:46)__1
+# text = - Pe evn a c'hrougous ? - Ar goulm
+# text_fr = '- Quel oiseau roucoule ? - Le pigeon.'
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	-	-	?	_	_	_	_	_	Gloss=-
+2	Pe	Motsinterrogatifs	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+3	evn	evn	nom	_	_	_	_	_	Gloss=oiseau
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	c'hrougous	c'hrougous	?	_	_	_	_	_	Gloss=roucoule
+6			?	_	_	_	_	_	Gloss=?
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	-	-	?	_	_	_	_	_	Gloss=-
+9	Ar	art	?	_	_	_	_	_	Gloss=le
+10	goulm	goulm	?	_	_	_	_	_	Gloss=1

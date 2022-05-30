@@ -1,6 +1,6 @@
 # sent_id = Bouzec & al. (2017:70)__1
 # text = 'lamp oa 'stripil 'uc'h 'n dol.
-# text_fr =  'La lampe était suspendue au-dessus de la table.' 
+# text_fr = 'La lampe était suspendue au-dessus de la table.'
 1	'	'	?	_	_	_	_	_	Gloss=Al
 2	lamp	lamp	?	_	_	_	_	_	Gloss=lamp
 3	oa	oa	préposition	_	_	_	_	_	Gloss=a
@@ -14,12 +14,12 @@
 
 # sent_id = Rostrenen(1732:'supérieur')__1
 # text = qement tra a zo a huz deomp
-# text_fr =  'tout ce qui nous est supérieur'
+# text_fr = 'tout ce qui nous est supérieur'
 # source = Rostrenen (1732)
 # texttype = Ouvrages de recherche
 1	qement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tout
 2	tra	tra	nom	_	_	_	_	_	Gloss=chose
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	a	a	préposition	_	_	_	_	_	Gloss=dessus
 6	huz	huz	?	_	_	_	_	_	Gloss=?

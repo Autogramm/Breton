@@ -1,0 +1,12 @@
+# sent_id = Kervella(2009:165)__1
+# text = Trist eo rankout bevañ an-unan.
+# text_fr = 'C'est triste de devoir vivre seule.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Trist	Trist	adjectif	_	_	_	_	_	Gloss=triste
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	rankout	rankout	verbe	_	_	_	_	_	Gloss=devoit
+4	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+5	an-unan	IMP	?	_	_	_	_	_	Gloss=IMP-seul
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,159 @@
+# sent_id = Fave(1998:135)__1
+# text = Fichet e oa ar plac'h nevez?
+# text_fr = 'La mariée était bien habillée ?'
+# dialect = Léonard
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	Fichet	Fichet	?	_	_	_	_	_	Gloss=apprêté
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+
+# sent_id = Timm(1995:8)__1
+# text = Tregont vloaz a-raok e oa anezhi ur gaer a blac'h faro.
+# text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
+# source = Abeozen (1986)
+1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente]|Morph=1
+2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	blac'h	blac'h	?	_	_	_	_	_	Gloss=fille
+11	faro	farv	adjectif	_	_	_	_	_	Gloss=fière
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abeozen(1969:125)__1
+# text = N'eo ket possupl, plac'h-kaezh-me !
+# text_fr = 'Ce n'est pas possible, ma pauvre !'
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	possupl	posupl	?	_	_	_	_	_	Gloss=possible
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	plac'h-kaezh-me	kaezh	adjectif	_	_	_	_	_	Gloss=cher
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:23)__1
+# text = Ha c'hwi, ma flah bihan, ma 'ho pije gwelet an traou-ze...
+# text_fr = 'Et vous, ma petite fille, si vous aviez vu ces choses-là... '
+# source = Gros (1984)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	flah	flah	?	_	_	_	_	_	Gloss=fille
+6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+9	'	'	?	_	_	_	_	_	Gloss=2PL
+10	ho	kaout	?	_	_	_	_	_	Gloss=aviez
+11	pije	pije	?	_	_	_	_	_	Gloss=?
+12	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	traou-ze..	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:161)__4
+# text = Honnez na oa ket eur plah vrao, na tost ivez !
+# text_fr = 'Ce n'était pas une jolie fille, ni près de l'être (elle était laide).'
+# source = Gros (1984)
+1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
+2	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	plah	plah	?	_	_	_	_	_	Gloss=1
+7	vrao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=belle
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	na	na...na	?	_	_	_	_	_	Gloss=ni
+10	tost	tost	adjectif	_	_	_	_	_	Gloss=près
+11	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__47
+# text = Pese bugale o deus gwelet ar vaouez ha saludet ar plac’hig bian ?
+# text_fr = 'Quels enfants ont vu la femme et salué la petite fille ?'
+# source = M-L.B (10/2018)
+1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
+2	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	saludet	saludet	?	_	_	_	_	_	Gloss=salué
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	plac’hig	-ig	?	_	_	_	_	_	Gloss=ette
+12	bian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__68
+# text = Ar plac’hig vian a neus lavaret ar vugale o deus gwelet ar vaouez.
+# text_fr = 'La fillette a dit que les enfants ont vu la femme.'
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	plac’hig	-ig	?	_	_	_	_	_	Gloss=ette
+3	vian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	neus	kaout	?	_	_	_	_	_	Gloss=a
+6	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	o	o	?	_	_	_	_	_	Gloss=3PL
+10	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1950:157)__5
+# text = Goudeze, setu mestrez an ti, eur plac'h koz, da lavarout...
+# text_fr = 'Après ça, la maitresse de maison, une vieille femme, dit... '
+# location = Pleyben
+# source = Ar Floch (1950)
+1	Goudeze	goude.pfi	préposition-adverbe-complémenteur.?	_	_	_	_	_	Gloss=après.ça
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+4	mestrez	mestr.-ez(F.)	nom.?	_	_	_	_	_	Gloss=maitr.esse
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	ti	ti	nom	_	_	_	_	_	Gloss=maison
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	eur	art	nom	_	_	_	_	_	Gloss=un
+9	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+10	koz	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	lavarout..	lavarout	verbe	_	_	_	_	_	Gloss=dire
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:120)__2
+# text = Ar plac'h paour mañ neus tra.
+# text_fr = '... Cette pauvre fille n'a rien.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+3	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+4	mañ	ads	?	_	_	_	_	_	Gloss=ci
+5	neus	kaout	?	_	_	_	_	_	Gloss=a
+6	tra	nomnu	nom	_	_	_	_	_	Gloss=chose
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:161)__1
+# text = Ha fatiket ar plah !
+# text_fr = 'Et me voilà évanouie !'
+# source = Gros (1984)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	fatiket	fatiket	?	_	_	_	_	_	Gloss=évanoui
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	plah	plah	?	_	_	_	_	_	Gloss=fille
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

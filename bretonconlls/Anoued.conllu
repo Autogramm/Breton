@@ -1,0 +1,18 @@
+# sent_id = Bouzec&al.(2017:381)__1
+# text = Anou'd meus da ma sreid, yeign-sklass 'ma-yè.
+# text_fr = 'J'ai froid aux pieds. J'ai les pieds gelés.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Anou'	Anou'	?	_	_	_	_	_	Gloss=froid
+2	d	d	?	_	_	_	_	_	Gloss=?
+3	meus	kaout	?	_	_	_	_	_	Gloss=a
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	ma	pOSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	sreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	yeign-sklass	yen	adjectif	_	_	_	_	_	Gloss=froid
+9	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ma-yè	ma-yè	?	_	_	_	_	_	Gloss=3PL
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

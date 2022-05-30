@@ -1,0 +1,35 @@
+# sent_id = Trépos(2001:§383)__1
+# text = Lakaet em eus kordenn, gant aon ne vezo diskaret an doenn gand an avel.
+# text_fr = 'J'y ai mis des cordes, de peur que le toit ne soit abattu par le vent.'
+# source = Trépos (2001)
+1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+2	em	em	?	_	_	_	_	_	Gloss=1SG
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	kordenn	kordenn	nom	_	_	_	_	_	Gloss=corde
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	gant	gant	?	_	_	_	_	_	Gloss=avec
+7	aon	aon	nom	_	_	_	_	_	Gloss=peur
+8	ne	ne	?	_	_	_	_	_	Gloss=ne
+9	vezo	COP	?	_	_	_	_	_	Gloss=sera
+10	diskaret	diskaret	?	_	_	_	_	_	Gloss=détruit
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	doenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
+13	gand	gant	?	_	_	_	_	_	Gloss=avec
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	avel	avel	nom	_	_	_	_	_	Gloss=vent
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:392)__3
+# text = An disterrañ stok a ri enni e tiskari anezi.
+# text_fr = 'Le moindrement que tu la toucheras tu la feras tomber.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	disterrañ	dister.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=insignifiant.le.plus
+3	stok	stok	?	_	_	_	_	_	Gloss=touche
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
+6	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	tiskari	tiskari	?	_	_	_	_	_	Gloss=abattras
+9	anezi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

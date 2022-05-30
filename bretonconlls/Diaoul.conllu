@@ -1,0 +1,66 @@
+# sent_id = Plougerneau,M-L.B(10/2018)__1
+# text = Ar vugale zo diaouloù bian.
+# text_fr = 'Les enfants sont des petits diables.'
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	diaouloù	diaouloù	?	_	_	_	_	_	Gloss=diables
+5	bian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
+# text = Hag e lar-eoñ eo bet diaouled ar vugale dom-ni.
+# text_fr = 'Et il dit que nos enfants ont été des diables'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	lar-eoñ	lavarout	verbe	_	_	_	_	_	Gloss=dit
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	diaouled	-ed(PL.)	?	_	_	_	_	_	Gloss=s
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+9	dom-ni	da.pronomincorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=à.nous.nous
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'diaoulad')__1
+# text = Kenkoulz emaint er skol evel o tiaoulad er gêr.
+# text_fr = 'Ils sont aussi bien à l'école qu'à faire les diables à la maison.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Kenkoulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
+2	emaint	eman	?	_	_	_	_	_	Gloss=sont
+3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	skol	skol	nom	_	_	_	_	_	Gloss=école
+5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	tiaoulad	-at(V.)	?	_	_	_	_	_	Gloss=er
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:75)__1
+# text = Ar frer rener eta a rankas bezañ klevet un diaoul a dra diwar va fenn...
+# text_fr = 'Le frère supérieur a dû entendre une diable de chose sur mon compte... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	frer	frer	?	_	_	_	_	_	Gloss=frère
+3	rener	ren.-er,-our	verbe.?	_	_	_	_	_	Gloss=direct.eur
+4	eta	eta	?	_	_	_	_	_	Gloss=donc
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	rankas	rankout	verbe	_	_	_	_	_	Gloss=dut
+7	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+8	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	dra	tra	nom	_	_	_	_	_	Gloss=chose
+13	diwar	diwar	préposition	_	_	_	_	_	Gloss=de.sur
+14	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+15	fenn..	penn	nom	_	_	_	_	_	Gloss=tête
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

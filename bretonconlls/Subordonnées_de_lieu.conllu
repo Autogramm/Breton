@@ -1,0 +1,56 @@
+# sent_id = ArGow(1961:146)__1
+# text = e korn an oaled, e-lec'h ma vourremp o tommañ.
+# text_fr = 'Au coin du feu, où nous aimions nous chauffer.'
+# dialect = Cornouaillais
+# location = Pleiben
+# source = Ar Gow (1961)
+# texttype = Références de corpus
+1	e	P.e	?	_	_	_	_	_	Gloss=en
+2	korn	korn	nom	_	_	_	_	_	Gloss=coin
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	oaled	oaled	nom	_	_	_	_	_	Gloss=foyer
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	e-lec'h	P.e	?	_	_	_	_	_	Gloss=en
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	vourremp	bourriñ	verbe	_	_	_	_	_	Gloss=plaisions
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	tommañ	tomm.-añ	adjectif.?	_	_	_	_	_	Gloss=chauff.er
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__51
+# text = An daol lec'h meus losket an alc’hioù a zo e-barzh ar chapel.
+# text_fr = 'La table sur laquelle j’ai laissé les clefs est dans la chapelle.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	losket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	alc’hioù	alc'hwez.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=clef.s
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	chapel	chapel	nom	_	_	_	_	_	Gloss=chapelle
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Crahe(2013:332)__6
+# text = E-lec'h ma karin. Emen m ' e karoc'h.
+# text_fr = 'Où je voudrai. Où tu voudras.'
+# dialect = Vannetais
+# location = Languidic
+# source = Crahe (2013)
+# texttype = Ouvrages de recherche
+1	E-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=en-lieu
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	karin	karout	verbe	_	_	_	_	_	Gloss=aimerai
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	Emen	emen	pronom	_	_	_	_	_	Gloss=où
+6	m	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	'	'	?	_	_	_	_	_	Gloss=?
+8			PUNCT	_	_	_	_	Gloss=punct
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	karoc'h	karout	verbe	_	_	_	_	_	Gloss=aimerez
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

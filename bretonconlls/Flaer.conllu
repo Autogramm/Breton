@@ -1,0 +1,19 @@
+# sent_id = Kervella(2001:1)__1
+# text = Feiz, avat ! Tud a vez dedennet gant ar flaer-se war a hañval !
+# text_fr = 'Et, ma parole ! Il y a des gens qui semblent attirés par cette puanteur !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	avat	avat	adverbe	_	_	_	_	_	Gloss=donc
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Tud	tud	nom	_	_	_	_	_	Gloss=gens
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	dedennet	dedenn.-et(Adj.)	?.?	_	_	_	_	_	Gloss=attir.é
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	flaer-se	DEM	?	_	_	_	_	_	Gloss=là
+11	war	war	?	_	_	_	_	_	Gloss=sur
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+13	hañval	hañval	?	_	_	_	_	_	Gloss=semble
+14	!	!	PUNCT	_	_	_	_	Gloss=punct

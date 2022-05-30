@@ -1,11 +1,11 @@
 # sent_id = Léon/Diwan,M.Lincoln(06/2014b)__1
 # text = Pa seller a-dost, ar blev a zo pep a hini ul liv ispisial ganto.
-# text_fr =  'Quand on regarde de près, les cheveux ont chacun une couleur particulière.' 
+# text_fr = 'Quand on regarde de près, les cheveux ont chacun une couleur particulière.'
 # source = M. Lincoln (06/2014b)
 # texttype = Élicitations
-1	Pa	pa	complémenteur	1	_	_	_	_	Gloss=quand
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 2	seller	sellout.IMP	verbe.?	_	_	_	_	_	Gloss=regarde.on
-3	a-dost	a	préposition	1	_	_	_	_	Gloss=de
+3	a-dost	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	blev	blev	nom	_	_	_	_	_	Gloss=cheveux
@@ -22,7 +22,7 @@
 
 # sent_id = Skragn(2002:31)__1
 # text = gand ar re o-doa gwelet an taol deuz a-dost.
-# text_fr =  'avec ceux qui avaient vu le coup de près.' 
+# text_fr = 'avec ceux qui avaient vu le coup de près.'
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
@@ -34,5 +34,5 @@
 6	an	art	?	_	_	_	_	_	Gloss=le
 7	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
 8	deuz	deus	?	_	_	_	_	_	Gloss=de
-9	a-dost	a	préposition	1	_	_	_	_	Gloss=de
+9	a-dost	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

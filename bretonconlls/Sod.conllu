@@ -1,0 +1,10 @@
+# sent_id = LeClerc(1986:135)__2
+# text = Pêr a ra e zod.
+# text_fr = 'Pierre fait le fou.'
+# source = Le Clerc (1986)
+1	Pêr	nompropre	?	_	_	_	_	_	Gloss=Pierre
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	zod	zod	?	_	_	_	_	_	Gloss=sôt
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

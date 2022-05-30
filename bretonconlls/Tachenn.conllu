@@ -1,0 +1,34 @@
+# sent_id = Herrieu(1994:32)__1
+# text = Livet eo an dachenn gete.
+# text_fr = 'Le sol en change de couleur.'
+# source = Herrieu (1994)
+1	Livet	livañ	verbe	_	_	_	_	_	Gloss=peint
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dachenn	dachenn	?	_	_	_	_	_	Gloss=1
+5	gete	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:7)__16
+# text = Ar gwez n'int ket stank ba'n dachenn-mañ.
+# text_fr = 'Les arbres ne sont pas nombreux dans cette ferme-ci.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gwez	gwez	nom	_	_	_	_	_	Gloss=arbres
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	stank	stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=abondant
+7	ba'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+8	n	art	?	_	_	_	_	_	Gloss=le
+
+# sent_id = ArBarzhig(1976:30)__1
+# text = an dachenn zouar.
+# text_fr = 'le lopin de terre'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	dachenn	dachenn	?	_	_	_	_	_	Gloss=aire

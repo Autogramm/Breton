@@ -1,0 +1,13 @@
+# sent_id = Kerrien(2000:9)__1
+# text = Kuitait pep goanag, c'houi hag a zeu e-barz !
+# text_fr = 'Laissez toute espérance, vous qui entrez !'
+# source = Kerrien (2000)
+1	Kuitait	kuitaat	?	_	_	_	_	_	Gloss=quittez
+2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	goanag	goanag	nom	_	_	_	_	_	Gloss=espérance
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	c'houi	pfi	?	_	_	_	_	_	Gloss=vous
+6	hag	C-ha(g)	?	_	_	_	_	_	Gloss=que
+7	a	a	préposition	_	_	_	_	_	Gloss=?
+8	e-barz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+9	!	!	PUNCT	_	_	_	_	Gloss=punct

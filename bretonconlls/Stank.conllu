@@ -1,0 +1,83 @@
+# sent_id = Seite&Stéphan(1957:123)__2
+# text = an tonnouigoù stank
+# text_fr = 'les nombreuses vagues'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	tonnouigoù	tonn.-ouigoù	nom.?	_	_	_	_	_	Gloss=flot.PL.DIM.PL
+3	stank	stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=nombreux
+
+# sent_id = Seite&Stéphan(1957:141),citantTaldir__2
+# text = Erh a gouezhe stank.
+# text_fr = 'Il neigeait abondamment.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Erh	erc'h	?	_	_	_	_	_	Gloss=neige
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	gouezhe	kouezhañ	?	_	_	_	_	_	Gloss=tombait
+4	stank	stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=abondant
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:10)__1
+# text = Stank ac'hanomp a zo bet lazhet pe gwallaozet [...] .
+# text_fr = 'Beaucoup d'entre nous ont été tués ou blessés [...].'
+# source = Herrieu (1994)
+1	Stank	Stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=nombre
+2	ac'hanomp	eus.pronomincorporé	?.?	_	_	_	_	_	Gloss=de.nous
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	bet	beza	?	_	_	_	_	_	Gloss=été
+6	lazhet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+7	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+8	gwallaozet	gwall-.aozañ	nom-adverbe.verbe	_	_	_	_	_	Gloss=mal.mis
+9	[...]	[...]	?	_	_	_	_	_	Gloss=?
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:7)__1
+# text = Ar gwez n'int ket stank ba'n dachenn-mañ.
+# text_fr = 'Les arbres ne sont pas nombreux dans cette ferme-ci.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gwez	gwez	nom	_	_	_	_	_	Gloss=arbres
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	int	COP	?	_	_	_	_	_	Gloss=sont
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	stank	stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=abondant
+7	ba'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+8	n	art	?	_	_	_	_	_	Gloss=le
+9	dachenn-mañ	tachenn	nom	_	_	_	_	_	Gloss=parcelle]]-[[DEM|ci|Morph=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:93)__1
+# text = Stankaet en deus ar Jermaned da denniñ.
+# text_fr = 'Les allemands ont densifié leurs tirs.'
+# source = Herrieu (1994)
+1	Stankaet	-aat	verbe	_	_	_	_	_	Gloss=ifié
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	Jermaned	Jermaned	nom	_	_	_	_	_	Gloss=allemands
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	denniñ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:33)__1
+# text = An tiegeziou braz ne oant ket stank gwechall.
+# text_fr = 'Autrefois il n’y avait pas de grosses exploitations.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	tiegeziou	ti.-egezh.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=maison.née.s
+3	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	oant	COP	?	_	_	_	_	_	Gloss=étaient
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	stank	stank	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=nombreux
+8	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

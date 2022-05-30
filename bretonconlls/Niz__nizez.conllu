@@ -1,0 +1,17 @@
+# sent_id = Favereau(1993:§'nompas')__1
+# text = Nompas he doa kalz oad en tu all d'he nizez.
+# text_fr = 'Non pas qu'elle soit beaucoup plus vieille que sa nièce.'
+# source = Favereau (1993)
+# texttype = Ouvrages de recherche
+1	Nompas	nompas	?	_	_	_	_	_	Gloss=non.pas
+2	he	he	?	_	_	_	_	_	Gloss=3SGF
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	oad	oad	nom	_	_	_	_	_	Gloss=âge
+6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	tu	tu	nom	_	_	_	_	_	Gloss=côté
+8	all	all	?	_	_	_	_	_	Gloss=autre
+9	d'	da	préposition	_	_	_	_	_	Gloss=de
+10	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	nizez	nizez	?	_	_	_	_	_	Gloss=nièce
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

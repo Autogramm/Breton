@@ -1,6 +1,6 @@
 # sent_id = LeGarrec(1901:116)__1
 # text = Kê, lousdoni ar foeltr!
-# text_fr =  'Va, saleté du diable !'
+# text_fr = 'Va, saleté du diable !'
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901)
 # texttype = Références de corpus
@@ -13,9 +13,9 @@
 
 # sent_id = ArMeliner(2009:107)__1
 # text = he dorn rouzet d'ar seizh amzer ha kuilhet d'ar gozhoni.
-# text_fr =  '[sa] main brunie par le vent et le soleil, et ridée par la vieillesse.'
+# text_fr = '[sa] main brunie par le vent et le soleil, et ridée par la vieillesse.'
 # source = Ar Meliner (2009)
-1	he	POSS	?	2	_	_	_	_	Gloss=son
+1	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 2	dorn	dorn	nom	_	_	_	_	_	Gloss=main
 3	rouzet	rouz.-et(Adj.)	?.?	_	_	_	_	_	Gloss=rouss.i
 4	d'	da	préposition	_	_	_	_	_	Gloss=par
@@ -25,16 +25,16 @@
 8	kuilhet	kuilh(N.).-et(Adj.)	?.?	_	_	_	_	_	Gloss=rid.é
 9	d'	da	préposition	_	_	_	_	_	Gloss=par
 10	ar	art	?	_	_	_	_	_	Gloss=le
-11	gozhoni	kozh	adjectif	1	_	_	_	_	Gloss=viel]].[[-oni|lesse
+11	gozhoni	kozh	adjectif	_	_	_	_	_	Gloss=viel]].[[-oni|lesse|Morph=1
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Vallée(1980:XVIII)__1
 # text = kemerout c'houervoni ouz c'houevderiou ar vuhez
-# text_fr =  'contracter de l'amertume (dans l'âme) contre les amertumes (des choses) de la vie.'
+# text_fr = 'contracter de l'amertume (dans l'âme) contre les amertumes (des choses) de la vie.'
 # source = Vallée (1980)
 1	kemerout	kemer.-out	verbe.verbe	_	_	_	_	_	Gloss=prend.re
 2	c'houervoni	c'hwerv	?	_	_	_	_	_	Gloss=amer
 3	ouz	ouzh	préposition	_	_	_	_	_	Gloss=contre
 4	c'houevderiou	c'hwerv.-où(PL.)	?.?	_	_	_	_	_	Gloss=amer.s
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vuhez	buhez	nom	1	_	_	_	_	Gloss=vie
+6	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1

@@ -1,0 +1,13 @@
+# sent_id = Biguet(2017:51)__1
+# text = Arsa ! Chou ! Kit dezhi !
+# text_fr = 'Allons ! Ouste, filez !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[arsa!|Allons
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Chou	huchement	?	_	_	_	_	_	Gloss=Ouste!
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Kit	mont	verbe	_	_	_	_	_	Gloss=allez
+7	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+8	!	!	PUNCT	_	_	_	_	Gloss=punct

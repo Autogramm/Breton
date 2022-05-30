@@ -1,0 +1,139 @@
+# sent_id = Mellouet&Pennec(2004:79)__1
+# text = Ha neuze e veze noz o tont d'ar gêr de ar marc'had.
+# text_fr = 'Alors il faisait nuit pour rentrer à la maison du marché.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+11	de	de	?	_	_	_	_	_	Gloss=de
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__4
+# text = O ! Ya parce que e veze ket a varhadourez bemdez er vro.
+# text_fr = 'Oh oui parce qu'il n'y avait pas de ravitaillement tous les jours.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	O	interjection	?	_	_	_	_	_	Gloss=oh
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Ya	Ya	interjection	_	_	_	_	_	Gloss=oui
+4	parce	parce	?	_	_	_	_	_	Gloss=parce
+5	que	que	?	_	_	_	_	_	Gloss=que
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	varhadourez	-ourezh	?	_	_	_	_	_	Gloss=ement
+11	bemdez	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+12	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+13	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:49)__1
+# text = Setu an uzinou o-deus en em lakaet da ober eul ludu dem-heñvel ha gwelloh-marhad.
+# text_fr = 'Donc les usines se sont mises à produire une cendre presque identique et meilleur marché.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	uzinou	uzinou	?	_	_	_	_	_	Gloss=usines
+4	o-deus	kaout	?	_	_	_	_	_	Gloss=a
+5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
+6	em	lakaat	verbe	_	_	_	_	_	Gloss=mis
+7	lakaet	lakaet	?	_	_	_	_	_	Gloss=?
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	eul	art	?	_	_	_	_	_	Gloss=un
+11	ludu	ludu	nom	_	_	_	_	_	Gloss=cendre
+12	dem-heñvel	heñvel	?	_	_	_	_	_	Gloss=pareil|Morph=1
+13	ha	&	?	_	_	_	_	_	Gloss=et
+14	gwelloh-marhad	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1998:7)__2
+# text = Konta 'reer e-noa hemañ greet marhad gand an Aotrou Nin.
+# text_fr = 'On raconte qu'il avait passé marché avec monsieur Nin.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Konta	kontañ	verbe	_	_	_	_	_	Gloss=conter
+2	'	'	?	_	_	_	_	_	Gloss=R
+3	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+4	e-noa	kaout	?	_	_	_	_	_	Gloss=avait
+5	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+6	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	marhad	marhad	?	_	_	_	_	_	Gloss=marché
+8	gand	gant	?	_	_	_	_	_	Gloss=avec
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+11	Nin	nompropre	?	_	_	_	_	_	Gloss=Nin
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:43)__1
+# text = Marc'had kuzh a zeuio atav pa vanko n'eus forzh petra.
+# text_fr = 'Il y aura toujours un marché noir quand une chose manque, quel que soit cette chose.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Marc'had	Marc'had	?	_	_	_	_	_	Gloss=marché
+2	kuzh	kuzhat	verbe	_	_	_	_	_	Gloss=caché
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zeuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+7	vanko	mankout	verbe	_	_	_	_	_	Gloss=manquera
+8	n'	n'	?	_	_	_	_	_	Gloss=[[N'@eusforzh
+9	eus	eus	conjonction-complémenteur	_	_	_	_	_	Gloss=pe
+10	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=X|n'@importe
+11	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi]]]
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__4
+# text = Diwe'et oa 'ministr tchentañ, ha war 'r marc'had, djwele'et vehe e oa meo.
+# text_fr = 'Le ministre est arrivé en retard, et en plus, on voyait qu'il était saoul.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Diwe'	diwezhat	adverbe	_	_	_	_	_	Gloss=tardé
+2	et	et	?	_	_	_	_	_	Gloss=?
+3	'	'	?	_	_	_	_	_	Gloss=ministre
+4	ministr	ordinal	?	_	_	_	_	_	Gloss=premier
+5	tchentañ,	tchentañ,	?	_	_	_	_	_	Gloss=?
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	'	art	?	_	_	_	_	_	Gloss=le
+9	r	r	?	_	_	_	_	_	Gloss=marché
+10	marc'had,	marc'had,	?	_	_	_	_	_	Gloss=?
+11	djwele'	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+12	et	et	?	_	_	_	_	_	Gloss=?
+13	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+14	e	e	?	_	_	_	_	_	Gloss=R
+15	oa	COP	?	_	_	_	_	_	Gloss=était
+16	meo	mezv	adjectif	_	_	_	_	_	Gloss=saoul
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:200)__3
+# text = Ar re-mañ am-oa bet war an oll.
+# text_fr = 'J'avais eu (reçu) ceux-ci par dessus le marché.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
+4	bet	kaout	?	_	_	_	_	_	Gloss=eu
+5	war	war	?	_	_	_	_	_	Gloss=sur
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,14 @@
+# sent_id = Kervella(2009:109)__1
+# text = N'oun ket klañv defot mond er-meaz.
+# text_fr = 'Je n'ai pas très envie d'aller dehors.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oun	COP	?	_	_	_	_	_	Gloss=suis
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+5	defot	defot	préposition	_	_	_	_	_	Gloss=à.défaut.de
+6	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+7	er-meaz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,60 @@
+# sent_id = Gros(2014:'pe')__1
+# text = Lak an dilhad er-maez bepred ma vo gwelet petra  refont: pe | sec'hfont pe na refont...
+# text_fr = 'Mets le linge dehors toujours, que l'on voit ce qu'il fera: s'il sèchera ou non... '
+# dialect = Trégorrois
+# source = Gros (2014)
+# texttype = Ouvrages de recherche
+1	Lak	lakaat	verbe	_	_	_	_	_	Gloss=mets
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
+4	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+5	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	vo	COP	?	_	_	_	_	_	Gloss=sera
+8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+9	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+10	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	refont:	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feront
+13	|	sec'hiñ	?	_	_	_	_	_	Gloss=sècheront
+14	sec'hfont	sec'hfont	?	_	_	_	_	_	Gloss=?
+15	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+16	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+17	refont..	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feront
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AlLay(1925:107)__1
+# text = tammouigou dilhad da vont d'an ôd
+# text_fr = 'des (pièces d')habits pour aller en mer'
+# source = Al Lay (1925)
+# texttype = Références de corpus
+1	tammouigou	tamm.-ouigoù	quantifieur.?	_	_	_	_	_	Gloss=morceau.PL.DIM.PL
+2	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	ôd	aod	nom	_	_	_	_	_	Gloss=côte
+
+# sent_id = Ternes(1970:322)__1
+# text = y-seXed ən dijat
+# text_fr = 'pour sécher le linge.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	y-seXed	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ən	art	?	_	_	_	_	_	Gloss=le
+3	dijat	dijat	?	_	_	_	_	_	Gloss=habits
+
+# sent_id = Evenou (1987:633)__1
+# text = Broustad an dilhad ne rize ket an den.
+# text_fr = 'On ne brossait pas les vêtements.'
+# text_phon = ['[ brôsa', 'ndijad', '', 'rize', 'če', 'ndên ]']
+1	Broustad	Broustad	?	_	_	_	_	_	Gloss=brosser
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dilhad	dilhad	nom	_	_	_	_	_	Gloss=vêtements
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	rize	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	an	IMP	?	_	_	_	_	_	Gloss=on
+8	den.	den.	?	_	_	_	_	_	Gloss=?

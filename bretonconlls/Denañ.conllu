@@ -1,0 +1,17 @@
+# sent_id = Bouzec&al.(2017:314)__1
+# text = Al leue bihan zo bet lakaet da zenañ e vamm.
+# text_fr = 'On a mis le veau à téter.'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	leue	leue	nom	_	_	_	_	_	Gloss=veau
+3	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	zenañ	zenañ	?	_	_	_	_	_	Gloss=téter
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	vamm	mamm	nom	_	_	_	_	_	Gloss=mère
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

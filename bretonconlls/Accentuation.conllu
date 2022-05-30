@@ -1,0 +1,33 @@
+# sent_id = Seite(1975:95)__1
+# text = Al LAbous a nij ''vs''. Al labous  a NIJ.
+# text_fr = 'L'oiseau vole.', ''vs.'' 'L'oiseau qui vole.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	LAbous	labous	?	_	_	_	_	_	Gloss=oiseau
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	nij	nijal	verbe	_	_	_	_	_	Gloss=vole
+5	'	'	?	_	_	_	_	_	Gloss=
+6	'	'	?	_	_	_	_	_	Gloss=?
+7	vs'	vs'	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+10	Al	art	?	_	_	_	_	_	Gloss=le
+11	labous	labous	?	_	_	_	_	_	Gloss=oiseau
+12	??	complémenteurvide	?	_	_	_	_	_	Gloss=C
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+14	a	a	préposition	_	_	_	_	_	Gloss=R
+15	NIJ	nijal	verbe	_	_	_	_	_	Gloss=vole
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = McKenna (1976-8:74)__1
+# text = Mitin-ma eh on sauet ekours.
+# text_fr = 'Ce matin, je me suis levé(e) tôt.'
+# text_phon = ["['@mῖ_n_timɑ", 'h_ə_won', "'@zavét", "{ é'@kurs / '@é-kurs } ]"]
+1	Mitin-ma	mintin	nom	_	_	_	_	_	Gloss=matin
+2	eh	eh	?	_	_	_	_	_	Gloss=R|Morph=4
+3	on	COP	?	_	_	_	_	_	Gloss=suis
+4	sauet	sevel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=lev.é
+5	ekours	e-kours	?	_	_	_	_	_	Gloss=en.temps
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

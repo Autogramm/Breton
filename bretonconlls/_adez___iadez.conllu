@@ -1,12 +1,12 @@
 # sent_id = Riou(1941:37)__1
 # text = eur goueriadez gant eur banerad viou.
-# text_fr =  'une fermière avec un panier d'œufs.'
+# text_fr = 'une fermière avec un panier d'œufs.'
 # source = Riou (1941)
 # texttype = Références de corpus
 1	eur	art	nom	_	_	_	_	_	Gloss=un
-2	goueriadez	kouer	nom	1	_	_	_	_	Gloss=ferm]].[[-iad|ier]].[[-ez|e
+2	goueriadez	kouer	nom	_	_	_	_	_	Gloss=ferm]].[[-iad|ier]].[[-ez|e|Morph=1
 3	gant	gant	?	_	_	_	_	_	Gloss=avec
 4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	banerad	paner	nom	1	_	_	_	_	Gloss=panier]].[[-ad|ée
+5	banerad	paner	nom	_	_	_	_	_	Gloss=panier]].[[-ad|ée|Morph=1
 6	viou	vi,u	?	_	_	_	_	_	Gloss=œufs
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

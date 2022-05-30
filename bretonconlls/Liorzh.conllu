@@ -1,0 +1,72 @@
+# sent_id = ArBorgn(2011:80)__1
+# text = 'Barzh al liorzh e kasan razh al labour.
+# text_fr = 'Dans le jardin, j'assume tout le travail.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+2	Barzh	Barzh	?	_	_	_	_	_	Gloss=?
+3	al	art	?	_	_	_	_	_	Gloss=le
+4	liorzh	liorzh	nom	_	_	_	_	_	Gloss=jardin
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	kasan	kas	verbe	_	_	_	_	_	Gloss=envoie
+7	razh	razh,rac'h	?	_	_	_	_	_	Gloss=tout
+8	al	art	?	_	_	_	_	_	Gloss=le
+9	labour	labour	nom	_	_	_	_	_	Gloss=travail
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:105)__1
+# text = Un arrest a ra Alan kent digor kloued ar liorzh.
+# text_fr = 'Alan s'arrête avant d'ouvrir la barrière du jardin.'
+# source = Ar Meliner (2009)
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	arrest	arrest	?	_	_	_	_	_	Gloss=arrêt
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	Alan	Alan	?	_	_	_	_	_	Gloss=Alan
+6	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+7	digor	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+8	kloued	kloued	nom	_	_	_	_	_	Gloss=barrière
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	liorzh	liorzh	nom	_	_	_	_	_	Gloss=jardin
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:119)__2
+# text = Me meus aze em liorzh koulz louzoù evel ho peus da zigoeñviñ va saout...
+# text_fr = 'J'ai dans mon jardin autant d'herbes que vous (voulez) pour soigner mes vaches... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	aze	ads	?	_	_	_	_	_	Gloss=ici
+4	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+5	liorzh	liorzh	nom	_	_	_	_	_	Gloss=jardin
+6	koulz	koulz	?	_	_	_	_	_	Gloss=tant
+7	louzoù	louzoù	adverbe	_	_	_	_	_	Gloss=herbes
+8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	ho	ho	?	_	_	_	_	_	Gloss=2PL
+10	peus	kaout	?	_	_	_	_	_	Gloss=a
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	zigoeñviñ	di-.koeñv.-iñ(V.)	?.nom.?	_	_	_	_	_	Gloss=dé.gonfl.er
+13	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+14	saout..	saout	nom	_	_	_	_	_	Gloss=vaches
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos (2001:§363)__1
+# text = my a grys bos Tom ow palas y'n lowarth. ''Cornique''
+# text_fr = 'Je crois que Tom est en train de bêcher dans le courtil.'
+1	my	my	?	_	_	_	_	_	Gloss=Me
+2	a	a	préposition	_	_	_	_	_	Gloss=a
+3	grys	grys	?	_	_	_	_	_	Gloss=gred
+4	bos	bos	?	_	_	_	_	_	Gloss=bout
+5	Tom	Tom	?	_	_	_	_	_	Gloss=Tom
+6	ow	ow	?	_	_	_	_	_	Gloss=o
+7	palas	palas	?	_	_	_	_	_	Gloss=palad
+8	y'	y'	?	_	_	_	_	_	Gloss=el
+9	n	n	?	_	_	_	_	_	Gloss=luorz.
+10	lowarth.	lowarth.	?	_	_	_	_	_	Gloss=?
+11	'	'	?	_	_	_	_	_	Gloss=Moyenbreton
+12	'	'	?	_	_	_	_	_	Gloss=?
+13	Cornique'	Cornique'	?	_	_	_	_	_	Gloss=?
+14	'	'	?	_	_	_	_	_	Gloss=?
+15			PUNCT	_	_	_	_	Gloss=punct

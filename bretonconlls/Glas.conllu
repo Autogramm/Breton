@@ -1,0 +1,118 @@
+# sent_id = Lozac'h(2014:'ablamour')__1
+# text = Hezh zo glas c'hoazh.
+# text_fr = 'Il est encore vert.'
+# source = Lozach (2014)
+1	Hezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:37)__1
+# text = ar skourrou o hlazvezi
+# text_fr = 'les branches qui verdissent'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	skourrou	skourr.-où(PL.)	?.?	_	_	_	_	_	Gloss=branche.s
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	hlazvezi	-iñ	?	_	_	_	_	_	Gloss=-ir
+
+# sent_id = Lozac'h(2014:'atrejou')__1
+# text = atrejou mein-glas tammig 'e
+# text_fr = 'des débris d'ardoises aussi quelque peu'
+# location = Laz
+# source = Lozach (2014)
+1	atrejou	atrejou	?	_	_	_	_	_	Gloss=débris
+2	mein-glas	maen	?	_	_	_	_	_	Gloss=pierres
+3	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+4	'	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+5	e	e	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lozac'h(2014:'dañjer')__1
+# text = Rar é ar beïsanted lar lakègn o saout war 'r melchen-glas.
+# text_fr = 'Rares sont les paysans qui mettaient leurs vaches sur du trèfle des prés.'
+# location = Cleden
+# source = Lozach (2014)
+1	Rar	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rare
+2	é	COP	?	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	beïsanted	beïsanted.-ed(PL.)	?.?	_	_	_	_	_	Gloss=1.s
+5	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+6	lakègn	lakaat	verbe	_	_	_	_	_	Gloss=mettaient
+7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	saout	saout	nom	_	_	_	_	_	Gloss=vaches
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	'	art	?	_	_	_	_	_	Gloss=le
+11	r	r	?	_	_	_	_	_	Gloss=?
+12	melchen-glas	melchon	nom	_	_	_	_	_	Gloss=trèfle
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Evenou (1987:595) __1
+# text =  ken glas ha 'n neñv
+# text_fr = 'aussi bleu que le ciel.'
+# text_phon = ['[', 'c̈En', 'gla:s', 'a', 'nêw ]']
+1	??	??	?	_	_	_	_	_	Gloss=
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	glas	glas	adjectif	_	_	_	_	_	Gloss=bleu
+4	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+5	'	art	?	_	_	_	_	_	Gloss=le
+6	n	neñv	nom	_	_	_	_	_	Gloss=ciel
+7	neñv	neñv	nom	_	_	_	_	_	Gloss=?
+
+# sent_id = Lozac'h(2014:'avalou-douar')__1
+# text = Loa(r)iet é un aldouarenn deut glas ga'r loar.
+# text_fr = '« Loariet », c'est une pomme-de-terre qui est devenue verte à cause de la lune.'
+# location = Laz
+# source = Lozach (2014)
+1	Loa(r)iet	loar	nom	_	_	_	_	_	Gloss=lune
+2	é	COP	?	_	_	_	_	_	Gloss=est
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	aldouarenn	aval-douar	nom	_	_	_	_	_	Gloss=patate
+5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
+7	ga'	gant	?	_	_	_	_	_	Gloss=avec
+8	r	art	?	_	_	_	_	_	Gloss=le
+9	loar	loar	nom	_	_	_	_	_	Gloss=lune
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'briz')__1
+# text = Setu aze balan glaz hag a zev ar re-ze, klev, a zo briz sec'h.
+# text_fr = 'Voilà du genêt vert qui brûle. Celui-là, sais-tu, est à moitié sec.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	aze	ads	?	_	_	_	_	_	Gloss=ici
+3	balan	balan	?	_	_	_	_	_	Gloss=genêts
+4	glaz	glaz	?	_	_	_	_	_	Gloss=vert
+5	hag	haga	?	_	_	_	_	_	Gloss=que]|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=?
+7	zev	deviñ	verbe	_	_	_	_	_	Gloss=brûle
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	klev	klevout	verbe	_	_	_	_	_	Gloss=écoute
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	zo	zo	?	_	_	_	_	_	Gloss=est
+15	briz	brizh-	adjectif	_	_	_	_	_	Gloss=moitié
+16	sec'h.	sec'h.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Trégorrois,Ernault(1879-1880)__1
+# text = Krigi ' ra ar c'hlas 'n em gar.
+# text_fr = 'J'ai des fourmis aux jambes.' (engourdissement et picotements)
+# source = Ernault (1879-1880)
+# texttype = Ouvrages de recherche
+1	Krigi	kregiñ	verbe	_	_	_	_	_	Gloss=crocher
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c'hlas	c'hlas	?	_	_	_	_	_	Gloss=5
+7	'	P.e	?	_	_	_	_	_	Gloss=en
+8	n	n	?	_	_	_	_	_	Gloss=?
+9	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+10	gar	gar	nom	_	_	_	_	_	Gloss=jambe
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

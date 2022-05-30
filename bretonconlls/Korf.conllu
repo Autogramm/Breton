@@ -1,0 +1,64 @@
+# sent_id = Trépos(2001:§86)__1
+# text = Emañ o vrevi e gorv.
+# text_fr = 'Il est en train de se briser le corps.'
+# source = Trépos (2001)
+1	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	vrevi	breviñ	?	_	_	_	_	_	Gloss=briser
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	gorv	gorv	?	_	_	_	_	_	Gloss=corps
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes (1970:321)__1
+# text = e-korf div pe deir eur
+# text_fr = 'dans l'espace de deux ou trois heures'
+# text_phon = ['/e-korf', 'di bə', 'de:r øyr /']
+1	e-korf	e-korf	préposition	_	_	_	_	_	Gloss=dans-corps
+
+# sent_id = LeGall(1957:'horvad')__1
+# text = Diwall da baka eur horvad en eur jom dindan ar glô.
+# text_fr = 'Fais attention de ne pas attraper un gros rhume en restant sous la pluie.'
+# source = Le Gall (1957)
+1	Diwall	diwall	verbe	_	_	_	_	_	Gloss=attention.ne.pas
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	baka	pakañ	verbe	_	_	_	_	_	Gloss=attraper
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	horvad	-ad	?	_	_	_	_	_	Gloss=ée
+6	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+7	eur	eur	nom	_	_	_	_	_	Gloss=?
+8	jom	chom	verbe	_	_	_	_	_	Gloss=rester
+9	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	glô	glav	nom	_	_	_	_	_	Gloss=pluie
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:20)__5
+# text = A-wechoù evit gwir n’em bije ket leun va c'horf.
+# text_fr = 'Parfois réellement je n’avais pas assez à manger.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
+2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+6	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	c'horf	c'horf	?	_	_	_	_	_	Gloss=corps
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:21)__2
+# text = Va c'henderv ha me a yoa war gorf hor rochedoù.
+# text_fr = 'Mon cousin et moi étions en chemise.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	c'henderv	kenderv	nom	_	_	_	_	_	Gloss=cousin
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	me	pfi	?	_	_	_	_	_	Gloss=moi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	yoa	COP	?	_	_	_	_	_	Gloss=était
+7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	gorf	gorf	?	_	_	_	_	_	Gloss=corps
+9	hor	POSS	?	_	_	_	_	_	Gloss=notre
+10	rochedoù	roched.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chemise.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

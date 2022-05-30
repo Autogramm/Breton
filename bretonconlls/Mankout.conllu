@@ -1,0 +1,85 @@
+# sent_id = Seite(1985:102)__1
+# text = A-nézoh-c'hwi e vije bet manket eun dra bennag en or buhez.
+# text_fr = 'Sans vous, quelque chose aurait manqué à notre vie.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1985)
+# texttype = Références de corpus
+1	A-nézoh-c'hwi	anez.pronomincorporé.écho	préposition-adverbe.?.?	_	_	_	_	_	Gloss=sans.vous.vous
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	manket	manket	?	_	_	_	_	_	Gloss=manqué
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+8	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+10	or	POSS	?	_	_	_	_	_	Gloss=notre
+11	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Yekel(2016:'[http://www.brezhonegbrovear.bzh/geriadur.php?ger=2770daoust]')__1
+# text = Daoust pet poent a vank dezhañ c'hoazh ?
+# text_fr = 'Combien de points lui manquent-ils donc ?'
+# location = Bégard
+# source = Yekel (2016)
+1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
+2	pet	pet	pronom	_	_	_	_	_	Gloss=combien
+3	poent	poent	nom	_	_	_	_	_	Gloss=point
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	vank	vank	?	_	_	_	_	_	Gloss=manque
+6	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__32
+# text = Douh an noz e konted ar maillou, ma vanke gour, ma veze manket unan...
+# text_fr = 'Le soir on comptait les marteaux, s'il en manquait un... '
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Douh	diouzh	préposition	_	_	_	_	_	Gloss=de
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	konted	kontañ.IMP	verbe.?	_	_	_	_	_	Gloss=comptait.on
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	maillou	maillou	?	_	_	_	_	_	Gloss=marteaux
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+10	vanke	vanke	?	_	_	_	_	_	Gloss=manquait
+11	gour	gour	?	_	_	_	_	_	Gloss=un
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+14	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+15	manket	manket	?	_	_	_	_	_	Gloss=manqué
+16	unan..	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(1956:78)__2
+# text = Pwijou bihan  fank dign _[''ø'']_.
+# text_fr = 'Il me manque des petits poids.'
+# location = Plozévet
+# source = Trépos (1956)
+# texttype = Ouvrages de recherche
+1	Pwijou	pouez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=poid.s
+2	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+3	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	fank	fank	?	_	_	_	_	_	Gloss=manque
+6	dign	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+7	_['	kaout	?	_	_	_	_	_	Gloss=avoir
+8	'	'	?	_	_	_	_	_	Gloss=?
+9	ø'	ø'	?	_	_	_	_	_	Gloss=?
+10	'	'	?	_	_	_	_	_	Gloss=?
+11	]_.	]_.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bouzec & al. (2017:421)__1
+# text = Me zo mank't kouél.
+# text_fr = 'J'ai failli tomber.'
+1	Me	Me	?	_	_	_	_	_	Gloss=Me
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	mank'	mank'	?	_	_	_	_	_	Gloss=manket
+4	t	t	préposition	_	_	_	_	_	Gloss=da
+5	kouél	kouél	?	_	_	_	_	_	Gloss=gouezhañ.
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

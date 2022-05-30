@@ -1,6 +1,6 @@
 # sent_id = Menard&Kadored(2001:'eus')__1
 # text = Ar bleizi 'zo er goadeg, eus emaint.
-# text_fr =  'Le fait est que les loups sont dans le bois.' (bien sûr)
+# text_fr = 'Le fait est que les loups sont dans le bois.' (bien sûr)
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Ar	art	?	_	_	_	_	_	Gloss=le
@@ -14,19 +14,19 @@
 
 # sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
 # text = Ma houefen e veche avel Nort, e sarfen ar bouliji.
-# text_fr =  'Si je savais qu'il y aurait du vent du Nord, je fermerais les volets.'
+# text_fr = 'Si je savais qu'il y aurait du vent du Nord, je fermerais les volets.'
 # dialect = Léonard
 # location = Plougerneau
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
-1	Ma	ma(r)	?	4	_	_	_	_	Gloss=si
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 2	houefen	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
-3	e	e	?	4	_	_	_	_	Gloss=R
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 4	veche	COP	?	_	_	_	_	_	Gloss=serait
 5	avel	avel	nom	_	_	_	_	_	Gloss=vent
 6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	4	_	_	_	_	Gloss=R
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 9	sarfen	serriñ	verbe	_	_	_	_	_	Gloss=fermerais
 10	ar	art	?	_	_	_	_	_	Gloss=le
 11	bouliji	boulij	nom	_	_	_	_	_	Gloss=volet

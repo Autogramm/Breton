@@ -1,0 +1,29 @@
+# sent_id = ArMeliner(2009:175)__1
+# text = hag int o-daou d'en herzel ag er Baradoez.
+# text_fr = '... et ils le chassent (Mathurin) hors du paradis.'
+# source = ar Meliner (2009)
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	int	pfi	?	_	_	_	_	_	Gloss=eux
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	en	POP	complémenteur	_	_	_	_	_	Gloss=le
+5	herzel	harzal	verbe	_	_	_	_	_	Gloss=chasser
+6	ag	eus	?	_	_	_	_	_	Gloss=de
+7	er	art	?	_	_	_	_	_	Gloss=le
+8	Baradoez	Baradoez	?	_	_	_	_	_	Gloss=paradis
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:74)__1
+# text = un den bet darbet dezhañ koll e lod baradoz.
+# text_fr = 'un homme qui aurait juste failli perdre son bout de paradis.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	darbet	darbet	?	_	_	_	_	_	Gloss=failli
+5	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	koll	koll	verbe	_	_	_	_	_	Gloss=perdre
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	lod	lod	quantifieur	_	_	_	_	_	Gloss=partie
+9	baradoz	baradoz	nom	_	_	_	_	_	Gloss=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

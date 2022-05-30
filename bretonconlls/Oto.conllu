@@ -1,0 +1,13 @@
+# sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__23
+# text = Pad an dibenn zunn emefe oto Jean-Paul.
+# text_fr = 'Pendant le week-end, j’ai habituellement la voiture de Jean-Paul.'
+# dialect = Cornouaillais
+# source = H. Gaudart (03/2017)
+# texttype = Élicitations
+1	Pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
+4	zunn	sizhun	nom	_	_	_	_	_	Gloss=semaine
+5	oto	oto	nom	_	_	_	_	_	Gloss=voiture
+6	Jean-Paul	nompropre	?	_	_	_	_	_	Gloss=Jean-Paul
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

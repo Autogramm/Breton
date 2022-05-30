@@ -1,6 +1,6 @@
 # sent_id = Gros(1984:359)__1
 # text = Eno e oa eur ruzaterez.
-# text_fr =  'Là il y avait une glissoire.' 
+# text_fr = 'Là il y avait une glissoire.'
 # source = Gros (1984)
 1	Eno	eno	?	_	_	_	_	_	Gloss=y
 2	e	e	?	_	_	_	_	_	Gloss=R
@@ -11,14 +11,14 @@
 
 # sent_id = Briant-Cadiou(1998:12)__1
 # text = Ar foenn-ze a veze gellet troha gand ar falherez.
-# text_fr =  'Il fallait couper ce foin à la faux.'
+# text_fr = 'Il fallait couper ce foin à la faux.'
 # dialect = Léonard
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	foenn-ze	foenn	nom	_	_	_	_	_	Gloss=foin
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
 5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 6	troha	troc'hañ	?	_	_	_	_	_	Gloss=trancher
@@ -29,14 +29,14 @@
 
 # sent_id = Gros(1984:364)__1
 # text = Ar geginérez
-# text_fr =  'La cuisinière.'
+# text_fr = 'La cuisinière.'
 # source = Gros (1984)
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	geginérez	kegin	nom	_	_	_	_	_	Gloss=cuisin
 
 # sent_id = Gros(1984:363)__1
 # text = Honnez a zo dispignerez. Koufonerez eo da-vad.
-# text_fr =  'Celle-là est dépensière. Elle est très gaspilleuse.'
+# text_fr = 'Celle-là est dépensière. Elle est très gaspilleuse.'
 # source = Gros (1984)
 1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
@@ -45,12 +45,12 @@
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 6	Koufonerez	Koufonerez	?	_	_	_	_	_	Gloss=gaspill.sfx
 7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	da-vad	da	préposition	1	_	_	_	_	Gloss=pour
+8	da-vad	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:364)__1
 # text = Ar geginérez a zo war ar geginèrez.
-# text_fr =  'La cuisinière est en train de faire la cuisine.'
+# text_fr = 'La cuisinière est en train de faire la cuisine.'
 # source = Gros (1984)
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	geginérez	kegin	nom	_	_	_	_	_	Gloss=cuisin
@@ -63,7 +63,7 @@
 
 # sent_id = Bouzec & al. (2017:236)__1
 # text = Diwaétoc'h, deut dornérez péz bi'n da den o labour gan 'dud.   ''Cornouaillais de l'Est''
-# text_fr =  'Plus tard, l'arrivée de la batteuse nous a retiré notre travail.'
+# text_fr = 'Plus tard, l'arrivée de la batteuse nous a retiré notre travail.'
 1	Diwaétoc'h	Diwaétoc'h	?	_	_	_	_	_	Gloss=Diwezhatocxxxh,
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	dornérez	dornérez	?	_	_	_	_	_	Gloss=dornerez
@@ -89,4 +89,4 @@
 23	l'	l'	?	_	_	_	_	_	Gloss=?
 24	Est'	Est'	?	_	_	_	_	_	Gloss=?
 25	'	'	?	_	_	_	_	_	Gloss=?
-26			?	_	_	_	_	_	Gloss=?
+26			PUNCT	_	_	_	_	Gloss=punct

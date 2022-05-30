@@ -1,12 +1,12 @@
 # sent_id = LeGall(1958:'mond')__1
 # text = abarz mond en douar e rankfen lakaad divesker nevez.
-# text_fr =  'Avant de travailler un sol retourné, je devrais mettre des jambes neuves.'
+# text_fr = 'Avant de travailler un sol retourné, je devrais mettre des jambes neuves.'
 # source = Le Gall (1958)
 1	abarz	abarz	?	_	_	_	_	_	Gloss=avant
 2	mond	mont	verbe	_	_	_	_	_	Gloss=aller
 3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 4	douar	douar	nom	_	_	_	_	_	Gloss=terre
-5	e	e	?	4	_	_	_	_	Gloss=R
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	rankfen	rankout	verbe	_	_	_	_	_	Gloss=devrais
 7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 8	divesker	duel.gar	?.nom	_	_	_	_	_	Gloss=2.jambe
@@ -15,39 +15,39 @@
 
 # sent_id = Louis(2015:156)__1
 # text = Kar a-vihanoc'h e krog ar c'hleñved a-barzh.
-# text_fr =  'Car sinon, la maladie l'atteint.' (la plante)
+# text_fr = 'Car sinon, la maladie l'atteint.' (la plante)
 # dialect = Vannetais
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
 1	Kar	kar	?	_	_	_	_	_	Gloss=car
 2	a-vihanoc'h	a-vihanoc'h	?	_	_	_	_	_	Gloss=sinon
-3	e	e	?	4	_	_	_	_	Gloss=R
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 4	krog	kregiñ	verbe	_	_	_	_	_	Gloss=croche
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'hleñved	kleñved	nom	5	_	_	_	_	Gloss=maladie
+6	c'hleñved	kleñved	nom	_	_	_	_	_	Gloss=maladie|Morph=5
 7	a-barzh	a-barzh	préposition	_	_	_	_	_	Gloss=dedans
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMerser(2009:585)__1
 # text = a-barzh ma vioh prest.
-# text_fr =  'avant que vous ne soyez prêt'
+# text_fr = 'avant que vous ne soyez prêt'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	a-barzh	a-barzh	préposition	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	vioh	COP	?	_	_	_	_	_	Gloss=serez
 4	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:11)__1
 # text = a-barz ma vezin d'an distro
-# text_fr =  'avant mon retour'
+# text_fr = 'avant mon retour'
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
 1	a-barz	a-barz	?	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	vezin	COP	?	_	_	_	_	_	Gloss=serai
 4	d'	da	préposition	_	_	_	_	_	Gloss=de
 5	an	art	?	_	_	_	_	_	Gloss=le
@@ -55,7 +55,7 @@
 
 # sent_id = Menard&Kadored(2001:§'a-barzh')__1
 # text = Skuizh e oa aet a-barzh bezañ graet ul lev.
-# text_fr =  'Il était fatigué avant d'avoir fait une lieue.
+# text_fr = 'Il était fatigué avant d'avoir fait une lieue.
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
@@ -70,14 +70,14 @@
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§599)__1
-# text = Deu d'am haoud a-barz ober <u>netra</u>.
-# text_fr =  'Viens me trouver avant de faire quoi que ce soit.'
+# text = Deu d'am haoud a-barz ober netra.
+# text_fr = 'Viens me trouver avant de faire quoi que ce soit.'
 # source = Trépos (2001)
 1	Deu	dont	verbe	_	_	_	_	_	Gloss=viens
 2	d'	da	préposition	_	_	_	_	_	Gloss=pour
-3	am	POP	?	2	_	_	_	_	Gloss=me
+3	am	POP	?	_	_	_	_	_	Gloss=me|Morph=2
 4	haoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
 5	a-barz	a-barz	?	_	_	_	_	_	Gloss=avant
 6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	<u>netra</u>	netra	quantifieur	_	_	_	_	_	Gloss=rien
+7	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

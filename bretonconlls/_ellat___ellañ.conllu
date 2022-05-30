@@ -1,21 +1,21 @@
 # sent_id = ArBorgn(2011:65)__1
 # text = Kaset em eus-hoñ da c'hwitellat.
-# text_fr =  'Je l'ai envoyé bouller.' 
+# text_fr = 'Je l'ai envoyé bouller.'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-2	da	da	préposition	1	_	_	_	_	Gloss=à
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 3	c'hwitellat	c'hwitellat	?	_	_	_	_	_	Gloss=siffler
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:54)__1
 # text = Un eur goude eh oa trapikellet rac'h.
-# text_fr =  'Une heure plus tard elle était entièrement pilonnée.' (la paille)
+# text_fr = 'Une heure plus tard elle était entièrement pilonnée.' (la paille)
 # source = Herrieu (1994)
 1	Un	numérauxcardinaux	?	_	_	_	_	_	Gloss=un
 2	eur	eur	nom	_	_	_	_	_	Gloss=heure
-3	goude	goude	complémenteur-préposition-adverbe	_	_	_	_	_	Gloss=après
+3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
 4	eh	eh	?	_	_	_	_	_	Gloss=R
 5	oa	COP	?	_	_	_	_	_	Gloss=était
 6	trapikellet	trapikellet	?	_	_	_	_	_	Gloss=pillonné

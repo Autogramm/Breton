@@ -1,0 +1,23 @@
+# sent_id = Bouzec & al. (2017:62)__2
+# text = Bou zo klér àr 'lenn.
+# text_fr = 'Il y a une couche de glace sur le lac.'
+1	Bou	Bou	?	_	_	_	_	_	Gloss=Bout
+2	zo	zo	?	_	_	_	_	_	Gloss=zo
+3	klér	klér	nom	_	_	_	_	_	Gloss=kler
+4	àr	àr	?	_	_	_	_	_	Gloss=àr
+5	'	'	?	_	_	_	_	_	Gloss=al
+6	lenn	lenn	?	_	_	_	_	_	Gloss=lenn.
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:37)__1
+# text = 'n tamm pradlenn-se !
+# text_fr = 'cette espèce de marécage'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	'	art	?	_	_	_	_	_	Gloss=le
+2	n	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=?
+4	pradlenn-se	prad	nom	_	_	_	_	_	Gloss=pré
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

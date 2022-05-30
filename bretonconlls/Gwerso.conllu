@@ -1,0 +1,11 @@
+# sent_id = Louis(2015:351)__1
+# text = Met aesaet eo gwerso !
+# text_fr = 'Mais c'est guéri depuis longtemps !'
+# dialect = Vannetais
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	aesaet	aes.-aat	adjectif.verbe	_	_	_	_	_	Gloss=ais.é
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	gwerso	gwerso	adverbe	_	_	_	_	_	Gloss=depuis.longtemps
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

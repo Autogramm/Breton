@@ -1,0 +1,64 @@
+# sent_id = Briant-Cadiou(1998:197)__1
+# text = E kêr ne gaved mui netra.
+# text_fr = 'On ne trouvait plus rien en ville.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	kêr	kêr	nom	_	_	_	_	_	Gloss=ville
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	gaved	kavout.IMP	verbe.?	_	_	_	_	_	Gloss=trouvait.on
+5	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+6	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bijer(2007:243)__1
+# text = Pa veze dornadeg, e kêr-mañ-kêr...
+# text_fr = 'Quand on battait dans telle ou telle maison... '
+# dialect = Cornouaillais
+# location = Bigouden
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	dornadeg	dornañ.-adeg	verbe.nom	_	_	_	_	_	Gloss=batt.age
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e	P.e	?	_	_	_	_	_	Gloss=en
+
+# sent_id = Fagon&Riou(2015:44)__1
+# text = Ne yade ket er gear?
+# text_fr = 'Il n'était pas à la maison ?'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	yade	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	gear	gear	?	_	_	_	_	_	Gloss=1
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016b)__1
+# text = Deuet int en va c'hear.
+# text_fr = 'On est entré chez moi.'
+# dialect = Léonard
+# source = Y. M. (04/2016b)
+# texttype = Élicitations
+1	Deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+2	int	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+3	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	c'hear	c'hear	?	_	_	_	_	_	Gloss=foyer
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Malgorn(1909)__1
+# text = Va c'hear enn-dèon eo.
+# text_fr = 'C'est ma vraie maison.'
+# dialect = Léonard
+# source = Malgorn (1909)
+# texttype = Ouvrages de recherche
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	c'hear	c'hear	?	_	_	_	_	_	Gloss=maison
+3	enn-dèon	end-eeun	?	_	_	_	_	_	Gloss=vraiment
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

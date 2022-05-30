@@ -1,0 +1,12 @@
+# sent_id = KeitVimpBev(1987:3)__1
+# text = Rouez eo ar geot dre amañ.
+# text_fr = 'L'herbe est rare par ici.'
+# source = Keit Vimp Bev (1987)
+# texttype = Références de corpus
+1	Rouez	Rouez	adjectif	_	_	_	_	_	Gloss=rare
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	geot	geot	nom	_	_	_	_	_	Gloss=herbe
+5	dre	dre	préposition	_	_	_	_	_	Gloss=par
+6	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

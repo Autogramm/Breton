@@ -1,0 +1,17 @@
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__12
+# text = Ar c'hi a goustoum espress staotaat dirak va or.
+# text_fr = 'Le chien a l'habitude de pisser exprès devant ma porte.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goustoum	kustumiñ	verbe	_	_	_	_	_	Gloss=coutume
+5	espress	espres	adverbe	_	_	_	_	_	Gloss=exprès
+6	staotaat	staotaat	?	_	_	_	_	_	Gloss=pisser
+7	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
+8	va	POSS	?	_	_	_	_	_	Gloss=mon
+9	or	dor	nom	_	_	_	_	_	Gloss=porte
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

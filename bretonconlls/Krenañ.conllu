@@ -1,0 +1,55 @@
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = Sant' rit 'n douar ' kreno.
+# text_fr = 'Vous sentez la terre qui tremble.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Sant'	santout	verbe	_	_	_	_	_	Gloss=sentir
+2			PUNCT	_	_	_	_	Gloss=punct
+3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	'	art	?	_	_	_	_	_	Gloss=le
+5	n	douar	nom	_	_	_	_	_	Gloss=terre
+6	douar	douar	nom	_	_	_	_	_	Gloss=?
+7	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8			PUNCT	_	_	_	_	Gloss=punct
+9	kreno	kreno	?	_	_	_	_	_	Gloss=trembler
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBayon(1878:69)__1
+# text = Hi hum lak te greinein.
+# text_fr = 'Elle se met à trembler.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	Hi	pfi	?	_	_	_	_	_	Gloss=elle
+2	hum	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+3	lak	lakaat	verbe	_	_	_	_	_	Gloss=met
+4	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	greinein	greinein	?	_	_	_	_	_	Gloss=trembler
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1974:07/09/1918)__1
+# text = Haval é get en dén en en dehè ur hrén doar groeit un heij spontus d'er gérig-ma.
+# text_fr = 'On dirait qu'un tremblement de terre aurait mis sens dessus dessous cette bourgade.'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Haval	hañval	?	_	_	_	_	_	Gloss=sembler
+2	é	COP	?	_	_	_	_	_	Gloss=est
+3	get	gant	?	_	_	_	_	_	Gloss=avec
+4	en	IMP	complémenteur	_	_	_	_	_	Gloss=on
+5	dén	dén	?	_	_	_	_	_	Gloss=?
+6	en	en	complémenteur	_	_	_	_	_	Gloss=R
+7	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+8	dehè	kaout	?	_	_	_	_	_	Gloss=aurait
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	hrén	hrén	?	_	_	_	_	_	Gloss=tremble
+11	doar	douar	nom	_	_	_	_	_	Gloss=terre
+12	groeit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+13	un	art	?	_	_	_	_	_	Gloss=un
+14	heij	hejañ	verbe	_	_	_	_	_	Gloss=secoue
+15	spontus	spontus	adjectif	_	_	_	_	_	Gloss=terrible
+16	d'	da	préposition	_	_	_	_	_	Gloss=à
+17	er	art	?	_	_	_	_	_	Gloss=le
+18	gérig-ma	kêr.-ig.DEM	nom.?.?	_	_	_	_	_	Gloss=bourg.ade.ci
+19	.	.	PUNCT	_	_	_	_	Gloss=punct

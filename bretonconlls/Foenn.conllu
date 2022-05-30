@@ -1,0 +1,61 @@
+# sent_id = Bouzec&al.(2017:310)__1
+# text = Daw vo rei foenn da zaout...
+# text_fr = 'Il faut donner du foin aux vaches... '
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Daw	dav	adjectif	_	_	_	_	_	Gloss=obligé
+2	rei	reiñ	verbe	_	_	_	_	_	Gloss=donner
+3	foenn	foenn	nom	_	_	_	_	_	Gloss=foin
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	zaout..	saout	nom	_	_	_	_	_	Gloss=vaches
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Malgorn(1909)__1
+# text = Ar fouenneier a zo golo a zour.
+# text_fr = 'Les foins sont trempés.'
+# dialect = Léonard
+# source = Malgorn (1909)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	fouenneier	-eier	?	_	_	_	_	_	Gloss=s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	golo	golo	adverbe-adjectif	_	_	_	_	_	Gloss=couvert
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	zour	dour	nom	_	_	_	_	_	Gloss=eau
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:12)__2
+# text = Ar foenn-ze a veze gellet troha gant ar falherez.
+# text_fr = 'Ce foin là on pouvait le couper à la faux.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	foenn-ze	DEM	?	_	_	_	_	_	Gloss=là
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
+6	troha	troc'hañ	?	_	_	_	_	_	Gloss=trancher
+7	gant	gant	?	_	_	_	_	_	Gloss=avec
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	falherez	falz.-erez	nom.?	_	_	_	_	_	Gloss=faux.ée
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:22)__1
+# text = Ar re-se oa tout o taol foenn.
+# text_fr = 'Tous ceux-là [ces champs] étaient en foin.'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	taol	taoler	?	_	_	_	_	_	Gloss=jeter
+7	foenn	foenn	nom	_	_	_	_	_	Gloss=foin
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

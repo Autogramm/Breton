@@ -1,6 +1,6 @@
 # sent_id = Louis(2015:96)__1
 # text = N'em eus ket debret a-c'houde tri deiz.
-# text_fr =  'Je n'ai pas mangé depuis trois jours.' 
+# text_fr = 'Je n'ai pas mangé depuis trois jours.'
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
@@ -16,7 +16,7 @@
 
 # sent_id = Schapansky (1996:184)__1
 # text = Hañni en des gouiet a-oudé ma ou doé kavet mad en tri deloh.
-# text_fr =  'Personne depuis n'a su s'ils avaient aimé les 3 truites.'
+# text_fr = 'Personne depuis n'a su s'ils avaient aimé les 3 truites.'
 # source2 = Guilloux (1992:94) 
 1	Hañni	hini	nom-pronom	_	_	_	_	_	Gloss=personne
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
@@ -27,13 +27,13 @@
 7	ou	ou	?	_	_	_	_	_	Gloss=3PL
 8	doé	kaout	?	_	_	_	_	_	Gloss=avait
 9	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-10	mad	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bon
+10	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
 11	deloh	dluzh	nom	_	_	_	_	_	Gloss=truite
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:106)__1
 # text = Karget eo ar fozelloù get ar glav en deus kouezhet a-c'houde dec'h.
-# text_fr =  'La pluie qui est tombée depuis hier a rempli les fossés.'
+# text_fr = 'La pluie qui est tombée depuis hier a rempli les fossés.'
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
@@ -53,7 +53,7 @@
 
 # sent_id = Gros(1966:234)__1
 # text = A-houdevez n'em-oa ket gwelet anezañ ken.
-# text_fr =  'Par la suite, je ne l'ai plus vu.'
+# text_fr = 'Par la suite, je ne l'ai plus vu.'
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
@@ -63,7 +63,7 @@
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 6	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-7	ken	ken	complémenteur-adverbe	_	_	_	_	_	Gloss=plus
+7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:26)__1
@@ -72,20 +72,20 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
-2	goude	goude	complémenteur-préposition-adverbe	_	_	_	_	_	Gloss=après
+2	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
 3	oan	COP	nom	_	_	_	_	_	Gloss=étais
 4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-5	mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bien
-6	d'	da	préposition	1	_	_	_	_	Gloss=à
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ha	&	?	_	_	_	_	_	Gloss=et
 11	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
-12	a	a	préposition	1	_	_	_	_	Gloss=de
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 13	vanne	banne	?	_	_	_	_	_	Gloss=verre
 14	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
-15	a	a	préposition	1	_	_	_	_	Gloss=R
+15	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 16	roas	reiñ	verbe	_	_	_	_	_	Gloss=donna
 17	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 18	a-c'houdevezh	a-c'houdevezh	?	_	_	_	_	_	Gloss=depuis

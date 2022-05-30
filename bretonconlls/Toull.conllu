@@ -1,0 +1,104 @@
+# sent_id = ArMoal(1902:14)__2
+# text = En toull an hent-se.
+# text_fr = 'dans le creux de ce chemin.
+# dialect = Trégorrois
+# location = Tréguier
+# source = Ar Moal (1902)
+# texttype = Références de corpus
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hent-se	hent	nom	_	_	_	_	_	Gloss=chemin
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:36)__2
+# text = rak daoust ma ne oa ket toull hor godelloù, goullo e oant.
+# text_fr = '... car bien que nous ne soyons pas dépensiers, nos poches étaient vides.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	rak	rak	?	_	_	_	_	_	Gloss=car
+2	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=troué
+8	hor	POSS	?	_	_	_	_	_	Gloss=notre
+9	godelloù	godell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=poche.s
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	goullo	goullo	adjectif	_	_	_	_	_	Gloss=vide
+12	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+13	oant	COP	?	_	_	_	_	_	Gloss=étaient
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:55)__1
+# text = ... an ofiserion ha ne blij ket naket o zoulloù dezhe...
+# text_fr = 'les officiers à qui leur trou ne plait pas non plus.'
+# source = Herrieu (1994)
+1	...	...	PUNCT	_	_	_	_	Gloss=punct
+2	an	-erion	?	_	_	_	_	_	Gloss=iers
+3	ofiserion	ofiserion	?	_	_	_	_	_	Gloss=?
+4	ha	&	?	_	_	_	_	_	Gloss=et
+5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
+9	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+10	zoulloù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+11	dezhe..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:8)__1
+# text = Anez e helled toulla ha sklabeza al lard a oa outo.
+# text_fr = 'Sans ça on pouvait les trouer et salir le lard sur eux (les boyaux).'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Anez	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans(ça)
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	helled	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=pouvait.on
+4	toulla	toulla	?	_	_	_	_	_	Gloss=trouer
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	sklabeza	sklabezañ	?	_	_	_	_	_	Gloss=salir
+7	al	art	?	_	_	_	_	_	Gloss=le
+8	lard	lard	?	_	_	_	_	_	Gloss=lard
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	oa	COP	?	_	_	_	_	_	Gloss=était
+11	outo	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Helias(1986:'toullgov')__1
+# text = toullgov
+# text_fr = 'hernie'
+# source = Helias (1986)
+# texttype = Ouvrages de recherche
+1	toullgov	kof	nom	_	_	_	_	_	Gloss=ventre|Morph=1
+
+# sent_id = ArBarzhig(1976:29)__7
+# text = e toull dor he c'hegin.
+# text_fr = 'dans l'encadrement de la porte de sa cuisine.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	e	P.e	?	_	_	_	_	_	Gloss=en
+2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	dor	dor	nom	_	_	_	_	_	Gloss=porte
+4	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+5	c'hegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:28)__1
+# text = Toulliñ kaoz genin ' faote dezhoñ.
+# text_fr = 'Il voulait engager la conversation avec moi.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Toulliñ	-iñ(V.)	?	_	_	_	_	_	Gloss=er
+2	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
+3	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+4	'	'	?	_	_	_	_	_	Gloss=R
+5			PUNCT	_	_	_	_	Gloss=punct
+6	faote	faotañ	verbe	_	_	_	_	_	Gloss=fallait
+7	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

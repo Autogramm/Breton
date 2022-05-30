@@ -1,0 +1,23 @@
+# sent_id = Helias(1986:'toull')__1
+# text = Sell gwasad pez toull a zo em loer.
+# text_fr = 'Regarde quel grand trou il y a dans mon bas.'
+# source = Helias (1986)
+# texttype = Ouvrages de recherche
+1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	pez	pezh	?	_	_	_	_	_	Gloss=morceau
+3	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+7	loer	loer	nom	_	_	_	_	_	Gloss=chaussette
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:432)__2
+# text = Gwasad ma plij dezañ farsal !
+# text_fr = 'Comme il aime à plaisanter !'
+# source = Gros (1984)
+1	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+2	plij	plijout	verbe	_	_	_	_	_	Gloss=plait
+3	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	farsal	farsal	?	_	_	_	_	_	Gloss=farcer
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

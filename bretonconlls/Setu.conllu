@@ -1,0 +1,279 @@
+# sent_id = LeBozec(1933:134)__1
+# text = Setu aman ar moc'h bihan, a glaskan gwerza o mamm.
+# text_fr = 'Voici les petits cochons dont je cherche à vendre la mère.'
+# source = Le Bozec
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	aman	ads	?	_	_	_	_	_	Gloss=ici
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	moc'h	moc'h	?	_	_	_	_	_	Gloss=cochons
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	glaskan	klask	verbe	_	_	_	_	_	Gloss=cherche
+9	gwerza	gwerzhañ	verbe	_	_	_	_	_	Gloss=vendre
+10	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+11	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:12)__1
+# text = Sate e veze kaset kuites da vaneañ anezho kement.
+# text_fr = 'Aussi on en apportait beaucoup pour ne plus les remuer ensuite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Sate	Sate	?	_	_	_	_	_	Gloss=voici
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
+5	kuites	kuit	postposition	_	_	_	_	_	Gloss=pour.ne.pas
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	vaneañ	vaneañ	?	_	_	_	_	_	Gloss=remuer
+8	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guillevic&LeGoff(1986:90)__1
+# text = Chetu petra en des laret hou mam.
+# text_fr = 'Voici ce qu'a dit votre mère.'
+# source = Guillevic & Le Goff (1986)
+1	Chetu	Chetu	?	_	_	_	_	_	Gloss=voici
+2	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+3	en	en	complémenteur	_	_	_	_	_	Gloss=3SG.M
+4	des	kaout	?	_	_	_	_	_	Gloss=a
+5	laret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+6	hou	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+7	mam	mamm	nom	_	_	_	_	_	Gloss=mère
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:196)__2
+# text = a chetu hint ac er méas...
+# text_fr = '... (Ils prirent leurs bâtons) et sortirent... '
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	a	&	préposition	_	_	_	_	_	Gloss=et
+2	chetu	chetu	?	_	_	_	_	_	Gloss=voici
+3	hint	pfi	?	_	_	_	_	_	Gloss=eux
+4	ac	ha(g)	?	_	_	_	_	_	Gloss=et
+5	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+6	méas...	méas...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Kersulec(2016:29)__1
+# text = Peall da ober eo pegur an neud zo fin te oar, chetu eo peall da ober.
+# text_fr = 'C'est long à faire puisque le fil est fin, tu sais, c'est donc long à faire.'
+# dialect = Cornouaillais
+# source = Kersulec (2016)
+# texttype = Ouvrages de recherche
+1	Peall	pell	adjectif	_	_	_	_	_	Gloss=long
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	pegur	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	neud	neud	nom	_	_	_	_	_	Gloss=fil
+8	zo	zo	?	_	_	_	_	_	Gloss=est
+9	fin	fin	?	_	_	_	_	_	Gloss=fin
+10	te	pfi	?	_	_	_	_	_	Gloss=toi
+11	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	chetu	chetu	?	_	_	_	_	_	Gloss=donc
+14	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+15	peall	pell	adjectif	_	_	_	_	_	Gloss=long
+16	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+17	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:102)__3
+# text = Chte oeid er siren kuit te greisnouz.
+# text_fr = 'Voila la sirène partie à minuit.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Chte	Chte	?	_	_	_	_	_	Gloss=voici
+2	oeid	mont	verbe	_	_	_	_	_	Gloss=allé
+3	er	art	?	_	_	_	_	_	Gloss=le
+4	siren	siren	?	_	_	_	_	_	Gloss=sirène
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	greisnouz	kreiz.noz	nom.nom	_	_	_	_	_	Gloss=milieu.nuit
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:184)__1
+# text = /šə-tri/ .
+# text_fr = '(en) voilà trois.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/šə-tri/	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:348)__1
+# text = / š-əndaj etonet /
+# text_fr = 'Voilà la pointe du jour.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	š-əndaj	š-əndaj	?	_	_	_	_	_	Gloss=?
+3	etonet	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:76)__1
+# text = Setu petra an neus laret hoc'h mamm.
+# text_fr = 'Voici ce qu'a dit votre mère.'
+# source = Le Clerc (1986)
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+3	an	an	?	_	_	_	_	_	Gloss=R
+4	neus	kaout	?	_	_	_	_	_	Gloss=a
+5	laret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+6	hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+7	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kaledvourc'h(1914:35)__1
+# text = Setu me etre daouarn ar polis.
+# text_fr = 'Me voici entre les mains de la police'
+# source = Kaledvourch (1914)
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	etre	etre	préposition	_	_	_	_	_	Gloss=entre
+4	daouarn	duel.dorn	?.nom	_	_	_	_	_	Gloss=2.main
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	polis	polis	?	_	_	_	_	_	Gloss=police
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'vliw')__1
+# text = Vliw !! Chet (a)nehoñ dreist d'ar pont.
+# text_fr = 'Vlan !! Jeté par-dessus le pont.'
+# source = Lozach (2014)
+1	Vliw	Vliw	?	_	_	_	_	_	Gloss=[[Vliw!|vlan
+2	!	!	?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Chet	Chet	?	_	_	_	_	_	Gloss=voici
+5	(a)nehoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+6	dreist	dreist	préposition	_	_	_	_	_	Gloss=dessus
+7	d'	da	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	pont	pont	nom	_	_	_	_	_	Gloss=pont
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:159)__1
+# text = Setu [ ar vrezel komañset ].
+# text_fr = 'Voilà (que) la guerre (est) commencée.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	[	[	?	_	_	_	_	_	Gloss=?
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	vrezel	brezel	nom	_	_	_	_	_	Gloss=guerre|Morph=1
+5	komañset	komañs	verbe	_	_	_	_	_	Gloss=commencé
+
+# sent_id = Drezen(1990:11)__1
+# text = Setu ma fiñv ar skeudenn santel.
+# text_fr = 'Voici que bouge l'image sainte.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	fiñv	fiñval	verbe	_	_	_	_	_	Gloss=bouge
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	skeudenn	skeudenn	?	_	_	_	_	_	Gloss=image
+6	santel	sant.-el(Adj.)	nom.?	_	_	_	_	_	Gloss=saint.Adj
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arGo(1950:7)__2
+# text = Setu ma rankas nac'h e vicher kelenner e-doug ar bloaz 1908.
+# text_fr = 'Il dut donc abandonner son poste d'enseignant en 1908.'
+# location = Pleyben
+# source = ar Go (1950)
+1	rankas	rankout	verbe	_	_	_	_	_	Gloss=dut
+2	nac'h	nac'h	?	_	_	_	_	_	Gloss=refuser
+3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	vicher	micher	nom	_	_	_	_	_	Gloss=métier
+5	kelenner	kelenn.-er,-our	?.?	_	_	_	_	_	Gloss=enseign.ant
+6	e-doug	e-doug	préposition	_	_	_	_	_	Gloss=pendant
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+9	1908	1908	?	_	_	_	_	_	Gloss=1908
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:79)__1
+# text = Setu, en ur zont d'ar gêr e choment a-sav eno neuze.
+# text_fr = 'Donc, en rentrant à la maison, ils s'arrêtaient là.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+4	ur	ur	?	_	_	_	_	_	Gloss=?
+5	zont	dont	verbe	_	_	_	_	_	Gloss=venir
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+9	e	e	?	_	_	_	_	_	Gloss=R
+10	choment	chom	verbe	_	_	_	_	_	Gloss=restaient
+11	a-sav	a-sav	postposition	_	_	_	_	_	Gloss=à.debout
+12	eno	eno	?	_	_	_	_	_	Gloss=y
+13	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:92)__1
+# text = Setu an dud zo bet komañset da daoler war ar gwinizh [...].
+# text_fr = 'Donc les gens ont commencé à mettre (de l'engrais) sur le blé.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=donc
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	komañset	komañs	verbe	_	_	_	_	_	Gloss=commencé
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	daoler	taoler	?	_	_	_	_	_	Gloss=mettre
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	gwinizh	ed	nom	_	_	_	_	_	Gloss=blé
+12	[...].	[...].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = HorYezh(1983:76)__4
+# text = Ha goude-se ar re-se ouie dont tout setu vie blag ken-ha-ken.
+# text_fr = 'Et après tous ceux-là venaient et on blaguait tant et tant.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	goude-se	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	ouie	Auxiliairegouzout	?	_	_	_	_	_	Gloss=AUX
+6	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+8	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
+9	vie	COP	?	_	_	_	_	_	Gloss=était
+
+# sent_id = Briant-Cadiou(1998:26)__1
+# text = An dud a oa paour, dizesk. Setu m'o-doa kredennou...
+# text_fr = 'Les gens étaient pauvres, incultes. Donc ils avaient des croyances... '
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	dizesk	di-	?	_	_	_	_	_	Gloss=dé|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	Setu	Setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+10	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+11	o-doa	kaout	?	_	_	_	_	_	Gloss=avait
+12	kredennou..	krediñ.-enn.-où(PL.)	verbe.nom.?	_	_	_	_	_	Gloss=croy.ance.s
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

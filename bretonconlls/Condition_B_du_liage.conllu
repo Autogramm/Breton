@@ -1,0 +1,33 @@
+# sent_id = Stephens(1990:157)__1
+# text = Pedin a reas [[nom propre|Yann]] Lenaig  da respont anezhañ /*anezhi.
+# text_fr = 'Yann a demandé à Lenaig de lui répondre (à lui/*à elle).'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+6	Lenaig	nompropre	?	_	_	_	_	_	Gloss=Lenaig
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	respont	respont	?	_	_	_	_	_	Gloss=répondre
+
+# sent_id = Hendrick(1990:123)__1
+# text = Skrivañ a reont dezho.
+# text_fr = 'Ils lui écrivent'
+# source = Hendrick (1990)
+# texttype = Ouvrages de recherche
+1	Skrivañ	skrivañ	verbe	_	_	_	_	_	Gloss=écrire
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+4	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:35)__1
+# text = Madame lez-he-gwintañ.
+# text_fr = # 'Madame se-laisse-culbuter' / [[*]] 'Madame laisse-la-culbuter.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	lez-he-gwintañ	lezel	?	_	_	_	_	_	Gloss=laisse
+2	.	.	PUNCT	_	_	_	_	Gloss=punct

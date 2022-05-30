@@ -1,0 +1,10 @@
+# sent_id = Kervella(2006:39)__1
+# text = Ac'hanta, Aotrou Doktor?
+# text_fr = 'Alors, Docteur ?'
+# source = Kervella (2006)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hanta	?	_	_	_	_	_	Gloss=alors
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+4	Doktor	Doktor	nom	_	_	_	_	_	Gloss=docteur
+5	?	?	PUNCT	_	_	_	_	Gloss=punct

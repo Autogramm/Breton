@@ -1,0 +1,29 @@
+# sent_id = LeBerre&LeDû(1999:56)__1
+# text = Pik pe vran ne hwito ked da gonta.
+# text_fr = > 'Quelqu'un vendra bien la mèche.'
+# source = Le Berre & Le Dû (1999)
+# texttype = Références de corpus
+1	Pik	Pik	nom	_	_	_	_	_	Gloss=pie
+2	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+3	vran	bran	nom	_	_	_	_	_	Gloss=corbeau
+4	ne	ne	?	_	_	_	_	_	Gloss=ne
+5	hwito	c'hwitaat	?	_	_	_	_	_	Gloss=manquera
+6	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	gonta	kontañ	verbe	_	_	_	_	_	Gloss=conter
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Borsley&Stephens(1989:417)__2
+# text = Ar bik a c'hellfe kregiñ en e skouarn.
+# text_fr = 'Il pourrait décider de se marier.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bik	bik	?	_	_	_	_	_	Gloss=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	c'hellfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
+5	kregiñ	kregiñ	verbe	_	_	_	_	_	Gloss=mordre
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	skouarn	skouarn	nom	_	_	_	_	_	Gloss=oreille
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

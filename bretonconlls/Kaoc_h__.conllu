@@ -1,0 +1,16 @@
+# sent_id = Bannoù-Heol(2000:13)__1
+# text = Kaoc'h ki ! Kaoc'h ki gwenn ha kaoc'h ki du !
+# text_fr = 'Merde, merde, merde et remerde !'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Kaoc'h	kaoc'h	?	_	_	_	_	_	Gloss=merde
+2	ki	ki	nom	_	_	_	_	_	Gloss=chien
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Kaoc'h	kaoc'h	?	_	_	_	_	_	Gloss=merde
+5	ki	ki	nom	_	_	_	_	_	Gloss=chien
+6	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+7	ha	&	?	_	_	_	_	_	Gloss=et
+8	kaoc'h	kaoc'h	?	_	_	_	_	_	Gloss=merde
+9	ki	ki	nom	_	_	_	_	_	Gloss=chien
+10	du	du	adjectif	_	_	_	_	_	Gloss=moir
+11	!	!	PUNCT	_	_	_	_	Gloss=punct

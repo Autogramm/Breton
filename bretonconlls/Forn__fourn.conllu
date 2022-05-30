@@ -1,0 +1,55 @@
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = ma viche bet tamm lann, viche ket bet gellet tomma ar forn
+# text_fr = 'S'il n'y avait pas eu d'ajonc, le four n'aurait pas pu être chauffé.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	viche	COP	?	_	_	_	_	_	Gloss=serait
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+5	lann	lann	nom	_	_	_	_	_	Gloss=ajonc
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	viche	COP	?	_	_	_	_	_	Gloss=serait
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
+11	tomma	tomm.-añ	adjectif.?	_	_	_	_	_	Gloss=chauff.er
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	forn	forn	?	_	_	_	_	_	Gloss=four
+
+# sent_id = Elégoët(1982:42)__1
+# text = O ! Hir a-walc'h oant ar fournioù.
+# text_fr = 'Oh ! Les fours étaient assez longs.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	O	interjection	?	_	_	_	_	_	Gloss=Oh
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Hir	hir	adjectif	_	_	_	_	_	Gloss=long
+4	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+5	oant	COP	?	_	_	_	_	_	Gloss=étaient
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	fournioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:13)__1
+# text = fornioù pri-livet
+# text_fr = 'fours de faïencerie(s)'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	fornioù	fornioù	?	_	_	_	_	_	Gloss=fours
+2	pri-livet	pri	nom	_	_	_	_	_	Gloss=terre
+
+# sent_id = Bouzec & al. (2017:102)__1
+# text = Neuche mi pikol forniou  a labour.
+# text_fr = 'Il n'y a plus beaucoup de fours en activité.'
+1	mi	mi	adverbe	_	_	_	_	_	Gloss=mui
+2	pikol	pikol	nom-adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=pikol
+3	forniou	forniou	?	_	_	_	_	_	Gloss=forniou
+4	??	??	?	_	_	_	_	_	Gloss=hag
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=a
+7	labour	labour	nom	_	_	_	_	_	Gloss=labour.
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

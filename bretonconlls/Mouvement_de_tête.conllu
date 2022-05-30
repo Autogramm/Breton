@@ -1,0 +1,16 @@
+# sent_id = Herrieu(1994:26)__1
+# text = rak troc'het eo  _ pont an hent-houarn d'ar génie.
+# text_fr = '... car ''le génie'' a coupé le pont.'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	rak	rak	?	_	_	_	_	_	Gloss=car
+2	troc'het	troc'hañ	?	_	_	_	_	_	Gloss=coupé
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4			PUNCT	_	_	_	_	Gloss=punct
+5	_	_	?	_	_	_	_	_	Gloss=?
+6	pont	pont	nom	_	_	_	_	_	Gloss=pont
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	hent-houarn	hent	nom	_	_	_	_	_	Gloss=chemin
+9	d'	passif	?	_	_	_	_	_	Gloss=par
+10	ar	ar	?	_	_	_	_	_	Gloss=?

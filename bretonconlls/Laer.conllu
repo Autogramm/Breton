@@ -1,0 +1,38 @@
+# sent_id = Timm(1995:21)__1
+# text = N'eo ken eñ laer anezhañ.
+# text_fr = 'Ce n'est qu'un voleur.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+5	laer	laer	nom	_	_	_	_	_	Gloss=voleur
+6	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Perrot(1912:[http://br.wikisource.org/wiki/Pajenn:Perrot_-_Bue_ar_Zent.djvu/726726])__1
+# text = Prest oa da lezel al laeron d'hen lakat en noaz.
+# text_fr = 'Il était prêt à laisser les voleurs le dépouiller.'
+# dialect = Léonard
+# location = Plouharzel
+# source = Perrot (1912)
+# texttype = Références de corpus
+1	Prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	da	da	préposition	_	_	_	_	_	Gloss=à
+4	lezel	lezel	?	_	_	_	_	_	Gloss=laisser
+5	al	art	?	_	_	_	_	_	Gloss=le
+6	laeron	laeron	?	_	_	_	_	_	Gloss=voleurs
+7	d'	da	préposition	_	_	_	_	_	Gloss=de
+8	hen	POP	?	_	_	_	_	_	Gloss=le
+9	lakat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+
+# sent_id = arGow(1999:18)__1
+# text = al laeroñsioù dienn
+# text_fr = 'les vols de crème.'
+# location = Pleyben
+# source = ar Gow (1999)
+1	al	art	?	_	_	_	_	_	Gloss=le
+2	laeroñsioù	laerañ.-onsi.-où(PL.)	?.nom.?	_	_	_	_	_	Gloss=vol.N.s
+3	dienn	dienn	nom	_	_	_	_	_	Gloss=crème

@@ -1,0 +1,223 @@
+# sent_id = Kervella(2001:4)__1
+# text = Ma, kenavo ivez, ha grit mat war-dro ar verc'hig koant !
+# text_fr = 'Voila, au revoir, et soignez bien ce petit ange ... '  (avec impatience)
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=voila
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	kenavo	kenavo	?	_	_	_	_	_	Gloss=au.revoir
+4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	grit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+8	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+9	war-dro	war-dro	préposition	_	_	_	_	_	Gloss=autour
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	verc'hig	merc'h	?	_	_	_	_	_	Gloss=fill]].[[-ig|ette|Morph=1
+12	koant	koant	adjectif	_	_	_	_	_	Gloss=belle
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:7)__1
+# text = Ma, aet eo kuit !
+# text_fr = 'Bon le voilà parti !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ma	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Monfort(2007:3)__1
+# text = Ma, souezhet 'vefen mar befe ur penn labous war e bark...
+# text_fr = 'Eh ben, je serais surpris si le moindre oiseau était dans son champ... '
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	souezhet	souezhañ	verbe	_	_	_	_	_	Gloss=surpris
+2	'	bezañ	?	_	_	_	_	_	Gloss=serais
+3	vefen	vefen	?	_	_	_	_	_	Gloss=?
+4	mar	mar	nom	_	_	_	_	_	Gloss=si
+5	befe	E	?	_	_	_	_	_	Gloss=serait
+6	ur	art	?	_	_	_	_	_	Gloss=un
+7	penn	penn	nom	_	_	_	_	_	Gloss=tête
+8	labous	labous	?	_	_	_	_	_	Gloss=oiseau
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	bark..	park	nom	_	_	_	_	_	Gloss=champ
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moulleg(1978:21)__1
+# text = Ma, bugale, spi 'meus n'en deus den all ebet klevet anv eus an danvez spontus-se !
+# text_fr = 'Eh bien, les enfants, j'espère que personne d'autre n'a eu vent de ce produit dangereux !'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ma	interjection	complémenteur	_	_	_	_	_	Gloss=ehbien
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	spi	spi	nom	_	_	_	_	_	Gloss=espoir
+6	'	'	?	_	_	_	_	_	Gloss=1SG
+7	meus	kaout	?	_	_	_	_	_	Gloss=a
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+10	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	den	den	nom	_	_	_	_	_	Gloss=homme
+12	all	all	?	_	_	_	_	_	Gloss=autre
+13	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+14	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+15	anv	anv	nom	_	_	_	_	_	Gloss=nom
+16	eus	eus	?	_	_	_	_	_	Gloss=de
+17	an	art	?	_	_	_	_	_	Gloss=le
+18	danvez	danvez	nom	_	_	_	_	_	Gloss=matière
+19	spontus-se	spontus	adjectif	_	_	_	_	_	Gloss=horrible
+20	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bannoù-Heol(2000:12)__1
+# text = Ma ! Selaou... Emañ an noz o kouezhañ...
+# text_fr = 'Bon ! Écoute... La nuit tombe... '
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Bon
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Selaou..	selaou	verbe	_	_	_	_	_	Gloss=écoute
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+10	kouezhañ..	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bzh5(2007:7).__1
+# text = Ma, klaskomp piv n'eo ket !
+# text_fr = 'Bon, procédons par élimination !'
+# source = Bzh5 (2007)
+# texttype = Références de corpus
+1	Ma	interjection	complémenteur	_	_	_	_	_	Gloss=Bon!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	klaskomp	klask	verbe	_	_	_	_	_	Gloss=cherchons
+4	piv	piv	pronom	_	_	_	_	_	Gloss=qui
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMenn(2015:4)__1
+# text = Ma, aet omp pe n'omp ket ?
+# text_fr = 'Bon, on part ou quoi ?'
+# source = Ar Menn (2015)
+# texttype = Références de corpus
+1	Ma	interjection	complémenteur	_	_	_	_	_	Gloss=bon
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+4	omp	COP	?	_	_	_	_	_	Gloss=sommes
+5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+6	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	omp	COP	?	_	_	_	_	_	Gloss=sommes
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bannoù-Heol(2000:5)__1
+# text = Ma ! ... Silzig eo ! Met petra an diaoul !?!.
+# text_fr = 'Mais ! ... C'est de la saucisse ! Mais qu'est-ce que !?!'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=mais
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	..	..	?	_	_	_	_	_	Gloss=
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	Silzig	silzig	nom	_	_	_	_	_	Gloss=saucisse
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+9	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+10	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+11	an	an	?	_	_	_	_	_	Gloss=andiaoul
+12	diaoul	diaoul	nom	_	_	_	_	_	Gloss=?
+13	!?!.	!?!.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Monfort(2007:3)__1
+# text = A, ma, hehoo ! Gwechall ne veze ket tommet ar c'hirri 'vel ma vezont bremañ...
+# text_fr = 'Ah, ça, heho ! Dans le temps les voitures n'étaient pas chauffées comme maintenant !'
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	A	A	préposition	_	_	_	_	_	Gloss=Ah
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hehoo	hehoo	?	_	_	_	_	_	Gloss=Heho
+4			?	_	_	_	_	_	Gloss=!
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+7	ne	ne	?	_	_	_	_	_	Gloss=ne
+8	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	tommet	tomm.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=chaud.é
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	c'hirri	karr	nom	_	_	_	_	_	Gloss=voiture]].[[plurielinterne|s]|Morph=5
+13	'	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+14	vel	vel	?	_	_	_	_	_	Gloss=?
+15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+16	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+17	bremañ..	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Preder&Armor(1977:29)__2
+# text = Ma ! An diedoù galian-se o deus gweredoù berrbad.
+# text_fr = 'Bah ! Ces potions gauloises ont des effets de courte durée !'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Bah
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	An	art	?	_	_	_	_	_	Gloss=le
+5	diedoù	died.-où(PL.)	nom.?	_	_	_	_	_	Gloss=potion.s
+6	galian-se	nompropre.-an(Adj.).DEM	?.?.?	_	_	_	_	_	Gloss=gaul.ois.là
+7	o	o	?	_	_	_	_	_	Gloss=3PL
+8	deus	kaout	?	_	_	_	_	_	Gloss=a
+9	gweredoù	gwered.-où(PL.)	nom.?	_	_	_	_	_	Gloss=effet.s
+10	berrbad	berr	adjectif	_	_	_	_	_	Gloss=court|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Monfort(2007:17)__1
+# text = Maa, 'ta !, Deus ...
+# text_fr = 'Baaah, quoi, Viens ... '
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	Maa	Maa	?	_	_	_	_	_	Gloss=Bah
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	'	'	?	_	_	_	_	_	Gloss=[['@ta!|donc
+4	ta	ta	?	_	_	_	_	_	Gloss=!]]]
+5	!,	!,	?	_	_	_	_	_	Gloss=?
+6	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
+7	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lagadeg(2006:46)__1
+# text = Ma, eme Vari, me ne ouzon ket ivez.
+# text_fr = 'Bah, dit Marie, moi je ne sais pas non plus.'
+# dialect = Léonard
+# source = Lagadeg (2006)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=bah
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	eme	eme	préposition	_	_	_	_	_	Gloss=dit|Morph=1
+4	Vari	nompropre	?	_	_	_	_	_	Gloss=Mari
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	me	pfi	?	_	_	_	_	_	Gloss=moi
+7	ne	ne	?	_	_	_	_	_	Gloss=ne
+8	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Monfort(2007:12)__1
+# text = Ma ! Dre forzh trampouilhat !
+# text_fr = ''Bah ! À force de bidouiller !''
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=bah
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Dre	dre	préposition	_	_	_	_	_	Gloss=par
+4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=force
+5	trampouilhat	trampouilhat	?	_	_	_	_	_	Gloss=bidouiller
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,124 @@
+# sent_id = Goyat(2012:340)__1
+# text = Ar furnez ’ daill aour forz da biou.
+# text_fr = 'La sagesse vaut de l'or pour quiconque.'
+# dialect = Cornouaillais
+# source = Goyat (2012)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	furnez	fur.-nezh	adjectif.nom	_	_	_	_	_	Gloss=sag.esse
+3	’	’	?	_	_	_	_	_	Gloss=R|Morph=1
+4	daill	daill	?	_	_	_	_	_	Gloss=vaut
+5	aour	aour	nom	_	_	_	_	_	Gloss=or
+6	forz	forzh	quantifieur	_	_	_	_	_	Gloss=importe
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	biou	piv	pronom	_	_	_	_	_	Gloss=qui
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,logicielDrakx,traduitdel'anglaisparl'[http://www.ofis-bzh.org/index.phpofis].__1
+# text = Ma ne ouzit ket petra  talvez un dibarzh, mirit he gwerzh dre ziouer.
+# text_fr = 'Si vous ne connaissez pas la signification d'une option, gardez sa valeur par défaut.'
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	ne	ne	?	_	_	_	_	_	Gloss=ne
+3	ouzit	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savez
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	??	??	?	_	_	_	_	_	Gloss=R|Morph=4
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	talvez	talvez	?	_	_	_	_	_	Gloss=signifie
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	dibarzh	dibarzh	?	_	_	_	_	_	Gloss=option
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	mirit	mirout	verbe	_	_	_	_	_	Gloss=gardez
+13	he	POSS	?	_	_	_	_	_	Gloss=sa|Morph=2
+14	gwerzh	gwerzh	?	_	_	_	_	_	Gloss=valeur
+15	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+16	ziouer	diouer	?	_	_	_	_	_	Gloss=défaut
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:1)__1
+# text = [ Petra an diaoul ] ' talvez kement-se _ ?
+# text_fr = 'Que diable cela signifie-t-il ?'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	[	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=?
+3	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
+4	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]]
+5	]	]	?	_	_	_	_	_	Gloss=?
+6	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+7			PUNCT	_	_	_	_	Gloss=punct
+8	talvez	talvez	?	_	_	_	_	_	Gloss=?
+9	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+
+# sent_id = Gros(1989:'abuzi')__2
+# text = Ne dalv ket a boan lezel an traoù-mañ da abuzi an asïed.
+# text_fr = 'Il ne vaut pas la peine de laisser ces choses-ci (ces restes) encombrer (accaparer) l'assiette. '
+# source = Gros (1989)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	dalv	dalv	?	_	_	_	_	_	Gloss=vaut
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	boan	poan	nom	_	_	_	_	_	Gloss=peine
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	traoù-mañ	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+8	da	da	préposition	_	_	_	_	_	Gloss=à
+9	abuzi	-iñ	?	_	_	_	_	_	Gloss=er
+
+# sent_id = LeBayon(1878:59)__1
+# text = Haval é é véhé ret bout didalvé.
+# text_fr = 'Il me semble qu'il faudrait être vaurien.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	Haval	Heñvel	?	_	_	_	_	_	Gloss=pareil
+2	é	COP	?	_	_	_	_	_	Gloss=est
+3	é	é	?	_	_	_	_	_	Gloss=R
+4	véhé	COP	?	_	_	_	_	_	Gloss=serait
+5	ret	ret	?	_	_	_	_	_	Gloss=obligé
+6	bout	bezañ	?	_	_	_	_	_	Gloss=être
+7	didalvé	di-	?	_	_	_	_	_	Gloss=dé-|Morph=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abalain(2001:29)__1
+# text = Gwinizh war-lerc'h gwinizh ne dalv ket.
+# text_fr = 'Froment après froment ne vaut rien.'
+# source = Abalain (2001)
+# texttype = Références de corpus
+1	Gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=froment
+2	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+3	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=froment
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	dalv	dalv	?	_	_	_	_	_	Gloss=vaut
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:143)__1
+# text = Ne dalv ket ar boan dit klask pemp troad d'ar maout.
+# text_fr = 'Ce n'est pas la peine que tu cherches midi à quatorze heures.'
+# source = Gros (1984)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	dalv	dalv	?	_	_	_	_	_	Gloss=vaut
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	boan	poan	nom	_	_	_	_	_	Gloss=peine|Morph=1
+6	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+7	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+8	troad	troad	nom	_	_	_	_	_	Gloss=patte
+9	d'	da	préposition	_	_	_	_	_	Gloss=à
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	maout	maout	nom	_	_	_	_	_	Gloss=bélier
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:19)__1
+# text = Ne dalv ket youc'hal evel-se, aotrou !
+# text_fr = 'Inutile de crier comme ça, monsieur !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	dalv	dalv	?	_	_	_	_	_	Gloss=vaut
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	youc'hal	youc'hal	?	_	_	_	_	_	Gloss=crier
+5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+8	!	!	PUNCT	_	_	_	_	Gloss=punct

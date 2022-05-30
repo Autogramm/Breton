@@ -1,0 +1,28 @@
+# sent_id = LeGarrec(1901:74)__2
+# text = Nag èn oabr koumouluz heol ebet o para.
+# text_fr = 'Et, dans le ciel nuageux, jamais un soleil qui se levât.'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=ni
+2	èn	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	oabr	oabl	nom	_	_	_	_	_	Gloss=ciel
+4	koumouluz	koumoul.-uz	nom.?	_	_	_	_	_	Gloss=nuag.eux
+5	heol	heol	nom	_	_	_	_	_	Gloss=soleil
+6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	para	para	?	_	_	_	_	_	Gloss=briller
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:78)__1
+# text = E'it paraat a-zoc'hti a sailh en douaroùier.
+# text_fr = 'pour l'empêcher de sauter dans les terres de culture'
+# source = Ar Meliner (2009)
+1	E'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	it	it	?	_	_	_	_	_	Gloss=?
+3	paraat	paraat	?	_	_	_	_	_	Gloss=empêcher
+4	a-zoc'hti	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	sailh	sailhat	verbe	_	_	_	_	_	Gloss=saute
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	douaroùier	douar.-où(PL.).-ier	nom.?.?	_	_	_	_	_	Gloss=terre.s.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,57 @@
+# sent_id = LeBerre&LeDû(1999:56)__1
+# text = Pik pe vran ne hwito ked da gonta.
+# text_fr = 'Quelqu'un vendra bien la mèche.'
+# source = Le Berre & Le Dû (1999)
+# texttype = Références de corpus
+1	Pik	pik	nom	_	_	_	_	_	Gloss=pie
+2	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+3	vran	bran	nom	_	_	_	_	_	Gloss=corbeau
+4	ne	ne	?	_	_	_	_	_	Gloss=ne
+5	hwito	c'hwitaat	?	_	_	_	_	_	Gloss=manquera
+6	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	gonta	gonta	?	_	_	_	_	_	Gloss=conter
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:218)__1
+# text = yan da gontañ deoc'h...
+# text_fr = '[...] je vais te raconter... '
+# text_phon = ['eã da', 'gɔ̃ te', 'dɔX...']
+1	yan	mont	verbe	_	_	_	_	_	Gloss=vais
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	gontañ	gontañ	?	_	_	_	_	_	Gloss=conter
+4	deoc'h..	da.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = N'eo ket brao kountañ geier d'ur vamm !
+# text_fr = 'On ne devrait jamais mentir à sa maman !'
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+5	kountañ	kountañ	?	_	_	_	_	_	Gloss=conter
+6	geier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	ur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+9	vamm	mamm	nom	_	_	_	_	_	Gloss=maman
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:210)__2
+# text = O, te 'vez atav o kount' anv dac'h da vamm-gozh.
+# text_fr = 'Oh, tu es toujours en train de parler de ta grand-mère.'
+# text_phon = ['ɔX', 'te vɛs', 'tao', 'o kunt', 'ano', 'daʁ', 'da vamgoz']
+1	O	interjection	?	_	_	_	_	_	Gloss=Oh
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	te	pfi	?	_	_	_	_	_	Gloss=toi
+4	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+6	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	kount'	kount'	?	_	_	_	_	_	Gloss=conter
+9			PUNCT	_	_	_	_	Gloss=punct
+10	anv	anv	nom	_	_	_	_	_	Gloss=nom
+11	dac'h	dac'h	?	_	_	_	_	_	Gloss=de
+12	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+13	vamm-gozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Seite&Stéphan(1957:123)__3
+# text = Kerzed a reom war an aod goloet a vili.
+# text_fr = 'Nous marchons sur la grève couverte de galets.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Kerzed	kerzhout	verbe	_	_	_	_	_	Gloss=marcher
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reom	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	aod	aod	nom	_	_	_	_	_	Gloss=grève
+7	goloet	goloiñ.-et(Adj.)	adverbe.?	_	_	_	_	_	Gloss=couv.ert
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	vili	vili	?	_	_	_	_	_	Gloss=galets
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

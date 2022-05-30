@@ -1,0 +1,700 @@
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = Rhum 'vez gwet ga skur korz.
+# text_fr = 'On fait le rhum avec du sucre de canne.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Rhum	Rhum	?	_	_	_	_	_	Gloss=Rhum
+2	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+4	gwet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ga	gant	?	_	_	_	_	_	Gloss=avec
+6	skur	sukr	nom	_	_	_	_	_	Gloss=sucre
+7	korz	korz	nom	_	_	_	_	_	Gloss=tiges
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = Ar rhum a vez great gant ''du sucre de canne''.
+# text_fr = 'On fait le rhum avec du sucre de canne.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	rhum	rhum	?	_	_	_	_	_	Gloss=rhum
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	gant	gant	?	_	_	_	_	_	Gloss=avec
+7	'	'	adjectif	_	_	_	_	_	Gloss=du
+8	'	'	?	_	_	_	_	_	Gloss=sucre
+9	du	du	adjectif	_	_	_	_	_	Gloss=de
+10	sucre	sucre	?	_	_	_	_	_	Gloss=canne
+11	de	de	?	_	_	_	_	_	Gloss=?
+12	canne'	canne'	?	_	_	_	_	_	Gloss=?
+13	'	'	?	_	_	_	_	_	Gloss=?
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1947:744)__1
+# text = A : Brav e vo an amzer hiziv? B : - Bez' _[''ø'']_ awalc'h !
+# text_fr = '- Il fera beau aujourd'hui ? - Assez, oui.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	A	A	préposition	_	_	_	_	_	Gloss=
+2	:	:	?	_	_	_	_	_	Gloss=?
+3	Brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	vo	COP	?	_	_	_	_	_	Gloss=sera
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+8	B	B	?	_	_	_	_	_	Gloss=
+9	:	:	?	_	_	_	_	_	Gloss=?
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	Bez'	Bez'	?	_	_	_	_	_	Gloss=?
+12			PUNCT	_	_	_	_	Gloss=punct
+13	_['	_['	?	_	_	_	_	_	Gloss=R
+14	'	COP	?	_	_	_	_	_	Gloss=sera
+15	ø'	ø'	?	_	_	_	_	_	Gloss=?
+16	'	'	?	_	_	_	_	_	Gloss=?
+17	]_	]_	?	_	_	_	_	_	Gloss=?
+18	awalc'h	awalc'h	?	_	_	_	_	_	Gloss=assez
+19	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Madeg(2013:9)__1
+# text = A : Ur c'hamalad dit (eo) ? B : - (Ya, ur c'hamarad din eo) bet !
+# text_fr = ' - C'est un copain à toi ? - Ouais ! Il l’a été !'
+# dialect = Léonard
+# source = Madeg (2013)
+# texttype = Ouvrages de recherche
+1	A	A	préposition	_	_	_	_	_	Gloss=
+2	:	:	?	_	_	_	_	_	Gloss=?
+3	Ur	art	?	_	_	_	_	_	Gloss=un
+4	c'hamalad	kamalad	?	_	_	_	_	_	Gloss=copain|Morph=5
+5	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+6	(eo)	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B	B	?	_	_	_	_	_	Gloss=
+9	:	:	?	_	_	_	_	_	Gloss=?
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	(Ya,	(Ya,	?	_	_	_	_	_	Gloss=?
+12	ur	art	?	_	_	_	_	_	Gloss=un
+13	c'hamarad	kamalad	?	_	_	_	_	_	Gloss=copain|Morph=5
+14	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+15	eo)	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+16	bet	bet	?	_	_	_	_	_	Gloss=été
+17	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:81)__1
+# text = A : Start eo d'ober ? B : Eo.
+# text_fr = 'C'est dur à faire ? Oui.'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	A	A	préposition	_	_	_	_	_	Gloss=
+2	:	:	?	_	_	_	_	_	Gloss=?
+3	Start	start	adjectif	_	_	_	_	_	Gloss=dur
+4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B	B	?	_	_	_	_	_	Gloss=
+9	:	:	?	_	_	_	_	_	Gloss=?
+10	Eo	Eo	verbe-auxiliaire	_	_	_	_	_	Gloss=oui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:53)__1
+# text = A: - D'ar gêr e teui disul, Jakez ? B: - Ne deuin két.
+# text_fr = 'A : 'Tu viendras dimanche, Jakez ?' / B : 'Non.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	D'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	teui	dont	verbe	_	_	_	_	_	Gloss=viendras
+8	disul	disul	?	_	_	_	_	_	Gloss=dimanche
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	Jakez	nompropre	?	_	_	_	_	_	Gloss=Jakez
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	B:	B:	?	_	_	_	_	_	Gloss=
+13	-	-	PUNCT	_	_	_	_	Gloss=punct
+14	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+15	deuin	dont	verbe	_	_	_	_	_	Gloss=viendrai
+16	két	ket	adverbe	_	_	_	_	_	Gloss=pas
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:46)__1
+# text = A: - Mond da Bariz a garfeh ? B: - Nann, ne garfen ket.
+# text_fr = 'A : 'Vous aimeriez aller à Paris ?' / B : 'Non je n'aimerais pas.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	Mond	mont	verbe	_	_	_	_	_	Gloss=aller
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	Bariz	nompropre	?	_	_	_	_	_	Gloss=Paris
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	garfeh	karout	verbe	_	_	_	_	_	Gloss=aimeriez
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	B:	B:	?	_	_	_	_	_	Gloss=
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	Nann	nann	interjection	_	_	_	_	_	Gloss=Non
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+14	garfen	karout	verbe	_	_	_	_	_	Gloss=aimerais
+15	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:35)__1
+# text = A: - O vont da gouezhañ emaon. B: - Ne reoc'h ket. Azezit bremañ.
+# text_fr = 'A : 'Je vais tomber.' / B : 'Non. Asseyez-vous maintenant.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	gouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+7	emaon	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	B:	B:	?	_	_	_	_	_	Gloss=
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=4
+12	reoc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+15	Azezit	azezañ	verbe	_	_	_	_	_	Gloss=asseyez
+16	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBayon(1878:57)__1
+# text = A: - Ha Doué en dès ur horf ? B: - Nepas.
+# text_fr = 'A : 'Dieu a-t-il un corps ?' / B : 'Non.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	Ha	C.ha(g)	?	_	_	_	_	_	Gloss=Q
+4	Doué	Doue	nom	_	_	_	_	_	Gloss=Dieu
+5	en	en	complémenteur	_	_	_	_	_	Gloss=R
+6	dès	kaout	?	_	_	_	_	_	Gloss=a
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	horf	korf	nom	_	_	_	_	_	Gloss=corps|Morph=5
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	B:	B:	?	_	_	_	_	_	Gloss=
+11	-	-	PUNCT	_	_	_	_	Gloss=punct
+12	Nepas	Nepas	?	_	_	_	_	_	Gloss=non
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = McKenna(1978:172)__1
+# text = A: - En ti zo lan. B: - Pas, un nebedig.
+# text_fr = 'A : La maison est pleine. / B : Non, juste un peu.'
+# dialect = Vannetais
+# source = McKenna (1978)
+# texttype = Ouvrages de recherche
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	En	art	complémenteur	_	_	_	_	_	Gloss=le
+4	ti	ti	nom	_	_	_	_	_	Gloss=maison
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	lan	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	B:	B:	?	_	_	_	_	_	Gloss=
+9	-	-	PUNCT	_	_	_	_	Gloss=punct
+10	Pas	pas	?	_	_	_	_	_	Gloss=non
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	un	art	?	_	_	_	_	_	Gloss=un
+13	nebedig	nebeut.nebedig	quantifieur.?	_	_	_	_	_	Gloss=peu.DIM
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:320)__1
+# text = A: - Eñ ' zo krenvoc'h evidout. B: - Pas.
+# text_fr = 'A : Il est plus fort que toi. / B : Non (ce n'est pas vrai)'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+4	'	'	?	_	_	_	_	_	Gloss=R
+5			PUNCT	_	_	_	_	Gloss=punct
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	krenvoc'h	kreñv.-oc'h	adjectif.?	_	_	_	_	_	Gloss=fort.plus
+8	evidout	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.toi
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+10	B:	B:	?	_	_	_	_	_	Gloss=
+11	-	-	PUNCT	_	_	_	_	Gloss=punct
+12	Pas	Pas	?	_	_	_	_	_	Gloss=non
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Preder&Armor(1977:23)__1
+# text = Ac'hanta ! Mont a rez er-maez, ya pe get ?
+# text_fr = 'Bon alors ! Tu sors, oui ou non ?'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Ac'hanta	Ac'hanta	?	_	_	_	_	_	Gloss=[[acxxxhanta|Bonalors
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+7	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+10	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+11	get	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:105)__1
+# text = A: - Drebet peus ho lein ? B: - Ket c'hoazh.
+# text_fr = 'A : 'Vous avez déjeuné ?' / B : 'Pas encore.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	Drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+4	peus	personne.kaout	?.?	_	_	_	_	_	Gloss=2.a
+5	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	lein	lein	nom	_	_	_	_	_	Gloss=déjeuner
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:	B:	?	_	_	_	_	_	Gloss=
+9	-	-	PUNCT	_	_	_	_	Gloss=punct
+10	Ket	ket	adverbe	_	_	_	_	_	Gloss=non
+11	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=déjà
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:215)__1
+# text =  A: - Sao war da vanne 'ta Saig ! B: - Ket. Trawalc'h meus evet.
+# text_fr = 'A : 'Finis ton verre donc, Saig !' / B : 'Non, j'ai assez bu.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	??	??	?	_	_	_	_	_	Gloss=
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	A:	A:	?	_	_	_	_	_	Gloss=
+4	-	-	PUNCT	_	_	_	_	Gloss=punct
+5	Sao	sevel	verbe	_	_	_	_	_	Gloss=monte
+6	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=2
+8	vanne	banne	?	_	_	_	_	_	Gloss=verre
+9	'	eta	?	_	_	_	_	_	Gloss=donc
+10	ta	nompropre	?	_	_	_	_	_	Gloss=Saig
+11	Saig	Saig	?	_	_	_	_	_	Gloss=?
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+13	B:	B:	?	_	_	_	_	_	Gloss=
+14	-	-	PUNCT	_	_	_	_	Gloss=punct
+15	Ket	ket	adverbe	_	_	_	_	_	Gloss=non
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+17	Trawalc'h	trawalc'h	?	_	_	_	_	_	Gloss=assez
+18	meus	kaout	?	_	_	_	_	_	Gloss=a
+19	evet	evañ	verbe	_	_	_	_	_	Gloss=bu
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:67)__1
+# text = A: - N'oc'h ket sonjet monet ? B: - Nann, n'on ket sonjet monet.
+# text_fr = 'A: 'Tu n'as pas l'intention d'y aller ?' / B: 'Non je n'en ai pas l'intention.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	N'	N'	?	_	_	_	_	_	Gloss=ne
+4	oc'h	bezañ	?	_	_	_	_	_	Gloss=êtes
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	sonjet	sonjal.-et(Adj.)	?.?	_	_	_	_	_	Gloss=pens.é
+7	monet	mont	verbe	_	_	_	_	_	Gloss=aller
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	B:	B:	?	_	_	_	_	_	Gloss=
+10	-	-	PUNCT	_	_	_	_	Gloss=punct
+11	Nann	nann	interjection	_	_	_	_	_	Gloss=Non
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	n'	n'	?	_	_	_	_	_	Gloss=ne
+14	on	bezañ	?	_	_	_	_	_	Gloss=suis
+15	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+16	sonjet	sonjal.-et(Adj.)	?.?	_	_	_	_	_	Gloss=pens.é
+17	monet	mont	verbe	_	_	_	_	_	Gloss=aller
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:22)__1
+# text = A: -  Vo ket laret din ? B: - O nann,  gredan ket...
+# text_fr = 'A: 'Tu ne me diras pas ?' / B: 'Oh non, je ne pense pas.'
+# location = Le Juch
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	??	??	?	_	_	_	_	_	Gloss=ne
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	Vo	COP	?	_	_	_	_	_	Gloss=sera
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	laret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	B:	B:	?	_	_	_	_	_	Gloss=
+11	-	-	PUNCT	_	_	_	_	Gloss=punct
+12	O	interjection	?	_	_	_	_	_	Gloss=Oh
+13	nann	nann	interjection	_	_	_	_	_	Gloss=non
+14	,	,	PUNCT	_	_	_	_	Gloss=punct
+15	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+16	?	?	PUNCT	_	_	_	_	Gloss=punct
+17	gredan	krediñ	verbe	_	_	_	_	_	Gloss=crois
+18	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Kerrain(2001)__1
+# text = A: - N’eus nemet ur gaouiad amañ ? B: - Nann, n’eus nemet unan.
+# text_fr = 'A: 'Il n'y a qu'un menteur ici ?' / B: 'Oui, il n'y en a qu'un.'
+# source = Kerrain (2001)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	gaouiad	gaou.-ad	nom.?	_	_	_	_	_	Gloss=mensong.eur
+6	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:	B:	?	_	_	_	_	_	Gloss=
+9	-	-	PUNCT	_	_	_	_	Gloss=punct
+10	Nann	nann	interjection	_	_	_	_	_	Gloss=non
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+13	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__1
+# text = A:- Ar gwazed zo kouezhet. B:- Nann, ar vugale zo kouezhet.
+# text_fr = '- Les hommes sont tombés. / - Non, les enfants sont tombés.'
+# source = M-L.B (10/2018)
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Ar	art	?	_	_	_	_	_	Gloss=le
+3	gwazed	gwaz.-ed(PL.)	?.?	_	_	_	_	_	Gloss=homme.s
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	B:-	B:-	?	_	_	_	_	_	Gloss=
+8	Nann	nann	interjection	_	_	_	_	_	Gloss=non
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+12	zo	zo	?	_	_	_	_	_	Gloss=est
+13	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:223)__1
+# text = A: - Gwelet a reoc'h ! N'eo ket maro Fidelig. B: - Tra, n'eo ket maro.
+# text_fr = 'A: 'Vous voyez bien ! Il n'est pas mort, Fidelig.' / B: 'Non, il n'est pas mort.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	Gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	reoc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+7	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+11	Fidelig	nompropre	?	_	_	_	_	_	Gloss=Fidelig
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+13	B:	B:	?	_	_	_	_	_	Gloss=
+14	-	-	PUNCT	_	_	_	_	Gloss=punct
+15	Tra	Tra	nom	_	_	_	_	_	Gloss=non
+16	,	,	PUNCT	_	_	_	_	Gloss=punct
+17	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+18	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+19	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+20	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+21	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBayon(1878:57)__1
+# text =  A: - Nen dint-i tri Doué ? B: - Naren.
+# text_fr = 'A: 'Ne sont-ce pas trois Dieux ?' / B: 'Non.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	A:	A:	?	_	_	_	_	_	Gloss=
+4	-	-	PUNCT	_	_	_	_	Gloss=punct
+5	Nen	Nen	?	_	_	_	_	_	Gloss=Ne
+6	dint-i	COP	?	_	_	_	_	_	Gloss=sont
+7	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+8	Doué	Doue	nom	_	_	_	_	_	Gloss=Dieu
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	B:	B:	?	_	_	_	_	_	Gloss=
+11	-	-	PUNCT	_	_	_	_	Gloss=punct
+12	Naren	Naren	?	_	_	_	_	_	Gloss=non
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__33
+# text = Med ar re-ze ne lavarent jamez gaou noñ.
+# text_fr = 'Mais elles ne mentaient jamais.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	re-ze	Hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	lavarent	lavarout	verbe	_	_	_	_	_	Gloss=disaient
+6	jamez	james	adverbe	_	_	_	_	_	Gloss=jamais
+7	gaou	gaou	nom	_	_	_	_	_	Gloss=mensonge
+8	noñ	nann	interjection	_	_	_	_	_	Gloss=non
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gweled')__1
+# text = A:- Ne welez ket anezañ? B:- Gwelan 'vat !
+# text_fr = 'Ne le vois-tu pas ? Mais si !'
+# source = Gros (1989)
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	welez	gwelout	verbe	_	_	_	_	_	Gloss=vois
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	B:-	B:-	?	_	_	_	_	_	Gloss=
+8	Gwelan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+9	'	avat	adverbe	_	_	_	_	_	Gloss=cependant
+10	vat	vat	?	_	_	_	_	_	Gloss=?
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:69)__1
+# text = A: Ne vo ket brao an amzer ? B: Bo.
+# text_fr = 'Le temps ne sera-t-il pas beau ? - Si !'
+# source = Le Clerc (1986)
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+3	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	B:	B:	?	_	_	_	_	_	Gloss=
+10	Bo	COP	?	_	_	_	_	_	Gloss=sera
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:284)__1
+# text =   Teufint ket ?  - Eo
+# text_fr = 'A: - Ne viendront-ils pas ? / B: - Si !'
+# text_phon = ['A:-', '', "/ˌtøfiɲ '@ked/", 'B:-', '/ea/']
+1	??	??	?	_	_	_	_	_	Gloss=
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	??	??	?	_	_	_	_	_	Gloss=ne
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	Teufint	dont	verbe	_	_	_	_	_	Gloss=viendront
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7			?	_	_	_	_	_	Gloss=?
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	??	??	?	_	_	_	_	_	Gloss=
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	-	-	PUNCT	_	_	_	_	Gloss=punct
+12	Eo	Eo	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+
+# sent_id = Fagon&Riou(2015:44)__1
+# text = A:- Ne yade ket er gear ? B:- Neo er gear e yade.
+# text_fr = 'A: Il n'était pas à la maison ? / B: Si, il était à la maison.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+3	yade	COP	?	_	_	_	_	_	Gloss=était
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:-	B:-	?	_	_	_	_	_	Gloss=
+9	Neo	Neo	nom	_	_	_	_	_	Gloss=Si
+10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+12	e	e	?	_	_	_	_	_	Gloss=R
+13	yade	COP	?	_	_	_	_	_	Gloss=était
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:83)__1
+# text = A: - N'oc'h ket bet operet diouzh an "apiñdisit" ? B: - [...] Deo alato!
+# text_fr = 'A: 'Vous n'avez pas été opéré de l'appendicite ?' / B: '[...] Si, bien-sûr.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	operet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+8	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	"apiñdisit"	"apiñdisit"	?	_	_	_	_	_	Gloss=appendicite
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	B:	B:	?	_	_	_	_	_	Gloss=
+13	-	-	PUNCT	_	_	_	_	Gloss=punct
+14	[...]	[...]	?	_	_	_	_	_	Gloss=?
+15	Deo	Deo	nom	_	_	_	_	_	Gloss=si
+16	alato	alato	?	_	_	_	_	_	Gloss=bien-sûr
+17	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:51)__1
+# text = A: - N'oa ket legumaj ? B: - Eo, en tu all d'ar c'harzh.
+# text_fr = 'A: 'Il n'y avait pas de légumes ?' / B: 'Si, de l'autre côté de la haie.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	A:	A:	?	_	_	_	_	_	Gloss=
+2	-	-	PUNCT	_	_	_	_	Gloss=punct
+3	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	legumaj	legumaj	?	_	_	_	_	_	Gloss=légumes
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:	B:	?	_	_	_	_	_	Gloss=
+9	-	-	PUNCT	_	_	_	_	Gloss=punct
+10	Eo	geo	interjection	_	_	_	_	_	Gloss=si
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+13	tu	tu	nom	_	_	_	_	_	Gloss=côté
+14	all	all	?	_	_	_	_	_	Gloss=autre
+15	d'	da	préposition	_	_	_	_	_	Gloss=de
+16	ar	art	?	_	_	_	_	_	Gloss=le
+17	c'harzh	garzh	nom	_	_	_	_	_	Gloss=haie|Morph=1
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012:74)__1
+# text = A:-  dêbó-ke tout ? B:- o, debó vat !
+# text_fr = 'Il ne mangera pas tout ? - Oh, si bien sûr !'
+# source = Le Dû (2012)
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	dêbó-ke	debriñ	verbe	_	_	_	_	_	Gloss=mangera
+5	tout	ket	adverbe	_	_	_	_	_	Gloss=pas
+6			?	_	_	_	_	_	Gloss=tout
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:-	B:-	?	_	_	_	_	_	Gloss=
+9	o,	interjection	?	_	_	_	_	_	Gloss=oh
+10	debó	debriñ	verbe	_	_	_	_	_	Gloss=mangera
+11	vat	avat	adverbe	_	_	_	_	_	Gloss=bien.sûr
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012:89)__1
+# text = A:- n'êy-ke d'en œred? B:- gêy.
+# text_fr = 'A:- Il n'ira pas à la noce ? / B:- Si, il ira.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	B:-	B:-	?	_	_	_	_	_	Gloss=
+3	gêy	mont	verbe	_	_	_	_	_	Gloss=ira
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Humphreys(1995:363)__1
+# text = A:- w'èrə kə p'i:? B:- gw'èrãn.
+# text_fr = 'A:- Tu ne sais pas qui ? / B:- Si.'
+# source = Humphreys (1995)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	w'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	èrə	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	kə	piv	pronom	_	_	_	_	_	Gloss=qui
+5	p'	p'	?	_	_	_	_	_	Gloss=?
+6	i:?	i:?	?	_	_	_	_	_	Gloss=?
+7	B:-	B:-	?	_	_	_	_	_	Gloss=
+8	gw'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+9	èrãn.	èrãn.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Humphreys(1995:363)__1
+# text = A:- w'èrè kə k'als ? B:- gw'è:rè.
+# text_fr = 'A: - Il ne savait pas beaucoup? / B: - Si.'
+# source = Humphreys (1995)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	w'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+3	èrè	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	kə	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	k'	k'	?	_	_	_	_	_	Gloss=?
+6	als	als	?	_	_	_	_	_	Gloss=?
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	B:-	B:-	?	_	_	_	_	_	Gloss=
+9	gw'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+10	è:rè.	è:rè.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Humphreys(1995:363)__1
+# text = A:- ʃil'əwa kə hónón ? B:- ʃil'əwa, ʃil'əwa.
+# text_fr = 'A: - Il ne m'écoute pas ? / B: - Si, bien sûr.'
+# source = Humphreys (1995)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ʃil'	selaou	verbe	_	_	_	_	_	Gloss=écoute
+3	əwa	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	kə	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+5	hónón	hónón	?	_	_	_	_	_	Gloss=?
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	B:-	B:-	?	_	_	_	_	_	Gloss=
+8	ʃil'	selaou	verbe	_	_	_	_	_	Gloss=écoute
+9	əwa,	selaou	verbe	_	_	_	_	_	Gloss=écoute
+10	ʃil'	ʃil'	?	_	_	_	_	_	Gloss=?
+11	əwa.	əwa.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Humphreys(1995:363)__1
+# text = A:- g'uskén kət ? B:- k'uski, k'uskit.
+# text_fr = 'A: - Je ne dormirai pas ? / B: - Si, certainement.'
+# source = Humphreys (1995)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	g'	kousk	verbe	_	_	_	_	_	Gloss=dormirai
+3	uskén	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	kət	kət	?	_	_	_	_	_	Gloss=?
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	B:-	B:-	?	_	_	_	_	_	Gloss=
+7	k'	kousk	verbe	_	_	_	_	_	Gloss=dormiras
+8	uski,	kousk	verbe	_	_	_	_	_	Gloss=dormiras
+9	k'	k'	?	_	_	_	_	_	Gloss=?
+10	uskit.	uskit.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Yekel (2016:'[http://brezhonegbrovear.bzh/yezhadur.php?pajenn=goulenn_nach goulenn nac'h]')__1
+# text = Oh, hoñ ne vo ket graet, oh bo, emezon-me.
+# text_fr = 'Oh, celle-là [la route] ne se fera pas, oh si, te dis-je'
+# source2 =  Trégorrois (Bégard), R. Dollo né en 1932
+1	Oh	interjection	?	_	_	_	_	_	Gloss=Oh
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hoñ	DEM	?	_	_	_	_	_	Gloss=celle-ci
+4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	vo	COP	?	_	_	_	_	_	Gloss=sera
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	oh	interjection	?	_	_	_	_	_	Gloss=oh
+10	bo	bo	?	_	_	_	_	_	Gloss=si,
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	emezon-me	eme	préposition	_	_	_	_	_	Gloss=dis-je
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig(2010:42)__1
+# text = A:-  'Po ket un tamm bara ? B:- Bou !
+# text_fr = 'Tu ne veux pas de pain ? - Si !'
+# source = Koadig (2010)
+# texttype = Ouvrages de recherche
+1	A:-	A:-	?	_	_	_	_	_	Gloss=
+2	??	??	?	_	_	_	_	_	Gloss=ne
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	'	kaout	?	_	_	_	_	_	Gloss=auras
+5	Po	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	ket	art	adverbe	_	_	_	_	_	Gloss=un
+7	un	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	tamm	bara	nom	_	_	_	_	_	Gloss=pain
+9	bara	bara	nom	_	_	_	_	_	Gloss=?
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	B:-	B:-	?	_	_	_	_	_	Gloss=
+12	Bou	kaout	?	_	_	_	_	_	Gloss=aurai
+13	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,11 +1,11 @@
 # sent_id = Martin(1929:177)__1
 # text = Deit eo fetepans kaer.
-# text_fr =  'Elle est venue exprès.' 
+# text_fr = 'Elle est venue exprès.'
 # dialect = Cornouaillais
 # source = Martin (1929)
 # texttype = Références de corpus
 1	Deit	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	fetepans	fetepans	?	_	_	_	_	_	Gloss=exprès
-4	kaer	kaer	adjectif-adverbe	_	_	_	_	_	Gloss=beau
+4	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

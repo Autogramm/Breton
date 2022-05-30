@@ -1,0 +1,156 @@
+# sent_id = Konan(2017:64)__1
+# text = An tamm soub-se a oa chomet da zarneiñ war ma c'halon.
+# text_fr = 'Cette espèce de soupe m'était restée sur l'estomac.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	soub-se	soup	nom	_	_	_	_	_	Gloss=soupe
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	chomet	chom	verbe	_	_	_	_	_	Gloss=resté
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	zarneiñ	dar-.neuial	?.verbe	_	_	_	_	_	Gloss=pfx.nager
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+11	c'halon	c'halon	?	_	_	_	_	_	Gloss=cœur
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon(1975:§70,a)__6
+# text = nag hen zo an den dall ha kalet he galoun !
+# text_fr = 'Que l'homme est aveugle et dur de cœur !'
+# source = JKS.
+1	nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	hen	hen	?	_	_	_	_	_	Gloss=3SG
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	den	den	nom	_	_	_	_	_	Gloss=homme
+6	dall	dall	adjectif	_	_	_	_	_	Gloss=aveugle
+7	ha	&	?	_	_	_	_	_	Gloss=et
+8	kalet	kalet	?	_	_	_	_	_	Gloss=dur
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	galoun	galoun	?	_	_	_	_	_	Gloss=cœur
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'kalon')__1
+# text = C'hoarzin digalon a ra an den.
+# text_fr = 'On rit jaune.'
+# source = Gros (1989)
+1	C'	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
+2	hoarzin	hoarzin	?	_	_	_	_	_	Gloss=?
+3	digalon	di-	?	_	_	_	_	_	Gloss=sans-|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	an	IMP	?	_	_	_	_	_	Gloss=on
+7	den.	den.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArBorgn(2011:7)__8
+# text = 'Pezh koll-kalon 'vit an intañv !
+# text_fr = 'Quel abattement pour le veuf !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	'	pebezh	?	_	_	_	_	_	Gloss=quel
+2	Pezh	Pezh	?	_	_	_	_	_	Gloss=?
+3	koll-kalon	koll	verbe	_	_	_	_	_	Gloss=perte
+4	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	vit	vit	?	_	_	_	_	_	Gloss=?
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	intañv	intañv	nom	_	_	_	_	_	Gloss=veuf
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:14)__1
+# text = Douarneneziz o deus anv da vezañ distag-meurbet o c'halon ouzh ar baourentez.
+# text_fr = 'Les douarnenistes sont réputés prodigues.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	Douarneneziz	nompropre.-iz(PL.)	?.?	_	_	_	_	_	Gloss=douarnen.istes
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	anv	anv	nom	_	_	_	_	_	Gloss=nom
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+7	distag-meurbet	di-.distag.meurbet	?.?.adverbe	_	_	_	_	_	Gloss=dé.attaché.très
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	c'halon	c'halon	?	_	_	_	_	_	Gloss=cœur
+10	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=de
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	baourentez	paour	adjectif	_	_	_	_	_	Gloss=pauvr]].[[-entez|eté|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'kalon')__1
+# text = Ze, evelkent, a oa eur galonad dezi da gaoud.
+# text_fr = 'C'était tout de même un crève-cœur pour elle.'
+# source = Gros (1989)
+1	Ze	ze	?	_	_	_	_	_	Gloss=ça
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	evelkent	evelkent	adverbe	_	_	_	_	_	Gloss=tout.de.même
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	eur	art	nom	_	_	_	_	_	Gloss=un
+8	galonad	galonad.-ad	?.?	_	_	_	_	_	Gloss=1.-ée
+9	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gwellaad')__1
+# text = War he halon noaz.
+# text_fr = 'à jeun'
+# source = Gros (1989)
+1	War	war	?	_	_	_	_	_	Gloss=sur
+2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+3	halon	halon	?	_	_	_	_	_	Gloss=estomac
+4	noaz	noaz	?	_	_	_	_	_	Gloss=nu
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
+# text = Ni  c'hoarz a-greiz kalon !
+# text_fr = 'On rit à gorge déployée !'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	??	??	?	_	_	_	_	_	Gloss=R
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	c'hoarz	c'hoarzhin	?	_	_	_	_	_	Gloss=rigole
+5	a-greiz	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	kalon	kalon	nom	_	_	_	_	_	Gloss=cœur
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:33)__1
+# text = E oan a-zevri krog gant ma labour, pa glevis ur strakadenn...
+# text_fr = 'J'avais commencé à travailler de bon cœur, quand j'entendis un bruit de verre... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	E	E	?	_	_	_	_	_	Gloss=R
+2	oan	COP	nom	_	_	_	_	_	Gloss=étais
+3	a-zevri	a-zevri	adverbe	_	_	_	_	_	Gloss=résolument
+4	krog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+5	gant	gant	?	_	_	_	_	_	Gloss=avec
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	labour	labour	nom	_	_	_	_	_	Gloss=travail
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+10	glevis	klevout	verbe	_	_	_	_	_	Gloss=entendis
+11	ur	art	?	_	_	_	_	_	Gloss=un
+12	strakadenn..	onomatopée.-adenn	?.nom	_	_	_	_	_	Gloss=strak.ation
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:20)__2
+# text = Her gouzout a raen dre 'n eñvor.
+# text_fr = 'Je le savais par cœur.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Her	POP	?	_	_	_	_	_	Gloss=le
+2	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	raen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+5	dre	dre	préposition	_	_	_	_	_	Gloss=par
+6	'	art	?	_	_	_	_	_	Gloss=le
+7	n	eñvor	nom	_	_	_	_	_	Gloss=souvenir
+8	eñvor.	eñvor.	?	_	_	_	_	_	Gloss=?

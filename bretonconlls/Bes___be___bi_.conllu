@@ -1,0 +1,47 @@
+# sent_id = Herri(1982:40)__1
+# text = ar plac'h yaounak a zalc'he an nor evit beskornañ ar bilhedoù dre ma teue an dud.
+# text_fr = 'la jeune fille qui gardait la porte pour écorner les billets comme les gens entraient'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+3	yaounak	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	zalc'he	derc'hel	?	_	_	_	_	_	Gloss=gardait
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	nor	dor	nom	_	_	_	_	_	Gloss=porte
+8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+9	beskornañ	kornañ	?	_	_	_	_	_	Gloss=corner
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	bilhedoù	bilhed.-où(PL.)	?.?	_	_	_	_	_	Gloss=billet.s
+12	dre	dre	préposition	_	_	_	_	_	Gloss=par
+13	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+14	teue	dont	verbe	_	_	_	_	_	Gloss=venait
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'bestiaod')__1
+# text = Ral kaoud meried bestiaod avase.
+# text_fr = 'C'est rare de trouver des filles bègues comme ça.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Ral	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rare
+2	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+3	meried	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+4	bestiaod	teod	verbe	_	_	_	_	_	Gloss=langue
+5	avase	evel.DEM	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.ci
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(2003:51)__1
+# text = Ha paouez besteodiñ, tribledie !
+# text_fr = 'Et cesse de zézayer, nom de diable !'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesse
+3	besteodiñ	bes-.teod.-iñ	?.verbe.?	_	_	_	_	_	Gloss=double.langu.er
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	tribledie	Doue!	?	_	_	_	_	_	Gloss=triple.Dieu
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

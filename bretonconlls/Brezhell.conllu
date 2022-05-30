@@ -1,0 +1,25 @@
+# sent_id = Gros(1996:111)__1
+# text = Krog e oar da dapout toulladou brizili.
+# text_fr = 'On commence à prendre de petites quantités de maquereaux.'
+# source = Gros (1996)
+1	Krog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oar	COP.IMP	?.?	_	_	_	_	_	Gloss=était.on
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	dapout	tapout	?	_	_	_	_	_	Gloss=prendre
+6	toulladou	toullad.-où(PL.)	quantifieur.?	_	_	_	_	_	Gloss=poignée.s
+7	brizili	brizili	?	_	_	_	_	_	Gloss=maquereaux
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:22)__1
+# text = Brilli fresk... Eun diner ar vrellenn
+# text_fr = 'des maquereaux frais... un dîner de maquereau'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Brilli	Brilli	?	_	_	_	_	_	Gloss=maquereaux
+2	fresk..	fresk	nom	_	_	_	_	_	Gloss=frais
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+4	Eun	art	?	_	_	_	_	_	Gloss=un
+5	diner	diner	?	_	_	_	_	_	Gloss=dîner
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vrellenn	vrellenn	?	_	_	_	_	_	Gloss=1

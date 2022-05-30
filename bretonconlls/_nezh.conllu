@@ -1,6 +1,6 @@
 # sent_id = Drezen(1932:11)__1
 # text = Drouk-hirnez ez eus ennon hiziv d'am bro c'hleborek ha glas.
-# text_fr =  'Je me languis aujourd'hui de mon pays humide et vert.' 
+# text_fr = 'Je me languis aujourd'hui de mon pays humide et vert.'
 # source = Drezen (1932)
 # texttype = Références de corpus
 1	Drouk-hirnez	drouk-.hir	adjectif.adjectif	_	_	_	_	_	Gloss=mal-.longu
@@ -9,16 +9,16 @@
 4	ennon	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.moi
 5	hiziv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	am	POSS	?	2	_	_	_	_	Gloss=mon
+7	am	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 8	bro	bro	nom	_	_	_	_	_	Gloss=pays
-9	c'hleborek	gleb	adjectif	1	_	_	_	_	Gloss=humid]].[[-or,-our|ess]]].[[-ek|é
+9	c'hleborek	gleb	adjectif	_	_	_	_	_	Gloss=humid]].[[-or,-our|ess]]].[[-ek|é|Morph=1
 10	ha	&	?	_	_	_	_	_	Gloss=et
 11	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau (1993:'fatigue')__1
 # text = [[skuizh]].[[-entez]], n. f.
-# text_fr =  '(la) fatigue' 
+# text_fr = '(la) fatigue'
 1	[[skuizh]].[[-entez]]	[[skuizh]].[[-entez]].[[skuizh]].[[-entez]]	?.?	_	_	_	_	_	Gloss=skuizh.-der
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	n	n	?	_	_	_	_	_	Gloss=n.

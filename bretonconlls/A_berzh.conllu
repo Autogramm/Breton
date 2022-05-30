@@ -1,6 +1,6 @@
 # sent_id = Herrieu(1994:45)__1
 # text = Hiziv eh eus daet ul lizher d'ar c'hapiten, a-berzh maouez Couic [...].
-# text_fr =  'Aujourd'hui est arrivée une lettre pour le capitaine, de la part de madame Couic [...].'
+# text_fr = 'Aujourd'hui est arrivée une lettre pour le capitaine, de la part de madame Couic [...].'
 # source = Herrieu (1994)
 1	Hiziv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
 2	eh	eh	?	_	_	_	_	_	Gloss=R
@@ -10,9 +10,9 @@
 6	lizher	lizher	nom	_	_	_	_	_	Gloss=lettre
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'hapiten	kapiten	?	5	_	_	_	_	Gloss=capitaine
+9	c'hapiten	kapiten	?	_	_	_	_	_	Gloss=capitaine|Morph=5
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	a-berzh	a	préposition	1	_	_	_	_	Gloss=de
+11	a-berzh	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 12	maouez	maouez	nom	_	_	_	_	_	Gloss=femme
 13	Couic	nompropre	?	_	_	_	_	_	Gloss=Couic
 14	[...].	[...].	?	_	_	_	_	_	Gloss=?

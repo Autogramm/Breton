@@ -1,0 +1,159 @@
+# sent_id = Kervella(2002:29)__1
+# text = Mar klask repu du-se, daskorit-eñ dimp...
+# text_fr = 'Livrez-le nous si il cherche refuge chez vous... '
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+2	klask	klask	verbe	_	_	_	_	_	Gloss=cherche
+3	repu	repu	?	_	_	_	_	_	Gloss=refuge
+4	du-se	ads	?	_	_	_	_	_	Gloss=côté-là
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	daskorit-eñ	daskorit-eñ	?	_	_	_	_	_	Gloss=livrez-lui
+7	dimp..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:57)__1
+# text = Sell-hañ oh ober e borhell !
+# text_fr = 'Regarde-le faire le cochon/son gourmand !'
+# source = Gros (1984)
+1	Sell-hañ	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	oh	particuleo	?	_	_	_	_	_	Gloss=à
+3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	borhell	porc'hell	?	_	_	_	_	_	Gloss=porc
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:180)__1
+# text = Aotrou, laoskit-me da vonet àr ho komz.
+# text_fr = 'Monsieur, permettez-moi de vous interrompre.'
+# source = ar Meliner (2009)
+1	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	laoskit-me	leuskel	verbe	_	_	_	_	_	Gloss=laissez
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	vonet	mont	verbe	_	_	_	_	_	Gloss=aller
+6	àr	war	?	_	_	_	_	_	Gloss=sur
+7	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+8	komz	komz	verbe	_	_	_	_	_	Gloss=parole
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bzh5(2007:16).__2
+# text = Piv bennak e vefec'h sikourit me !
+# text_fr = 'Aidez-moi, qui que vous soyez !'
+# source = Bzh5 (2007)
+# texttype = Références de corpus
+1	Piv	piv	pronom	_	_	_	_	_	Gloss=qui
+2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vefec'h	COP	?	_	_	_	_	_	Gloss=soyez
+5	sikourit	sikour	verbe-nom	_	_	_	_	_	Gloss=aidez
+
+# sent_id = ArBorgn(2011:19)__2
+# text = Bannit-hoñ er-maez !
+# text_fr = 'Lourde-le !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Bannit-hoñ	Bannit-hoñ	?	_	_	_	_	_	Gloss=Balancez-le
+2	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:17)__1
+# text = Lez-ni ha bez fur.
+# text_fr = 'Laisse-nous et sois sage'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Lez-ni	lezel	?	_	_	_	_	_	Gloss=laisse
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	bez	bezañ	?	_	_	_	_	_	Gloss=sois
+4	fur	fur	adjectif	_	_	_	_	_	Gloss=sage
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:26)__3
+# text = Lakait-hé skoaz-doc'h-skoaz, par-doc'h-par, àr lerc'h c'hwi 'choajo.
+# text_fr = 'Mets-les épaule contre épaule, égal contre égal, après tu choisiras, i.e. compare-les, après.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Lakait-hé	lakaat	verbe	_	_	_	_	_	Gloss=mettez
+2	skoaz-doc'h-skoaz	skoaz	nom	_	_	_	_	_	Gloss=épaule
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	par-doc'h-par	par	préposition-nom	_	_	_	_	_	Gloss=égal
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	àr	war-lerc'h	?	_	_	_	_	_	Gloss=après
+7	lerc'h	pfi	?	_	_	_	_	_	Gloss=vous
+8	c'hwi	choaz	verbe	_	_	_	_	_	Gloss=choisirez
+9	'	'	?	_	_	_	_	_	Gloss=?
+10	choajo.	choajo.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bouzec&al.(2017:25)__1
+# text = Dac'het-hi ! Loch't-hoñ... Dèstume't-hè...
+# text_fr = 'Gardez-la ! Laissez-le...! Ramassez-les...!'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Dac'het-hi	derc'hel	?	_	_	_	_	_	Gloss=gardez
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Loch'	laoskel	?	_	_	_	_	_	Gloss=laissez
+4	t-hoñ...	t-hoñ...	?	_	_	_	_	_	Gloss=?
+5	Dèstume'	dastum	verbe	_	_	_	_	_	Gloss=ramassez
+6	t-hè...	t-hè...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = LeBayon(1878:51)__1
+# text = Karamb { eañ / hoñ} .
+# text_fr = 'Aimons-le.'
+# dialect = Vannetais
+# source = Le Bayon (1878)
+# texttype = Ouvrages de recherche
+1	Karamb	karout	verbe	_	_	_	_	_	Gloss=aimons
+2	{	{	?	_	_	_	_	_	Gloss=3SGM
+3	eañ	eañ	?	_	_	_	_	_	Gloss=?
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	hoñ}	hoñ}	?	_	_	_	_	_	Gloss=?
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cheveau (2007:207)  __2
+# text = na ma c'hasit ket
+# text_fr = 'Ne m'emmenez pas.'
+# text_phon = ['/nǝ', 'mǝ', 'hasǝ', 'cǝt .']
+1	na	na	?	_	_	_	_	_	Gloss=ne
+2	ma	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+3	c'hasit	kas	verbe	_	_	_	_	_	Gloss=envoyez
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+
+# sent_id = Ternes(1970:309)__1
+# text =  /greidəše n{-oŋ / -i / -aj } /
+# text_fr = 'Ne {le/la/les} crois pas !'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	n{-oŋ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui/elle/eux/elles
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	-i	-i	?	_	_	_	_	_	Gloss=?
+6	/	/	PUNCT	_	_	_	_	Gloss=punct
+7	-aj	-aj	?	_	_	_	_	_	Gloss=?
+8	}	}	?	_	_	_	_	_	Gloss=?
+9	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:195)__1
+# text = Selaouit ac'hanon / Va selaouit.
+# text_fr = 'Écoutez-moi.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Selaouit	selaou	verbe	_	_	_	_	_	Gloss=écoutez
+2	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+3	/	/	?	_	_	_	_	_	Gloss=
+4	Va	POP	?	_	_	_	_	_	Gloss=me
+5	selaouit	selaou	verbe	_	_	_	_	_	Gloss=écoutez
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§247)__1
+# text = Lennit -hañ
+# text_fr = 'Lisez-le.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Lennit	lenn	?	_	_	_	_	_	Gloss=lisez
+2	-hañ	-hañ	?	_	_	_	_	_	Gloss=-le

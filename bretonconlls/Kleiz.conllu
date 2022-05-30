@@ -1,0 +1,14 @@
+# sent_id = arBarzhig(1976:36)__2
+# text = Darn a red a-gleiz, darn all a-zehou...
+# text_fr = 'Certains courent à gauche, d'autres à droite.'
+# location = Kaouenneg
+# source = ar Barzhig (1976)
+1	Darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	red	redek	verbe	_	_	_	_	_	Gloss=court
+4	a-gleiz	a	préposition	_	_	_	_	_	Gloss=à
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
+7	all	all	?	_	_	_	_	_	Gloss=autre
+8	a-zehou..	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

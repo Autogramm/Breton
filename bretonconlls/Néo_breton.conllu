@@ -1,0 +1,15 @@
+# sent_id = Favereau(1997:§200)__1
+# text = memes priz ([[gant]] / [[C.ha(g)|hag]] / *[[evel]]/ *[[eget]]) ar fuel
+# text_fr = '(de) même prix que le fuel.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+2	priz	priz	nom	_	_	_	_	_	Gloss=prix
+3	([[gant]]	([[gant]]	?	_	_	_	_	_	Gloss=que
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	[[C.ha(g)|hag]]	[[C.ha(g)|hag]]	?	_	_	_	_	_	Gloss=?
+6	/	/	PUNCT	_	_	_	_	Gloss=punct
+7	*[[evel]]/	*[[evel]]/	?	_	_	_	_	_	Gloss=?
+8	*[[eget]])	*[[eget]])	?	_	_	_	_	_	Gloss=?
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	fuel	fuel	?	_	_	_	_	_	Gloss=fuel

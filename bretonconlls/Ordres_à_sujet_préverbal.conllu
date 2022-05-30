@@ -1,0 +1,679 @@
+# sent_id = Louis(2015:198)__1
+# text = Yann a aesay doc'h ar grip.
+# text_fr = 'Yann guérira de la grippe.'
+# dialect = Vannetais
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	aesay	aesay	?	_	_	_	_	_	Gloss=guérira
+4	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	grip	grip	?	_	_	_	_	_	Gloss=grippe
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:531)__1
+# text = Ar gaozerien vrao alïez a vez kanaillez.
+# text_fr = 'Les beaux parleurs sont souvent des canailles.'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	gaozerien	kaojeal	?	_	_	_	_	_	Gloss=parl]].[[-erien|eurs]]_[[1|Morph=1
+3	vrao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	alïez	alies	adverbe	_	_	_	_	_	Gloss=souvent
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	kanaillez	kanaillez	?	_	_	_	_	_	Gloss=canaille
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros (1970b:§'neuz')__1
+# text = C'hwi na reot ket gwelloh neuz evid evel-se goude beza seh ?
+# text_fr = (en s'adressant au bois de chauffage)
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi	hwi	?	_	_	_	_	_	Gloss=?
+3	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+4	reot	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferez
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=meilleur
+7	neuz	neuz	préposition	_	_	_	_	_	Gloss=figure
+8	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+9	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+10	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+11	beza	beza	?	_	_	_	_	_	Gloss=être
+12	seh	sec'h	?	_	_	_	_	_	Gloss=sec
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Urien(1989:211)__1
+# text = Toud ar rehier … a lavarfed ez int bet savet gwechall.
+# text_fr = 'Il a été dit que les pierres ont été dressées il y a longtemps.'
+# source = Urien (1989)
+# texttype = Ouvrages de recherche
+1	Toud	Toud	?	_	_	_	_	_	Gloss=tout
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	rehier	roc'h.plurielinterne	?.?	_	_	_	_	_	Gloss=pierre.s
+4	…	…	?	_	_	_	_	_	Gloss=?
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	lavarfed	lavarout.IMP	verbe.?	_	_	_	_	_	Gloss=dirait.on
+7	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
+8	int	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	savet	sevel	verbe	_	_	_	_	_	Gloss=dressé
+11	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Madeg(1990:10)__1
+# text = Pa'z eo gwir [ Job [ a veze poent lein bemdeiz [ a-benn ma  save _ diouz e wele ]]].
+# text_fr = 'Comme il est vrai que Job se levait chaque jour à l'heure du déjeuner.'
+# source = Madeg Marvaillou
+1	Pa'	pa	complémenteur	_	_	_	_	_	Gloss=comme
+2	z	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+4	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=?
+5	[	[	?	_	_	_	_	_	Gloss=Job
+6	Job	Job	?	_	_	_	_	_	Gloss=?
+7	[	[	?	_	_	_	_	_	Gloss=R
+8	a	COP	préposition	_	_	_	_	_	Gloss=était
+9	veze	veze	?	_	_	_	_	_	Gloss=?
+10	poent	poent	nom	_	_	_	_	_	Gloss=moment
+11	lein	lein	nom	_	_	_	_	_	Gloss=déjeuner
+12	bemdeiz	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+13	[	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+14	a-benn	ma	complémenteur	_	_	_	_	_	Gloss=que
+15	ma	sevel	verbe	_	_	_	_	_	Gloss=levait
+16			PUNCT	_	_	_	_	Gloss=punct
+17	save	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+18	_	gwele	nom	_	_	_	_	_	Gloss=lit
+19	diouz	diouz	?	_	_	_	_	_	Gloss=?
+20	e	e	?	_	_	_	_	_	Gloss=?
+21	wele	wele	?	_	_	_	_	_	Gloss=?
+22	]]].	]]].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Borsley&Stephens(1989:421)__2
+# text = An dud a oa _ paour hag a c'houlenne _ an aluzenn.
+# text_fr = 'Les gens étaient pauvres et demandaient l'aumône.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	_	_	?	_	_	_	_	_	Gloss=?
+6	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+7	hag	&	?	_	_	_	_	_	Gloss=et
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	c'houlenne	goulenn	verbe	_	_	_	_	_	Gloss=demandait
+10	_	_	?	_	_	_	_	_	Gloss=?
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	aluzenn	aluzenn	nom	_	_	_	_	_	Gloss=aumône
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Borsley&Stephens(1989:422)__1
+# text = An dud ne lavarent _ netra met a chome _ sioul.
+# text_fr = 'Les gens ne disaient rien mais restaient tranquilles.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	lavarent	lavarout	verbe	_	_	_	_	_	Gloss=disaient
+5	_	_	?	_	_	_	_	_	Gloss=?
+6	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	chome	chom	verbe	_	_	_	_	_	Gloss=restait
+10	_	_	?	_	_	_	_	_	Gloss=?
+11	sioul	sioul	adjectif	_	_	_	_	_	Gloss=tranquille
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:129)__1
+# text = En den  gèrzè taw gis taw.
+# text_fr = 'On marchait comme d'habitude.'
+1	En	En	complémenteur	_	_	_	_	_	Gloss=An
+2	den	den	nom	_	_	_	_	_	Gloss=nen
+3	??	??	préposition	_	_	_	_	_	Gloss=a
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	gèrzè	gèrzè	?	_	_	_	_	_	Gloss=gerzhe
+6	taw	taw	adverbe	_	_	_	_	_	Gloss=atav
+7	gis	gis	préposition	_	_	_	_	_	Gloss=e-giz
+8	taw	taw	adverbe	_	_	_	_	_	Gloss=atav
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__23
+# text = Ma houezan e veho avel Nort, me a saro ar bouliji.
+# text_fr = 'Si je sais qu'il y aura du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	e	avel	nom	_	_	_	_	_	Gloss=vent
+2	veho	veho	?	_	_	_	_	_	Gloss=?
+3	avel	avel	nom	_	_	_	_	_	Gloss=Nord
+4	me	art	?	_	_	_	_	_	Gloss=le
+5	a	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+6	saro	saro	nom	_	_	_	_	_	Gloss=?
+
+# sent_id = Briant-Cadiou(1998:5)__1
+# text = Al labourioù a veze heñvel bep bloaz.
+# text_fr = 'Les travaux était semblables chaque année.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	labourioù	labourioù	?	_	_	_	_	_	Gloss=travaux
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	heñvel	heñvel	?	_	_	_	_	_	Gloss=pareil
+6	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+7	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Borsley&Stephens(1989:417)__2
+# text = Ar bik a c'hellfe kregiñ en e skouarn.
+# text_fr = 'Il pourrait décider de se marier.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bik	pik	nom	_	_	_	_	_	Gloss=pie|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	c'hellfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
+5	kregiñ	kregiñ	verbe	_	_	_	_	_	Gloss=mordre
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	skouarn	skouarn	nom	_	_	_	_	_	Gloss=oreille
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  Grec moderne, Alexiadou et Anagnostopoulou (1998)__1
+# text = a. Kapios fititis stihiothetise  kathe arthro  ''(uniquement [[portée]] large)
+# text_fr = 'Un étudiant a rangé chaque article.'
+1	a	a	préposition	_	_	_	_	_	Gloss=b.
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	Kapios	Kapios	?	_	_	_	_	_	Gloss=
+4	fititis	fititis	?	_	_	_	_	_	Gloss=?
+5	stihiothetise	stihiothetise	?	_	_	_	_	_	Gloss=Stihiothetise
+6	kathe	kathe	?	_	_	_	_	_	Gloss=kathe
+7	arthro	arthro	?	_	_	_	_	_	Gloss=arthro
+8	??	??	?	_	_	_	_	_	Gloss=
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	'	'	?	_	_	_	_	_	Gloss=portée
+11	'	'	?	_	_	_	_	_	Gloss=ambigüe,
+12	(uniquement	(uniquement	?	_	_	_	_	_	Gloss=large
+13	[[portée]]	[[portée]]	?	_	_	_	_	_	Gloss=ou
+14	large)	large)	?	_	_	_	_	_	Gloss=restreinte)
+
+# sent_id = Jouitteau (2005/2010:172,3) __1
+# text = a. Ur studier   bennak neus renket  pep pennad.   ''([[portée]] ambigüe, large ou restreinte)
+# text_fr = 'Un étudiant a rangé chaque article.'
+1	a	a	préposition	_	_	_	_	_	Gloss=b.
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	Ur	Ur	?	_	_	_	_	_	Gloss=
+4	studier	studier	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6			PUNCT	_	_	_	_	Gloss=punct
+7	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=?
+8	neus	neus	?	_	_	_	_	_	Gloss=Renket
+9	renket	renket	?	_	_	_	_	_	Gloss=neus
+10	pep	pep	quantifieur	_	_	_	_	_	Gloss=pep
+11	pennad	pennad	nom	_	_	_	_	_	Gloss=pennad.
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+13	??	??	?	_	_	_	_	_	Gloss=
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+15	??	??	?	_	_	_	_	_	Gloss=
+16	?	?	PUNCT	_	_	_	_	Gloss=punct
+17	'	'	?	_	_	_	_	_	Gloss=portée
+18	'	'	?	_	_	_	_	_	Gloss=ambigüe,
+19	([[portée]]	([[portée]]	?	_	_	_	_	_	Gloss=large
+20	ambigüe,	ambigüe,	?	_	_	_	_	_	Gloss=ou
+21	large	large	?	_	_	_	_	_	Gloss=restreinte)
+22	ou	ou	?	_	_	_	_	_	Gloss=?
+23	restreinte)	restreinte)	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Scaër/Bannalec,H.Gaudart(05/2016)__1
+# text = Brom (ur banniel bennak) hich (ur banniel bennak) war pep ti-ker.
+# text_fr = 'Un drapeau quelconque flotte sur chaque mairie.'
+# dialect = Cornouaillais
+# source = H. Gaudart (05/2016)
+# texttype = Élicitations
+1	Brom	breman	?	_	_	_	_	_	Gloss=maintenant
+2	(ur	art	?	_	_	_	_	_	Gloss=un
+3	banniel	banniel	nom	_	_	_	_	_	Gloss=drapeau
+4	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+5	hich	hich	?	_	_	_	_	_	Gloss=flotte
+6	(ur	art	?	_	_	_	_	_	Gloss=un
+7	banniel	banniel	nom	_	_	_	_	_	Gloss=drapeau
+8	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+9	war	war	?	_	_	_	_	_	Gloss=sur
+10	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+11	ti-ker	ti	nom	_	_	_	_	_	Gloss=maison
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ar friko-mañ a zo deuet da ger. Ur servicher en deus renket pep taol. (17 servicher)
+# text_fr = 'Ce mariage a occasionné des frais insensés. Il y avait un serveur par table pour ranger!'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	friko-mañ	friko	nom	_	_	_	_	_	Gloss=dîner
+3	a	zo	préposition	_	_	_	_	_	Gloss=est
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	ger	ker	adjectif	_	_	_	_	_	Gloss=cher
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	Ur	art	?	_	_	_	_	_	Gloss=un
+10	servicher	servicher	?	_	_	_	_	_	Gloss=serveur
+11	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+12	deus	kaout	?	_	_	_	_	_	Gloss=a
+13	renket	renkañ	verbe	_	_	_	_	_	Gloss=rangé
+14	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+15	taol	taol(F.)	?	_	_	_	_	_	Gloss=table
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:104)__2
+# text = An anderù e avansé. Hei e huilas un din i tunet.
+# text_fr = 'L'après-midi avançait. Elle vit un homme venir.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	anderù	abardaez	?	_	_	_	_	_	Gloss=après.midi
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	avansé	avansé	?	_	_	_	_	_	Gloss=avançait
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	Hei	pfi	?	_	_	_	_	_	Gloss=elle
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+8	huilas	gwelout	verbe	_	_	_	_	_	Gloss=vit
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	din	den	nom	_	_	_	_	_	Gloss=homme
+11	i	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	tunet	dont	verbe	_	_	_	_	_	Gloss=venir
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:104)__4
+# text = Hei e zaùas doh i lih hag i ya betag-zon.
+# text_fr = 'Elle se leva de sa cachette et alla vers lui.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Hei	pfi	?	_	_	_	_	_	Gloss=elle
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+3	zaùas	sevel	verbe	_	_	_	_	_	Gloss=leva
+4	doh	diouzh	préposition	_	_	_	_	_	Gloss=de
+5	i	POSS	?	_	_	_	_	_	Gloss=son
+6	lih	lec'h	?	_	_	_	_	_	Gloss=lieu
+7	hag	&	?	_	_	_	_	_	Gloss=et
+8	i	i	?	_	_	_	_	_	Gloss=R
+9	ya	mont	verbe	_	_	_	_	_	Gloss=va
+10	betag-zon	betek.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=jusqu'@à.lui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:100)__2
+# text = Ha  gerzhan ket hoeh founab ehouolh.
+# text_fr = 'Et je ne marche pas encore assez vite.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	gerzhan	kerzhout	verbe	_	_	_	_	_	Gloss=marche
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	hoeh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+7	founab	founnapl	?	_	_	_	_	_	Gloss=vite
+8	ehouolh	awalc'h	?	_	_	_	_	_	Gloss=assez
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Quéré(2011:117)__2
+# text = P'on klañ me chom e ma gulé.
+# text_fr = 'Quand je suis malade, je reste au lit.'
+# location = Plaudren
+# source = Quéré (2011)
+# texttype = Ouvrages de recherche
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	on	COP	?	_	_	_	_	_	Gloss=suis
+3	klañ	klañv	adjectif	_	_	_	_	_	Gloss=malade
+4	me	pfi	?	_	_	_	_	_	Gloss=moi
+5	chom	chom	verbe	_	_	_	_	_	Gloss=reste
+6	e	P.e	?	_	_	_	_	_	Gloss=en
+7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	gulé	gwele	nom	_	_	_	_	_	Gloss=lit
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Quéré(2011:118)__1
+# text = Pa sonen rah en dud e grolle.
+# text_fr = 'Quand je chantais, tout le monde dansait.'
+# location = Plaudren
+# source = Quéré (2011)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	sonen	seniñ	?	_	_	_	_	_	Gloss=chantais
+3	rah	rac'h	?	_	_	_	_	_	Gloss=tous
+4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+7	grolle	grolle	?	_	_	_	_	_	Gloss=dansait
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Quéré(2011:118)__1
+# text = Ha ma kargen ket mat me zad e skoé un taul ar er pen de mem bah.
+# text_fr = 'Et si je ne chargeais pas bien, mon père me donnait un coup sur le bout de mon bâton.'
+# location = Plaudren
+# source = Quéré (2011)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+3	kargen	kargañ	verbe	_	_	_	_	_	Gloss=chargeais
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	zad	tad	nom	_	_	_	_	_	Gloss=père
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	skoé	skeiñ	verbe	_	_	_	_	_	Gloss=tapait
+10	un	art	?	_	_	_	_	_	Gloss=un
+11	taul	taol(M.)	?	_	_	_	_	_	Gloss=coup
+12	ar	war	?	_	_	_	_	_	Gloss=sur
+13	er	art	?	_	_	_	_	_	Gloss=le
+14	pen	penn	nom	_	_	_	_	_	Gloss=bout
+15	de	deus	?	_	_	_	_	_	Gloss=de
+16	mem	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+17	bah	bazh	nom	_	_	_	_	_	Gloss=bâton
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__32
+# text = Pese maouez ar vugale o deus ket gwelet deac’h ?
+# text_fr = 'Quelle femme est-ce que les enfants n’ont pas vu hier ?'
+# source = M-L.B (10/2018)
+1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
+2	maouez	maouez	nom	_	_	_	_	_	Gloss=femme
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+5	o	o	?	_	_	_	_	_	Gloss=3PL
+6	deus	kaout	?	_	_	_	_	_	Gloss=a
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+9	deac’h	dec'h	?	_	_	_	_	_	Gloss=hier
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__1
+# text = Pese bugale (ar plac’hig) a lavar (ar plac’hig) o deus gwelet ar vaouez?
+# text_fr = 'Quels enfants est-ce que la fillette a dit qui ont vu la femme ?'
+# source = M-L.B (10/2018)
+1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
+2	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+3	(ar	art	?	_	_	_	_	_	Gloss=le
+4	plac’hig)	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dit
+7	(ar	art	?	_	_	_	_	_	Gloss=le
+8	plac’hig)	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
+9	o	o	?	_	_	_	_	_	Gloss=3PL
+10	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger(2004a:142)__1
+# text = te tøs gɥɛl peze mɔ̃ ma dø hãn bʁas.
+# text_fr = 'As-tu vu de quelle sorte il est devenu grand lui ?'
+# source = Avezard-Roger (2004a)
+# texttype = Ouvrages de recherche
+1	te	pfi	?	_	_	_	_	_	Gloss=toi
+2	tøs	kaout	?	_	_	_	_	_	Gloss=as
+3	gɥɛl	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+4	peze	peseurt	?	_	_	_	_	_	Gloss=quel
+5	mɔ̃	mod	préposition	_	_	_	_	_	Gloss=mode
+6	ma	ema	complémenteur	_	_	_	_	_	Gloss=est
+7	dø	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+8	hãn	pfi	?	_	_	_	_	_	Gloss=lui
+9	bʁas	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = Me meus kalz ael ba ma gof.
+# text_fr = 'J’ai un de ces gargouillements dans le ventre !'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	meus	kaout	?	_	_	_	_	_	Gloss=a
+3	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+4	ael	avel	nom	_	_	_	_	_	Gloss=vent
+5	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+7	gof	kof	nom	_	_	_	_	_	Gloss=ventre
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__41
+# text = Ah bah ndrahe hat ! Me meus hanoc’h va ma du dehou.
+# text_fr = 'Ça alors, je vous ai à ma droite, en fait.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ah	interjection	?	_	_	_	_	_	Gloss=ahbah
+2	bah	bah	?	_	_	_	_	_	Gloss=?
+3	ndrahe	tra	nom	_	_	_	_	_	Gloss=chose]].[[DEM|ci|Morph=1
+4	hat	avat	adverbe	_	_	_	_	_	Gloss=mais
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Me	pfi	?	_	_	_	_	_	Gloss=moi
+7	meus	kaout	?	_	_	_	_	_	Gloss=a
+8	hanoc’h	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
+9	va	war	?	_	_	_	_	_	Gloss=sur
+10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+11	du	tu	nom	_	_	_	_	_	Gloss=côté
+12	dehou	dehou	?	_	_	_	_	_	Gloss=droit
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__19
+# text = Ah bah ndrahe hat ! C'hwi zo va ma du dehou.
+# text_fr = 'Ça alors, je vous ai à ma droite, en fait.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ah	interjection	?	_	_	_	_	_	Gloss=ahbah
+2	bah	bah	?	_	_	_	_	_	Gloss=?
+3	ndrahe	tra	nom	_	_	_	_	_	Gloss=chose]].[[DEM|ci|Morph=1
+4	hat	avat	adverbe	_	_	_	_	_	Gloss=mais
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	C'	pfi	?	_	_	_	_	_	Gloss=vous
+7	hwi	hwi	?	_	_	_	_	_	Gloss=?
+8	zo	zo	?	_	_	_	_	_	Gloss=est
+9	va	war	?	_	_	_	_	_	Gloss=sur
+10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+11	du	tu	nom	_	_	_	_	_	Gloss=côté
+12	dehou	dehou	?	_	_	_	_	_	Gloss=droit
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__48
+# text = An dud memestra a en em blije en Eusa.
+# text_fr = 'On se plaisait à Ouessant.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	memestra	memestra	adverbe	_	_	_	_	_	Gloss=tout.de.même
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+6	em	em	?	_	_	_	_	_	Gloss=?
+7	blije	plijout	verbe	_	_	_	_	_	Gloss=plaisait
+8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+9	Eusa	nompropre	?	_	_	_	_	_	Gloss=Ouessant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:223)__1
+# text = Me 'zoñj an dud a zo heñvel e pep bro.
+# text_fr = 'Je pense que les gens sont partout pareils.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	'	soñjal	verbe	_	_	_	_	_	Gloss=pense
+2	zoñj	zoñj	?	_	_	_	_	_	Gloss=?
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	heñvel	heñvel	?	_	_	_	_	_	Gloss=pareil
+8	e	P.e	?	_	_	_	_	_	Gloss=en
+9	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+10	bro	bro	nom	_	_	_	_	_	Gloss=pays
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:39)__1
+# text = Gwechall ar chase a oa miret hepken evid an dud pinvidig.
+# text_fr = 'Autrefois, la chasse était réservée aux riches.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	chase	chase	?	_	_	_	_	_	Gloss=chasse
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	miret	mirout	verbe	_	_	_	_	_	Gloss=gardé
+7	hepken	hepken	adverbe	_	_	_	_	_	Gloss=seulement
+8	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+11	pinvidig	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:64)__1
+# text = Er bloavezh 1893, me a ranke mont d'ar c'hazarn da ober 28 devezh.
+# text_fr = 'En 1893, je devais aller à la caserne faire 28 jours.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	bloavezh	bloaz.-vezh	nom.nom	_	_	_	_	_	Gloss=ann.ée
+3	1893	1893	?	_	_	_	_	_	Gloss=1893
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	me	pfi	?	_	_	_	_	_	Gloss=moi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	ranke	rankout	verbe	_	_	_	_	_	Gloss=devais
+8	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	c'hazarn	c'hazarn	?	_	_	_	_	_	Gloss=5
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+14	28	28	?	_	_	_	_	_	Gloss=28
+15	devezh	-vezh	nom	_	_	_	_	_	Gloss=ée
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kernaudour (2017:7, 10)__1
+# text = Eno c'hwi a vevo disoursi
+# text_fr = 'Vous vivrez là-bas sans souci.'
+# text_phon = ['eno', 'chui', 'aueuo', 'disoursi']
+1	Eno	eno	?	_	_	_	_	_	Gloss=là
+2	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	vevo	bevañ	verbe	_	_	_	_	_	Gloss=vivra
+5	disoursi	di-	?	_	_	_	_	_	Gloss=sans
+
+# sent_id = Giraudon(2014:11)__1
+# text = Ar venajerien a oa mad d'ar beorien.
+# text_fr = 'Les fermiers étaient bons envers les pauvres.'
+# dialect = Trégorrois
+# source = Giraudon (2014)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	venajerien	venajerien	?	_	_	_	_	_	Gloss=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	beorien	beorien	?	_	_	_	_	_	Gloss=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:17)__3
+# text = Ma fenn a zo pounner ha gwan eo man divhar.
+# text_fr = 'Ma tête est lourde et faibles sont mes jambes.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	fenn	penn	nom	_	_	_	_	_	Gloss=tête
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	pounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	gwan	gwan	adjectif	_	_	_	_	_	Gloss=faible
+8	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	man	POSS	?	_	_	_	_	_	Gloss=mon
+
+# sent_id = Riec,MonaBouzeg,c.p.(01/2009)__1
+# text = An nen ne oar ket bepred.
+# text_fr = 'On ne sait pas toujours.'
+1	An	IMP	?	_	_	_	_	_	Gloss=on
+2	nen	nen	?	_	_	_	_	_	Gloss=?
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riec,MonaBouzeg__1
+# text = Ma zud-kozh ne ouie poz galleg ebet.
+# text_fr = 'Mes grand-parents ne parlaient pas un mot de français.'
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	zud-kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+5	poz	poz	nom	_	_	_	_	_	Gloss=parole
+6	galleg	galleg	nom	_	_	_	_	_	Gloss=français
+7	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:395)__1
+# text = la 'n heni 'nihe ràet on dra d'ar zant nihe bet tri.
+# text_fr = '... que celui qui donnerait une chose au saint en recevrait trois.'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+2	'	art	?	_	_	_	_	_	Gloss=le
+3	n	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	heni	heni	?	_	_	_	_	_	Gloss=?
+5	'	kaout	?	_	_	_	_	_	Gloss=aurait
+6	nihe	nihe	?	_	_	_	_	_	Gloss=?
+7	ràet	reiñ	verbe	_	_	_	_	_	Gloss=donné
+8	on	art	?	_	_	_	_	_	Gloss=un
+9	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+10	d'	da	préposition	_	_	_	_	_	Gloss=pour
+11	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+12	zant	sant	nom	_	_	_	_	_	Gloss=saint
+13	nihe	kaout	?	_	_	_	_	_	Gloss=aurait
+14	bet	kaout	?	_	_	_	_	_	Gloss=eu
+15	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = Pa an dud o deus ur friad, eo mat  evañ ur banne gwin tomm.
+# text_fr = 'Quand on a un rhume, on doit boire un verre de vin chaud.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+4	o	o	?	_	_	_	_	_	Gloss=3PL
+5	deus	kaout	?	_	_	_	_	_	Gloss=ont
+6	ur	art	?	_	_	_	_	_	Gloss=un
+7	friad	fri.-ad	nom.?	_	_	_	_	_	Gloss=nez.ée
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+11	??	??	?	_	_	_	_	_	Gloss=PRO
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+13	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
+14	ur	art	?	_	_	_	_	_	Gloss=un
+15	banne	banne	?	_	_	_	_	_	Gloss=verrée
+16	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
+17	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

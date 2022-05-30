@@ -1,0 +1,11 @@
+# sent_id = ArMerser(2009:§'war-var')__1
+# text = Chomet eo war-var an dour.
+# text_fr = 'Il est resté à la surface de l'eau.'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	Chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	war-var	war-var	préposition	_	_	_	_	_	Gloss=sur
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dour	dour	nom	_	_	_	_	_	Gloss=eau
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

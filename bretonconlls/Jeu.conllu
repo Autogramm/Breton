@@ -1,0 +1,17 @@
+# sent_id = Gros(1989:'jeu')__1
+# text = A-revr emañ ma jeu ganin, toud emañ ma zraoù d'ober.
+# text_fr = 'Mon travail est en retard, tout mon ouvrage reste à faire.'
+# source = Gros (1989)
+1	A-revr	a	préposition	_	_	_	_	_	Gloss=à
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	jeu	jeu	nom	_	_	_	_	_	Gloss=affaire
+5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	toud	toud	?	_	_	_	_	_	Gloss=tout
+8	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	zraoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+11	d'	da	préposition	_	_	_	_	_	Gloss=à
+12	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

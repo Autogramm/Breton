@@ -1,0 +1,12 @@
+# sent_id = SuédoisdeFinlande,Holmberg(GIST)__1
+# text = Nog vet jag (*inte ) vad han vill.
+# text_fr = 'Crois-moi, je sais ce qu'il veut.'
+1	Nog	Nog	?	_	_	_	_	_	Gloss=NOG
+2	vet	vet	?	_	_	_	_	_	Gloss=sais
+3	jag	jag	?	_	_	_	_	_	Gloss=je
+4	(*inte	(*inte	?	_	_	_	_	_	Gloss=NEG
+5	)	)	?	_	_	_	_	_	Gloss=?
+6	vad	vad	?	_	_	_	_	_	Gloss=quoi
+7	han	han	?	_	_	_	_	_	Gloss=il
+8	vill	vill	?	_	_	_	_	_	Gloss=veut
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,83 @@
+# sent_id = Gros(1984:158)__1
+# text = M-eus aon e ya d'ober eun tamm barr c'hoaz.
+# text_fr = 'Je crois qu'il va faire encore une petite averse.'
+# source = Gros (1984)
+1	M-eus	meusaon	?	_	_	_	_	_	Gloss=selon.moi
+2	aon	aon	nom	_	_	_	_	_	Gloss=?
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	ya	mont	verbe	_	_	_	_	_	Gloss=va
+5	d'	da	préposition	_	_	_	_	_	Gloss=de
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	eun	art	?	_	_	_	_	_	Gloss=un
+8	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+9	barr	barr	nom	_	_	_	_	_	Gloss=averse
+10	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:135)__1
+# text = Gand se am eus diêzamant, gant ar barriou am-bez.
+# text_fr = 'Avec cela j'ai de la souffrance, avec les crises que j'ai.'
+# source = Gros (1984)
+1	Gand	gant	?	_	_	_	_	_	Gloss=avec
+2	se	se	pronom	_	_	_	_	_	Gloss=ça
+3	am	am	?	_	_	_	_	_	Gloss=R
+4	eus	kaout	?	_	_	_	_	_	Gloss=a
+5	diêzamant	diaes.-amant	adjectif.?	_	_	_	_	_	Gloss=diffic.ulté
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	gant	gant	?	_	_	_	_	_	Gloss=avec
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	barriou	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+10	am-bez	am-bez	?	_	_	_	_	_	Gloss=R
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:29)__1
+# text = Degas't ho harz-glav ganeoc'h betegoût ma teuio ar barrad.
+# text_fr = 'Prenez votre parapluie, au cas où il viendrait une averse.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Degas'	degas	verbe	_	_	_	_	_	Gloss=apportez
+2	t	t	?	_	_	_	_	_	Gloss=?
+3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	harz-glav	herzel	?	_	_	_	_	_	Gloss=stoppe
+5	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+6	betegoût	betegout	complémenteur	_	_	_	_	_	Gloss=au.cas.où
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+8	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	barrad	-ad	?	_	_	_	_	_	Gloss=ée
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1957:'barraoui')__1
+# text = Dond a ray an amzer, am-eus aon, da varraoui a-raog an noz.
+# text_fr = 'Je pense que le temps tournera à l'averse avant la nuit.'
+# source = Le Gall (1957)
+1	Dond	dont	verbe	_	_	_	_	_	Gloss=venir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ray	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	am-eus	am-eus	?	_	_	_	_	_	Gloss=[[meusaon|je
+8	aon	aon	nom	_	_	_	_	_	Gloss=pense]]]
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	varraoui	-où(PL.).-iñ	?.?	_	_	_	_	_	Gloss=s.er
+12	a-raog	araok	?	_	_	_	_	_	Gloss=avant
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__2
+# text = Deuet tomm din ken a oa, HaHa !
+# text_fr = 'J'ai eu un coup de chaud, ahlala !' (tellement ! si tu savais !)
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	Deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+2	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
+3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	,	,	PUNCT	_	_	_	_	Gloss=punct

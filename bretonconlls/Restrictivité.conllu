@@ -1,0 +1,122 @@
+# sent_id = Nicolas (2005:48)  __4
+# text = an den an hani 'zo er voatur  'zo é chom er vourc'h
+# text_fr = 'L'homme qui est dans la voiture habite dans le bourg.'
+# text_phon = ['[ ǝn dɛ͂n', '[ ǝnani', 'zi', ':r', 'vwatyr', ']', 'zi ʃom', 'irvɔrh ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hani	hani	?	_	_	_	_	_	Gloss=hini
+5	'	'	?	_	_	_	_	_	Gloss=R
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	voatur	voatur	?	_	_	_	_	_	Gloss=1
+9	??	??	?	_	_	_	_	_	Gloss=
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	'	'	?	_	_	_	_	_	Gloss=R
+12	zo	chom	verbe	_	_	_	_	_	Gloss=rester|Morph=4
+13	é	é	?	_	_	_	_	_	Gloss=?
+14	chom	chom	verbe	_	_	_	_	_	Gloss=?
+15	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+16	vourc'h	bourk	?	_	_	_	_	_	Gloss=bourg|Morph=1
+
+# sent_id = Guilliot(2006:1890)__1
+# text = [ Poltred-mañ [[nom propre|Yann]]  [ Ø en deus ''pro''<sub>''i''<sub> roet __<sub>''j''<sub> da Vari ] a zo bet drailhet.
+# text_fr = 'Cette photo de Yann, qu'il a donné à Marie, a été détruite.'
+# source = Guilliot (2006b)
+# texttype = Ouvrages de recherche
+1	[	[	?	_	_	_	_	_	Gloss=
+2	Poltred-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+3	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+4	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6	[	[	?	_	_	_	_	_	Gloss=?
+7	Ø	Ø	?	_	_	_	_	_	Gloss=?
+8	en	en	complémenteur	_	_	_	_	_	Gloss=R
+9	deus	kaout	?	_	_	_	_	_	Gloss=a
+10	'	'	?	_	_	_	_	_	Gloss=
+11	'	pronomvide	?	_	_	_	_	_	Gloss=pro
+12	pro'	pro'	?	_	_	_	_	_	Gloss=?
+13	'	'	?	_	_	_	_	_	Gloss=?
+14	<sub>'	<sub>'	?	_	_	_	_	_	Gloss=?
+15	'	'	?	_	_	_	_	_	Gloss=?
+16	i'	i'	?	_	_	_	_	_	Gloss=?
+17	'	'	?	_	_	_	_	_	Gloss=?
+18	<sub>	<sub>	?	_	_	_	_	_	Gloss=?
+19	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
+20	__<sub>'	__<sub>'	?	_	_	_	_	_	Gloss=?
+21	'	'	?	_	_	_	_	_	Gloss=?
+22	j'	j'	?	_	_	_	_	_	Gloss=?
+23	'	'	?	_	_	_	_	_	Gloss=?
+24	<sub>	<sub>	?	_	_	_	_	_	Gloss=?
+25	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+26	Vari	Vari	?	_	_	_	_	_	Gloss=Marie
+27	]	]	?	_	_	_	_	_	Gloss=?
+28	a	a	préposition	_	_	_	_	_	Gloss=R
+29	zo	zo	?	_	_	_	_	_	Gloss=est
+30	bet	bet	?	_	_	_	_	_	Gloss=été
+31	drailhet	drailhañ	?	_	_	_	_	_	Gloss=détruit
+32	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'krak')__1
+# text = Ar hoad pin a dorr krak.
+# text_fr = 'Le bois de pin casse net.' (avec un bruit sec)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+3	pin	pin	?	_	_	_	_	_	Gloss=pin
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	dorr	terriñ	verbe	_	_	_	_	_	Gloss=casse
+6	krak	krak	adverbe	_	_	_	_	_	Gloss=nettement
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:87)__1
+# text = evit ar bezhin troc'h.
+# text_fr = '... pour le goémon de coupe.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goémon
+4	troc'h	troc'hañ	?	_	_	_	_	_	Gloss=coupe
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guilliot(2006:1890)__1
+# text = Pep [ poltred Yann ] en deus gwelet __ a zo bet drailhet.
+# text_fr = 'Chaque photo de Yann qu'il a vu a été détruite.'
+# source = Guilliot (2006b)
+# texttype = Ouvrages de recherche
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	[	poltred	?	_	_	_	_	_	Gloss=photo
+3	poltred	nompropre	?	_	_	_	_	_	Gloss=Yann
+4	Yann	Yann	?	_	_	_	_	_	Gloss=?
+5	]	]	?	_	_	_	_	_	Gloss=?
+6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+7	__	__	?	_	_	_	_	_	Gloss=?
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	zo	zo	?	_	_	_	_	_	Gloss=est
+10	bet	bet	?	_	_	_	_	_	Gloss=été
+11	drailhet	drailhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=détru.it
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:29)__1
+# text = Sellout a reas kurius ouzh [ paotr  [ e sae wenn ] ].
+# text_fr = 'Il regarda, curieux, l'homme en robe blanche.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Sellout	sellout	verbe	_	_	_	_	_	Gloss=regarder
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	kurius	kurius	?	_	_	_	_	_	Gloss=curieux
+5	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+6	[	paotr	nom	_	_	_	_	_	Gloss=gars
+7	paotr	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8			PUNCT	_	_	_	_	Gloss=punct
+9	[	[	?	_	_	_	_	_	Gloss=?
+10	e	e	?	_	_	_	_	_	Gloss=?
+11	sae	sae	nom	_	_	_	_	_	Gloss=?
+12	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanche
+13	]	]	?	_	_	_	_	_	Gloss=?
+14	].	].	?	_	_	_	_	_	Gloss=?

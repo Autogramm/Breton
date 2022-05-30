@@ -1,0 +1,29 @@
+# sent_id = ArBarzhig(1976:27)__1
+# text = D'ar mare-se eo an hini ez ae ar maouezed d'e laerezh.
+# text_fr = 'C'est à ce moment là que les femmes allaient le voler.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	D'	da	préposition	_	_	_	_	_	Gloss=à
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	mare-se	DEM	?	_	_	_	_	_	Gloss=ci
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	ez	ez	?	_	_	_	_	_	Gloss=R
+6	ae	mont	verbe	_	_	_	_	_	Gloss=allait
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	maouezed	maouez	nom	_	_	_	_	_	Gloss=femmes
+9	d'	da	préposition	_	_	_	_	_	Gloss=à
+10	e	POP	?	_	_	_	_	_	Gloss=le|Morph=1
+11	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm (1989:367)__1
+# text =  Bep mare skrivan dezhi.
+# text_fr = 'Je lui écris de temps en temps.'
+# text_phon = ['', '/bɛp', 'ma:R', 'skxivon', 'dɛj/']
+1	??	??	?	_	_	_	_	_	Gloss=a
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Bep	bep	?	_	_	_	_	_	Gloss=chaque
+4	skrivan	skrivañ	verbe	_	_	_	_	_	Gloss=écris
+5	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

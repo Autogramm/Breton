@@ -1,0 +1,124 @@
+# sent_id = Trépos(2001:444)__1
+# text = Ne rafent ket an dra-se anezo, koulskoude !
+# text_fr = 'Ils ne feraient tout de même pas cela !'
+# source = Trépos (2001)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	rafent	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feraient
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+6	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__1
+# text = ha goulskoude me c’hall lar dit n'on ket den ebet !
+# text_fr = '… et pourtant je peux te dire que je ne suis pas personne !'
+# location = Locronan
+# source = A-M. Louboutin (02/2022)
+# texttype = Élicitations
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	goulskoude	goulskoude	?	_	_	_	_	_	Gloss=pourtant
+3	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
+5	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+6	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	on	COP	?	_	_	_	_	_	Gloss=suis
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	den	den	nom	_	_	_	_	_	Gloss=personne
+10	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(1974:121)__1
+# text = Ar marc'hadour roñseed, hag a oar e vicher koulskoude, a chomas berr da laerezh anezhañ.
+# text_fr = 'Le marchand de chevaux, qui connait pourtant son métier, n'a pu le voler.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	marc'hadour	marc'had.-our	?.?	_	_	_	_	_	Gloss=march.and
+3	roñseed	-ed(PL.)	?	_	_	_	_	_	Gloss=x
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	hag	hag	?	_	_	_	_	_	Gloss=[[haga|C
+6	a	a	préposition	_	_	_	_	_	Gloss=R]]]
+7	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	vicher	micher	nom	_	_	_	_	_	Gloss=métier
+10	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	a	a	préposition	_	_	_	_	_	Gloss=R
+13	chomas	chom	verbe	_	_	_	_	_	Gloss=resta
+14	berr	berr	adjectif	_	_	_	_	_	Gloss=court
+15	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+16	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
+17	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:74)__1
+# text = Koulskoude, ret oa din bevañ, hag ober seurt pe seurt.
+# text_fr = 'Pourtant, il me fallait me nourrir et faire quelque chose comme métier.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Koulskoude	Koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	hag	&	?	_	_	_	_	_	Gloss=et
+8	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+9	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+10	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+11	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArGow(1999:18)__1
+# text = Ha koulskoude he deus ezhomm a-walc'h da gaout un dra bennak da reiñ d'he bugale.
+# text_fr = 'Et pourtant, elle a bien besoin d'avoir quelque chose à donner à ses enfants.'
+# dialect = Cornouaillais
+# location = Pleyben
+# source = Ar Gow (1999)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=pourtant
+3	he	he	?	_	_	_	_	_	Gloss=3SGF
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+6	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+11	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	reiñ	reiñ	verbe	_	_	_	_	_	Gloss=donner
+14	d'	da	préposition	_	_	_	_	_	Gloss=à
+15	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+16	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Berthou(1985:78)__1
+# text = Ur re bennak, koulskoude, zo chomet en tier.
+# text_fr = 'Quelques-uns, cependant, sont restés dans les maisons.'
+# source = Berthou (1985)
+# texttype = Références de corpus
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	zo	COP	?	_	_	_	_	_	Gloss=est
+6	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+
+# sent_id = Croq(1908:70)__1
+# text = Nag hen a zo diod koulskoude !
+# text_fr = 'Mais qu'est-ce qu'il est bête !'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Nag	Na(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	hen	pfi	?	_	_	_	_	_	Gloss=lui
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	diod	diod	?	_	_	_	_	_	Gloss=idiot
+6	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+7	!	!	PUNCT	_	_	_	_	Gloss=punct

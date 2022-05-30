@@ -1,0 +1,25 @@
+# sent_id = LeDû(2012:44)__1
+# text = sèrten trèó, sèrten paroujou.
+# text_fr = 'Certaines choses, certaines paroisses.'
+# location = Plougrescant
+# source = Le Dû (2012)
+1	sèrten	sèrten	?	_	_	_	_	_	Gloss=certain
+2	trèó	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	sèrten	sèrten	?	_	_	_	_	_	Gloss=certain
+5	paroujou	parrez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=paroisse.s
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:34)__1
+# text = certen historiou divarben certen famillou...
+# text_fr = 'certaines histoires au sujet de familles'
+# dialect = Léonard
+# location = Lesneven
+# source = Burel (2012)
+# texttype = Références de corpus
+1	certen	certen	?	_	_	_	_	_	Gloss=certain
+2	historiou	istor.-où(PL.)	nom.?	_	_	_	_	_	Gloss=histoire.s
+3	divarben	diwar-benn	préposition	_	_	_	_	_	Gloss=à.propos
+4	certen	certen	?	_	_	_	_	_	Gloss=certain
+5	famillou..	familh.-où(PL.)	nom.?	_	_	_	_	_	Gloss=famille.s
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

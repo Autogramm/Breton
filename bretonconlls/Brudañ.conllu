@@ -1,0 +1,14 @@
+# sent_id = KeitVimpBev(1984:47)__1
+# text = Brudet bras oc'h dre amañ, 'welan !
+# text_fr = 'Tu es connu comme le loup blanc, ici, à ce que je vois !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	Brudet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+2	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grandement
+3	oc'h	COP	?	_	_	_	_	_	Gloss=es
+4	dre	dre	préposition	_	_	_	_	_	Gloss=par
+5	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	'	gwelout	verbe	_	_	_	_	_	Gloss=vois
+8	welan	welan	?	_	_	_	_	_	Gloss=?
+9	!	!	PUNCT	_	_	_	_	Gloss=punct

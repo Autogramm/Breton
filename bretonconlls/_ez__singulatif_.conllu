@@ -1,6 +1,6 @@
 # sent_id = Bouzeg(1986:II)__1
 # text = Doc'h pep troad n'eo ket mat pep botez.
-# text_fr =  'Toute chaussure n'est pas bonne à tout pied.'
+# text_fr = 'Toute chaussure n'est pas bonne à tout pied.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
@@ -11,7 +11,7 @@
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
 5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	mat	mat	adjectif-adverbe	_	_	_	_	_	Gloss=bon
+7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
 8	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 9	botez	botez	nom	_	_	_	_	_	Gloss=chaussure
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

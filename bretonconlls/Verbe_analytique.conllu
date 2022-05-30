@@ -1,0 +1,365 @@
+# sent_id = Stephens(1982:125)__1
+# text = Kollet en-deus [[nom propre|Yann]] e hent er c'hoad.
+# text_fr = 'Yann perd son chemin dans le bois.'
+# location = Bulien
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+2	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+3	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	hent	hent	nom	_	_	_	_	_	Gloss=chemin
+6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	c'hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:125)__1
+# text = Koll a ra [[nom propre|Yann]] e hent er c'hoad.
+# text_fr = 'Yann perd son chemin dans le bois.'
+# location = Bulien
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Koll	koll	verbe	_	_	_	_	_	Gloss=perdre
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	hent	hent	nom	_	_	_	_	_	Gloss=chemin
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	c'hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGléau(1973:45)__1
+# text = Bale, redek, nijal a rit-hu war-du an termen.
+# text_fr = 'Vous marchez, courez, volez vers le terme.'
+# source = SMM.
+1	Bale	bale	verbe	_	_	_	_	_	Gloss=marcher
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	redek	redek	verbe	_	_	_	_	_	Gloss=courir
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	nijal	nijal	verbe	_	_	_	_	_	Gloss=voler
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	rit-hu	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+8	war-du	war	?	_	_	_	_	_	Gloss=sur
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	termen	termen	?	_	_	_	_	_	Gloss=terme
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = Sant ' rit 'n douar ' kreno.
+# text_fr = 'Vous sentez la terre qui tremble.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Sant	santout	verbe	_	_	_	_	_	Gloss=sentir
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+5	'	art	?	_	_	_	_	_	Gloss=le
+6	n	douar	nom	_	_	_	_	_	Gloss=terre
+7	douar	douar	nom	_	_	_	_	_	Gloss=?
+8	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9			PUNCT	_	_	_	_	Gloss=punct
+10	kreno	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=trembler
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:27)__1
+# text = Kozal 'rêè ma sa' kouz brèoneg.
+# text_fr = 'Mon grand père parlait breton.'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+2	rêè	rêè	?	_	_	_	_	_	Gloss=?
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	sa'	tad	nom	_	_	_	_	_	Gloss=père
+5			PUNCT	_	_	_	_	Gloss=punct
+6	kouz	kouz	?	_	_	_	_	_	Gloss=?
+7	brèoneg	brèoneg	?	_	_	_	_	_	Gloss=breton
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger(2004a:145)__1
+# text = Met mont a ra an den skuizh.
+# text_fr = 'Mais les gens se fatiguent.'
+# source = Avezard-Roger (2004a)
+# texttype = Ouvrages de recherche
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	an	an	?	_	_	_	_	_	Gloss=[[IMP|lehomme
+6	den	den	nom	_	_	_	_	_	Gloss=(on)]]]
+7	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:444)__1
+# text = Sevel a rae an dud abretoc'h pa veze devejou.
+# text_fr = 'Les gens se levaient plus tôt les jours de corvée.'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	abretoc'h	abred.-oc'h	adverbe-adjectif.?	_	_	_	_	_	Gloss=tôt.plus
+7	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+8	veze	COP	?	_	_	_	_	_	Gloss=était
+9	devejou	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ées
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBayon(1902:84)__1
+# text = Kornal e hré en ti get é douiadelleu.
+# text_fr = 'La maison résonnait de ses jurons.'
+# source = Ar Bayon (1902)
+# texttype = Références de corpus
+1	Kornal	kornal	?	_	_	_	_	_	Gloss=corner
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	hré	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+5	ti	ti	nom	_	_	_	_	_	Gloss=maison
+6	get	gant	?	_	_	_	_	_	Gloss=avec
+7	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	douiadelleu	douiadelleu	?	_	_	_	_	_	Gloss=jurons
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1933-1942:[16/09/1914])__1
+# text = Rein e hra dein er veitouréz ul léh de seùel guélé...
+# text_fr = 'La métayère me donne un endroit pour y mettre un lit... '
+# source = Herrieu (1933-1942)
+# texttype = Références de corpus
+1	Rein	reiñ	verbe	_	_	_	_	_	Gloss=donner
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	hra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	dein	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	er	art	?	_	_	_	_	_	Gloss=le|Morph=1
+6	veitouréz	veitouréz	?	_	_	_	_	_	Gloss=métayère
+7	ul	art	?	_	_	_	_	_	Gloss=un
+8	léh	lec'h	?	_	_	_	_	_	Gloss=lieu
+9	de	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	seùel	sevel	verbe	_	_	_	_	_	Gloss=monter
+11	guélé..	gwele	nom	_	_	_	_	_	Gloss=lit
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(2011:56)__1
+# text = N'ouzon ket ha dont a raio.
+# text_fr = 'Je ne sais pas s'il viendra.'
+# source = Merser (2011)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ha	ha	nom	_	_	_	_	_	Gloss=si
+5	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:105)__1
+# text = Debriñ bgcolor=#FFDF80|ne ra ket Yann krampouezh ed-du.
+# text_fr = 'Yann ne mange pas de galettes de sarrasin.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Debriñ	debriñ	verbe	_	_	_	_	_	Gloss=manger
+2	bgcolor=#FFDF80|ne	bgcolor=#FFDF80|ne	?	_	_	_	_	_	Gloss=ne
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+6	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=galettes
+7	ed-du	ed	nom	_	_	_	_	_	Gloss=blé
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:105)__1
+# text = bgcolor=#F0FF80| Debriñ krampouezh ed-du bgcolor=#FFDF80| ne ra ket Yann.
+# text_fr = 'Yann ne mange pas de galettes de sarrasin.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	bgcolor=#F0FF80|	debriñ	verbe	_	_	_	_	_	Gloss=manger
+2	Debriñ	krampouezh	nom	_	_	_	_	_	Gloss=galettes
+3	krampouezh	ed	nom	_	_	_	_	_	Gloss=blé
+4	ed-du	ed-du	?	_	_	_	_	_	Gloss=?
+5	bgcolor=#FFDF80|	bgcolor=#FFDF80|	?	_	_	_	_	_	Gloss=ne
+6	ne	ne	?	_	_	_	_	_	Gloss=?
+7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016)__1
+# text = Kompren a ran an   traoù a lavarez. (''Alies e komprenan... '')
+# text_fr = 'Je comprends souvent ce que tu dis.'
+# dialect = Léonard
+# source = A. M. (04/2016)
+# texttype = Élicitations
+1	Kompren	Kompren	verbe	_	_	_	_	_	Gloss=comprendre
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	an	art	?	_	_	_	_	_	Gloss=le
+5			PUNCT	_	_	_	_	Gloss=punct
+6			PUNCT	_	_	_	_	Gloss=punct
+7	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=?
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	lavarez	lavarout	verbe	_	_	_	_	_	Gloss=dis
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:68)__1
+# text = Da vihana kas a ran va daou sekretour d'ho kaout...
+# text_fr = 'J'envoie au moins mes deux secrétaires vous trouver... '
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	vihana	bihan.superlatif	adverbe-quantifieur-adjectif.adjectif	_	_	_	_	_	Gloss=petit.le.plus
+3	kas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+6	va	POSS	?	_	_	_	_	_	Gloss=mon
+7	daou	cardinaux	?	_	_	_	_	_	Gloss=deux
+8	sekretour	sekretour	?	_	_	_	_	_	Gloss=secrétaire
+9	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	ho	POP	?	_	_	_	_	_	Gloss=vous|Morph=3
+11	kaout..	kavout	verbe	_	_	_	_	_	Gloss=trouver
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:103)__1
+# text = Prenañ az peus graet ur wetur nevez.
+# text_fr = 'Tu as acheté une voiture neuve.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Prenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+2	az	az	?	_	_	_	_	_	Gloss=R
+3	peus	kaout	?	_	_	_	_	_	Gloss=as
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+6	wetur	wetur	?	_	_	_	_	_	Gloss=voiture
+7	nevez	nevez	adjectif	_	_	_	_	_	Gloss=neuf
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:103)__1
+# text = Prenañ a zo graet ur wetur nevez.
+# text_fr = 'Tu as acheté une voiture neuve.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Prenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+6	wetur	wetur	?	_	_	_	_	_	Gloss=voiture
+7	nevez	nevez	adjectif	_	_	_	_	_	Gloss=neuf
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Breton1650,Nl.28__1
+# text = [ monet pront ] a gresont y.
+# text_fr = 'Eux vinrent rapidement.'
+# source = Nl.
+1	[	[	?	_	_	_	_	_	Gloss=
+2	monet	mont	verbe	_	_	_	_	_	Gloss=aller
+3	pront	pront	?	_	_	_	_	_	Gloss=promptement
+4	]	]	?	_	_	_	_	_	Gloss=?
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	gresont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+7	y.	y.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Loth(1890c:290)__1
+# text = [ Da hem maruaillaff ] a grez en bras oar an edefiç hac an artifiç en templ man...
+# text_fr = 'Tu t'émerveilles grandement sur l'édifice et l'artifice de ce temple... '
+# source = Ca.
+1	[	[	?	_	_	_	_	_	Gloss=
+2	Da	Da	préposition	_	_	_	_	_	Gloss=[[enem|(te)
+3	hem	hem	?	_	_	_	_	_	Gloss=se]]]
+4	maruaillaff	marvailh.-añ(V.)	nom.?	_	_	_	_	_	Gloss=émerveill.er
+5	]	]	?	_	_	_	_	_	Gloss=?
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	grez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+9	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	oar	war	?	_	_	_	_	_	Gloss=sur
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	edefiç	edefiç	?	_	_	_	_	_	Gloss=édifice
+13	hac	&	?	_	_	_	_	_	Gloss=et
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	artifiç	artifiç	?	_	_	_	_	_	Gloss=artifice
+16	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+17	templ	templ	?	_	_	_	_	_	Gloss=temple
+18	man..	DEM	?	_	_	_	_	_	Gloss=ci
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:'ober')__1
+# text = Debriñ a rit boued?
+# text_fr = 'Mangez-vous?'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Debriñ	debriñ	verbe	_	_	_	_	_	Gloss=manger
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(1963:§447)__1
+# text = Kana a ra [[nom propre|Yann]] "ar vatezh vihan".
+# text_fr = 'Yann chante "ar vatezh vihan".' (''la petite bonne'')
+# source = Merser (1963)
+# texttype = Ouvrages de recherche
+1	Kana	kanañ	verbe	_	_	_	_	_	Gloss=chanter
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+6	"ar	art	?	_	_	_	_	_	Gloss=le
+7	vatezh	vatezh	?	_	_	_	_	_	Gloss=1
+8	vihan"	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petite|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:189)__1
+# text = Gwelout 'ni ra Yann _  e vignonez.
+# text_fr = 'Yann VOIT son amie.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
+2	'	hini	nom-pronom	_	_	_	_	_	Gloss=focus
+3	ni	ni	?	_	_	_	_	_	Gloss=?
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	Yann	Yann	?	_	_	_	_	_	Gloss=Yann
+6	_	_	?	_	_	_	_	_	Gloss=_
+7			PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=?
+9	vignonez	mignon.-ez(F.)	nom.?	_	_	_	_	_	Gloss=ami.e
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:189)__1
+# text = Gwelout ra [[nom propre|Yann]] _  e vignonez.
+# text_fr = 'Yann voit son amie.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
+2	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+4	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+5	_	_	?	_	_	_	_	_	Gloss=_
+6			PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=?
+8	vignonez	mignon.-ez(F.)	nom.?	_	_	_	_	_	Gloss=ami.e
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:288)__1
+# text = Esae a raomp-ni ivez  distag ''Gouten tag'' ag ar gwellañ.
+# text_fr = 'Nous essayons, nous aussi, de prononcer ''Gouten tag'' de notre mieux.'
+# source = Herrieu (1994)
+1	Esae	Esae	?	_	_	_	_	_	Gloss=essayer
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	raomp-ni	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+5	??	??	?	_	_	_	_	_	Gloss=[
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	distag	distag	?	_	_	_	_	_	Gloss=prononcer
+8	'	'	?	_	_	_	_	_	Gloss='@'@Gouten
+9	'	'	?	_	_	_	_	_	Gloss=tag'@'@
+10	Gouten	Gouten	?	_	_	_	_	_	Gloss=?
+11	tag'	tag'	?	_	_	_	_	_	Gloss=?
+12	'	'	?	_	_	_	_	_	Gloss=?
+13			PUNCT	_	_	_	_	Gloss=punct
+14	ag	eus	?	_	_	_	_	_	Gloss=de

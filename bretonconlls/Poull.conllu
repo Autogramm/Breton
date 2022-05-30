@@ -1,0 +1,21 @@
+# sent_id = Gros(1984:321)__2
+# text = Er poull-ze e tlee bezañ chevr.
+# text_fr = 'Dans cette mare-là il doit y avoir des crevettes.'
+# source = Gros (1984)
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	poull-ze	DEM	?	_	_	_	_	_	Gloss=là
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	tlee	dleout	verbe	_	_	_	_	_	Gloss=doit
+5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+6	chevr	chevr	nom	_	_	_	_	_	Gloss=crevettes
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:35)__1
+# text = Oc'ho ! Ur poulladik eoul !
+# text_fr = 'Oh ! Oh ! Une flaque d'huile... '
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	poulladik	-ad.poulladik	?.?	_	_	_	_	_	Gloss=ée.DIM
+3	eoul	eoul	verbe	_	_	_	_	_	Gloss=huile
+4	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,6 +1,6 @@
 # sent_id = AnDiberder(2000:104)__1
 # text = I kreiz en di i oé tout gouleu alumet.
-# text_fr =  'Toutes (les) lumières étaient allumées en plein jour.'
+# text_fr = 'Toutes (les) lumières étaient allumées en plein jour.'
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
@@ -17,12 +17,12 @@
 
 # sent_id = Bouzec&al.(2017:386)__1
 # text = Ma bizier zo uz't dre forz gob'r pikurio dè.
-# text_fr =  'Mes doigts sont usés à force d'être piqués.' 
+# text_fr = 'Mes doigts sont usés à force d'être piqués.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	2	_	_	_	_	Gloss=mon
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 2	bizier	biz	nom	_	_	_	_	_	Gloss=doigts
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	uz'	uz'	?	_	_	_	_	_	Gloss=usé
@@ -42,9 +42,9 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	evid	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 2	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-3	da	da	préposition	1	_	_	_	_	Gloss=pour
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 4	bourmen	pourmen	verbe	_	_	_	_	_	Gloss=promener
 5	war	war	?	_	_	_	_	_	Gloss=sur
 6	an	art	?	_	_	_	_	_	Gloss=le
@@ -53,7 +53,7 @@
 
 # sent_id = Seite(1998:44)__1
 # text = eur mell gwezenn glas-kaol he deliou.
-# text_fr =  'Un grand arbres aux feuilles vert-chou'
+# text_fr = 'Un grand arbres aux feuilles vert-chou'
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
@@ -62,19 +62,19 @@
 2	mell	mell	nom	_	_	_	_	_	Gloss=grand
 3	gwezenn	gwez.-enn	nom.nom	_	_	_	_	_	Gloss=arbres.SG
 4	glas-kaol	glas	adjectif	_	_	_	_	_	Gloss=vert
-5	he	POSS	?	2	_	_	_	_	Gloss=son
+5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 6	deliou	del	nom	_	_	_	_	_	Gloss=feuilles
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:18)__1
 # text = evit ramañs ar gourlañioù...
-# text_fr =  'pour ramasser le goémon d'épave... ' 
+# text_fr = 'pour ramasser le goémon d'épave... '
 # dialect = Léonard
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 2	ramañs	ramañs	?	_	_	_	_	_	Gloss=ramasser
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gourlañioù..	gour-	?	1	_	_	_	_	Gloss=haut-
+4	gourlañioù..	gour-	?	_	_	_	_	_	Gloss=haut-|Morph=1
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

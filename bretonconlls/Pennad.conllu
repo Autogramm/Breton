@@ -1,0 +1,89 @@
+# sent_id = Briant-Cadiou(1998:198)__4
+# text = dah eno, e hellent evezia ouz eur pennad mad a vro.
+# text_fr = '...de là, ils pouvaient surveiller une bonne partie du pays.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	dah	diouzh	préposition	_	_	_	_	_	Gloss=de
+2	eno	eno	?	_	_	_	_	_	Gloss=là
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	hellent	gallout	verbe	_	_	_	_	_	Gloss=pouvaient
+6	evezia	evezia	?	_	_	_	_	_	Gloss=surveiller
+7	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+8	eur	art	nom	_	_	_	_	_	Gloss=un
+9	pennad	pennad	nom	_	_	_	_	_	Gloss=morceau
+10	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	vro	bro	nom	_	_	_	_	_	Gloss=pays
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:86)__1
+# text = An traou a yeas braoik eur pennad mat.
+# text_fr = 'Pendant un petit moment, tout alla assez bien.'
+# source = Kerrien (2000)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	yeas	mont	verbe	_	_	_	_	_	Gloss=alla
+5	braoik	brav.-ig	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.DIM
+6	eur	art	nom	_	_	_	_	_	Gloss=un
+7	pennad	pennad	nom	_	_	_	_	_	Gloss=moment
+8	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Le Dû (2012:329)__2
+# text = Me zo bet ur c'hozh pennad oc'h ober-ze.  ''Equivalent orthographique''
+# text_fr = 'Cela m'a pris longtemps.'
+# text_phon = ['/mẽ', 'zó', 'bédd', 'e hos-pênnad', 'h oo zé /']
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	c'hozh	kozh-	adjectif	_	_	_	_	_	Gloss=vieux|Morph=5
+6	pennad	pennad	nom	_	_	_	_	_	Gloss=moment
+7	??	??	?	_	_	_	_	_	Gloss=???
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	'	?	_	_	_	_	_	Gloss=???
+10	'	'	?	_	_	_	_	_	Gloss=?
+11	Equivalent	Equivalent	?	_	_	_	_	_	Gloss=?
+12	orthographique'	orthographique'	?	_	_	_	_	_	Gloss=?
+13	'	'	?	_	_	_	_	_	Gloss=?
+14			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'kalbennad')__1
+# text = Bet eo ur c'halbennad oc'h ober e dro.
+# text_fr = 'Ça lui a pris une éternité de faire son tour.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Bet	bet	?	_	_	_	_	_	Gloss=été
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	c'halbennad	c'halbennad	?	_	_	_	_	_	Gloss=5
+5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:29)__2
+# text = Ha diskenn a ra, en ur pennad tizh, gant an diri.
+# text_fr = 'Et il descend, en coup de vent, les escaliers.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	diskenn	diskenn	verbe	_	_	_	_	_	Gloss=descend
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	pennad	pennad	nom	_	_	_	_	_	Gloss=coup
+9	tizh	tizh	nom	_	_	_	_	_	Gloss=vitesse
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	gant	gant	?	_	_	_	_	_	Gloss=avec
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	diri	derez	nom	_	_	_	_	_	Gloss=escalier
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

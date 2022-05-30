@@ -1,0 +1,30 @@
+# sent_id = Kervella(2002:38)__1
+# text = Bo ! N'eus mann da goll !
+# text_fr = 'Bah ! Je n'ai rien à perdre !'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Bo	Bo	?	_	_	_	_	_	Gloss=[[bo!|Bah
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	N'	N'	?	_	_	_	_	_	Gloss=ne
+5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+6	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	goll	koll	verbe	_	_	_	_	_	Gloss=perdre
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:72)__1
+# text = Kement a riv o doa ar vicherourien ken e raent tan evit mann...
+# text_fr = 'Les ouvriers avaient tellement froid qu'ils faisaient du feu pour rien.'
+# source = ar Barzhig (1976)
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	riv	riv	nom	_	_	_	_	_	Gloss=froid
+4	o	o	?	_	_	_	_	_	Gloss=3PL
+5	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	raent	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisaient
+8	tan	tan	nom	_	_	_	_	_	Gloss=feu
+9	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	mann..	mann..	?	_	_	_	_	_	Gloss=zéro
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

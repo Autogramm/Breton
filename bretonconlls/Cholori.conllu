@@ -1,0 +1,21 @@
+# sent_id = ArFloc'h(1985:13)__1
+# text = a-vec'h e vije kouezhet en e wele, ma kleve adarre gwashoc'h cholori eget biskoazh.
+# text_fr = 'A-peine se couchait-t-il qu'il ré-entendait le pire des tapages.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	a-vec'h	a-vec'h	?	_	_	_	_	_	Gloss=a|Morph=1
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
+5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	wele	gwele	nom	_	_	_	_	_	Gloss=lit
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+10	kleve	klevout	verbe	_	_	_	_	_	Gloss=entendait
+11	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
+12	gwashoc'h	gwasoc'h	?	_	_	_	_	_	Gloss=pire
+13	cholori	cholori	nom	_	_	_	_	_	Gloss=tapage
+14	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
+15	biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

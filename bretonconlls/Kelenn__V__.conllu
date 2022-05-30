@@ -1,0 +1,15 @@
+# sent_id = arGo(1950:7)__2
+# text = Setu ma rankas nac'h e vicher kelenner e-doug ar bloaz 1908.
+# text_fr = 'Il dût donc abandonner son poste d'enseignant en 1908.'
+# location = Pleyben
+# source = ar Go (1950)
+1	rankas	rankout	verbe	_	_	_	_	_	Gloss=dût
+2	nac'h	nac'hañ	?	_	_	_	_	_	Gloss=refuser
+3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	vicher	micher	nom	_	_	_	_	_	Gloss=métier
+5	kelenner	-er,-our	?	_	_	_	_	_	Gloss=ant
+6	e-doug	e-doug	préposition	_	_	_	_	_	Gloss=pendant
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+9	1908	1908	?	_	_	_	_	_	Gloss=1908
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,85 @@
+# sent_id = arBarzhig(1976:69)__1
+# text = Neuze unan gozh-kozh a ziflukas diouzh ur c'hogn...
+# text_fr = 'Alors une très vieille femme surgit d'un coin.'
+# source = ar Barzhig (1976)
+1	Neuze	Neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=une|Morph=1
+3	gozh-kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ziflukas	diflukañ	verbe	_	_	_	_	_	Gloss=surgit
+6	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	c'hogn..	korn	nom	_	_	_	_	_	Gloss=coin|Morph=5
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros,(1984:312)__1
+# text = A-benn neuze e vint debret toud.
+# text_fr = 'D'ici là ils seront tous mangés.'
+# source = Gros (1984)
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vint	COP	?	_	_	_	_	_	Gloss=seront
+5	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+6	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Quéré(2011:119)__1
+# text = On oeit a nezé da Gerare de huèh vlé betag pearzek vlé.
+# text_fr = 'Je suis donc allé à Kerarhaye de six à quatorze ans.'
+# location = Plaudren
+# source = Quéré (2011)
+# texttype = Ouvrages de recherche
+1	On	COP	?	_	_	_	_	_	Gloss=suis
+2	oeit	mont	verbe	_	_	_	_	_	Gloss=allé
+3	a	a	préposition	_	_	_	_	_	Gloss=de
+4	nezé	nezé	?	_	_	_	_	_	Gloss=alors
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	Gerare	nompropre	?	_	_	_	_	_	Gloss=Gerare
+
+# sent_id = arBarzhig(1976:69)__1
+# text = Neuze unan gozh-kozh a ziflukas diouzh ur c'hogn...
+# text_fr = 'Alors une très vieille femme surgit d'un coin.'
+# source = ar Barzhig (1976)
+1	Neuze	Neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un|Morph=1
+3	gozh-kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ziflukas	diflukañ	verbe	_	_	_	_	_	Gloss=surgit
+6	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	c'hogn..	kogn	?	_	_	_	_	_	Gloss=coin|Morph=5
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:86)__1
+# text = Poent braz eo din neuze mont kuit.
+# text_fr = 'Alors il est grand temps que j'y aille.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Poent	poent	nom	_	_	_	_	_	Gloss=temps
+2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+7	kuit	kuit	postposition	_	_	_	_	_	Gloss=partir
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:75-76)__1
+# text = An dud a ouie dont tout da di Mémère neuze.
+# text_fr = 'Les gens venaient alors tous chez Mémère.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ouie	Auxiliairegouzout	?	_	_	_	_	_	Gloss=savait
+5	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+6	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	di	ti	nom	_	_	_	_	_	Gloss=maison
+9	Mémère	nompropre	?	_	_	_	_	_	Gloss=Mémère
+10	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

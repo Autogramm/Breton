@@ -1,0 +1,471 @@
+# sent_id = Vallée(1926:34)__1
+# text = Pep dén a zo gaouiad.
+# text_fr = 'Tout homme est menteur.'
+# source = Vallée (1926)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	dén	den	nom	_	_	_	_	_	Gloss=homme
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	gaouiad	gaou.-ad	nom.?	_	_	_	_	_	Gloss=mensonge.eur
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'lonka')__1
+# text = Lonka a ra ar homzou bep ma vezont lavaret.
+# text_fr = 'Il oublie les paroles à mesure qu'on les prononce.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Lonka	lonkañ	verbe	_	_	_	_	_	Gloss=avaler
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	homzou	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]|Morph=5
+6	bep	bep	?	_	_	_	_	_	Gloss=chaque
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+9	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§386)__1
+# text = Bep ma kreske o niver, gwashoh e krient.
+# text_fr = 'A mesure que leur nombre augmentait, ils criaient plus fort.'
+# source = Trépos (2001)
+1	Bep	Bep	?	_	_	_	_	_	Gloss=chaque
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	kreske	kreskiñ	verbe	_	_	_	_	_	Gloss=croissait
+4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+5	niver	niver	?	_	_	_	_	_	Gloss=nombre
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	gwashoh	gwasoc'h	?	_	_	_	_	_	Gloss=pire
+8	krient	krial	verbe	_	_	_	_	_	Gloss=criaient
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:16)__1
+# text = Krozal ha stlaka a rae a bep eil .
+# text_fr = 'Il grondait et il éclatait tour à tour.'
+# source = Kerrien (2000)
+1	Krozal	krozal	verbe	_	_	_	_	_	Gloss=gronder
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	stlaka	stlaka	?	_	_	_	_	_	Gloss=éclater
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	rae	rae	?	_	_	_	_	_	Gloss=faisait
+6	a	a	préposition	_	_	_	_	_	Gloss=[[a-bep-eil|àchaque
+7	bep	bep	?	_	_	_	_	_	Gloss=second]]]
+8	eil	eil	pronom	_	_	_	_	_	Gloss=?
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Madeg(1990:10)__3
+# text = Job a veze poent lein bemdeiz a-benn ma save diouz e wele.
+# text_fr = 'Job se levait tous les jours à l'heure du déjeuner.'
+# source = Madeg Marvaillou
+1	Job	nompropre	?	_	_	_	_	_	Gloss=Job
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	veze	COP	?	_	_	_	_	_	Gloss=était
+4	poent	poent	nom	_	_	_	_	_	Gloss=moment
+5	lein	lein	nom	_	_	_	_	_	Gloss=déjeuner
+6	bemdeiz	bemdeiz	?	_	_	_	_	_	Gloss=chaque.jour
+7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+9	save	sevel	verbe	_	_	_	_	_	Gloss=levait
+10	diouz	diouzh	préposition	_	_	_	_	_	Gloss=de
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	wele	gwele	nom	_	_	_	_	_	Gloss=lit
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1992:149)__1
+# text = Pedet e oa pep paotr ha plac'h d'an oferenn.
+# text_fr = 'Chaque homme et chaque femme était invité à l'office.'
+# source = Stephens (1992)
+# texttype = Ouvrages de recherche
+1	Pedet	pediñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=invit.é
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+5	paotr	paotr	nom	_	_	_	_	_	Gloss=homme
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	plac'h	plac'h	?	_	_	_	_	_	Gloss=femme
+8	d'	da	préposition	_	_	_	_	_	Gloss=à
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	oferenn	oferenn	nom	_	_	_	_	_	Gloss=office
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gourmelon(2014:107)__1
+# text = Ar peb diaseañ 'zo bet graet, evit ar pep all e vo gwelet diwezhatoc'h.
+# text_fr = 'Le plus dur est fait, pour le reste on verra après.'
+# source = Gourmelon (2014)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	peb	peb	?	_	_	_	_	_	Gloss=chaque
+3	diaseañ	diaes.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=difficile.le.plus
+4	'	zo	?	_	_	_	_	_	Gloss=est
+5	zo	zo	?	_	_	_	_	_	Gloss=?
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=graet
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+12	all	all	?	_	_	_	_	_	Gloss=autre
+13	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+14	vo	COP	?	_	_	_	_	_	Gloss=sera
+15	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+16	diwezhatoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.le.plus
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:42)__1
+# text = Ha dizifenn, pa n’ouzez ket ar pep retañ.
+# text_fr = 'Et sans défense, puisque tu ne connais pas l'indispensable.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	dizifenn	di-.difenn	?.verbe	_	_	_	_	_	Gloss=sans.défense
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=comme
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+8	retañ	ret.superlatif.superlatif	?.adjectif.adjectif	_	_	_	_	_	Gloss=obligé.le.plus.le.plus
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:175)__1
+# text = Gwechal e koulz lavared peb tiegez e oa gwenan.
+# text_fr = 'Autrefois il y avait pour ainsi dire des abeilles dans chaque ferme.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Gwechal	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+2	e	P.e	?	_	_	_	_	_	Gloss=en
+3	koulz	kenkoulz	?	_	_	_	_	_	Gloss=auntant
+4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+5	peb	peb	?	_	_	_	_	_	Gloss=chaque
+6	tiegez	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.née
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	gwenan	gwenan	nom	_	_	_	_	_	Gloss=abeilles
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:96)__1
+# text = Pep hini a vez sod gand e dammou loened.
+# text_fr = 'Chacun aime les quelques bêtes qu'il a (ses petites bêtes).'
+# source = Gros (1984)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	sod	sot	adjectif	_	_	_	_	_	Gloss=sot
+6	gand	gant	?	_	_	_	_	_	Gloss=avec
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	dammou	tamm.-où(PL.)	quantifieur.?	_	_	_	_	_	Gloss=bout.s
+9	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bête.s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'loa')__1
+# text = Ma vez lezet pep hini da vond gand e loa d'ar pod e vo brao dezo.
+# text_fr = 'Si on laisse chacun se servir soi-même il aura de la chance.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	lezet	lezel	?	_	_	_	_	_	Gloss=laissé
+4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+5	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	vond	mont	verbe	_	_	_	_	_	Gloss=aller
+8	gand	gant	?	_	_	_	_	_	Gloss=avec
+9	e	POSS	?	_	_	_	_	_	Gloss=son
+10	loa	loa	nom	_	_	_	_	_	Gloss=cuillère
+11	d'	da	préposition	_	_	_	_	_	Gloss=à
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	pod	pod	nom	_	_	_	_	_	Gloss=pot
+14	e	e	?	_	_	_	_	_	Gloss=R
+15	vo	COP	?	_	_	_	_	_	Gloss=sera
+16	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+17	dezo	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__14
+# text = Pep hini a-doa deset ganteu peb a damm euz an doriou e souvenir.
+# text_fr = 'Chacun avait pris un morceau des portes en souvenir.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	a-doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	deset	degas	verbe	_	_	_	_	_	Gloss=emmené
+5	ganteu	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	peb	peb	?	_	_	_	_	_	Gloss=chaque
+7	a	a	préposition	_	_	_	_	_	Gloss=a|Morph=1
+8	damm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+9	euz	eus	?	_	_	_	_	_	Gloss=de
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	doriou	dor.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=porte.s
+12	e	P.e	?	_	_	_	_	_	Gloss=en
+13	souvenir	souvenir	?	_	_	_	_	_	Gloss=souvenir
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:II)__2
+# text = Doc'h pep troad n'eo ket mat pep botez.
+# text_fr = 'Toute chaussure n'est pas bonne à tout pied.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Doc'h	diouzh	préposition	_	_	_	_	_	Gloss=de
+2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	troad	troad	nom	_	_	_	_	_	Gloss=pied
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+8	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+9	botez	botez	nom	_	_	_	_	_	Gloss=chaussure
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:30)__1
+# text = War e rez ez aio pep tra.
+# text_fr = 'Tout ira bien.'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	War	war	?	_	_	_	_	_	Gloss=sur
+2	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	rez	rez	?	_	_	_	_	_	Gloss=rangée
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	aio	mont	verbe	_	_	_	_	_	Gloss=ira
+6	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+7	tra	tra	nom	_	_	_	_	_	Gloss=chose
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:9)__2
+# text = Kuitait pep goanag, c'houi hag a zeu e-barz !
+# text_fr = 'Laissez toute espérance, vous qui entrez !'
+# source = Kerrien (2000)
+1	Kuitait	kuitaat	?	_	_	_	_	_	Gloss=quittez
+2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	goanag	goanag	nom	_	_	_	_	_	Gloss=espérance
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	c'houi	pfi	?	_	_	_	_	_	Gloss=vous
+6	hag	C-ha(g)	?	_	_	_	_	_	Gloss=C
+7	a	a	préposition	_	_	_	_	_	Gloss=?
+8	e-barz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riec,MonaBouzegc.p.(01/2009)__1
+# text = Ben 'vez klanv pep den, e vezomp trapet fall!
+# text_fr = 'Quand chaque homme est malade, on est salement attrapés !’
+1	'	COP	?	_	_	_	_	_	Gloss=est
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+3	klanv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+5	den	den	nom	_	_	_	_	_	Gloss=homme
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	vezomp	COP	?	_	_	_	_	_	Gloss=sommes
+9	trapet	trapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=attrap.é
+10	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = DeRostrenen(1738:73)__1
+# text = Pep hiny a ra evel a blich gand hâ/hy.
+# text_fr = 'Chacun/chacune fait comme il/elle l'entend.'
+# source = De Rostrenen (1738)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hiny	hini	nom-pronom	_	_	_	_	_	Gloss=N
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	blich	plijout	verbe	_	_	_	_	_	Gloss=plait
+8	gand	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.il/elle
+9	hâ/hy.	hâ/hy.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:207)__1
+# text = Pep hini e-neus e benn... pa rank hen dougen.
+# text_fr = 'Chacun a son avis puisque chacun a une tête'.
+# source = Gros (1984)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+3	e-neus	kaout	?	_	_	_	_	_	Gloss=a.3SG
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	benn..	penn	nom	_	_	_	_	_	Gloss=tête
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque
+8	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
+9	hen	pronominanimé	?	_	_	_	_	_	Gloss=le
+10	dougen	dougen	verbe	_	_	_	_	_	Gloss=porter
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:100)__3
+# text = Hag en ur zegouezh ema e lec'h da bep unan da gempenn.
+# text_fr = 'Et en arrivant, chacun doit nettoyer sa (propre) place.'
+# source = Herrieu (1994)
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+3	ur	ur	?	_	_	_	_	_	Gloss=?
+4	zegouezh	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
+5	ema	ema	?	_	_	_	_	_	Gloss=est
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	bep	bep	?	_	_	_	_	_	Gloss=chaque
+10	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+11	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	gempenn	kempenn	verbe	_	_	_	_	_	Gloss=nettoyer
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§317)__1
+# text = Prena a rejomp pep a leue.
+# text_fr = 'Nous achetâmes chacun un veau.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Prena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rejomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fîmes
+4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	leue	leue	nom	_	_	_	_	_	Gloss=veau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat(2012:§239)__1
+# text = beb a damm on-neus bet.
+# text_fr = 'Nous avons eu chacun(e) un morceau.'
+# dialect = Cornouaillais
+# location = Plozévet
+# source = Goyat (2012)
+# texttype = Ouvrages de recherche
+1	beb	beb	?	_	_	_	_	_	Gloss=chaque
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	damm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+4	on-neus	kaout	?	_	_	_	_	_	Gloss=a
+5	bet	bet	?	_	_	_	_	_	Gloss=eu
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1947:§725),citantI.Krok__1
+# text = Hag an div "ra-netra" en em zigollas en ur brenañ pep a dok divalav.
+# text_fr = 'Et les deux bonnes-à-rien se consolèrent en achetant chacune un chapeau hideux.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	div	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+4	"ra-netra"	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+6	em	em	?	_	_	_	_	_	Gloss=?
+7	zigollas	zigollas	?	_	_	_	_	_	Gloss=consola
+8	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+9	ur	ur	?	_	_	_	_	_	Gloss=?
+10	brenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+11	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	dok	tok	nom	_	_	_	_	_	Gloss=chapeau
+14	divalav	divalav	adjectif	_	_	_	_	_	Gloss=laid
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§317)__1
+# text = Kontit deom pep a gontadenn.
+# text_fr = 'Contez-nous chacun une votre histoire.'
+# location = Bigouden
+# source = Trépos (2001)
+1	Kontit	kontañ	verbe	_	_	_	_	_	Gloss=contez
+2	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+3	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	gontadenn	kontadenn	?	_	_	_	_	_	Gloss=histoire
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hingant(1868:§72)__1
+# text = Béb a wenneg hon euz évid-hoc'h.
+# text_fr = 'Nous avons chacun un sou pour vous.'
+# source = Hingant (1868)
+# texttype = Ouvrages de recherche
+1	Béb	Béb	?	_	_	_	_	_	Gloss=chaque
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	wenneg	gwenneg	nom	_	_	_	_	_	Gloss=sous
+4	hon	kaout	?	_	_	_	_	_	Gloss=avons
+5	euz	euz	?	_	_	_	_	_	Gloss=?
+6	évid-hoc'h	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.vous
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:317)__2
+# text = Pep a gement-se e oa dleet deom bezañ kavet _ .
+# text_fr = 'Nous aurions dû en trouver autant que cela chacun de nous.'
+# source = Gros (1984)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	gement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	dleet	dleout	verbe	_	_	_	_	_	Gloss=dû
+7	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+8	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+9	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+
+# sent_id = Herrieu(1994:158)__1
+# text = An adjudant Conan ha me a gav ivez bep a wele.
+# text_fr = 'L'adjudant Conan et moi trouvons aussi chacun un lit.'
+# source = Herrieu (1994)
+1	Conan	nompropre	?	_	_	_	_	_	Gloss=Conan
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+6	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+7	bep	bep	?	_	_	_	_	_	Gloss=chaque
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	wele	gwele	nom	_	_	_	_	_	Gloss=lit
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:20)__3
+# text = Mont a rajomp hon-tri d'ar prad gant bep a forc'h koad.
+# text_fr = 'Nous allâmes nous trois au champs avec chacun une fourche en bois.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rajomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=firent
+4	hon-tri	POSS	?	_	_	_	_	_	Gloss=notre
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	prad	prad	nom	_	_	_	_	_	Gloss=champ
+8	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	forc'h	forc'h	?	_	_	_	_	_	Gloss=fourche
+12	koad	koad	nom	_	_	_	_	_	Gloss=bois
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gourmelon(2014:108)__1
+# text = Pep a { c'hounedigezh / [[*]] galz gounidegezh } a c'hortozent.
+# text_fr = 'Ils attendaient chacun (beaucoup de/des) bénéfices.'
+# source = Gourmelon (2014)
+1	Pep	Pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	{	{	?	_	_	_	_	_	Gloss=bénéfice
+4	c'hounedigezh	c'hounedigezh	?	_	_	_	_	_	Gloss=/
+5	/	/	PUNCT	_	_	_	_	Gloss=punct
+6	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=bénéfice
+7	galz	galz	?	_	_	_	_	_	Gloss=?
+8	gounidegezh	gounidegezh	?	_	_	_	_	_	Gloss=?
+9	}	}	?	_	_	_	_	_	Gloss=?
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	c'hortozent	gortoz	verbe	_	_	_	_	_	Gloss=attendaient
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AlLay(1925:28)__1
+# text = Ro d'emp peb a hini, Jojo ! eme Bilzig.
+# text_fr = 'Donne-nous en un chacun ! dit Bilzig'
+# source = Al Lay (1925)
+# texttype = Références de corpus
+1	Ro	reiñ	verbe	_	_	_	_	_	Gloss=donne
+2	d'	da	préposition	_	_	_	_	_	Gloss=à
+3	emp	pronomincorporé	?	_	_	_	_	_	Gloss=nous
+4	peb	peb	?	_	_	_	_	_	Gloss=chaque
+5	a	a	préposition	_	_	_	_	_	Gloss=de
+6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	Jojo	nompropre	?	_	_	_	_	_	Gloss=Jojo
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+10	eme	eme	préposition	_	_	_	_	_	Gloss=dit
+11	Bilzig	nompropre	?	_	_	_	_	_	Gloss=Bilzig
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,13 @@
+# sent_id = LeGarrec(1901:74)__1
+# text = da bellât deuz ouzon trubuill hag enkrezo.
+# text_fr = '...d'éloigner de moi des anxiétés et des angoisses'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	bellât	pell.-aat	adjectif.verbe	_	_	_	_	_	Gloss=loin.er
+3	deuz	deus.ouzh.pronomincorporé	?.préposition.?	_	_	_	_	_	Gloss=de.de.moi
+4	ouzon	ouzon	?	_	_	_	_	_	Gloss=?
+5	trubuill	trubuilh	nom	_	_	_	_	_	Gloss=anxiété
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	enkrezo	enkrez.-où(PL.)	?.?	_	_	_	_	_	Gloss=angoisse.s
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,15 +1,15 @@
 # sent_id = Plourin(2000:28)__1
 # text = Goudese n'en doa ket gwraet 'med ambren a-hed an dewezh.
-# text_fr =  'Après cela, il n'avait pas arrêté de râler contre lui-même toute la journée.' 
+# text_fr = 'Après cela, il n'avait pas arrêté de râler contre lui-même toute la journée.'
 # source = Plourin (2000)
 # texttype = Références de corpus
-1	Goudese	goude.se	complémenteur-préposition-adverbe.pronom	_	_	_	_	_	Gloss=après.ça
+1	Goudese	goude.se	préposition-adverbe-complémenteur.pronom	_	_	_	_	_	Gloss=après.ça
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
 4	doa	kaout	?	_	_	_	_	_	Gloss=avait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	gwraet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-7	'	nemet	complémenteur-adverbe-conjonction	_	_	_	_	_	Gloss=sauf
+7	'	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
 8	med	med	?	_	_	_	_	_	Gloss=?
 9	ambren	-en(V.)	?	_	_	_	_	_	Gloss=er
 10	a-hed	a-hed	préposition	_	_	_	_	_	Gloss=à-long
@@ -19,7 +19,7 @@
 
 # sent_id = Seite(1998:54)__1
 # text = Daoust da-ze eo red d'eur bloavezh tremen.
-# text_fr =  'A cause de cela, il faut attendre qu'une année passe.'
+# text_fr = 'A cause de cela, il faut attendre qu'une année passe.'
 # dialect = Léonard
 # location = Cléder
 # source = Seite (1998)
@@ -36,7 +36,7 @@
 
 # sent_id = Abalain(2001:33)__1
 # text = E-barzh an evezh, emañ an devezh.
-# text_fr =  'Travail bien fait, bonne journée.'
+# text_fr = 'Travail bien fait, bonne journée.'
 # source = Abalain (2001)
 # texttype = Références de corpus
 1	E-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
@@ -47,7 +47,7 @@
 
 # sent_id = arGow(1999:15)__1
 # text = War-dro dek eur, ar mintinvezh-se, e tegouezhas du-mañ va moereb Mai-Louj ar Rannoù.
-# text_fr =  'Vers dix heures, ce matin-là, ma tante Mai-Louj ar Rannoù arriva chez moi.' 
+# text_fr = 'Vers dix heures, ce matin-là, ma tante Mai-Louj ar Rannoù arriva chez moi.'
 # location = Pleyben
 # source = ar Gow (1999)
 1	War-dro	war-dro	préposition	_	_	_	_	_	Gloss=vers
@@ -57,10 +57,10 @@
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	mintinvezh-se	mintin	nom	_	_	_	_	_	Gloss=matin
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	4	_	_	_	_	Gloss=R
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 9	tegouezhas	degouezhout	verbe	_	_	_	_	_	Gloss=arriva
 10	du-mañ	ads	?	_	_	_	_	_	Gloss=côté-ci
-11	va	POSS	?	2	_	_	_	_	Gloss=ma
+11	va	POSS	?	_	_	_	_	_	Gloss=ma|Morph=2
 12	moereb	moereb	nom	_	_	_	_	_	Gloss=tante
 13	Mai-Louj	Mai-Louj	?	_	_	_	_	_	Gloss=[[nompropre|Mai-Louj
 14	ar	ar	?	_	_	_	_	_	Gloss=ar
@@ -69,7 +69,7 @@
 
 # sent_id = ArFloc'h(1985:26)__1
 # text = Koulskoude, ur merc'hervezh, e oan bet e Landi asambles gant va mamm.
-# text_fr =  'Cependant, un mercredi, j'étais allé à Landi avec ma mère.'
+# text_fr = 'Cependant, un mercredi, j'étais allé à Landi avec ma mère.'
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
@@ -77,20 +77,20 @@
 3	ur	art	?	_	_	_	_	_	Gloss=un
 4	merc'hervezh	merc'hervezh	?	_	_	_	_	_	Gloss=mercredi
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e	e	?	1	_	_	_	_	Gloss=R
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
 7	oan	COP	nom	_	_	_	_	_	Gloss=étais
 8	bet	bet	?	_	_	_	_	_	Gloss=été
 9	e	P.e	?	_	_	_	_	_	Gloss=en
 10	Landi	nompropre	?	_	_	_	_	_	Gloss=Landi
 11	asambles	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
 12	gant	gant	?	_	_	_	_	_	Gloss=avec
-13	va	POSS	?	2	_	_	_	_	Gloss=mon
+13	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 14	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:28)__1
 # text = Peseurt devezh 'maomp ?
-# text_fr =  'Quel jour sommes-nous ?'
+# text_fr = 'Quel jour sommes-nous ?'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
@@ -99,72 +99,72 @@
 2	devezh	devezh	?	_	_	_	_	_	Gloss=jour
 3	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sommes
 4	maomp	maomp	?	_	_	_	_	_	Gloss=?
-5	?	?	?	_	_	_	_	_	Gloss=?
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'joga')__1
 # text = A-benn ma'z-po joget an tamm bara-ze e chomi div eur ez kourvez.
-# text_fr =  'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.'
+# text_fr = 'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.'
 # source = Gros (1989)
-1	A-benn	a-benn	complémenteur-préposition	_	_	_	_	_	Gloss=quand
-2	ma'	ma	complémenteur	4	_	_	_	_	Gloss=que
+1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	z-po	kaout	?	_	_	_	_	_	Gloss=aura
 4	joget	jogañ	?	_	_	_	_	_	Gloss=froissé
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 7	bara-ze	bara	nom	_	_	_	_	_	Gloss=pain
-8	e	e	?	4	_	_	_	_	Gloss=R
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 9	chomi	chom	verbe	_	_	_	_	_	Gloss=resteras
 10	eur	eur	nom	_	_	_	_	_	Gloss=heure
-11	ez	P.e	?	3	_	_	_	_	Gloss=en]].[[POSS|ton
+11	ez	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|ton|Morph=3
 12	kourvez	gourvez	nom	_	_	_	_	_	Gloss=allongé
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes (1970:321)__1
 # text = e-korf div pe deir eur
-# text_fr =  'dans l'espace de deux ou trois heures' 
+# text_fr = 'dans l'espace de deux ou trois heures'
 # text_phon = ['/ e-korf', 'di', 'bə', 'de:r øyr /']
 1	e-korf	e-korf	préposition	_	_	_	_	_	Gloss=dans-corps
-2	pe	pe	complémenteur-conjonction	1	_	_	_	_	Gloss=ou
+2	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
 
 # sent_id = Bouzec&al.(2017:123)__1
 # text = 'N dreu-s 'oa pad't duran' teir eur.
-# text_fr =  'Ça a duré trois heures.'
+# text_fr = 'Ça a duré trois heures.'
 # dialect = Cornouaillais
 # location = Clohars-Carnoët
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	'	art	?	_	_	_	_	_	Gloss=le
-2	N	tra	nom	1	_	_	_	_	Gloss=chose]]-[[DEM|ci
+2	N	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
 3	dreu-s	dreu-s	?	_	_	_	_	_	Gloss=?
 4	'	COP	?	_	_	_	_	_	Gloss=était
 5	oa	padout	verbe	_	_	_	_	_	Gloss=duré
 6	pad'	pad'	?	_	_	_	_	_	Gloss=?
 7	t	t	?	_	_	_	_	_	Gloss=?
 8	duran'	duran'	?	_	_	_	_	_	Gloss=durant
-9			?	_	_	_	_	_	Gloss=?
+9			PUNCT	_	_	_	_	Gloss=punct
 10	teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
 11	eur	eur	nom	_	_	_	_	_	Gloss=heure
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:40)__1
 # text = Hemañ zo darev da chom da ruzañ e-pad an deiz !
-# text_fr =  'Comme il est parti, il ne fera que trainer de toute la journée !'
+# text_fr = 'Comme il est parti, il ne fera que trainer de toute la journée !'
 # source = Gourmelon (2014)
 1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	darev	darev	adjectif	_	_	_	_	_	Gloss=mûr
-4	da	da	préposition	1	_	_	_	_	Gloss=de
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 5	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-6	da	da	préposition	1	_	_	_	_	Gloss=à
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 7	ruzañ	ruzañ	verbe	_	_	_	_	_	Gloss=trainer
 8	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 9	an	art	?	_	_	_	_	_	Gloss=le
 10	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-11	!	!	?	_	_	_	_	_	Gloss=?
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = KeitVimpBev(1987:4)__1
 # text = D'ar mareoù-mañ deus ar bloaz n'eo ket dleet kaout erc'h ken.
-# text_fr =  'Il ne devrait plus y avoir de neige en cette saison.' 
+# text_fr = 'Il ne devrait plus y avoir de neige en cette saison.'
 # source = Keit Vimp Bev (1987)
 # texttype = Références de corpus
 1	D'	da	préposition	_	_	_	_	_	Gloss=à
@@ -173,23 +173,23 @@
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
-7	n'	n'	?	1	_	_	_	_	Gloss=ne
+7	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
 8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	dleet	dleout	verbe	_	_	_	_	_	Gloss=dû
 11	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
 12	erc'h	erc'h	?	_	_	_	_	_	Gloss=neige
-13	ken	ken	complémenteur-adverbe	_	_	_	_	_	Gloss=plus
+13	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:43)__1
 # text = Pa goumañsemp deviñ bezhin, e veze great ur sizhuniad deviñ bezhin !
-# text_fr =  'Quand nous commencions à brûler, nous le faisions pendant une semaine complète.' 
+# text_fr = 'Quand nous commencions à brûler, nous le faisions pendant une semaine complète.'
 # dialect = Léonard
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	Pa	complémenteur	1	_	_	_	_	Gloss=quand
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 2	goumañsemp	komañs	verbe	_	_	_	_	_	Gloss=commencions
 3	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
 4	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goemon
@@ -201,15 +201,15 @@
 10	sizhuniad	sizhun.-iad	nom.?	_	_	_	_	_	Gloss=semain.-ée
 11	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
 12	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goemon
-13	!	!	?	_	_	_	_	_	Gloss=?
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:37)__1
 # text = ar skourrou o hlazvezi
-# text_fr =  'les branches qui verdissent' 
+# text_fr = 'les branches qui verdissent'
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	ar	art	?	_	_	_	_	_	Gloss=le
 2	skourrou	skourr.-où(PL.)	?.?	_	_	_	_	_	Gloss=branche.s
-3	o	particuleo	?	4	_	_	_	_	Gloss=à]
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 4	hlazvezi	glas.-iñ	adjectif.?	_	_	_	_	_	Gloss=verdure.-ir

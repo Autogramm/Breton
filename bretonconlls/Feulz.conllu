@@ -1,0 +1,11 @@
+# sent_id = Trégorrois,Priel(1959)__1
+# text = Evito da vezañ feuls a-wechoù ...
+# text_fr = 'bien qu'ils fussent parfois violents... '
+# source = Priel (1959)
+# texttype = Références de corpus
+1	Evito	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+4	feuls	feuls	?	_	_	_	_	_	Gloss=violent
+5	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
+6	...	...	PUNCT	_	_	_	_	Gloss=punct

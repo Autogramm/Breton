@@ -1,19 +1,19 @@
 # sent_id = Evenou (1987:576)__1
 # text = Oa-eñ o troc'hañ melchon evit e loened.
-# text_fr =  'Il était en train de couper du trèfle pour ses bêtes.'
+# text_fr = 'Il était en train de couper du trèfle pour ses bêtes.'
 # text_phon = ['[ wahô', '(o)', 'tròho', 'mèls̈ən', 'wit', 'i', 'lônəT.  ]']
 1	Oa-eñ	COP	?	_	_	_	_	_	Gloss=était
-2	o	particuleo	?	4	_	_	_	_	Gloss=à]
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
 3	troc'hañ	troc'hañ	?	_	_	_	_	_	Gloss=couper
 4	melchon	melchon	nom	_	_	_	_	_	Gloss=trèfle
-5	evit	evit	complémenteur-préposition	_	_	_	_	_	Gloss=pour
-6	e	POSS	?	1	_	_	_	_	Gloss=son
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 7	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bête.s
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
 # text = C'hwi laro doñ e pasein da beo diwetoc'h.
-# text_fr =  'Tu lui diras que je passerai payer plus tard.'
+# text_fr = 'Tu lui diras que je passerai payer plus tard.'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
@@ -21,9 +21,9 @@
 2	hwi	hwi	?	_	_	_	_	_	Gloss=?
 3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
 4	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	4	_	_	_	_	Gloss=R
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
-7	da	da	préposition	1	_	_	_	_	Gloss=pour
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 8	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
 9	diwetoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

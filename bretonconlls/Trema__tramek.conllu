@@ -1,0 +1,81 @@
+# sent_id = ArMeliner(2009:135)__1
+# text = A pa oa predet, holl an dud o doa em stardet muioc'h c'hoazh trema an oaled...
+# text_fr = 'Après le repas, tout le monde se rapprocha encore plus du foyer... '
+# source = Ar Meliner (2009)
+1	A	&	préposition	_	_	_	_	_	Gloss=et
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	predet	prediñ	verbe	_	_	_	_	_	Gloss=dîné
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	o	kaout	?	_	_	_	_	_	Gloss=avaient
+10	doa	doa	?	_	_	_	_	_	Gloss=?
+11	em	pronomréfléchi	?	_	_	_	_	_	Gloss=se
+12	stardet	stardañ	?	_	_	_	_	_	Gloss=rapprocher
+13	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
+14	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+15	trema	trema	?	_	_	_	_	_	Gloss=vers
+16	an	art	?	_	_	_	_	_	Gloss=le
+17	oaled..	oaled	nom	_	_	_	_	_	Gloss=foyer
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__21
+# text = nompaz e-kreiz a Lambaol med kentoh 'tramant Roh-ar-Mor.
+# text_fr = 'Pas dans Lambaol mais plutôt vers Roc'h-ar-Mor.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	nompaz	nompas	?	_	_	_	_	_	Gloss=pas
+2	e-kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=dans
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=4
+4	Lambaol	nompropre	?	_	_	_	_	_	Gloss=Lambaol
+5	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+6	kentoh	kentoc'h	?	_	_	_	_	_	Gloss=plutôt
+7	'	'	?	_	_	_	_	_	Gloss=vers
+8	tramant	tramant	?	_	_	_	_	_	Gloss=?
+9	Roh-ar-Mor	nompropre	?	_	_	_	_	_	Gloss=Rocxxxh-ar-Mor
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kergoat(1976:4)__1
+# text = Pa yan en-dro tramek St-Alc'houen e tegouezh ganin klevout...
+# text_fr = 'Quand je reviens à St-Albin, il m'arrive d'entendre... '
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	yan	mont	verbe	_	_	_	_	_	Gloss=vais
+3	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
+4	tramek	tramek	?	_	_	_	_	_	Gloss=vers
+5	St-Alc'houen	nompropre	?	_	_	_	_	_	Gloss=St-Alcxxxhouen
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	tegouezh	degouezhout	verbe	_	_	_	_	_	Gloss=arrive
+8	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+9	klevout..	klevout	verbe	_	_	_	_	_	Gloss=entendre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__9
+# text = Ha neuze e teue eur vag diou wech ar zizun deuz tramant... Arhantel pe eun tu bennag aze.
+# text_fr = 'Et alors un bateau venait deux fois la semaine de vers... Argenton ou de ce côté là.'
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	teue	dont	verbe	_	_	_	_	_	Gloss=venait
+5	eur	art	nom	_	_	_	_	_	Gloss=un
+6	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+7	diou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux.F]|Morph=1
+8	wech	gwech	nom	_	_	_	_	_	Gloss=fois
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	zizun	sizhun	nom	_	_	_	_	_	Gloss=semaine
+11	deuz	deus	?	_	_	_	_	_	Gloss=de
+12	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+13	eun	art	?	_	_	_	_	_	Gloss=un
+14	tu	tu	nom	_	_	_	_	_	Gloss=côté
+15	bennag	bennag	?	_	_	_	_	_	Gloss=quelconque
+16	aze	aze	?	_	_	_	_	_	Gloss=là
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

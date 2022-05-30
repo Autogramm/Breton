@@ -1,0 +1,15 @@
+# sent_id = Bouzeg(1986:II)__1
+# text = Hemañ 'ma gwriet deon e chakod.
+# text_fr = 'Il est avare.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	'	COP	?	_	_	_	_	_	Gloss=est
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+4	gwriet	gwriat	verbe	_	_	_	_	_	Gloss=cousu
+5	deon	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	chakod	chakod	nom	_	_	_	_	_	Gloss=poche
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

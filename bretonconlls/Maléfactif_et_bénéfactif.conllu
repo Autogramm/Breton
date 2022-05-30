@@ -1,0 +1,122 @@
+# sent_id = ArBorgn(2011:82)__1
+# text = Torret zo bet ma memproù din.
+# text_fr = 'On m'a cassé les membres.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Torret	terriñ	verbe	_	_	_	_	_	Gloss=cassé
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	ma	POSS	?	_	_	_	_	_	Gloss=ma|Morph=2
+5	memproù	-où	?	_	_	_	_	_	Gloss=s
+6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:153)__1
+# text = Amzer truek a ra deomp...
+# text_fr = 'Il (nous) fait un temps pitoyable.'
+# source = Herrieu (1994)
+1	Amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+2	truek	truez.-ek	nom.?	_	_	_	_	_	Gloss=pitoy.ant
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	deomp..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:155)__1
+# text = Louiz a zo marvet unan bennag dezañ ive.
+# text_fr = 'Un parent quelconque de Louis est mort aussi.'
+# source = Gros (1970)
+1	Louiz	nompropre	?	_	_	_	_	_	Gloss=Louiz
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	marvet	mervel	verbe	_	_	_	_	_	Gloss=mourru
+5	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+6	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	ive	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__25
+# text = Hag dre forz chom da sellet ouzh an awal-se, e oa savet din c'hoant ganin da brenañ anezhañ.
+# text_fr = 'Et à force de regarder cette pomme, j'avais eu envie de l'acheter.'
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	dre	dre	préposition	_	_	_	_	_	Gloss=par
+3	forz	forzh	quantifieur	_	_	_	_	_	Gloss=force
+4	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
+7	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	awal-se	aval	nom	_	_	_	_	_	Gloss=pomme
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	oa	COP	?	_	_	_	_	_	Gloss=était
+13	savet	sevel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mont.é
+14	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+15	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+16	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+17	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+18	brenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
+19	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:64)__1
+# text = Ar bleuniou am-boa roet deoh a zo o veleni. Poent eo lakaad dour ganto !
+# text_fr = 'Les fleurs que je vous avais données jaunissent. Il est temps de leur donner de l'eau.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bleuniou	bleuñv.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=fleur.s
+3	am-boa	kaout	?	_	_	_	_	_	Gloss=avais
+4	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
+5	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	veleni	melen.-i(V.)	adjectif.?	_	_	_	_	_	Gloss=jaun.ir
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+11	Poent	poent	nom	_	_	_	_	_	Gloss=temps
+12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+14	dour	dour	nom	_	_	_	_	_	Gloss=eau
+15	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+16	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:307)__1
+# text = / məmbwa xuleš tox /
+# text_fr = 'Je vous avais laissés.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	pfi	?	_	_	_	_	_	Gloss=moi
+2	məmbwa	kaout	?	_	_	_	_	_	Gloss=avais
+3	tox	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:307)__1
+# text = / mə xilaka dəxi /
+# text_fr = 'Je la mets.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	mə	mə	?	_	_	_	_	_	Gloss=?
+3	dəxi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:307)__1
+# text = / xu trugarikad əran dox / 
+# text_fr = 'Je vous remercie.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	xu	xu	?	_	_	_	_	_	Gloss=?
+3	trugarikad	trugarekaat	?	_	_	_	_	_	Gloss=remercie
+4	dox	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	/	/	PUNCT	_	_	_	_	Gloss=punct

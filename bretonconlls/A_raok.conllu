@@ -1,6 +1,6 @@
 # sent_id = Kervella(1933:48)__1
 # text = a-raok mont kuit d'ur gêr all.
-# text_fr =  'avant de partir dans une autre ville.' 
+# text_fr = 'avant de partir dans une autre ville.'
 # source = Kervella (1993)
 # texttype = Références de corpus
 1	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
@@ -8,17 +8,17 @@
 3	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
 5	ur	art	?	_	_	_	_	_	Gloss=un
-6	gêr	kêr	nom	1	_	_	_	_	Gloss=ville
+6	gêr	kêr	nom	_	_	_	_	_	Gloss=ville|Morph=1
 7	all	all	?	_	_	_	_	_	Gloss=autre
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:112)__1
 # text = Meur a hini em raok o deveus graet, hag emichañs, me a raio ivez.
-# text_fr =  'Plus d'un avant moi l'a fait, et je le ferai aussi sans doute.' 
+# text_fr = 'Plus d'un avant moi l'a fait, et je le ferai aussi sans doute.'
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Meur	meur	quantifieur	_	_	_	_	_	Gloss=moulte
-2	a	a	préposition	1	_	_	_	_	Gloss=de
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 3	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
 4	em	P.e.POSS	?.?	_	_	_	_	_	Gloss=en.mon
 5	raok	raok	?	_	_	_	_	_	Gloss=avant
@@ -30,14 +30,14 @@
 11	emichañs	emichañs	adverbe	_	_	_	_	_	Gloss=sans.doute
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
 13	me	pfi	?	_	_	_	_	_	Gloss=moi
-14	a	a	préposition	1	_	_	_	_	Gloss=R
+14	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 15	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
 16	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:69)__1
 # text = Mona  oa ar me rok.
-# text_fr =  'Mona était devant moi.'
+# text_fr = 'Mona était devant moi.'
 # dialect = Cornouaillais
 # location = Moëlan
 # source = Bouzec & al. (2017)
@@ -46,14 +46,14 @@
 2	??	??	?	_	_	_	_	_	Gloss=R
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	ar	war	?	1	_	_	_	_	Gloss=sur
-6	me	POSS	?	2	_	_	_	_	Gloss=mon
+5	ar	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+6	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 7	rok	rok	?	_	_	_	_	_	Gloss=avant
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:69)__1
 # text = Mona a oa a-raozon.
-# text_fr =  'Mona était devant moi.'
+# text_fr = 'Mona était devant moi.'
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
@@ -65,7 +65,7 @@
 
 # sent_id = Bouzec & al. (2017:69)__1
 # text =  'mézè aon a i rok!
-# text_fr =  'Il me faisait peur!'
+# text_fr = 'Il me faisait peur!'
 1	??	??	?	_	_	_	_	_	Gloss=Me
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	'	'	?	_	_	_	_	_	Gloss=am
@@ -78,7 +78,7 @@
 
 # sent_id = Ternes (1970:319)__1
 # text = e-diaraok d'an ti
-# text_fr =  'devant la maison.'
+# text_fr = 'devant la maison.'
 # text_phon = ['/e-dijaro:k', 't-ən', 'ti /']
 1	e-diaraok	P.e.de-,di-.araok	?.?.?	_	_	_	_	_	Gloss=à.pfx.avant
 2	d'	da	préposition	_	_	_	_	_	Gloss=de
@@ -87,12 +87,12 @@
 
 # sent_id = Herrieu(1994:138)__1
 # text = C'hwec'h kardlev bennak, a lârer, hon eus araokaet beta bremañ.
-# text_fr =  'A ce qu'on dit, nous avons avancé d'à peu près six quarts de lieue jusqu'ici.'
+# text_fr = 'A ce qu'on dit, nous avons avancé d'à peu près six quarts de lieue jusqu'ici.'
 # source = Herrieu (1994)
 1	C'	C'	?	_	_	_	_	_	Gloss=[[lesnuméraux
 2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]]
 3	kardlev	fraction.lev	?.?	_	_	_	_	_	Gloss=quart.lieue
-4	bennak	bennak	adjectif-quantifieur	_	_	_	_	_	Gloss=quelconque
+4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	lârer	lavarout.IMP	verbe.?	_	_	_	_	_	Gloss=dit.on
@@ -100,35 +100,35 @@
 9	hon	hon	?	_	_	_	_	_	Gloss=1PL
 10	eus	kaout	?	_	_	_	_	_	Gloss=a
 11	araokaet	-aat	verbe	_	_	_	_	_	Gloss=é
-12	beta	betek	complémenteur-préposition	_	_	_	_	_	Gloss=jusque
+12	beta	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusque
 13	bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Merser(2011:57)__1
 # text = araog ma oa deuet.
-# text_fr =  'avant qu'il soit venu.'
+# text_fr = 'avant qu'il soit venu.'
 # source = Merser (2011)
 # texttype = Ouvrages de recherche
 1	araog	araok	?	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:222)__1
 # text = Gedal e oe ranket bloaveziou a-raog ma oe savet en-dro.
-# text_fr =  'Il a fallu attendre des années avant qu'il soit reconstruit.'
+# text_fr = 'Il a fallu attendre des années avant qu'il soit reconstruit.'
 # dialect = Léonard
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Gedal	gedal	verbe	_	_	_	_	_	Gloss=attendre
-2	e	e	?	4	_	_	_	_	Gloss=R
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	oe	COP	?	_	_	_	_	_	Gloss=fut
 4	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=fall.u
 5	bloaveziou	bloaz.-vezh.-ioù(PL.)	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.s
 6	a-raog	a-raog	?	_	_	_	_	_	Gloss=avant
-7	ma	ma	complémenteur	4	_	_	_	_	Gloss=que
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 8	oe	COP	?	_	_	_	_	_	Gloss=fut
 9	savet	sevel	verbe	_	_	_	_	_	Gloss=construit
 10	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=à.nouveau
@@ -136,13 +136,13 @@
 
 # sent_id = Fagon&Riou(2015:'boesoñ')__1
 # text = an den-ze ne efe ket boesoñ a-rôk ma on dimêt tea.
-# text_fr =  'Cet homme là ne buvait pas avant que je ne l'épouse.'
+# text_fr = 'Cet homme là ne buvait pas avant que je ne l'épouse.'
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
 1	an	art	?	_	_	_	_	_	Gloss=le
 2	den-ze	den	nom	_	_	_	_	_	Gloss=homme
-3	ne	ne	?	1	_	_	_	_	Gloss=ne
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 4	efe	evañ	verbe	_	_	_	_	_	Gloss=buvait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	boesoñ	boeson	nom	_	_	_	_	_	Gloss=alcool
@@ -155,7 +155,7 @@
 
 # sent_id = Bouzec & al. (2017:69)__1
 # text =  'mézè aon a i rok!
-# text_fr =  'Il me faisait peur!' 
+# text_fr = 'Il me faisait peur!'
 1	??	??	?	_	_	_	_	_	Gloss=Me
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	'	'	?	_	_	_	_	_	Gloss=am
@@ -168,25 +168,25 @@
 
 # sent_id = ArGow(1999:19)__1
 # text = Met a-raok tamall den ebet da laerezh ho tanvez-amann....
-# text_fr =  'Mais avant d'accuser quiconque de voler votre crème... ' 
+# text_fr = 'Mais avant d'accuser quiconque de voler votre crème... '
 # dialect = Cornouaillais
 # location = Pleyben
 # source = Ar Gow (1999)
 # texttype = Références de corpus
-1	Met	met	complémenteur-conjonction	_	_	_	_	_	Gloss=mais
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
 2	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
 3	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
 4	den	den	nom	_	_	_	_	_	Gloss=homme
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	da	da	préposition	1	_	_	_	_	Gloss=de
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 7	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
-8	ho	POSS	?	3	_	_	_	_	Gloss=votre
+8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
 9	tanvez-amann...	danvez	nom	_	_	_	_	_	Gloss=matière
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = arGow(1999:15)__1
 # text = An deiz-se e voe ur pennad amzer a-raok lavarout nemeur a dra.
-# text_fr =  'Ce jour là, elle resta un moment avant de dire peu de choses.' 
+# text_fr = 'Ce jour là, elle resta un moment avant de dire peu de choses.'
 # location = Pleyben
 # source = ar Gow (1999)
 1	An	art	?	_	_	_	_	_	Gloss=le
@@ -199,13 +199,13 @@
 8	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
 9	lavarout	lavarout	verbe	_	_	_	_	_	Gloss=dire
 10	nemeur	nemeur	adverbe	_	_	_	_	_	Gloss=guère
-11	a	a	préposition	1	_	_	_	_	Gloss=de
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 12	dra	tra	nom	_	_	_	_	_	Gloss=chose
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Nicolas (2005:22)__1
 # text = Ar gwellañ eo m'eh ahec'h a-raok ahanemañ.
-# text_fr =  'Le mieux c'est que vous partiez.' 
+# text_fr = 'Le mieux c'est que vous partiez.'
 # text_phon = ['[ ər ɟɥelãn', 'ø', 'mi', 'hehɛχ', 'arɔk', 'ahanəma ]']
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux

@@ -1,0 +1,14 @@
+# sent_id = Berthou(1985:73)__1
+# text = E ti hen-ha-hen ez eo bet ar wastell.
+# text_fr = 'Chez untel, c'est la fin des foins.'
+# source = Berthou (1985)
+# texttype = Références de corpus
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	hen-ha-hen	DEM	?	_	_	_	_	_	Gloss=celui
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	wastell	wastell	?	_	_	_	_	_	Gloss=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

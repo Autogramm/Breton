@@ -1,0 +1,400 @@
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__5
+# text = Pep dessin bleunioù en deus roget ur c'hruadur bennak.
+# text_fr = 'Un enfant a déchiré chaque dessin de fleur.' (il y a en contexte un seul enfant)
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	dessin	dessin	?	_	_	_	_	_	Gloss=dessin
+3	bleunioù	bleuñ.-ioù	?.?	_	_	_	_	_	Gloss=fleur.s
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	roget	roget	?	_	_	_	_	_	Gloss=déchiré
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	c'hruadur	krouadur	nom	_	_	_	_	_	Gloss=enfant
+9	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__3
+# text = bed en deus (ur servicher bennak) renket pep taol.
+# text_fr = 'Un serveur a rangé chaque table/ toutes les tables.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	bed	bed	nom	_	_	_	_	_	Gloss=eu
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	(ur	art	?	_	_	_	_	_	Gloss=un
+5	servicher	servicher	?	_	_	_	_	_	Gloss=serveur
+6	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	renket	renket	?	_	_	_	_	_	Gloss=rangé
+8	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+9	taol	taol(F.)	?	_	_	_	_	_	Gloss=table
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Pep taol (ur servicher bennak <<) en deus renket (ur servicher bennak).
+# text_fr = 'Un serveur a rangé chaque table/ toutes les tables.' (il y a en contexte un seul serveur)
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	taol	taol(F.)	?	_	_	_	_	_	Gloss=table
+3	(ur	art	?	_	_	_	_	_	Gloss=un
+4	servicher	servicher	?	_	_	_	_	_	Gloss=serveur
+5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+6	<<)	<<)	?	_	_	_	_	_	Gloss=?
+7	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+8	deus	kaout	?	_	_	_	_	_	Gloss=a
+9	renket	renket	?	_	_	_	_	_	Gloss=rangé
+10	(ur	art	?	_	_	_	_	_	Gloss=un
+11	servicher	servicher	?	_	_	_	_	_	Gloss=serveur
+12	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__2
+# text = Ma z'eus gwall amzer ar bagoù ne c'hellint ket mont er-meas.
+# text_fr = 'Si le temps est mauvais, les bateaux ne pourront pas sortir.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	z'	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	gwall	gwall	?	_	_	_	_	_	Gloss=mauvais
+5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	bagoù	bag.-où(PL.)	nom.?	_	_	_	_	_	Gloss=bateau.x
+8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	c'hellint	gallout	verbe	_	_	_	_	_	Gloss=pourront
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+12	er-meas	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ma houezan e veho avel Nort, e sarin ar bouliji.
+# text_fr = 'Si je sais qu'il y aura du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	houezan	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	veho	COP	?	_	_	_	_	_	Gloss=sera
+5	avel	avel	nom	_	_	_	_	_	Gloss=vent
+6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	sarin	serriñ	verbe	_	_	_	_	_	Gloss=fermerai
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ma houezan e veho avel Nort, me a saro ar bouliji.
+# text_fr = 'Si je sais qu'il y aura du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	houezan	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	veho	COP	?	_	_	_	_	_	Gloss=sera
+5	avel	avel	nom	_	_	_	_	_	Gloss=vent
+6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	me	pfi	?	_	_	_	_	_	Gloss=moi
+9	a	serriñ	verbe	_	_	_	_	_	Gloss=fermera
+10	saro	saro	nom	_	_	_	_	_	Gloss=?
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ma houefen e veche avel Nort, e sarfen ar bouliji.
+# text_fr = 'Si je savais qu'il y aurait du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	houefen	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	veche	COP	?	_	_	_	_	_	Gloss=serait
+5	avel	avel	nom	_	_	_	_	_	Gloss=vent
+6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	sarfen	serriñ	verbe	_	_	_	_	_	Gloss=fermerai
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ma avel Nort e veche, e sarfen ar bouliji.
+# text_fr = 'S'il y avait du vent du Nord, je fermerai les volets.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	avel	avel	nom	_	_	_	_	_	Gloss=vent
+3	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	veche	COP	?	_	_	_	_	_	Gloss=serait
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	sarfen	serriñ	verbe	_	_	_	_	_	Gloss=fermerai
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bouliji	boulij.-i(PL.)	nom.?	_	_	_	_	_	Gloss=volet.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Pa neus (Anna<<) kroget (Anna) el loa em eus komprenet edo o vont da benturiñ tout ar guzun.
+# text_fr = 'Quand Anna a brandi la cuillière, j'ai compris qu'elle allait me repeindre toute la cuisine.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	(Anna<<)	nompropre	?	_	_	_	_	_	Gloss=Anna
+4	kroget	kroget	?	_	_	_	_	_	Gloss=croché
+5	(Anna)	nompropre	?	_	_	_	_	_	Gloss=Anna
+6	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
+8	em	em	?	_	_	_	_	_	Gloss=R|Morph=4
+9	eus	kaout	?	_	_	_	_	_	Gloss=ai
+10	komprenet	komprenet	?	_	_	_	_	_	Gloss=compris
+11	edo	COP	?	_	_	_	_	_	Gloss=était
+12	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+13	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+14	da	da	préposition	_	_	_	_	_	Gloss=pour
+15	benturiñ	benturiñ	?	_	_	_	_	_	Gloss=peindre
+16	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+17	ar	art	?	_	_	_	_	_	Gloss=le
+18	guzun	guzun	?	_	_	_	_	_	Gloss=cuisine
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Malerusamant pep kruadur en deus roget e zessin.
+# text_fr = 'Malheureusement, chauqe enfant a déchiré son dessin.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Malerusamant	Malerusamant	interjection-adverbe	_	_	_	_	_	Gloss=malheureusement
+2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	kruadur	kruadur	?	_	_	_	_	_	Gloss=enfant
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	roget	roget	?	_	_	_	_	_	Gloss=déchiré
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	zessin	zessin	?	_	_	_	_	_	Gloss=dessin
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Ar friko-mañ a zo deuet da ger. Ur servicher a yoa evit renkañ pep taol! (17 servicher)
+# text_fr = 'Ce mariage a occasionné des frais insensés. Il y avait un serveur par table pour ranger!' (17 tables, 17 serveurs)
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	friko-mañ	friko	nom	_	_	_	_	_	Gloss=dîner
+3	a	zo	préposition	_	_	_	_	_	Gloss=est
+4	zo	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	deuet	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	ker	adjectif	_	_	_	_	_	Gloss=cher
+7	ger.	ger.	?	_	_	_	_	_	Gloss=?
+8	Ur	art	?	_	_	_	_	_	Gloss=un
+9	servicher	servicher	?	_	_	_	_	_	Gloss=serveur
+10	a	a	préposition	_	_	_	_	_	Gloss=R
+11	yoa	COP	?	_	_	_	_	_	Gloss=était
+12	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+13	renkañ	renkañ	verbe	_	_	_	_	_	Gloss=ranger
+14	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+15	taol	taol(F.)	?	_	_	_	_	_	Gloss=table
+16	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__15
+# text = Me meus hureet en nos.
+# text_fr = 'J'ai rêvé cette nuit.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	hureet	hureet	?	_	_	_	_	_	Gloss=rêvé
+4	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	nos	noz	nom	_	_	_	_	_	Gloss=nuit
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__9
+# text = Daouchte (hag) Anna a yoa foug en enni o fichañ al loa pe daouchte me am eus hureet ?
+# text_fr = 'Est-ce que Anna a fièrement brandi la cuillière ou est-ce que je l'avais inventé ?'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Daouchte	daoust	complémenteur	_	_	_	_	_	Gloss=est-ce
+2	(hag)	C.ha(g)	?	_	_	_	_	_	Gloss=que
+3	Anna	nompropre	?	_	_	_	_	_	Gloss=Anna
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	yoa	COP	?	_	_	_	_	_	Gloss=était
+6	foug	foug	nom	_	_	_	_	_	Gloss=fierté
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
+11	al	art	?	_	_	_	_	_	Gloss=le
+12	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
+13	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+14	daouchte	daoust	complémenteur	_	_	_	_	_	Gloss=est-ce
+15	me	pfi	?	_	_	_	_	_	Gloss=moi
+16	am	am	?	_	_	_	_	_	Gloss=R
+17	eus	kaout	?	_	_	_	_	_	Gloss=a
+18	hureet	hunvreal	verbe	_	_	_	_	_	Gloss=rêvé
+19	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
+# text = Daouchte [[nom propre|Anna]] a yoa foug en enni o fichañ al loa pe daouchte hureet am eus ?
+# text_fr = 'Est-ce que Anna a fièrement brandi la cuillière ou est-ce que je l'avais inventé ?'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Daouchte	daoust	complémenteur	_	_	_	_	_	Gloss=est-ce
+2	[[nom	nompropre	?	_	_	_	_	_	Gloss=Anna
+3	propre|Anna]]	propre|Anna]]	?	_	_	_	_	_	Gloss=R
+4	a	COP	préposition	_	_	_	_	_	Gloss=était
+5	yoa	foug	nom	_	_	_	_	_	Gloss=fierté
+6	foug	foug	nom	_	_	_	_	_	Gloss=?
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
+11	al	art	?	_	_	_	_	_	Gloss=le
+12	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
+13	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+14	daouchte	daoust	complémenteur	_	_	_	_	_	Gloss=est-ce
+15	hureet	hunvreal	verbe	_	_	_	_	_	Gloss=rêvé
+16	am	am	?	_	_	_	_	_	Gloss=R
+17	eus	kaout	?	_	_	_	_	_	Gloss=a
+18	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__18
+# text = Bevañ a reomp ur poent ar vugale a hoar en em zervicha gwelloc'h it o zud gant an ordinateur.
+# text_fr = 'Nous vivons un temps où les enfants savent plus des ordinateurs que leurs parents.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	poent	poent	nom	_	_	_	_	_	Gloss=temps
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	hoar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+10	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+11	em	em	?	_	_	_	_	_	Gloss=servir
+12	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
+13	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+14	it	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+15	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+16	zud	tud	nom	_	_	_	_	_	Gloss=parents
+17	gant	gant	?	_	_	_	_	_	Gloss=avec
+18	an	art	?	_	_	_	_	_	Gloss=le
+19	ordinateur	ordinateur	?	_	_	_	_	_	Gloss=ordinateur
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__8
+# text = Bevañ a reomp ur poent hag ar vugale a hoar/e houezont en em zervicha gwelloc'h it o zud gant an ordinateur.
+# text_fr = 'Nous vivons un temps où les enfants savent plus des ordinateurs que leurs parents.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Bevañ	Bevañ	verbe	_	_	_	_	_	Gloss=vivre
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	poent	poent	nom	_	_	_	_	_	Gloss=temps
+6	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+7	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+8	vugale	vugale	?	_	_	_	_	_	Gloss=enfants
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	hoar/e	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+11	houezont	houezont	?	_	_	_	_	_	Gloss=?
+12	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+13	em	em	?	_	_	_	_	_	Gloss=servir
+14	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
+15	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+16	it	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+17	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+18	zud	zud	?	_	_	_	_	_	Gloss=parents
+19	gant	gant	?	_	_	_	_	_	Gloss=avec
+20	an	art	?	_	_	_	_	_	Gloss=le
+21	ordinateur	ordinateur	?	_	_	_	_	_	Gloss=ordinateur
+22	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016),(préférencepour..endeuslesket...)__1
+# text = Ken presset evedo d'hon kuit, (lesket) e(n) deus (lesket) tout e draoù.
+# text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
+2	presset	presset	?	_	_	_	_	_	Gloss=pressé
+3	evedo	COP	?	_	_	_	_	_	Gloss=était
+4	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	hon	mont	verbe	_	_	_	_	_	Gloss=aller
+6	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	(lesket)	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+9	e(n)	e(n)	?	_	_	_	_	_	Gloss=R
+10	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	(lesket)	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+12	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	draoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__17
+# text = Kement a vall e oa warnañ da vont kuit en neus lesket e holl draoù war e lerc'h.
+# text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (05/2016)
+# texttype = Élicitations
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	vall	mall	nom	_	_	_	_	_	Gloss=hâte
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+10	en	en	complémenteur	_	_	_	_	_	Gloss=R
+11	neus	kaout	?	_	_	_	_	_	Gloss=a
+12	lesket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout|Morph=1
+15	draoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+16	war	war	?	_	_	_	_	_	Gloss=sur
+17	e	POSS	?	_	_	_	_	_	Gloss=son
+18	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
+19	.	.	PUNCT	_	_	_	_	Gloss=punct

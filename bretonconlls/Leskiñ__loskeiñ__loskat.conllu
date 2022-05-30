@@ -1,0 +1,23 @@
+# sent_id = Noyer (2019:314)__1
+# text = Ar youd zo lesket.
+# text_fr = 'La bouillie a brûlé.'
+# text_phon = ['[ɐ ˈjuːt', 'zo', 'ˈlɛːskət]']
+1	zo	zo	?	_	_	_	_	_	Gloss=est
+2	lesket	lesket	?	_	_	_	_	_	Gloss=brûlé
+3	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:392)__5
+# text = Pa vez glebiet ar biz e ya al lesk kuit.
+# text_fr = 'Quand on mouille le doigt, la sensation de brûlure disparaît.'
+# source = Gros (1984)
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=Pa|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	glebiet	gleb.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=mouill.é
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	biz	biz	nom	_	_	_	_	_	Gloss=doigt
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	ya	mont	verbe	_	_	_	_	_	Gloss=va
+8	al	art	?	_	_	_	_	_	Gloss=le
+9	lesk	lesk	?	_	_	_	_	_	Gloss=brûle
+10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

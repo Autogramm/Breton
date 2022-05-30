@@ -1,0 +1,36 @@
+# sent_id = ArGo(1950:5)__4
+# text = koñchennou sebezus hag a lakae va c'halon a vugel da strafuilha gant ar spont.
+# text_fr = 'Des contes stupéfiants qui faisaient trembler de peur mon cœur d'enfant.'
+# location = Pleyben
+# source = Ar Go (1950)
+# texttype = Références de corpus
+1	koñchennou	koñchenn.-où(PL.)	?.?	_	_	_	_	_	Gloss=conte.s
+2	sebezus	sebezus	?	_	_	_	_	_	Gloss=stupéfiant
+3	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	lakae	lakaat	verbe	_	_	_	_	_	Gloss=mettait
+6	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	c'halon	kalon	nom	_	_	_	_	_	Gloss=cœur
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	vugel	bugel	nom	_	_	_	_	_	Gloss=enfant
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	strafuilha	strafuilhañ	verbe	_	_	_	_	_	Gloss=trembler
+12	gant	gant	?	_	_	_	_	_	Gloss=par
+13	ar	art	?	_	_	_	_	_	Gloss=le
+14	spont	spont	nom	_	_	_	_	_	Gloss=peur
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:14)__1
+# text = E taoler houarnaj ken nend eo ur spont.
+# text_fr = 'On jette du fer que c'en est effrayant.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+2	taoler	teuler.IMP	?.?	_	_	_	_	_	Gloss=jette.on
+3	houarnaj	houarn.-aj	nom.?	_	_	_	_	_	Gloss=fer.N
+4	nend	nend	?	_	_	_	_	_	Gloss=ne
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	ur	art	?	_	_	_	_	_	Gloss=un
+7	spont	spont	nom	_	_	_	_	_	Gloss=effroi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

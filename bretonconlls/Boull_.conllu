@@ -1,0 +1,20 @@
+# sent_id = Trégorrois,Blanchard(2016)__1
+# text = Me am meus gwelet boulboazet pe hanter boazet an donenn lakaet e-barzh ar paste.
+# text_fr = 'J'ai vu mettre dans le pâté jusqu'à la couenne mal cuite ou à moitié cuite.'
+# source = Blanchard (2016)
+# texttype = Ouvrages de recherche
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	am	am	?	_	_	_	_	_	Gloss=1SG
+3	meus	kaout	?	_	_	_	_	_	Gloss=a
+4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	boulboazet	boulboazet.poazhañ	?.verbe	_	_	_	_	_	Gloss=1.cuit
+6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+7	hanter	hanter-	?	_	_	_	_	_	Gloss=moitié|Morph=1
+8	boazet	boazet	?	_	_	_	_	_	Gloss=?
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	donenn	donenn	?	_	_	_	_	_	Gloss=couenne
+11	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+12	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+13	ar	art	?	_	_	_	_	_	Gloss=le
+14	paste	paste	?	_	_	_	_	_	Gloss=pâté
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,71 @@
+# sent_id = ArFloc'h(1985:117)__1
+# text = lezet em oa an dud da gempenn o sivi evel ma'c'h intentent.
+# text_fr = '...j'avais laissé les gens s'occuper de leurs fraises comme ils le voulaient.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	lezet	lezel	?	_	_	_	_	_	Gloss=laissé
+2	em	em	?	_	_	_	_	_	Gloss=1SG
+3	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	gempenn	gempenn	?	_	_	_	_	_	Gloss=arranger
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	sivi	sivi	nom	_	_	_	_	_	Gloss=fraises
+10	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+11	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
+12	c'h	c'h	?	_	_	_	_	_	Gloss=?
+13	intentent	intentent	?	_	_	_	_	_	Gloss=entendaient
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:79)__1
+# text = Pep unan em gempenn...
+# text_fr = 'Chacun se fait beau... '
+# source = Herrieu (1994)
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+3	em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	gempenn..	gempenn..	?	_	_	_	_	_	Gloss=nettoyer
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau/Diwan,M.Lincoln[28/06/2014]__1
+# text = Pa erruen, ar vugale a oa alies o kempenn o c'hoarioù.
+# text_fr = 'Quand j'arrivais, les enfants étaient souvent en train de réparer leurs jeux.'
+# source = M. Lincoln
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	erruen	arru	?	_	_	_	_	_	Gloss=arrivais
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	kempenn	kempenn	verbe	_	_	_	_	_	Gloss=réparer
+11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	c'hoarioù	c'hoari.-où	?.?	_	_	_	_	_	Gloss=jeu.x
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:45)__1
+# text = Ouspenn e ranked aoza ar gweleou, skuba, kempenn, tenna dour euz ar puns…
+# text_fr = 'En plus on devait faire les lits, balayer, nettoyer, tirer l'eau du puits… '
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ouspenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ranked	rankout.IMP	verbe.?	_	_	_	_	_	Gloss=devait.on
+4	aoza	aozañ	verbe	_	_	_	_	_	Gloss=faire
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	gweleou	gwele	nom	_	_	_	_	_	Gloss=lit
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	skuba	skubañ	?	_	_	_	_	_	Gloss=balayer
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	kempenn	kempenn	verbe	_	_	_	_	_	Gloss=nettoyer
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+13	dour	dour	nom	_	_	_	_	_	Gloss=eau
+14	euz	eus	?	_	_	_	_	_	Gloss=de
+15	ar	art	?	_	_	_	_	_	Gloss=le
+16	puns…	puñs	nom	_	_	_	_	_	Gloss=puits

@@ -1,0 +1,87 @@
+# sent_id = Gros(1970:133)__1
+# text = Evelkent, a-benn laza eun den e vez red beza kriz.
+# text_fr = 'Tout de même, pour tuer un homme, il faut être cruel.'
+# source = Gros (1970)
+1	Evelkent	Evelkent	adverbe	_	_	_	_	_	Gloss=|tout.de.même
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+4	laza	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
+5	eun	art	?	_	_	_	_	_	Gloss=un
+6	den	den	nom	_	_	_	_	_	Gloss=homme
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	red	ret	?	_	_	_	_	_	Gloss=obligé
+10	beza	bezan	?	_	_	_	_	_	Gloss=être
+11	kriz	kriz	adjectif	_	_	_	_	_	Gloss=cruel
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:104)__1
+# text = Pas réi kem-sen traou doñ, aken !
+# text_fr = 'Soyez moins généreux tout de même !'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Pas	Pas	?	_	_	_	_	_	Gloss=pas
+2	réi	reiñ	verbe	_	_	_	_	_	Gloss=donner
+3	kem-sen	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tant
+4	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+5	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	aken	aken	?	_	_	_	_	_	Gloss=tout.de.même
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'kalon')__1
+# text = Ze, evelkent, a oa eur galonad dezi da gaoud.
+# text_fr = 'C'était tout de même un crève-cœur pour elle.'
+# source = Gros (1989)
+1	Ze	ze	?	_	_	_	_	_	Gloss=ça
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	evelkent	evelkent	adverbe	_	_	_	_	_	Gloss=tout.de.même
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+8	galonad	kalon.-ad	nom.?	_	_	_	_	_	Gloss=cœur.-ée
+9	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elegoet(1975:9)__1
+# text = Ma vijes o c'hoari kanetennoù [...], oas ket gouest da jom eken pesogwir e rankes klask eun all.
+# text_fr = 'Si on était en train de jouer, on ne pouvait même pas rester parce qu'on devait en chercher un autre.'
+# location = Plougerneau
+# source = Elegoet (1975)
+# texttype = Ouvrages de recherche
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	vijes	COP	?	_	_	_	_	_	Gloss=serais
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
+5	kanetennoù	kanetenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=canette.s
+6	[...],	[...],	?	_	_	_	_	_	Gloss=?
+7	oas	COP	?	_	_	_	_	_	Gloss=étais
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	jom	chom	verbe	_	_	_	_	_	Gloss=rester
+12	eken	eken	?	_	_	_	_	_	Gloss=même
+13	pesogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
+14	e	e	?	_	_	_	_	_	Gloss=R
+15	rankes	rankout	verbe	_	_	_	_	_	Gloss=dois
+16	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+17	eun	art	?	_	_	_	_	_	Gloss=un
+18	all	all	?	_	_	_	_	_	Gloss=autre
+19	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:12)__1
+# text = Sort-mañ zo dibordet alkent !
+# text_fr = 'Ceux-ci n'ont pas de limites !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Sort-mañ	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	dibordet	di-.bord.-et(Adj.)	?.?.?	_	_	_	_	_	Gloss=sans.limite.é
+4	alkent	alkent	?	_	_	_	_	_	Gloss=tout.de.même
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

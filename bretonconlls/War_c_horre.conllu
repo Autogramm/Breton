@@ -1,0 +1,18 @@
+# sent_id = Favereau(1997:§710)__1
+# text = Gwelloc'h ' tae ar c'hoaven war-c'horre, daspugnet gant ur loa-bod.
+# text_fr = 'La crème remontait mieux à la surface, qu'on ramassait à la louche.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+3			PUNCT	_	_	_	_	Gloss=punct
+4	tae	dont	verbe	_	_	_	_	_	Gloss=venait
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	c'hoaven	koaven	nom	_	_	_	_	_	Gloss=crème
+7	war-c'horre	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	daspugnet	daspugn.-et(Adj.)	?.?	_	_	_	_	_	Gloss=ramass.é
+10	gant	gant	?	_	_	_	_	_	Gloss=avec
+11	ur	art	?	_	_	_	_	_	Gloss=un
+12	loa-bod	pod	nom	_	_	_	_	_	Gloss=pot|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,77 @@
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Bobby Fisher a ioa ur c'hoarier bras, a goulscoude e vez lavaret ec'h ev kalz.
+# text_fr = 'Bobby Fisher était un grand joueur, bien qu'on dit qu'il buvait beaucoup.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Bobby	Bobby	?	_	_	_	_	_	Gloss=[[nompropre|Bobby
+2	Fisher	Fisher	?	_	_	_	_	_	Gloss=Fisher]]]
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ioa	COP	?	_	_	_	_	_	Gloss=était
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	c'hoarier	c'hoari.-er	?.?	_	_	_	_	_	Gloss=jeu.eur
+7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	a	&	préposition	_	_	_	_	_	Gloss=et
+10	goulscoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+14	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
+15	ev	ev	?	_	_	_	_	_	Gloss=boit
+16	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__18
+# text = Petra nin gav ma evomp leazh tarzhet ?
+# text_fr = 'Qu'est-ce qui arrive si on boit du lait tourné ?'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	nin	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+3	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
+4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+5	evomp	evomp	?	_	_	_	_	_	Gloss=buvons
+6	leazh	laezh	nom	_	_	_	_	_	Gloss=lait
+7	tarzhet	tarzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=explos.é
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__9
+# text = Den ne faotfe dehoñ ewo ha bleniañ 'sames.
+# text_fr = 'On ne devrait pas boire et conduire en même temps.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Den	nomnu	nom	_	_	_	_	_	Gloss=humain
+2	ne	ne	?	_	_	_	_	_	Gloss=ne
+3	faotfe	faotan	?	_	_	_	_	_	Gloss=faudrait
+4	dehoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	ewo	ewo	?	_	_	_	_	_	Gloss=boire
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	bleniañ	bleniañ	verbe	_	_	_	_	_	Gloss=conduire
+8	'	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
+9	sames.	sames.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__10
+# text = Nag a voeson ez eus evet !
+# text_fr = 'On a bu beaucoup !'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	voeson	boeson	nom	_	_	_	_	_	Gloss=boisson
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+6	evet	evet	?	_	_	_	_	_	Gloss=bu
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Académiebretonne(1922:153)__1
+# text = goude d'ezan eva
+# text_fr = 'Bien qu'il boive.'
+# source = Académie bretonne (1922)
+# texttype = Ouvrages de recherche
+1	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+2	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+3	ezan	ezan	?	_	_	_	_	_	Gloss=?
+4	eva	eva	?	_	_	_	_	_	Gloss=boire

@@ -1,0 +1,20 @@
+# sent_id = Ternes(1970:220)__1
+# text = /urfal waŋaex / (forme non-mutée = gwaŋaex / , 'hiver')
+# text_fr = 'un mauvais hiver.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/urfal	art	?	_	_	_	_	_	Gloss=un
+2	waŋaex	goañv.-vezh	nom.nom	_	_	_	_	_	Gloss=hiver.ée
+3	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:220)__1
+# text = /gober fal we:t / (forme non-mutée = gwe:t / , 'sang')
+# text_fr = 'se faire du mauvais sang.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/gober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	fal	fal	?	_	_	_	_	_	Gloss=1
+3	we:t	gwad	nom	_	_	_	_	_	Gloss=sang
+4	/	/	PUNCT	_	_	_	_	Gloss=punct

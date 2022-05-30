@@ -1,0 +1,27 @@
+# sent_id = ArFloc'h(1950:77)__1
+# text = "Na Doue na mestr !" e youc'he.
+# text_fr = "Ni Dieu ni maître !", s'exclamait-il.'
+# location = Pleyben
+# source = Ar Floch (1950)
+1	"Na	na...na	?	_	_	_	_	_	Gloss=ni
+2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+3	na	na...na	?	_	_	_	_	_	Gloss=ni
+4	mestr	mestr	nom	_	_	_	_	_	Gloss=maître
+5	!"	!"	?	_	_	_	_	_	Gloss=?
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	youc'he	youc'he	?	_	_	_	_	_	Gloss=exclamait
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:19)__1
+# text = Ne dalv ket youc'hal evel-se, aotrou !
+# text_fr = 'Inutile de crier comme ça, monsieur !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	dalv	talvezout	verbe	_	_	_	_	_	Gloss=vaut
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	youc'hal	youc'hal	?	_	_	_	_	_	Gloss=crier
+5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+8	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,308 @@
+# sent_id = Fave(1998:136)__1
+# text = Hag hi ha mont.
+# text_fr = 'Et elle s'en alla.'
+# dialect = Léonard
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	hi	Pfi	?	_	_	_	_	_	Gloss=elle
+3	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Juluen(1935:19)__1
+# text = Ha me ha mont d'o c'havout, ha goulenn outo doare pe doare a-zivout kêr...
+# text_fr = 'Je fus les trouver et leur demandai quelque renseignement sur la ville... '
+# dialect = Trégorrois
+# source = Juluen (1935)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
+7	c'havout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ha	&	?	_	_	_	_	_	Gloss=et
+10	goulenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
+11	outo	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+12	doare	doare	nom	_	_	_	_	_	Gloss=info
+13	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+14	doare	doare	nom	_	_	_	_	_	Gloss=info
+15	a-zivout	a-zivout	?	_	_	_	_	_	Gloss=sur
+16	kêr..	kêr	nom	_	_	_	_	_	Gloss=ville
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bijer(2003:17).__1
+# text = Hag eñ ha stouiñ.
+# text_fr = 'Et il se baissa.'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2003)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	stouiñ	stouiñ	verbe	_	_	_	_	_	Gloss=baisser
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:401)__2
+# text = Hag ar plac'hig ha dirollañ da ouelañ.
+# text_fr = 'La fillette fondit en larmes.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	plac'hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
+4	ha	&	?	_	_	_	_	_	Gloss=et
+5	dirollañ	diroll	verbe	_	_	_	_	_	Gloss=commencer
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	ouelañ	gouelañ	verbe	_	_	_	_	_	Gloss=pleurer
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:66)__1
+# text = Ha ni da skampiñ.
+# text_fr = 'Et nous de prendre la poudre d'escampette !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	ni	pfi	?	_	_	_	_	_	Gloss=nous
+3	da	da	préposition	_	_	_	_	_	Gloss=de
+4	skampiñ	skampiñ	?	_	_	_	_	_	Gloss=s.échapper
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen (1990:24)__1
+# text = Sevel a reas prim he brozh du, ...
+# text_fr = 'Elle leva lestement sa jupe et se gratta le genou droit.'
+1	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	prim	prim	?	_	_	_	_	_	Gloss=lestement
+5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	brozh	brozh	nom	_	_	_	_	_	Gloss=jupe
+7	du,	du	adjectif	_	_	_	_	_	Gloss=noir
+8	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__1
+# text = ha me ha badadav da vont d’ar bord all.
+# text_fr = '... Et patratras ! Je me suis évanouie !'
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	bord	bord	?	_	_	_	_	_	Gloss=bord
+7	all	all	?	_	_	_	_	_	Gloss=autre
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:69)__1
+# text = Ha da fardiñ àrnin, fachet ruz.
+# text_fr = 'Et de se jeter sur moi, fâché rouge.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	da	da	préposition	_	_	_	_	_	Gloss=de
+3	fardiñ	fardañ	?	_	_	_	_	_	Gloss=fondre
+4	àrnin	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.moi
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	fachet	fachañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=fâch.é
+7	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:66)__1
+# text = Ha da redek àr-lerc'h al logodenn.
+# text_fr = 'Et de courir après la souris.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	da	da	préposition	_	_	_	_	_	Gloss=de
+3	redek	redek	verbe	_	_	_	_	_	Gloss=courir
+4	àr-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+5	al	art	?	_	_	_	_	_	Gloss=le
+6	logodenn	logod.-enn	nom.nom	_	_	_	_	_	Gloss=souris.SG
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois,AnelaDuval,[https://www.anjela.org/oberenn/2512-2/?lang=bzTad-kozhRoperz-Huon]__1
+# text = Ha va zad-kozh kerkent ha da stagañ war ar wetur da vont da Bederneg.
+# text_fr = 'Et mon grand-père prit aussitôt la voiture pour aller à Pédernec.'
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	zad-kozh	tad	nom	_	_	_	_	_	Gloss=père
+4	kerkent	kerkent	adverbe	_	_	_	_	_	Gloss=aussitôt
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	stagañ	stagañ	verbe	_	_	_	_	_	Gloss=coller
+8	war	war	?	_	_	_	_	_	Gloss=sur
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	wetur	gwetur	nom	_	_	_	_	_	Gloss=voiture|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+14	Bederneg	nompropre	?	_	_	_	_	_	Gloss=Pédernec
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:66)__1
+# text = Hag heñv _ monet kuit kentizh.
+# text_fr = 'Et lui de s'en aller sur-le-champ.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	heñv	pfi	?	_	_	_	_	_	Gloss=lui
+3	_	_	?	_	_	_	_	_	Gloss=
+4	monet	mont	verbe	_	_	_	_	_	Gloss=aller
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	kentizh	kentizh	adverbe	_	_	_	_	_	Gloss=aussi.vite
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:401)__1
+# text = Hag Yannig _ dont da di e baeron.
+# text_fr = 'Yannick vint chez son parrain.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	Yannig	nompropre	?	_	_	_	_	_	Gloss=Yannick
+3	_	_	?	_	_	_	_	_	Gloss=
+4	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	di	ti	nom	_	_	_	_	_	Gloss=maison
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	baeron	paeron	nom	_	_	_	_	_	Gloss=parrain
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'a-droujouëz')__1
+# text = Hag eñ o vond a-droujouez war ar gwele.
+# text_fr = 'Et le voila qui tombe à la renverse, comme une masse, sur le lit.'
+# source = Gros (1989)
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+3	o	particuleo	?	_	_	_	_	_	Gloss=de]|Morph=4
+4	vond	mont	verbe	_	_	_	_	_	Gloss=aller
+5	a-droujouez	a-droujouez	adverbe	_	_	_	_	_	Gloss=en.masse
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	gwele	gwele	nom	_	_	_	_	_	Gloss=lit
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bijer(2003:16).__1
+# text = Hag Yann Duff o niveri anezo.
+# text_fr = 'Et (voilà) Yann Duff parti à les compter.'
+# dialect = Cornouaillais
+# location = bigouden
+# source = Bijer (2003)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	Yann	Yann	?	_	_	_	_	_	Gloss=[[nompropre|Yann
+3	Duff	Duff	?	_	_	_	_	_	Gloss=Duff]]]
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	niveri	niveri	?	_	_	_	_	_	Gloss=compter
+6	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:401)__1
+# text = Hag an holl kuit.
+# text_fr = 'Ils partirent tous.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+4	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:401)__1
+# text = Hag ar marc'h gant hent Brest.
+# text_fr = 'Et le cheval prit la route de Brest.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
+4	gant	gant	?	_	_	_	_	_	Gloss=avec
+5	hent	hent	nom	_	_	_	_	_	Gloss=chemin
+6	Brest	nompropre	?	_	_	_	_	_	Gloss=Brest
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:64)__1
+# text = Setu ha me mont da gaout unan eus ar gelennerien...
+# text_fr = 'J'allai donc trouver l'un des enseignants... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+7	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+8	eus	eus	?	_	_	_	_	_	Gloss=de
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gelennerien..	kelenn	?	_	_	_	_	_	Gloss=enseign]].[[-erien|ants|Morph=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:196)__2
+# text = a chetu hint ac er méas...
+# text_fr = '... (Ils prirent leurs bâtons) et sortirent... '
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	a	&	préposition	_	_	_	_	_	Gloss=et
+2	chetu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+3	hint	pfi	?	_	_	_	_	_	Gloss=eux
+4	ac	ha(g)	?	_	_	_	_	_	Gloss=et
+5	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+6	méas...	méas...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = ArFloc'h(1985:114)__2
+# text = Setu antronoz vintin ha me en hent...
+# text_fr = 'Et me voila donc en route le lendemain matin... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
+3	vintin	mintin	nom	_	_	_	_	_	Gloss=matin|Morph=1
+4	ha	&	?	_	_	_	_	_	Gloss=et
+5	me	pfi	?	_	_	_	_	_	Gloss=moi
+6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	hent..	hent	nom	_	_	_	_	_	Gloss=route
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1922:347)__7
+# text = Setu Mónig ha da heul he zud d'an Aber.
+# text_fr = 'Monique suivit ses parents à l'Aber.'
+# location = Bodilis
+# source = Ar Floch (1922)
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	Mónig	nompropre	?	_	_	_	_	_	Gloss=Monique
+3	ha	ha(g)	?	_	_	_	_	_	Gloss=et
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+5	heul	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
+6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	zud	tud	nom	_	_	_	_	_	Gloss=parents
+8	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	Aber	nompropre	?	_	_	_	_	_	Gloss=Aber
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:79)__1
+# text = Me adarre ha da Vrest, tizh warnon...
+# text_fr = 'Et moi de m'en retourner à Brest en vitesse... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	adarre	adarre	adverbe	_	_	_	_	_	Gloss=de.retour
+3	ha	ha(g)	?	_	_	_	_	_	Gloss=et
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+5	Vrest	nompropre	?	_	_	_	_	_	Gloss=Brest
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	tizh	tizh	nom	_	_	_	_	_	Gloss=vitesse
+8	warnon..	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.moi
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

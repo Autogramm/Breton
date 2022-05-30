@@ -1,0 +1,189 @@
+# sent_id = Gros(1966:11)__1
+# text = Ma zud na c'houlent ket miret ahanon.
+# text_fr = 'Mes parents ne voulaient pas me garder.'
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	zud	tud	nom	_	_	_	_	_	Gloss=gens
+3	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
+4	c'houlent	c'houlent	?	_	_	_	_	_	Gloss=demandaient
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	miret	mirout	verbe	_	_	_	_	_	Gloss=garder
+7	ahanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:8)__1
+# text = Ignatich en deus goulennet bezañ kelenner e kreizig-kreiz Rusia.
+# text_fr = 'Ignatich a demandé à être professeur au beau milieu de la Russie.'
+# dialect = Trégorrois
+# location = Kaouenneg
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	Ignatich	nompropre	?	_	_	_	_	_	Gloss=Ignatich
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	goulennet	goulennet	?	_	_	_	_	_	Gloss=demandé
+5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+6	kelenner	kelenn(V.).-er,-our	?.?	_	_	_	_	_	Gloss=profess.eur
+7	e	P.e	?	_	_	_	_	_	Gloss=en
+8	kreizig-kreiz	kreiz.kreizig-kreiz.kreiz	nom.?.nom	_	_	_	_	_	Gloss=milieu.DIM.milieu
+9	Rusia	Rusia	?	_	_	_	_	_	Gloss=Russie
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trépos(2001:§590)__1
+# text = Goulenn a rin ma tigaso Loeiz e varh gantañ.
+# text_fr = 'Je demanderai que Louis amène son cheval.'
+# source = Trépos (2001)
+1	Goulenn	Goulenn	verbe	_	_	_	_	_	Gloss=demander
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rin	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferai
+4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+5	tigaso	degas	verbe	_	_	_	_	_	Gloss=apportera
+6	Loeiz	nompropre	?	_	_	_	_	_	Gloss=Loeiz
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	varh	marc'h	?	_	_	_	_	_	Gloss=cheval
+9	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Skragn(2002:51)__1
+# text = Pa oa erruet ar re goz e-noant goulennet e-barz peleh e oa Job.
+# text_fr = 'Quand ils étaient arrivés, les vieux avaient demandé où était Job.'
+# dialect = Cornouaillais
+# source = Skragn (2002)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	erruet	arru	?	_	_	_	_	_	Gloss=arrivé
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux|Morph=1
+6	goz	kozh	adjectif	_	_	_	_	_	Gloss=vieil
+7	e-noant	kaout	?	_	_	_	_	_	Gloss=avaient
+8	goulennet	goulennet	?	_	_	_	_	_	Gloss=demandé
+9	e-barz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+10	peleh	pelec'h	?	_	_	_	_	_	Gloss=où
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	oa	COP	?	_	_	_	_	_	Gloss=était
+13	Job	nompropre	?	_	_	_	_	_	Gloss=Job
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:148)__1
+# text = Goulenn a raer genin paperioù muioc'h eget biskoazh.
+# text_fr = 'On me demande des papiers plus que jamais (dans le passé).'
+# source = Herrieu (1994)
+1	Goulenn	Goulenn	verbe	_	_	_	_	_	Gloss=demander
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	raer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+4	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+5	paperioù	paper.-où(PL.)	?.?	_	_	_	_	_	Gloss=papier.s
+6	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
+7	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
+8	biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat(2012:341)__1
+# text = Mez me oar demdost pea a houl an dud ganin.
+# text_fr = 'Mais je devine ce que les gens me demandent.'
+# dialect = Cornouaillais
+# source = Goyat (2012)
+# texttype = Ouvrages de recherche
+1	Mez	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+4	demdost	dam-	?	_	_	_	_	_	Gloss=pfx|Morph=1
+5	pea	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	houl	houl	?	_	_	_	_	_	Gloss=demande
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+10	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§443)__1
+# text = Goulennet 'z eus bet un dra diganin.
+# text_fr = 'Il m'a été demandé quelque chose.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Goulennet	Goulennet	?	_	_	_	_	_	Gloss=demandé
+2	'	ezeus	?	_	_	_	_	_	Gloss=est
+3	z	z	?	_	_	_	_	_	Gloss=?
+4	eus	eus	?	_	_	_	_	_	Gloss=?
+5	bet	bet	?	_	_	_	_	_	Gloss=été
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+8	diganin	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:72)__1
+# text = va mamm a c'houlennas ouzhin petra oa kiriek din da vezañ trist.
+# text_fr = 'Ma mère me demanda pourquoi j'étais triste.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	c'houlennas	c'houlennas	?	_	_	_	_	_	Gloss=demanda
+5	ouzhin	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	kiriek	kiriek	adjectif	_	_	_	_	_	Gloss=coupable
+9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+12	trist	trist	adjectif	_	_	_	_	_	Gloss=triste
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B(10/2018)__1
+# text = Ar plac’hig  zo oc’h en em houlenn pese bugale o deus gwelet ar vaouez.
+# text_fr = 'La fillette se demande quels enfants ont vu la femme.'
+# source = M-L.B (10/2018)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	plac’hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
+3	??	??	?	_	_	_	_	_	Gloss=R
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	oc’h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=4
+8	em	em	?	_	_	_	_	_	Gloss=?
+9	houlenn	houlenn	?	_	_	_	_	_	Gloss=demander
+10	pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
+11	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+12	o	o	?	_	_	_	_	_	Gloss=3PL
+13	deus	kaout	?	_	_	_	_	_	Gloss=a
+14	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+15	ar	art	?	_	_	_	_	_	Gloss=le
+16	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'kaoz')__1
+# text = Me a lavar ze dit, med na houllan ket beza boutet e kaoz.
+# text_fr = 'Je te dis cela, mais je ne veux pas être mêlé à des cancans.'
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dit
+4	ze	se	pronom	_	_	_	_	_	Gloss=ça
+5	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+8	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	houllan	houllan	?	_	_	_	_	_	Gloss=demande
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	beza	bezan	?	_	_	_	_	_	Gloss=être
+12	boutet	bountañ	verbe	_	_	_	_	_	Gloss=poussé
+13	e	P.e	?	_	_	_	_	_	Gloss=en
+14	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Kervella(2014)__1
+# text = N'houllan ket skaotañ an traoù.
+# text_fr = 'Je ne veux pas faire la vaisselle.'
+# source = Kervella (2014)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	houllan	houllan	?	_	_	_	_	_	Gloss=demande
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	skaotañ	skaotañ	verbe	_	_	_	_	_	Gloss=échauder
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

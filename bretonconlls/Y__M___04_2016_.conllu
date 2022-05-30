@@ -1,0 +1,417 @@
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__20
+# text = Soulet ez eus.
+# text_fr = 'On a sonné.'
+1	Soulet	Soulet	?	_	_	_	_	_	Gloss=sonné
+2	ez	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus.	eus.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Unan bennak en neus soulet.
+# text_fr = 'On a sonné.'
+1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+4	neus	kaout	?	_	_	_	_	_	Gloss=a
+5	soulet	soulet	?	_	_	_	_	_	Gloss=sonné
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Soulet/Sounnet em eus.
+# text_fr = 'J'ai sonné.'
+1	Soulet/Sounnet	Soulet/Sounnet	?	_	_	_	_	_	Gloss=sonné
+2	em	em	?	_	_	_	_	_	Gloss=1SG
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__18
+# text = Unan bennak a zo o kanañ e-kichen.
+# text_fr = 'On chante à côté.'
+1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	kanañ	kanañ	verbe	_	_	_	_	_	Gloss=chanter
+7	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__16
+# text = Kanet ez eus e-kichen.
+# text_fr = 'On chante à côté.'
+1	Kanet	Kanet	?	_	_	_	_	_	Gloss=chanté
+2	ez	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Unan bennak a zo deuet e va zi.
+# text_fr = 'Quelqu'un est entré chez moi.'
+1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	e	P.e	?	_	_	_	_	_	Gloss=en
+7	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	zi	ti	nom	_	_	_	_	_	Gloss=maison
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Laeret eo din va velo.
+# text_fr = 'On m'a piqué (volé) mon vélo.'
+1	Laeret	laerañ	?	_	_	_	_	_	Gloss=volé
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	va	POSS	?	_	_	_	_	_	Gloss=mon
+5	velo	velo	?	_	_	_	_	_	Gloss=vélo
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Laeret ez eus va velo.
+# text_fr = 'On m'a piqué (volé) mon vélo.'
+1	Laeret	laerañ	?	_	_	_	_	_	Gloss=volé
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	va	POSS	?	_	_	_	_	_	Gloss=mon
+5	velo	velo	?	_	_	_	_	_	Gloss=vélo
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Laeret eo bet va velo.
+# text_fr = 'On m'a piqué (volé) mon vélo.'
+1	Laeret	laerañ	?	_	_	_	_	_	Gloss=volé
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	va	POSS	?	_	_	_	_	_	Gloss=mon
+5	velo	velo	?	_	_	_	_	_	Gloss=vélo
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = [[*]] Laeret ez eur va velo.
+# text_fr = 'On m'a piqué (volé) mon vélo.'
+1	[[*]]	laerañ	?	_	_	_	_	_	Gloss=volé
+2	Laeret	Laeret	?	_	_	_	_	_	Gloss=?
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eur	ezeus.IMP	?.?	_	_	_	_	_	Gloss=est.on
+5	va	POSS	?	_	_	_	_	_	Gloss=mon
+6	velo	velo	?	_	_	_	_	_	Gloss=vélo
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__8
+# text = Amañ ez eus devet koad.
+# text_fr = 'On a brûlé du bois ici.'
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	devet	deviñ	verbe	_	_	_	_	_	Gloss=brûlé
+5	koad	koad	nom	_	_	_	_	_	Gloss=bois
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__19
+# text = Amañ ez eus drebet traoù eus ar mor.
+# text_fr = 'On a mangé des fruits de mer ici.'
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+5	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+6	eus	eus	?	_	_	_	_	_	Gloss=de
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	mor	mor	nom	_	_	_	_	_	Gloss=mer
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Amañ ez eus c'hoariet ur jeu.
+# text_fr = 'On a joué (aux échecs) ici.'
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	c'hoariet	c'hoari	?	_	_	_	_	_	Gloss=joué
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	jeu	jeu	nom	_	_	_	_	_	Gloss=jeu
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__2
+# text = Amañ ez eus kalz a laeronsi veloioù.
+# text_fr = 'Il y a beaucoup de vols de vélos par ici.'
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	a	a	préposition	_	_	_	_	_	Gloss=de
+6	laeronsi	laeronsi	?	_	_	_	_	_	Gloss=vol
+7	veloioù	veloioù	?	_	_	_	_	_	Gloss=vélos
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__4
+# text = Amañ e vez laeret alies veloioù.
+# text_fr = 'Ici, on vole souvent des vélos.'
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	laeret	laerañ	?	_	_	_	_	_	Gloss=volé
+5	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
+6	veloioù	veloioù	?	_	_	_	_	_	Gloss=vélos
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__3
+# text = E-barzh ar park e-kichen, e vez c'hoariet foot goude lein.
+# text_fr = 'Dans le parc à côté, ils jouent au foot l’après-midi.'
+1	E-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	park	park	nom	_	_	_	_	_	Gloss=parc
+4	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	c'hoariet	c'hoari.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jou.é
+9	foot	foot	?	_	_	_	_	_	Gloss=foot
+10	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+11	lein	lein	nom	_	_	_	_	_	Gloss=midi
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Adarre o deus augmentet ar foucher.
+# text_fr = 'Ils ont encore augmenté les impôts.'
+1	Adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	augmentet	ogmantiñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=augment.é
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	foucher	foucher	?	_	_	_	_	_	Gloss=impôts
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__21
+# text = Anmañ ar c'hourrier a vez kavet da zeizh eur.
+# text_fr = 'Ici le courrier est distribué à 7h/ils livrent le courrier à 7h.'
+1	Anmañ	Amañ	?	_	_	_	_	_	Gloss=ici
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'hourrier	c'hourrier	?	_	_	_	_	_	Gloss=5
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	zeizh	cardinal	?	_	_	_	_	_	Gloss=7
+9	eur	eur	nom	_	_	_	_	_	Gloss=heure
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Er Frans e vez drebet melc'hod.
+# text_fr = 'En France on/ils mange/nt des escargots.'
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Frans	nompropre	?	_	_	_	_	_	Gloss=France
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+6	melc'hod	melc'hwed	?	_	_	_	_	_	Gloss=escargots
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = En Almagn ez eont da labourat da eizh eur.
+# text_fr = 'En Allemagne ils vont/on va au travail à 8h.'
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Almagn	Almagn	?	_	_	_	_	_	Gloss=Allemagne
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eont	mont	verbe	_	_	_	_	_	Gloss=vont
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+7	da	da	préposition	_	_	_	_	_	Gloss=à
+8	eizh	eizh	?	_	_	_	_	_	Gloss=8H
+9	eur.	eur.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = En Almagn ez eur da labourat da eizh eur.
+# text_fr = 'En Allemagne ils vont/on va au travail à 8h.'
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Almagn	Almagn	?	_	_	_	_	_	Gloss=Allemagne
+3	ez	ez	?	_	_	_	_	_	Gloss=R
+4	eur	mont.IMP	verbe.?	_	_	_	_	_	Gloss=va.on
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+7	da	da	préposition	_	_	_	_	_	Gloss=à
+8	eizh	eizh	?	_	_	_	_	_	Gloss=8H
+9	eur.	eur.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__13
+# text = Er Chin, ar bloaz nevez a ioa er sizhun diwezha.
+# text_fr = 'En Chine, ils ont fêté le Nouvel An la semaine dernière.'
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Chin	Chin	?	_	_	_	_	_	Gloss=Chine
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+6	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	ioa	COP	?	_	_	_	_	_	Gloss=était
+9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
+11	diwezha	diwezha	?	_	_	_	_	_	Gloss=dernier
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__5
+# text = Anavezet e oa en doa evet.
+# text_fr = 'On voyait qu’il était saoul.'
+1	Anavezet	anavezout	verbe	_	_	_	_	_	Gloss=connu
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+5	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	evet	evañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=b.u
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Gwelout e reer e oa meo.
+# text_fr = 'On voyait qu’il était saoul.'
+1	Gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Ar rhum a vez great gant kannasuk. <<
+# text_fr = 'Le rhum est fat avec de la canne à sucre.'
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	rhum	rhum	?	_	_	_	_	_	Gloss=rhum
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	gant	gant	?	_	_	_	_	_	Gloss=?
+7	kannasuk.	kannasuk.	?	_	_	_	_	_	Gloss=?
+8	<<	<<	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Dor an ti a vez prennet da zek eur.
+# text_fr = 'La porte d'entrée est verrouillée à 10h.'
+1	Dor	dor	nom	_	_	_	_	_	Gloss=porte
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	ti	ti	nom	_	_	_	_	_	Gloss=maison
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	prennet	prennañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ferm.é
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	zek	zek	?	_	_	_	_	_	Gloss=10H
+9	eur.	eur.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Bobby Fisher a ioa ur c'hoarier bras, a goulscoude e vez lavaret e c'hev kalz.
+# text_fr = 'Bobby Fisher était un grand joueur, bien qu'on dit qu'il buvait beaucoup.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Bobby	Bobby	?	_	_	_	_	_	Gloss=[[nompropre|Bobby
+2	Fisher	Fisher	?	_	_	_	_	_	Gloss=Fisher]]]
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ioa	COP	?	_	_	_	_	_	Gloss=était
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	c'hoarier	c'hoari.-er,-our	?.?	_	_	_	_	_	Gloss=jou.eur
+7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	a	&	préposition	_	_	_	_	_	Gloss=et
+10	goulscoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+14	e	e	?	_	_	_	_	_	Gloss=R
+15	c'hev	evañ	verbe	_	_	_	_	_	Gloss=boit
+16	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Lavaret o deus er radio e veho brao an amzer warc'hoazh.
+# text_fr = 'Ils ont dit à la radio qu'il ferait beau demain.'
+1	Lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+2	o	o	?	_	_	_	_	_	Gloss=3PL
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	radio	radio	?	_	_	_	_	_	Gloss=radio
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	veho	COP	?	_	_	_	_	_	Gloss=sera
+8	brao	brao	?	_	_	_	_	_	Gloss=beau
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+11	warc'hoazh	warc'hoazh	?	_	_	_	_	_	Gloss=demain
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__6
+# text = Deomp da bourmen. E vez ket bevet nemet ur wech !
+# text_fr = 'Allons nous promener. On ne vit qu'une fois.'
+1	Deomp	mont	verbe	_	_	_	_	_	Gloss=allons
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	bourmen	pourmen	verbe	_	_	_	_	_	Gloss=promener
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	E	E	?	_	_	_	_	_	Gloss=R
+6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	bevet	bevet	?	_	_	_	_	_	Gloss=vécu
+9	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+10	ur	art	?	_	_	_	_	_	Gloss=un
+11	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__10
+# text = N'eo ket dleet koduiñ hag evañ er memes amzer.
+# text_fr = 'On ne doit pas boire et conduire en même temps /Il ne faut pas boire et conduire'
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	dleet	dleout	verbe	_	_	_	_	_	Gloss=dû
+5	koduiñ	konduiñ	verbe	_	_	_	_	_	Gloss=conduire
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	memes	memes	adjectif	_	_	_	_	_	Gloss=même
+10	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Ezhomm a zo dour evit chom beo.
+# text_fr = 'On a besoin d'eau pour survivre.'
+1	Ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	dour	dour	nom	_	_	_	_	_	Gloss=eau
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+7	beo	bev	adjectif	_	_	_	_	_	Gloss=vivant
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__17
+# text = Pa sauter er pissine, e veher glepet.
+# text_fr = 'Si on saute dans une piscine, on est mouillé.'
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	sauter	IMP	?	_	_	_	_	_	Gloss=on
+3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	pissine	pissine	?	_	_	_	_	_	Gloss=piscine
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	veher	COP.IMP	?.?	_	_	_	_	_	Gloss=est.on
+8	glepet	gleb.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=mouill.é
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Ma vez roet ur respount fall e vezer taolet kuit.
+# text_fr = 'Si on donne une mauvaise réponse, on est éliminé.'
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	roet	reiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=donn.é
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	respount	respount	?	_	_	_	_	_	Gloss=réponse
+6	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+7	e	e	?	_	_	_	_	_	Gloss=E
+8	vezer	vez.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
+9	taolet	taoler.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jet.é
+10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__11
+# text = Pa vez ur rhume eo leet evañ dour oranjez.
+# text_fr = 'Quand on a un rhume, on doit boire du jus d'orange.'
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	rhume	rhume	?	_	_	_	_	_	Gloss=rhume
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	leet	dleout	verbe	_	_	_	_	_	Gloss=dû
+7	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
+8	dour	dour	nom	_	_	_	_	_	Gloss=eau
+9	oranjez	orañjez	?	_	_	_	_	_	Gloss=oranges
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

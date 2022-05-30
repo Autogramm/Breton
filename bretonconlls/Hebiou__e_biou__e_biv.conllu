@@ -1,0 +1,63 @@
+# sent_id = Menard&Kadored(2001:§’hep’)__1
+# text = Aet oa hebiou an ti hep d'ar c’hi harzal.
+# text_fr = 'Il était passé à côté de la maison sans que le chien aboie.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	an	an	?	_	_	_	_	_	Gloss=[art|le]]
+4	ti	ti	nom	_	_	_	_	_	Gloss=maison
+5	hep	hep	préposition	_	_	_	_	_	Gloss=sans
+6	d'	da	préposition	_	_	_	_	_	Gloss=de
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	c’hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
+9	harzal	harzal	verbe	_	_	_	_	_	Gloss=aboyer
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:25)__1
+# text = Mont 'biou 'r gar
+# text_fr = 'passer devant la gare.'
+# dialect = Cornouaillais
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+2	'	'	?	_	_	_	_	_	Gloss=à-côté
+3	biou	biou	?	_	_	_	_	_	Gloss=?
+4	'	art	?	_	_	_	_	_	Gloss=le
+5	r	r	?	_	_	_	_	_	Gloss=?
+6	gar	gar	nom	_	_	_	_	_	Gloss=gare
+
+# sent_id = Standard,Hemon(1998)__1
+# text = Buhez ar bed o vont e-biou.
+# text_fr = 'La vie du monde s'écoule.'
+# source = Hemon (1998)
+# texttype = Références de corpus
+1	Buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	bed	bed	nom	_	_	_	_	_	Gloss=monde
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	e-biou	e-biou	?	_	_	_	_	_	Gloss=à-côté
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'vliw')__1
+# text = Ale vliw ! Hezh skôe ket war ar youd, oa 'biou-'biou beb taol.
+# text_fr = 'Allez vlan ! Il ne frappait pas sur la bouillie, c'était à côté à chaque coup.'
+# source = Lozach (2014)
+1	Ale	ale!	?	_	_	_	_	_	Gloss=allez
+2	vliw	vliw	?	_	_	_	_	_	Gloss=vlan
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Hezh	DEM	?	_	_	_	_	_	Gloss=il
+5	skôe	skeiñ	verbe	_	_	_	_	_	Gloss=frappait
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	youd	yod	nom	_	_	_	_	_	Gloss=bouillie
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	oa	COP	?	_	_	_	_	_	Gloss=était
+12	'	e-biv	?	_	_	_	_	_	Gloss=à-côté
+13	biou-'	biou-'	?	_	_	_	_	_	Gloss=?
+14	biou	biou	?	_	_	_	_	_	Gloss=?
+15	beb	bep	?	_	_	_	_	_	Gloss=chaque
+16	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

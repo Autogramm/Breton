@@ -1,0 +1,16 @@
+# sent_id = Drezen(1990:75)__1
+# text = Te a zo bet re hir da fri, dalc'hmat.
+# text_fr = 'Tu as toujours été trop curieux.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Te	pfi	?	_	_	_	_	_	Gloss=toi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	COP	?	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	re	re	adverbe	_	_	_	_	_	Gloss=trop
+6	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+8	fri	fri	nom	_	_	_	_	_	Gloss=nez
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	dalc'hmat	dalc'hmat	?	_	_	_	_	_	Gloss=toujours
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

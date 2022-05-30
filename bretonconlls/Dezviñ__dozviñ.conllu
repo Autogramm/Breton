@@ -1,0 +1,33 @@
+# sent_id = Fagon&Riou(2015:'diavi')__1
+# text = Goût e ouzer pedavare deve diavet ar yar.
+# text_fr = 'On savait quand la poule avait pondu.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Goût	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	ouzer	gouzout.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=savait.on
+4	pedavare	pevare	?	_	_	_	_	_	Gloss=quand
+5	deve	kaout	?	_	_	_	_	_	Gloss=avait
+6	diavet	-et(Adj.)	?	_	_	_	_	_	Gloss=u
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	yar	yar	nom	_	_	_	_	_	Gloss=poule
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'aztozv')__1
+# text = O lakaat an aztov out 'barzh an neizh ?
+# text_fr = 'Tu montres aux gens comment faire ?'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	aztov	aztov	?	_	_	_	_	_	Gloss=oeuf.factice
+5	out	COP	?	_	_	_	_	_	Gloss=es
+6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	barzh	barzh	?	_	_	_	_	_	Gloss=?
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	neizh	neizh	nom	_	_	_	_	_	Gloss=nid
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

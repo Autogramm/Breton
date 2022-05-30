@@ -1,0 +1,63 @@
+# sent_id = Herrieu(1994:80)__1
+# text = ne welomp nemet gwinizhegi bras, berrik-tra an ed enne ha treut...
+# text_fr = '...nous ne voyons que de grands champs de blé, aux céréales très courtes et maigres.'
+# source = Herrieu (1994)
+1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
+3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	gwinizhegi	gwinizh.-egi	nom.nom	_	_	_	_	_	Gloss=blé.champs
+5	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	berrik-tra	berr.berrik-tra.INT	adjectif.?.?	_	_	_	_	_	Gloss=court.DIM.chose
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	ed	ed	nom	_	_	_	_	_	Gloss=blé
+10	enne	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+11	ha	&	?	_	_	_	_	_	Gloss=et
+12	treut..	treut..	?	_	_	_	_	_	Gloss=maigre
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Timm(1995:8)__3
+# text = Ne oa ket anezhañ un den bihan treut.
+# text_fr = 'Ce n'était pas un petit homme malingre.'
+# source = Konan (1980)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	den	den	nom	_	_	_	_	_	Gloss=homme
+7	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+8	treut	treut	adjectif	_	_	_	_	_	Gloss=maigre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:365)__1
+# text = Feiz, 'vad, ar werzidigez a zo bet treud a-walh.
+# text_fr = 'Ma foi, la vente a été assez maigre.'
+# source = Gros (1984)
+1	Feiz	Feiz	?	_	_	_	_	_	Gloss=Ma.foi
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	'	avat	adverbe	_	_	_	_	_	Gloss=donc
+4	vad,	vad,	?	_	_	_	_	_	Gloss=?
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	werzidigez	gwerzhañ	verbe	_	_	_	_	_	Gloss=vent]].[[-idigezh|e|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	zo	zo	?	_	_	_	_	_	Gloss=est
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	treud	treud	?	_	_	_	_	_	Gloss=maigre
+11	a-walh	awalc'h	?	_	_	_	_	_	Gloss=assez
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abeozen(1942:365)__4
+# text = Mar deo hemañ treut e vrezhoneg...
+# text_fr = 'Si celui-ci ne comprend pas bien le breton... '
+# dialect = Léonard
+# source = Abeozen (1942)
+# texttype = Références de corpus
+1	Mar	mar(d)	nom	_	_	_	_	_	Gloss=si
+2	deo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	hemañ	DEM	?	_	_	_	_	_	Gloss=celui-ci
+4	treut	treut	adjectif	_	_	_	_	_	Gloss=maigre
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	vrezhoneg..	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

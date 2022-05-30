@@ -1,0 +1,19 @@
+# sent_id = Bouzeg(1986:I)__1
+# text = Selaou, selaou krenn, En tu all emer o lazhañ c'hwenn.
+# text_fr = 'Écoute, écoute bien, à côté on tue des puces.'
+# dialect = Cornouaillais
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Selaou	selaou	verbe	_	_	_	_	_	Gloss=écoute
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	selaou	selaou	verbe	_	_	_	_	_	Gloss=écoute
+4	krenn	krenn	adverbe-adjectif	_	_	_	_	_	Gloss=complètement
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	tu	tu	nom	_	_	_	_	_	Gloss=côté
+8	all	all	?	_	_	_	_	_	Gloss=autre
+9	emer	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
+10	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	lazhañ	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
+12	c'hwenn	nomscollectifs	?	_	_	_	_	_	Gloss=s
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

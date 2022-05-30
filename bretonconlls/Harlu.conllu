@@ -1,0 +1,19 @@
+# sent_id = Drezen(1990:30)__1
+# text = Mar don harluet amañ, keit all, gant kalzig eus ma c'henvroiz...
+# text_fr = 'Si je suis exilé ici, si loin, avec beaucoup de mes compatriotes... '
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+2	don	COP	adverbe-adjectif	_	_	_	_	_	Gloss=suis
+3	harluet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+4	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	keit	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
+7	all	all	?	_	_	_	_	_	Gloss=autre
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	kalzig	kalz.kalzig	quantifieur-adverbe-déterminant.?	_	_	_	_	_	Gloss=beaucoup.DIM
+11	eus	eus	?	_	_	_	_	_	Gloss=de
+12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes]|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

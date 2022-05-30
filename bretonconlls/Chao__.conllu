@@ -1,0 +1,12 @@
+# sent_id = AnHere(2003:27)__1
+# text = Bremañ an hini eo... Chao !
+# text_fr = 'C'est le moment... Hop !'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	eo..	COP	?	_	_	_	_	_	Gloss=est
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	Chao	interjection	?	_	_	_	_	_	Gloss=Hop!
+7	!	!	PUNCT	_	_	_	_	Gloss=punct

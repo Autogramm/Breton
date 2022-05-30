@@ -1,0 +1,59 @@
+# sent_id = Gros(1970b'dont')__1
+# text = Deuet e oa e droad da goeñvin.
+# text_fr = 'Son pied s'était mis à enfler.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	droad	troad	nom	_	_	_	_	_	Gloss=pied
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	goeñvin	-iñ	?	_	_	_	_	_	Gloss=er
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1985:119)__2
+# text = Me meus aze em liorzh koulz louzoù evel ho peus da zigoeñviñ va saout...
+# text_fr = 'J'ai dans mon jardin autant d'herbes que vous (voulez) pour soigner mes vaches... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+3	aze	ads	?	_	_	_	_	_	Gloss=ici
+4	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+5	liorzh	liorzh	nom	_	_	_	_	_	Gloss=jardin
+6	koulz	koulz	?	_	_	_	_	_	Gloss=tant
+7	louzoù	louzoù	adverbe	_	_	_	_	_	Gloss=herbes
+8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	ho	ho	?	_	_	_	_	_	Gloss=2PL
+10	peus	kaout	?	_	_	_	_	_	Gloss=a
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	zigoeñviñ	di-.-iñ(V.)	?.?	_	_	_	_	_	Gloss=dé.er
+13	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+14	saout..	saout	nom	_	_	_	_	_	Gloss=vaches
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec & al. (2017:310)__1
+# text = 'Ma koéñt  veuc'h.
+# text_fr = 'La vache est enflée, météorisée.'
+1	'	'	verbe-auxiliaire	_	_	_	_	_	Gloss=Emañ
+2	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=?
+3	koéñt	koéñt	?	_	_	_	_	_	Gloss=koeñvet
+4	??	??	?	_	_	_	_	_	Gloss=ar
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	veuc'h	veuc'h	?	_	_	_	_	_	Gloss=vuocxxxh.
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = Ma dreid a goeñf.
+# text_fr = 'J'ai les pieds qui gonflent.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goeñf	goeñf	?	_	_	_	_	_	Gloss=gonfle
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

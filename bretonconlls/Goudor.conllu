@@ -1,0 +1,39 @@
+# sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
+# text = Bemdez e vez memestra... E tiskennan dac'h ar c'hae, evit klask ar goudor.
+# text_fr = 'Je descends du talus pour me mettre à l'abri.'
+# dialect = Léonard
+# source = A. M. (04/2016b)
+# texttype = Élicitations
+1	Bemdez	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	memestra..	memestra	adverbe	_	_	_	_	_	Gloss=pareil
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+7	tiskennan	diskenn	verbe	_	_	_	_	_	Gloss=descends
+8	dac'h	deus	?	_	_	_	_	_	Gloss=de
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	c'hae	kae	nom	_	_	_	_	_	Gloss=talus|Morph=5
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+13	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	goudor	goudor	nom	_	_	_	_	_	Gloss=abri
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:187)__1
+# text = mond er goudor abalamour ar hirri-nij a dostaee.
+# text_fr = 'se mettre à l'abri car les avions approchaient.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+2	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	goudor	goudor	nom	_	_	_	_	_	Gloss=abri
+4	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	hirri-nij	hirri-nij	?	_	_	_	_	_	Gloss=5
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	dostaee	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,39 @@
+# sent_id = Bouzeg(1986:VII)__6
+# text = Eñ 'zo gwashoc'h 'vit 'n aotrou ganet 'ba' 'r maner.
+# text_fr = 'Il est exigeant.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+2	'	zo	?	_	_	_	_	_	Gloss=est
+3	zo	zo	?	_	_	_	_	_	Gloss=?
+4	gwashoc'h	gwashoc'h	?	_	_	_	_	_	Gloss=pire
+5	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+6	vit	vit	?	_	_	_	_	_	Gloss=?
+7	'	art	?	_	_	_	_	_	Gloss=un
+8	n	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+9	aotrou	aotrou	nom	_	_	_	_	_	Gloss=?
+10	ganet	genel	verbe	_	_	_	_	_	Gloss=né
+11	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+12	ba'	ba'	?	_	_	_	_	_	Gloss=?
+13			PUNCT	_	_	_	_	Gloss=punct
+14	'	art	?	_	_	_	_	_	Gloss=un
+15	r	maner	nom	_	_	_	_	_	Gloss=manoir
+16	maner.	maner.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Drezen(1990:15)__1
+# text = Gwashoc'hik e c'hoarvezas, e-pad ar studiadenn a nav eur.
+# text_fr = 'Il se passa pire pendant l'étude de neuf heures.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Gwashoc'hik	gwasoc'h.-ig	?.?	_	_	_	_	_	Gloss=pire.DIM
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	c'hoarvezas	c'hoarvezout	?	_	_	_	_	_	Gloss=arriva
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	studiadenn	studiañ.-adenn	verbe.nom	_	_	_	_	_	Gloss=étud.e
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	eur	eur	nom	_	_	_	_	_	Gloss=heure
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

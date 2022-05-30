@@ -1,0 +1,35 @@
+# sent_id = Gros(1984:234)__1
+# text = Med ni on-oa leviet or batimant ervad da antren er porz.
+# text_fr = 'Mais nous avions gouverné notre navire habilement pour entrer dans le port.'
+# source = Gros (1984)
+1	Med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	ni	pfi	?	_	_	_	_	_	Gloss=nous
+3	on-oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	leviet	leviañ	?	_	_	_	_	_	Gloss=gouverné
+5	or	POSS	?	_	_	_	_	_	Gloss=notre
+6	batimant	batimant	?	_	_	_	_	_	Gloss=bâtiment
+7	ervad	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=habilement
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	antren	antren	?	_	_	_	_	_	Gloss=entrer
+10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	porz	porzh	nom	_	_	_	_	_	Gloss=port
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:107)__1
+# text = Ne wele netra, morse, nep boutailh ne antree er voulerezh.
+# text_fr = 'Il ne voyait rien, jamais, aucune bouteille n'entrait dans l'imprimerie.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyait
+3	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	nep	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=aucune
+8	boutailh	boutailh	nom	_	_	_	_	_	Gloss=bouteille
+9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	antree	antreal	?	_	_	_	_	_	Gloss=entrait
+11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	voulerezh	moulañ	verbe	_	_	_	_	_	Gloss=imprim]].[[-erezh|erie|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

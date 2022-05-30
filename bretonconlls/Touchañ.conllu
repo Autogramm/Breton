@@ -1,0 +1,17 @@
+# sent_id = ArBorgn(2011:71)__2
+# text = N'oa ket droed da douch ken na vehe-heñv marv.
+# text_fr = 'Il n'avait pas le droit de toucher avant qu'il ne meure.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	N'	kaout	?	_	_	_	_	_	Gloss=avait|Morph=1
+2	oa	oa	?	_	_	_	_	_	Gloss=?
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	droed	droed	?	_	_	_	_	_	Gloss=droit
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	douch	douch	?	_	_	_	_	_	Gloss=toucher
+7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=jusqu.à
+8	na	ne	?	_	_	_	_	_	Gloss=que
+9	vehe-heñv	COP	?	_	_	_	_	_	Gloss=serait
+10	marv	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

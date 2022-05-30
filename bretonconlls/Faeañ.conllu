@@ -1,0 +1,11 @@
+# sent_id = KeitVimpBev(1984:4)__1
+# text = Faeañ ' ra koad !
+# text_fr = 'Il manque du bois !'
+# source = Keit Vimp Bev (1984)
+# texttype = Références de corpus
+1	Faeañ	Faeañ	verbe	_	_	_	_	_	Gloss=manquer
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ra	ra	complémenteur	_	_	_	_	_	Gloss=?
+5	koad	koad	nom	_	_	_	_	_	Gloss=bois
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

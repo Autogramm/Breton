@@ -1,0 +1,22 @@
+# sent_id = Riou(1941:16)__1
+# text = Goap a rez ouzin c'hoaz?
+# text_fr = 'Tu te moques encore de moi ?'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Goap	Goap	nom	_	_	_	_	_	Gloss=farce
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	ouzin	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:17)__1
+# text = Goap a vennit ober ac'hanon ?
+# text_fr = 'Tu veux te moquer de moi ?'
+# source = Ar Meliner (2009)
+1	Goap	Goap	nom	_	_	_	_	_	Gloss=farce
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	vennit	mennout	verbe	_	_	_	_	_	Gloss=voulez
+4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+6	?	?	PUNCT	_	_	_	_	Gloss=punct

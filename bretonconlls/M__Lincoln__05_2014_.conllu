@@ -1,0 +1,28 @@
+# sent_id = Léon,M.Lincoln(05/2014)__1
+# text = Amañ an arrebeuri n’{eo/[[*]] int} ket din.
+# text_fr = 'Ici les meubles ne sont pas à moi.'
+# source = M. Lincoln (05/2014)
+# texttype = Élicitations
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=mobilier
+4	n’{eo/[[*]]	n’{eo/[[*]]	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	int}	int}	?	_	_	_	_	_	Gloss=?
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon,M.Lincoln(05/2014)__2
+# text = An arrebeuri ne chom ket barzh e c'hav.
+# text_fr = 'Le mobilier ne reste pas dans sa cave.'
+# source = M. Lincoln (05/2014)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=mobilier
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	chom	chom	verbe	_	_	_	_	_	Gloss=reste
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	c'hav	kav	?	_	_	_	_	_	Gloss=cave
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

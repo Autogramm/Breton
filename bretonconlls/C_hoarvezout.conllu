@@ -1,0 +1,12 @@
+# sent_id = Menard&Kadored(2001:'gwalldro')__1
+# text = Pa c'hoarvez ganeoc'h ur walldro bennak.
+# text_fr = 'quand il vous arrive quelque malheur'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	c'hoarvez	c'hoarvez	?	_	_	_	_	_	Gloss=arrive
+3	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	walldro	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais]]_[[1]]_.[[tro|tour|Morph=1
+6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

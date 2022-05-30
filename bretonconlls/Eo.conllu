@@ -1,0 +1,272 @@
+# sent_id = Koadig(2010:104)__1
+# text = Gros eo ar mor.
+# text_fr = 'La mer est agitée.'
+# source = Koadig (2010)
+# texttype = Ouvrages de recherche
+1	Gros	Gros	adverbe-adjectif	_	_	_	_	_	Gloss=gros
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	mor	mor	nom	_	_	_	_	_	Gloss=mer
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnUhel(1984:ms.14)__1
+# text = Eno a oa un douez...
+# text_fr = 'Il y avait à une déesse... '
+# source = An Uhel (1984)
+1	Eno	eno	?	_	_	_	_	_	Gloss=y
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	douez..	Doue.-ez(F.)	nom.?	_	_	_	_	_	Gloss=dieu.esse
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LaVillemarqué(1839:Groegarc'hroazour')__1
+# text = Pa zistreio d'ar ger amañ a vo kavet.
+# text_fr = 'Quand elle reviendra, vous la trouverez ici.'
+# source = La Villemarqué (1839)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	zistreio	distreiñ	verbe	_	_	_	_	_	Gloss=reviendra
+3	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+6	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	vo	COP	?	_	_	_	_	_	Gloss=sera
+9	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:221)__1
+# text = Oc'h hunvreal gant va c'hi bihan oun bet.
+# text_fr = 'J'ai rêvé de mon petit chien.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Oc'h	particuleo	?	_	_	_	_	_	Gloss=à
+2	hunvreal	hunvreal	verbe	_	_	_	_	_	Gloss=rêver
+3	gant	gant	?	_	_	_	_	_	Gloss=avec
+4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	c'hi	ki	nom	_	_	_	_	_	Gloss=chien
+6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+7	oun	COP	?	_	_	_	_	_	Gloss=suis
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Er Chin, ar bloaz nevez a ioa er sizhun diwezha.
+# text_fr = 'En Chine, ils ont fêté le Nouvel An la semaine dernière.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=e.le
+2	Chin	nompropre	?	_	_	_	_	_	Gloss=Chine
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+6	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	ioa	COP	?	_	_	_	_	_	Gloss=était
+9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
+11	diwezha	diwezhañ	?	_	_	_	_	_	Gloss=dernier
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Kerrain(2001)__1
+# text = N' eus netra vat en ti-mañ. $$$
+# text_fr = 'Il n'y a rien de bien dans cette maison.'
+# source = Kerrain (2001)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2			PUNCT	_	_	_	_	Gloss=punct
+3	eus	eus	?	_	_	_	_	_	Gloss=?
+4	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
+5	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien|Morph=1
+6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Standard,Kerrain(2001)__1
+# text = N' (eus / [[*]] eo) deuet den ebet
+# text_fr = 'Personne n'est venu.'
+# source = Kerrain (2001)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2			PUNCT	_	_	_	_	Gloss=punct
+3	(eus	(eus	?	_	_	_	_	_	Gloss=?
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+5	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=?
+6	eo)	eo)	?	_	_	_	_	_	Gloss=?
+7	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+8	den	den	nom	_	_	_	_	_	Gloss=homme
+9	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+
+# sent_id = Timm (1989:368)__1
+# text = Fenoz eo un devezh spontus.
+# text_fr = 'Aujourd'hui est une journée épouvantable.'
+# text_phon = ['/ fenõs', 'e', 'on deves spõtys/']
+1	Fenoz	fenoz	?	_	_	_	_	_	Gloss=ce.soir
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	un	art	?	_	_	_	_	_	Gloss=un
+4	devezh	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.née
+5	spontus	spontus	adjectif	_	_	_	_	_	Gloss=épouvantable
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:XXIV)__1
+# text = Mall eo gantañ. / Bloaz eo.
+# text_fr = 'Il a hâte.' / 'Il y a un an.'
+# source = Vallée (1980)
+1	Mall	mall	nom	_	_	_	_	_	Gloss=hâte
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	/	/	?	_	_	_	_	_	Gloss=/
+6	Bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+7	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:9)__1
+# text =  erru _  poent serriñ dor an iliz ! eme egile.
+# text_fr = 'L'autre dit: Il est temps de fermer la porte de l'église !'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	??	??	?	_	_	_	_	_	Gloss=[
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	_	_	?	_	_	_	_	_	Gloss=est
+4	??	??	?	_	_	_	_	_	Gloss=[
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	poent	poent	nom	_	_	_	_	_	Gloss=temps
+7	serriñ	serriñ	verbe	_	_	_	_	_	Gloss=fermer
+8	dor	dor	nom	_	_	_	_	_	Gloss=porte
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+11			?	_	_	_	_	_	Gloss=]
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+13	eme	eme	préposition	_	_	_	_	_	Gloss=dit
+14	egile	egile	?	_	_	_	_	_	Gloss=l'@autre
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:9)__1
+# text =  erru e oa  poent serriñ dor an iliz ! eme egile.
+# text_fr = 'L'autre dit: Il est temps de fermer la porte de l'église !'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	??	??	?	_	_	_	_	_	Gloss=[
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	oa	oa	?	_	_	_	_	_	Gloss=était
+5	??	??	?	_	_	_	_	_	Gloss=[
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	poent	poent	nom	_	_	_	_	_	Gloss=temps
+8	serriñ	serriñ	verbe	_	_	_	_	_	Gloss=fermer
+9	dor	dor	nom	_	_	_	_	_	Gloss=porte
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+12			?	_	_	_	_	_	Gloss=]
+13	!	!	PUNCT	_	_	_	_	Gloss=punct
+14	eme	eme	préposition	_	_	_	_	_	Gloss=dit
+15	egile	egile	?	_	_	_	_	_	Gloss=l'@autre
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:133)__1
+# text = Sell, c'hoaz eo boset ma zal abaoe an ougnad am-oa bet aze.
+# text_fr = 'Regarde, j'ai encore une bosse au front depuis le coup que j'avais reçu là.'
+# source = Gros (1970)
+1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	boset	boset	?	_	_	_	_	_	Gloss=cabossé
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	zal	tal	nom	_	_	_	_	_	Gloss=front
+8	abaoe	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	ougnad	ognad	?	_	_	_	_	_	Gloss=coup
+11	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
+12	bet	kaout	?	_	_	_	_	_	Gloss=reçu
+13	aze	ads	?	_	_	_	_	_	Gloss=là
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig (2010:101)__1
+# text = Se an hini eo.  ''Standard''
+# text_fr = 'C'est ça.'
+# text_phon = ['[  Zé', 'o', '-ê ]']
+1	Se	ze	pronom	_	_	_	_	_	Gloss=ça
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	??	??	?	_	_	_	_	_	Gloss=???
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	'	'	?	_	_	_	_	_	Gloss=???
+9	'	'	?	_	_	_	_	_	Gloss=?
+10	Standard'	Standard'	?	_	_	_	_	_	Gloss=?
+11	'	'	?	_	_	_	_	_	Gloss=?
+12			PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Koadig(2010:104)__1
+# text = Gros eo ar mor. ( Gro(u)z è ër mor)
+# text_fr = 'La mer est agitée.'
+# source = Koadig (2010)
+# texttype = Ouvrages de recherche
+1	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	mor	mor	nom	_	_	_	_	_	Gloss=mer
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	(	(	?	_	_	_	_	_	Gloss=???
+6	Gro(u)z	Gro(u)z	?	_	_	_	_	_	Gloss=?
+7	è	è	?	_	_	_	_	_	Gloss=???
+8	ër	ër	?	_	_	_	_	_	Gloss=???
+9	mor)	mor)	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Seite(1975:97)__1
+# text = Ya, méd,  eun dén  eo hennez ha n'eo bét morse re fall e yehed.
+# text_fr = 'Oui, mais c'est un homme dont la santé n'a jamais été trop mauvaise.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	méd	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	??	??	?	_	_	_	_	_	Gloss=[
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	eun	art	?	_	_	_	_	_	Gloss=un
+8	dén	den	nom	_	_	_	_	_	Gloss=homme
+9	??	??	?	_	_	_	_	_	Gloss=]
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+12	hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+13	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+14	n'	n'	?	_	_	_	_	_	Gloss=ne
+15	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+16	bét	bet	?	_	_	_	_	_	Gloss=été
+17	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+18	re	re	adverbe	_	_	_	_	_	Gloss=trop
+19	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+20	e	POSS	?	_	_	_	_	_	Gloss=son
+21	yehed	yec'hed	?	_	_	_	_	_	Gloss=santé
+22	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Dupuy(2007:25)__1
+# text = Petra e vije e vuhez panevet an dresadenn gozh ?
+# text_fr = 'Que serait sa vie sans le dessin ancien ?'
+# source = Dupuy (2007)
+# texttype = Références de corpus
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie
+6	panevet	panevet	?	_	_	_	_	_	Gloss=si.ce.n.était
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	dresadenn	tresañ	verbe	_	_	_	_	_	Gloss=dess]].[[-adenn|in|Morph=1
+9	gozh	kozh	adjectif	_	_	_	_	_	Gloss=ancien|Morph=1
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:XXIV)__1
+# text = Bloaz eo.
+# text_fr = 'Il y a un an.'
+# source = Vallée (1980)
+1	Bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	.	.	PUNCT	_	_	_	_	Gloss=punct

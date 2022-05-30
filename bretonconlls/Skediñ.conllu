@@ -1,0 +1,18 @@
+# sent_id = Kervella(1995:§346),citantRoc'halan.__1
+# text = Un daoulagad leun a zouster hag a garantez a skede en he fenn.
+# text_fr = 'Son visage rayonnait d'un regard plein d'amour et douceur.'
+# source = Kervella (1995)
+1	Un	art	?	_	_	_	_	_	Gloss=un
+2	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=2.œil
+3	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	zouster	dous.-ter	adverbe-adjectif.?	_	_	_	_	_	Gloss=douc.eur
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	garantez	karantez	nom	_	_	_	_	_	Gloss=amour
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	skede	skede	?	_	_	_	_	_	Gloss=brillait
+11	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+12	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+13	fenn	penn	nom	_	_	_	_	_	Gloss=tête
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

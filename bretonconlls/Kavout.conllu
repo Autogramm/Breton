@@ -1,0 +1,220 @@
+# sent_id = Kervella(2001:21)__2
+# text = Ret-holl eo din e gavout.
+# text_fr = 'Il faut absolument que je le trouve.'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ret-holl	ret	?	_	_	_	_	_	Gloss=obligé
+2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	e	POP	?	_	_	_	_	_	Gloss=le|Morph=1
+5	gavout	gavout	?	_	_	_	_	_	Gloss=trouver
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:72)__1
+# text = Goular e kavan gwelet ar re-all o tont da c'hoarzin gwap d'in...
+# text_fr = 'Je trouve moyen de voir les autres venir se fiche de moi.'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Goular	Goular	?	_	_	_	_	_	Gloss=tiède
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kavan	kavan	?	_	_	_	_	_	Gloss=trouve
+4	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	re-all	all	?	_	_	_	_	_	Gloss=autre
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	c'hoarzin	c'hoarzin	?	_	_	_	_	_	Gloss=rire
+11	gwap	goap	nom	_	_	_	_	_	Gloss=blague
+12	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+13	in...	in...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Troude(1886:'passer,14°')__1
+# text = Kavout a ra d'in e c'helfemp choum hep nikun.
+# text_fr = 'Je crois que nous pourrions nous en passer.'
+# source = Troude (1886)
+1	Kavout	Kavout	verbe	_	_	_	_	_	Gloss=trouver
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ra
+4	d'	da	préposition	_	_	_	_	_	Gloss=à
+5	in	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	c'helfemp	gallout	verbe	_	_	_	_	_	Gloss=pourrions
+8	choum	chom	verbe	_	_	_	_	_	Gloss=rester
+9	hep	hep	préposition	_	_	_	_	_	Gloss=sans
+10	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=aucun
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBozec(1933:48)__1
+# text = O mirout a ra evit kavout mel ha koar da werza.
+# text_fr = 'Elle les garde pour vendre du miel et de la cire.'
+# source = Le Bozec
+1	O	POP	?	_	_	_	_	_	Gloss=les
+2	mirout	mirout	verbe	_	_	_	_	_	Gloss=garder
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+7	mel	mel	nom	_	_	_	_	_	Gloss=miel
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	koar	koar	nom	_	_	_	_	_	Gloss=cire
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	werza	gwerzhañ	verbe	_	_	_	_	_	Gloss=vendre
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1995:§278)__1
+# text = Evitañ da gavout mat
+# text_fr = 'bien qu'il apprécie.'
+# source = Kervella (1995)
+1	Evitañ	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.lui
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	gavout	gavout	?	_	_	_	_	_	Gloss=trouver
+4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+
+# sent_id = Timm (1987a:290)__1
+# text = Me 'gav mat anezhañ ivez.
+# text_fr = 'Je l'aime bien aussi / J'apprécie aussi cela.'
+# text_phon = ['/me', 'gav', "'@ma:d", "'@ '@ nã ̆w", "'@e/"]
+1	'	'	?	_	_	_	_	_	Gloss=trouve
+2	gav	gav	?	_	_	_	_	_	Gloss=?
+3	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+4	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:30)__2
+# text = Gav ket nen aes boût dikriet.
+# text_fr = 'On n'aime pas être critiqué.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Gav	Gav	?	_	_	_	_	_	Gloss=1
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	nen	IMP	?	_	_	_	_	_	Gloss=on
+4	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
+5	boût	bezan	?	_	_	_	_	_	Gloss=être
+6	dikriet	dikriet	?	_	_	_	_	_	Gloss=critiqué
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:113)__1
+# text = Ur wech oa kouezhet klañv. An dra-se oa er bloavezh, a gav din, 1949.
+# text_fr = 'Une fois il est tombé malade. C'était l'année 1949, je crois.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+5	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	An	art	?	_	_	_	_	_	Gloss=le
+8	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.e
+11	bloavezh	bloaz.-vezh	nom.nom	_	_	_	_	_	Gloss=an.née
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+14	gav	gav	?	_	_	_	_	_	Gloss=trouve
+15	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+16	,	,	PUNCT	_	_	_	_	Gloss=punct
+17	1949	1949	?	_	_	_	_	_	Gloss=1949.
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Prud'homme(1863:97)__1
+# text = Guelet a rit penaus an dud en em gav.
+# text_fr = 'Vous voyez que les hommes se rencontrent.'
+# source = Prudhomme (1863)
+1	Guelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	penaus	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+8	em	em	?	_	_	_	_	_	Gloss=trouve
+9	gav.	gav.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Herrieu(1994:§13)__1
+# text = Em gavet a ran get kenseurted, amezeion.
+# text_fr = 'Je me retrouve avec mes pareils, des voisins.'
+# source = Herrieu (1994)
+1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	gavet	gavet	?	_	_	_	_	_	Gloss=trouver
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+5	get	gant	?	_	_	_	_	_	Gloss=avec
+6	kenseurted	ken-.seurt.-ed(PL.)	?.préposition-nom-quantifieur-adjectif.?	_	_	_	_	_	Gloss=con-.sort.s
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	amezeion	amezeg.-ion	nom.?	_	_	_	_	_	Gloss=voisin.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plougerneau,M-L.B.(04/2016)__19
+# text = Klevout a reoc'h unan bennak oc'h en en gaout.
+# text_fr = 'Vous entendez quelqu'un arriver.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Klevout	klevout	verbe	_	_	_	_	_	Gloss=entendre
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reoc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+4	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+6	en	en	complémenteur	_	_	_	_	_	Gloss=[[enem
+7	en	en	complémenteur	_	_	_	_	_	Gloss=gavout|arriver]]]
+8	gaout.	gaout.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__14
+# text = Hennezh en em gav.
+# text_fr = 'Il se trouve supérieur.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016b)
+# texttype = Élicitations
+1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	en	en	complémenteur	_	_	_	_	_	Gloss=|
+3	em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	gav	gav	?	_	_	_	_	_	Gloss=trouve
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Schapansky(1996:180)__1
+# text = Hani nen des gellet kavout er housket.
+# text_fr = 'Personne n'a pu dormir.'
+# source = Jaffré (1986)
+# texttype = Références de corpus
+1	Hani	hini	nom-pronom	_	_	_	_	_	Gloss=N
+2	nen	nen	?	_	_	_	_	_	Gloss=ne
+3	des	kaout	?	_	_	_	_	_	Gloss=a
+4	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
+5	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
+6	er	art	?	_	_	_	_	_	Gloss=le
+7	housket	kousk	verbe	_	_	_	_	_	Gloss=sommeil|Morph=5
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:175)__1
+# text = Gras kavan kaout ur banne dour.
+# text_fr = 'Ça me soulage d'avoir un verre d'eau.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Gras	Gras	?	_	_	_	_	_	Gloss=grâce
+2	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	banne	banne	?	_	_	_	_	_	Gloss=verre
+5	dour	dour	nom	_	_	_	_	_	Gloss=eau
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__38
+# text = Kerz d’eseya da gavout an dra he !
+# text_fr = 'Va essayer de ravoir ça !' (laver)
+# location = Locronan
+# source = A-M. Louboutin (02/2022)
+# texttype = Élicitations
+1	Kerz	kerzhout	verbe	_	_	_	_	_	Gloss=va
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	gavout	gavout	?	_	_	_	_	_	Gloss=trouver
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dra	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+6	he	he	?	_	_	_	_	_	Gloss=?
+7	!	!	PUNCT	_	_	_	_	Gloss=punct

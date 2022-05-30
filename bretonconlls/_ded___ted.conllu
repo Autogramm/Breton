@@ -1,6 +1,6 @@
 # sent_id = Vallée (1980:XVII) __1
 # text = ar gwanderiou a zeu eus ar wanded.
-# text_fr =  'les infirmités qui viennent de la faiblesse.'
+# text_fr = 'les infirmités qui viennent de la faiblesse.'
 # source2 =  Le Roux (1915)
 1	ar	art	?	_	_	_	_	_	Gloss=le
 2	gwanderiou	gwan.-der.-où(PL.)	adjectif.?.?	_	_	_	_	_	Gloss=faible.N.s
@@ -8,5 +8,5 @@
 4	zeu	dont	verbe	_	_	_	_	_	Gloss=vient
 5	eus	eus	?	_	_	_	_	_	Gloss=de
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	wanded	gwan	adjectif	1	_	_	_	_	Gloss=faible
+7	wanded	gwan	adjectif	_	_	_	_	_	Gloss=faible|Morph=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

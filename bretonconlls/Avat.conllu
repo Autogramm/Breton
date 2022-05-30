@@ -1,0 +1,98 @@
+# sent_id = ArBorgn(2011:34)__1
+# text = Hennañ zo ur paotr digourdi hat !.
+# text_fr = 'Celui-ci est un dégourdi, 'at !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Hennañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+5	digourdi	digourdi	?	_	_	_	_	_	Gloss=débrouillard
+6	hat	hat	?	_	_	_	_	_	Gloss=excl.
+7	!.	!.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Kervella(1933:58)__1
+# text = Bet e oa ar vleunienn-se kaer gwechall; bremañ, avat, edo bras-disec'het...
+# text_fr = 'Cette fleur avait été belle autrefois; elle était cependant maintenant complètement desséchée.'
+# source = Kervella (1993)
+# texttype = Références de corpus
+1	Bet	bet	?	_	_	_	_	_	Gloss=été
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	vleunienn-se	bleuñ	?	_	_	_	_	_	Gloss=fleur]].[[-enn|SG]]-[[DEM|ci|Morph=1
+6	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+7	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
+8	;	;	PUNCT	_	_	_	_	Gloss=punct
+9	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	avat	avat	adverbe	_	_	_	_	_	Gloss=cependant
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	edo	COP	?	_	_	_	_	_	Gloss=était
+14	bras-disec'het..	bras-.de-,di-.sec'hiñ	adjectif.?.?	_	_	_	_	_	Gloss=grand.des.séché
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:483)__1
+# text = Job, 'vad a oa eun den dibalamour a-walh.
+# text_fr = 'Quant à Joseph, c'était un homme indolent, inactif et sans initiative.'
+# source = Gros (1984)
+1	Job,	Job,	?	_	_	_	_	_	Gloss=Job,
+2	'	'	?	_	_	_	_	_	Gloss=cependant
+3	vad	vad	?	_	_	_	_	_	Gloss=?
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	den	den	nom	_	_	_	_	_	Gloss=homme
+8	dibalamour	dibalamour	?	_	_	_	_	_	Gloss=indolent
+9	a-walh	awalc'h	?	_	_	_	_	_	Gloss=assez
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Abeozen(1942:362)__1
+# text = N'oa avat en enezenn nemet tregont soudard en ur c'hreñvlec'h.
+# text_fr = 'Mais il n'y avait sur l'île que trente soldats dans une place forte.'
+# dialect = Léonard
+# source = Abeozen (1942)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=R|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	avat	avat	adverbe	_	_	_	_	_	Gloss=cependant
+4	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	enezenn	enez	nom	_	_	_	_	_	Gloss=île
+6	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+7	tregont	cardinaux	?	_	_	_	_	_	Gloss=trente
+8	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
+9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+10	ur	art	?	_	_	_	_	_	Gloss=un
+11	c'hreñvlec'h	kreñv-	adjectif	_	_	_	_	_	Gloss=fort]].[[lecxxxh|lieu|Morph=5
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:II)__1
+# text = Homañ 'zegouezh deoc'h 'at !.
+# text_fr = 'Celle-ci (robe etc.) vous va, sûr!'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Homañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
+2	'	degouezhout	verbe	_	_	_	_	_	Gloss=arrive/tombe
+3	zegouezh	zegouezh	?	_	_	_	_	_	Gloss=?
+4	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	'	'	?	_	_	_	_	_	Gloss=excl.
+6	at	at	?	_	_	_	_	_	Gloss=?
+7	!.	!.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:482)__1
+# text = Ar haz-mañ 'vad a vez greet picherou dezañ !
+# text_fr = 'Eh bien ! On en fait des caresses à ce chat-ci !'
+# source = Gros (1984)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	haz-mañ	kazh	nom	_	_	_	_	_	Gloss=chat]]-[[DEM|ci|Morph=5
+3	'	'	?	_	_	_	_	_	Gloss=excl
+4	vad	vad	?	_	_	_	_	_	Gloss=?
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	picherou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+9	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

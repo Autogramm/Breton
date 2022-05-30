@@ -1,0 +1,41 @@
+# sent_id = Bouzeg(1986:29)__1
+# text = Benn po droug kein, ' vo dav deoc'h chom ho kourvo.
+# text_fr = 'Quand vous aurez mal au dos, vous devrez rester allongé.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+2	po	kaout	?	_	_	_	_	_	Gloss=auras
+3	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+4	kein	kein	nom	_	_	_	_	_	Gloss=dos
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	'	COP	?	_	_	_	_	_	Gloss=sera
+7			PUNCT	_	_	_	_	Gloss=punct
+8	vo	vo	?	_	_	_	_	_	Gloss=?
+9	dav	dav	adjectif	_	_	_	_	_	Gloss=dû
+10	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+12	ho	POSS	?	_	_	_	_	_	Gloss=vos|Morph=3
+13	kourvo	gourvez	nom	_	_	_	_	_	Gloss=allongé
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cheveau (2007:207)  __1
+# text = droug-kein
+# text_fr = 'mal au dos'
+# text_phon = ['dʁukɛɲ']
+1	droug-kein	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+
+# sent_id = LeGall(1957:'digeina')__1
+# text = Poan am-eus o tigeina goude beza chomet stouet keid-all.
+# text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
+# source = Le Gall (1957)
+1	Poan	poan	nom	_	_	_	_	_	Gloss=peine
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	tigeina	di-.-añ(V.)	?.?	_	_	_	_	_	Gloss=dés.er
+4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+5	beza	bezañ	?	_	_	_	_	_	Gloss=être
+6	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+7	stouet	stouiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pench.é
+8	keid-all	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

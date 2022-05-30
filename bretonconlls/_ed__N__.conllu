@@ -1,6 +1,6 @@
 # sent_id = ArMerser(2009:§'samma')__1
 # text = Sammet eo bet gant ar hleñved.
-# text_fr =  'La maladie l'a emporté.'
+# text_fr = 'La maladie l'a emporté.'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Sammet	sammañ	verbe	_	_	_	_	_	Gloss=chargé
@@ -8,16 +8,16 @@
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	gant	gant	?	_	_	_	_	_	Gloss=avec
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	hleñved	klañv	adjectif	5	_	_	_	_	Gloss=malad
+6	hleñved	klañv	adjectif	_	_	_	_	_	Gloss=malad|Morph=5
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:393)__1
 # text = Ar housked da greisteiz a zo eet er-mêz pell 'zo.
-# text_fr =  'La sieste est supprimée depuis longtemps.'
+# text_fr = 'La sieste est supprimée depuis longtemps.'
 # source = Gros (1984)
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	housked	kousk	verbe	5	_	_	_	_	Gloss=dormir
-3	da	da	préposition	1	_	_	_	_	Gloss=à
+2	housked	kousk	verbe	_	_	_	_	_	Gloss=dormir|Morph=5
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 4	greisteiz	greisteiz	?	_	_	_	_	_	Gloss=midi
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
@@ -29,7 +29,7 @@
 
 # sent_id = Bzh5(2007:16).__1
 # text = Ec'h ! E-giz-se vez tapet kleñvedoù !
-# text_fr =  'Pouah ! C'est comme ça qu'on attrape des maladies !'
+# text_fr = 'Pouah ! C'est comme ça qu'on attrape des maladies !'
 # source = Bzh5 (2007)
 # texttype = Références de corpus
 1	Ec'h	Ec'h	?	_	_	_	_	_	Gloss=[[Ecxxxh!|Pouah
@@ -39,11 +39,11 @@
 5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	tapet	tapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=trap.é
 7	kleñvedoù	klañv.-où(PL.)	adjectif.?	_	_	_	_	_	Gloss=malad.s
-8	!	!	?	_	_	_	_	_	Gloss=?
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = (Gros1970:163).__1
 # text = Jañn-Mari he-devoa prenet eur bufed koz digand honnez.
-# text_fr =  'Jeanne-Marie avait acheté un vieux buffet à celle-là.' 
+# text_fr = 'Jeanne-Marie avait acheté un vieux buffet à celle-là.'
 # source = Gros (1970)
 1	Jañn-Mari	nompropre	?	_	_	_	_	_	Gloss=Jeanne-Marie
 2	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é

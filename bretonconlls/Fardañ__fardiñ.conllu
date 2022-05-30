@@ -1,0 +1,41 @@
+# sent_id = Ouessant,Malgorn(1909)__1
+# text = Eman o farda mont kuit.
+# text_fr = 'Il fait ses préparatifs de départ.'
+# dialect = Léonard
+# source = Malgorn (1909)
+# texttype = Ouvrages de recherche
+1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	farda	farda	?	_	_	_	_	_	Gloss=préparer
+4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:52)__1
+# text = E farder àr ar boued.
+# text_fr = 'On se jette sur la nourriture.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+2	farder	IMP	?	_	_	_	_	_	Gloss=on
+3	àr	war	?	_	_	_	_	_	Gloss=sur
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moulleg(1978:21)__1
+# text = Ret e vo c'hoazh fardañ gevier dezho... Halala !
+# text_fr = 'Il va encore falloir leur conter des fredaines... Ahlala !'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	fardañ	fardañ	?	_	_	_	_	_	Gloss=préparer
+6	gevier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+7	dezho..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	Halala	interjection	?	_	_	_	_	_	Gloss=Ahlala
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

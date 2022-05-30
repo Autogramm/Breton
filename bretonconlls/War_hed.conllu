@@ -1,0 +1,34 @@
+# sent_id = Gros(1966:235)__2
+# text = Chomit aze war-hed tôl bete-gouzoud e vefe ezomm diouzoh.
+# text_fr = 'Restez là à une distance d'un jet de pierre, de crainte qu'on ait besoin de vous.'
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Chomit	chom	verbe	_	_	_	_	_	Gloss=restez
+2	aze	ads	?	_	_	_	_	_	Gloss=ici
+3	war-hed	war	préposition	_	_	_	_	_	Gloss=sur
+4	tôl	taol(M.)	?	_	_	_	_	_	Gloss=coup
+5	bete-gouzoud	betegout	complémenteur	_	_	_	_	_	Gloss=de.crainte
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	vefe	COP	?	_	_	_	_	_	Gloss=serait
+8	ezomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+9	diouzoh	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.vous
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ledunois(2002:320)__1
+# text = Aet al lost hag an divesker war o hed en dour.
+# text_fr = 'La queue et les pattes arrières avaient disparu dans l'eau.'
+# source = Ar Barzhig (1988)
+# texttype = Références de corpus
+1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
+2	al	art	?	_	_	_	_	_	Gloss=le
+3	lost	lost	nom	_	_	_	_	_	Gloss=queue
+4	hag	&	?	_	_	_	_	_	Gloss=et
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	divesker	duel.gar	?.nom	_	_	_	_	_	Gloss=deux.jambe
+7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	hed	hed	nom	_	_	_	_	_	Gloss=long
+10	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	dour	dour	nom	_	_	_	_	_	Gloss=eau
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

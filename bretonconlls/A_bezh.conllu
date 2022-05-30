@@ -1,13 +1,13 @@
 # sent_id = LeBozec(1933:82)__1
 # text = Ar vandenn a-bez he deus en em serret en eun torkad.
-# text_fr =  'Tout le troupeau s'est rassemblé.' 
+# text_fr = 'Tout le troupeau s'est rassemblé.'
 # source = Le Bozec
 1	Ar	art	?	_	_	_	_	_	Gloss=le
 2	vandenn	vandenn	?	_	_	_	_	_	Gloss=1
 3	a-bez	a-bez	?	_	_	_	_	_	Gloss=en.entier
 4	he	he	?	_	_	_	_	_	Gloss=3SGF
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
-6	en	enem	?	1	_	_	_	_	Gloss=se]
+6	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
 7	em	em	?	_	_	_	_	_	Gloss=?
 8	serret	serriñ	verbe	_	_	_	_	_	Gloss=rangé
 9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
@@ -17,7 +17,7 @@
 
 # sent_id = Kervella(1995:§480)__1
 # text = en e_[[1]]_ bezh, en he_[[2]]_ fezh, en o_[[2]]_ fezh...
-# text_fr =  'en son entier (à lui), en son entier (à elle), en leur entier (à eux)' 
+# text_fr = 'en son entier (à lui), en son entier (à elle), en leur entier (à eux)'
 # source = Kervella (1995)
 1	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 2	e_[[1]]_	POSS	?	_	_	_	_	_	Gloss=son
@@ -34,7 +34,7 @@
 
 # sent_id = AnDiberder(2000:102)__1
 # text = En des ched ir mour a-pih ur sorsérez èl hounnen.
-# text_fr =  'Il n'y a pas pareille sorcière dans la mer entière.'
+# text_fr = 'Il n'y a pas pareille sorcière dans la mer entière.'
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
@@ -46,13 +46,13 @@
 6	a-pih	a-pih	?	_	_	_	_	_	Gloss=entier
 7	ur	art	?	_	_	_	_	_	Gloss=un
 8	sorsérez	-ez(F.)	?	_	_	_	_	_	Gloss=e
-9	èl	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+9	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 10	hounnen	DEM	?	_	_	_	_	_	Gloss=celle-ci
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(2014:'a-bezh')__1
 # text = Aet eo tout ar pignon a-bezh en traoñv.
-# text_fr =  'Le pignon est tombé, tout d'une pièce.
+# text_fr = 'Le pignon est tombé, tout d'une pièce.
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
@@ -61,7 +61,7 @@
 3	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
 4	ar	art	?	_	_	_	_	_	Gloss=le
 5	pignon	pignon	?	_	_	_	_	_	Gloss=pignon
-6	a-bezh	a-bezh	adjectif-quantifieur	_	_	_	_	_	Gloss=entier
+6	a-bezh	a-bezh	quantifieur-adjectif	_	_	_	_	_	Gloss=entier
 7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 8	traoñv	traoñ	nom	_	_	_	_	_	Gloss=bas
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

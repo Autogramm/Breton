@@ -1,0 +1,28 @@
+# sent_id = Kerrain (2010:136)__1
+# text = ma ZI , hor yezh-ni
+# text_fr = 'ma MAISON, NOTRE langue'
+1	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	ZI	ti	nom	_	_	_	_	_	Gloss=maison
+3			?	_	_	_	_	_	Gloss=
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	hor	POSS	?	_	_	_	_	_	Gloss=notre
+6	yezh-ni	yezh	nom	_	_	_	_	_	Gloss=langue
+
+# sent_id = Denez(1984:73)__1
+# text = met [ ar re-mañ ] neus [ tout _ ] mouchouiroù.
+# text_fr = '... mais toutes les autres portent des "mouchoirs" [des châles].'
+# dialect = Cornouaillais
+# source = Denez (1984)
+# texttype = Références de corpus
+1	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	[	[	?	_	_	_	_	_	Gloss=?
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	]	kaout	?	_	_	_	_	_	Gloss=a
+6	neus	neus	?	_	_	_	_	_	Gloss=?
+7	[	[	?	_	_	_	_	_	Gloss=?
+8	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	_	_	?	_	_	_	_	_	Gloss=?
+10	]	]	?	_	_	_	_	_	Gloss=?
+11	mouchouiroù	mouchouiroù	?	_	_	_	_	_	Gloss=mouchoirs
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

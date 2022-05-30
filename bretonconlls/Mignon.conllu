@@ -1,0 +1,14 @@
+# sent_id = ArBorgn(2011:37)__1
+# text = Koll ma mignon am eus kavet start.
+# text_fr = 'J'ai trouvé dur de perdre mon ami.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Koll	koll	verbe	_	_	_	_	_	Gloss=perdre
+2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	mignon	mignon	nom	_	_	_	_	_	Gloss=ami
+4	am	am	?	_	_	_	_	_	Gloss=R
+5	eus	kaout	?	_	_	_	_	_	Gloss=a
+6	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+7	start	start	adjectif	_	_	_	_	_	Gloss=dur
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

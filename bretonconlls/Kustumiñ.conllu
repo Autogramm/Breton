@@ -1,0 +1,69 @@
+# sent_id = Merser(2011:126)__1
+# text = Beb hañv e kustume mond d'an aot.
+# text_fr = 'Tous les étés il avait l'habitude d'aller au bord de la mer.'
+# source = Merser (2011)
+# texttype = Ouvrages de recherche
+1	Beb	bep	?	_	_	_	_	_	Gloss=chaque
+2	hañv	hañv	nom	_	_	_	_	_	Gloss=été
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	kustume	kustume	?	_	_	_	_	_	Gloss=coutumait
+5	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+6	d'	da	préposition	_	_	_	_	_	Gloss=à
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	aot	aod	nom	_	_	_	_	_	Gloss=côte
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__12
+# text = Ar c'hi a goustoum espress staotaat dirak va or.
+# text_fr = 'Le chien a l'habitude de pisser exprès devant ma porte.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goustoum	goustoum	?	_	_	_	_	_	Gloss=coutume
+5	espress	espress	?	_	_	_	_	_	Gloss=exprès
+6	staotaat	staotat	verbe	_	_	_	_	_	Gloss=pisser
+7	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
+8	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	or	dor	nom	_	_	_	_	_	Gloss=porte
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(2014:'amzer')__1
+# text = Pa vez kustum an den da vezañ en ti e krog an amzer ennañ.
+# text_fr = 'Quand on est habitué à rester à la maison, le froid vous saisit.'
+# dialect = Trégorrois
+# source = Gros (2014)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	kustum	kustum	?	_	_	_	_	_	Gloss=habitué
+4	an	IMP	?	_	_	_	_	_	Gloss=on
+5	den	den	nom	_	_	_	_	_	Gloss=?
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+8	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	ti	ti	nom	_	_	_	_	_	Gloss=maison
+10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+11	krog	kregiñ	verbe	_	_	_	_	_	Gloss=commence
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+14	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__18
+# text = Ar c'hraonv a goustoum louedañ buan.
+# text_fr = 'Les noix moisissent vite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hraonv	kraoñ	?	_	_	_	_	_	Gloss=noix|Morph=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goustoum	goustoum	?	_	_	_	_	_	Gloss=coutume
+5	louedañ	louediñ	?	_	_	_	_	_	Gloss=moisir
+6	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

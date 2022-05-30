@@ -1,0 +1,38 @@
+# sent_id = ArBorgn(2011:19)__1
+# text = Na bout 'oa arru kozh, e kerzhe c'hoazh pasapl.
+# text_fr = 'Bien qu'il fût devenu vieux, il marchait encore pas mal.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Na	Na	?	_	_	_	_	_	Gloss=[[nabout|même
+2	bout	bout	?	_	_	_	_	_	Gloss=si]]]
+3	'	COP	?	_	_	_	_	_	Gloss=était
+4	oa	oa	?	_	_	_	_	_	Gloss=?
+5	arru	arruout	?	_	_	_	_	_	Gloss=arrivé
+6	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	kerzhe	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
+10	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+11	pasapl	pasapl	adverbe	_	_	_	_	_	Gloss=pas.mal
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:80)__2
+# text = Daousto d'e oad kaset mat, e kerzhe c'hoazh buan pasapl.
+# text_fr = 'Malgré son âge bien avancé, il marchait encore passablement vite.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Daousto	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
+2	d'	da	préposition	_	_	_	_	_	Gloss=de
+3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	oad	oad	nom	_	_	_	_	_	Gloss=âge
+5	kaset	kas.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=envoy.é
+6	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	kerzhe	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
+10	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+11	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+12	pasapl	pasapl	adverbe	_	_	_	_	_	Gloss=assez
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

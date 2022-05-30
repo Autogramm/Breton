@@ -1,0 +1,144 @@
+# sent_id = LeSaëc(1990:6)__1
+# text = Ata ! Dont a ri ?
+# text_fr = 'Alors, tu viens ?'
+# source = Le Saëc (1990)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Dont	dont	verbe	_	_	_	_	_	Gloss=venir
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = SkolanEmsav(1977:24)__1
+# text = A 'ta ! Me 'n hini zo o trelatiñ, an taol-mañ.
+# text_fr = 'Ça alors ! C'est moi qui perds la boule, pour le coup.'
+# source = Skol an Emsav (1977)
+# texttype = Références de corpus
+1	A	A	préposition	_	_	_	_	_	Gloss=[[A!|Ah
+2	'	'	?	_	_	_	_	_	Gloss=!]]]
+3	ta	ta	?	_	_	_	_	_	Gloss=[['@ta!|donc
+4			?	_	_	_	_	_	Gloss=!]]]
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Me	pfi	?	_	_	_	_	_	Gloss=moi
+7	'	art	?	_	_	_	_	_	Gloss=le
+8	n	n	?	_	_	_	_	_	Gloss=?
+9	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+10	zo	zo	?	_	_	_	_	_	Gloss=est
+11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	trelatiñ	trelatiñ	verbe	_	_	_	_	_	Gloss=folleiller
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	an	art	?	_	_	_	_	_	Gloss=le
+
+# sent_id = AnHere(2003:42)__1
+# text = Ata !, Petra zo c'hoarvezet c'hoazh ?
+# text_fr = 'Ah ! çà... Qu'est-ce qui se passe encore ?'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!,	!,	?	_	_	_	_	_	Gloss=?
+3	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	c'hoarvezet	c'hoarvezout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=pass.é
+6	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:13)__1
+# text = Ata ! War-lerc'h pe loen eo aet Milou da gas c'hoazh ?
+# text_fr = 'Allons bon ! Qu'est-ce que Milou a encore flairé comme gibier ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	War-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
+4	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+5	loen	loen	nom	_	_	_	_	_	Gloss=animal
+6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+8	Milou	nompropre	?	_	_	_	_	_	Gloss=Milou
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	gas	kas	verbe	_	_	_	_	_	Gloss=envoyer
+11	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:3)__1
+# text = Ata ! N'az pez ket aon !
+# text_fr = 'Allons ! N'aie pas peur... '  (avec impatience)
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	N'	N'	?	_	_	_	_	_	Gloss=ne
+4	az	az	?	_	_	_	_	_	Gloss=2SG
+5	pez	kaout	?	_	_	_	_	_	Gloss=ait
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	aon	aon	nom	_	_	_	_	_	Gloss=peur
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:25)__1
+# text = Ata !, Petra c'hoazh ?
+# text_fr = 'Allons bon !... Quoi encore ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!,	!,	?	_	_	_	_	_	Gloss=?
+3	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+4	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:18)__1
+# text = Ata ! Mard emañ kont evel-se e vo lakaet amañ...
+# text_fr = 'Eh bien ! Dans ce cas, si on le mettait ici ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Mard	mard	?	_	_	_	_	_	Gloss=si
+4	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	kont	kont	?	_	_	_	_	_	Gloss=conte
+6	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	vo	COP	?	_	_	_	_	_	Gloss=sera
+9	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+10	amañ..	amañ	?	_	_	_	_	_	Gloss=ici
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:41)__1
+# text = Ata ! Ne lezin ket kement-se da dremen, me lar !
+# text_fr = 'Ah ! mais, ça ne se passera pas comme ça, je vous le jure !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	lezin	lezel	?	_	_	_	_	_	Gloss=laisserai
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	dremen	tremen	verbe	_	_	_	_	_	Gloss=passer
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	me	pfi	?	_	_	_	_	_	Gloss=moi
+11	lar	lavarout	verbe	_	_	_	_	_	Gloss=dit
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:47)__1
+# text = Ata, ho Klaskato ne vefe ket un tammig... eee... c'hwi 'oar ?
+# text_fr = 'Dites-donc, votre Tournesol, ne serait-il pas un peu euh... non ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ata	&.eta	?.?	_	_	_	_	_	Gloss=et.donc
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	Klaskato	nompropre	?	_	_	_	_	_	Gloss=Tournesol
+5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	vefe	COP	?	_	_	_	_	_	Gloss=serait
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	un	art	?	_	_	_	_	_	Gloss=un
+9	tammig..	tamm.-ig	quantifieur.?	_	_	_	_	_	Gloss=morceau.DIM
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+11	eee..	remplisseur	?	_	_	_	_	_	Gloss=euh...
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+13	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+14	'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+15	oar	oar	?	_	_	_	_	_	Gloss=?
+16	?	?	PUNCT	_	_	_	_	Gloss=punct

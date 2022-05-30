@@ -1,0 +1,272 @@
+# sent_id = Chalm(2008:§Q6)__1
+# text = hag evel-henn hag evel-hont
+# text_fr = 'et patati, et patata'
+# source = Chalm (2008)
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	evel-henn	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	evel-hont	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+
+# sent_id = Monfort(2007:15)__1
+# text = ha bardi ha barda... ha bardi ha barda...
+# text_fr = 'Et blablabla, et blablabla ... Et patati, et patata ... '
+# source = Monfort (2007)
+# texttype = Références de corpus
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	bardi	bardi	?	_	_	_	_	_	Gloss=?
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	barda..	barda..	?	_	_	_	_	_	Gloss=?
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	bardi	bardi	?	_	_	_	_	_	Gloss=?
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	barda..	barda..	?	_	_	_	_	_	Gloss=?
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:48)__1
+# text = 'Mañ an ninig o tont !...
+# text_fr = 'Le petit oiseau va sortir !'
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	Mañ	Mañ	?	_	_	_	_	_	Gloss=?
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	ninig	evn.ninig	nom.?	_	_	_	_	_	Gloss=oiseau.DIM
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+7	!...	!...	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Bijer(2007:243)__1
+# text = Pa veze dornadeg, e kêr-mañ-kêr...
+# text_fr = 'Quand on battait dans telle ou telle maison... '
+# dialect = Cornouaillais
+# location = Bigouden
+# source = Bijer (2007)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	dornadeg	dornañ.-adeg	verbe.nom	_	_	_	_	_	Gloss=batt.age
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e	P.e	?	_	_	_	_	_	Gloss=en
+
+# sent_id = Audic(2011:15)__5
+# text = an nos-man hag an nos
+# text_fr = 'tel ou tel soir'
+# location = Arradon
+# source = Audic (2011)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	nos-man	noz	nom	_	_	_	_	_	Gloss=nuit
+3	hag	eus	?	_	_	_	_	_	Gloss=de
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	nos	noz	nom	_	_	_	_	_	Gloss=nuit
+
+# sent_id = ArFloc'h(1922:347)__1
+# text = en eur ger tra pep tra evit plijout d'eun aotrou a renk uhel !
+# text_fr = '... en un mot tout pour plaire à un gentilhomme.'
+# location = Bodilis
+# source = Ar Floch (1922)
+1	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+2	eur	art	nom	_	_	_	_	_	Gloss=un
+3	ger	ger	nom	_	_	_	_	_	Gloss=mot
+4	tra	tra	nom	_	_	_	_	_	Gloss=chose
+5	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+6	tra	tra	nom	_	_	_	_	_	Gloss=chose
+7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	plijout	plijout	verbe	_	_	_	_	_	Gloss=plaire
+9	d'	da	préposition	_	_	_	_	_	Gloss=à
+10	eun	art	?	_	_	_	_	_	Gloss=un
+11	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	renk	reñk	nom	_	_	_	_	_	Gloss=rang
+14	uhel	uhel	adjectif	_	_	_	_	_	Gloss=haut
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Martin(1929:180)__2
+# text = Cheinik Doue, hema zo eun tamm tra goalldra !
+# text_fr = 'Mon Dieu, quel pleurnicheur!'
+# dialect = Cornouaillais
+# source = Martin (1929)
+# texttype = Références de corpus
+1	Cheinik	cheinik	?	_	_	_	_	_	Gloss=dos.petit?
+2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	hema	DEM	?	_	_	_	_	_	Gloss=celui.ci
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	eun	art	?	_	_	_	_	_	Gloss=un
+7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+8	tra	tra	nom	_	_	_	_	_	Gloss=chose
+9	goalldra	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:152).__1
+# text = Goude e vezont bloñset ha dibloñset tout evel-just.
+# text_fr = 'Après, ils sont meurtris bien sûr.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	bloñset	bloñset	?	_	_	_	_	_	Gloss=tapé
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	dibloñset	di-	?	_	_	_	_	_	Gloss=dé
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sur
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'vliw')__1
+# text = Ale vliw ! Hezh skôe ket war ar youd, oa 'biou-'biou beb taol.
+# text_fr = 'Allez vlan ! Il ne frappait pas sur la bouillie, c'était à côté à chaque coup.'
+# source = Lozach (2014)
+1	Ale	ale!	?	_	_	_	_	_	Gloss=allez
+2	vliw	vliw	?	_	_	_	_	_	Gloss=vlan
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Hezh	DEM	?	_	_	_	_	_	Gloss=il
+5	skôe	skeiñ	verbe	_	_	_	_	_	Gloss=frappait
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	youd	yod	nom	_	_	_	_	_	Gloss=bouillie
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	oa	COP	?	_	_	_	_	_	Gloss=était
+12	'	e-biv	?	_	_	_	_	_	Gloss=à-côté
+13	biou-'	biou-'	?	_	_	_	_	_	Gloss=?
+14	biou	biou	?	_	_	_	_	_	Gloss=?
+15	beb	bep	?	_	_	_	_	_	Gloss=chaque
+16	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Denez(1993:17)__1
+# text = Bevañ-bevaik a rae, kalonek atav...
+# text_fr = 'Il vivotait, toujours courageux... '
+# source = Denez (1993)
+# texttype = Ouvrages de recherche
+1	Bevañ-bevaik	bevañ.bevañ.-ig	verbe.verbe.?	_	_	_	_	_	Gloss=vivre.viv.oter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	kalonek	kalon.-ek	nom.?	_	_	_	_	_	Gloss=courag.eux
+6	atav..	atav	adverbe	_	_	_	_	_	Gloss=toujours
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:95)__1
+# text = Ya, gwiskamantoù a bep seurt iskis-iskisoc'h an eil eget egile.
+# text_fr = 'Oui, des costumes de toute sorte, plus étranges les uns que les autres.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	gwiskamantoù	gwiskañ.-amant.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=vêt.ement.s
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+6	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+7	iskis-iskisoc'h	iskis.iskis.-oc'h	adjectif.adjectif.?	_	_	_	_	_	Gloss=étrange.étrange.plus
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	eil	eil	pronom	_	_	_	_	_	Gloss=second
+10	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
+11	egile	egile	?	_	_	_	_	_	Gloss=autre
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:76)__3
+# text = Ha goude-se ar re-se ouie dont tout setu vie blag ken-ha-ken .
+# text_fr = 'Et après tous ceux-là venaient et on blaguait tant et tant.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	goude-se	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	ouie	Auxiliairegouzout	?	_	_	_	_	_	Gloss=AUX
+6	dont	dont	verbe	_	_	_	_	_	Gloss=[dont|venir]]
+7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+8	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
+9	vie	COP	?	_	_	_	_	_	Gloss=était
+10	blag	blag	?	_	_	_	_	_	Gloss=blague
+
+# sent_id = Bouzeg(1986:II)__4
+# text = sell deus 'nan bennak bac'h ha bac'h
+# text_fr = 'regarder quelqu'un bouche bée.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	sell	sellout	verbe	_	_	_	_	_	Gloss=regarder
+2	deus	diouzh	préposition	_	_	_	_	_	Gloss=à
+3	'	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+4	nan	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:63)__1
+# text = Me 'vad, emon-me, a zo nehet ken ez on nehet.
+# text_fr = 'Moi, dis-je, je suis inquiet, je suis vraiment inquiet !'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	'	avat	adverbe	_	_	_	_	_	Gloss=cependant
+3	vad,	vad,	?	_	_	_	_	_	Gloss=?
+4	emon-me	eme	préposition	_	_	_	_	_	Gloss=dis-je
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	nehet	nec'het	?	_	_	_	_	_	Gloss=inquiet
+9	ez	ez	?	_	_	_	_	_	Gloss=R
+10	on	COP	?	_	_	_	_	_	Gloss=suis
+11	nehet	nec'het	?	_	_	_	_	_	Gloss=inquiet
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:64).__2
+# text = Mar karez az-po ar hoz tok-mañ, [ evel m' ema ema ] !
+# text_fr = 'Si tu veux tu auras ce vieux chapeau-ci, comme il est, il est (tel qu'il est).'
+# source = Gros (1984)
+1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+2	karez	karout	verbe	_	_	_	_	_	Gloss=aimes
+3	az-po	az-po	?	_	_	_	_	_	Gloss=R
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	hoz	kozh-	adjectif	_	_	_	_	_	Gloss=vieux|Morph=5
+6	tok-mañ	tok	nom	_	_	_	_	_	Gloss=chapeau
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	[	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+9	evel	ma	complémenteur	_	_	_	_	_	Gloss=que
+10	m'	m'	?	_	_	_	_	_	Gloss=?
+11			PUNCT	_	_	_	_	Gloss=punct
+12	ema	COP	?	_	_	_	_	_	Gloss=est
+13	ema	COP	?	_	_	_	_	_	Gloss=est
+14	]	]	?	_	_	_	_	_	Gloss=?
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:64).__3
+# text = An oaled-mañ, a zo greet [ evel ma teu e teu ].
+# text_fr = 'Ce foyer a été construit comme cela vient cela vient.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	oaled-mañ	oaled	nom	_	_	_	_	_	Gloss=foyer
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	COP	?	_	_	_	_	_	Gloss=est
+6	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	[	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+8	evel	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+10	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+12	teu	dont	verbe	_	_	_	_	_	Gloss=vient
+13	].	].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Elégoët(1982:10)__2
+# text = hag e veze troet dac'h ar roud-avel a veze !
+# text_fr = 'Et on tournait (le tuyau) selon le lit du vent.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	troet	treiñ	verbe	_	_	_	_	_	Gloss=tourné
+5	dac'h	diouzh	préposition	_	_	_	_	_	Gloss=selon
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	roud-avel	roud	nom	_	_	_	_	_	Gloss=trace
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

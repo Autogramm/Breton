@@ -1,0 +1,27 @@
+# sent_id = Standard/Cornouaillais,Drezen(1943)__5
+# text = ur pikol puñs er park
+# text_fr = 'un grand cratère dans le champ'
+# source = Drezen (1943)
+# texttype = Références de corpus
+1	ur	art	?	_	_	_	_	_	Gloss=un
+2	pikol	pikol	nom-adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=grand
+3	puñs	puñs	nom	_	_	_	_	_	Gloss=puits
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	park	park	nom	_	_	_	_	_	Gloss=champ
+
+# sent_id = Briant-Cadiou(1998:45)__1
+# text = Ouspenn e ranked [...] tenna dour euz ar puns…
+# text_fr = 'En plus on devait [...] tirer l'eau du puits… '
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ouspenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ranked	rankout.IMP	verbe.?	_	_	_	_	_	Gloss=devait.on
+4	[...]	[...]	?	_	_	_	_	_	Gloss=
+5	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	euz	eus	?	_	_	_	_	_	Gloss=de
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	puns…	puns…	?	_	_	_	_	_	Gloss=puits

@@ -1,0 +1,42 @@
+# sent_id = Plougerneau,M-L.B.(04/2016)__30
+# text = Er Frañs, an dud a zreb melfed.
+# text_fr = 'En France, ils mangent des escargots.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Frañs	Frañs	?	_	_	_	_	_	Gloss=France
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	zreb	debriñ	verbe	_	_	_	_	_	Gloss=mange
+8	melfed	melfed	?	_	_	_	_	_	Gloss=escargots
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Er Frans e vez drebet melc'hod.
+# text_fr = 'En France on mange des escargots.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	Frans	Frans	?	_	_	_	_	_	Gloss=France
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+6	melc'hod	melc'hod	?	_	_	_	_	_	Gloss=escargots
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__26
+# text = E Bro-Frañs ' vez debet maligorn'd.
+# text_fr = 'En France, ils mangent des escargots.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	debet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+6	maligorn'	maligorn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=escargot.s
+7	d.	d.	?	_	_	_	_	_	Gloss=?

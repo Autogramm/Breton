@@ -1,0 +1,30 @@
+# sent_id = LeClerc(1986:203)__1
+# text = Gra ma tisko e gentel.
+# text_fr = 'Fais en sorte qu'il apprenne sa leçon.'
+# source = Le Clerc (1986)
+1	Gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	tisko	deskiñ	verbe	_	_	_	_	_	Gloss=apprendra
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	gentel	gentel	?	_	_	_	_	_	Gloss=leçon
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon(1962b:strophe5)__1
+# text = Rosenn guenn ha sterenn quentel.
+# text_fr = 'Rose blanche et étoile de la doctrine.'
+# source = Moyen breton
+1	Rosenn	Rosenn	?	_	_	_	_	_	Gloss=rose
+2	guenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	sterenn	stered	nom	_	_	_	_	_	Gloss=étoile
+5	quentel	quentel	?	_	_	_	_	_	Gloss=doctrine
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Hemon(1962b:strophe117)__1
+# text = nen d-oae berr quentel e-guelet.
+# text_fr = 'Il n'y avait pas peu de temps qu'on ne l'avait vu.'
+# source = Moyen breton
+1	nen	nen	?	_	_	_	_	_	Gloss=ne
+2	d-oae	d-oae	?	_	_	_	_	_	Gloss=était
+3	berr	berr	adjectif	_	_	_	_	_	Gloss=court
+4	quentel	amzer	nom	_	_	_	_	_	Gloss=temps

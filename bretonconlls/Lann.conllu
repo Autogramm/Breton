@@ -1,0 +1,32 @@
+# sent_id = Kergoat(1976:54)__1
+# text = Al lann a veze er gwaremmeier ar meinekañ parkeier a oa.
+# text_fr = 'Les landes de garennes étaient les plus caillouteuses.'
+# dialect = Cornouaillais
+# location = Plogonnec
+# source = Kergoat (1976)
+# texttype = Ouvrages de recherche
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	lann	lann	nom	_	_	_	_	_	Gloss=lande
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	veze	COP	?	_	_	_	_	_	Gloss=était
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	gwaremmeier	gwaremm.-eier	nom.?	_	_	_	_	_	Gloss=garenne.s
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	meinekañ	mein.-ek(Adj.).superlatif	?.?.adjectif	_	_	_	_	_	Gloss=caillout.eux.le.plus
+9	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	oa	COP	?	_	_	_	_	_	Gloss=était
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:318)__1
+# text = / məja drøs-ka:r d-ə lan /
+# text_fr = 'Je vais à travers la lande.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	məja	məja	?	_	_	_	_	_	Gloss=?
+3	drøs-ka:r	a-dreuz	préposition-adverbe	_	_	_	_	_	Gloss=à.travers
+4	d-ə	da	préposition	_	_	_	_	_	Gloss=de
+5	lan	lan	?	_	_	_	_	_	Gloss=lande
+6	/	/	PUNCT	_	_	_	_	Gloss=punct

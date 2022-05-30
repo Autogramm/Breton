@@ -1,0 +1,26 @@
+# sent_id = Kervella(2001:23)__1
+# text = Sapredistak ! P'en devoa lavaret chom mut !
+# text_fr = 'Saperlipopette ! Il avait pourtant promis de ne rien dire !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Sapredistak	sapredistak	?	_	_	_	_	_	Gloss=saperlipopette!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+4	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
+5	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+6	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+7	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+8	mut	mut	adjectif	_	_	_	_	_	Gloss=muet
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:33)__2
+# text = Petra eo holl ar c'huzh-ha-muz-se ?
+# text_fr = 'Qu'est-ce que c'est que toutes ces cachotteries, à la fin ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	c'huzh-ha-muz-se	kuzhat	verbe	_	_	_	_	_	Gloss=cache]]-[[&|et]]-muet-[[DEM|là|Morph=5
+6	?	?	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,49 @@
+# sent_id = Herrieu(1994:235)__1
+# text = hag a c'houlenn gete a beban int ha d’e men eh aont.
+# text_fr = 'Et il leur demande d’où ils sont et où ils vont.'
+# source = Herrieu (1994)
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	c'houlenn	goulenn	verbe	_	_	_	_	_	Gloss=demande
+4	gete	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	beban	beban	?	_	_	_	_	_	Gloss=où
+7	int	COP	?	_	_	_	_	_	Gloss=sont
+8	ha	&	?	_	_	_	_	_	Gloss=et
+9	d’e	da	préposition	_	_	_	_	_	Gloss=à
+10	men	emen	pronom	_	_	_	_	_	Gloss=où
+11	eh	eh	?	_	_	_	_	_	Gloss=R
+12	aont	mont	verbe	_	_	_	_	_	Gloss=vont
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Crahe(2013:277)__1
+# text = A eme e ta ? A emen eo ?
+# text_fr = 'D'où vient-il ?' ? D'où est-il ?'
+# dialect = Vannetais
+# location = Languidic
+# source = Crahe (2013)
+# texttype = Ouvrages de recherche
+1	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	eme	emen	pronom	_	_	_	_	_	Gloss=où
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	ta	dont	verbe	_	_	_	_	_	Gloss=vient
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	emen	emen	pronom	_	_	_	_	_	Gloss=où
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Crahe(2013:277)__5
+# text = A emen ema eñv daet genoc'h ?
+# text_fr = 'Où l'avez-vous trouvé ?'
+# dialect = Vannetais
+# location = Languidic
+# source = Crahe (2013)
+# texttype = Ouvrages de recherche
+1	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	emen	emen	pronom	_	_	_	_	_	Gloss=où
+3	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eñv	écho	?	_	_	_	_	_	Gloss=lui
+5	daet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	genoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+7	?	?	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,13 @@
+# sent_id = ArBorgn(2011:45)__1
+# text = Monet a rae a bihan fourchad.
+# text_fr = 'Il allait à petits pas.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Monet	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	a	a	préposition	_	_	_	_	_	Gloss=à
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+6	fourchad	-ad,-iad	?	_	_	_	_	_	Gloss=long
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

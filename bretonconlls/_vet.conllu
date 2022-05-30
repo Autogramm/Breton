@@ -1,13 +1,13 @@
 # sent_id = AnDiberder(2000:101)__1
 # text = En naùvet di chte ma hei ariù ar un aod ihuél.
-# text_fr =  'Le neuvième jour, elle est arrivée sur de hautes falaises.' 
+# text_fr = 'Le neuvième jour, elle est arrivée sur de hautes falaises.'
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
 1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 2	naùvet	cardinaux	?	_	_	_	_	_	Gloss=9
 3	di	deiz	nom	_	_	_	_	_	Gloss=jour
-4	chte	setu	complémenteur-adverbe-conjonction	_	_	_	_	_	Gloss=voici
+4	chte	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
 5	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	hei	pfi	?	_	_	_	_	_	Gloss=elle
 7	ariù	arru	?	_	_	_	_	_	Gloss=arrivé
@@ -19,7 +19,7 @@
 
 # sent_id = Bouzec&al.(2017:97)__1
 # text = en daouv'nn, en diouv'nn er béorv'nn
-# text_fr =  'Le deuxième, la deuxième, le quatrième'
+# text_fr = 'Le deuxième, la deuxième, le quatrième'
 # dialect = Cornouaillais
 # location = Moëlan
 # source = Bouzec & al. (2017)

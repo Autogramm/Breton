@@ -1,0 +1,29 @@
+# sent_id = Croq(1908:72)__1
+# text = Va fenn a bouez pounner !
+# text_fr = 'Ma tête est lourde.'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	fenn	penn	nom	_	_	_	_	_	Gloss=tête
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	bouez	bouez	?	_	_	_	_	_	Gloss=pèse
+5	pounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:64)__1
+# text = Pouezit war va brec'h: aesoc'h e vo d'eoc'h bale.
+# text_fr = 'Appuyez-vous sur mon bras : vous marcherez plus facilement.'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Pouezit	Pouezit	?	_	_	_	_	_	Gloss=pesez
+2	war	war	?	_	_	_	_	_	Gloss=sur
+3	va	POSS	?	_	_	_	_	_	Gloss=mon
+4	brec'h:	brec'h	?	_	_	_	_	_	Gloss=bras
+5	aesoc'h	aes.-oc'h	adjectif.?	_	_	_	_	_	Gloss=facile.plus
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	vo	COP	?	_	_	_	_	_	Gloss=sera
+8	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+9	eoc'h	eoc'h	?	_	_	_	_	_	Gloss=?
+10	bale	bale	verbe	_	_	_	_	_	Gloss=marcher
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

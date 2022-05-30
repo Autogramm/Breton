@@ -1,0 +1,16 @@
+# sent_id = Moulleg(1978:27)__1
+# text = Sell 'ta ! Ar wech kentañ eo d'un den krouet c'hoarzhin dirazon.
+# text_fr = 'Ça alors ! C'est la première fois qu'un mortel rit en ma présence.'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+3	kentañ	kentañ	?	_	_	_	_	_	Gloss=premier
+4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	un	art	?	_	_	_	_	_	Gloss=un
+7	den	den	nom	_	_	_	_	_	Gloss=personne
+8	krouet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+9	c'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
+10	dirazon	dirak.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=devant.moi
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

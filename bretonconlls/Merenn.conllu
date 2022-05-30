@@ -1,0 +1,16 @@
+# sent_id = HorYezh(1983:17)__1
+# text = ni nie ket ken restachou ar re all da verenn.
+# text_fr = '...nous n'avions que les restes des autres à midi.'
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	ni	pfi	?	_	_	_	_	_	Gloss=nous
+2	nie	kaout	?	_	_	_	_	_	Gloss=aurait
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
+5	restachou	-achou	?	_	_	_	_	_	Gloss=es
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+8	all	all	?	_	_	_	_	_	Gloss=autre
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	verenn	verenn	?	_	_	_	_	_	Gloss=repas
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,103 @@
+# sent_id = ArBorgn(2011:76)__1
+# text = Frank 'walc'h 'oa an hent-bras aze neoazh.
+# text_fr = 'La route était pourtant assez large à cet endroit.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Frank	Frank	adverbe-adjectif	_	_	_	_	_	Gloss=large
+2	'	a-walc'h	?	_	_	_	_	_	Gloss=assez
+3	walc'h	walc'h	?	_	_	_	_	_	Gloss=?
+4	'	COP	?	_	_	_	_	_	Gloss=était
+5	oa	oa	?	_	_	_	_	_	Gloss=?
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	hent-bras	hent	nom	_	_	_	_	_	Gloss=route
+8	aze	ads	?	_	_	_	_	_	Gloss=là
+9	neoazh	neoazh	adverbe	_	_	_	_	_	Gloss=cependant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:40)__1
+# text = Ar re eo frank an arc'hant ganto a c'hell bevañ aes.
+# text_fr = 'Ceux qui ont beaucoup d'argent peuvent vivre à l'aise.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+3	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=abondant
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	arc'hant	arc'hant	?	_	_	_	_	_	Gloss=argent
+7	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
+10	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+11	aes	aes	adjectif	_	_	_	_	_	Gloss=facilement
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:34)__1
+# text = Digori frank â rankin va spérét.
+# text_fr = 'Je devrai avoir l'esprit fort délié.'
+# dialect = Léonard
+# location = Lesneven
+# source = Burel (2012)
+# texttype = Références de corpus
+1	Digori	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
+2	frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+3	â	â	?	_	_	_	_	_	Gloss=R|Morph=1
+4	rankin	rankout	verbe	_	_	_	_	_	Gloss=devrai
+5	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	spérét	spered	nom	_	_	_	_	_	Gloss=esprit
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:64)__2
+# text = Na ra ket darngofad mar kerez paneogwir zo boued frank.
+# text_fr = 'Ne va pas te priver, parce qu'il y a largement de quoi.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	darngofad	darn-.kof.-ad	?.nom.?	_	_	_	_	_	Gloss=petit.ventr.ée
+4	mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+5	kerez	karout	verbe	_	_	_	_	_	Gloss=aimes
+6	paneogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+9	frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=plein
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Croq(1908:1)__1
+# text = Pa vez da gaout, oh ! neuze eo doun ha ledan e c'hodelloù.
+# text_fr = 'Quand il s'agit de posséder, oh, alors ses poches sont larges et profondes.'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	oh	interjection	?	_	_	_	_	_	Gloss=oh
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+8	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	doun	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
+11	ha	&	?	_	_	_	_	_	Gloss=et
+12	ledan	ledan	adjectif	_	_	_	_	_	Gloss=large
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	c'hodelloù	godell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=poche.s
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:56)__1
+# text = Frank a galon eo ma voazin.
+# text_fr = 'Mon voisin est large de cœur, généreux.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Frank	Frank	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	galon	kalon	nom	_	_	_	_	_	Gloss=cœur
+4	eo	CP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	voazin	voazin	?	_	_	_	_	_	Gloss=voisin
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,48 @@
+# sent_id = LeBozec(1933:85)__1
+# text = An naer he deus debret ar glesker.
+# text_fr = 'Le serpent a mangé la grenouille.'
+# source = Le Bozec
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	naer	naer	nom	_	_	_	_	_	Gloss=serpent
+3	he	he	?	_	_	_	_	_	Gloss=3SGF
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:502)__1
+# text = Ha ma vizé bet eun naer 'barz?
+# text_fr = 'Et s'il y avait eu une vipère à l'intérieur ?!'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=1
+3	vizé	COP	?	_	_	_	_	_	Gloss=était
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	eun	art	?	_	_	_	_	_	Gloss=un
+6	naer	naer	nom	_	_	_	_	_	Gloss=vipère
+7	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+8	barz?	barz?	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Merser(2011:126)__1
+# text = Unan euz ar zerpanted-se a oar en em droidellad en-dro da gorf al loened
+# text_fr = 'un de ces serpents qui s'enroulent habituellement autour du corps des animaux'
+# source = Merser (2011)
+# texttype = Ouvrages de recherche
+1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	euz	eus	?	_	_	_	_	_	Gloss=de
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	zerpanted-se	-ed(PL.).DEM	?.?	_	_	_	_	_	Gloss=s.là
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	oar	auxiliairegouzout	?	_	_	_	_	_	Gloss=sait
+7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+8	em	em	?	_	_	_	_	_	Gloss=?
+9	droidellad	troidellat	?	_	_	_	_	_	Gloss=enrouler
+10	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=autour
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	gorf	korf	nom	_	_	_	_	_	Gloss=corps
+13	al	art	?	_	_	_	_	_	Gloss=le
+14	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=anim.aux

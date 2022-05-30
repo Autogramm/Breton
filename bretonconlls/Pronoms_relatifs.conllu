@@ -1,0 +1,274 @@
+# sent_id = [http://www.poher-hebdo.fr/actualite/viewArticle.php?idArticle=450InterviewAnnieEbrel04/2009,LePoherHebdo]__1
+# text = Al lodenn vrasañ deus an dud ne gomprenont ket ken ar pezh a ganit _ .
+# text_fr = 'La plupart des gens ne comprennent plus ce que vous chantez.'
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	lodenn	lodenn	?	_	_	_	_	_	Gloss=partie
+3	vrasañ	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand]].[[Superlatif|plus|Morph=1
+4	deus	eus	?	_	_	_	_	_	Gloss=de
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	gomprenont	kompren	verbe	_	_	_	_	_	Gloss=comprennent
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+11	ar	art	?	_	_	_	_	_	Gloss=le
+12	pezh	pezh	?	_	_	_	_	_	Gloss=morceau
+13	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+14	ganit	kanañ	verbe	_	_	_	_	_	Gloss=chantez
+15	_	_	?	_	_	_	_	_	Gloss=
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:44)__1
+# text = Matriona ne gomze ket eus ar pezh e oa tremenet _ .
+# text_fr = 'Matriona ne parlait pas de ce qui s'était passé.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	gomze	komz	verbe	_	_	_	_	_	Gloss=parlait
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	eus	eus	?	_	_	_	_	_	Gloss=de
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	pezh	pezh	?	_	_	_	_	_	Gloss=morceau
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	oa	COP	?	_	_	_	_	_	Gloss=était
+10	tremenet	tremen	verbe	_	_	_	_	_	Gloss=passé
+11	_	_	?	_	_	_	_	_	Gloss=
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Milin(1922:403)__1
+# text = Pa glevas petra a oa...
+# text_fr = 'Quand il entendit ce qui se passait... '
+# dialect = Léonard
+# location = Saint Pol de Léon
+# source = Milin (1922)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	glevas	klevout	verbe	_	_	_	_	_	Gloss=entendit
+3	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa..	E	?	_	_	_	_	_	Gloss=y.était
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§579)__1
+# text = Sell  a c'hoarvezo.
+# text_fr = 'Considère ce qui surviendra.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	??	??	?	_	_	_	_	_	Gloss=
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	c'hoarvezo	c'hoarvezout	?	_	_	_	_	_	Gloss=surviendra
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an den an hani 'zo er voatur  'zo é chom er vourc'h
+# text_fr = 'L'homme qui est dans la voiture habite dans le bourg.'
+# text_phon = ['[ ǝn dɛ͂n', '[ ǝnani', 'zi:r vwatyr', ']', 'zi ʃom', 'irvɔrh ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	'	zo	?	_	_	_	_	_	Gloss=est
+4	zo	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	er	er	?	_	_	_	_	_	Gloss=voiture
+6	voatur	voatur	?	_	_	_	_	_	Gloss=?
+7	??	??	?	_	_	_	_	_	Gloss=
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	zo	?	_	_	_	_	_	Gloss=est
+10	zo	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	é	chom	verbe	_	_	_	_	_	Gloss=rester
+12	chom	chom	verbe	_	_	_	_	_	Gloss=?
+13	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+14	vourc'h	bourk	?	_	_	_	_	_	Gloss=bourg|Morph=1
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an den an hani 'yae a-gaouizoc'h  'oa é chom en Oriant.
+# text_fr = 'L'homme qui allait à ? habitait Lorient.'
+# text_phon = ['[ ǝn dɛ͂n', '[  nɛ͂n', 'jɛ agawizɔχ', ']', 'wɛ', 'iʃɔm', 'in', 'oriãt ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hani	hani	?	_	_	_	_	_	Gloss=hini
+5	'	'	?	_	_	_	_	_	Gloss=R
+6	yae	mont	verbe	_	_	_	_	_	Gloss=allait
+7	a-gaouizoc'h	a-gaouizoc'h	?	_	_	_	_	_	Gloss=a
+8	??	??	?	_	_	_	_	_	Gloss=
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	'	COP	?	_	_	_	_	_	Gloss=était
+11	oa	oa	?	_	_	_	_	_	Gloss=?
+12	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+13	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+14	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+15	Oriant	Oriant	?	_	_	_	_	_	Gloss=Lorient
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = Me 'anava mat ar vaouez  an hani 'zo ' chom a-kostez.
+# text_fr = 'Je connais bien la femme qui habite à côté.'
+# text_phon = ['[ mǝ', 'anawa', 'mat', 'ar vwes', '[', 'nɛ͂n', 'zi', 'ʃom', 'akosti ]']
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	'	anavezout	verbe	_	_	_	_	_	Gloss=connait
+3	anava	anava	?	_	_	_	_	_	Gloss=?
+4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vaouez	vaouez	?	_	_	_	_	_	Gloss=1
+7	??	??	?	_	_	_	_	_	Gloss=
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	zo	?	_	_	_	_	_	Gloss=est
+10	zo	zo	?	_	_	_	_	_	Gloss=?
+11	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12			PUNCT	_	_	_	_	Gloss=punct
+13	chom	chom	verbe	_	_	_	_	_	Gloss=?
+14	a-kostez	a-kostez	?	_	_	_	_	_	Gloss=à-côté
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an den an hani 'gomzit   'zo é chom e Kistinid
+# text_fr = 'L'homme dont vous parlez habite Kistinid.'
+# text_phon = ['[ ǝn dɛ͂n', '[  nani', 'go͂zǝt', ']', '', 'zi ʃom', 'itʃǝʃtǝnit ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	'	komz	verbe	_	_	_	_	_	Gloss=parlez
+4	gomzit	gomzit	?	_	_	_	_	_	Gloss=?
+5	??	??	?	_	_	_	_	_	Gloss=
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	??	??	?	_	_	_	_	_	Gloss=R
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	zo	?	_	_	_	_	_	Gloss=est
+10	zo	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	é	chom	verbe	_	_	_	_	_	Gloss=rester
+12	chom	chom	verbe	_	_	_	_	_	Gloss=?
+13	e	P.e	?	_	_	_	_	_	Gloss=à
+14	Kistinid	Kistinid	?	_	_	_	_	_	Gloss=Kistinid
+
+# sent_id = Nicolas (2005:48)  __3
+# text = an ti an hani 'gomzec'h din  'zo e lein ar vourc'h.
+# text_fr = 'La maison dont vous me parlez est en haut du bourg.'
+# text_phon = ['[ ǝnti', '[  nɛ͂', 'go͂zɛχtaɲ', ']', 'zǝ ilaɲ', 'ǝr vɔrh']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	'	komz	verbe	_	_	_	_	_	Gloss=parlez
+4	gomzec'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	din	?	_	_	_	_	_	Gloss=?
+6	??	??	?	_	_	_	_	_	Gloss=R
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	'	zo	?	_	_	_	_	_	Gloss=est
+9	zo	P.e	?	_	_	_	_	_	Gloss=en
+10	e	lein	nom	_	_	_	_	_	Gloss=sommet
+11	lein	lein	nom	_	_	_	_	_	Gloss=?
+12	ar	art	?	_	_	_	_	_	Gloss=le
+13	vourc'h	bourk	?	_	_	_	_	_	Gloss=bourg|Morph=1
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an ti an hani 'vez gwelet an doenn duze 'zo bras.
+# text_fr = 'La maison dont on voit le toit là-bas est grande.'
+# text_phon = ['[ ǝnti', '[  nɛ͂n', 'ɥe Ɉǝlǝ', 'ǝn dɥɛn', 'dyzǝ', ']  zo bras ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	vez	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	gwelet	gwelet	?	_	_	_	_	_	Gloss=?
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	doenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
+8	duze	ads	?	_	_	_	_	_	Gloss=là.bas
+9	'	'	?	_	_	_	_	_	Gloss=R
+10	zo	zo	?	_	_	_	_	_	Gloss=est
+11	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an ti an hani a welan an doenn zo bras.
+# text_fr = 'La maison dont je vois le toit est grande.'
+# text_phon = ['[ ǝn ti', '[  _ǝ_nani', 'ǝ ɥelã', 'ǝn dwɛn', ']  zɔ bras ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	ti	ti	nom	_	_	_	_	_	Gloss=maison
+3	a	gwelout	verbe	_	_	_	_	_	Gloss=vois
+4	welan	welan	?	_	_	_	_	_	Gloss=?
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:48)  __1
+# text = an den an hani 'doa kaset e voutik da raz  'deus kemeret ur voutik arall.
+# text_fr = 'L'homme qui avait démoli sa boutique en a pris une autre.'
+# text_phon = ['[ ǝn dɛ͂n', '[  ǝnani', 'dwɛ kasǝd', 'i', 'vutik', 'dǝ ras', ']', 'dɛs', 'tʃømerǝt', 'u_r_ vutigaral ]']
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	hani	hani	?	_	_	_	_	_	Gloss=hini
+5	'	kaout	?	_	_	_	_	_	Gloss=avait
+6	doa	kas	verbe	_	_	_	_	_	Gloss=envoyé
+7	kaset	kaset	?	_	_	_	_	_	Gloss=?
+8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	voutik	voutik	?	_	_	_	_	_	Gloss=boutique
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	raz	raz	?	_	_	_	_	_	Gloss=ras
+12	??	??	?	_	_	_	_	_	Gloss=
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+14	'	kaout	?	_	_	_	_	_	Gloss=a
+15	deus	deus	?	_	_	_	_	_	Gloss=?
+16	kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
+17	ur	art	?	_	_	_	_	_	Gloss=un
+18	voutik	voutik	?	_	_	_	_	_	Gloss=1
+19	arall	all	?	_	_	_	_	_	Gloss=autre
+20	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:102)__2
+# text = Kar g'er luér-gaer pehanni e zou, mi huil a ziabél.
+# text_fr = 'Avec le beau clair de lune qu'il y a, je vois de loin.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Kar	kar	?	_	_	_	_	_	Gloss=car
+2	g'	gant	?	_	_	_	_	_	Gloss=avec
+3	er	art	?	_	_	_	_	_	Gloss=le
+4	luér-gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=belle|Morph=1
+5	pehanni	pehini	?	_	_	_	_	_	Gloss=lequel
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	zou	zo	?	_	_	_	_	_	Gloss=y.a
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	mi	pfi	?	_	_	_	_	_	Gloss=moi
+10	huil	gwelout	verbe	_	_	_	_	_	Gloss=voit
+11	a	a-ziabell	préposition	_	_	_	_	_	Gloss=deloin
+12	ziabél.	ziabél.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Elégoët(1982:21)__5
+# text = ablamour ne ouezes ket peseurt a vez e foñs ar mor.
+# text_fr = 'Parce qu'on ne sait pas ce qu'il y a au fond de l'eau'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=parce.que
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ouezes	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	peseurt	peseurt	?	_	_	_	_	_	Gloss=quelle.sorte
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	e	P.e	?	_	_	_	_	_	Gloss=en
+9	foñs	foñs	nom	_	_	_	_	_	Gloss=fond
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	mor	mor	nom	_	_	_	_	_	Gloss=mer
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§584)__1
+# text = N'eus mann ebet ' gemen ' interes 'neze !
+# text_fr = 'Il n'y a rien qui les intéresse !'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+4	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+5	'	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=C
+6			PUNCT	_	_	_	_	Gloss=punct
+7	gemen	gemen	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9			PUNCT	_	_	_	_	Gloss=punct
+10	interes	interes	?	_	_	_	_	_	Gloss=intéresse
+11	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+12	neze	neze	?	_	_	_	_	_	Gloss=?
+13	!	!	PUNCT	_	_	_	_	Gloss=punct

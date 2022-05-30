@@ -1,0 +1,28 @@
+# sent_id = Merser(1963:§12)__1
+# text = Tra gane.
+# text_fr = 'Tandis qu'il chantait.'
+# source = Merser (1963)
+# texttype = Ouvrages de recherche
+1	gane	kanañ	verbe	_	_	_	_	_	Gloss=chantait
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Merser(2009:'trama')__1
+# text = Tra ma oa er gêr, e oa deuet e vreur da welet anezhañ.
+# text_fr = 'Tant qu'il était à la maison, son frère était venu le voir.'
+# source = Helias (1986)
+# texttype = Ouvrages de recherche
+1	Tra	Tra	nom	_	_	_	_	_	Gloss=tant
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	vreur	breur	nom	_	_	_	_	_	Gloss=frère
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+14	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

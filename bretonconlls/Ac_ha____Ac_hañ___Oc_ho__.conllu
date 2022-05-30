@@ -1,0 +1,62 @@
+# sent_id = Kervella(2001:20)__1
+# text = Hag o anv ? Ac'ha !... Emaomp ganti !
+# text_fr = 'Ah ! Ah ! Leur nom ? C'est là que je vous attendais !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+3	anv	anv	nom	_	_	_	_	_	Gloss=nom
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	Ac'ha	interjection	?	_	_	_	_	_	Gloss=Aha!
+6	!...	!...	?	_	_	_	_	_	Gloss=?
+7	Emaomp	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sommes
+8	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:47)__1
+# text = Ac'hañ ! Pa lavaren deoc'h e oant skarzhet kuit !
+# text_fr = 'Hein !... Qu'est-ce que je vous disais qu'ils avaient décampé ?'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Ac'hañ	Ac'hañ	?	_	_	_	_	_	Gloss=[[Acxxxhañ!|Hein
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+5	lavaren	lavar	nom	_	_	_	_	_	Gloss=disais
+6	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	oant	COP	?	_	_	_	_	_	Gloss=étaient
+9	skarzhet	skarzhañ	?	_	_	_	_	_	Gloss=quitté
+10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:14)__1
+# text = Oc'ho ! 'M eus aon n'eo ket peurgousket an holl vugaligoù.
+# text_fr = 'Tiens donc ! Je pense que finalement tous les enfants ne dorment pas profondément.'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	Oc'ho	Oc'ho	?	_	_	_	_	_	Gloss=Tiens.donc
+2			?	_	_	_	_	_	Gloss=!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	'	meusaon	?	_	_	_	_	_	Gloss=je.pense
+5	M	M	?	_	_	_	_	_	Gloss=?
+6	eus	eus	?	_	_	_	_	_	Gloss=?
+7	aon	aon	nom	_	_	_	_	_	Gloss=?
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	peurgousket	peur-	?	_	_	_	_	_	Gloss=tout|Morph=1
+12	an	art	?	_	_	_	_	_	Gloss=le
+13	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+14	vugaligoù	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]]].[[-igoù|petits|Morph=1
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002:35)__1
+# text = Oc'ho ! Ur poulladik eoul !
+# text_fr = 'Oh ! Oh ! Une flaque d'huile... '
+# source = Kervella (2002)
+# texttype = Références de corpus
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	poulladik	poull.-ad.poulladik	nom.?.?	_	_	_	_	_	Gloss=flaque.ée.DIM
+3	eoul	eoul	verbe	_	_	_	_	_	Gloss=huile
+4	!	!	PUNCT	_	_	_	_	Gloss=punct

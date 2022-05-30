@@ -1,0 +1,59 @@
+# sent_id = Milin(1922:402)__1
+# text = dre gement bro a oa tro-war-dro
+# text_fr = 'à travers tous les pays alentour'
+# dialect = Léonard
+# location = Saint Pol de Léon
+# source = Milin (1922)
+# texttype = Références de corpus
+1	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+2	gement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+3	bro	bro	nom	_	_	_	_	_	Gloss=pays
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	tro-war-dro	tro-war-dro	préposition	_	_	_	_	_	Gloss=alentour
+
+# sent_id = Miossec(1980:69)__1
+# text = a-leiz euz kelennerien Skoliou-Meur Bro-Hall
+# text_fr = 'plein de professeurs d'université en France.'
+# dialect = Léonard
+# source = Miossec (1980)
+# texttype = Références de corpus
+1	a-leiz	e-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=plein
+2	euz	eus	?	_	_	_	_	_	Gloss=de
+3	kelennerien	kelenn.-erien	?.?	_	_	_	_	_	Gloss=enseign.ants
+4	Skoliou-Meur	skol.-ioù(PL.).meur	nom.?.quantifieur	_	_	_	_	_	Gloss=école.s.grand
+5	Bro-Hall	nompropre	?	_	_	_	_	_	Gloss=France]|Morph=1
+
+# sent_id = Seite(1998:11)__1
+# text = Beva o-deus greet o-zri e Bro Gerne.
+# text_fr = 'Les trois ont vécu en Cornouaille.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Beva	bevañ	verbe	_	_	_	_	_	Gloss=vivre
+2	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	o-zri	o-zri	?	_	_	_	_	_	Gloss=3PL-trois
+4	e	P.e	?	_	_	_	_	_	Gloss=en
+5	Bro	Bro	nom	_	_	_	_	_	Gloss=pays
+6	Gerne	nompropre	?	_	_	_	_	_	Gloss=Cornouaille]|Morph=1
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:34)__1
+# text = Mont a rae e sonjoù da vale bro, dispak-bras o eskell.
+# text_fr = 'Ses pensées s'envolaient, les ailes grandes ouvertes (à tire d'aile).'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	sonjoù	soñj.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pensée.s
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	vale	bale	verbe	_	_	_	_	_	Gloss=marcher
+8	bro	bro	nom	_	_	_	_	_	Gloss=pays
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	dispak-bras	dispak	?	_	_	_	_	_	Gloss=ouvert
+11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	eskell	askell	nom	_	_	_	_	_	Gloss=ailes
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,19 @@
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__26
+# text = An tie(z)-mañ, domaj ne vije ket bet lakaet an doenn warno !
+# text_fr = 'Il est dommage que ces maisons n'aient pas de toit !'
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	tie(z)-mañ	ti.-e(z)(PL.).DEM	nom.?.?	_	_	_	_	_	Gloss=maison.s.ci
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	domaj	domaj	nom	_	_	_	_	_	Gloss=dommage
+5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	vije	COP	?	_	_	_	_	_	Gloss=serait
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	doenn	toenn	?	_	_	_	_	_	Gloss=toît
+12	warno	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+13	!	!	PUNCT	_	_	_	_	Gloss=punct

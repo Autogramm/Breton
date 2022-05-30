@@ -1,0 +1,34 @@
+# sent_id = Trégorrois,Priel(1959)__3
+# text = Tanfoeltr glesker em buhez n'am boa tanvaet evel just !
+# text_fr = 'Je n'avais bien sûr jamais mangé la moindre grenouille !'
+# source = Priel (1959)
+# texttype = Références de corpus
+1	Tanfoeltr	tanfoeltr	?	_	_	_	_	_	Gloss=feu.foudre
+2	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
+3	em	P.e.POSS	?.?	_	_	_	_	_	Gloss=en.ma
+4	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	am	am	?	_	_	_	_	_	Gloss=R
+7	boa	kaout	?	_	_	_	_	_	Gloss=avait
+8	tanvaet	tanvaet	?	_	_	_	_	_	Gloss=goûté
+9	evel	evel-just	adverbe	_	_	_	_	_	Gloss=comme-juste
+10	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=?
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:36)__6
+# text = Ret 'oa deoc'h boût bet tañvaet 'nezhañ !
+# text_fr = 'Si vous l'aviez goûté!'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	boût	bezan	?	_	_	_	_	_	Gloss=être
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	tañvaet	tañvaet	?	_	_	_	_	_	Gloss=goûté
+8	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	nezhañ	nezhañ	?	_	_	_	_	_	Gloss=?
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

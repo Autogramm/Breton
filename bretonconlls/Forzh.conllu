@@ -1,0 +1,450 @@
+# sent_id = ArBorgn(2011:65)__1
+# text = Dre forzh labourat, e tay da benn.
+# text_fr = 'A force de travailler, il réussira.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
+2	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=force
+3	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	tay	dont	verbe	_	_	_	_	_	Gloss=viendra
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	benn	penn	nom	_	_	_	_	_	Gloss=tête
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:14)__1
+# text = Pa deu ar mor war-laez, a-forzh da bignat, e veze truiet an div enez.
+# text_fr = 'Quand la marée montait, à force de monter, elle créait un gué entre les deux îles.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	deu	dont	verbe	_	_	_	_	_	Gloss=vient
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	mor	mor	nom	_	_	_	_	_	Gloss=mer
+5	war-laez	war-laez	adverbe	_	_	_	_	_	Gloss=sur-haut
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	a-forzh	a-forzh	?	_	_	_	_	_	Gloss=à-force
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	bignat	pignat	verbe	_	_	_	_	_	Gloss=monter
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+13	truiet	truiet	?	_	_	_	_	_	Gloss=guéé
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	div	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+16	enez	enez	nom	_	_	_	_	_	Gloss=île
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__1
+# text = Hag dre forz chom da sellet ouzh an awal-se...
+# text_fr = 'Et à force de regarder cette pomme...'
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	dre	dre	préposition	_	_	_	_	_	Gloss=par
+3	forz	forz	?	_	_	_	_	_	Gloss=force
+4	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
+7	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	awal-se..	aval	nom	_	_	_	_	_	Gloss=pomme
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__1
+# text = Dre forz sacha war ar gordenn, o-devoa torret anezi.
+# text_fr = 'À force de tirer sur la corde, ils l'avaient cassée.'
+# source = Gros (1989)
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
+2	forz	forz	?	_	_	_	_	_	Gloss=force
+3	sacha	sachañ	verbe	_	_	_	_	_	Gloss=tirer
+4	war	war	?	_	_	_	_	_	Gloss=sur
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	gordenn	kordenn	nom	_	_	_	_	_	Gloss=corde|Morph=1
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	o-devoa	kaout	?	_	_	_	_	_	Gloss=avait
+9	torret	terriñ	verbe	_	_	_	_	_	Gloss=cassé
+10	anezi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:386)__1
+# text = Ma bizier zo uz't dre forz gob'r pikurio dè.
+# text_fr = 'Mes doigts sont usés à force d'être piqués.'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	bizier	biz	nom	_	_	_	_	_	Gloss=doigts
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	uz'	uz'	?	_	_	_	_	_	Gloss=usé
+5	t	t	?	_	_	_	_	_	Gloss=?
+6	dre	dre	préposition	_	_	_	_	_	Gloss=par
+7	forz	forz	?	_	_	_	_	_	Gloss=force
+8	gob'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+9	r	r	?	_	_	_	_	_	Gloss=?
+10	pikurio	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+11	dè	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:320)__1
+# text = /dar-forz məla:bu:r /
+# text_fr = 'à force de mon travail'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/dar-forz	dre	préposition	_	_	_	_	_	Gloss=par
+2	məla:bu:r	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:321)__1
+# text = / ̌jə-forX nweiẃ /
+# text_fr = 'à force de nager'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	/	/	PUNCT	_	_	_	_	Gloss=punct
+2	̌jə-forX	̌jə-forX	?	_	_	_	_	_	Gloss=?
+3	nweiẃ	neuial	verbe	_	_	_	_	_	Gloss=nager
+4	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§703)__1
+# text = deut... forzh bale
+# text_fr = 'venu, à force de marcher.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	deut..	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+2	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=force
+4	bale	bale	verbe	_	_	_	_	_	Gloss=marcher
+
+# sent_id = Herrieu(1994:90)__1
+# text = Ha forzh boued n'o dez ket...
+# text_fr = 'Et ils n'ont pas beaucoup de nourriture... '
+# source = Herrieu (1994)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=beaucoup
+3	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	o	o	?	_	_	_	_	_	Gloss=3PL
+6	dez	kaout	?	_	_	_	_	_	Gloss=a
+7	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__1
+# text = Eno oa forz tud...
+# text_fr = 'Il y avait là beaucoup de monde.'
+# source = Gros (1989)
+1	Eno	eno	?	_	_	_	_	_	Gloss=là
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	forz	forz	?	_	_	_	_	_	Gloss=beaucoup
+4	tud..	tud	nom	_	_	_	_	_	Gloss=gens
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Avezard-Roger (2004a:452)__1
+# text = Aze [...] e vije tremenet forzh kanaouennoù.
+# text_fr = 'Ici [...], on passait pas mal de chansons.'
+# text_phon = ['[ aze [...]', 'eviʒɛ', 'tremenɛt', 'fɔʁs', 'kɔnwenu ]']
+1	Aze	aze	?	_	_	_	_	_	Gloss=ici
+2	[...]	[...]	?	_	_	_	_	_	Gloss=?
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vije	bezan	?	_	_	_	_	_	Gloss=serait
+5	tremenet	tremen	verbe	_	_	_	_	_	Gloss=passé
+6	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=beaucoup
+7	kanaouennoù	kan.-aou-.-enn.-où(PL.)	nom.?.nom.?	_	_	_	_	_	Gloss=chant.s.SG.s
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§309)__1
+# text = forzhig otoioù / Komz a ra forzhig
+# text_fr = 'pas mal de voitures / Il parle pas mal (beaucoup).'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	forzhig	forzhig	?	_	_	_	_	_	Gloss=DIM
+2	otoioù	oto.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=voiture.s
+3	/	/	?	_	_	_	_	_	Gloss=
+4	Komz	komz	verbe	_	_	_	_	_	Gloss=parler
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	forzhig	forzhig	?	_	_	_	_	_	Gloss=DIM
+
+# sent_id = Favereau(1984:376)__1
+# text = Don' a rae forzhig, ya; hehi n'ae ket.
+# text_fr = 'Ça venait pas mal, mais elle, elle n'y allait pas.' (en consultation)
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	Don'	dont	verbe	_	_	_	_	_	Gloss=venir
+2			PUNCT	_	_	_	_	Gloss=punct
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+5	forzhig	forzhig	?	_	_	_	_	_	Gloss=DIM
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+8	;	;	PUNCT	_	_	_	_	Gloss=punct
+9	hehi	pfi	?	_	_	_	_	_	Gloss=elle
+10	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+11	ae	mont	verbe	_	_	_	_	_	Gloss=allait
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:52,56)__1
+# text = N'eo ket forzh fin anezhoñ. / N'eo ket forzh amiapl anezhi.
+# text_fr = 'Il n'est pas très fin.'/, 'Elle n'est pas très gentille.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
+5	fin	fin	?	_	_	_	_	_	Gloss=fin
+6	anezhoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	/	/	?	_	_	_	_	_	Gloss=/
+9	N'	N'	?	_	_	_	_	_	Gloss=ne
+10	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
+13	amiapl	amiapl	?	_	_	_	_	_	Gloss=gentil
+14	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:92)__3
+# text = Atav nend eo ket forzh blot ar gwele: peder flankenn diblaen, hep tamm plouz.
+# text_fr = 'Le lit n'est toujours pas très douillet: quatre planches grossières, sans paille.'
+# source = Herrieu (1994)
+1	Atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
+2	nend	nend	?	_	_	_	_	_	Gloss=ne
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
+6	blot	blot	?	_	_	_	_	_	Gloss=douillet
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	gwele:	gwele	nom	_	_	_	_	_	Gloss=lit
+9	flankenn	-enn	nom	_	_	_	_	_	Gloss=e
+10	diblaen	di-	?	_	_	_	_	_	Gloss=non|Morph=1
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	hep	hep	préposition	_	_	_	_	_	Gloss=sans
+13	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+14	plouz	plouz	nom	_	_	_	_	_	Gloss=paille
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = HorYezh(1983:9)__1
+# text = Papa vie aet da zornañ forzh vie, ken evit kaout ur banne lambig.
+# text_fr = 'Papa aurait fait le battage tant et tant, juste pour un verre de lambig.'
+# location = Le Juch
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	vie	COP	?	_	_	_	_	_	Gloss=serait
+2	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	zornañ	dornañ	verbe	_	_	_	_	_	Gloss=battre
+5	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=tant
+6	vie	COP	?	_	_	_	_	_	Gloss=serait
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=juste
+9	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+11	ur	art	?	_	_	_	_	_	Gloss=un
+12	banne	banne	?	_	_	_	_	_	Gloss=verre
+13	lambig	lambig	?	_	_	_	_	_	Gloss=lambig
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008::87)__1
+# text = Ne ran (ket) forzh .
+# text_fr = 'Peu m'importe.' (Je n'en fais pas cas)
+# source = Chalm (2008)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+3	(ket)	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kedez(2015b:10)__1
+# text = Ne ret forzh goude oñ bet pilet ganti.
+# text_fr = 'Vous n'en faites pas cas bien que qu'elle m'aie rétamé.'
+# dialect = Cornouaillais
+# location = Saint-Coulitz
+# source = Kedez (2015b)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	ret	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+3	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=attention
+4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+5	oñ	COP	?	_	_	_	_	_	Gloss=suis
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	pilet	pilañ	?	_	_	_	_	_	Gloss=rétamé
+8	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Derrien(1980:10)__1
+# text = Ne 'ran forz ' bed gand ar gisti.
+# text_fr = 'Peu m'importent les prostituées.'
+# source = Derrien (1980)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+3	ran	ran	nom	_	_	_	_	_	Gloss=?
+4	forz	forz	?	_	_	_	_	_	Gloss=
+5	'	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+6			PUNCT	_	_	_	_	Gloss=punct
+7	bed	bed	nom	_	_	_	_	_	Gloss=?
+8	gand	gant	?	_	_	_	_	_	Gloss=avec
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gisti	gast.plurielinterne	nom.?	_	_	_	_	_	Gloss=prostitué.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:30)__1
+# text = Me na ran ket a forz, gand ma teuio dioustu.
+# text_fr = 'Cela m'est égal, pourvu qu'il vienne tout de suite.'
+# source = Gros (1970)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	na	ne.na	?.?	_	_	_	_	_	Gloss=ne.R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	forz	forz	?	_	_	_	_	_	Gloss=importance
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	gand	gantma	?	_	_	_	_	_	Gloss=pourvu.que]|Morph=4
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+10	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
+11	dioustu	diouzhtu	adverbe	_	_	_	_	_	Gloss=tout.de.suite
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'diroudet')__1
+# text = Tud diroudet, na reont forz petra d'ober.
+# text_fr = 'Des gens dévoyés, à qui il est égal de faire n'importe quoi.'
+# source = Gros (1989)
+1	Tud	tud	nom	_	_	_	_	_	Gloss=gens
+2	diroudet	diroudet	?	_	_	_	_	_	Gloss=dévoyé
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+5	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+6	forz	forz	?	_	_	_	_	_	Gloss=importance
+7	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+8	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__1
+# text = Me a ra forz petra a vo greet ?
+# text_fr = 'Est-ce que je me soucie de ce qu'on fera ?' ('Peu m'importe ce qu'on fera.')
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	forz	forz	?	_	_	_	_	_	Gloss=cas
+5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	vo	COP	?	_	_	_	_	_	Gloss=sera
+8	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon,Milin(1924)__1
+# text = -N’eus forzh ! eme an ozac’h; gwelet a rankan hag ez eo gwir.
+# text_fr = 'Qu'importe ! dit l'homme; Je dois voir si c'est vrai.'
+# source = Milin (1924)
+1	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	eme	eme	préposition	_	_	_	_	_	Gloss=dit
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	ozac’h	ozac’h	?	_	_	_	_	_	Gloss=mari
+6	;	;	PUNCT	_	_	_	_	Gloss=punct
+7	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
+10	hag	Q	?	_	_	_	_	_	Gloss=si
+11	ez	ez	?	_	_	_	_	_	Gloss=R
+12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+13	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__1
+# text = N'eus forz da di biou ez in, e vin degemeret mad.
+# text_fr = 'N'importe chez qui j'irai, je serai bien reçu.'
+# source = Gros (1989)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	forz	forz	?	_	_	_	_	_	Gloss=?
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	di	ti	nom	_	_	_	_	_	Gloss=maison
+6	biou	piv	pronom	_	_	_	_	_	Gloss=qui|Morph=1
+7	ez	ez	?	_	_	_	_	_	Gloss=R
+8	in	mont	verbe	_	_	_	_	_	Gloss=irai
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e	e	?	_	_	_	_	_	Gloss=R
+11	vin	COP	?	_	_	_	_	_	Gloss=serai
+12	degemeret	degemer.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=accueil.i
+13	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'forz')__1
+# text = N'eus forz pegoulz ez i di...
+# text_fr = 'N'importe quand tu y iras... ' ('Quand que tu ailles... ')
+# source = Gros (1989)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	forz	forz	?	_	_	_	_	_	Gloss=importance
+4	pegoulz	pegoulz	?	_	_	_	_	_	Gloss=quand
+5	ez	ez	?	_	_	_	_	_	Gloss=R
+6	i	mont	verbe	_	_	_	_	_	Gloss=iras
+7	di..	di	?	_	_	_	_	_	Gloss=y
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elegoet(1975:14)__1
+# text = Forz pegen uel e vehe ar vezenn atao 'z ea.
+# text_fr = 'Quelle que soit la hauteur d'un arbre, il y montait toujours.'
+# location = Plougerneau
+# source = Elegoet (1975)
+# texttype = Ouvrages de recherche
+1	Forz	Forz	?	_	_	_	_	_	Gloss=importe
+2	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+3	uel	uel	?	_	_	_	_	_	Gloss=haut
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	vehe	COP	?	_	_	_	_	_	Gloss=serait
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	vezenn	gwez	nom	_	_	_	_	_	Gloss=arbres]].[[-enn|SG|Morph=1
+8	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
+9	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+10	z	mont	verbe	_	_	_	_	_	Gloss=allait
+11	ea.	ea.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Kervella(2009:65)__2
+# text = En noz em eus aon. Forzh petra en em gavfe.
+# text_fr = 'J'ai peur la nuit. Tout peut arriver.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	noz	noz	nom	_	_	_	_	_	Gloss=nuit
+3	em	em	?	_	_	_	_	_	Gloss=1SG
+4	eus	kaout	?	_	_	_	_	_	Gloss=a
+5	aon	aon	nom	_	_	_	_	_	Gloss=peur
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Forzh	Forzh	quantifieur	_	_	_	_	_	Gloss=importe
+8	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+9	en	en	complémenteur	_	_	_	_	_	Gloss=[[enem
+10	em	em	?	_	_	_	_	_	Gloss=gavout|se
+11	gavfe	gavfe	?	_	_	_	_	_	Gloss=passerait]]]
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bannoù-Heol(2000:33)__1
+# text = Forzh ma buhez ! ... Kenavo er bed all !...
+# text_fr = 'Au secours ! Adieu à jamais !'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Forzh	Forzh	quantifieur	_	_	_	_	_	Gloss=force
+2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	..	..	?	_	_	_	_	_	Gloss=
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Kenavo	kenavo	?	_	_	_	_	_	Gloss=au.revoir
+8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	bed	bed	nom	_	_	_	_	_	Gloss=monde
+10	all	all	?	_	_	_	_	_	Gloss=autre
+11	!...	!...	?	_	_	_	_	_	Gloss=?

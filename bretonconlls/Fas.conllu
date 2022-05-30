@@ -1,0 +1,65 @@
+# sent_id = ArBorgn(2011:29)__2
+# text = Skaret tout 'oa e fas.
+# text_fr = 'Il avait le visage tout creusé, ridé.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Skaret	Skaret	?	_	_	_	_	_	Gloss=ridé
+2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+3	'	COP	?	_	_	_	_	_	Gloss=était
+4	oa	oa	?	_	_	_	_	_	Gloss=?
+5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	fas	fas	nom	_	_	_	_	_	Gloss=face
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__29
+# text = Heoñv neus tennet e vask hag atchoum ! An neus krañchet kreiz e fas.
+# text_fr = 'Il a retiré son masque et atchoum ! Il lui a éternué dans la figure.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Heoñv	pfi	?	_	_	_	_	_	Gloss=lui
+2	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	tennet	tennañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tir.é
+4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	vask	vask	?	_	_	_	_	_	Gloss=masque
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	atchoum	interjection	?	_	_	_	_	_	Gloss=atchoum
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+9	An	An	?	_	_	_	_	_	Gloss=R
+10	neus	kaout	?	_	_	_	_	_	Gloss=a
+11	krañchet	krañchañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=éternu.é
+12	kreiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	fas	fas	nom	_	_	_	_	_	Gloss=face
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__42
+# text = Me zo eeoñv dirak an iliz.
+# text_fr = 'J’ai l'église juste en face.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	zo	COP	?	_	_	_	_	_	Gloss=est
+3	eeoñv	eeun	adverbe-adjectif	_	_	_	_	_	Gloss=droit
+4	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = An iliz meus e fas.
+# text_fr = 'J'ai l'église juste en face.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+3	meus	kaout	?	_	_	_	_	_	Gloss=a
+4	e	P.e	?	_	_	_	_	_	Gloss=en
+5	fas	fas	nom	_	_	_	_	_	Gloss=face
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

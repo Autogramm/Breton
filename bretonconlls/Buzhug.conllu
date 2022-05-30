@@ -1,0 +1,16 @@
+# sent_id = Locronan,A-M.Louboutin(09/2015b)__1
+# text = Ar burug ne lennont ket brezhoneg, na galleg kennebeut.
+# text_fr = 'Les vers de terre ne lisent pas le breton, ni le français non plus.'
+# source = A-M. Louboutin (09/2015b)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	burug	burug	?	_	_	_	_	_	Gloss=vers.de.terre
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	lennont	lenn(V.)	?	_	_	_	_	_	Gloss=lisent
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	na	na...na	?	_	_	_	_	_	Gloss=ni
+9	galleg	galleg	nom	_	_	_	_	_	Gloss=français
+10	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

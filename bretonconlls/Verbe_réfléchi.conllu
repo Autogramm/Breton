@@ -1,0 +1,52 @@
+# sent_id = Drezen(1990:73)__1
+# text = Droug a oa ennañ outañ e-unan, rak en em gemeret en doa evel ur genaoueg…
+# text_fr = 'Il s’en voulait à lui-même car il s’y était pris comme un idiot… '
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=y.avait
+4	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+5	outañ	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	e-unan	POSS	?	_	_	_	_	_	Gloss=son
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	rak	rak	?	_	_	_	_	_	Gloss=car
+9	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+10	em	em	?	_	_	_	_	_	Gloss=?
+11	gemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
+12	en	en	complémenteur	_	_	_	_	_	Gloss=R
+13	doa	kaout	?	_	_	_	_	_	Gloss=avait
+14	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+15	ur	art	?	_	_	_	_	_	Gloss=un
+16	genaoueg…	genaoueg	?	_	_	_	_	_	Gloss=idiot
+
+# sent_id = Monfort(2006:6)__2
+# text = Evit an ostilhoù, emzibab a raimp...
+# text_fr = 'Quant aux outils, on se débrouillera... '
+# source = Monfort (2006)
+# texttype = Références de corpus
+1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	ostilhoù	ostilh.-où(PL.)	nom.?	_	_	_	_	_	Gloss=outil.s
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	emzibab	em-	?	_	_	_	_	_	Gloss=se|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	raimp..	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferons
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBozec(1933:82)__3
+# text = Ar vandenn a-bez he deus en em serret en eun torkad.
+# text_fr = 'Tout le troupeau s'est rassemblé.'
+# source = Le Bozec
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	vandenn	vandenn	?	_	_	_	_	_	Gloss=1
+3	a-bez	a-bezh	quantifieur-adjectif	_	_	_	_	_	Gloss=en.entier
+4	he	he	?	_	_	_	_	_	Gloss=3SGF
+5	deus	kaout	?	_	_	_	_	_	Gloss=a
+6	en	en	complémenteur	_	_	_	_	_	Gloss=1
+7	em	em	?	_	_	_	_	_	Gloss=?
+8	serret	serret	?	_	_	_	_	_	Gloss=rangé
+9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+10	eun	art	?	_	_	_	_	_	Gloss=un
+11	torkad	-ad	?	_	_	_	_	_	Gloss=eau
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

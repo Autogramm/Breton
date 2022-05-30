@@ -1,0 +1,17 @@
+# sent_id = ArBarzhig(1976:19)__1
+# text = Skañv end-eeun eo an hini e oa evit kouezhañ warne.
+# text_fr = 'Il était effectivement leste pour leur tomber dessus.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	Skañv	Skañv	adjectif	_	_	_	_	_	Gloss=léger
+2	end-eeun	end-eeun	?	_	_	_	_	_	Gloss=effectivement
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+6	e	e	?	_	_	_	_	_	Gloss=R
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+9	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+10	warne	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

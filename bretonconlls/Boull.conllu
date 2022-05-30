@@ -1,0 +1,22 @@
+# sent_id = Bouzec&al.(2017:38)__1
+# text = Rond giz ' voull ha  'ma két ' voull.
+# text_fr = 'Ronde comme une boule, et ce n'est pas une boule.' (la lune)
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Rond	rond	?	_	_	_	_	_	Gloss=rond
+2	giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+3	'	art	?	_	_	_	_	_	Gloss=un
+4			PUNCT	_	_	_	_	Gloss=punct
+5	voull	voull	?	_	_	_	_	_	Gloss=1
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
+11	két	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	'	art	?	_	_	_	_	_	Gloss=un
+13			PUNCT	_	_	_	_	Gloss=punct
+14	voull	voull	?	_	_	_	_	_	Gloss=1
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

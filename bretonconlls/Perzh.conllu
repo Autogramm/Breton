@@ -1,0 +1,10 @@
+# sent_id = HorYezh(1983:74)__1
+# text = deus perzh ma zud
+# text_fr = 'de la part de mes parents.'
+# location = Tréboul
+# source = Hor Yezh (1983)
+# texttype = Références de corpus
+1	deus	deus	?	_	_	_	_	_	Gloss=de
+2	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	zud	tud	nom	_	_	_	_	_	Gloss=parents

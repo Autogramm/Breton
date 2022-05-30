@@ -1,0 +1,37 @@
+# sent_id = (Gros1984:219)__1
+# text = Pep hini e-neus e si.
+# text_fr = 'à chacun son défaut.'
+# source = Gros (1984)
+1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	si	si	nom	_	_	_	_	_	Gloss=défaut
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:§'an-unan')__1
+# text = Ne weler ket ar sioù an-unan.
+# text_fr = 'On ne voit pas ses propres défauts.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	weler	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voit.on
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	sioù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+6	an-unan	art	?	_	_	_	_	_	Gloss=le
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:391)__1
+# text = ne vezan ket o klask si en dud all.
+# text_fr = '... je ne suis pas en train de rechercher (quels sont) les défauts des autres.'
+# source = Gros (1984)
+1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	vezan	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
+6	si	si	nom	_	_	_	_	_	Gloss=défaut
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	all	all	?	_	_	_	_	_	Gloss=autre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

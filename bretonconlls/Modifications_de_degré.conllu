@@ -1,0 +1,190 @@
+# sent_id = Elégoët(1982:19)__2
+# text = Ar c'hilhotin az ea un tammig a-skarv ...
+# text_fr = 'La guillotine allait un peu en biais ... '
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hilhotin	c'hilhotin	?	_	_	_	_	_	Gloss=5
+3	az	az	?	_	_	_	_	_	Gloss=R
+4	ea	mont	verbe	_	_	_	_	_	Gloss=allait
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	tammig	tamm.tammig	quantifieur.?	_	_	_	_	_	Gloss=morceau.DIM
+7	a-skarv	a-skarv	adverbe	_	_	_	_	_	Gloss=en.biais
+8	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:15)__1
+# text = O! Merc'hed a oa rezounabl.
+# text_fr = 'Oh ! Il y avait pas mal de femmes !'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	O	interjection	?	_	_	_	_	_	Gloss=oh
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	rezounabl	rezonabl	adverbe	_	_	_	_	_	Gloss=raisonnablement
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:31)__2
+# text = Bout a oa unan er-walc'h hag a vehe bet oc'hpenn kontant da chomel...
+# text_fr = 'Il y avait bien quelqu'un qui aurait été très content de rester... '
+# source = ar Meliner (2009)
+1	Bout	Bez	?	_	_	_	_	_	Gloss=expl
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	er-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	vehe	COP	?	_	_	_	_	_	Gloss=serait
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	oc'hpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+11	kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	chomel..	chom	verbe	_	_	_	_	_	Gloss=rester
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:200)__1
+# text = Eun tamm mad gwelloh evid ar bloaz passeet e-neus labouret.
+# text_fr = 'Il a bien mieux travaillé que l’an dernier.
+# text_phon = ['[ on', 'ta', "'@ma:d", 'ˌɡɥɛloh', 'vid', 'ar blwa', "pa'@se:d", 'nøz', "la'@bu:rɛd ]"]
+1	Eun	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+4	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+5	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+8	passeet	paseal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pass.é
+9	e-neus	kaout	?	_	_	_	_	_	Gloss=a
+10	labouret	labourat	verbe	_	_	_	_	_	Gloss=travaillé
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:13)__1
+# text = un tamm mat e vez _ ponneroc'h ar mor er goañv eget en hañv.
+# text_fr = 'La mer est bien plus dure pendant l'hiver que pendant l'été.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	_	_	?	_	_	_	_	_	Gloss=
+7	ponneroc'h	pounner.-oc'h	adjectif.?	_	_	_	_	_	Gloss=lourd.plus
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	mor	mor	nom	_	_	_	_	_	Gloss=mer
+10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	goañv	goañv	nom	_	_	_	_	_	Gloss=hiver
+12	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
+13	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+14	hañv	hañv	nom	_	_	_	_	_	Gloss=été
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = arBarzhig(1976:34)__1
+# text = Prestik e kroge da sevel.
+# text_fr = 'Elle commençait à se lever assez tôt.'
+# location = Kaouenneg
+# source = ar Barzhig (1976)
+1	Prestik	prest.Prestik	adverbe.?	_	_	_	_	_	Gloss=tôt.DIM
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	kroge	kregiñ	verbe	_	_	_	_	_	Gloss=commençait
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Beyer(2009:15)__1
+# text = Aliezig e oa bet souezhet ...
+# text_fr = 'Il avait été assez souvent surpris... '
+# source = Beyer (2009)
+# texttype = Références de corpus
+1	Aliezig	alies.Aliezig	adverbe.?	_	_	_	_	_	Gloss=souvent.DIM
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	souezhet	souezhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=étonn.é
+6	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:57)__1
+# text = Lod-kaer a vehe gwell gete chomel amañ...
+# text_fr = 'Un bon nombre aimerait mieux rester ici.'
+# source = Herrieu (1994)
+1	Lod-kaer	lod	quantifieur	_	_	_	_	_	Gloss=certain
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	vehe	COP	?	_	_	_	_	_	Gloss=serait
+4	gwell	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+5	gete	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	chomel	chom	verbe	_	_	_	_	_	Gloss=rester
+
+# sent_id = Kervella(1947:§542)__1
+# text = Kontañ a reas dezhi pegement muioc'h a labour en deveze ur pennad a oa.
+# text_fr = 'Il lui raconta combien plus de travail il avait auparavant.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Kontañ	kontañ	verbe	_	_	_	_	_	Gloss=raconter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+5	pegement	pegement	pronom	_	_	_	_	_	Gloss=combien
+6	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	labour	labour	nom	_	_	_	_	_	Gloss=travail
+9	en	en	complémenteur	_	_	_	_	_	Gloss=R
+10	deveze	kaout	?	_	_	_	_	_	Gloss=avait
+11	ur	art	?	_	_	_	_	_	Gloss=un
+12	pennad	pennad	nom	_	_	_	_	_	Gloss=moment
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	oa	E	?	_	_	_	_	_	Gloss=y.avait
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Vallée(1980:'quelque')__1
+# text = pegen ampart bennak ez eo.
+# text_fr = 'quelque adroit qu'il soit'
+# source = Vallée (1980)
+1	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+2	ampart	ampart	adjectif	_	_	_	_	_	Gloss=adroit
+3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:194)__1
+# text = Biskoaz n'en-deus greet eun tamm labour kement en despet dezañ.
+# text_fr = 'Jamais il n'avait fait un travail autant contre son gré.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Biskoaz	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	en-deus	kaout	?	_	_	_	_	_	Gloss=a
+4	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	eun	art	?	_	_	_	_	_	Gloss=un
+6	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+7	labour	labour	nom	_	_	_	_	_	Gloss=travail
+8	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+10	despet	despet	?	_	_	_	_	_	Gloss=dépit
+11	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg (1986:III)__1
+# text = He beg 'zo 'giz 'n toull karr distañk.
+# text_fr = 'Elle est édentée.'
+1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	beg	beg	nom	_	_	_	_	_	Gloss=bouche
+3	'	zo	?	_	_	_	_	_	Gloss=est
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	'	e-giz	préposition	_	_	_	_	_	Gloss=comme
+6	giz	giz	nom	_	_	_	_	_	Gloss=?
+7	'	art	?	_	_	_	_	_	Gloss=un
+8	n	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+9	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=?
+10	karr	karr	nom	_	_	_	_	_	Gloss=charrette
+11	distañk	di-,dis-	?	_	_	_	_	_	Gloss=dé
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

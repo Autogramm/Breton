@@ -1,0 +1,12 @@
+# sent_id = (Gros1984:137)__3
+# text = Jañn, honnez a oa maeronez din.
+# text_fr = 'Jañn, elle était ma marraine.'
+# source = Gros (1984)
+1	Jañn	Jañn	?	_	_	_	_	_	Gloss=Jañn
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	maeronez	maeronez	?	_	_	_	_	_	Gloss=marraine
+7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

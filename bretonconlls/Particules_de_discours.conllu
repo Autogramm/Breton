@@ -1,0 +1,90 @@
+# sent_id = Biguet(2017:46)__1
+# text = Pitiaoul ! Dizamant eo aet ganti, ar vaouez vat !
+# text_fr = 'Diable ! Elle n'y est pas allée de main morte, la bonne dame !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Pitiaoul	Pitiaoul	?	_	_	_	_	_	Gloss=[[pitiaoul!|Que.diable
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	Dizamant	dizamant	?	_	_	_	_	_	Gloss=impitoyablement
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+7	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+11	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon|Morph=1
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = SkolanEmsav(1977:24)__2
+# text = Gant hennezh, yañ eo deut ar c'helenner a-benn !
+# text_fr = 'Le professeur a réussi au moins avec lui !'
+# source = Skol an Emsav (1977)
+# texttype = Références de corpus
+1	Gant	gant	?	_	_	_	_	_	Gloss=avec
+2	hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	yañ	yañtav	?	_	_	_	_	_	Gloss=au.moins
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	c'helenner	kelenn	?	_	_	_	_	_	Gloss=profess]].[[-er|eur|Morph=5
+9	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=au-bout
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = SkolanEmsav(1977:6)__1
+# text = Alkool ar c'hast.
+# text_fr = 'Foutu alcool.'
+# source = Skol an Emsav (1977)
+# texttype = Références de corpus
+1	Alkool	Alkool	?	_	_	_	_	_	Gloss=alcool
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'hast	gast	nom	_	_	_	_	_	Gloss=pute|Morph=1
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(2003:55)__1
+# text = Sell 'ta ! Petra 'ta eo an tamm tra-se ?
+# text_fr = 'Voyons, qu'est-ce que c'est que cette espèce de caillou ?'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	Sell	Sell	nom	_	_	_	_	_	Gloss=[[sell'@ta
+2	'	'	?	_	_	_	_	_	Gloss=!|Regarde-donc
+3	ta	ta	?	_	_	_	_	_	Gloss=!]]]
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	'	'	?	_	_	_	_	_	Gloss=[['@ta!|donc
+7	ta	ta	?	_	_	_	_	_	Gloss=!]]]
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+11	tra-se	tra	nom	_	_	_	_	_	Gloss=chose
+12	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:49)__1
+# text = Peleh ar béd e-neus klenket ma binvioù ?
+# text_fr = 'Où diable a-t-il rangé mes outils ?'
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Peleh	pelec'h	?	_	_	_	_	_	Gloss=où
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	béd	bed	nom	_	_	_	_	_	Gloss=monde
+4	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
+5	klenket	klenkañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=rang.é
+6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	binvioù	benveg.plurielinterne	nom.?	_	_	_	_	_	Gloss=outil.s
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Allemand,Abraham(1991:237),Bayer&Trotzke(2015)__1
+# text = Wie (nur) habe ich (nur) den Schlüssel verlieren können ?
+# text_fr = 'Comment diable ai-je pu perdre la clef ?'
+1	Wie	Wie	?	_	_	_	_	_	Gloss=comment
+2	(nur)	(nur)	?	_	_	_	_	_	Gloss=ptc
+3	habe	habe	?	_	_	_	_	_	Gloss=ai
+4	ich	ich	?	_	_	_	_	_	Gloss=je
+5	(nur)	(nur)	?	_	_	_	_	_	Gloss=ptc
+6	den	den	nom	_	_	_	_	_	Gloss=la
+7	Schlüssel	Schlüssel	?	_	_	_	_	_	Gloss=clef
+8	verlieren	verlieren	?	_	_	_	_	_	Gloss=perdu
+9	können	können	?	_	_	_	_	_	Gloss=pu
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

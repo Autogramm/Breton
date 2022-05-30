@@ -1,0 +1,167 @@
+# sent_id = Avezard-Roger(2004a:337)__1
+# text = [ pa vezan jawãk ]
+# text_fr = 'Quand j'étais jeune'
+# source = Avezard-Roger (2004a)
+# texttype = Ouvrages de recherche
+1	[	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=
+3	vezan	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étais
+4	jawãk	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+5	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:155)__1
+# text = Me n'am-boa ket  a hoant e vije gwerzet mann ebed.
+# text_fr = 'Je ne veux pas que l'on vende quoi que ce soit.'
+# source = Gros (1984)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	am-boa	am-boa	?	_	_	_	_	_	Gloss=R
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5			PUNCT	_	_	_	_	Gloss=punct
+6	a	c'hoant	préposition	_	_	_	_	_	Gloss=envie
+7	hoant	hoant	?	_	_	_	_	_	Gloss=?
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	vije	COP	?	_	_	_	_	_	Gloss=serait
+10	gwerzet	gwerzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=vend.u
+11	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+12	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:211)__1
+# text = Ne oa ket un den desket bras nemet gouzout a rae kaozeal brav.
+# text_fr = 'Ce n'était pas quelqu'un de très instruit mais il savait bien s'exprimer.'
+# source = Chalm (2008)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	un	art	?	_	_	_	_	_	Gloss=un
+5	den	den	nom	_	_	_	_	_	Gloss=homme
+6	desket	deskiñ	verbe	_	_	_	_	_	Gloss=instruit
+7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+9	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+10	a	a	préposition	_	_	_	_	_	Gloss=R
+11	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+12	kaozeal	kaozeal	verbe	_	_	_	_	_	Gloss=parler
+13	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kerrien(2000:16)__1
+# text = Krozal ha stlaka a rae a  bep eil.
+# text_fr = 'Il grondait et il éclatait tour à tour.'
+# source = Kerrien (2000)
+1	Krozal	krozal	verbe	_	_	_	_	_	Gloss=gronder
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	stlaka	-añ	?	_	_	_	_	_	Gloss=er
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+6	a	a-bep-eil	adverbe	_	_	_	_	_	Gloss=à.chaque.second
+7			PUNCT	_	_	_	_	Gloss=punct
+8	bep	bep	?	_	_	_	_	_	Gloss=?
+9	eil.	eil.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = arBarzhig(1976:72)__1
+# text = Kement a riv o doa ar vicherourien ken e raent tan evit mann...
+# text_fr = 'Les ouvriers avaient tellement froid qu'ils faisaient du feu pour rien.'
+# source = ar Barzhig (1976)
+1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	riv	riv	nom	_	_	_	_	_	Gloss=froid
+4	o	o	?	_	_	_	_	_	Gloss=3PL
+5	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	raent	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisaient
+8	tan	tan	nom	_	_	_	_	_	Gloss=feu
+9	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	mann..	mann	quantifieur	_	_	_	_	_	Gloss=zéro
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:27)__1
+# text = An hini a yaje a-benn dezañ e hallfes lavared hardiz e oa maro.
+# text_fr = 'Celui qui l'aurait affronté, tu pourrais dire sans crainte qu'il serait mort.'
+# source = Gros (1970)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	yaje	mont	verbe	_	_	_	_	_	Gloss=irait
+5	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à.tête
+6	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	hallfes	gallout	verbe	_	_	_	_	_	Gloss=pourrais
+9	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
+10	hardiz	hardiz	adverbe	_	_	_	_	_	Gloss=sans.crainte
+11	e	e	?	_	_	_	_	_	Gloss=R
+12	oa	COP	?	_	_	_	_	_	Gloss=était
+13	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lozac'h(2014:'la/lar')__1
+# text = Ma mije gouiet lar a oah é tond ma laket (a)han(o)h ba ma gwetur mestra !
+# text_fr = 'Si j'avais su que tu venais je t'aurais pris dans ma voiture quand-même !'
+# location = Berrien
+# source = Lozach (2012-)
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	mije	kaout	?	_	_	_	_	_	Gloss=avais
+3	gouiet	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=su
+4	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	oah	COP	?	_	_	_	_	_	Gloss=étiez
+7	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	tond	dont	verbe	_	_	_	_	_	Gloss=venir
+9	ma	kaout	complémenteur	_	_	_	_	_	Gloss=avais
+10	laket	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+11	(a)han(o)h	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
+12	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+13	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+14	gwetur	gwetur	nom	_	_	_	_	_	Gloss=voiture
+15	mestra	memestra	adverbe	_	_	_	_	_	Gloss=quand.même
+16	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGarrec(1901:64)__2
+# text = Anez am oa true, vijen ket deut aman.
+# text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
+# source = Le Garrec (1901)
+# texttype = Références de corpus
+1	Anez	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans
+2	am	am	?	_	_	_	_	_	Gloss=R
+3	oa	kaout	?	_	_	_	_	_	Gloss=avais
+4	true	truez	nom	_	_	_	_	_	Gloss=pitié
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	vijen	COP	?	_	_	_	_	_	Gloss=serais
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+9	aman	amañ	?	_	_	_	_	_	Gloss=ici
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:14)__1
+# text = A-vec'h aet tre hag azezet, e tenne an dimezell he manegoù ler, hag e komze.
+# text_fr = 'À peine entrée et assise, la demoiselle ôta ses gants de cuir et parla.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	A-vec'h	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+3	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=dedans
+4	hag	&	?	_	_	_	_	_	Gloss=et
+5	azezet	azezañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ass.is
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	tenne	tennañ	verbe	_	_	_	_	_	Gloss=tirait
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	dimezell	dimezell	?	_	_	_	_	_	Gloss=demoiselle
+11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+12	manegoù	maneg.-où(PL.)	?.?	_	_	_	_	_	Gloss=gant.s
+13	ler	ler	nom	_	_	_	_	_	Gloss=cuir
+14	,	,	PUNCT	_	_	_	_	Gloss=punct
+15	hag	&	?	_	_	_	_	_	Gloss=et
+16	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+17	komze	komz	verbe	_	_	_	_	_	Gloss=parlait
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMerser(2009:584)__1
+# text = erru oah !
+# text_fr = 'Vous voilà !'
+# source = Merser (2009)
+# texttype = Ouvrages de recherche
+1	erru	erru	?	_	_	_	_	_	Gloss=arrivé
+2	oah	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=étiez
+3	!	!	PUNCT	_	_	_	_	Gloss=punct

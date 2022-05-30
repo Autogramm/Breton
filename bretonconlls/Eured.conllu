@@ -1,0 +1,18 @@
+# sent_id = ArFloc'h(1985:7)__1
+# text = Antronoz an eured, an daou bried a deuas da chom da Vodiliz…
+# text_fr = 'Le lendemain des noces, les deux époux déménagèrent à Bodilis ... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	eured	eured	nom	_	_	_	_	_	Gloss=noces
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+7	bried	pried	nom	_	_	_	_	_	Gloss=époux
+8	a	a	préposition	_	_	_	_	_	Gloss=R
+9	deuas	dont	verbe	_	_	_	_	_	Gloss=venir
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	Vodiliz…	nompropre	?	_	_	_	_	_	Gloss=Bodilis

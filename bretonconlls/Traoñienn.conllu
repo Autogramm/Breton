@@ -1,0 +1,18 @@
+# sent_id = Drezen(1990:30)__5
+# text = Du-mañ, e red an dour, hañv-c’hoañv, e-barzh an traoniennoù.
+# text_fr = 'Chez moi, l'eau court dans les vallées été comme hiver.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Du-mañ	tu	nom	_	_	_	_	_	Gloss=côté
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	red	redek	verbe	_	_	_	_	_	Gloss=court
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	hañv-c’hoañv	hañv	nom	_	_	_	_	_	Gloss=été|Morph=1
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	traoniennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Drezen(1990:40)__3
+# text = Sailhat a rae a bep seurt sonjoù en e benn.
+# text_fr = 'Toutes sortes de pensées s'entrechoquaient dans sa tête.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Sailhat	Sailhat	verbe	_	_	_	_	_	Gloss=sauter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	bep	pep	quantifieur	_	_	_	_	_	Gloss=toute
+6	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+7	sonjoù	soñj.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pensée.s
+8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	benn	penn	nom	_	_	_	_	_	Gloss=tête
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

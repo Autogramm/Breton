@@ -1,0 +1,16 @@
+# sent_id = Hemon(1956:xlviii)__1
+# text = tirantet, hani guet é gontel, aral guet é glehan.
+# text_fr = 'des tyrans, un avec son couteau, un autre avec son épée'
+# source = Moyen breton
+1	tirantet	tirantet	?	_	_	_	_	_	Gloss=tyrans
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	hani	hani	?	_	_	_	_	_	Gloss=hini
+4	guet	gant	?	_	_	_	_	_	Gloss=avec
+5	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	gontel	kontell	nom	_	_	_	_	_	Gloss=couteau
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	aral	all	?	_	_	_	_	_	Gloss=autre
+9	guet	gant	?	_	_	_	_	_	Gloss=avec
+10	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	glehan	glehan	?	_	_	_	_	_	Gloss=épée
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,25 @@
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = An dud o deus ezhomm dour evit chom beo.
+# text_fr = 'On a besoin d'eau pour survivre.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
+6	dour	dour	nom	_	_	_	_	_	Gloss=eau
+7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+9	beo	beo	?	_	_	_	_	_	Gloss=vivant
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:195)__1
+# text = trohet beteg ar beo
+# text_fr = 'coupé jusqu'au vif.'
+# text_phon = ["/'@tro:hɛd", 'ˌbetɛɡ', "ar '@bew/"]
+1	trohet	troc'hañ	?	_	_	_	_	_	Gloss=coupé
+2	beteg	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	beo	beo	?	_	_	_	_	_	Gloss=vif

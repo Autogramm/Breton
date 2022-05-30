@@ -1,0 +1,53 @@
+# sent_id = ArBorgn(2011:9)__1
+# text = Pe kalon ne darzho get chif ha get glac'har !
+# text_fr = 'Quel cœur ne se fendra, de chagrin et d'affliction !'
+# dialect = Vannetais
+# location = cantique
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Pe	peseurt	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+2	kalon	kalon	nom	_	_	_	_	_	Gloss=cœur
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	darzho	tarzhañ	verbe	_	_	_	_	_	Gloss=fendra
+5	get	gant	?	_	_	_	_	_	Gloss=avec
+6	chif	chif	?	_	_	_	_	_	Gloss=affliction
+7	ha	&	?	_	_	_	_	_	Gloss=et
+8	get	gant	?	_	_	_	_	_	Gloss=avec
+9	glac'har	glac'har	?	_	_	_	_	_	Gloss=chagrin
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:108)__1
+# text = o fedenn trema an hani he deus anavezet hi ivez an holl glac'har...
+# text_fr = '...leur prière vers celle qui a connu, elle aussi, la grande affliction... '
+# source = Ar Meliner (2009)
+1	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+2	fedenn	pediñ.-enn	verbe.nom	_	_	_	_	_	Gloss=pri.ère
+3	trema	trema	?	_	_	_	_	_	Gloss=vers
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+6	he	he	?	_	_	_	_	_	Gloss=3SGF
+7	deus	kaout	?	_	_	_	_	_	Gloss=a
+8	anavezet	anavezout	verbe	_	_	_	_	_	Gloss=connu
+9	hi	pfi	?	_	_	_	_	_	Gloss=elle
+10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+13	glac'har..	glac'har..	?	_	_	_	_	_	Gloss=chagrin
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:95)__2
+# text = Pegen glac'haret, evel ouzout, na oa ket mamm hennezh !
+# text_fr = 'Quelle n'était (pas) l'affliction de sa mère !'
+# source = Gros (1984)
+1	Pegen	pegen	?	_	_	_	_	_	Gloss=combien
+2	glac'haret	glac'haret	?	_	_	_	_	_	Gloss=chagrin.é
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+5	ouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	na	na	?	_	_	_	_	_	Gloss=ne
+8	oa	COP	?	_	_	_	_	_	Gloss=était
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+11	hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,155 @@
+# sent_id = Herrieu(1994:17)__2
+# text = yoc'hoù gwinizh paket brav ha goloet get un doenn pintet.
+# text_fr = 'des tas de blé emballés soigneusement et recouverts d'un toit sur le dessus.'
+# source = Herrieu (1994)
+1	yoc'hoù	yoc'hoù	?	_	_	_	_	_	Gloss=tas
+2	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
+3	paket	pakañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=emball.é
+4	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	goloet	goloiñ.-et(Adj.)	adverbe.?	_	_	_	_	_	Gloss=recouv.ert
+7	get	gant	?	_	_	_	_	_	Gloss=avec
+8	un	art	?	_	_	_	_	_	Gloss=un
+9	doenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
+10	pintet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:128)__1
+# text = Ur yoc’h traoù a c'hell donet 'barzh e korv an dud.
+# text_fr = 'Le corps peut être affecté par tout plein de choses.'
+# dialect = Vannetais
+# location = Jo Sergent
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
+3	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
+6	donet	dont	verbe	_	_	_	_	_	Gloss=venir
+7	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+8	barzh	barzh	?	_	_	_	_	_	Gloss=?
+9	e	P.e	?	_	_	_	_	_	Gloss=en
+10	korv	korf	nom	_	_	_	_	_	Gloss=corps
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:92)__1
+# text = Kizhier a zo chomet amañ ur yoc'h.
+# text_fr = 'Ici, il est resté des tas de chats.'
+# source = Herrieu (1994)
+1	Kizhier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+5	amañ	ads	?	_	_	_	_	_	Gloss=ici
+6	ur	art	?	_	_	_	_	_	Gloss=un
+7	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:140)__1
+# text = Ur yoc'h toulloù a zo bet flastret get hon tennoù.
+# text_fr = 'Nos tirs ont détruit beaucoup de trous [tranchées].'
+# source = Herrieu (1994)
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
+3	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	COP	?	_	_	_	_	_	Gloss=est
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	flastret	flastrañ	verbe	_	_	_	_	_	Gloss=détruit
+8	get	gant	?	_	_	_	_	_	Gloss=avec
+9	hon	POSS	?	_	_	_	_	_	Gloss=notre
+10	tennoù	tennañ.-où(PL.)	verbe.?	_	_	_	_	_	Gloss=tir.s
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:15)__1
+# text = Er garioù bras, e welomp ur yoc'h intronezed, gwisket e gwenn [...].
+# text_fr = 'Dans les grandes gares, nous voyons beaucoup de femmes, habillées de blanc [...].'
+# source = Herrieu (1994)
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	garioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+3	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
+9	intronezed	itron.-ezed	?.?	_	_	_	_	_	Gloss=dame.s
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	gwisket	gwiskañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=habill.é
+12	e	P.e	?	_	_	_	_	_	Gloss=en
+13	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
+14	[...].	[...].	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Louis(2015:131)__1
+# text = Hag amañ memp, bout 'h eus ur yoc’h ha 'deus berranal.
+# text_fr = 'Et ici même, il y en a beaucoup qui souffrent d'insuffisance respiratoire.'
+# dialect = Vannetais
+# location = JMh
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Hag	&	?	_	_	_	_	_	Gloss=et
+2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+3	memp	memes	adjectif	_	_	_	_	_	Gloss=même
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	bout	bez'	?	_	_	_	_	_	Gloss=expl
+6	'	'	?	_	_	_	_	_	Gloss=R
+7	h	E	?	_	_	_	_	_	Gloss=y.a
+8	eus	eus	?	_	_	_	_	_	Gloss=?
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
+11	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+12	'	'	?	_	_	_	_	_	Gloss=3
+13	deus	kaout	?	_	_	_	_	_	Gloss=a
+14	berranal	berr-	adjectif	_	_	_	_	_	Gloss=court
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:191)__1
+# text = Gouzañvet am eus ur yoc’h get ar c’hleñved-se.
+# text_fr = 'J'ai beaucoup souffert de cette maladie.'
+# dialect = Vannetais
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Gouzañvet	gouzañv.Gouzañvet	verbe.?	_	_	_	_	_	Gloss=endur.-et(Adj.)-é
+2	am	am	?	_	_	_	_	_	Gloss=1SG
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	ur	art	?	_	_	_	_	_	Gloss=un
+5	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
+6	get	gant	?	_	_	_	_	_	Gloss=avec
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	c’hleñved-se	kleñved	nom	_	_	_	_	_	Gloss=maladie]]-[[DEM|ci|Morph=5
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Quéré(2011:119)__1
+# text = Arlerh ma nes dornet, ni  zèbé ioh ensemble.
+# text_fr = 'Après le battage, on mangeait tous ensemble.'
+# location = Plaudren
+# source = Quéré (2011)
+# texttype = Ouvrages de recherche
+1	Arlerh	war-lerc'h	?	_	_	_	_	_	Gloss=après
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	nes	kaout	adjectif	_	_	_	_	_	Gloss=a
+4	dornet	dornañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=batt.u
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ni	pfi	?	_	_	_	_	_	Gloss=nous
+7	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	zèbé	debriñ	verbe	_	_	_	_	_	Gloss=mangeait
+10	ioh	ioh	?	_	_	_	_	_	Gloss=tous
+11	ensemble	ensemble	?	_	_	_	_	_	Gloss=ensemble
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Basque,Etxeberria(2012:95)__1
+# text = Soldadu-ek (pila bat) astakeria (pila bat) egin zituzten.
+# text_fr = 'Les soldats ont fait beaucoup d'actes stupides.'
+1	Soldadu-ek	Soldadu-ek	?	_	_	_	_	_	Gloss=soldat-D.PL.ERG
+2	(pila	(pila	?	_	_	_	_	_	Gloss=(tas
+3	bat)	bat)	?	_	_	_	_	_	Gloss=un)
+4	astakeria	astakeria	?	_	_	_	_	_	Gloss=absurde.ABS
+5	(pila	(pila	?	_	_	_	_	_	Gloss=(tas
+6	bat)	bat)	?	_	_	_	_	_	Gloss=un)
+7	egin	egin	?	_	_	_	_	_	Gloss=faire
+8	zituzten	zituzten	?	_	_	_	_	_	Gloss=AUX-PL
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

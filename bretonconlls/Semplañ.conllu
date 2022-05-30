@@ -1,0 +1,77 @@
+# sent_id = ArFloc'h(1985:46)__1
+# text = Darbet oa bet din semplañ o klevet ar c'homzoù-se.
+# text_fr = 'J'ai failli m'évanouir en entendant ces paroles.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Darbet	darbet	?	_	_	_	_	_	Gloss=failli
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	bet	bet	?	_	_	_	_	_	Gloss=été
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	semplañ	semplañ	verbe	_	_	_	_	_	Gloss=évanouir
+6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]]]-[[DEM|ci|Morph=5
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'gwad')__1
+# text = Me pa welan ar gwad e fell din sempla.
+# text_fr = 'Moi, quand je vois le sang, je manque de m'évanouir.'
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	welan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+4	ar	art	?	_	_	_	_	_	Gloss=le
+5	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
+6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	fell	fellout	verbe	_	_	_	_	_	Gloss=plait
+8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+9	sempla	sempla	?	_	_	_	_	_	Gloss=évanouir
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:31)__1
+# text = Me a zo skuiz ken ez on prest da fatika.
+# text_fr = 'Je suis tellement fatigué que je suis sur le point de m'évanouir.'
+# source = Gros (1970)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	skuiz	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
+5	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
+6	on	bezañ	?	_	_	_	_	_	Gloss=est
+7	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	fatika	fatika	?	_	_	_	_	_	Gloss=évanouir
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__30
+# text = ha me ha badadav da vont d’ar bord all.
+# text_fr = '... Et patratras ! Je me suis évanouie !'
+# location = Bulien
+# source = Bodiou-Stephens (12/2021)
+# texttype = Élicitations
+1	ha	&	?	_	_	_	_	_	Gloss=et
+2	me	pfi	?	_	_	_	_	_	Gloss=moi
+3	ha	&	?	_	_	_	_	_	Gloss=et
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	bord	bord	?	_	_	_	_	_	Gloss=bord
+7	all	all	?	_	_	_	_	_	Gloss=autre
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2001:35)__1
+# text = Hêp ! C'hoazh unan o kouezhañ e paramouz !
+# text_fr = 'Hé ! Ici ! Encore quelqu'un dans les pommes !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Hêp	Hêp	?	_	_	_	_	_	Gloss=[[hêp!|hep
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	C'	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	hoazh	hoazh	?	_	_	_	_	_	Gloss=?
+6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+8	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+9	e	P.e	?	_	_	_	_	_	Gloss=en
+10	paramouz	paramouz	?	_	_	_	_	_	Gloss=pâmoison
+11	!	!	PUNCT	_	_	_	_	Gloss=punct

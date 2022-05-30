@@ -1,0 +1,28 @@
+# sent_id = ArFloc'h(1985:25)__1
+# text = Kaol, strev panez a ranken da zastum bemdez...
+# text_fr = 'Chaque jour, je devais ramasser des choux et des fânes de panais... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Kaol	kaol	nom	_	_	_	_	_	Gloss=choux
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	strev	strev	?	_	_	_	_	_	Gloss=fânes
+4	panez	panez	nom	_	_	_	_	_	Gloss=panais
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	ranken	rankout	verbe	_	_	_	_	_	Gloss=devais
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zastum	dastum	verbe	_	_	_	_	_	Gloss=ramasser
+9	bemdez..	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:192)__1
+# text = var ar penguen panés...
+# text_fr = 'sur la planche de panais.'
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	var	war	?	_	_	_	_	_	Gloss=sur
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	penguen	penguen	?	_	_	_	_	_	Gloss=planche
+4	panés..	panés..	?	_	_	_	_	_	Gloss=panais
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

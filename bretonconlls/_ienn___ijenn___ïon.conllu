@@ -1,24 +1,24 @@
 # sent_id = Bouzec&al.(2017:85)__1
 # text = Yoñ zo daou vet' chirijenn.
-# text_fr =  'Il fait deux mètres de long.' 
+# text_fr = 'Il fait deux mètres de long.'
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	daou	numérauxcardinaux	?	1	_	_	_	_	Gloss=deux]
+3	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
 4	vet'	metr	?	_	_	_	_	_	Gloss=mètre
-5			?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
 6	chirijenn	hir	adjectif	_	_	_	_	_	Gloss=long
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger(2004a:134)__1
 # text = 'pauum be va meXijɛn
-# text_fr =  'J'ai été pauvre ma petite fille.'
+# text_fr = 'J'ai été pauvre ma petite fille.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
 1	'	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 2	pauum	COP	?	_	_	_	_	_	Gloss=suis
 3	be	COP	?	_	_	_	_	_	Gloss=été
-4	va	POSS	?	2	_	_	_	_	Gloss=mon
+4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 5	meXijɛn	merc'h	?	_	_	_	_	_	Gloss=fille

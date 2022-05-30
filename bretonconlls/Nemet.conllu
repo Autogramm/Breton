@@ -1,0 +1,467 @@
+# sent_id = Drezen(1990:43)__1
+# text = Nemet karout a rafen e virfes ez kerz un dra bennak e koun eus hon darempred ...
+# text_fr = 'Seulement, j'aimerais que tu gardes quelque chose en souvenir de notre rencontre.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Nemet	Nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+2	karout	karout	verbe	_	_	_	_	_	Gloss=aimer
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	rafen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferais
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	virfes	mirout	verbe	_	_	_	_	_	Gloss=garderais
+7	ez	P.e.POSS	?.?	_	_	_	_	_	Gloss=en.ton
+8	kerz	e-kerz	préposition	_	_	_	_	_	Gloss=possession
+9	un	art	?	_	_	_	_	_	Gloss=un
+10	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+11	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+12	e	P.e	?	_	_	_	_	_	Gloss=en
+13	koun	koun	nom	_	_	_	_	_	Gloss=souvenir
+14	eus	eus	?	_	_	_	_	_	Gloss=de
+15	hon	POSS	?	_	_	_	_	_	Gloss=notre
+16	darempred	darempred	?	_	_	_	_	_	Gloss=rencontre
+17	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:49)__1
+# text = E sujidi nemeto a oa ar mul Alejandro ha daou gi-bleiz o mouezhioù braouac'hus.
+# text_fr = 'Ses seuls sujets étaient la mule Alejandro et deux chiens-loups aux aboiements terrifiants.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+2	sujidi	-idi	?	_	_	_	_	_	Gloss=s
+3	nemeto	pronomincorporé	?	_	_	_	_	_	Gloss=eux
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	mul	mul	?	_	_	_	_	_	Gloss=mule
+8	Alejandro	Alejandro	?	_	_	_	_	_	Gloss=Alejandro
+9	ha	&	?	_	_	_	_	_	Gloss=et
+10	gi-bleiz	ki	nom	_	_	_	_	_	Gloss=chien
+11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	mouezhioù	mouezh	nom	_	_	_	_	_	Gloss=voix
+13	braouac'hus	-us	?	_	_	_	_	_	Gloss=iant
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard(1995:§gwiv)__1
+# text = Razh ar merc'hed da zimeziñ a selle gwiv outañ hag e vamm ne wele nemetañ.
+# text_fr = 'Toutes les femmes à marier le couvaient des yeux et sa mère ne voyait que lui.'
+# source = Dihunamb
+1	Razh	rac'h	?	_	_	_	_	_	Gloss=tous
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	zimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	selle	sellout	verbe	_	_	_	_	_	Gloss=regardait
+8	gwiv	gwiv	?	_	_	_	_	_	Gloss=amoureusement
+9	outañ	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+10	hag	C.ha(g)	?	_	_	_	_	_	Gloss=et
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	vamm	mamm	nom	_	_	_	_	_	Gloss=mère
+13	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+14	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyait
+15	nemetañ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1932:5)__1
+# text = N'oa nemedon er straed, etre an tiez liv an dienn.
+# text_fr = 'Il n'y avait dans la rue que moi, entre les maisons crème.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	oa	COP	?	_	_	_	_	_	Gloss=était
+3	nemedon	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	straed	straed	nom	_	_	_	_	_	Gloss=rue
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	etre	etre	préposition	_	_	_	_	_	Gloss=entre
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	tiez	ti.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=maison.s
+10	liv	liv	nom	_	_	_	_	_	Gloss=couleur
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:130)__1
+# text = An dour na vo nemet  tommoc'h a ze .
+# text_fr = 'L'eau n'en sera que plus chaude'
+# source = Le Clerc (1986)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dour	dour	nom	_	_	_	_	_	Gloss=eau
+3	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	ze	se	pronom	_	_	_	_	_	Gloss=ça
+10			?	_	_	_	_	_	Gloss=]
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:§'nemet')__1
+# text = N'en doa ken  bugel nemet  ur verc'h.
+# text_fr = 'Il n'avait qu'une fille comme enfant.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus/pas
+5	??	??	?	_	_	_	_	_	Gloss=[
+6	?	?	PUNCT	_	_	_	_	Gloss=punct
+7	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=
+8	??	??	?	_	_	_	_	_	Gloss=[
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Elégoët(1982:42)__3
+# text = Nemet fall e vije an amzer, e pije meur a vare a-wechoù war al letoun.
+# text_fr = 'Sauf quand le temps était mauvais, alors tu avais plusieurs marées des fois sur la dune.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	Nemet	Nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+2	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	vije	COP	?	_	_	_	_	_	Gloss=serait
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+7	,	,	PUNCT	_	_	_	_	Gloss=punct
+8	e	e	?	_	_	_	_	_	Gloss=R
+9	pije	kaout	?	_	_	_	_	_	Gloss=aurait
+10	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	vare	vare	?	_	_	_	_	_	Gloss=marée
+13	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=à.fois
+14	war	war	?	_	_	_	_	_	Gloss=sur
+15	al	art	?	_	_	_	_	_	Gloss=le
+16	letoun	leton	nom	_	_	_	_	_	Gloss=herbe
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Burel(2012:190)__1
+# text = Neus fors pénaos é vézé an amser, német goloët é vijé an douar gant an erc'h hé rankent mont er mèas ...
+# text_fr = 'Peu importait le temps - sauf si la terre était couverte de neige - ils devaient aller tous les jours dehors... '
+# dialect = Léonard
+# location = Plouider
+# source = Burel (2012)
+# texttype = Références de corpus
+1	Neus	Neus.ezeus	?.?	_	_	_	_	_	Gloss=ne.est
+2	fors	forzh	quantifieur	_	_	_	_	_	Gloss=importance
+3	pénaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
+4	é	é	?	_	_	_	_	_	Gloss=R
+5	vézé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	amser	amzer	nom	_	_	_	_	_	Gloss=temps
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	német	német	?	_	_	_	_	_	Gloss=sauf
+10	goloët	goloiñ	adverbe	_	_	_	_	_	Gloss=couvert
+11	é	é	?	_	_	_	_	_	Gloss=R
+12	vijé	COP	?	_	_	_	_	_	Gloss=serait
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	douar	douar	nom	_	_	_	_	_	Gloss=terre
+15	gant	gant	?	_	_	_	_	_	Gloss=avec
+16	an	art	?	_	_	_	_	_	Gloss=le
+17	erc'h	erc'h	?	_	_	_	_	_	Gloss=neige
+18	hé	hé	?	_	_	_	_	_	Gloss=R|Morph=4
+19	rankent	rankout	verbe	_	_	_	_	_	Gloss=devaient
+20	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+21	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+22	mèas	mèas	?	_	_	_	_	_	Gloss=?
+23	...	...	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = CommuniquédepressedeBrezhoweb[13/10/11],parC.arMero__1
+# text = metama 'vefe nac'het a-grenn gant tud ar vugale.
+# text_fr = '... à moins que les parents s'y opposent fermement.'
+1	'	COP	?	_	_	_	_	_	Gloss=serait
+2	vefe	vefe	?	_	_	_	_	_	Gloss=?
+3	nac'het	nac'hañ	?	_	_	_	_	_	Gloss=refusé
+4	a-grenn	a-grenn	adverbe	_	_	_	_	_	Gloss=fermement
+5	gant	gant	?	_	_	_	_	_	Gloss=avec
+6	tud	tud	nom	_	_	_	_	_	Gloss=gens
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:§'nemet')__1
+# text = Breizh ' zo mor  tro-dro dezhi  nemet  ouzh un tu.
+# text_fr = 'La mer entoure la Bretagne à part d'un seul côté.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	Breizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	zo	E	?	_	_	_	_	_	Gloss=y.a
+5	mor	mor	nom	_	_	_	_	_	Gloss=mer
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	tro-dro	tro-dro	préposition	_	_	_	_	_	Gloss=autour
+9	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.elle
+10	??	??	?	_	_	_	_	_	Gloss=]
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=
+13	??	??	?	_	_	_	_	_	Gloss=[
+14	?	?	PUNCT	_	_	_	_	Gloss=punct
+15	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=sur
+
+# sent_id = LeBozec(1933:48)__1
+# text = Ar chas-ze ne reont  nemet  harzal pe yudal !
+# text_fr = 'Ces chiens-là ne font qu'aboyer ou hurler!'
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	chas-ze	chas	nom	_	_	_	_	_	Gloss=chiens
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	harzal	harzal	verbe	_	_	_	_	_	Gloss=aboyer
+9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+10	yudal	yudal	verbe	_	_	_	_	_	Gloss=hurler
+11			?	_	_	_	_	_	Gloss=]
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Chalm(2008:211)__1
+# text = [ Ne oa ket un den desket bras ] nemet [ gouzout a rae kaozeal brav].
+# text_fr = 'Ce n'était pas quelqu'un de très instruit mais il savait bien s'exprimer.'
+# source = Chalm (2008)
+1	[	[	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	Ne	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	den	den	nom	_	_	_	_	_	Gloss=homme
+7	desket	deskiñ	verbe	_	_	_	_	_	Gloss=instruit
+8	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+9	]	]	?	_	_	_	_	_	Gloss=?
+10	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+11	[	[	?	_	_	_	_	_	Gloss=?
+12	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+13	a	a	préposition	_	_	_	_	_	Gloss=R
+14	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+15	kaozeal	kaozeal	verbe	_	_	_	_	_	Gloss=parler
+16	brav]	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:§'nemet')__1
+# text =  Derc'hel a rin d'am gêr  nemet  mervel a rafen.
+# text_fr = 'Je tiendrai parole sauf si je meurs.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=[
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	Derc'hel	derc'hel	?	_	_	_	_	_	Gloss=tenir
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	rin	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferai
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	am	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	gêr	ger	nom	_	_	_	_	_	Gloss=mot
+9	??	??	?	_	_	_	_	_	Gloss=]
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+12	??	??	?	_	_	_	_	_	Gloss=[
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+14	mervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
+
+# sent_id = ArBorgn(2011:15)__1
+# text = An hani yaouankañ'' 'met unan.
+# text_fr = 'Le plus jeune sauf un, soit l'avant dernier.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+3	yaouankañ'	yaouank.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=jeune.le.plus
+4	'	'	?	_	_	_	_	_	Gloss=?
+5			PUNCT	_	_	_	_	Gloss=punct
+6	'	'	?	_	_	_	_	_	Gloss=sauf
+7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=?
+8	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(1995:§nemet)__1
+# text = Ar bugel-se ne ra ken  tra nemet  gouelañ 
+# text_fr = 'Cet enfant ne fait plus que pleurer.'
+# source = An Here (1995)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bugel-se	bugel	nom	_	_	_	_	_	Gloss=enfant
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=pas/plus
+6	??	??	?	_	_	_	_	_	Gloss=[
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+9	??	??	?	_	_	_	_	_	Gloss=[
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	gouelañ	gouelañ	verbe	_	_	_	_	_	Gloss=pleurer
+12	??	??	?	_	_	_	_	_	Gloss=]
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  [http://demo.gbconcept.com:8080/ppo/index.php/record/view/88065 Chant enregistré] par [http://demo.gbconcept.com:8080/ppo/index.php/browse/index/10 Dastum].__1
+# text = N' em eus nemet dek miz.
+# text_fr = 'Je n'ai que dix mois, J'ai seulement dix mois.'
+# source2 =  Léon (Lesneven), 1977
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2			PUNCT	_	_	_	_	Gloss=punct
+3	em	kaout	?	_	_	_	_	_	Gloss=ai
+4	eus	eus	?	_	_	_	_	_	Gloss=?
+5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=que/seulement
+6	miz	miz	?	_	_	_	_	_	Gloss=mois
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Drezen(1990:36)__1
+# text = N'oa trouz nemet gant ar stêr Ebro.
+# text_fr = 'Seule la rivière Ebro faisait du bruit.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	oa	E	?	_	_	_	_	_	Gloss=y.avait
+3	trouz	trouz	nom	_	_	_	_	_	Gloss=bruit
+4	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=que/seulement
+5	gant	gant	?	_	_	_	_	_	Gloss=avec
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	stêr	stêr	nom	_	_	_	_	_	Gloss=rivière
+8	Ebro	Ebro	?	_	_	_	_	_	Gloss=Ebro
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Briant-Cadiou(1998:18)__1
+# text = Ma ne gredez ket, 'peus nemed mond da weled.
+# text_fr = 'Si tu ne (le/me) crois pas, tu n’as qu’à aller voir.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	gredez	krediñ	verbe	_	_	_	_	_	Gloss=crois
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	'	kaout	?	_	_	_	_	_	Gloss=a
+6	peus	peus	?	_	_	_	_	_	Gloss=?
+7	nemed	nemed	?	_	_	_	_	_	Gloss=seulement
+8	mond	mont	verbe	_	_	_	_	_	Gloss=aller
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeGall(1958:'rouzer')__1
+# text = Morse n'eo bet an den-ze nemed eur rouzer.
+# text_fr = 'Cet homme n'a jamais été qu'un paresseux.'
+# source = Le Gall (1958)
+1	Morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	den-ze	den	nom	_	_	_	_	_	Gloss=homme
+7	nemed	nemed	?	_	_	_	_	_	Gloss=seulement
+8	eur	art	nom	_	_	_	_	_	Gloss=un
+9	rouzer	-er,-our	?	_	_	_	_	_	Gloss=eux
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  [http://pagesperso-orange.fr/rbg/dastest/ transcription de l'enregistrement] par Mona Bouzeg__1
+# text = Bon, 'lâr-eñ, n’ho peus ken nemet dont 'ba’ 'r charaban.
+# text_fr = 'Bon, dit-il, vous n'avez qu'à venir dans le char à banc.'
+# source2 =  Pêr Bras, Coray (1977)
+1	Bon	Bon	?	_	_	_	_	_	Gloss=bon
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	'	lavarout	verbe	_	_	_	_	_	Gloss=dit
+4	lâr-eñ,	lâr-eñ,	?	_	_	_	_	_	Gloss=?
+5	n’ho	n’ho	?	_	_	_	_	_	Gloss=ne
+6	peus	peus	?	_	_	_	_	_	Gloss=?
+7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
+8	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+9	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+10	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+11	ba’	ba’	?	_	_	_	_	_	Gloss=?
+12	'	art	?	_	_	_	_	_	Gloss=le
+13	r	r	?	_	_	_	_	_	Gloss=char.à.banc
+14	charaban.	charaban.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Gros(1984:23)__1
+# text = Ya, ni a oa paour! du-mañ ne veze ken med soubenn ar poueziou orolaj.
+# text_fr = 'Oui, nous étions pauvres: chez nous il n'y avait que de la soupe très maigre.'
+# source = Gros (1984)
+1	Ya	Ya	interjection	_	_	_	_	_	Gloss=oui
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ni	pfi	?	_	_	_	_	_	Gloss=nous
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+8	du-mañ	ads	?	_	_	_	_	_	Gloss=chez.moi
+9	ne	ne	?	_	_	_	_	_	Gloss=ne
+10	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=y.avait
+11	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
+12	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+13	soubenn	soubenn	nom	_	_	_	_	_	Gloss=soupe
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	poueziou	pouez.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=poids.s
+16	orolaj	orolaj	nom	_	_	_	_	_	Gloss=horloge
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:14)__1
+# text = N'o peus ket lakaet nemed eul livadenn amann war ho para.
+# text_fr = 'Vous n'avez mis qu'une mince couche (une pellicule, une pelure) de beurre sur votre pain.'
+# source = Gros (1984)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	o	o	?	_	_	_	_	_	Gloss=?
+3	peus	peus	?	_	_	_	_	_	Gloss=?
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+6	nemed	nemed	?	_	_	_	_	_	Gloss=que
+7	eul	art	?	_	_	_	_	_	Gloss=un
+8	livadenn	liv.-adenn	nom.nom	_	_	_	_	_	Gloss=color.ation
+9	amann	amann	nom	_	_	_	_	_	Gloss=beurre
+10	war	war	?	_	_	_	_	_	Gloss=sur
+11	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+12	para	bara	nom	_	_	_	_	_	Gloss=pain
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Plourin(2000:28)__1
+# text = Goudese n'en doa ket gwraet 'med ambren a-hed an dewezh.
+# text_fr = 'Après cela, il n'avait pas arrêté de râler contre lui-même toute la journée.'
+# source = Plourin (2000)
+# texttype = Références de corpus
+1	Goudese	goude.se	préposition-adverbe-complémenteur.pronom	_	_	_	_	_	Gloss=après.ça
+2	n'	n'	?	_	_	_	_	_	Gloss=ne
+3	en	en	complémenteur	_	_	_	_	_	Gloss=R
+4	doa	kaout	?	_	_	_	_	_	Gloss=avait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	gwraet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+8	med	med	?	_	_	_	_	_	Gloss=?
+9	ambren	ambren	?	_	_	_	_	_	Gloss=râler
+10	a-hed	a-hed	préposition	_	_	_	_	_	Gloss=à.long
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	dewezh	deiz.-vezh	nom.nom	_	_	_	_	_	Gloss=journ.ée
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = German(2007:173)__1
+# text = Blam ni ' ouiem kin brezoneg.
+# text_fr = 'Parce qu'on ne connaissait que le breton.'
+# dialect = Cornouaillais
+# location = Saint-Yvi
+# source = German (2007)
+# texttype = Ouvrages de recherche
+1	Blam	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
+2	ni	pfi	?	_	_	_	_	_	Gloss=nous
+3	'	'	?	_	_	_	_	_	Gloss=ne
+4			PUNCT	_	_	_	_	Gloss=punct
+5	ouiem	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savions
+6	kin	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+7	brezoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Nicolas (2005:34)__1
+# text = ([[ne]]) 'oa kemetoñ hag a oa bretonnant.
+# text_fr = 'Il n'y avait que moi qui parlais breton.'
+# text_phon = ['', '[ wɛ', 'tʃømɛtõ', 'hag', 'ə', 'wɛ', 'brøtɔnã ]']
+1	([[ne]])	([[ne]])	?	_	_	_	_	_	Gloss=ne
+2	'	COP	?	_	_	_	_	_	Gloss=était
+3	oa	oa	?	_	_	_	_	_	Gloss=?
+4	kemetoñ	ken.pronomincorporé	adverbe-complémenteur.?	_	_	_	_	_	Gloss=seulement.moi
+5	hag	C.ha(g)	?	_	_	_	_	_	Gloss=C
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	bretonnant	bretonnant	?	_	_	_	_	_	Gloss=bretonnant
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

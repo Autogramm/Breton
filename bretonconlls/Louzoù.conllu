@@ -1,0 +1,35 @@
+# sent_id = Briant-Cadiou(1998:23)__1
+# text = Beh am-eus o kredi oa abalamour d'al louzou.
+# text_fr = 'J'ai peine à croire que c’était grâce aux médicaments.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Beh	bec'h	?	_	_	_	_	_	Gloss=peine
+2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	kredi	krediñ	verbe	_	_	_	_	_	Gloss=croire
+5	oa	COP	?	_	_	_	_	_	Gloss=était
+6	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause
+7	louzou	louzou	?	_	_	_	_	_	Gloss=plantes
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:385)__1
+# text = Chiou 'n dé yiè bochad-ré  louzou ga 'n dud.
+# text_fr = 'De nos jours on consomme beaucoup trop de médicaments.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Chiou	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+2	'	art	?	_	_	_	_	_	Gloss=le
+3	n	deiz	nom	_	_	_	_	_	Gloss=jour
+4	dé	dé	?	_	_	_	_	_	Gloss=?
+5	bochad-ré	bochad	adverbe-quantifieur	_	_	_	_	_	Gloss=tas
+6	??	a	préposition	_	_	_	_	_	Gloss=de
+7	?	?	PUNCT	_	_	_	_	Gloss=punct
+8	louzou	louzou	?	_	_	_	_	_	Gloss=médicaments
+9	ga	gant	?	_	_	_	_	_	Gloss=avec
+10	'	art	?	_	_	_	_	_	Gloss=le
+11	n	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+12	dud.	dud.	?	_	_	_	_	_	Gloss=?

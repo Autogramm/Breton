@@ -1,0 +1,107 @@
+# sent_id = Seite&Stéphan(1957:123)__1
+# text = Tost deom e hournije didrouz goelini skañv a-uz d'an dour.
+# text_fr = 'De légers goélands survolaient l'eau silencieusement.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Tost	tost	adjectif	_	_	_	_	_	Gloss=près
+2	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	didrouz	di-	?	_	_	_	_	_	Gloss=sans|Morph=1
+5	goelini	goelini	?	_	_	_	_	_	Gloss=goelands
+6	skañv	skañv	adjectif	_	_	_	_	_	Gloss=léger
+7	a-uz	a-us	préposition	_	_	_	_	_	Gloss=au-dessus
+8	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	dour	dour	nom	_	_	_	_	_	Gloss=eau
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cheveau (2007:133)__1
+# text =  oa ket a zour.
+# text_fr = 'Il n'y avait pas d’eau.'
+# text_phon = ['', '[ wɛ cəd', 'a zɔ:ʁ  ]']
+1	??	??	?	_	_	_	_	_	Gloss=ne
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	zour	zour	?	_	_	_	_	_	Gloss=eau
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id =  Haut-vannetais (Plouhinec), Le Bozec (2018) __3
+# text = An dour a zichal mat.
+# text_fr = 'La mer descend bien.'
+# text_phon = ["/ən '@dø:r", 'ə ziʃal', "'@mat /"]
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dour	dour	nom	_	_	_	_	_	Gloss=eau
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zichal	zichal	?	_	_	_	_	_	Gloss=descend
+5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Goyat (2012:276)__2
+# text = Ma kar eñ beza tommet an dour…
+# text_fr = 'S'il avait voulu faire chauffer l’eau… '
+# text_phon = ['/ma kar ˌheãw', "be '@tomɛd ãn ˌdu:r/"]
+1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	kar	karout	verbe	_	_	_	_	_	Gloss=aime
+3	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+4	beza	bezan	?	_	_	_	_	_	Gloss=être
+5	tommet	tomm.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=chauf.é
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	dour…	dour…	?	_	_	_	_	_	Gloss=eau
+
+# sent_id = Gros(1984:360)__4
+# text = Bremañ e vez lakaet nebeud a irvin doureg.
+# text_fr = 'Maintenant on cultive peu de navets aqueux (blancs).'
+# source = Gros (1984)
+1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+5	nebeud	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	irvin	irvin	nom	_	_	_	_	_	Gloss=navets
+8	doureg	-ek	?	_	_	_	_	_	Gloss=Adj.
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'dizoura')__1
+# text = Sell, ar hig zo krog da zizoura.
+# text_fr = 'Tiens ! La viande commence à perdre son eau.'
+# source = Gros (1989)
+1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	hig	kig	nom	_	_	_	_	_	Gloss=viande|Morph=5
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	krog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	zizoura	di-,dis-.-añ	?.?	_	_	_	_	_	Gloss=dé.er
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:73)__1
+# text = Me a zo dourc'hwez toud.
+# text_fr = 'Je suis baigné de sueur.'
+# source = Gros (1989)
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	dourc'hwez	c'hwezh	?	_	_	_	_	_	Gloss=sueur
+5	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
+# text = Pa vez ur rhume eo leet evañ dour oranjez.
+# text_fr = 'Quand on a un rhume, on doit boire du jus d'orange.'
+# source = Y. M. (04/2016)
+# texttype = Élicitations
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	rhume	rhume	?	_	_	_	_	_	Gloss=rhume
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	leet	dleout	verbe	_	_	_	_	_	Gloss=dû
+7	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
+8	dour	dour	nom	_	_	_	_	_	Gloss=eau
+9	oranjez	-ez(coll.)	?	_	_	_	_	_	Gloss=s
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

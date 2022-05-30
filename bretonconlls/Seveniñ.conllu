@@ -1,0 +1,16 @@
+# sent_id = Biguet(2017:59)__1
+# text = Ac'hanta, Sam, Ha sevenet eo bet ma urzhioù ?
+# text_fr = 'Dis-donc, Sam, mes ordres ont-ils été exécutés ?'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ac'hanta	ac'hanta	?	_	_	_	_	_	Gloss=Dis-donc!
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	Sam	nompropre	?	_	_	_	_	_	Gloss=Sam
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	Ha	Q	?	_	_	_	_	_	Gloss=est.ce.que
+6	sevenet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	bet	bet	?	_	_	_	_	_	Gloss=été
+9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	urzhioù	urzh.-où(PL.)	nom.?	_	_	_	_	_	Gloss=ordre.s
+11	?	?	PUNCT	_	_	_	_	Gloss=punct

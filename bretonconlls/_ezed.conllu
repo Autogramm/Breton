@@ -1,10 +1,10 @@
 # sent_id = Perrot(1912:54)__1
 # text = He dilhad ne oant tamm ebet henvel ouz ar re a weler gant itronezed vras an douar-man.
-# text_fr =  'Ses habits n'étaient pas du tout semblables à ceux qu'on voit aux grandes dames sur cette terre.' 
+# text_fr = 'Ses habits n'étaient pas du tout semblables à ceux qu'on voit aux grandes dames sur cette terre.'
 # dialect = Léonard
 # source = Perrot (1912)
 # texttype = Références de corpus
-1	He	POSS	?	2	_	_	_	_	Gloss=son
+1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 2	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
 3	ne	ne	?	_	_	_	_	_	Gloss=ne
 4	oant	COP	?	_	_	_	_	_	Gloss=étaient
@@ -17,8 +17,8 @@
 11	a	a	préposition	_	_	_	_	_	Gloss=R
 12	weler	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voit.on
 13	gant	gant	?	_	_	_	_	_	Gloss=avec
-14	itronezed	itron	?	1	_	_	_	_	Gloss=dame]].[[-ez(F.)|F]]].[[-ed(PL.)|s]
-15	vras	bras	adjectif-adverbe	_	_	_	_	_	Gloss=grande
+14	itronezed	itron	?	_	_	_	_	_	Gloss=dame]].[[-ez(F.)|F]]].[[-ed(PL.)|s]|Morph=1
+15	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grande
 16	an	art	?	_	_	_	_	_	Gloss=le
 17	douar-man	douar	nom	_	_	_	_	_	Gloss=terre
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

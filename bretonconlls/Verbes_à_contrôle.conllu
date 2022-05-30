@@ -1,0 +1,230 @@
+# sent_id = Stephens(1990:156)__1
+# text = Pedin a reas Lenaig ar vugale _ da zebrin krampouezh .
+# text_fr = 'Lenaig a invité les enfants à manger des crêpes.'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zebrin	debriñ	verbe	_	_	_	_	_	Gloss=manger
+9	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
+10			?	_	_	_	_	_	Gloss=]
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1990:157)__1
+# text = Pedin a reas Lenaig ar vugale dezho da zebrin krampouezh.
+# text_fr = 'Lenaig a invité les enfants à manger des crêpes.'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+7	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	zebrin	debriñ	verbe	_	_	_	_	_	Gloss=manger
+10	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1990:157)__1
+# text = Pedin a reas Yann Lenaig  da respont anezhañ /[[*]] anezhi.
+# text_fr = 'Yann a demandé à Lenaig de lui répondre (à lui/*à elle).'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	respont	respont	?	_	_	_	_	_	Gloss=répondre
+
+# sent_id = Stephens(1990:157)__1
+# text = Pedin a reas Yann Lenaig  da respont [[*]] e-unan / he-unan.
+# text_fr = 'Yann a demandé à Lenaig de lui répondre $$$.'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
+6	da	da	préposition	_	_	_	_	_	Gloss=de
+7	respont	respont	?	_	_	_	_	_	Gloss=répondre
+8	[[*]]	réfléchi	?	_	_	_	_	_	Gloss=lui-même
+9	e-unan	e-unan	?	_	_	_	_	_	Gloss=/
+10	/	réfléchi	?	_	_	_	_	_	Gloss=elle-même
+11	he-unan	he-unan	?	_	_	_	_	_	Gloss=]
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:216)__1
+# text = Ger ebet n' am eus bet da _ lavaret dezho.
+# text_fr = 'Je n'ai pas eu à leur dire un mot.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Ger	ger	nom	_	_	_	_	_	Gloss=mot
+2	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	am	am	?	_	_	_	_	_	Gloss=R
+5	eus	kaout	?	_	_	_	_	_	Gloss=a
+6	bet	kaout	?	_	_	_	_	_	Gloss=eu
+7	_	_	?	_	_	_	_	_	Gloss=PRO
+8	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dire
+
+# sent_id = Press(1986:183)__1
+# text = N' he deus klasket zoken _ gwalc'hiñ he belo.
+# text_fr = 'Elle n'a même pas cherché à laver son vélo.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2			PUNCT	_	_	_	_	Gloss=punct
+3	he	he	?	_	_	_	_	_	Gloss=3SGF
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
+6	zoken	zoken	?	_	_	_	_	_	Gloss=même
+7	gwalc'hiñ	gwalc'hiñ	?	_	_	_	_	_	Gloss=laver
+8	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+
+# sent_id = Gros(1970:150)__1
+# text = Hennez zo da  lakâd blaz war ar boued.
+# text_fr = 'Cela est destiné à donner du goût aux aliments.' (à les assaisonner).'
+# source = Gros (1970)
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	??	??	?	_	_	_	_	_	Gloss=PRO
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	lakâd	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+6	blaz	blaz	nom	_	_	_	_	_	Gloss=goût
+7	war	war	?	_	_	_	_	_	Gloss=sur
+
+# sent_id = Chalm(2008:D4)__2
+# text = Skuizhañ a ran o touzañ ar geot.
+# text_fr = 'Je suis fatigué.e de tondre l'herbe.'
+# source = Chalm (2008)
+1	Skuizhañ	skuizh.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=fatigu.er
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	touzañ	touzañ	verbe	_	_	_	_	_	Gloss=tondre
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	geot	geot	nom	_	_	_	_	_	Gloss=herbe
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1990:156)__2
+# text = Pedin a reas Lenaig ar vugale _ da zebrin krampouezh .
+# text_fr = 'Lenaig a invité les enfants à manger des crêpes.'
+# source = Stephens (1990)
+# texttype = Ouvrages de recherche
+1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vugale	vugale	?	_	_	_	_	_	Gloss=1
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zebrin	debriñ	verbe	_	_	_	_	_	Gloss=manger
+9	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
+10			?	_	_	_	_	_	Gloss=]
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Tallerman (1997:215)__1
+# text = gouest da virout ''o yezh'' da _ vont da goll
+# text_fr = 'capables d'empêcher leur langue de disparaître'
+# source2 = Press (1986:8)
+1	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	virout	mirout	verbe	_	_	_	_	_	Gloss=garder
+4	'	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+5	'	yezh	nom	_	_	_	_	_	Gloss=langue
+6	o	o	?	_	_	_	_	_	Gloss=?
+7	yezh'	yezh'	?	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=?
+9			PUNCT	_	_	_	_	Gloss=punct
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	vont	mont	verbe	_	_	_	_	_	Gloss=aller
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+
+# sent_id = Gros(1970:152)__1
+# text = Setu e vezont prest, ne vezont ket da  glask  .
+# text_fr = 'Cela fait qu'ils sont prêts, on n'a pas à les chercher.'
+# source = Gros (1970)
+1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+9	??	??	?	_	_	_	_	_	Gloss=PRO
+10	?	?	PUNCT	_	_	_	_	Gloss=punct
+11	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
+12	??	??	?	_	_	_	_	_	Gloss='@'@objet'@'@
+13	?	?	PUNCT	_	_	_	_	Gloss=punct
+14			?	_	_	_	_	_	Gloss=]
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Stephens(1982:149)__1
+# text = Lavaret en deus Lomig d' ''e vreur'' _ kemer ar garrigell.
+# text_fr = 'Lomig a dit à son frère de prendre la carriole.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
+2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+3	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	Lomig	nompropre	?	_	_	_	_	_	Gloss=Lomig
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6			PUNCT	_	_	_	_	Gloss=punct
+7	'	breur	nom	_	_	_	_	_	Gloss=frère
+8	'	'	?	_	_	_	_	_	Gloss=?
+9	e	e	?	_	_	_	_	_	Gloss=?
+10	vreur'	vreur'	?	_	_	_	_	_	Gloss=?
+11	'	'	?	_	_	_	_	_	Gloss=?
+12			PUNCT	_	_	_	_	Gloss=punct
+13	kemer	kemer	verbe	_	_	_	_	_	Gloss=prendre
+
+# sent_id = Troude&Milin(1950:96)__1
+# text = Tost e oa dezhañ  da vezañ graet tro ar bed gantañ.
+# text_fr = 'Il avait presque fait le tour du monde.'
+# source = Troude & Milin (1950)
+# texttype = Références de corpus
+1	Tost	tost	adjectif	_	_	_	_	_	Gloss=près
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	vezañ	bezan	?	_	_	_	_	_	Gloss=être
+7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+8	tro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	bed	bed	nom	_	_	_	_	_	Gloss=monde
+
+# sent_id = Stephens(1982:122)__1
+# text = Ur studiañ hir a zo da _ vezañ skolaer.
+# text_fr = 'Être enseignant demande des études longues.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	studiañ	studiañ	verbe	_	_	_	_	_	Gloss=étudier
+3	hir	hir	adjectif	_	_	_	_	_	Gloss=long
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=y.a
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	vezañ	bezan	?	_	_	_	_	_	Gloss=être
+
+# sent_id = Stephens(1982:88)__1
+# text = Gwelloc'h _ bezañ fur evit _ kaout madoù bras.
+# text_fr = 'Mieux vaut large sagesse que large richesse.'
+# source = Stephens (1982)
+# texttype = Ouvrages de recherche
+1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+2	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+4	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+5	madoù	madoù	?	_	_	_	_	_	Gloss=biens

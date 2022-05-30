@@ -1,0 +1,17 @@
+# sent_id = Bouzec&al.(2017:391)__1
+# text = Rost't neus yiè hi dorn ga laez tomm-béro.
+# text_fr = 'Elle s'est brûlé la main avec du lait bouillant.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Rost'	rostañ	verbe	_	_	_	_	_	Gloss=rôti
+2	t	t	?	_	_	_	_	_	Gloss=?
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	yiè	yiè	?	_	_	_	_	_	Gloss=3PL
+5	hi	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	dorn	dorn	nom	_	_	_	_	_	Gloss=main
+7	ga	gant	?	_	_	_	_	_	Gloss=avec
+8	laez	laezh	nom	_	_	_	_	_	Gloss=lait
+9	tomm-béro	tomm	adjectif	_	_	_	_	_	Gloss=chaud
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,61 @@
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
+# text = Nag a voeson ez eus evet !
+# text_fr = 'On a bu beaucoup !'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	voeson	voeson	?	_	_	_	_	_	Gloss=boisson
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+6	evet	evañ	verbe	_	_	_	_	_	Gloss=bu
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = vehe la'ar't 'oa di'an boeson.
+# text_fr = '...il se disait qu'il était alcoolique.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	la'	lavarout	verbe	_	_	_	_	_	Gloss=dit
+3	ar'	ar'	?	_	_	_	_	_	Gloss=?
+4	t	t	?	_	_	_	_	_	Gloss=?
+5	'	COP	?	_	_	_	_	_	Gloss=était
+6	oa	oa	?	_	_	_	_	_	Gloss=?
+7	di'	dindan	préposition	_	_	_	_	_	Gloss=sous
+8	an	an	?	_	_	_	_	_	Gloss=?
+9	boeson	boeson	nom	_	_	_	_	_	Gloss=boisson
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:44)__1
+# text = Kalonekaet get sort evaj.
+# text_fr = 'Reprenant cœur par cette boisson.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Kalonekaet	kalon.-ek.participepassé	nom.?.?	_	_	_	_	_	Gloss=cœur.eux.é
+2	get	gant	?	_	_	_	_	_	Gloss=avec
+3	sort	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=tel
+4	evaj	evaj	?	_	_	_	_	_	Gloss=boisson
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'boesoñ')__1
+# text = an den-ze ne efe ket boesoñ a-rôk ma on dimêt tea.
+# text_fr = 'Cet homme là ne buvait pas avant que je ne l'épouse.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	an	art	?	_	_	_	_	_	Gloss=le
+2	den-ze	den	nom	_	_	_	_	_	Gloss=homme
+3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	efe	evañ	verbe	_	_	_	_	_	Gloss=buvait
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	boesoñ	boesoñ	?	_	_	_	_	_	Gloss=alcool
+7	a-rôk	araok	?	_	_	_	_	_	Gloss=avant
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+9	on	COP	?	_	_	_	_	_	Gloss=suis
+10	dimêt	dimeziñ	verbe	_	_	_	_	_	Gloss=marié
+11	tea	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

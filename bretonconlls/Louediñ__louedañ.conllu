@@ -1,0 +1,35 @@
+# sent_id = Léon(Plougerneau),M-L.B.(01/2016)__18
+# text = Ar c'hraonv a goustoum louedañ buan.
+# text_fr = 'Les noix moisissent vite.'
+# dialect = Léonard
+# location = Plougerneau
+# source = M-L. B. (01/2016)
+# texttype = Élicitations
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	c'hraonv	kraoñ	?	_	_	_	_	_	Gloss=noix|Morph=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	goustoum	kustumiñ	verbe	_	_	_	_	_	Gloss=coutume
+5	louedañ	louedañ	?	_	_	_	_	_	Gloss=moisir
+6	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArC’hog(1983:10)__3
+# text = Youenn,[...] ne  oa ket kennebeut kalz pounneroc’h pouez an aour en e yalc’h louedet.
+# text_fr = 'L'or ne pesait pas non plus beaucoup plus lourd dans la bourse grise de Youenn.'
+# source = Crocq (1924)
+1	Youenn,[...]	Youenn,[...]	?	_	_	_	_	_	Gloss=Youenn
+2	ne	ne	?	_	_	_	_	_	Gloss=ne
+3			PUNCT	_	_	_	_	Gloss=punct
+4	oa	oa	?	_	_	_	_	_	Gloss=?
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
+7	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+8	pounneroc’h	pounner.-oc'h	adjectif.?	_	_	_	_	_	Gloss=lourd.plus
+9	pouez	pouez	nom	_	_	_	_	_	Gloss=poids
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	aour	aour	nom	_	_	_	_	_	Gloss=or
+12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+14	yalc’h	yalc’h	?	_	_	_	_	_	Gloss=bourse
+15	louedet	louedet	?	_	_	_	_	_	Gloss=grisé
+16	.	.	PUNCT	_	_	_	_	Gloss=punct

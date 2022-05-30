@@ -1,0 +1,12 @@
+# sent_id = Crocq(1910:8)__1
+# text = Pa glev ur c'hloc'hig o son
+# text_fr = 'Quand il entend une clochette tinter'
+# dialect = Cornouaillais
+# source = Crocq (1910)
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	glev	klevout	verbe	_	_	_	_	_	Gloss=entend
+3	ur	art	?	_	_	_	_	_	Gloss=un
+4	c'hloc'hig	c'hloc'hig.-ig	?.?	_	_	_	_	_	Gloss=5.ette
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	son	seniñ	?	_	_	_	_	_	Gloss=sonner

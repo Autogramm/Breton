@@ -1,0 +1,286 @@
+# sent_id = Seite(1975:64)__1
+# text = Ar bleuniou am-boa roet deoh a zo o veleni.
+# text_fr = 'Les fleurs que je vous avais données jaunissent.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	bleuniou	bleuñv.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=fleurs.s
+3	am-boa	kaout	?	_	_	_	_	_	Gloss=avais
+4	roet	roet	?	_	_	_	_	_	Gloss=donné
+5	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	veleni	melen.-i(V.)	adjectif.?	_	_	_	_	_	Gloss=jaun.ir
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2009:59)__1
+# text = Amañ emañ ar roer-bilhiji.
+# text_fr = 'Le distributeur de billets est là.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	roer-bilhiji	-er,-our	?	_	_	_	_	_	Gloss=eur
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1984:395)__1
+# text = la 'n heni 'nihe ràet on dra d'ar zant nihe bet tri.
+# text_fr = '... que celui qui donnerait une chose au saint en recevrait trois.'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
+2	'	art	?	_	_	_	_	_	Gloss=le
+3	n	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+4	heni	heni	?	_	_	_	_	_	Gloss=?
+5	'	kaout	?	_	_	_	_	_	Gloss=aurait
+6	nihe	nihe	?	_	_	_	_	_	Gloss=?
+7	ràet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+8	on	art	?	_	_	_	_	_	Gloss=un
+9	dra	dra	?	_	_	_	_	_	Gloss=1
+10	d'	da	préposition	_	_	_	_	_	Gloss=pour
+11	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+12	zant	sant	nom	_	_	_	_	_	Gloss=saint
+13	nihe	kaout	?	_	_	_	_	_	Gloss=aurait
+14	bet	kaout	?	_	_	_	_	_	Gloss=eu
+15	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__12
+# text = Ne velan ket ken an den ameus graet dezhon alho ar sakriti.
+# text_fr = 'La personne à qui j’ai donné la clef de la sacristie n’est pas en vue.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	velan	gwelout	verbe	_	_	_	_	_	Gloss=vois
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	den	den	nom	_	_	_	_	_	Gloss=homme
+7	graet	graet	?	_	_	_	_	_	Gloss=donné
+8	dezhon	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+9	alho	alc'hwez	?	_	_	_	_	_	Gloss=clef
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	sakriti	sakristi	nom	_	_	_	_	_	Gloss=sacristie
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBerre&LeDû(1999:35)__2
+# text = Roi  ø fest ar vaz
+# text_fr = 'frapper'
+# source = Le Berre & Le Dû (1999)
+# texttype = Références de corpus
+1	Roi	Roi	?	_	_	_	_	_	Gloss=donner
+2			PUNCT	_	_	_	_	Gloss=punct
+3	ø	ø	?	_	_	_	_	_	Gloss=?
+4	fest	fest	nom	_	_	_	_	_	Gloss=fête
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	vaz	bazh	nom	_	_	_	_	_	Gloss=bâton|Morph=1
+
+# sent_id = Ernault(1895-6:326)__1
+# text =  zamañ d'eign bara.
+# text_fr = 'Donne-moi du pain.'
+# source = Ernault (1895-6)
+# texttype = Ouvrages de recherche
+1	??	dont	verbe	_	_	_	_	_	Gloss=viens
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	zamañ	amañ	?	_	_	_	_	_	Gloss=ici
+4	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	eign	eign	?	_	_	_	_	_	Gloss=?
+6	bara	bara	nom	_	_	_	_	_	Gloss=pain
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(2002b:4)__1
+# text = Buan, damañ din, Milou !
+# text_fr = 'Vite, Milou, donne-la-moi !'
+# source = Kervella (2002b)
+# texttype = Références de corpus
+1	Buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	damañ	damañ	?	_	_	_	_	_	Gloss=donne
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	Milou	nompropre	?	_	_	_	_	_	Gloss=Milou
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1910:95)__1
+# text = Daouzek vla ha tri-ugent ec'h ê, ha ne rofe ket an nen d'ean ouspenn tri-ugent.
+# text_fr = 'Il a soixante douze ans, et on ne lui en donnerait pas plus de soixante.'
+# source = Le Clerc (1910)
+1	vla	bloaz	nom	_	_	_	_	_	Gloss=an
+2	ha	&	?	_	_	_	_	_	Gloss=et
+3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
+4	ê	COP	?	_	_	_	_	_	Gloss=est
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	rofe	rein	?	_	_	_	_	_	Gloss=donnerait
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	an	IMP	?	_	_	_	_	_	Gloss=on
+11	nen	nen	?	_	_	_	_	_	Gloss=?
+12	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+13	ean	ean	?	_	_	_	_	_	Gloss=?
+14	ouspenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=au.delà
+
+# sent_id = Le Gléau (1973:17)__1
+# text = Bod e roas din ar porzhier.
+# text_fr = 'Le portier m'offrit l'hospitalité.'
+# source2 = Priel (1957:210)
+1	Bod	Bod	?	_	_	_	_	_	Gloss=abri
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	roas	roas	?	_	_	_	_	_	Gloss=donna
+4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	porzhier	porzh.-er,-our	nom.?	_	_	_	_	_	Gloss=porte.ier
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Madeg(2013:9)__8
+# text = Reiñ peoc'h !
+# text_fr = 'On est prié de se taire !'
+# dialect = Léonard
+# source = Madeg (2013)
+# texttype = Ouvrages de recherche
+1	Reiñ	Reiñ	verbe	_	_	_	_	_	Gloss=donner
+2	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:31)__1
+# text = reiñ un taol-sikour er c'holkoz.
+# text_fr = 'donner un coup de main au kolkhoze.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	reiñ	reiñ	verbe	_	_	_	_	_	Gloss=donner
+2	un	art	?	_	_	_	_	_	Gloss=un
+3	taol-sikour	taol(M.)	?	_	_	_	_	_	Gloss=coup
+4	er	P.e.art	?.?	_	_	_	_	_	Gloss=à.le
+5	c'holkoz	c'holkoz	?	_	_	_	_	_	Gloss=kolkhoze_♂_
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1989:'bronn')__1
+# text = Kaer em-oa rei bronn dezi, ne zerre ket eur genou.
+# text_fr = 'J'avais beau lui donner le sein, elle ne fermait pas la bouche.'
+# source = Gros (1989)
+1	Kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+2	em-oa	em-oa	?	_	_	_	_	_	Gloss=R
+3	rei	rei	?	_	_	_	_	_	Gloss=donner
+4	bronn	bronn	nom	_	_	_	_	_	Gloss=sein
+5	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	zerre	serriñ	verbe	_	_	_	_	_	Gloss=fermait
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	eur	art	nom	_	_	_	_	_	Gloss=un
+11	genou	genoù	nom	_	_	_	_	_	Gloss=bouche
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaille,ArScao(1945)__1
+# text = Youen en em ro da zeski.
+# text_fr = 'Yves s'absorbe dans l'étude.'
+# dialect = Cornouaillais
+# source = Ar Scao (1945)
+# texttype = Ouvrages de recherche
+1	Youen	nompropre	?	_	_	_	_	_	Gloss=Yves
+2	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+3	em	em	?	_	_	_	_	_	Gloss=donne
+4	ro	ro	?	_	_	_	_	_	Gloss=?
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	zeski	deskiñ	verbe	_	_	_	_	_	Gloss=apprendre
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970:150)__1
+# text = Hennez zo da lakâd blaz war ar boued.
+# text_fr = 'Cela est destiné à donner du goût aux aliments (à les assaisonner).'
+# source = Gros (1970)
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	lakâd	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+5	blaz	blaz	nom	_	_	_	_	_	Gloss=goût
+6	war	war	?	_	_	_	_	_	Gloss=sur
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Seite(1975:64)__1
+# text = Poent eo lakaad dour ganto!
+# text_fr = 'Il est temps de leur donner de l'eau.'
+# dialect = Léonard
+# source = Seite (1975)
+# texttype = Ouvrages pédagogiques
+1	Poent	poent	nom	_	_	_	_	_	Gloss=temps
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+4	dour	dour	nom	_	_	_	_	_	Gloss=eau
+5	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Landivisiau,Y.Simon[23/03/2013]__1
+# text = Ar sonerezh neus degaset un aergelc'h plijus d'ar gouel.
+# text_fr = 'La musique a donné une atmosphère très agréable à la fête.'
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	sonerezh	sonerezh	?	_	_	_	_	_	Gloss=musique
+3	neus	neus	?	_	_	_	_	_	Gloss=3SGM.a
+4	degaset	degas	verbe	_	_	_	_	_	Gloss=envoyé
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	aergelc'h	aergelc'h	?	_	_	_	_	_	Gloss=ambiance
+7	plijus	plijus	?	_	_	_	_	_	Gloss=plaisant
+8	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	gouel	gouel(M.)	?	_	_	_	_	_	Gloss=fête
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1970b:§'lard')__2
+# text = Emberr az-po eul lard digand da dad.
+# text_fr = 'Ce soir ton père te donnera une raclée.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Emberr	emberr	adverbe	_	_	_	_	_	Gloss=ce.soir
+2	az-po	az-po	?	_	_	_	_	_	Gloss=R
+3	eul	art	?	_	_	_	_	_	Gloss=un
+4	lard	lard	?	_	_	_	_	_	Gloss=graisse
+5	digand	digant	préposition	_	_	_	_	_	Gloss=de
+6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+7	dad	tad	nom	_	_	_	_	_	Gloss=père
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1996:117)__2
+# text = 'Vid ma 'nevez an tôl diweza, an hini kenta na nevo ket...
+# text_fr = 'Du moins s'il a (s'il donne) le dernier coup, il n'aura (ne donnera) pas le premier... '
+# source = Gros (1996)
+1	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	Vid	Vid	?	_	_	_	_	_	Gloss=?
+3	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+4	'	kaout	?	_	_	_	_	_	Gloss=a
+5	nevez	nevez	adjectif	_	_	_	_	_	Gloss=?
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	tôl	taol(M.)	?	_	_	_	_	_	Gloss=coup
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+10	na	na	?	_	_	_	_	_	Gloss=ne
+11	nevo	kaout	?	_	_	_	_	_	Gloss=aura
+12	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herri(1982:51)__1
+# text = Sellout a ran dre ar prenestr a sko war-eeun el labouradeg.
+# text_fr = 'Je regarde par la fenêtre qui donne directement sur l'usine.'
+# source = Herri (1982)
+# texttype = Références de corpus
+1	Sellout	sellout	verbe	_	_	_	_	_	Gloss=regarder
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	dre	dre	préposition	_	_	_	_	_	Gloss=par
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	sko	skeiñ	verbe	_	_	_	_	_	Gloss=frappe
+9	war-eeun	war-eeun	préposition	_	_	_	_	_	Gloss=directement
+10	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	labouradeg	labour.-adeg	nom.nom	_	_	_	_	_	Gloss=travail.erie
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

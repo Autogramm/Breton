@@ -1,0 +1,97 @@
+# sent_id = ArBorgn(2011:45)__1
+# text = Monet a rae a bihan fourchad.
+# text_fr = 'Il allait à petits pas.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Monet	mont	verbe	_	_	_	_	_	Gloss=aller
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+4	a	a	préposition	_	_	_	_	_	Gloss=à
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+6	fourchad	fourch.-ad	nom.?	_	_	_	_	_	Gloss=pas.long
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012a:'ki')__1
+# text = dãmã ta ki bien
+# text_fr = 'Viens-donc ici, petit chien !'
+# dialect = Trégorrois
+# location = Plougrescant
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
+1	dãmã	dont.amañ	verbe.?	_	_	_	_	_	Gloss=viens.ici
+2	ta	eta	?	_	_	_	_	_	Gloss=donc
+3	ki	ki	nom	_	_	_	_	_	Gloss=chien
+4	bien	bien	?	_	_	_	_	_	Gloss=petit
+
+# sent_id = Bouzec & al. (2017:305)__1
+# text = Ma moc'h bien, mé zo 'weu !
+# text_fr = 'Si tu es petit, je le suis aussi !'
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Ma
+2	moc'h	moc'h	?	_	_	_	_	_	Gloss=emaocxxxh
+3	bien	bien	?	_	_	_	_	_	Gloss=bihan,
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	mé	mé	?	_	_	_	_	_	Gloss=me
+6	zo	zo	?	_	_	_	_	_	Gloss=zo
+7	'	'	adverbe	_	_	_	_	_	Gloss=ivez
+8	weu	weu	?	_	_	_	_	_	Gloss=!
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:47)__1
+# text = Ma faotr a zo re pe bihan.
+# text_fr = 'Mon gars est trop ou peu (mon gars est excessif).'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	faotr	paotr	nom	_	_	_	_	_	Gloss=gars
+3	a	a	préposition	_	_	_	_	_	Gloss=R
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	re	re	adverbe	_	_	_	_	_	Gloss=trop
+6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+7	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=peu
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Menard&Kadored(2001:'bihan')__1
+# text = ar gloan bihanañ-priziet.
+# text_fr = 'la laine la moins prisée.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	gloan	gloan	nom	_	_	_	_	_	Gloss=laine
+3	bihanañ-priziet	priziañ.-iet(Adj.)	?.?	_	_	_	_	_	Gloss=pris.é
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Léon,Seite(1998)__1
+# text = Daou a heller da venegi da vihanna : An aotrou K. hag an Aotrou J.
+# text_fr = 'Nous pouvons au moins en mentionner deux: monsieur K. et monsieur J.'
+# dialect = Léonard
+# source = Seite (1998)
+# texttype = Références de corpus
+1	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	heller	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=peut.on
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	venegi	menegiñ	?	_	_	_	_	_	Gloss=mentionner
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	vihanna	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
+7	:	:	?	_	_	_	_	_	Gloss=?
+8	An	art	?	_	_	_	_	_	Gloss=le
+9	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+10	K	nompropre	?	_	_	_	_	_	Gloss=K.
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+12	hag	&	?	_	_	_	_	_	Gloss=et
+13	an	art	?	_	_	_	_	_	Gloss=le
+14	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
+15	J	nompropre	?	_	_	_	_	_	Gloss=J.
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:293)__1
+# text = Bihan gouloù o deus ivez.
+# text_fr = 'Elles sont aussi peu éclairées.' (les boutiques)
+# source = Herrieu (1994)
+1	Bihan	Bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=peu
+2	gouloù	gouloù	nom	_	_	_	_	_	Gloss=lumières
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

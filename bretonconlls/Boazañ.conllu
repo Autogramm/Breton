@@ -1,0 +1,47 @@
+# sent_id = Moulleg(1978:25)__1
+# text = Biken ne voazin outi !
+# text_fr = 'Je m'y ferai jamais !'
+# source = Moulleg (1978)
+# texttype = Références de corpus
+1	Biken	biken	adverbe	_	_	_	_	_	Gloss=jamais
+2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	voazin	voazin	?	_	_	_	_	_	Gloss=habituerai
+4	outi	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.explétif
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
+# text = Be ' zo tud boazet da zebr' traoù drol.
+# text_fr = 'Il y a des gens qui ont des coutumes étranges.'
+# dialect = Cornouaillais
+# source = H. Gaudart (04/2016)
+# texttype = Élicitations
+1	Be	bez'	?	_	_	_	_	_	Gloss=expl
+2	'	'	?	_	_	_	_	_	Gloss=R
+3			PUNCT	_	_	_	_	Gloss=punct
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	tud	tud	nom	_	_	_	_	_	Gloss=gens
+6	boazet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zebr'	debriñ	verbe	_	_	_	_	_	Gloss=manger
+9			PUNCT	_	_	_	_	Gloss=punct
+10	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+11	drol	drol	adjectif	_	_	_	_	_	Gloss=bizarre
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzeg(1986:VII)__1
+# text = Boazet 'vez dezhe mont du-se 'bep bloaz.
+# text_fr = 'Ils sont habitués à aller là-bas tous les ans.'
+# dialect = Cornouaillais
+# location = Riec
+# source = Bouzeg (1986)
+# texttype = Ouvrages de recherche
+1	Boazet	-et(adj.)	?	_	_	_	_	_	Gloss=é
+2	'	'	?	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
+6	du-se	du-se	?	_	_	_	_	_	Gloss=là-bas
+7	'	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+8	bep	bep	?	_	_	_	_	_	Gloss=?
+9	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

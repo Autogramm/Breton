@@ -1,0 +1,25 @@
+# sent_id = Gros(1984:540)__1
+# text = Ouz red n'eus ket a remed _ .
+# text_fr = 'Contre la nécessité il n'y a pas de remède (nécessité n'a pas de loi).'
+# source = Gros (1984)
+1	Ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
+2	red	ret	?	_	_	_	_	_	Gloss=nécessité
+3	n'	n'	?	_	_	_	_	_	Gloss=ne
+4	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+6	a	a	préposition	_	_	_	_	_	Gloss=de
+7	remed	remed	?	_	_	_	_	_	Gloss=remède
+
+# sent_id = ArFloc'h(1985:53)__1
+# text = Trabas awalc'h a gave din em boa _ ganen va-unan...
+# text_fr = 'J'avais assez de problèmes avec moi-même.' (pour en chercher aux autres)
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Trabas	Trabas	?	_	_	_	_	_	Gloss=Tracas
+2	awalc'h	awalc'h	?	_	_	_	_	_	Gloss=assez
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	gave	kavout	verbe	_	_	_	_	_	Gloss=trouvais
+5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	ganen	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+7	va-unan..	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

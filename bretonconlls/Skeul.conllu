@@ -1,0 +1,14 @@
+# sent_id = Abalain(2001:35)__1
+# text = A bep eil bazh e reer ar skeul.
+# text_fr = 'D'échelon en échelon, on grimpe à l'échelle.'
+# source = Abalain (2001)
+# texttype = Références de corpus
+1	A	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+3	eil	eil	pronom	_	_	_	_	_	Gloss=second
+4	bazh	bazh	nom	_	_	_	_	_	Gloss=bâton
+5	e	e	?	_	_	_	_	_	Gloss=R
+6	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+7	ar	art	?	_	_	_	_	_	Gloss=le
+8	skeul	skeul	nom	_	_	_	_	_	Gloss=échelle
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

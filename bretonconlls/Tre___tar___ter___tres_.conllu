@@ -1,0 +1,11 @@
+# sent_id = Gros(1970b:§'lonka')__2
+# text = Taol pled e tarlonkfes !
+# text_fr = 'Prends garde d'avaler de travers.'
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Taol	teuler	?	_	_	_	_	_	Gloss=jette
+2	pled	pled	nom-postposition	_	_	_	_	_	Gloss=intérêt
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	tarlonkfes	lonkañ	verbe	_	_	_	_	_	Gloss=avaler
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

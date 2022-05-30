@@ -1,0 +1,46 @@
+# sent_id = Favereau(1984:263)__1
+# text = or plac'h koant pezhani garoñ parfed.
+# text_fr = 'une belle fille, que j'aime sérieusement'
+# source = Favereau (1984)
+# texttype = Ouvrages de recherche
+1	or	art	?	_	_	_	_	_	Gloss=un
+2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
+3	koant	koant	adjectif	_	_	_	_	_	Gloss=jolie
+4	garoñ	karout	verbe	_	_	_	_	_	Gloss=aime
+5	parfed	parfed	?	_	_	_	_	_	Gloss=parfaitement
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§200)__1
+# text = ken koant 'giz d'ar rozenn gaera.
+# text_fr = 'aussi beau que la plus belle rose.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=aussi
+2	koant	koant	adjectif	_	_	_	_	_	Gloss=beau
+3	'	e-giz	préposition	_	_	_	_	_	Gloss=comme
+4	giz	giz	nom	_	_	_	_	_	Gloss=?
+5	d'	da	préposition	_	_	_	_	_	Gloss=à
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	rozenn	-enn	nom	_	_	_	_	_	Gloss=SG
+8	gaera	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=belle]].[[superlatif|le.plus|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Konan(2017:'c'hoant')__1
+# text = Ur wetur vrav met bihan, ya, ur c'hoant hini.
+# text_fr = 'une belle voiture, mais petite, oui, une micro-voiture.'
+# dialect = Trégorrois
+# location = Perros-Guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	wetur	wetur	?	_	_	_	_	_	Gloss=1
+3	vrav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
+4	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ya	ya	interjection	_	_	_	_	_	Gloss=oui
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ur	art	?	_	_	_	_	_	Gloss=un
+10	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=5
+11	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

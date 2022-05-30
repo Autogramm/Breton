@@ -1,0 +1,24 @@
+# sent_id = etnonpas'*Yannavul'hommequiétaitentraindecourir'__1
+# text = [[nom propre|Yann]] neus gwelet ar paotr a rede.
+# text_fr = 'Yann a vu l'homme qui courait (l'athlète bien connu)'
+# source = *
+1	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+2	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
+3	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	rede	redek	verbe	_	_	_	_	_	Gloss=courait
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Grec,Angelopoulos(2015)__1
+# text = Idha ton Yani pu opios etreche.
+# text_fr = 'J'ai vu Yani qui courait, J'ai vu Yani courir'
+1	Idha	Idha	?	_	_	_	_	_	Gloss=vu.1SG
+2	ton	ton	?	_	_	_	_	_	Gloss=le
+3	Yani	Yani	?	_	_	_	_	_	Gloss=Yani
+4	pu	pu	?	_	_	_	_	_	Gloss=que
+5	opios	opios	?	_	_	_	_	_	Gloss=qui
+6	etreche	etreche	?	_	_	_	_	_	Gloss=courait
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,33 @@
+# sent_id = Drezen(1990:24)__1
+# text = hag hi d'ober ur skrab trumm d'he glin dehoù.
+# text_fr = '... et elle se gratta le genou droit.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	hag	&	?	_	_	_	_	_	Gloss=et
+2	hi	pfi	?	_	_	_	_	_	Gloss=elle
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	skrab	skrab	?	_	_	_	_	_	Gloss=gratte
+7	trumm	trumm	?	_	_	_	_	_	Gloss=soudain
+8	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+10	glin	glin	nom	_	_	_	_	_	Gloss=genou
+11	dehoù	dehoù	nom-adjectif	_	_	_	_	_	Gloss=droit
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = C'hwi zo va ma du dehou.
+# text_fr = 'Je vous ai à ma droite.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	C'	pfi	?	_	_	_	_	_	Gloss=vous
+2	hwi	hwi	?	_	_	_	_	_	Gloss=?
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	va	war	?	_	_	_	_	_	Gloss=sur
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+6	du	tu	nom	_	_	_	_	_	Gloss=côté
+7	dehou	dehou	?	_	_	_	_	_	Gloss=droit
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

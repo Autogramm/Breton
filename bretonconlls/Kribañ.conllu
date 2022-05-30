@@ -1,0 +1,13 @@
+# sent_id = Kergoat (1976:98)__1
+# text = peogwir o kribat e veze ar merc'hed peurvuiañ.
+# text_fr = 'Parce que c’est peigner que les femmes faisaient, le plus souvent.' (le foin)
+# text_phon = ['[ peɛr', "'@", 'kribɛt', '', 'vi', "a '@merjet", "pɛr'@vi:ɛ ]"]
+1	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
+2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	kribat	kribat	?	_	_	_	_	_	Gloss=peigner
+4	e	e	?	_	_	_	_	_	Gloss=R
+5	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+6	ar	art	?	_	_	_	_	_	Gloss=le
+7	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+8	peurvuiañ	peurvuiañ	adverbe	_	_	_	_	_	Gloss=plus.souvent
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

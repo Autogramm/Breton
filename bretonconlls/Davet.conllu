@@ -1,0 +1,26 @@
+# sent_id = Drezen(1990:31)__1
+# text = Ar breur Arturo a stouas e sell daveti.
+# text_fr = 'Le frère Arturo la regarda.'
+# source = Drezen (1990)
+# texttype = Références de corpus
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	breur	breur	nom	_	_	_	_	_	Gloss=frère
+3	Arturo	nompropre	?	_	_	_	_	_	Gloss=Arturo
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	stouas	stouiñ	verbe	_	_	_	_	_	Gloss=pencha
+6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	sell	sell	nom	_	_	_	_	_	Gloss=regard
+8	daveti	pronomincorporé	?	_	_	_	_	_	Gloss=elle
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBarzhig(1976:29)__1
+# text = troet davet va zaol.
+# text_fr = '... tournée vers ma table.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	troet	treiñ	verbe	_	_	_	_	_	Gloss=tourné
+2	davet	davet	préposition	_	_	_	_	_	Gloss=vers
+3	va	POSS	?	_	_	_	_	_	Gloss=ma|Morph=2
+4	zaol	taol(F.)	?	_	_	_	_	_	Gloss=table
+5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,40 @@
+# sent_id = Seite(1998:141)__1
+# text = N'ouzon ket penaoz eo chomet beo ar chatal.
+# text_fr = 'Je ne sais pas comment le bétail est resté vivant.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	penaoz	wh	?	_	_	_	_	_	Gloss=comment
+5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	chomet	chom	verbe	_	_	_	_	_	Gloss=resté
+7	beo	bev	adjectif	_	_	_	_	_	Gloss=vivant
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeBozec(1933:82)__2
+# text = Ar chatal, dalc'het e pad an deiz er c'hreier, a vez laosket en o frankiz.
+# text_fr = 'Les bestiaux, tout le jour retenus dans la crèche, vont errer librement.'
+# source = Le Bozec
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	dalc'het	derc'hel	?	_	_	_	_	_	Gloss=gardé
+5	e	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+6	pad	pad	?	_	_	_	_	_	Gloss=?
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	c'hreier	kraou	nom	_	_	_	_	_	Gloss=crèche]].[[plurielinterne|s]|Morph=5
+11	,	,	PUNCT	_	_	_	_	Gloss=punct
+12	a	a	préposition	_	_	_	_	_	Gloss=R
+13	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+14	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
+15	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+16	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+17	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
+18	.	.	PUNCT	_	_	_	_	Gloss=punct

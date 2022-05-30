@@ -1,0 +1,15 @@
+# sent_id = Gros(1970:28)__3
+# text = Paneved ma oa arruet ma breur e oan bet mouget.
+# text_fr = 'Sans l'arrivée de mon frère, j'aurais été étouffé.'
+# source = Gros (1970)
+1	Paneved	panevet	?	_	_	_	_	_	Gloss=quand.ce.n'@est
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	arruet	arru	?	_	_	_	_	_	Gloss=arrivé
+5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	breur	breur	nom	_	_	_	_	_	Gloss=frère
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	oan	COP	nom	_	_	_	_	_	Gloss=étais
+9	bet	bet	?	_	_	_	_	_	Gloss=été
+10	mouget	mouget	?	_	_	_	_	_	Gloss=étouffé
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

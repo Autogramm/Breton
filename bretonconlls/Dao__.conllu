@@ -1,0 +1,69 @@
+# sent_id = Lozac'h(2014:'dao(ñ)')__1
+# text = Sarr an nor warnahoñ ha dao ! Echu an traou.
+# text_fr = 'Fermer la porte derrière lui et pan ! C'est fini.'
+# location = Landeleau
+# source = Lozach (2014)
+1	Sarr	serriñ	verbe	_	_	_	_	_	Gloss=ferme
+2	an	art	?	_	_	_	_	_	Gloss=le
+3	nor	dor	nom	_	_	_	_	_	Gloss=porte
+4	warnahoñ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+5	ha	&	?	_	_	_	_	_	Gloss=et
+6	dao	interjection	?	_	_	_	_	_	Gloss=Pan!
+7	!	!	PUNCT	_	_	_	_	Gloss=punct
+8	Echu	echu	?	_	_	_	_	_	Gloss=fini
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnHere(2003:27)__1
+# text = Dao ! Taol kaer ! ad-Dao ! Kaerat !
+# text_fr = 'Paf !... Bien, ça ! Re-Paf !... Bravo !'
+# source = An Here (2003)
+# texttype = Références de corpus
+1	Dao	interjection	?	_	_	_	_	_	Gloss=Paf!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	!	!	PUNCT	_	_	_	_	Gloss=punct
+5	ad-Dao	ad-	?	_	_	_	_	_	Gloss=re
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+7	Kaerat	kaer.-at(excl.)	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.!
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Preder&Armor(1977:44)__1
+# text = Dao d'ar c'halianed !
+# text_fr = 'Sus aux gaulois !'
+# source = Preder & Armor (1977)
+# texttype = Références de corpus
+1	Dao	interjection	?	_	_	_	_	_	Gloss=Sus!
+2	d'	da	préposition	_	_	_	_	_	Gloss=à
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	c'halianed	nompropre	?	_	_	_	_	_	Gloss=gaul]]].[[-an(Adj.)|oi]]].[[-ed(PL.)|s]|Morph=5
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:7)__1
+# text = Dao ! Dal a unan !
+# text_fr = 'Hop ! En voilà un !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Dao	interjection	?	_	_	_	_	_	Gloss=Hop!
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Dal	dalc'her	?	_	_	_	_	_	Gloss=tiens
+4	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Biguet(2017:7)__2
+# text = Ha dao ! d'an trede eus an aotrouien-se !
+# text_fr = 'Et hop ! Au troisième de ces messieurs !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	dao	interjection	?	_	_	_	_	_	Gloss=Hop!
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	an	art	?	_	_	_	_	_	Gloss=le
+6	trede	ordinaux	?	_	_	_	_	_	Gloss=troisième
+7	eus	eus	?	_	_	_	_	_	Gloss=de
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	aotrouien-se	aotrou.-ien(PL.).DEM	nom.?.?	_	_	_	_	_	Gloss=monsieur.s.là
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

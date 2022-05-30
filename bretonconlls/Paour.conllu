@@ -1,0 +1,51 @@
+# sent_id = Borsley&Stephens(1989:421)__1
+# text = An dud a oa paour hag a c'houlenne an aluzenn.
+# text_fr = 'Les gens étaient pauvres et demandaient l'aumône.'
+# source = Borsley & Stephens (1989)
+# texttype = Ouvrages de recherche
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	oa	COP	?	_	_	_	_	_	Gloss=était
+5	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	c'houlenne	goulenn	verbe	_	_	_	_	_	Gloss=demandait
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	aluzenn	aluzenn	nom	_	_	_	_	_	Gloss=aumône
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'boneur')__1
+# text = ar vagouez paoul, dre voneur e goa kazeliet betek ar be.
+# text_fr = 'La pauvre femme, heureusement qu'elle était soutenue pour aller jusqu'à la tombe.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	vagouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+3	paoul	paoul	?	_	_	_	_	_	Gloss=pauvre
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+6	voneur	boneur	nom	_	_	_	_	_	Gloss=bonheur
+7	e	e	?	_	_	_	_	_	Gloss=R
+8	goa	COP	?	_	_	_	_	_	Gloss=était
+9	kazeliet	kazel.-et(Zdj.)	?.?	_	_	_	_	_	Gloss=aissell.é
+10	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+
+# sent_id = Cheveau(2017:§326)__1
+# text = er peur ma rein en alézon dehon e bédo aveidomp.
+# text_fr = 'Le pauvre à qui je donnerai l'aumône priera pour nous.'
+# dialect = Vannetais
+# source = Cheveau (2017)
+# texttype = Ouvrages de recherche
+1	er	art	?	_	_	_	_	_	Gloss=le
+2	peur	peur	?	_	_	_	_	_	Gloss=pauvre
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	rein	reiñ	verbe	_	_	_	_	_	Gloss=donnerai
+5	en	art	complémenteur	_	_	_	_	_	Gloss=le
+6	alézon	aluzenn	nom	_	_	_	_	_	Gloss=aumône
+7	dehon	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+9	bédo	pediñ	verbe	_	_	_	_	_	Gloss=priera
+10	aveidomp	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.nous
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,17 @@
+# sent_id = Bannoù-Heol(2000:27)__1
+# text = Salud dit Tata ! Sevel a rez abred, se !
+# text_fr = 'Bonjour Papa ! Tu te lèves tôt, dis-donc !'
+# source = Bannoù-Heol (2000)
+# texttype = Références de corpus
+1	Salud	Salud	?	_	_	_	_	_	Gloss=salut
+2	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+3	Tata	Tata	?	_	_	_	_	_	Gloss=[[nomde
+4			?	_	_	_	_	_	Gloss=titre|Papa]]]
+5	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
+7	a	a	préposition	_	_	_	_	_	Gloss=R
+8	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+9	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	se	se!	pronom	_	_	_	_	_	Gloss=ça
+12	!	!	PUNCT	_	_	_	_	Gloss=punct

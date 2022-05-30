@@ -1,0 +1,14 @@
+# sent_id = Gros(1984:319)__1
+# text = Ha c'hoaz hennez a zo bet en em grouget.
+# text_fr = 'Et encore (même que) celui-là s'est pendu.'
+# source = Gros (1984)
+1	Ha	&	?	_	_	_	_	_	Gloss=et
+2	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
+3	hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	bet	bet	?	_	_	_	_	_	Gloss=été
+7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+8	em	em	?	_	_	_	_	_	Gloss=?
+9	grouget	grouget	?	_	_	_	_	_	Gloss=pendre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

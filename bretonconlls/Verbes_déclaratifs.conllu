@@ -1,0 +1,19 @@
+# sent_id = Plougerneau,M-L.B.(04/2016)__55
+# text = Ma respontan fall ez oun taolet a-gostez, ne c'hoarian ket ken.
+# text_fr = 'Si je donne une mauvaise réponse, je suis éliminée.'
+# dialect = Léonard
+# source = M-L. B. (04/2016)
+# texttype = Élicitations
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	respontan	respontan	?	_	_	_	_	_	Gloss=réponds
+3	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+4	ez	ez	?	_	_	_	_	_	Gloss=R
+5	oun	COP	?	_	_	_	_	_	Gloss=suis
+6	taolet	taoler	?	_	_	_	_	_	Gloss=jeté
+7	a-gostez	a-gostez	?	_	_	_	_	_	Gloss=de-côté
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	c'hoarian	c'hoari	?	_	_	_	_	_	Gloss=joue
+11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

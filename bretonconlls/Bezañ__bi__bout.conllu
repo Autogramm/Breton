@@ -1,0 +1,19 @@
+# sent_id = Seite(1998:49)__1
+# text = Eul leh kreñv e tle beza bet _ evito sur a-walh.
+# text_fr = 'Ça a surement été pour eux une place forte.'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	Eul	art	?	_	_	_	_	_	Gloss=un
+2	leh	lec'h	?	_	_	_	_	_	Gloss=place
+3	kreñv	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	tle	dleout	verbe	_	_	_	_	_	Gloss=doit
+6	beza	beza	?	_	_	_	_	_	Gloss=être
+7	bet	bet	?	_	_	_	_	_	Gloss=été
+8	_	_	?	_	_	_	_	_	Gloss=
+9	evito	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
+10	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
+11	a-walh	a-walc'h	?	_	_	_	_	_	Gloss=assez
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

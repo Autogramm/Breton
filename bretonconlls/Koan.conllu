@@ -1,0 +1,12 @@
+# sent_id = Trépos(2001:§440)__1
+# text = Bez' e vo pesked da goan.
+# text_fr = 'Il y aura du poisson à souper.'
+# source = Trépos (2001)
+1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
+2			PUNCT	_	_	_	_	Gloss=punct
+3	e	e	?	_	_	_	_	_	Gloss=R
+4	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	pesked	pesk	nom	_	_	_	_	_	Gloss=poisson
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	goan	goan	?	_	_	_	_	_	Gloss=souper
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

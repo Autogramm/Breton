@@ -1,0 +1,30 @@
+# sent_id = ArBorgn(2011:81)__6
+# text = Lan eo a fall dechoù.
+# text_fr = 'Il est plein de mauvais penchants.'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Lan	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	fall	Fall-,fals-	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais-
+5	dechoù	dechoù.-où(PL.)	?.?	_	_	_	_	_	Gloss=1.s
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArGow(2005:88)__1
+# text = ma teuje an disterañ c'hoant dezhañ da sentiñ ouzh e dech fall.
+# text_fr = 's'il lui venait la moindre envie de céder à ses mauvais penchants'
+# source = Ar Gow (2005)
+1	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	teuje	dont	verbe	_	_	_	_	_	Gloss=venait
+3	an	art	?	_	_	_	_	_	Gloss=le
+4	disterañ	dister.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=moindre.le.plus
+5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
+6	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	sentiñ	sentiñ	verbe	_	_	_	_	_	Gloss=obéir
+9	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
+10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	dech	dech	?	_	_	_	_	_	Gloss=défaut
+12	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

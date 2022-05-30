@@ -1,6 +1,6 @@
 # sent_id = Herrieu(1994:304)__1
 # text = Amañ, a-wael, n'hon eus ket bet anoued.
-# text_fr =  'Ici, au moins, on n'a pas eu froid.' 
+# text_fr = 'Ici, au moins, on n'a pas eu froid.'
 # source = Herrieu (1994)
 1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -16,9 +16,9 @@
 
 # sent_id = Herrieu(1994:9)__1
 # text = Evite, a-wael, ema achu ar brezel.
-# text_fr =  'pour eux, au moins, la guerre est finie.' 
+# text_fr = 'pour eux, au moins, la guerre est finie.'
 # source = Herrieu (1994)
-1	Evite	evit.pronomincorporé	complémenteur-préposition.?	_	_	_	_	_	Gloss=pour.eux
+1	Evite	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	a-wael	a-wael	adverbe	_	_	_	_	_	Gloss=au.moins
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -30,11 +30,11 @@
 
 # sent_id = Herrieu(1994:28)__1
 # text = A pa vehe gwir a-wael !
-# text_fr =  'Si au moins c'était vrai !' 
+# text_fr = 'Si au moins c'était vrai !'
 # source = Herrieu (1994)
 1	A	A	préposition	_	_	_	_	_	Gloss=[[hapa|ha
 2	pa	pa	complémenteur	_	_	_	_	_	Gloss=pa]]]
 3	vehe	COP	?	_	_	_	_	_	Gloss=serait
-4	gwir	gwir	adjectif-nom	_	_	_	_	_	Gloss=vrai
+4	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
 5	a-wael	a-wael	adverbe	_	_	_	_	_	Gloss=au.moins
-6	!	!	?	_	_	_	_	_	Gloss=?
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

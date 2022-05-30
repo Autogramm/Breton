@@ -1,0 +1,56 @@
+# sent_id = Chalm(2008:R.1.2.3)__5
+# text = Ur c'halz lern a oa deuet da zebriñ yer ar c'houer.
+# text_fr = 'Beaucoup de renards étaient venus manger les poules du paysan.'
+# source = Chalm (2008)
+1	Ur	art	?	_	_	_	_	_	Gloss=un
+2	c'halz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=tas
+3	lern	louarn.plurielinterne	verbe.?	_	_	_	_	_	Gloss=renard.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	oa	zo	?	_	_	_	_	_	Gloss=était
+6	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	zebriñ	debriñ	verbe	_	_	_	_	_	Gloss=manger
+9	yer	yar.plurielinterne	nom.?	_	_	_	_	_	Gloss=poule.s
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	c'houer	c'houer	?	_	_	_	_	_	Gloss=5
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Riou(1941:37)__1
+# text = eur goueriadez gant eur banerad viou.
+# text_fr = 'une fermière avec un panier d’œufs.'
+# source = Riou (1941)
+# texttype = Références de corpus
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	goueriadez	goueriadez.-iad.-ez	?.?.?	_	_	_	_	_	Gloss=1.er.e
+3	gant	gant	?	_	_	_	_	_	Gloss=avec
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	banerad	paner	nom	_	_	_	_	_	Gloss=panier]].[[-ad|ée|Morph=1
+6	viou	vi,u	?	_	_	_	_	_	Gloss=œufs
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:199)__1
+# text = Bez' eo bet labourer-douar Yannig e-pad daou vloaz.
+# text_fr = 'Yannig a été paysan pendant deux ans.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
+2			PUNCT	_	_	_	_	Gloss=punct
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	labourer-douar	labour.-er,-our.douar	nom.?.nom	_	_	_	_	_	Gloss=travail.eur.terre
+6	Yannig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Yann.DIM
+7	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
+8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=2]|Morph=1
+9	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Guiscriff,chantBosennElliant,[http://kan.bzh/docs/Fv-Bibliotheque/Landevennec/L-39/FV-L-39-026-1.pdftexte]__1
+# text = Ian baïzant na gompren ar foeltr-tra !
+# text_fr = 'Le paysan moyen ne comprend rien !'
+1	Ian	nompropre	?	_	_	_	_	_	Gloss=Yann]|Morph=1
+2	baïzant	baïzant	?	_	_	_	_	_	Gloss=paysan
+3	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	gompren	kompren	verbe	_	_	_	_	_	Gloss=comprend
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	foeltr-tra	foeltr	?	_	_	_	_	_	Gloss=foudre
+7	!	!	PUNCT	_	_	_	_	Gloss=punct

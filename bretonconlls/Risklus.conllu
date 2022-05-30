@@ -1,0 +1,14 @@
+# sent_id = Elégoët(1982:41)__1
+# text = ablamour ar bezhin a zo rinklus.
+# text_fr = '... car les algues sont glissantes.'
+# dialect = Léonard
+# location = Plougerneau
+# source = Elégoët (1982)
+# texttype = Références de corpus
+1	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	bezhin	bezhin	nom	_	_	_	_	_	Gloss=algues
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	rinklus	risklañ.-us(Adj.)	?.?	_	_	_	_	_	Gloss=gliss.ant
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

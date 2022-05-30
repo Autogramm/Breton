@@ -1,11 +1,11 @@
 # sent_id = ArMerser(2009:§'rayonner')__1
 # text = E zremm a bar warni al levenez.
-# text_fr =  'Son visage rayonne de bonheur.'
+# text_fr = 'Son visage rayonne de bonheur.'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
-1	E	POSS	?	1	_	_	_	_	Gloss=son
+1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 2	zremm	dremm	nom	_	_	_	_	_	Gloss=visage
-3	a	a	préposition	1	_	_	_	_	Gloss=R
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	bar	parañ	?	_	_	_	_	_	Gloss=brille
 5	warni	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.elle
 6	al	art	?	_	_	_	_	_	Gloss=le

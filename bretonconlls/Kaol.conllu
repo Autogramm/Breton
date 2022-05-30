@@ -1,0 +1,49 @@
+# sent_id = ArFloc'h(1985:25)__1
+# text = Kaol, strev panez a ranken da zastum bemdez...
+# text_fr = 'Chaque jour, je devais ramasser des choux et des fânes de panais... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Kaol	Kaol	nom	_	_	_	_	_	Gloss=choux
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	strev	strev	?	_	_	_	_	_	Gloss=fânes
+4	panez	panez	nom	_	_	_	_	_	Gloss=panais
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	ranken	rankout	verbe	_	_	_	_	_	Gloss=devais
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	zastum	dastum	verbe	_	_	_	_	_	Gloss=ramasser
+9	bemdez..	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:136)__1
+# text = An n'onn petra-mañ a zo eet e yod, an tamm kaol-mañ.
+# text_fr = 'Ce machin-ci s'est mis en bouillie, ce morceau de chou-ci.'
+# source = Gros (1984)
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	n'	n'	?	_	_	_	_	_	Gloss=Ne
+3	onn	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+4	petra-mañ	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	zo	zo	?	_	_	_	_	_	Gloss=est
+7	eet	mont	verbe	_	_	_	_	_	Gloss=allé
+8	e	P.e	?	_	_	_	_	_	Gloss=en
+9	yod	yod	nom	_	_	_	_	_	Gloss=bouillie
+10	,	,	PUNCT	_	_	_	_	Gloss=punct
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+13	kaol-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:160)-oup.74__1
+# text = A-wechoù pa veze herr e plantañ brikoli...
+# text_fr = 'Parfois, quand on plantait les choux rapidement... '
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=de.fois
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	herr	herr	nom	_	_	_	_	_	Gloss=vitesse
+5	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	plantañ	plantañ	verbe	_	_	_	_	_	Gloss=planter
+7	brikoli..	brikoli	nom	_	_	_	_	_	Gloss=choux
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

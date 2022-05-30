@@ -1,0 +1,127 @@
+# sent_id = Kervella(2009:95)__1
+# text = Pe betek ar gador a-hont ma 'z oc'h ket re skuizh.
+# text_fr = 'Ou jusqu'à la chaise là-bas si vous n'êtes pas trop fatiguée.'
+# dialect = Léonard
+# source = Kervella (2009)
+# texttype = Ouvrages pédagogiques
+1	Pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+2	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Morph=1
+5	a-hont	a-hont	?	_	_	_	_	_	Gloss=là-bas
+6	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+7	'	'	?	_	_	_	_	_	Gloss=?
+8	z	z	?	_	_	_	_	_	Gloss=?
+9	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	re	re	adverbe	_	_	_	_	_	Gloss=trop
+12	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Favereau(1997:§416)__1
+# text = N'e' ket é chom amen.
+# text_fr = 'Il n'habite pas ici.'
+# source = Favereau (1997)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	e'	COP	?	_	_	_	_	_	Gloss=est
+3			PUNCT	_	_	_	_	Gloss=punct
+4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+5	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	chom	chom	verbe	_	_	_	_	_	Gloss=rester
+7	amen	amañ	?	_	_	_	_	_	Gloss=ici
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__1
+# text = Ame zo  verc’h vihan kollet he-unan.
+# text_fr = 'J'ai ici une petite fille [perdue] toute seule.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Ame	amañ	?	_	_	_	_	_	Gloss=ici
+2	zo	zo	?	_	_	_	_	_	Gloss=est
+3	??	art	?	_	_	_	_	_	Gloss=un
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	verc’h	merc'h	?	_	_	_	_	_	Gloss=fille|Morph=1
+6	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petite|Morph=1
+7	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+8	he-unan	POSS	?	_	_	_	_	_	Gloss=son
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ternes(1970:228)__1
+# text = /niče gol brop pex əred əzaj /
+# text_fr = 'Ce n'est pas bien décent ce que vous faites là.'
+# dialect = Vannetais
+# source = Ternes (1970)
+# texttype = Ouvrages de recherche
+1	gol	gwall	?	_	_	_	_	_	Gloss=très-|Morph=1
+2	brop	brop	?	_	_	_	_	_	Gloss=propre
+3	pex	pezh	?	_	_	_	_	_	Gloss=ce.que
+4	əzaj	ads	?	_	_	_	_	_	Gloss=ici
+5	/	/	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__2
+# text = Aï maint en tu kleiz. Me zo eeoñv dirak an iliz.
+# text_fr = 'Je les ai à ma gauche. J’ai l’église juste en face.'
+# dialect = Cornouaillais
+# location = Locronan
+# source = A-M. Louboutin (10/2021)
+# texttype = Élicitations
+1	Aï	aze	?	_	_	_	_	_	Gloss=ici
+2	maint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	tu	tu	nom	_	_	_	_	_	Gloss=côté
+5	kleiz	kleiz	nom-adjectif	_	_	_	_	_	Gloss=gauche
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Me	pfi	?	_	_	_	_	_	Gloss=moi
+8	zo	COP	?	_	_	_	_	_	Gloss=est
+9	eeoñv	eeun	adverbe-adjectif	_	_	_	_	_	Gloss=droit
+10	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
+11	an	art	?	_	_	_	_	_	Gloss=le
+12	iliz	iliz	nom	_	_	_	_	_	Gloss=église
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArBorgn(2011:63)__1
+# text = Deuit amanigoù, ma merc'h !
+# text_fr = 'Viens ici tout près, ma fille !'
+# dialect = Vannetais
+# source = Ar Borgn (2011)
+# texttype = Ouvrages de recherche
+1	Deuit	dont	verbe	_	_	_	_	_	Gloss=venez
+2	amanigoù	amanigoù	?	_	_	_	_	_	Gloss=DIM
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	merc'h	merc'h	?	_	_	_	_	_	Gloss=fille
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeDû(2012a:'ki')__1
+# text = dãmã ta ki bien
+# text_fr = 'Viens-donc ici, petit chien !'
+# dialect = Trégorrois
+# location = Plougrescant
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
+1	dãmã	dont	verbe	_	_	_	_	_	Gloss=viens
+2	ta	eta	?	_	_	_	_	_	Gloss=donc
+3	ki	ki	nom	_	_	_	_	_	Gloss=chien
+4	bien	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+
+# sent_id = Ernault(1895-6:326)__1
+# text =  zamañ d'eign bara.
+# text_fr = 'Donne-moi du pain.'
+# source = Ernault (1895-6)
+# texttype = Ouvrages de recherche
+1	??	dont	verbe	_	_	_	_	_	Gloss=viens
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	zamañ	zamañ	?	_	_	_	_	_	Gloss=ici
+4	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	eign	eign	?	_	_	_	_	_	Gloss=?
+6	bara	bara	nom	_	_	_	_	_	Gloss=pain
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ernault (1911:284)__1
+# text = Madan me ker
+# text_fr = 'Donnez-moi de l'avoine.'
+1	me	me	?	_	_	_	_	_	Gloss=-me
+2	ker	ker	adjectif	_	_	_	_	_	Gloss=kerh.

@@ -1,0 +1,30 @@
+# sent_id = Standard,Menard&Kadored(2001)__5
+# text = Al labourer ne chom james da baouez.
+# text_fr = 'Le paysan ne reste jamais sans rien faire.'
+# source = Menard & Kadored (2001)
+# texttype = Ouvrages de recherche
+1	Al	art	?	_	_	_	_	_	Gloss=le
+2	labourer	-er,-our	?	_	_	_	_	_	Gloss=eur
+3	ne	ne	?	_	_	_	_	_	Gloss=ne
+4	chom	chom	verbe	_	_	_	_	_	Gloss=reste
+5	james	james	adverbe	_	_	_	_	_	Gloss=jamais
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	baouez	paouez	verbe	_	_	_	_	_	Gloss=arrêter
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Ouessant,Gouedig(1982)__1
+# text = Bez' oa tud pinvidikoh hag e labourent ket.
+# text_fr = 'Il y avait des gens plus riches et qui ne travaillaient pas.' (leur terre)
+# dialect = Léonard
+# source = Gouedig (1982)
+# texttype = Ouvrages de recherche
+1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
+2			PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	?	_	_	_	_	_	Gloss=était
+4	tud	tud	nom	_	_	_	_	_	Gloss=gens
+5	pinvidikoh	pinvidik.-oc'h	adjectif.?	_	_	_	_	_	Gloss=riche.plus
+6	hag	&	?	_	_	_	_	_	Gloss=et
+7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	labourent	labourent	?	_	_	_	_	_	Gloss=travaillaient
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

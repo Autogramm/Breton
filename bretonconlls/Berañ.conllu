@@ -1,0 +1,13 @@
+# sent_id = Fagon&Riou(2015:'berañ')__1
+# text = Ma fri 'zo e vera.
+# text_fr = 'Mon nez coule.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	fri	fri	nom	_	_	_	_	_	Gloss=nez
+3	'	zo	?	_	_	_	_	_	Gloss=est
+4	zo	zo	?	_	_	_	_	_	Gloss=?
+5	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	vera	vera	?	_	_	_	_	_	Gloss=couler
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

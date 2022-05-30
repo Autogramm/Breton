@@ -1,0 +1,66 @@
+# sent_id = ArMeliner(2009:35)__1
+# text = Kalz a zel n'en devoa ket skubet.
+# text_fr = 'Il n'avait pas balayé beaucoup de feuilles.'
+# source = Ar Meliner (2009)
+1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	zel	zel	?	_	_	_	_	_	Gloss=feuillage
+4	n'	n'	?	_	_	_	_	_	Gloss=ne
+5	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
+6	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+8	skubet	skubañ	?	_	_	_	_	_	Gloss=balayé
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:343)__1
+# text = eur bern deliou
+# text_fr = 'un tas de feuilles'
+# source = Gros (1984)
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+3	deliou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+
+# sent_id = Seite(1998:44)__1
+# text = eur mell gwezenn glas-kaol he deliou
+# text_fr = 'Un grand arbres aux feuillages vert-chou'
+# dialect = Léonard
+# location = Cléder
+# source = Seite (1998)
+# texttype = Références de corpus
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	mell	mell	nom	_	_	_	_	_	Gloss=grand
+3	gwezenn	gwez.-enn	nom.nom	_	_	_	_	_	Gloss=arbres.SG
+4	glas-kaol	glas	adjectif	_	_	_	_	_	Gloss=vert
+5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	deliou	deliou	?	_	_	_	_	_	Gloss=feuillages
+
+# sent_id = L'Hôpital-Camfrout,LeGall(1958)__2
+# text = Ar verklenn wenn a zo kouet war deliou an dero yaouank.
+# text_fr = 'Les feuillages des jeunes chênes ont attrapé l'oïdium.'
+# source = Le Gall (1958)
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	verklenn	mergl	nom	_	_	_	_	_	Gloss=rouille]].[[-enn|SG|Morph=1
+3	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	zo	zo	?	_	_	_	_	_	Gloss=est
+6	kouet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	deliou	-où	?	_	_	_	_	_	Gloss=s
+9	an	art	?	_	_	_	_	_	Gloss=le
+10	dero	derv	nom	_	_	_	_	_	Gloss=chênes
+11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Moyenbreton(1350),glosed'IvonetOmnès__1
+# text = Me am eus vn amoric iolivic indan an del me.
+# text_fr = 'J'ai une amourette gentille, sous les feuilles, moi.'
+# source = Moyen breton
+1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+2	am	am	?	_	_	_	_	_	Gloss=R
+3	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	vn	art	?	_	_	_	_	_	Gloss=un
+5	amoric	amoric	?	_	_	_	_	_	Gloss=DIM
+6	iolivic	iolivic	?	_	_	_	_	_	Gloss=DIM
+7	indan	dindan	préposition	_	_	_	_	_	Gloss=sous
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	del	del	nom	_	_	_	_	_	Gloss=feuilles

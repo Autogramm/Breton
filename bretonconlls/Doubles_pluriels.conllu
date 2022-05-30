@@ -1,0 +1,137 @@
+# sent_id = Herrieu(1994:96)__2
+# text = Er parkoùier ivez eh eus toulloù hag o gwelet ne raer ket, e-kreiz an teñvelded.
+# text_fr = 'Dans les champs aussi se trouvent des trous qu'on ne voit pas dans la pénombre.'
+# source = Herrieu (1994)
+1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	parkoùier	park.-où(PL.).-ier(PL.)	nom.?.?	_	_	_	_	_	Gloss=parc.s.s
+3	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+4	eh	eh	?	_	_	_	_	_	Gloss=R
+5	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
+6	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
+7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+8	o	POP	?	_	_	_	_	_	Gloss=les
+9	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
+10	ne	ne	?	_	_	_	_	_	Gloss=ne
+11	raer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
+12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	e-kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=en.milieu
+15	an	art	?	_	_	_	_	_	Gloss=le
+16	teñvelded	teñval.-ded	adjectif.?	_	_	_	_	_	Gloss=sombre.té
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArMeliner(2009:78)__1
+# text = E'it paraat a-zoc'hti a sailh en douaroùier.
+# text_fr = 'pour l'empêcher de sauter dans les terres de culture'
+# source = Ar Meliner (2009)
+1	E'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	it	it	?	_	_	_	_	_	Gloss=?
+3	paraat	parat	?	_	_	_	_	_	Gloss=empêcher
+4	a-zoc'hti	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	sailh	sailhat	verbe	_	_	_	_	_	Gloss=saute
+7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	douaroùier	douar.-où(PL.).-ier(PL.)	nom.?.?	_	_	_	_	_	Gloss=terre.s.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Gros(1984:176)__3
+# text = ar re-maouig , ar re-zeouig
+# text_fr = 'ceux-ci, ceux-là.'
+# source = Gros (1984)
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	re-maouig	hini.DEM.re-maouig	nom-pronom.?.?	_	_	_	_	_	Gloss=ceux.ci.DIM
+3			?	_	_	_	_	_	Gloss=
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ar	art	?	_	_	_	_	_	Gloss=le
+6	re-zeouig	hini.DEM.re-zeouig	nom-pronom.?.?	_	_	_	_	_	Gloss=ceux.là.DIM
+
+# sent_id = 'Raoul,titred'article',HorYezh(1996).__1
+# text = Roll ar c'helaouennoù brezhonek adalek dibenn an eil brezel-bed
+# text_fr = 'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
+# source = Hor Yezh
+1	Roll	roll	?	_	_	_	_	_	Gloss=liste
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]|Morph=5
+4	brezhonek	brezhonek	?	_	_	_	_	_	Gloss=breton
+5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
+6	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	eil	ordinal	pronom	_	_	_	_	_	Gloss=second
+9	brezel-bed	brezel	nom	_	_	_	_	_	Gloss=guerre
+
+# sent_id = Briant-Cadiou(1998:7)__1
+# text = Peb tiegez a laboure gand kezekenned. Ar re-mañ a veze kaset d'ar marh beb bloaz.
+# text_fr = 'Les fermes travaillaient avec des juments. On les envoyait au cheval chaque année.'
+# dialect = Léonard
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+2	tiegez	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.ée
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	laboure	labourat	verbe	_	_	_	_	_	Gloss=travaillait
+5	gand	gant	?	_	_	_	_	_	Gloss=avec
+6	kezekenned	kezeg.-enn.-ed(PL.)	?.nom.?	_	_	_	_	_	Gloss=chevaux.SG.PL
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	Ar	art	?	_	_	_	_	_	Gloss=le
+9	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+12	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
+13	d'	da	préposition	_	_	_	_	_	Gloss=à
+14	ar	art	?	_	_	_	_	_	Gloss=le
+15	marh	marc'h	?	_	_	_	_	_	Gloss=cheval
+16	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+17	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
+18	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Kervella(1947:§338)__1
+# text = un nebeut koumoul = koumoulennoù = ur goumoulenn bennak
+# text_fr = 'des nuages, un peu de nuages, quelque nuage.'
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	un	art	?	_	_	_	_	_	Gloss=un
+2	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
+3	koumoul	koumoul	nom	_	_	_	_	_	Gloss=nuages
+4	=	=	?	_	_	_	_	_	Gloss=
+5	koumoulennoù	koumoul	nom	_	_	_	_	_	Gloss=nuages
+6	=	=	?	_	_	_	_	_	Gloss=
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	goumoulenn	koumoul	nom	_	_	_	_	_	Gloss=nuages]].[[-enn|SG|Morph=1
+9	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelque/quelconque
+
+# sent_id = Drezen(1932:9)__1
+# text = o tarlipat enezennoù diniverus
+# text_fr = 'en léchouillant d'innombrables îles.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	tarlipat	lipat.tar-	?.?	_	_	_	_	_	Gloss=léch.ouiller
+3	enezennoù	nomcollectif.-enn.-où(PL.)	?.nom.?	_	_	_	_	_	Gloss=s.SG.s
+4	diniverus	di-	?	_	_	_	_	_	Gloss=in
+
+# sent_id = Herrieu(1994:16)__1
+# text = Treuziñ a reomp douaroùier leun a winizh.
+# text_fr = 'Nous traversons des terres pleines de blé.'
+# source = Herrieu (1994)
+1	Treuziñ	treuziñ	verbe	_	_	_	_	_	Gloss=traverser
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+4	douaroùier	douar.-oùier	nom.?	_	_	_	_	_	Gloss=terre.s.s
+5	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	winizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:16)__1
+# text = Arrest a ra hon treñ e-kreiz un douaroù.
+# text_fr = 'Notre train s'arrête en plein champ.'
+# source = Herrieu (1994)
+1	Arrest	Arrest	?	_	_	_	_	_	Gloss=arrêter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	hon	POSS	?	_	_	_	_	_	Gloss=notre
+5	treñ	tren	?	_	_	_	_	_	Gloss=train
+6	e-kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=en.milieu
+7	un	art	?	_	_	_	_	_	Gloss=un
+8	douaroù	douar.-où(PL.)	nom.?	_	_	_	_	_	Gloss=terre.s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,40 @@
+# sent_id = Trégorrois,Priel(1959)__3
+# text = Tanfoeltr glesker em buhez n'am boa tanvaet evel just !
+# text_fr = 'Je n'avais bien sûr jamais mangé la moindre grenouille !'
+# source = Priel (1959)
+# texttype = Références de corpus
+1	Tanfoeltr	foeltr	?	_	_	_	_	_	Gloss=feu.foudre
+2	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
+3	em	P.e.POSS	?.?	_	_	_	_	_	Gloss=en.ma
+4	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	am	am	?	_	_	_	_	_	Gloss=R
+7	boa	kaout	?	_	_	_	_	_	Gloss=avait
+8	tanvaet	tañvañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=goût.é
+9	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+10	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+11	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Mellouet&Pennec(2004:152)__1
+# text = A-raok e poa pennoù a oa melenoc'h, setu a choke, evel-just kwir er c'hajot.
+# text_fr = 'Dans le temps, il y avait des têtes plus jaunes qui choquaient bien sûr dans le cageot.'
+# dialect = Léonard
+# source = Mellouet & Pennec (2004)
+# texttype = Références de corpus
+1	A-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+2	e	e	?	_	_	_	_	_	Gloss=R
+3	poa	kaout	?	_	_	_	_	_	Gloss=avait
+4	pennoù	penn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=tête.s
+5	a	a	préposition	_	_	_	_	_	Gloss=R
+6	oa	COP	?	_	_	_	_	_	Gloss=était
+7	melenoc'h	melen.-oc'h	adjectif.?	_	_	_	_	_	Gloss=jaune.plus
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
+10	a	a	préposition	_	_	_	_	_	Gloss=R
+11	choke	choke	?	_	_	_	_	_	Gloss=choquait
+12	,	,	PUNCT	_	_	_	_	Gloss=punct
+13	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sûr
+14	kwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+15	er	P.e	?	_	_	_	_	_	Gloss=en]].[[art|le|Morph=5
+16	c'hajot	c'hajot	?	_	_	_	_	_	Gloss=cageot
+17	.	.	PUNCT	_	_	_	_	Gloss=punct

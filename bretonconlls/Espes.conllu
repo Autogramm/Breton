@@ -1,0 +1,23 @@
+# sent_id = Fagon&Riou(2015:'kuzin')__1
+# text = on tamm espes kuzin
+# text_fr = 'un peu de cuisine'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	on	art	?	_	_	_	_	_	Gloss=un
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	espes	espes	nom	_	_	_	_	_	Gloss=espèce
+4	kuzin	kuzin	?	_	_	_	_	_	Gloss=cuisine
+
+# sent_id = LeMenn(2000:106)__1
+# text = vr speçc á deru hac a vez calet
+# text_fr = 'une espèce de chêne qui est dure'
+# source = Nom.
+1	vr	art	?	_	_	_	_	_	Gloss=un
+2	speçc	speçc	?	_	_	_	_	_	Gloss=espèce
+3	á	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	deru	derv	nom	_	_	_	_	_	Gloss=chêne
+5	hac	haga	?	_	_	_	_	_	Gloss=que]|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=?
+7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	calet	kalet	?	_	_	_	_	_	Gloss=dur

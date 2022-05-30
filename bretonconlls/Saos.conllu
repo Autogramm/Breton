@@ -1,0 +1,11 @@
+# sent_id = Biguet(2017:2).__1
+# text = Chaous ! pebezh dichañs !
+# text_fr = 'Zut ! Quelle guigne !'
+# source = Biguet (2017)
+# texttype = Références de corpus
+1	Chaous	Chaous	?	_	_	_	_	_	Gloss=[[Chaous!|Zut
+2			?	_	_	_	_	_	Gloss=!]]]
+3	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	pebezh	pebezh	?	_	_	_	_	_	Gloss=quel
+5	dichañs	di-,dis-.chañs	?.nom	_	_	_	_	_	Gloss=mal.chance
+6	!	!	PUNCT	_	_	_	_	Gloss=punct

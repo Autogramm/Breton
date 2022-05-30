@@ -1,0 +1,14 @@
+# sent_id = Croq(1908:13)__1
+# text = ar mevel ar gwella deut d'e vestr
+# text_fr = 'le valet le mieux vu par son maître'
+# dialect = Cornouaillais
+# source = Croq (1908)
+# texttype = Références de corpus
+1	ar	art	?	_	_	_	_	_	Gloss=le
+2	mevel	mevel	nom	_	_	_	_	_	Gloss=valet
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	gwella	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
+5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	vestr	mestr	nom	_	_	_	_	_	Gloss=maître

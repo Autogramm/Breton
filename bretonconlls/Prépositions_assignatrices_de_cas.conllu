@@ -1,0 +1,18 @@
+# sent_id = ArFloc'h(1985:72)__1
+# text = va mamm a c'houlennas ouzhin petra oa kiriek din da vezañ trist.
+# text_fr = 'Ma mère me demanda pourquoi j'étais triste.'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	c'houlennas	goulenn	verbe	_	_	_	_	_	Gloss=demanda
+5	ouzhin	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+7	oa	COP	?	_	_	_	_	_	Gloss=était
+8	kiriek	kiriek	adjectif	_	_	_	_	_	Gloss=coupable
+9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+12	trist	trist	adjectif	_	_	_	_	_	Gloss=triste
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,72 @@
+# sent_id = LeClerc(1986:205)__1
+# text = Laret din  penôs ec'h in da Bariz.
+# text_fr = 'Dites-moi comment j'irai à Paris.'
+# source = Le Clerc (1986)
+1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dites
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	??	??	?	_	_	_	_	_	Gloss=[
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	penôs	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
+6	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
+7	in	mont	verbe	_	_	_	_	_	Gloss=irai
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	Bariz	nompropre	?	_	_	_	_	_	Gloss=Paris
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:206)__1
+# text = N'ouzonn  petra ober.
+# text_fr = 'Je ne sais que faire.'
+# source = Le Clerc (1986)
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	ouzonn	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	??	??	?	_	_	_	_	_	Gloss=[
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:206)__1
+# text = Laret din  hag-eñ vo brao an amzer.
+# text_fr = 'Dites-moi si le temps sera beau.'
+# source = Le Clerc (1986)
+1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dites
+2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	??	??	?	_	_	_	_	_	Gloss=[
+4	?	?	PUNCT	_	_	_	_	Gloss=punct
+5	hag-eñ	hag-eñ	complémenteur	_	_	_	_	_	Gloss=si
+6	vo	COP	?	_	_	_	_	_	Gloss=sera
+7	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = LeClerc(1986:206)__1
+# text = Ne ouien ket  hag-eñ e vije brao an amzer.
+# text_fr = 'Je ne savais pas si le temps serait beau.'
+# source = Le Clerc (1986)
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ouien	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	??	??	?	_	_	_	_	_	Gloss=[
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+6	hag-eñ	hag-eñ	complémenteur	_	_	_	_	_	Gloss=si
+7	e	COP	?	_	_	_	_	_	Gloss=aurait.été
+8	vije	vije	?	_	_	_	_	_	Gloss=?
+9	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+10	an	art	?	_	_	_	_	_	Gloss=le
+11	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Le Clerc (1986:205)__1
+# text = Daoust  hag-eñ ec'h i da Bariz ?
+# text_fr = 'Est-ce que tu iras à Paris ?'
+1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=C'@hwistim
+2	??	??	?	_	_	_	_	_	Gloss=
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	hag-eñ	hag-eñ	complémenteur	_	_	_	_	_	Gloss=hag-eñ
+5	ec'h	ec'h	?	_	_	_	_	_	Gloss=ecxxxh
+6	i	i	?	_	_	_	_	_	Gloss=i
+7	da	da	préposition	_	_	_	_	_	Gloss=da
+8	Bariz	Bariz	?	_	_	_	_	_	Gloss=Bariz
+9			?	_	_	_	_	_	Gloss=?
+10	?	?	PUNCT	_	_	_	_	Gloss=punct

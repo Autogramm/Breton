@@ -1,0 +1,18 @@
+# sent_id = Standard,Kervella(2014)__1
+# text = An tamm hag al lomm a zalc'h an den en e blom.
+# text_fr = 'Il faut manger et boire pour être en forme et travailler.'
+# source = Kervella (2014)
+# texttype = Ouvrages pédagogiques
+1	An	art	?	_	_	_	_	_	Gloss=le
+2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
+3	hag	&	?	_	_	_	_	_	Gloss=et
+4	al	art	?	_	_	_	_	_	Gloss=le
+5	lomm	lomm	quantifieur	_	_	_	_	_	Gloss=goutte
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	zalc'h	derc'hel	?	_	_	_	_	_	Gloss=garde
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	den	den	nom	_	_	_	_	_	Gloss=homme
+10	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	blom	blom	?	_	_	_	_	_	Gloss=aplomb
+13	.	.	PUNCT	_	_	_	_	Gloss=punct

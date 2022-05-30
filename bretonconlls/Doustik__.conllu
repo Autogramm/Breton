@@ -1,0 +1,10 @@
+# sent_id = Kervella(2001:11)__1
+# text = Doustik ! Tud adarre !
+# text_fr = 'Encore du monde, sapristi !'
+# source = Kervella (2001)
+# texttype = Références de corpus
+1	Doustik	Doustik	?	_	_	_	_	_	Gloss=Nom.de.D...
+2	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	Tud	tud	nom	_	_	_	_	_	Gloss=gens
+4	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
+5	!	!	PUNCT	_	_	_	_	Gloss=punct

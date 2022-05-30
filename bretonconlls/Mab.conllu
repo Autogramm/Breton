@@ -1,0 +1,18 @@
+# sent_id = Seite&Stéphan(1957:55)__1
+# text = Emañ ar vugale en-dro dezañ mall ganto gweled ar Mabig bïan...
+# text_fr = 'Les enfants autour d'elle (la crèche) ont hâte de voir le petit Jésus.'
+# dialect = Léonard
+# source = Seite & Stéphan (1957)
+# texttype = Ouvrages pédagogiques
+1	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	ar	art	?	_	_	_	_	_	Gloss=le
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=autour
+5	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+6	mall	mall	nom	_	_	_	_	_	Gloss=hâte
+7	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+8	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
+9	ar	art	?	_	_	_	_	_	Gloss=le
+10	Mabig	Mabig	?	_	_	_	_	_	Gloss=DIM
+11	bïan..	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

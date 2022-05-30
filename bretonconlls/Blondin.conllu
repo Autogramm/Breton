@@ -1,0 +1,21 @@
+# sent_id = ArFloc'h(1922:347)__1
+# text = eur bleo bloundin...
+# text_fr = 'une chevelure blonde... '
+# location = Bodilis
+# source = Ar Floch (1922)
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	bleo	blev	nom	_	_	_	_	_	Gloss=chevelure
+3	bloundin..	bloundin..	?	_	_	_	_	_	Gloss=blond
+4	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fave(1998:60)__1
+# text = eur paotrig dezañ bleo melen
+# text_fr = 'un garçon blond'
+# dialect = Léonard
+# source = Fave (1998)
+# texttype = Ouvrages de recherche
+1	eur	art	nom	_	_	_	_	_	Gloss=un
+2	paotrig	paotr.-ig	nom.?	_	_	_	_	_	Gloss=gars.DIM
+3	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	bleo	blev	nom	_	_	_	_	_	Gloss=chevelure
+5	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune

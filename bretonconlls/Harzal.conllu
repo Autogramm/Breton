@@ -1,0 +1,28 @@
+# sent_id = Gros(1984:64)__1
+# text = Harz, ma faotr, ha gra !
+# text_fr = 'Aboie, mon garçon, allez vas-y.'
+# source = Gros (1984)
+1	Harz	Harz	préposition	_	_	_	_	_	Gloss=aboie
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	faotr	paotr	nom	_	_	_	_	_	Gloss=garçon
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	?	_	_	_	_	_	Gloss=et
+7	gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+8	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fagon&Riou(2015:'bagwal')__1
+# text = or c'hi grignouz, ne dean da vagwal.
+# text_fr = 'Un chien hargneux, il n'arrête pas d'aboyer.'
+# dialect = Cornouaillais
+# source = Fagon & Riou (2015)
+# texttype = Ouvrages de recherche
+1	or	art	?	_	_	_	_	_	Gloss=un
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
+3	grignouz	grignouz	?	_	_	_	_	_	Gloss=hargneux
+4	,	,	PUNCT	_	_	_	_	Gloss=punct
+5	ne	ne	?	_	_	_	_	_	Gloss=ne
+6	dean	dihan	verbe	_	_	_	_	_	Gloss=arrête
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	vagwal	vagwal	?	_	_	_	_	_	Gloss=aboyer
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

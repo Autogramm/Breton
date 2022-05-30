@@ -1,0 +1,34 @@
+# sent_id = ArBarzhig(1976:33)__1
+# text = Ne vefent ket pell o sachañ brud fall d'an nen.
+# text_fr = 'Ils ne seraient pas longs à tisser de mauvaises réputations.'
+# dialect = Trégorrois
+# source = Ar Barzhig (1976)
+# texttype = Références de corpus
+1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+2	vefent	COP	?	_	_	_	_	_	Gloss=seraient
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	pell	pell	adjectif	_	_	_	_	_	Gloss=long
+5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	sachañ	sachañ	verbe	_	_	_	_	_	Gloss=tirer
+7	brud	brud	nom	_	_	_	_	_	Gloss=réputation
+8	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+9	d'	da	préposition	_	_	_	_	_	Gloss=à
+10	an	IMP	?	_	_	_	_	_	Gloss=on
+11	nen.	nen.	?	_	_	_	_	_	Gloss=?
+
+# sent_id = Briant-Cadiou(1998:26)__1
+# text = Lod o-doa ar brud da deuler eur sort.
+# text_fr = 'Certains avaient la réputation de jeter des sorts.'
+# dialect = Léonard
+# location = Plouzane
+# source = Briant-Cadiou (1998)
+# texttype = Références de corpus
+1	Lod	lod	quantifieur	_	_	_	_	_	Gloss=certains
+2	o-doa	kaout	?	_	_	_	_	_	Gloss=avait
+3	ar	art	?	_	_	_	_	_	Gloss=le
+4	brud	brud	nom	_	_	_	_	_	Gloss=réputation
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	deuler	teuler	?	_	_	_	_	_	Gloss=jeter
+7	eur	art	nom	_	_	_	_	_	Gloss=un
+8	sort	sort	?	_	_	_	_	_	Gloss=sort
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

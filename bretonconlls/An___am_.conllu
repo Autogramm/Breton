@@ -1,0 +1,14 @@
+# sent_id = Konan(2017:30)__1
+# text = Da loeroù a zo en andu. (= en amdu)
+# text_fr = 'Tes chaussettes sont à l'envers.'
+# dialect = Trégorrois
+# location = Perros-guirrec
+# source = Konan (2017)
+# texttype = Ouvrages de recherche
+1	Da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+2	loeroù	loer.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussette.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	zo	zo	?	_	_	_	_	_	Gloss=est
+5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+6	andu	andu.tu	?.nom	_	_	_	_	_	Gloss=1.côté
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

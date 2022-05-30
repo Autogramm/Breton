@@ -1,26 +1,26 @@
 # sent_id = Yekel, Georgelin & Ar C'hozh (2015-2016:'hervez')__1
 # text = Nul oa a-hervez.
-# text_fr =  'Il était nul à ce qu'il paraît.' 
+# text_fr = 'Il était nul à ce qu'il paraît.'
 # source2 =  Trégorrois (Bégard), locutrice née en 1928, 
 1	Nul	Nul	adjectif	_	_	_	_	_	Gloss=nul
 2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	a-hervez	a	préposition	1	_	_	_	_	Gloss=de
+3	a-hervez	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = BouesselduBourg(2014:96)__1
 # text = E meur a bark e vourre Langleiz peuriñ pe hadañ a-hervez.
-# text_fr =  '(A ce qu'il paraît,) Langleiz aimait paître ou semer dans des champs différents.'
+# text_fr = '(A ce qu'il paraît,) Langleiz aimait paître ou semer dans des champs différents.'
 # source = Bouessel du Bourg (2014)
 # texttype = Références de corpus
 1	E	P.e	?	_	_	_	_	_	Gloss=en
 2	meur	meur	quantifieur	_	_	_	_	_	Gloss=moulte
-3	a	a	préposition	1	_	_	_	_	Gloss=de
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 4	bark	park	nom	_	_	_	_	_	Gloss=champ
-5	e	e	?	4	_	_	_	_	Gloss=R
+5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	vourre	bourriñ	verbe	_	_	_	_	_	Gloss=plaisait
 7	Langleiz	Langleiz	?	_	_	_	_	_	Gloss=Langleiz
 8	peuriñ	peuriñ	verbe	_	_	_	_	_	Gloss=paître
-9	pe	pe	complémenteur-conjonction	_	_	_	_	_	Gloss=ou
+9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
 10	hadañ	hadañ	verbe	_	_	_	_	_	Gloss=semer
 11	a-hervez	a-hervez	adverbe	_	_	_	_	_	Gloss=selon
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

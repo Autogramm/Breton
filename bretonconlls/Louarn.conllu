@@ -1,0 +1,23 @@
+# sent_id = Bouzec&al.(2017:123)__1
+# text = Ped vla bad eur louarn?
+# text_fr = 'Combien d'années peut vivre un renard ?'
+# dialect = Cornouaillais
+# location = Moëlan
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	Ped	pet	pronom	_	_	_	_	_	Gloss=combien|Morph=1
+2	bad	padout	verbe	_	_	_	_	_	Gloss=dure
+3	eur	art	nom	_	_	_	_	_	Gloss=un
+4	louarn	louarn	verbe	_	_	_	_	_	Gloss=renard
+5	?	?	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = (Gros1984:153)__2
+# text = Hennez a oar pentañ lern.
+# text_fr = 'Il sait mentir.'
+# source = Gros (1984)
+1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+4	pentañ	pentañ	?	_	_	_	_	_	Gloss=peindre
+5	lern	lern	?	_	_	_	_	_	Gloss=renard
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,16 @@
+# sent_id = Herrieu(1994:57)__1
+# text = Sevel a ra diàrnezhe frond c'hwek an amzer nevez o tivorenniñ.
+# text_fr = 'Monte d'eux l'odeur délicieuse du printemps qui s'éveille.'
+# source = Herrieu (1994)
+1	Sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	diàrnezhe	diwar.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+5	frond	frond	nom	_	_	_	_	_	Gloss=odeur
+6	c'hwek	c'hwek	?	_	_	_	_	_	Gloss=délicieux
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
+9	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
+10	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	tivorenniñ	di-,dis-.morenn.-iñ	?.nom.?	_	_	_	_	_	Gloss=dé.brouillard.er
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

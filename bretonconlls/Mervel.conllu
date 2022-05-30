@@ -1,0 +1,32 @@
+# sent_id = ArFloc'h(1985:142)__1
+# text = Ma'z eo d'am loen mervel, e varvo...
+# text_fr = 'Si mon animal doit mourir, il mourra... '
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Ma'	ma(r)	?	_	_	_	_	_	Gloss=si
+2	z	z	?	_	_	_	_	_	Gloss=?
+3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	am	POSS	?	_	_	_	_	_	Gloss=mon
+6	loen	loen	nom	_	_	_	_	_	Gloss=animal
+7	mervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	varvo..	varvo..	?	_	_	_	_	_	Gloss=mourra
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Louis(2015:96)__1
+# text = Ar brizonerion o doa marvet get an naon.
+# text_fr = 'Les prisonniers étaient morts de faim.'
+# dialect = Vannetais
+# source = Louis (2015)
+# texttype = Ouvrages de recherche
+1	Ar	art	?	_	_	_	_	_	Gloss=le
+2	brizonerion	brizonerion	?	_	_	_	_	_	Gloss=1
+3	o	o	?	_	_	_	_	_	Gloss=3PL
+4	doa	kaout	?	_	_	_	_	_	Gloss=avait
+5	marvet	marvet	?	_	_	_	_	_	Gloss=mourru
+6	get	gant	?	_	_	_	_	_	Gloss=avec
+7	an	art	?	_	_	_	_	_	Gloss=le
+8	naon	naon	nom	_	_	_	_	_	Gloss=faim
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

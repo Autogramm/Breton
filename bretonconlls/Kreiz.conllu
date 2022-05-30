@@ -1,0 +1,72 @@
+# sent_id = Drezen(1932:5)__3
+# text = Tevel a reas war-dro kreiz an deiz an avel gor a c'hwezhe diouzh an traoñ.
+# text_fr = 'Le vent ardent qui soufflait de la vallée se tût vers le milieu du jour.'
+# source = Drezen (1932)
+# texttype = Références de corpus
+1	Tevel	tevel	verbe	_	_	_	_	_	Gloss=taire
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+4	war-dro	war-dro	préposition	_	_	_	_	_	Gloss=autour
+5	kreiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
+6	an	art	?	_	_	_	_	_	Gloss=le
+7	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
+8	an	art	?	_	_	_	_	_	Gloss=le
+9	avel	avel	nom	_	_	_	_	_	Gloss=vent
+10	gor	gor	adjectif	_	_	_	_	_	Gloss=ardent
+11	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=4
+12	c'hwezhe	c'hwezhañ	?	_	_	_	_	_	Gloss=soufflait
+13	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+14	an	art	?	_	_	_	_	_	Gloss=le
+15	traoñ	traoñ	nom	_	_	_	_	_	Gloss=vallée
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bottineau(2010b:117)__1
+# text = E 1986 e tarzhas un dazloc'her e kreizenn nukleel Tchernobyl en Ukrania.
+# text_fr = 'En 1986 explosait un réacteur de la centrale nucléaire de Tchernobyl, en Ukraine.'
+# source = Bottineau (2010b)
+# texttype = Ouvrages de recherche
+1	E	P.e	?	_	_	_	_	_	Gloss=en
+2	1986	1986	?	_	_	_	_	_	Gloss=1986
+3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	tarzhas	tarzhañ	verbe	_	_	_	_	_	Gloss=explosa
+5	un	art	?	_	_	_	_	_	Gloss=un
+6	dazloc'her	das-	?	_	_	_	_	_	Gloss=ré
+7	e	P.e	?	_	_	_	_	_	Gloss=en
+8	kreizenn	-enn	nom	_	_	_	_	_	Gloss=SG
+9	nukleel	nukleel	?	_	_	_	_	_	Gloss=nucléaire
+10	Tchernobyl	nompropre	?	_	_	_	_	_	Gloss=Tchernobyl
+11	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	Ukrania	nompropre	?	_	_	_	_	_	Gloss=Ukraine
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = AnDiberder(2000:102)__1
+# text = Chte oeid er siren kuit te greisnouz.
+# text_fr = 'Voila la sirène partie à minuit.'
+# dialect = Vannetais
+# source = An Diberder (2000)
+# texttype = Références de corpus
+1	Chte	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+2	oeid	mont	verbe	_	_	_	_	_	Gloss=allé
+3	er	art	?	_	_	_	_	_	Gloss=le
+4	siren	siren	?	_	_	_	_	_	Gloss=sirène
+5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
+6	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	greisnouz	noz	nom	_	_	_	_	_	Gloss=nuit
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = ArFloc'h(1922:347)__6
+# text = evit ma kavi eur gwaz eus da gendere, merc'hig ?
+# text_fr = 'Pour que tu trouves un mari de ton milieu social, ma fille ?'
+# location = Bodilis
+# source = Ar Floch (1922)
+1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	kavi	kavout	verbe	_	_	_	_	_	Gloss=trouveras
+4	eur	art	nom	_	_	_	_	_	Gloss=un
+5	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
+6	eus	eus	?	_	_	_	_	_	Gloss=de
+7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+8	gendere	ken-	?	_	_	_	_	_	Gloss=com-
+9	,	,	PUNCT	_	_	_	_	Gloss=punct
+10	merc'hig	merc'h.merc'hig	?.?	_	_	_	_	_	Gloss=fille.DIM
+11	?	?	PUNCT	_	_	_	_	Gloss=punct

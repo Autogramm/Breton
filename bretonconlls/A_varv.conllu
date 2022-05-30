@@ -1,10 +1,10 @@
 # sent_id = LeGall(1957:'a-varo')__1
 # text = sacha a-varo war eur gordenn.
-# text_fr =  'tirer modérément, sans secousse sur une corde' 
+# text_fr = 'tirer modérément, sans secousse sur une corde'
 # source = Le Gall (1957)
 1	sacha	sachañ	verbe	_	_	_	_	_	Gloss=tirer
-2	a-varo	a-varo	?	1	_	_	_	_	Gloss=a
-3	war	war	?	1	_	_	_	_	Gloss=sur
+2	a-varo	a-varo	?	_	_	_	_	_	Gloss=a|Morph=1
+3	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
 4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	gordenn	kordenn	nom	1	_	_	_	_	Gloss=corde
+5	gordenn	kordenn	nom	_	_	_	_	_	Gloss=corde|Morph=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

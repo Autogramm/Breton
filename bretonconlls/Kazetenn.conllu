@@ -1,0 +1,53 @@
+# sent_id = ArFloc'h(1985:138)__1
+# text = Met morse n'em eus skrivet en brezhoneg war gazetenn ebet !
+# text_fr = 'Mais jamais je n'ai écrit en breton dans aucun journal!'
+# location = Bodilis
+# source = Ar Floch (1985)
+1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+2	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	em	em	?	_	_	_	_	_	Gloss=1SG
+5	eus	kaout	?	_	_	_	_	_	Gloss=a
+6	skrivet	skrivañ	verbe	_	_	_	_	_	Gloss=écrit
+7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+8	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
+9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+10	gazetenn	gazetenn	nom	_	_	_	_	_	Gloss=journal
+11	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+12	!	!	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Miossec(1980:66)__2
+# text = N'eus kazetenn ebet er bed a n'he-dije ket kôzeet diwar he fenn...
+# text_fr = 'Il n'y a aucun journal au monde qui n'en ait pas parlé.'
+# dialect = Léonard
+# source = Miossec (1980)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne
+2	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	kazetenn	kazetenn	nom	_	_	_	_	_	Gloss=journal
+4	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
+5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	bed	bed	nom	_	_	_	_	_	Gloss=monde
+7	a	C.ha(g)	préposition	_	_	_	_	_	Gloss=que
+8	n'	n'	?	_	_	_	_	_	Gloss=ne
+9	he-dije	kaout	?	_	_	_	_	_	Gloss=aurait
+10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+11	kôzeet	kaozeal	verbe	_	_	_	_	_	Gloss=parlé
+12	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
+13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+14	fenn..	penn	nom	_	_	_	_	_	Gloss=tête
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Herrieu(1994:165)__1
+# text = Bout a zo a-barzh ul levraoueg ha gazetoù.
+# text_fr = 'Il y a dedans une bibliothèque et des revues.'
+# source = Herrieu (1994)
+1	Bout	bez	?	_	_	_	_	_	Gloss=être
+2	a	a	préposition	_	_	_	_	_	Gloss=R
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	a-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+5	ul	art	?	_	_	_	_	_	Gloss=un
+6	levraoueg	levr.-aou-.-eg(N.)	nom.?.?	_	_	_	_	_	Gloss=livre.s.lieu
+7	ha	&	?	_	_	_	_	_	Gloss=et
+8	gazetoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

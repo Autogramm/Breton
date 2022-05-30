@@ -1,0 +1,30 @@
+# sent_id = Derrien(1980:33)__1
+# text = Emaint toud o lakaad o faoiou war ar zoudard.
+# text_fr = 'Ils mettent tous leurs mains sur le soldat.'
+# source = Derrien (1980)
+# texttype = Références de corpus
+1	Emaint	eman	?	_	_	_	_	_	Gloss=sont
+2	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
+5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	faoiou	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+7	war	war	?	_	_	_	_	_	Gloss=sur
+8	ar	art	?	_	_	_	_	_	Gloss=le
+9	zoudard	soudard	nom	_	_	_	_	_	Gloss=soldat
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Bouzec&al.(2017:309)__1
+# text = bétégoud  ziztagfè-hi 'n taol paw
+# text_fr = 'au cas où elle donnerait un coup de patte'
+# dialect = Cornouaillais
+# source = Bouzec & al. (2017)
+# texttype = Ouvrages de recherche
+1	bétégoud	betegout	complémenteur	_	_	_	_	_	Gloss=au.cas.où
+2	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+3	?	?	PUNCT	_	_	_	_	Gloss=punct
+4	ziztagfè-hi	distag	?	_	_	_	_	_	Gloss=détacherait
+5	'	art	?	_	_	_	_	_	Gloss=un
+6	n	taol(M.)	?	_	_	_	_	_	Gloss=coup
+7	taol	taol	?	_	_	_	_	_	Gloss=?
+8	paw	paw	?	_	_	_	_	_	Gloss=patte

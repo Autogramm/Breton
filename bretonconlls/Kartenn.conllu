@@ -1,0 +1,36 @@
+# sent_id = Lesneven/Kerlouan,A.M.(05/2016)__7
+# text = Tristan a gas atao ur gartenn deus a-bell.
+# text_fr = 'Tristan envoie toujours une carte de loin.'
+# dialect = Léonard
+# source = A. M. (05/2016)
+# texttype = Élicitations
+1	Tristan	nompropre	?	_	_	_	_	_	Gloss=Tristan
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	gas	kas	verbe	_	_	_	_	_	Gloss=envoie
+4	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
+5	ur	art	?	_	_	_	_	_	Gloss=un
+6	gartenn	gartenn	?	_	_	_	_	_	Gloss=1
+7	deus	deus	?	_	_	_	_	_	Gloss=de
+8	a-bell	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Press(1986:204)__1
+# text = Disul, goude an oferenn, ez eo aet ar beleg da c'hoari c'hartoù.
+# text_fr = 'Dimanche, après la messe, le prêtre est allé jouer aux cartes.'
+# source = Press (1986)
+# texttype = Ouvrages de recherche
+1	Disul	jour	?	_	_	_	_	_	Gloss=dimanche
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
+3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+4	an	art	?	_	_	_	_	_	Gloss=le
+5	oferenn	oferenn	nom	_	_	_	_	_	Gloss=messe
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	ez	ez	?	_	_	_	_	_	Gloss=R
+8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	aet	mont	verbe	_	_	_	_	_	Gloss=allé
+10	ar	art	?	_	_	_	_	_	Gloss=le
+11	beleg	beleg	nom	_	_	_	_	_	Gloss=prêtre
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+13	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
+14	c'hartoù	c'hartoù.-où(PL.)	?.?	_	_	_	_	_	Gloss=5.s
+15	.	.	PUNCT	_	_	_	_	Gloss=punct

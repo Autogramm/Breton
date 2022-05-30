@@ -1,0 +1,28 @@
+# sent_id = Cheveau(2007:120)__1
+# text = ['a:wəl 'kʁɛ̃:w 'kʁɛ̃:w ] (avel kreñv-kreñv)
+# text_fr = 'vent très fort'
+# dialect = Vannetais
+# location = Lorient
+# source = Cheveau (2007)
+# texttype = Ouvrages de recherche
+1	['	avel	nom	_	_	_	_	_	Gloss=vent
+2	a:wəl	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+3	'	'	?	_	_	_	_	_	Gloss=-
+4	kʁɛ̃:w	kreñv	adjectif	_	_	_	_	_	Gloss=fort
+5	'	'	?	_	_	_	_	_	Gloss=?
+6	kʁɛ̃:w	kʁɛ̃:w	?	_	_	_	_	_	Gloss=?
+7	]	]	?	_	_	_	_	_	Gloss=?
+
+# sent_id = arBarzhig(1976:69)__1
+# text = Neuze unan gozh-kozh a ziflukas diouzh ur c'hogn...
+# text_fr = 'Alors une très vieille femme surgit d'un coin.'
+# source = ar Barzhig (1976)
+1	Neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=une|Morph=1
+3	gozh-kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ziflukas	diflukañ	verbe	_	_	_	_	_	Gloss=surgit
+6	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
+7	ur	art	?	_	_	_	_	_	Gloss=un
+8	c'hogn..	korn	nom	_	_	_	_	_	Gloss=coin|Morph=5
+9	.	.	PUNCT	_	_	_	_	Gloss=punct

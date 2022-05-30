@@ -1,6 +1,6 @@
 # sent_id = Gros(1984:17)__1
 # text = N'eus bet biskoaz sotez war an douar evel ma'z out-te !
-# text_fr =  'Il n'y a jamais eu sur la terre une sotte comme toi !'
+# text_fr = 'Il n'y a jamais eu sur la terre une sotte comme toi !'
 # source = Gros (1984)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	eus	E	?	_	_	_	_	_	Gloss=y.a
@@ -10,7 +10,7 @@
 6	war	war	?	_	_	_	_	_	Gloss=sur
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	douar	douar	nom	_	_	_	_	_	Gloss=terre
-9	evel	evel	complémenteur-préposition	_	_	_	_	_	Gloss=comme
+9	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 10	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
 11	z	z	?	_	_	_	_	_	Gloss=?
 12	out-te	out-te	?	_	_	_	_	_	Gloss=R
@@ -19,7 +19,7 @@
 
 # sent_id = HorYezh(1983:17)__1
 # text = Barzh ti ar seurezed ni nie ket ken restachou ar re all da verenn.
-# text_fr =  'Chez les sœurs, nous n'avions que les restes des autres à midi.' 
+# text_fr = 'Chez les sœurs, nous n'avions que les restes des autres à midi.'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
 1	Barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
@@ -29,11 +29,11 @@
 5	ni	pfi	?	_	_	_	_	_	Gloss=nous
 6	nie	kaout	?	_	_	_	_	_	Gloss=aurait
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	ken	ken	complémenteur-adverbe	_	_	_	_	_	Gloss=autre.chose
+8	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
 9	restachou	-achou	?	_	_	_	_	_	Gloss=es
 10	ar	art	?	_	_	_	_	_	Gloss=le
 11	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
 12	all	all	?	_	_	_	_	_	Gloss=autre
-13	da	da	préposition	1	_	_	_	_	Gloss=pour
+13	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 14	verenn	merenn	nom	_	_	_	_	_	Gloss=repas
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
