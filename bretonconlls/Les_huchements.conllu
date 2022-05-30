@@ -4,10 +4,10 @@
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[arsa!|Allons
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Chou	Chou	?	_	_	_	_	_	Gloss=[[Chou!|Ouste
-5			?	_	_	_	_	_	Gloss=!]]]
+5			?	_	_	_	_	_	Gloss=!]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	Kit	mont	verbe	_	_	_	_	_	Gloss=allez
 8	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
@@ -50,7 +50,7 @@
 4	Klask	klask	verbe	_	_	_	_	_	Gloss=cherche
 5	roud	roud	nom	_	_	_	_	_	Gloss=trace
 6	an	art	?	_	_	_	_	_	Gloss=le
-7	Daltoned	nompropre.-ed(PL.)	?.?	_	_	_	_	_	Gloss=Dalton.s
+7	Daltoned	nompropre.[-ed(PL.)	?.?	_	_	_	_	_	Gloss=Dalton.s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:149)__3
@@ -85,5 +85,5 @@
 1	Ha	&	?	_	_	_	_	_	Gloss=et
 2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 3	vro	bro	nom	_	_	_	_	_	Gloss=pays
-4	Vec'hiko	nompropre	?	_	_	_	_	_	Gloss=Mexique]|Morph=1
+4	Vec'hiko	nompropre	?	_	_	_	_	_	Gloss=Mexique|Morph=1
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

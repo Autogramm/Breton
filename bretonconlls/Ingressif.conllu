@@ -8,7 +8,7 @@
 4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
 5	èlti	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.elle
 6	hag	&	?	_	_	_	_	_	Gloss=et
-7	em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	lakaet	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 10	respont	respont	?	_	_	_	_	_	Gloss=répondre
@@ -21,7 +21,7 @@
 # text = Em lakaet em eus da sevel un tammig lojell...
 # text_fr = 'Je me suis mis à construire un petit abri... '
 # source = Herrieu (1994)
-1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	Em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	lakaet	lakaat	verbe	_	_	_	_	_	Gloss=mis
 3	em	em	?	_	_	_	_	_	Gloss=R
 4	eus	kaout	?	_	_	_	_	_	Gloss=a
@@ -83,7 +83,7 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	klemm	klemm	verbe	_	_	_	_	_	Gloss=plaindre
 8	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
 9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4

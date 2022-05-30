@@ -3,12 +3,12 @@
 # text_fr = 'J'avais eu mille peines à me loger pour la nuit... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille]|Morph=1
+1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
 2	boan	poan	nom	_	_	_	_	_	Gloss=peine
 3	em	em	?	_	_	_	_	_	Gloss=1SG
 4	oa	kaout	?	_	_	_	_	_	Gloss=avait
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
 8	ur	art	?	_	_	_	_	_	Gloss=un
 9	gwele	gwele	nom	_	_	_	_	_	Gloss=lit

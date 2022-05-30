@@ -5,7 +5,7 @@
 1	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 2	ar	art	?	_	_	_	_	_	Gloss=le
 3	PS	nompropre	?	_	_	_	_	_	Gloss=PS
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 7	sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
@@ -162,9 +162,9 @@
 # text_fr = 'en léchouillant d'innombrables îles'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	tarlipat	tar-.lipat	?.?	_	_	_	_	_	Gloss=pfx.lécher
-3	enezennoù	enez.nomcollectif.-enn.-où(PL.)	nom.?.nom.?	_	_	_	_	_	Gloss=île.s.SG.s
+3	enezennoù	enez.nomcollectif.-enn.[-où(PL.)	nom.?.nom.?	_	_	_	_	_	Gloss=île.s.SG.s
 4	diniverus	di-	?	_	_	_	_	_	Gloss=in
 
 # sent_id = ArBorgn(2011:76)__1

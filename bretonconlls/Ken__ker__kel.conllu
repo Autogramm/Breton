@@ -202,9 +202,9 @@
 12	}	}	?	_	_	_	_	_	Gloss=?
 13	vezer	vez.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
 14	bamet	bamet	?	_	_	_	_	_	Gloss=stupéfait
-15	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+15	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 16	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
-17	outi	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+17	outi	ouzh.[pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:27)__1
@@ -309,7 +309,7 @@
 1	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
 2	ne-int	ne-int	?	_	_	_	_	_	Gloss=ne
 3	miser	mizer	nom	_	_	_	_	_	Gloss=misère
-4	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5			PUNCT	_	_	_	_	Gloss=punct
 6	redeg	redek	verbe	_	_	_	_	_	Gloss=courir
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -601,7 +601,7 @@
 12	]_,	]_,	?	_	_	_	_	_	Gloss=?
 13	e	e	?	_	_	_	_	_	Gloss=R
 14	oa	COP	?	_	_	_	_	_	Gloss=était
-15	digempouezet	di-,dis-	?	_	_	_	_	_	Gloss=dé]|Morph=1
+15	digempouezet	di-,dis-	?	_	_	_	_	_	Gloss=dé|Morph=1
 16	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 17	red	red	?	_	_	_	_	_	Gloss=course
 18	gantañ..	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
@@ -648,7 +648,7 @@
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
 1	Oh	particuleo	?	_	_	_	_	_	Gloss=à
-2	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 3	em	em	?	_	_	_	_	_	Gloss=?
 4	ganna	kannañ	verbe	_	_	_	_	_	Gloss=battre
 5	e	COP	?	_	_	_	_	_	Gloss=étaient

@@ -21,7 +21,7 @@
 # texttype = Ouvrages de recherche
 1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesser
 5	erruout	erru	?	_	_	_	_	_	Gloss=arriver
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -32,7 +32,7 @@
 # source = Merser (1963)
 # texttype = Ouvrages de recherche
 1	Emaon	eman	?	_	_	_	_	_	Gloss=suis
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesser
 4	d'	da	préposition	_	_	_	_	_	Gloss=de
 5	echui	echu	?	_	_	_	_	_	Gloss=finir
@@ -46,7 +46,7 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Emaon	eman	?	_	_	_	_	_	Gloss=suis
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tihan	dihan	verbe	_	_	_	_	_	Gloss=cesser
 4	serri	serriñ.-i(V.)	verbe.?	_	_	_	_	_	Gloss=ferm.er
 5	an	art	?	_	_	_	_	_	Gloss=le
@@ -59,7 +59,7 @@
 # source = Merser (1963)
 # texttype = Ouvrages de recherche
 1	Emaon	eman	?	_	_	_	_	_	Gloss=suis
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tihan	dihan	verbe	_	_	_	_	_	Gloss=cesser
 4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 5	huchal	huchal	verbe	_	_	_	_	_	Gloss=crier
@@ -73,7 +73,7 @@
 1	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	tond	dont	verbe	_	_	_	_	_	Gloss=venir
 6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 7	zerri	serriñ	verbe	_	_	_	_	_	Gloss=fermer
@@ -88,7 +88,7 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	er	er	?	_	_	_	_	_	Gloss=[[arpezh|ce
-2	pech	pech	?	_	_	_	_	_	Gloss=que]]]
+2	pech	pech	?	_	_	_	_	_	Gloss=que]]
 3	i	i	?	_	_	_	_	_	Gloss=R|Morph=4
 4	tan	dont	verbe	_	_	_	_	_	Gloss=viens
 5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
@@ -169,7 +169,7 @@
 5	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
 6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 7	oamp	COP	?	_	_	_	_	_	Gloss=étions
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 

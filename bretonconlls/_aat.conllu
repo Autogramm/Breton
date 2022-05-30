@@ -5,7 +5,7 @@
 1	Raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
 2	[...],	[...],	?	_	_	_	_	_	Gloss=?
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+4	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	dostaat..	tost	adjectif	_	_	_	_	_	Gloss=proch
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -47,7 +47,7 @@
 # texttype = Ouvrages de recherche
 1	'	eman	?	_	_	_	_	_	Gloss=suis
 2	Maon	Maon	?	_	_	_	_	_	Gloss=?
-3	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4			PUNCT	_	_	_	_	Gloss=punct
 5	tont	dont	verbe	_	_	_	_	_	Gloss=venir
 6	doc'h	doc'h	?	_	_	_	_	_	Gloss=de

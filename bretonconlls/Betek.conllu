@@ -8,7 +8,7 @@
 1	'	COP	?	_	_	_	_	_	Gloss=étais
 2	Oan	Oan	nom	_	_	_	_	_	Gloss=?
 3	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-4	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5			PUNCT	_	_	_	_	Gloss=punct
 6	tiblas	diblas	verbe	_	_	_	_	_	Gloss=déplace
 7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
@@ -35,7 +35,7 @@
 # text_fr = 'A ce qu'on dit, nous avons avancé d'à peu près six quarts de lieu jusqu'ici.'
 # source = Herrieu (1994)
 1	C'	C'	?	_	_	_	_	_	Gloss=[[lesnuméraux
-2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]]
+2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]
 3	kardlev	fraction	?	_	_	_	_	_	Gloss=quart
 4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 5	,	,	PUNCT	_	_	_	_	Gloss=punct

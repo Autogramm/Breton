@@ -18,7 +18,7 @@
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
 1	Aih	Aih	?	_	_	_	_	_	Gloss=[[Aiou!|Aïe
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Gastoù	gast	nom	_	_	_	_	_	Gloss=pute
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -32,7 +32,7 @@
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Orê	Orê	?	_	_	_	_	_	Gloss=[[interjection|Ohaih
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Chasoù	chas	nom	_	_	_	_	_	Gloss=chiens
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -70,7 +70,7 @@
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	karahent	karout	verbe	_	_	_	_	_	Gloss=aimeraient
-4	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	zastum	dastum	verbe	_	_	_	_	_	Gloss=réunir
 7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
@@ -86,7 +86,7 @@
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[Arsa!|Ah
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Aze	aze	?	_	_	_	_	_	Gloss=là
 5	'	COP	?	_	_	_	_	_	Gloss=étais
@@ -105,5 +105,5 @@
 3	labour	labour	nom	_	_	_	_	_	Gloss=travail
 4	vrav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
 5	'	'	?	_	_	_	_	_	Gloss=[['@vat!|
-6	vat	vat	?	_	_	_	_	_	Gloss=!]]]
+6	vat	vat	?	_	_	_	_	_	Gloss=!]]
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

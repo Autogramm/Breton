@@ -10,7 +10,7 @@
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	huñvree	hunvreal	verbe	_	_	_	_	_	Gloss=rêvait
-7	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+7	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 8	eur	eur	nom	_	_	_	_	_	Gloss=?
 9	en	pronomreflexif	complémenteur	_	_	_	_	_	Gloss=se
 10	em	em	?	_	_	_	_	_	Gloss=?
@@ -18,7 +18,7 @@
 12	e	P.e	?	_	_	_	_	_	Gloss=en
 13	stad	stad	nom	_	_	_	_	_	Gloss=état
 14	ar	art	?	_	_	_	_	_	Gloss=le
-15	baotred	paotr	nom	_	_	_	_	_	Gloss=gars]].[[-ed(PL.)|s]|Morph=1
+15	baotred	paotr	nom	_	_	_	_	_	Gloss=gars]].[[-ed(PL.)|s|Morph=1
 16	faro	faro	adjectif	_	_	_	_	_	Gloss=fier
 17	...	...	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,7 +26,7 @@
 # text = Tregont vloaz a-raok e oa anezhi ur gaer a blac'h faro.
 # text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
 # source = Abeozen (1986)
-1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente]|Morph=1
+1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente|Morph=1
 2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
 4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4

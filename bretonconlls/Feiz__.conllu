@@ -4,7 +4,7 @@
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	'	'	?	_	_	_	_	_	Gloss=[['@vat!|donc
-2	vat	vat	?	_	_	_	_	_	Gloss=!]]]
+2	vat	vat	?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Deomp	mont	verbe	_	_	_	_	_	Gloss=allons
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -15,7 +15,7 @@
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	avat	avat	adverbe	_	_	_	_	_	Gloss=[[avat!|donc
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Tud	tud	nom	_	_	_	_	_	Gloss=gens
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
@@ -107,7 +107,7 @@
 # source = Bzh5 (2007)
 # texttype = Références de corpus
 1	Emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tec'hout	tec'hout	?	_	_	_	_	_	Gloss=enfuir
 4	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 5	?	?	PUNCT	_	_	_	_	Gloss=punct

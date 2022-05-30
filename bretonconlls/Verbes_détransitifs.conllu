@@ -111,7 +111,7 @@
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=croit
 4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	valsiñ	valsiñ	?	_	_	_	_	_	Gloss=valser
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -261,7 +261,7 @@
 4	pri	pri	nom	_	_	_	_	_	Gloss=glaise
 5	amañ	amañ	?	_	_	_	_	_	Gloss=ici
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+7	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 8	ur	ur	?	_	_	_	_	_	Gloss=?
 9	doullañ	toull.-añ(V.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.er
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -356,7 +356,7 @@
 7	oa	oa	?	_	_	_	_	_	Gloss=?
 8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 9	'	'	?	_	_	_	_	_	Gloss=[[lesnuméraux
-10	95	95	?	_	_	_	_	_	Gloss=cardinaux|95]]]
+10	95	95	?	_	_	_	_	_	Gloss=cardinaux|95]]
 11	'	'	?	_	_	_	_	_	Gloss=R
 12			PUNCT	_	_	_	_	Gloss=punct
 13	oa	COP	?	_	_	_	_	_	Gloss=était
@@ -433,8 +433,8 @@
 1	e-lec'h	P.e	?	_	_	_	_	_	Gloss=en
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 3	vourremp	bourriñ	verbe	_	_	_	_	_	Gloss=plaisions
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
-5	tommañ	tomm.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=chauf.er
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	tommañ	tomm.[-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=chauf.er
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = BouesselduBourg(2014:96)__1

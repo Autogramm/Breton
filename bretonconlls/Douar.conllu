@@ -158,7 +158,7 @@
 3	an	intensifieur	?	_	_	_	_	_	Gloss=le.terre
 4	douar	douar	nom	_	_	_	_	_	Gloss=?
 5	emaoc'h	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=êtes
-6	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+6	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=1
 7			PUNCT	_	_	_	_	Gloss=punct
 8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -195,13 +195,13 @@
 6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 8	baour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
-9	e	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	e	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	trempañ	-añ	?	_	_	_	_	_	Gloss=er
 11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 12	zouar	zouar	?	_	_	_	_	_	Gloss=terre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Gros(1984:17)__2
+# sent_id = Gros(1984:17)__1
 # text = N'eus bet biskoaz sotez war an douar evel ma'z out-te !
 # text_fr = 'Il n'y a jamais eu sur la terre une sotte comme toi !'
 # source = Gros (1984)

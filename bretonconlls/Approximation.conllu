@@ -3,7 +3,7 @@
 # text_fr = 'A ce qu'on dit, nous avons avancé d'à peu près six quarts de lieue jusqu'ici.'
 # source = Herrieu (1994)
 1	C'	C'	?	_	_	_	_	_	Gloss=[[lesnuméraux
-2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]]
+2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]
 3	kardlev	fraction.lev	?.?	_	_	_	_	_	Gloss=quart.lieue
 4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -28,7 +28,7 @@
 5	_	_	?	_	_	_	_	_	Gloss=?
 6	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
 7	Jermaned	-ed(PL.)	nom	_	_	_	_	_	Gloss=s
-8	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	terc'hel	derc'hel	?	_	_	_	_	_	Gloss=tenir
 10	stalioù	stal.-où(PL.)	nom.?	_	_	_	_	_	Gloss=boutique.s
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -69,7 +69,7 @@
 4	teue	dont	verbe	_	_	_	_	_	Gloss=venait
 5	eur	art	nom	_	_	_	_	_	Gloss=un
 6	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
-7	diou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux.F]|Morph=1
+7	diou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux.F|Morph=1
 8	wech	gwech	nom	_	_	_	_	_	Gloss=fois
 9	ar	art	?	_	_	_	_	_	Gloss=le
 10	zizun	sizhun	nom	_	_	_	_	_	Gloss=semaine|Morph=1

@@ -8,7 +8,7 @@
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	tav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	klemm	klemm	verbe	_	_	_	_	_	Gloss=se.plaindre
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,7 +26,7 @@
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 8	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animal.s
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	hirvoudi	hirvoudiñ	verbe	_	_	_	_	_	Gloss=gémir
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -41,7 +41,7 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	klemm	klemm	verbe	_	_	_	_	_	Gloss=plaindre
 8	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
 9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
@@ -58,7 +58,7 @@
 # text_fr = 'Tous se plaignent fortement que la guerre est trop longue.'
 # source = Herrieu (1994)
 1	Rac'h	rac'h	?	_	_	_	_	_	Gloss=tous
-2	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 3	em	em	?	_	_	_	_	_	Gloss=plaignent
 4	glemmont	glemmont	?	_	_	_	_	_	Gloss=?
 5	start	start	adjectif	_	_	_	_	_	Gloss=durement

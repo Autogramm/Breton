@@ -24,7 +24,7 @@
 8	a	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 9	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 10	oa	COP	?	_	_	_	_	_	Gloss=était
-11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	man	man	?	_	_	_	_	_	Gloss=me
 13	deveriñ..	deveriñ..	?	_	_	_	_	_	Gloss=V
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -98,7 +98,7 @@
 2			PUNCT	_	_	_	_	Gloss=punct
 3	er	er	?	_	_	_	_	_	Gloss=?
 4	gwelit	gwelout	verbe	_	_	_	_	_	Gloss=voyez
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	tiboukiñ	tiboukiñ	?	_	_	_	_	_	Gloss=déboucher
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -165,7 +165,7 @@
 7			PUNCT	_	_	_	_	Gloss=punct
 8	he	he	?	_	_	_	_	_	Gloss='@la
 9	gwelan	gwelout	verbe	_	_	_	_	_	Gloss=vois
-10	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 11	tonet	dont	verbe	_	_	_	_	_	Gloss=venir
 12	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -188,7 +188,7 @@
 # source = Herrieu (1915-19)
 # texttype = Références de corpus
 1	Ar	Ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
-2	pezh	pezh	?	_	_	_	_	_	Gloss=que]]]
+2	pezh	pezh	?	_	_	_	_	_	Gloss=que]]
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
@@ -424,7 +424,7 @@
 3	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].n.[[-ez(féminin)|e]|Morph=1
+6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].n.[[-ez(féminin)|e|Morph=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 9	doc'hti	doc'h.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.elle
@@ -484,10 +484,9 @@
 2	neus	kaout	?	_	_	_	_	_	Gloss=a
 3	(o	(o	?	_	_	_	_	_	Gloss=les
 4	frenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
-5	/	/	?	_	_	_	_	_	Gloss=/
-6	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
-7	anezho)	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	/	/	PUNCT	_	_	_	_	Gloss=punct
+6	prenet	prenañ.[-et(Adj.).a.[[pronomincorporé	verbe.?.préposition.?	_	_	_	_	_	Gloss=achet.é.P.eux
+7	anezho).	anezho).	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Gros(1970:33)__1
 # text = Piou e-nevoa greet _[''ø'']_  ?

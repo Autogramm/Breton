@@ -86,7 +86,7 @@
 6	Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	noz	noz	nom	_	_	_	_	_	Gloss=nuit
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=1
 10	kouezhañ..	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -154,7 +154,7 @@
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	tommet	tomm.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=chaud.é
 11	ar	art	?	_	_	_	_	_	Gloss=le
-12	c'hirri	karr	nom	_	_	_	_	_	Gloss=voiture]].[[plurielinterne|s]|Morph=5
+12	c'hirri	karr	nom	_	_	_	_	_	Gloss=voiture]].[[plurielinterne|s|Morph=5
 13	'	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 14	vel	vel	?	_	_	_	_	_	Gloss=?
 15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
@@ -172,7 +172,7 @@
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	An	art	?	_	_	_	_	_	Gloss=le
 5	diedoù	died.-où(PL.)	nom.?	_	_	_	_	_	Gloss=potion.s
-6	galian-se	nompropre.-an(Adj.).DEM	?.?.?	_	_	_	_	_	Gloss=gaul.ois.là
+6	galian-se	nompropre.[-an(Adj.).DEM	?.?.?	_	_	_	_	_	Gloss=gaul.ois.là
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	gweredoù	gwered.-où(PL.)	nom.?	_	_	_	_	_	Gloss=effet.s
@@ -187,7 +187,7 @@
 1	Maa	Maa	?	_	_	_	_	_	Gloss=Bah
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	'	'	?	_	_	_	_	_	Gloss=[['@ta!|donc
-4	ta	ta	?	_	_	_	_	_	Gloss=!]]]
+4	ta	ta	?	_	_	_	_	_	Gloss=!]]
 5	!,	!,	?	_	_	_	_	_	Gloss=?
 6	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
 7	...	...	PUNCT	_	_	_	_	Gloss=punct

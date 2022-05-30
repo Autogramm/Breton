@@ -90,7 +90,7 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Seul	seul...seul...	?	_	_	_	_	_	Gloss=à.mesure]|Morph=1
+1	Seul	seul...seul...	?	_	_	_	_	_	Gloss=à.mesure|Morph=1
 2	vui	mui	adverbe	_	_	_	_	_	Gloss=plus
 3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 4	vezo	COP	?	_	_	_	_	_	Gloss=sera
@@ -137,7 +137,7 @@
 4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
 5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
 6	Jermaned	-ed(PL.)	nom	_	_	_	_	_	Gloss=s
-7	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	terc'hel	terc'hel	?	_	_	_	_	_	Gloss=tenir
 9	stalioù	stal.-où(PL.)	nom.?	_	_	_	_	_	Gloss=boutique.s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

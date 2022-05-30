@@ -94,7 +94,7 @@
 2	bell	pell	adjectif	_	_	_	_	_	Gloss=loin|Morph=1
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	karantez	karantez	nom	_	_	_	_	_	Gloss=amour
-5	well	gwell,gwelloc'h	?	_	_	_	_	_	Gloss=mieux]|Morph=1
+5	well	gwell,gwelloc'h	?	_	_	_	_	_	Gloss=mieux|Morph=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger (2004a:119)__1
@@ -126,7 +126,7 @@
 1	C'	pfi	?	_	_	_	_	_	Gloss=vous
 2	hwi	hwi	?	_	_	_	_	_	Gloss=?
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	voused	mous	?	_	_	_	_	_	Gloss=mousse]].[[-ed(PL.)|s]|Morph=1
+4	voused	mous	?	_	_	_	_	_	Gloss=mousse]].[[-ed(PL.)|s|Morph=1
 5	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
 6	noe	kaout	?	_	_	_	_	_	Gloss=avait
 7	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
@@ -243,7 +243,7 @@
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
 1	ur	art	?	_	_	_	_	_	Gloss=un
-2	gazez	kazh	nom	_	_	_	_	_	Gloss=chat]].[[-ez(F.)|te]|Morph=1
+2	gazez	kazh	nom	_	_	_	_	_	Gloss=chat]].[[-ez(F.)|te|Morph=1
 3	zu	du	adjectif	_	_	_	_	_	Gloss=noir
 
 # sent_id = arGo(1950:7)__1
@@ -254,7 +254,7 @@
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 2	[[nom	[[nom	?	_	_	_	_	_	Gloss=[[nompropre|Yann
 3	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=ar
-4	ar	ar	?	_	_	_	_	_	Gloss=Flocxxxh]]]
+4	ar	ar	?	_	_	_	_	_	Gloss=Flocxxxh]]
 5	Floc'h	Floc'h	?	_	_	_	_	_	Gloss=?
 6	nemeur	nemeur	adverbe	_	_	_	_	_	Gloss=guère
 7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
@@ -319,7 +319,7 @@
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
 2	ərgouxaŋ	ərgouxaŋ	?	_	_	_	_	_	Gloss=?
-3	zo-rvyga:laj	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	zo-rvyga:laj	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4			PUNCT	_	_	_	_	Gloss=punct
 5	/	/	PUNCT	_	_	_	_	Gloss=punct
 
@@ -349,7 +349,7 @@
 # text = O labourad kalz eo savet da binvidig.
 # text_fr = 'Elle est devenue riche en travaillant beaucoup.'
 # source = Fave (1998:133)
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
 3	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
 4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
@@ -533,7 +533,7 @@
 4	amparfal	ampart.fall	adjectif.adverbe-adjectif	_	_	_	_	_	Gloss=adroit.mal
 5	hag	&	?	_	_	_	_	_	Gloss=et
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
 
 # sent_id = Stephens(1992:154)__1

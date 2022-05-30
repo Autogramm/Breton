@@ -167,14 +167,14 @@
 2	neus	kaout	?	_	_	_	_	_	Gloss=a
 3	(Anna<<)	nompropre	?	_	_	_	_	_	Gloss=Anna
 4	kroget	kroget	?	_	_	_	_	_	Gloss=croché
-5	(Anna)	nompropre	?	_	_	_	_	_	Gloss=Anna
+5	(Anna)	[nompropre	?	_	_	_	_	_	Gloss=Anna
 6	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 7	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
 8	em	em	?	_	_	_	_	_	Gloss=R|Morph=4
 9	eus	kaout	?	_	_	_	_	_	Gloss=ai
 10	komprenet	komprenet	?	_	_	_	_	_	Gloss=compris
 11	edo	COP	?	_	_	_	_	_	Gloss=était
-12	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+12	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 13	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 14	da	da	préposition	_	_	_	_	_	Gloss=pour
 15	benturiñ	benturiñ	?	_	_	_	_	_	Gloss=peindre
@@ -253,7 +253,7 @@
 6	foug	foug	nom	_	_	_	_	_	Gloss=fierté
 7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
 11	al	art	?	_	_	_	_	_	Gloss=le
 12	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
@@ -280,7 +280,7 @@
 6	foug	foug	nom	_	_	_	_	_	Gloss=?
 7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
 11	al	art	?	_	_	_	_	_	Gloss=le
 12	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
@@ -304,10 +304,10 @@
 4	ur	art	?	_	_	_	_	_	Gloss=un
 5	poent	poent	nom	_	_	_	_	_	Gloss=temps
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 9	hoar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-10	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+10	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 11	em	em	?	_	_	_	_	_	Gloss=servir
 12	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
 13	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
@@ -337,7 +337,7 @@
 9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 10	hoar/e	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
 11	houezont	houezont	?	_	_	_	_	_	Gloss=?
-12	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+12	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 13	em	em	?	_	_	_	_	_	Gloss=servir
 14	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
 15	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux

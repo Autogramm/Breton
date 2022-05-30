@@ -9,7 +9,7 @@
 2	ni	pfi	?	_	_	_	_	_	Gloss=nous
 3	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
 4	vi	COP	?	_	_	_	_	_	Gloss=était
-5	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6			PUNCT	_	_	_	_	Gloss=punct
 7	c'hoarzin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -20,11 +20,11 @@
 # source2 =  Standard, A. Cousin, 'Ken eürus e galleg hag e brezhoneg'
 1	Laouen	laouen	adjectif	_	_	_	_	_	Gloss=heureux
 2	int	COP	?	_	_	_	_	_	Gloss=sont
-3	o_[[4]]_	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o_[[4]]_	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
 5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 6	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 9	e	P.e	?	_	_	_	_	_	Gloss=en
 10	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
@@ -45,7 +45,7 @@
 # text = Matriona gaezh a yae war goshaat ivez hec'h unanik.
 # text_fr = 'Matriona vieillissait aussi seule.
 # source = ar Barzhig (1976)
-1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona]|Morph=1
+1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona|Morph=1
 2	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=chère
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	yae	mont	verbe	_	_	_	_	_	Gloss=allait
@@ -96,7 +96,7 @@
 # text_fr = Heinecke (2001]]:81)
 1	P'	Pa	complémenteur	_	_	_	_	_	Gloss=quand
 2	edon	COP	?	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 5	e	P.e	?	_	_	_	_	_	Gloss=en
 6	Gwened..	Gwened..	?	_	_	_	_	_	Gloss=Vannes

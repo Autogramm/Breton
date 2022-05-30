@@ -53,7 +53,7 @@
 10	un	art	?	_	_	_	_	_	Gloss=un
 11	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
 12	ker	ker	adjectif	_	_	_	_	_	Gloss=[[ken,ker,
-13	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=kel|si]]]
+13	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=kel|si]]
 14		bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -190,7 +190,7 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 2	waz	gwaz	?	_	_	_	_	_	Gloss=homme
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	rank	rank	?	_	_	_	_	_	Gloss=doit
@@ -258,7 +258,7 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	rak	rak	?	_	_	_	_	_	Gloss=car
-2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 3	vloavezhiad	bloaz.-iad	nom.?	_	_	_	_	_	Gloss=an.ée
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	ranke	ranke	?	_	_	_	_	_	Gloss=devait
@@ -315,7 +315,7 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	rak	rak	?	_	_	_	_	_	Gloss=car
-2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 3	vloavezhiad	bloaz.-iad	nom.?	_	_	_	_	_	Gloss=an.ée
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	ranke	ranke	?	_	_	_	_	_	Gloss=devait

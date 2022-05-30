@@ -25,7 +25,7 @@
 2	mennak	mennak	?	_	_	_	_	_	Gloss=quelconque
 3	'	zo	?	_	_	_	_	_	Gloss=est
 4	zo	zo	?	_	_	_	_	_	Gloss=?
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	lopat	lopat	verbe	_	_	_	_	_	Gloss=frapper
 7	war	war	?	_	_	_	_	_	Gloss=sur
 8	an	art	?	_	_	_	_	_	Gloss=le
@@ -50,7 +50,7 @@
 4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
 5	nan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
 6	mennek	mennek	?	_	_	_	_	_	Gloss=quelconque
-7	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8			PUNCT	_	_	_	_	Gloss=punct
 9	tigoueho	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -80,7 +80,7 @@
 2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=1
 3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 6	em	kavout	verbe	_	_	_	_	_	Gloss=trouvait
 7	gave	gave	?	_	_	_	_	_	Gloss=?
 8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1

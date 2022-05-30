@@ -65,7 +65,7 @@
 # text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
 # source = Le Gall (1957)
 1	Poan	poan	nom	_	_	_	_	_	Gloss=peine
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tigeina	di-.kein.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dés.dos.er
 4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
 5	beza	bezañ	?	_	_	_	_	_	Gloss=être
@@ -91,7 +91,7 @@
 10	kalzig	kalz.kalzig	quantifieur-adverbe-déterminant.?	_	_	_	_	_	Gloss=beaucoup.DIM
 11	eus	eus	?	_	_	_	_	_	Gloss=de
 12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes]|Morph=1
+13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes|Morph=1
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:28)__1
@@ -128,7 +128,7 @@
 11	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 12	ur	art	?	_	_	_	_	_	Gloss=un
 13	gouent	kouent	nom	_	_	_	_	_	Gloss=couvent|Morph=1
-14	kastilhat	nompropre.-at(Adj.)	?.?	_	_	_	_	_	Gloss=Castill.an
+14	kastilhat	nompropre.[-at(Adj.)	?.?	_	_	_	_	_	Gloss=Castill.an
 15	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§248)__1

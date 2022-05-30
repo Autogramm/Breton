@@ -6,7 +6,7 @@
 1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=malgré
 2	da	da	préposition	_	_	_	_	_	Gloss=de
 3	se	se	pronom	_	_	_	_	_	Gloss=ça
-4	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	gomprenont	kompren	verbe	_	_	_	_	_	Gloss=comprennent
 7	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=parfaitement
@@ -49,7 +49,7 @@
 # source = M-L.B (10/2018)
 1	Daouchte	C.ha(g)	?	_	_	_	_	_	Gloss=que
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -73,7 +73,7 @@
 6	foug	foug	nom	_	_	_	_	_	Gloss=fierté
 7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
 11	al	art	?	_	_	_	_	_	Gloss=le
 12	loa	loa	nom	_	_	_	_	_	Gloss=cuillère
@@ -326,7 +326,7 @@
 4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	prenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
 9	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
 10	evidoc'h	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.vous
@@ -369,7 +369,7 @@
 6	foug	foug	nom	_	_	_	_	_	Gloss=fierté
 7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 8	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=?
 11	al	art	?	_	_	_	_	_	Gloss=le
 12	loa	loa	nom	_	_	_	_	_	Gloss=cuillière
@@ -467,7 +467,7 @@
 5	lañchore	lañchore	?	_	_	_	_	_	Gloss=endormi
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	zo	zo	?	_	_	_	_	_	Gloss=est
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 10	du-mañ	tu	nom	_	_	_	_	_	Gloss=côté
 11	d'	da	préposition	_	_	_	_	_	Gloss=à

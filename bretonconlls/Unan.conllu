@@ -22,7 +22,7 @@
 3	ùenang	ùenang	?	_	_	_	_	_	Gloss=un
 4	e	e	?	_	_	_	_	_	Gloss=R
 5	oé	COP	?	_	_	_	_	_	Gloss=était
-6	i	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	i	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
 8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 9	ouiañ	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
@@ -155,7 +155,7 @@
 # text_fr = 'Et en arrivant, chacun doit nettoyer sa (propre) place.'
 # source = Herrieu (1994)
 1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+2	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 3	ur	ur	?	_	_	_	_	_	Gloss=?
 4	zegouezh	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
 5	ema	ema	?	_	_	_	_	_	Gloss=est
@@ -174,7 +174,7 @@
 # source = Herrieu (1994)
 1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-3	em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+3	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 4	gempenn..	kempenn	verbe	_	_	_	_	_	Gloss=nettoyer
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -262,7 +262,7 @@
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
-10	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 11	tiver	diverañ	?	_	_	_	_	_	Gloss=couler
 12	a-zoc'htoñ	a-ziouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -349,7 +349,7 @@
 # text = Matriona gaezh a yae war goshaat ivez hec'h unanik.
 # text_fr = 'Matriona vieillissait aussi seule.
 # source = ar Barzhig (1976)
-1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona]|Morph=1
+1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona|Morph=1
 2	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=chère
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	yae	mont	verbe	_	_	_	_	_	Gloss=allait
@@ -450,7 +450,7 @@
 # texttype = Ouvrages de recherche
 1	É	É	?	_	_	_	_	_	Gloss=R|Morph=4
 2	oen	COP	?	_	_	_	_	_	Gloss=étais
-3	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	choñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 5	get-n-eign	gant	?	_	_	_	_	_	Gloss=avec
 6	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
@@ -486,7 +486,7 @@
 6	'	kaout	?	_	_	_	_	_	Gloss=avait
 7	n-oa	n-oa	?	_	_	_	_	_	Gloss=?
 8	c'hoantet	c'hoant.-aat	?.verbe	_	_	_	_	_	Gloss=envie.é
-9	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+9	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 10	em	em	?	_	_	_	_	_	Gloss=?
 11	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 12	war	war	?	_	_	_	_	_	Gloss=sur
@@ -505,7 +505,7 @@
 5	eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	gaouenn	kaouenn	nom	_	_	_	_	_	Gloss=chouette|Morph=1
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	kaozeal	kaozeal	verbe	_	_	_	_	_	Gloss=parler
 10	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

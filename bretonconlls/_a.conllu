@@ -30,7 +30,7 @@
 6	lec'h	lec'h	?	_	_	_	_	_	Gloss=?
 7	ar	art	?	_	_	_	_	_	Gloss=le
 8	foar	foar	nom	_	_	_	_	_	Gloss=foire
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	kôc'ha	kaoc'h	?	_	_	_	_	_	Gloss=merde
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -42,7 +42,7 @@
 2	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
 3	welen	gwelout	verbe	_	_	_	_	_	Gloss=voyais
 4	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	vazata	bazh.-ad	nom.?	_	_	_	_	_	Gloss=bâton.at
 7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 8	gazeg	kazeg	?	_	_	_	_	_	Gloss=jument
@@ -54,7 +54,7 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	E	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	E	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	vannika	banne.vannika	?.?	_	_	_	_	_	Gloss=verre.DIM
 3	eur	COP.IMP	?.?	_	_	_	_	_	Gloss=est.on
 4	bet	bet	?	_	_	_	_	_	Gloss=été

@@ -90,7 +90,7 @@
 1	bgcolor=#90FF80|Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
 2	euz	eus	?	_	_	_	_	_	Gloss=de
 3	pesketerien	pesk.-ed(PL.).-erien	nom.?.?	_	_	_	_	_	Gloss=poisson.s.eurs
-4	Treboul	nompropre	?	_	_	_	_	_	Gloss=Treboul
+4	Treboul	[nompropre	?	_	_	_	_	_	Gloss=Treboul
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 6	zo	COP	?	_	_	_	_	_	Gloss=est
 7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
@@ -207,7 +207,7 @@
 # text_fr = 'Les enfants qui ne sont pas tombés, l'homme les connaît.'
 # source = M-L.B (10/2018)
 1	bgcolor=#8E80FF|	art	?	_	_	_	_	_	Gloss=le
-2	Ar	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	Ar	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	vugale	vugale	?	_	_	_	_	_	Gloss=ne
 4	n’int	COP	?	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas

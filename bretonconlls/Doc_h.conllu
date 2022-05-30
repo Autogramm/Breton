@@ -135,7 +135,7 @@
 # texttype = Ouvrages de recherche
 1	'	eman	?	_	_	_	_	_	Gloss=suis
 2	Maon	Maon	?	_	_	_	_	_	Gloss=?
-3	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4			PUNCT	_	_	_	_	Gloss=punct
 5	tont	tont	?	_	_	_	_	_	Gloss=?
 6	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
@@ -270,7 +270,7 @@
 8	a	hapa	préposition	_	_	_	_	_	Gloss=quand
 9	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 10	oa	COP	?	_	_	_	_	_	Gloss=était
-11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	man	POP	?	_	_	_	_	_	Gloss=me
 13	deveriñ..	deveriñ..	?	_	_	_	_	_	Gloss=V
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

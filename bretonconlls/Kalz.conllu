@@ -83,7 +83,7 @@
 2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	ur	art	?	_	_	_	_	_	Gloss=un
 4	c'halbennad	c'halbennad.c'halbennad.pennad	?.?.nom	_	_	_	_	_	Gloss=5.1.moment
-5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
 7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 8	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
@@ -260,7 +260,7 @@
 6	beza	bezañ	?	_	_	_	_	_	Gloss=être
 7	dre	dre	préposition	_	_	_	_	_	Gloss=par
 8	aman	amañ	?	_	_	_	_	_	Gloss=ici
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 11	douar	douar	nom	_	_	_	_	_	Gloss=terre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -316,7 +316,7 @@
 # text = O labourad kalz eo savet da binvidig.
 # text_fr = 'Il/elle est devenu(e) riche en travaillant beaucoup.'
 # source = Fave (1998:133)
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
 3	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
 4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est

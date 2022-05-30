@@ -21,7 +21,7 @@
 # text_phon = ['[ pe vɛɤ', 'l̥abuˑɤ_ǝ_ ]', '/', '[ pe ɤɛɤ', 'laˑb_ǝ_ɤ ]']
 1	pa	pa	complémenteur	_	_	_	_	_	Gloss=1
 2	vezer	vez.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 5	??	??	?	_	_	_	_	_	Gloss=
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -317,7 +317,7 @@
 7	(komprenet)	kompren	verbe	_	_	_	_	_	Gloss=compris
 8	e	e	?	_	_	_	_	_	Gloss=3SG
 9	noa	kaout	?	_	_	_	_	_	Gloss=avait
-10	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+10	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 11	em	em	?	_	_	_	_	_	Gloss=?
 12	dromplet	dromplet	?	_	_	_	_	_	Gloss=trompé
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -580,7 +580,7 @@
 5	get	gant	?	_	_	_	_	_	Gloss=avec
 6	gargouilhennoù	-ennoù	nom	_	_	_	_	_	Gloss=s
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+8	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
 11	vankahe	mankout	verbe	_	_	_	_	_	Gloss=manquerait
@@ -658,7 +658,7 @@
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
 3	all	all	?	_	_	_	_	_	Gloss=autre
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 7	yafen	mont	verbe	_	_	_	_	_	Gloss=irait

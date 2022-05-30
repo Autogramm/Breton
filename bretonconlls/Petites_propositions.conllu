@@ -37,7 +37,7 @@
 # source = Jestin (2006)
 # texttype = Références de corpus
 1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 4	gant	gant	?	_	_	_	_	_	Gloss=avec
 5	an	art	?	_	_	_	_	_	Gloss=le
@@ -90,7 +90,7 @@
 2	paotred	paotr	nom	_	_	_	_	_	Gloss=gars
 3	o	POSS	?	_	_	_	_	_	Gloss=leur
 4	ognon	ognon	nom	_	_	_	_	_	Gloss=oignons
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 7	brezoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
 8	gwasa	gwashañ	adjectif	_	_	_	_	_	Gloss=pire
@@ -120,7 +120,7 @@
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	yér	yar.plurielinterne	nom.?	_	_	_	_	_	Gloss=poule.s
-7	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	tiskrabellat	tiskrabellat	?	_	_	_	_	_	Gloss=gratter
 9	al	art	?	_	_	_	_	_	Gloss=le
 10	leurenn	leurenn	nom	_	_	_	_	_	Gloss=sol
@@ -306,7 +306,7 @@
 # text_fr = 'A mal enfourner, on fait des pains biscornus.'
 # source = Abalain (2001)
 # texttype = Références de corpus
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	droug-ifornañ	droug-	?	_	_	_	_	_	Gloss=mal-
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	e	e	?	_	_	_	_	_	Gloss=R
@@ -378,7 +378,7 @@
 # source = Kerrain (2010)
 # texttype = Ouvrages pédagogiques
 1	Emeur	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 4	[	[	?	_	_	_	_	_	Gloss=
 5	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui

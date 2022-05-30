@@ -216,7 +216,7 @@
 4	penaus	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	em	kavout	verbe	_	_	_	_	_	Gloss=trouve
 9	gav.	gav.	?	_	_	_	_	_	Gloss=?
 
@@ -317,7 +317,7 @@
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=ket
 4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 5	neus	kaout	?	_	_	_	_	_	Gloss=a
-6	(lennet)	lenn(V.).-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
+6	(lennet)	lenn(V.).[-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
 7	al	art	?	_	_	_	_	_	Gloss=le
 8	levr	levr	nom	_	_	_	_	_	Gloss=livre
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -464,7 +464,7 @@
 9	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
 10	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
 11	deus	kaout	?	_	_	_	_	_	Gloss=a
-12	lennet	lenn(V.).-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
+12	lennet	lenn(V.).[-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
 13	al	art	?	_	_	_	_	_	Gloss=le
 14	levr	levr	nom	_	_	_	_	_	Gloss=livre
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -482,7 +482,7 @@
 6	'	ha(g)	?	_	_	_	_	_	Gloss=si
 7	'	'	?	_	_	_	_	_	Gloss=?
 8	ha	ha	?	_	_	_	_	_	Gloss=?
-9	lennet	lenn(V.).-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
+9	lennet	lenn(V.).[-et(Adj.)	?.?	_	_	_	_	_	Gloss=l.u
 10	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
 11	deus	kaout	?	_	_	_	_	_	Gloss=a
 12	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
@@ -616,8 +616,8 @@
 # text_phon = ['[bødepət', '', 'a', 'mə yɛ bɛmdø', 'a: ma_m_ belo', 'dər labur]']
 1	bout	Bezañpréverbal	?	_	_	_	_	_	Gloss=être
 2	eh	eh	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	bet	bet	?	_	_	_	_	_	Gloss=eu
+3	eus	[ezeus	?	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=?
 5	ha	ha	?	_	_	_	_	_	Gloss=C
 6	me	pfi	?	_	_	_	_	_	Gloss=moi
 7	'	mont	verbe	_	_	_	_	_	Gloss=allait
@@ -947,7 +947,7 @@
 4	zo	zo	?	_	_	_	_	_	Gloss=y.a
 5	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
 6	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	em	laoskel	?	_	_	_	_	_	Gloss=lâcher
 9	laosk	laosk	?	_	_	_	_	_	Gloss=?
 10	ive	ivez	adverbe	_	_	_	_	_	Gloss=aussi
@@ -1075,7 +1075,7 @@
 8	eus	kaout	?	_	_	_	_	_	Gloss=ai
 9	komprenet	kompren.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=compr.is
 10	edo	COP	?	_	_	_	_	_	Gloss=était
-11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 13	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 14	benturiñ	benturiñ	?	_	_	_	_	_	Gloss=peindre
@@ -1262,7 +1262,7 @@
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	eno	eno	?	_	_	_	_	_	Gloss=y
 5	ha	ha	?	_	_	_	_	_	Gloss=[[hapa|et
-6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]]
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]
 7	vefes	COP	?	_	_	_	_	_	Gloss=serais
 8	kaloneg	kaloneg	?	_	_	_	_	_	Gloss=courageux
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -1278,7 +1278,7 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	noz	noz	nom	_	_	_	_	_	Gloss=nuit
-6	a	hapa	?	_	_	_	_	_	Gloss=quand]|Morph=1
+6	a	hapa	?	_	_	_	_	_	Gloss=quand|Morph=1
 7	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 8	zegouezhont	degouezhout	verbe	_	_	_	_	_	Gloss=arrivent
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

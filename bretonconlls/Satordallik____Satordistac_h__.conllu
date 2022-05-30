@@ -5,7 +5,7 @@
 # texttype = Références de corpus
 1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
 2	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
-3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]]
+3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	zo	?	_	_	_	_	_	Gloss=?
 6	'	mont	verbe	_	_	_	_	_	Gloss=aller
@@ -26,7 +26,7 @@
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[plurielinterne|s]|Morph=5
+6	c'hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[plurielinterne|s|Morph=5
 7	memes	memestra	adverbe	_	_	_	_	_	Gloss=quand.même
 8	tra	tra	nom	_	_	_	_	_	Gloss=?
 9	?!!	?!!	?	_	_	_	_	_	Gloss=?
@@ -37,7 +37,7 @@
 # source = Moulleg (1978)
 # texttype = Références de corpus
 1	Satordallik	Satordallik	?	_	_	_	_	_	Gloss=[[satordallik!|Mince
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Gervel	gervel	?	_	_	_	_	_	Gloss=appeler
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
@@ -53,7 +53,7 @@
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Satordallik	Satordallik	?	_	_	_	_	_	Gloss=[[satordallik!|Mince
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ar	art	?	_	_	_	_	_	Gloss=le
 5	patrom	patrom	?	_	_	_	_	_	Gloss=patron
@@ -63,7 +63,7 @@
 9	penn	penn	nom	_	_	_	_	_	Gloss=tête
 10	outañ	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 11	'	'	?	_	_	_	_	_	Gloss=[['@vat!|
-12	vat	vat	?	_	_	_	_	_	Gloss=!]]]
+12	vat	vat	?	_	_	_	_	_	Gloss=!]]
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:33)__1
@@ -72,7 +72,7 @@
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	Satordallik	Satordallik	?	_	_	_	_	_	Gloss=[[satordallik!|Saperlipopette
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
 5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est

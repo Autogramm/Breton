@@ -41,7 +41,7 @@
 6	e	P.e	?	_	_	_	_	_	Gloss=en
 7	Breizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
 
-# sent_id = Standard,Kerrain(2001)__2
+# sent_id = Standard,Kerrain(2001)__1
 # text = N'eus ket bet kangouroued e Breizh biskoazh.
 # text_fr = 'Il n'y a jamais eu de kangourous en Bretagne.'
 # source = Kerrain (2001)
@@ -76,7 +76,7 @@
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Gros(1984:16)__2
+# sent_id = Gros(1984:16)__1
 # text = N'am eus ket gwelet biskoaz { pez / tra } evel an dra-mañ.
 # text_fr = 'Je n'ai jamais vu un être comme cet être-ci.'
 # source = Gros (1984)
@@ -162,7 +162,7 @@
 4	eus	kaout	?	_	_	_	_	_	Gloss=a
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 6	den	nomsnus	nom	_	_	_	_	_	Gloss=homme
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	c'hoarzhin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
 9	evelti	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.elle
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -221,7 +221,7 @@
 8	biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Menard&Kadored(2001:'biskoazh')__2
+# sent_id = Menard&Kadored(2001:'biskoazh')__1
 # text = Gwelet a ran ez out ken yac'h ha biskoazh.
 # text_fr = 'Je vois que tu es en meilleure santé que jamais.'
 # source = Menard & Kadored (2001)

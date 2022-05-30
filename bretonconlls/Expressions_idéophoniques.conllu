@@ -41,7 +41,7 @@
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 9	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
-10	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 11	tivorenniñ	di-,dis-.morenn.-iñ	?.nom.?	_	_	_	_	_	Gloss=dé.brouillard.er
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -78,7 +78,7 @@
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	'	'	?	_	_	_	_	_	Gloss=[[Ocxxxhola!|Ohlala
-2	C'	C'	?	_	_	_	_	_	Gloss=!]]]
+2	C'	C'	?	_	_	_	_	_	Gloss=!]]
 3	hola	hola	?	_	_	_	_	_	Gloss=?
 4	'	'	?	_	_	_	_	_	Gloss=?
 5	vat	vat	?	_	_	_	_	_	Gloss=?
@@ -114,7 +114,7 @@
 # source = Lozach (2014)
 1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
 2	visen	COP	?	_	_	_	_	_	Gloss=étais
-3	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	peukad	peukad	?	_	_	_	_	_	Gloss=tousser
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
@@ -164,7 +164,7 @@
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
 8	un	art	?	_	_	_	_	_	Gloss=un
 9	taol	taol	?	_	_	_	_	_	Gloss=[[taol,an
-10	}	}	?	_	_	_	_	_	Gloss=taol|coup]]]
+10	}	}	?	_	_	_	_	_	Gloss=taol|coup]]
 11	hi	pfi	?	_	_	_	_	_	Gloss=elle
 12	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
@@ -212,7 +212,7 @@
 12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 13	un	art	?	_	_	_	_	_	Gloss=un
 14	taol	taol	?	_	_	_	_	_	Gloss=[[taol,an
-15			?	_	_	_	_	_	Gloss=taol|coup]]]
+15			?	_	_	_	_	_	Gloss=taol|coup]]
 16	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__18
@@ -357,7 +357,7 @@
 7	hont	particuleo	?	_	_	_	_	_	Gloss=à
 8	roud	mont	verbe	_	_	_	_	_	Gloss=aller
 9	nor	rut	?	_	_	_	_	_	Gloss=route
-10	gass	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+10	gass	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 11	ar	kas	verbe	_	_	_	_	_	Gloss=envoyer
 12	liñsen...	liñsen...	?	_	_	_	_	_	Gloss=?
 
@@ -400,7 +400,7 @@
 12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
 13	un	art	?	_	_	_	_	_	Gloss=un
 14	taol	taol	?	_	_	_	_	_	Gloss=[[taol,an
-15			?	_	_	_	_	_	Gloss=taol|coup]]]
+15			?	_	_	_	_	_	Gloss=taol|coup]]
 16	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elegoet(1975:13)__1
@@ -474,7 +474,7 @@
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oamp	COP	?	_	_	_	_	_	Gloss=étions
 3	a-zevri	a-zevri	adverbe	_	_	_	_	_	Gloss=exprès
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	lampat	lampat	?	_	_	_	_	_	Gloss=sauter
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber

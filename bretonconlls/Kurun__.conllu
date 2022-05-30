@@ -71,9 +71,9 @@
 # texttype = Références de corpus
 1	Tri	cardinal	?	_	_	_	_	_	Gloss=trois
 2	mil	cardinal	?	_	_	_	_	_	Gloss=mille
-3	boulc'hurun	kurun!	?	_	_	_	_	_	Gloss=tonnerre]|Morph=5
+3	boulc'hurun	kurun!	?	_	_	_	_	_	Gloss=tonnerre|Morph=5
 4	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
-5	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]]
+5	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:60)__1
@@ -85,7 +85,7 @@
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
 4	emaoc'h	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=êtes
-5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=1
+5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=1
 6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
 7	aze	aze	?	_	_	_	_	_	Gloss=là
 8	?	?	PUNCT	_	_	_	_	Gloss=punct

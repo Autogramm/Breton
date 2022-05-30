@@ -3,7 +3,7 @@
 # text_fr = 'A mal enfourner, on fait des pains biscornus.'
 # source = Abalain (2001)
 # texttype = Références de corpus
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	droug-ifornañ,	droug-ifornañ,	?	_	_	_	_	_	Gloss=?
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
@@ -37,7 +37,7 @@
 1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	troukkomz	komz	verbe	_	_	_	_	_	Gloss=parler
 6	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
 7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1

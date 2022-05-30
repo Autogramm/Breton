@@ -6,7 +6,7 @@
 # texttype = Références de corpus
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 6	zimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
@@ -19,7 +19,7 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	Na	ne,na	?	_	_	_	_	_	Gloss=ne]|Morph=1
+1	Na	ne,na	?	_	_	_	_	_	Gloss=ne|Morph=1
 2	gemerit	kemer	verbe	_	_	_	_	_	Gloss=prenez
 3	két	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	an	art	?	_	_	_	_	_	Gloss=le
@@ -92,7 +92,7 @@
 # text_fr = 'Je songeais en moi-même.'
 1	É	É	?	_	_	_	_	_	Gloss=R
 2	oen	COP	?	_	_	_	_	_	Gloss=étais
-3	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	choñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 5	get-n-eign	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
 6	me	POSS	?	_	_	_	_	_	Gloss=mon
@@ -167,6 +167,6 @@
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
 13	??	??	?	_	_	_	_	_	Gloss=_]
 14	?	?	PUNCT	_	_	_	_	Gloss=punct
-15	da	da-laras.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=àdit.lui
+15	da	da-laras.[pronomincorporé	préposition.?	_	_	_	_	_	Gloss=àdit.lui
 16	laras-añ	laras-añ	?	_	_	_	_	_	Gloss=?
 17	!	!	PUNCT	_	_	_	_	Gloss=punct

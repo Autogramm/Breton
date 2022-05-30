@@ -2,7 +2,7 @@
 # text = Tregont vloaz a-raok e oa anezhi [ ur gaer a blac'h faro ].
 # text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
 # source = Abeozen (1986)
-1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente]|Morph=1
+1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente|Morph=1
 2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
 4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
@@ -240,14 +240,14 @@
 # texttype = Références de corpus
 1	Evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	baotred,	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+3	baotred,	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 4	[	[	?	_	_	_	_	_	Gloss=?
 5	penn	penn	nom	_	_	_	_	_	Gloss=tête
 6	zod	sod	nom	_	_	_	_	_	Gloss=sot
 7	ahanoh	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
 8	],	],	?	_	_	_	_	_	Gloss=?
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	baotred..	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+10	baotred..	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBarzhig(1976:44)__1

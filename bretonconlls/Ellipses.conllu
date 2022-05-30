@@ -129,7 +129,7 @@
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	Piou	piv	pronom	_	_	_	_	_	Gloss=qui
 4	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
-5	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]]
+5	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 6	]	]	?	_	_	_	_	_	Gloss=]
 7	_['	COP	?	_	_	_	_	_	Gloss=est
 8	'	'	?	_	_	_	_	_	Gloss=?
@@ -423,7 +423,7 @@
 8	'	'	?	_	_	_	_	_	Gloss=?
 9	]_	]_	?	_	_	_	_	_	Gloss=?
 10	amañ	ads	?	_	_	_	_	_	Gloss=ici
-11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	leinañ	lein.-añ(V.)	nom.?	_	_	_	_	_	Gloss=déjeun.er
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -469,7 +469,7 @@
 11	rahe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
 12	èltoñ	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.lui
 13	a	a	préposition	_	_	_	_	_	Gloss=[[hapa|et
-14	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]]
+14	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]
 15	vehent	COP	?	_	_	_	_	_	Gloss=seraient
 16	lezet..	lezel	?	_	_	_	_	_	Gloss=laissé
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -516,8 +516,8 @@
 # text_phon = ['[ bødepət', '', 'a', 'mə yɛ bɛmdø', 'a: ma_m_ belo', 'dər labur ]']
 1	bout	Bezañpréverbal	?	_	_	_	_	_	Gloss=être
 2	eh	eh	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	bet	bet	?	_	_	_	_	_	Gloss=été
+3	eus	[ezeus	?	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=?
 5	_['	art	?	_	_	_	_	_	Gloss=un
 6	'	amzer	nom	_	_	_	_	_	Gloss=temps
 7	ø'	ø'	?	_	_	_	_	_	Gloss=?
@@ -752,7 +752,7 @@
 4	zo	zo	?	_	_	_	_	_	Gloss=y.a
 5	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
 6	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	em	em	?	_	_	_	_	_	Gloss=?
 9	laosk	laoskel	?	_	_	_	_	_	Gloss=lâcher
 10	_['	_['	?	_	_	_	_	_	Gloss=?
@@ -985,7 +985,7 @@
 6	bet	kaout	?	_	_	_	_	_	Gloss=eu
 7	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 8	ayayaylh	ayayaylh	?	_	_	_	_	_	Gloss=[[Aiou!|aîeaïeaïe
-9			?	_	_	_	_	_	Gloss=!]]]
+9			?	_	_	_	_	_	Gloss=!]]
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 11	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 12	vouefes	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
@@ -1276,7 +1276,7 @@
 16	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 17	ezomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 18	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-19	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+19	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 20	em	em	?	_	_	_	_	_	Gloss=servir
 21	servicha	servicha	?	_	_	_	_	_	Gloss=?
 22	diouz	diouzh	préposition	_	_	_	_	_	Gloss=de

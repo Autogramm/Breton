@@ -296,7 +296,7 @@
 # text_fr = 'J'allais acheter l'autre.'
 # text_phon = ['/vaɲ', 'fon', 'da', 'ˌbre:na', 'ãn', '', "'@al/"]
 1	'	COP	?	_	_	_	_	_	Gloss=étais
-2	Oan	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	Oan	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	o	o	?	_	_	_	_	_	Gloss=?
 4	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
@@ -313,7 +313,7 @@
 2	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
 3	ur	art	?	_	_	_	_	_	Gloss=un
 4	c'hozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux|Morph=5
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	kontañ	kontañ	verbe	_	_	_	_	_	Gloss=conter
 7	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
 8	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
@@ -452,7 +452,7 @@
 3	bet)	bet)	?	_	_	_	_	_	Gloss=?
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	neus	kaout	?	_	_	_	_	_	Gloss=a
 8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 9	ar	art	?	_	_	_	_	_	Gloss=le

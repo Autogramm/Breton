@@ -62,7 +62,7 @@
 1	/ag	&./ag.COP	?.?.?	_	_	_	_	_	Gloss=et.R.était
 2	əfəze	əfəze	?	_	_	_	_	_	Gloss=?
 3	əndrow	əndrow	?	_	_	_	_	_	Gloss=de.retour
-4	exarmiɲ/	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	exarmiɲ/	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 
 # sent_id = Denez(1993:27)__1
 # text = yezh an dud a gleven o komz en-dro din pa oan yaounank.
@@ -74,7 +74,7 @@
 3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
 4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 5	gleven	klevout	verbe	_	_	_	_	_	Gloss=entendais
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 8	en-dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
 9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
@@ -165,7 +165,7 @@
 # texttype = Références de corpus
 1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
 2	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
-3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]]
+3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	zo	?	_	_	_	_	_	Gloss=?
 6	'	mont	verbe	_	_	_	_	_	Gloss=aller

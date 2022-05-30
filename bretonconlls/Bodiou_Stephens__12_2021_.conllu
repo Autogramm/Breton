@@ -192,7 +192,7 @@
 # text_fr = 'Vos pommes, c'est pas dangereux de les manger ?'
 # location = Bulien
 1	Hoc'h	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
-2	awalo-dec'h	aval.-où(PL.).da.pronomincorporé	nom.?.préposition.?	_	_	_	_	_	Gloss=pomme.s.à.vous
+2	awalo-dec'h	aval.-où(PL.).da.[pronomincorporé	nom.?.préposition.?	_	_	_	_	_	Gloss=pomme.s.à.vous
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	an	art	?	_	_	_	_	_	Gloss=le
 5	dibi	debriñ	verbe	_	_	_	_	_	Gloss=manger
@@ -258,7 +258,7 @@
 # text_fr = 'Yew, il m'a mis la main aux fesses.' (dégoût)
 # location = Bulien
 1	Heuc'h	Heuc'h	?	_	_	_	_	_	Gloss=[[Heucxxxh!|Yew
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Hag	&	?	_	_	_	_	_	Gloss=et
 5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
@@ -372,7 +372,7 @@
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
 8	un	art	?	_	_	_	_	_	Gloss=un
 9	taol	taol	?	_	_	_	_	_	Gloss=[[taol,an
-10	}	}	?	_	_	_	_	_	Gloss=taol|coup]]]
+10	}	}	?	_	_	_	_	_	Gloss=taol|coup]]
 11	hi	pfi	?	_	_	_	_	_	Gloss=elle
 12	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1

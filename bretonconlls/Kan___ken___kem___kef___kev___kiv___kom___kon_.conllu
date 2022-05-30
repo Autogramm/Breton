@@ -68,7 +68,7 @@
 4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 5	brena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
 6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-7	henwerziou	ken-	?	_	_	_	_	_	Gloss=com-]]_[[1]]_.[[gwerzhañ|vente]].[[-ioù(PL.)|s]|Morph=5
+7	henwerziou	ken-	?	_	_	_	_	_	Gloss=com-]]_[[1]]_.[[gwerzhañ|vente]].[[-ioù(PL.)|s|Morph=5
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1922:347)__6
@@ -92,7 +92,7 @@
 # text = Em gavet a ran get kenseurted, amezeion.
 # text_fr = 'Je me retrouve avec mes pareils, des voisins.'
 # source = Herrieu (1994)
-1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	Em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	gavet	kavout	verbe	_	_	_	_	_	Gloss=trouver
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais

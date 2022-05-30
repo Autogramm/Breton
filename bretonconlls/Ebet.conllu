@@ -16,7 +16,7 @@
 9	greisteiz	greisteiz.deiz	?.nom	_	_	_	_	_	Gloss=kreiz.midi
 10	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 11	ar	art	?	_	_	_	_	_	Gloss=le
-12	wazed	gwaz	?	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+12	wazed	gwaz	?	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = German(2007:177)__1
@@ -77,7 +77,7 @@
 3	bet	bet	?	_	_	_	_	_	Gloss=?
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	neus	kaout	?	_	_	_	_	_	Gloss=a
 8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 9	ar	art	?	_	_	_	_	_	Gloss=le
@@ -191,7 +191,7 @@
 # sent_id = Giraudon (2014:15) __1
 # text = Teir blac'h e oant, merc'hed ar Boujant, oa hini ebet dimeet deusonte...
 # text_fr = ...et elles vivaient là et faisaient des sabots pendant la journée.
-1	Teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois]|Morph=1
+1	Teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois|Morph=1
 2	blac'h	plac'h	?	_	_	_	_	_	Gloss=fille
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	oant	COP	?	_	_	_	_	_	Gloss=étaient
@@ -434,7 +434,7 @@
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	kleuet	klevout	verbe	_	_	_	_	_	Gloss=entendre
 7	er	art	?	_	_	_	_	_	Gloss=le
-8	hlehier	kloc'h	?	_	_	_	_	_	Gloss=cloche]].[[-ier(PL.)|s]|Morph=5
+8	hlehier	kloc'h	?	_	_	_	_	_	Gloss=cloche]].[[-ier(PL.)|s|Morph=5
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:197)__1

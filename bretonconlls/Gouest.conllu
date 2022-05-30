@@ -68,7 +68,7 @@
 # text_fr = 'Me défendre contre un ennemi caché, je ne sais pas faire... '
 # source = Beyer (2009)
 # texttype = Références de corpus
-1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	Em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	zifenn	difenn	verbe	_	_	_	_	_	Gloss=défendre
 3	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=de
 4	un	art	?	_	_	_	_	_	Gloss=un
@@ -107,7 +107,7 @@
 # texttype = Ouvrages de recherche
 1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 2	vijes	COP	?	_	_	_	_	_	Gloss=serais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 5	kanetennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
 6	[...],	[...],	?	_	_	_	_	_	Gloss=?

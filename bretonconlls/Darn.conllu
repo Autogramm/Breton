@@ -18,7 +18,7 @@
 # text_fr = 'en grillant des châtaignes entamées' (au couteau)
 # source = Riou (1941)
 # texttype = Références de corpus
-1	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+1	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 2	eur	eur	nom	_	_	_	_	_	Gloss=?
 3	graza	krazañ	nom	_	_	_	_	_	Gloss=griller
 4	kistin	kistin	nom	_	_	_	_	_	Gloss=châtaignes
@@ -77,7 +77,7 @@
 4	zo	zo	?	_	_	_	_	_	Gloss=y.a
 5	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
 6	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	em	laoskel	?	_	_	_	_	_	Gloss=lâcher
 9	laosk	laosk	?	_	_	_	_	_	Gloss=?
 10	ive	ivez	adverbe	_	_	_	_	_	Gloss=aussi
@@ -103,7 +103,7 @@
 13	all	all	?	_	_	_	_	_	Gloss=autre
 14	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 15	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
-16	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+16	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 17	tiwall	diwall	verbe	_	_	_	_	_	Gloss=garder
 18	ar	art	?	_	_	_	_	_	Gloss=le
 19	saout..	saout	nom	_	_	_	_	_	Gloss=vaches

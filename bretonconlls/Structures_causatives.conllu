@@ -6,7 +6,7 @@
 # texttype = Élicitations
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 6	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
@@ -34,7 +34,7 @@
 # text = a pa zas an Aotrou d'ober  skarzhiñ ar gambr...
 # text_fr = '... quand le propriétaire vint faire libérer la chambre'
 # source = Ar Meliner (2009)
-1	a	hapa	?	_	_	_	_	_	Gloss=quand]|Morph=1
+1	a	hapa	?	_	_	_	_	_	Gloss=quand|Morph=1
 2	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 3	zas	dont	verbe	_	_	_	_	_	Gloss=vint
 4	an	art	?	_	_	_	_	_	Gloss=le
@@ -77,7 +77,7 @@
 # source = Herrieu (1915-19)
 # texttype = Références de corpus
 1	Ar	Ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
-2	pezh	pezh	?	_	_	_	_	_	Gloss=que]]]
+2	pezh	pezh	?	_	_	_	_	_	Gloss=que]]
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
@@ -235,7 +235,7 @@
 8	??	??	?	_	_	_	_	_	Gloss=[
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 10	ar	art	?	_	_	_	_	_	Gloss=le
-11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 12	c'hoarzhin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
 13	].	].	?	_	_	_	_	_	Gloss=?
 
@@ -387,7 +387,7 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Hi	pfi	?	_	_	_	_	_	Gloss=elle
-2	hum	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	hum	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 3	lak	lakaat	verbe	_	_	_	_	_	Gloss=met
 4	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
 5	greinein	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=trembler
@@ -459,7 +459,7 @@
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	'	lezel	?	_	_	_	_	_	Gloss=laissez
 4	'	'	?	_	_	_	_	_	Gloss=d'@un
-5	laoskit'	laoskit'	?	_	_	_	_	_	Gloss=impératif|moi]]]
+5	laoskit'	laoskit'	?	_	_	_	_	_	Gloss=impératif|moi]]
 6	'	'	?	_	_	_	_	_	Gloss=?
 7	-me	-me	?	_	_	_	_	_	Gloss=?
 8	vonet	mont	verbe	_	_	_	_	_	Gloss=aller
@@ -528,6 +528,6 @@
 1	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
 2	kerc'hat	kerc'hat	?	_	_	_	_	_	Gloss=chercher
 3	Ar	Ar	?	_	_	_	_	_	Gloss=[[nompropre|Ar
-4	Prad	Prad	nom	_	_	_	_	_	Gloss=Prat]]]
+4	Prad	Prad	nom	_	_	_	_	_	Gloss=Prat]]
 5	aman	amañ	?	_	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

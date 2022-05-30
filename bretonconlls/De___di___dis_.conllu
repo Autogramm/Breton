@@ -5,7 +5,7 @@
 # location = Tréguier
 # source = Ar Moal (1902)
 # texttype = Références de corpus
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	tislavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 3	kement-se	kement.se	quantifieur-déterminant.pronom	_	_	_	_	_	Gloss=autant.ça
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -38,7 +38,7 @@
 # source = Hor Yezh
 1	Roll	roll	?	_	_	_	_	_	Gloss=liste
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x]|Morph=5
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x|Morph=5
 4	brezhonek	brezhonek	?	_	_	_	_	_	Gloss=breton
 5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
 6	dibenn	dibenn.penn	?.nom	_	_	_	_	_	Gloss=1.fin
@@ -96,7 +96,7 @@
 2	doc'h	diouzh	préposition	_	_	_	_	_	Gloss=à
 3	ar	art	?	_	_	_	_	_	Gloss=le
 4	yér	yar.plurielinterne	nom.?	_	_	_	_	_	Gloss=poule.s
-5	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	tiskrabellat	skrabellat	verbe	_	_	_	_	_	Gloss=gratter
 7	al	art	?	_	_	_	_	_	Gloss=le
 8	leurenn	leurenn	nom	_	_	_	_	_	Gloss=sol
@@ -123,7 +123,7 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	an	art	?	_	_	_	_	_	Gloss=le
-2	defotadou	de-.faotañ.-ach,-aj.-où(PL.)	?.verbe.?.?	_	_	_	_	_	Gloss=pfx.faut.N.PL
+2	defotadou	de-.faotañ.-ach,-aj.[-où(PL.)	?.verbe.?.?	_	_	_	_	_	Gloss=pfx.faut.N.PL
 3	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 4	sizun:	sizhun	nom	_	_	_	_	_	Gloss=semaine
 5	sukr	sukr	nom	_	_	_	_	_	Gloss=sucre

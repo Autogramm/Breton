@@ -22,7 +22,7 @@
 4	Gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
 5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	!...	!...	?	_	_	_	_	_	Gloss=?
-7	Diverc'hiet	di-,dis-	?	_	_	_	_	_	Gloss=dé]|Morph=1
+7	Diverc'hiet	di-,dis-	?	_	_	_	_	_	Gloss=dé|Morph=1
 8	on	COP	?	_	_	_	_	_	Gloss=suis
 9	...	...	PUNCT	_	_	_	_	Gloss=punct
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -35,7 +35,7 @@
 1	a-vec'h	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
 2	em	em	?	_	_	_	_	_	Gloss=R
 3	oa	kaout	?	_	_	_	_	_	Gloss=avait
-4	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+4	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 5	vloaz…	bloaz	nom	_	_	_	_	_	Gloss=an
 
 # sent_id = Briant-Cadiou(1998:34)__1
@@ -103,7 +103,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	veze	COP	?	_	_	_	_	_	Gloss=était
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	genaouajou	genoù.-ach,-aj.-où(PL.)	nom.?.?	_	_	_	_	_	Gloss=bouche.ée.s
+6	genaouajou	genoù.-ach,-aj.[-où(PL.)	nom.?.?	_	_	_	_	_	Gloss=bouche.ée.s
 7	[...]	[...]	?	_	_	_	_	_	Gloss=
 8	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 9	o-deveze	kaout	?	_	_	_	_	_	Gloss=avaient
@@ -121,7 +121,7 @@
 # texttype = Références de corpus
 1	Beh	Beh	?	_	_	_	_	_	Gloss=peine
 2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	kredi	krediñ	verbe	_	_	_	_	_	Gloss=croire
 5	oa	COP	?	_	_	_	_	_	Gloss=était
 6	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause

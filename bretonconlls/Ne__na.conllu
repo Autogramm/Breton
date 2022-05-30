@@ -167,7 +167,7 @@
 8	boéhieu	boéhieu	?	_	_	_	_	_	Gloss=voix
 9	en	art	complémenteur	_	_	_	_	_	Gloss=le
 10	Eled	ael.-ed(PL.)	?.?	_	_	_	_	_	Gloss=ange.s
-11	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	kañnal	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 13	Peah	peoc'h	?	_	_	_	_	_	Gloss=paix
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -219,7 +219,7 @@
 # source = Morvannou (2011)
 # texttype = Ouvrages de recherche
 1	bet	mont	verbe	_	_	_	_	_	Gloss=été
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	neuñvial	neuial	verbe	_	_	_	_	_	Gloss=nager
 4	nemed	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
 5	ur	art	?	_	_	_	_	_	Gloss=un
@@ -261,7 +261,7 @@
 1	ha	&	?	_	_	_	_	_	Gloss=et
 2	ni	pfi	?	_	_	_	_	_	Gloss=nous
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	vugalez	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	vugalez	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	houlennem	goulenn	verbe	_	_	_	_	_	Gloss=demandions
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas

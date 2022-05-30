@@ -4,7 +4,7 @@
 # source = An Here (2003)
 # texttype = Références de corpus
 1	'	'	?	_	_	_	_	_	Gloss=[['@ta!|donc
-2	ta	ta	?	_	_	_	_	_	Gloss=!]]]
+2	ta	ta	?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
 5	taouarn	duel.dorn	?.nom	_	_	_	_	_	Gloss=deux.main
@@ -165,7 +165,7 @@
 5	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
 6	viot	COP	?	_	_	_	_	_	Gloss=serez
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	kalamarhad	kalamarhad	?	_	_	_	_	_	Gloss=piétiner
 10	an	art	?	_	_	_	_	_	Gloss=le
 11	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
@@ -277,7 +277,7 @@
 4	beke	beke	complémenteur	_	_	_	_	_	Gloss=puisque
 5	'	eman	?	_	_	_	_	_	Gloss=êtes
 6	moc’h	moc’h	?	_	_	_	_	_	Gloss=
-7	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8			PUNCT	_	_	_	_	Gloss=punct
 9	sell'	sellout	verbe	_	_	_	_	_	Gloss=regarder
 10			PUNCT	_	_	_	_	Gloss=punct
@@ -372,7 +372,7 @@
 1	Dastum	dastum	verbe	_	_	_	_	_	Gloss=additionne
 2	pévar	numérauxcardinaux	?	_	_	_	_	_	Gloss=quatre
 3	a	&	préposition	_	_	_	_	_	Gloss=et
-4	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+4	tri	[numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
 5	ag	&	?	_	_	_	_	_	Gloss=et
 6	o	kaout	?	_	_	_	_	_	Gloss=aurez
 7	po	numérauxcardinaux	?	_	_	_	_	_	Gloss=sept

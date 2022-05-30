@@ -105,7 +105,7 @@
 6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
 7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -165,18 +165,18 @@
 # text_fr = 'Il délace ses souliers, dégrafe son manteau et déboutonne sa veste... '
 # source = Le Bozec
 1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tilasa	las.-añ(V.)	nom.?	_	_	_	_	_	Gloss=lac.er
 4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 5	votou-lêr	botez.-où(PL.).ler	nom.?.nom	_	_	_	_	_	Gloss=soulier.s.cuir
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	tiglochedi	tiglochedi	?	_	_	_	_	_	Gloss=dé.agrafer
 9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 10	vantel	mantell	nom	_	_	_	_	_	Gloss=manteau
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
 12	hag	&	?	_	_	_	_	_	Gloss=et
-13	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+13	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 14	tinozelenna	tinozelenna	?	_	_	_	_	_	Gloss=dé.boutonner
 15	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 16	chupenn..	chupenn	?	_	_	_	_	_	Gloss=veste

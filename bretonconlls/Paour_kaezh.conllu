@@ -21,7 +21,7 @@
 5	c'hodell	c'hodell	?	_	_	_	_	_	Gloss=?
 6	en	godell	nom	_	_	_	_	_	Gloss=poche
 7	eur	eur	nom	_	_	_	_	_	Gloss=?
-8	dostaat	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+8	dostaat	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 9	ouz	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.ant
 10	ar	ouzh	préposition	_	_	_	_	_	Gloss=de
 11	paour	art	adjectif	_	_	_	_	_	Gloss=le
@@ -33,7 +33,7 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	Dibennet	di-,dis-	?	_	_	_	_	_	Gloss=dé]|Morph=1
+1	Dibennet	di-,dis-	?	_	_	_	_	_	Gloss=dé|Morph=1
 2	ar	art	?	_	_	_	_	_	Gloss=le
 3	pol	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=?

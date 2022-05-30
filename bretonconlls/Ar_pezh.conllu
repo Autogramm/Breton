@@ -14,7 +14,7 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gazez	kazh	nom	_	_	_	_	_	Gloss=chatt]].[[-ez(F.)|e]|Morph=1
+2	gazez	kazh	nom	_	_	_	_	_	Gloss=chatt]].[[-ez(F.)|e|Morph=1
 3	he-devoa	kaout	?	_	_	_	_	_	Gloss=avait
 4	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
 5	eur	art	nom	_	_	_	_	_	Gloss=un
@@ -104,7 +104,7 @@
 # source = Skol an Emsav (1977)
 # texttype = Références de corpus
 1	Asa	Asa	?	_	_	_	_	_	Gloss=[[interjection|Ehben
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ar	art	?	_	_	_	_	_	Gloss=le
 5	West	nompropre	?	_	_	_	_	_	Gloss=West
@@ -253,7 +253,7 @@
 2	pes	pes	?	_	_	_	_	_	Gloss=que
 3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 4	voant	COP	?	_	_	_	_	_	Gloss=étaient
-5	ô	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	ô	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 8	obér..	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire

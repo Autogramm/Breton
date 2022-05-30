@@ -112,8 +112,8 @@
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
 1	ar	art	?	_	_	_	_	_	Gloss=le
-2	c'helien	kelien	nom	_	_	_	_	_	Gloss=mouche]].[[nomcollectif|s]|Morph=5
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	c'helien	kelien	nom	_	_	_	_	_	Gloss=mouche]].[[nomcollectif|s|Morph=5
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	tigori	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
 5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 6	askellou	askellou	?	_	_	_	_	_	Gloss=ailes
@@ -132,7 +132,7 @@
 # texttype = Ouvrages de recherche
 1	Marg	ma(r)	?	_	_	_	_	_	Gloss=si
 2	edot	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=es
-3	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
 5	tan	tan	nom	_	_	_	_	_	Gloss=feu
 6	,	,	PUNCT	_	_	_	_	Gloss=punct

@@ -37,7 +37,7 @@
 4	penõz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
 5	wa	COP	?	_	_	_	_	_	Gloss=était
 6	Jobéĝ	nompropre	?	_	_	_	_	_	Gloss=Jobig
-7	??	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	??	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 9	võnn	võnn	?	_	_	_	_	_	Gloss=aller
 10	te	da	préposition	_	_	_	_	_	Gloss=pour
@@ -143,7 +143,7 @@
 # text_fr = 'Je suis allée voir une amie ce matin.'
 1	Bet	bet	?	_	_	_	_	_	Gloss=été
 2	on	COP	?	_	_	_	_	_	Gloss=suis
-3	{	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	{	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	o	o	?	_	_	_	_	_	Gloss=/
 5	/	/	PUNCT	_	_	_	_	Gloss=punct
 6	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=?
@@ -303,7 +303,7 @@
 4	merlused	-ed(PL.)	?	_	_	_	_	_	Gloss=s
 5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 8	em	em	?	_	_	_	_	_	Gloss=?
 9	grougañ	grougañ	?	_	_	_	_	_	Gloss=étrangler
 10	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans

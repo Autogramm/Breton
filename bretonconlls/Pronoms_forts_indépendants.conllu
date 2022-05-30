@@ -74,7 +74,7 @@
 # text_phon = ['[ jɔ̃', 'wɛ', 'dɔʁ', 'mǝ', 'hʁogɛ̃ɲ']
 1	Eñ	Eñ	?	_	_	_	_	_	Gloss=lui
 2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	me	POP	?	_	_	_	_	_	Gloss=me|Morph=2
 5	c'hregiñ	kregiñ	verbe	_	_	_	_	_	Gloss=mordre
 
@@ -235,7 +235,7 @@
 1	Int	Int	?	_	_	_	_	_	Gloss=eux
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	vont	vont	?	_	_	_	_	_	Gloss=
 6	d'	mont	verbe	_	_	_	_	_	Gloss=aller
 7	an	an	?	_	_	_	_	_	Gloss=?
@@ -394,7 +394,7 @@
 1	Blam	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
 2	vè	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	hè	hè	?	_	_	_	_	_	Gloss=3PL
-4	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5			PUNCT	_	_	_	_	Gloss=punct
 6	torné.	torné.	?	_	_	_	_	_	Gloss=?
 
@@ -752,7 +752,7 @@
 11	laré,	laré,	?	_	_	_	_	_	Gloss=?
 12	"imeingn	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
 13	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-14	i	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+14	i	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 15	koéh"	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 16	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -840,7 +840,7 @@
 2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
 3	e-unan	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+5	'	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 6	n	kargañ	verbe	_	_	_	_	_	Gloss=chargea
 7	em	em	?	_	_	_	_	_	Gloss=?
 8	gargas	gargas	?	_	_	_	_	_	Gloss=?

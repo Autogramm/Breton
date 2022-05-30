@@ -82,7 +82,7 @@
 # location = Bulien
 # source = Stephens (1982)
 # texttype = Ouvrages de recherche
-1	En	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	En	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	em	em	?	_	_	_	_	_	Gloss=?
 3	goll	koll	verbe	_	_	_	_	_	Gloss=perdre
 4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
@@ -204,7 +204,7 @@
 6	(duarded)	(duarded)	?	_	_	_	_	_	Gloss=?
 7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	meleganed	melen.-eg.-an(Adj.).-ed(PL.)	adjectif.?.?.?	_	_	_	_	_	Gloss=jaune.sfx.sfx.s
+9	meleganed	melen.-eg.-an(Adj.).[-ed(PL.)	adjectif.?.?.?	_	_	_	_	_	Gloss=jaune.sfx.sfx.s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:8)__1

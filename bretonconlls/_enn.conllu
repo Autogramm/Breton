@@ -113,7 +113,7 @@
 6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
 7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -157,7 +157,7 @@
 # text = peder flankenn diblaen.
 # text_fr = 'quatre planches grossières.'
 # source = Herrieu (1994)
-1	peder	numérauxcardinaux	?	_	_	_	_	_	Gloss=quatre]|Morph=2
+1	peder	numérauxcardinaux	?	_	_	_	_	_	Gloss=quatre|Morph=2
 2	flankenn	flankenn	?	_	_	_	_	_	Gloss=planche
 3	diblaen	di-	?	_	_	_	_	_	Gloss=non|Morph=1
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

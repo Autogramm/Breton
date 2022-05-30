@@ -149,7 +149,7 @@
 1	Peziou	pezh	?	_	_	_	_	_	Gloss=morceaux
 2	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=2.oeil
 3	dezo	pronomincorporé	?	_	_	_	_	_	Gloss=eux
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	selled	sellout	verbe	_	_	_	_	_	Gloss=regarder
 6	ouzin-me	ouzh.pronomincorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=à.moi.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -334,7 +334,7 @@
 5	de	de	?	_	_	_	_	_	Gloss=1
 6	huél	gwelout	verbe	_	_	_	_	_	Gloss=voir
 7	Jannig	Jannig	?	_	_	_	_	_	Gloss=[[nompropre|Jeannette
-8	Lukaz	Lukaz	?	_	_	_	_	_	Gloss=Lucas]]]
+8	Lukaz	Lukaz	?	_	_	_	_	_	Gloss=Lucas]]
 9	d	d	?	_	_	_	_	_	Gloss=1
 10	'	art	?	_	_	_	_	_	Gloss=le
 11	en	en	complémenteur	_	_	_	_	_	Gloss=?
@@ -772,7 +772,7 @@
 # source = Seite (1998)
 # texttype = Références de corpus
 1	Ar	Ar	?	_	_	_	_	_	Gloss=[[nompropre|Ar
-2	Pont	Pont	nom	_	_	_	_	_	Gloss=Pont]]]
+2	Pont	Pont	nom	_	_	_	_	_	Gloss=Pont]]
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
 5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
@@ -1091,7 +1091,7 @@
 6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 8	alese	alese	?	_	_	_	_	_	Gloss=[[Adverbesanaphoriques
-9			?	_	_	_	_	_	Gloss=spatiaux|là]]]
+9			?	_	_	_	_	_	Gloss=spatiaux|là]]
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	'	eta	?	_	_	_	_	_	Gloss=donc
 12	ta	ta	?	_	_	_	_	_	Gloss=?
@@ -1111,7 +1111,7 @@
 8	fenn	penn	nom	_	_	_	_	_	Gloss=tête
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ar	art	?	_	_	_	_	_	Gloss=le
-11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 12	da	da	préposition	_	_	_	_	_	Gloss=1
 13	zigeriñ	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
 14	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2

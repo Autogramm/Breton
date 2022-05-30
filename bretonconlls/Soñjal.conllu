@@ -4,7 +4,7 @@
 # source = Gros (1984)
 1	e	e	?	_	_	_	_	_	Gloss=R
 2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
 6	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
@@ -36,7 +36,7 @@
 # dialect = Cornouaillais
 # source = Kersulec (2016)
 # texttype = Ouvrages de recherche
-1	E	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	E	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	choujal	choujal	?	_	_	_	_	_	Gloss=penser
 3	'	eman	?	_	_	_	_	_	Gloss=suis
 4	don	don	adverbe-adjectif	_	_	_	_	_	Gloss=?
@@ -158,7 +158,7 @@
 5	un	art	?	_	_	_	_	_	Gloss=un
 6	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 10	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 11	un	art	?	_	_	_	_	_	Gloss=un
@@ -193,7 +193,7 @@
 # text_phon = ['É oen', 'é choñjal', 'get-n-eign', '', 'me unañ...']
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=P]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=P|Morph=4
 4	soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
 6	ma-unan..	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2

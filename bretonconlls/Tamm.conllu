@@ -10,7 +10,7 @@
 6	an	art	?	_	_	_	_	_	Gloss=le
 7	traoù-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
 8	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-9	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	kouezhel	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 11	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 12	àr-lec'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
@@ -89,7 +89,7 @@
 2	on-oa	kaout	?	_	_	_	_	_	Gloss=avait
 3	bet	kaout	?	_	_	_	_	_	Gloss=eu
 4	boan	poan	nom	_	_	_	_	_	Gloss=peine
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	tïaocha	di-.aod.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dé.grèv.er
 7	ar	art	?	_	_	_	_	_	Gloss=le
 8	pez	pezh	?	_	_	_	_	_	Gloss=pièce
@@ -162,7 +162,7 @@
 # text_fr = 'Le professeur d'histoire religieuse n'était pas (du tout) mieux.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Kelenner	kelenn(V.).-er,-our	?.?	_	_	_	_	_	Gloss=profess.eur
+1	Kelenner	kelenn(V.).[-er,-our	?.?	_	_	_	_	_	Gloss=profess.eur
 2	an	art	?	_	_	_	_	_	Gloss=le
 3	Istor	istor	nom	_	_	_	_	_	Gloss=histoire
 4	Santel	sant.-el(Adj.)	nom.?	_	_	_	_	_	Gloss=saint.e

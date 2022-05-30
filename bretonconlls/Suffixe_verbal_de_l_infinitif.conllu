@@ -10,7 +10,7 @@
 4	kleved	klevout	verbe	_	_	_	_	_	Gloss=entendre
 5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 6	zud	tud	nom	_	_	_	_	_	Gloss=parents
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	lared..	lavarout	verbe	_	_	_	_	_	Gloss=dire
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -56,7 +56,7 @@
 3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
 4	nan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
 5	mennek	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-6	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	tigoueho	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -81,7 +81,7 @@
 # texttype = Références de corpus
 1	Klev	klevout	verbe	_	_	_	_	_	Gloss=entendre
 2	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
 5	m'	kaout	?	_	_	_	_	_	Gloss=a
 6	eus	eus	?	_	_	_	_	_	Gloss=?
@@ -114,7 +114,7 @@
 4	]	]	?	_	_	_	_	_	Gloss=?
 5	ar	art	?	_	_	_	_	_	Gloss=le
 6	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
-7	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	tiver	diverañ	?	_	_	_	_	_	Gloss=couler
 9	a-zoc'htoñ	a-ziouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -131,7 +131,7 @@
 4	'	art	?	_	_	_	_	_	Gloss=le
 5	n	douar	nom	_	_	_	_	_	Gloss=terre
 6	douar	douar	nom	_	_	_	_	_	Gloss=?
-7	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8			PUNCT	_	_	_	_	Gloss=punct
 9	kreno.	kreno.	?	_	_	_	_	_	Gloss=?
 

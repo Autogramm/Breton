@@ -85,7 +85,7 @@
 # text = Anmañ n'em gar { an dud / [[*]] anin } an eil egile.
 # text_fr = 'Ici on s'aime les uns les autres.'
 1	Anmañ	Amañ	?	_	_	_	_	_	Gloss=ici
-2	n'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	n'	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 3	em	em	?	_	_	_	_	_	Gloss=aime
 4	gar	gar	nom	_	_	_	_	_	Gloss=?
 5	{	art	?	_	_	_	_	_	Gloss=le
@@ -105,7 +105,7 @@
 # text_fr = 'Ici on se salue les uns après les autres.'
 1	Anmañ	Amañ	?	_	_	_	_	_	Gloss=ici
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	n'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+3	n'	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 4	em	em	?	_	_	_	_	_	Gloss=salue
 5	salud	salud	?	_	_	_	_	_	Gloss=?
 6	{	art	?	_	_	_	_	_	Gloss=le
@@ -252,7 +252,7 @@
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
 4	en	en	complémenteur	_	_	_	_	_	Gloss=|
-5	em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+5	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 6	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 7	an	art	?	_	_	_	_	_	Gloss=le
 8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
@@ -263,7 +263,7 @@
 # text = Hennezh en em gav.
 # text_fr = 'Il se trouve supérieur.'
 1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+2	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 3	em	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	gav.	gav.	?	_	_	_	_	_	Gloss=?
 

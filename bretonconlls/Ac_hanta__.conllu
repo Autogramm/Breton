@@ -119,10 +119,10 @@
 1	Ac'hanta	interjection	?	_	_	_	_	_	Gloss=quoi?
 2	?!	?!	?	_	_	_	_	_	Gloss=?
 3	An	art	?	_	_	_	_	_	Gloss=le
-4	Daltoned	nompropre.-ed(PL.)	?.?	_	_	_	_	_	Gloss=dalton.s
+4	Daltoned	nompropre.[-ed(PL.)	?.?	_	_	_	_	_	Gloss=dalton.s
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Emaint	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	tec'hout	tec'hout	?	_	_	_	_	_	Gloss=enfuir
 9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -168,7 +168,7 @@
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Ac'hanta	Ac'hanta	?	_	_	_	_	_	Gloss=[[interjection|Maparole
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
 5	hoc'h	kaout	?	_	_	_	_	_	Gloss=a

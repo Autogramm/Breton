@@ -127,7 +127,7 @@
 3	oe	COP	?	_	_	_	_	_	Gloss=fut
 4	anei	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 5	chuaic'h	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
-6	i	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	i	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	torheiñ	dornañ	verbe	_	_	_	_	_	Gloss=frapper
 8	ar-n-ou..	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -309,7 +309,7 @@
 # dialect = Cornouaillais
 # source = Kersulec (2016)
 # texttype = Ouvrages de recherche
-1	E	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	E	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	choujal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 3	'	eman	?	_	_	_	_	_	Gloss=suis
 4	don	don	adverbe-adjectif	_	_	_	_	_	Gloss=?

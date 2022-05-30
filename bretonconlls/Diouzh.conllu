@@ -6,7 +6,7 @@
 2	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
 3	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
 4	ar	art	?	_	_	_	_	_	Gloss=le
-5	bilpouzed	pilpous	?	_	_	_	_	_	Gloss=hypocrite]].[[-ed(PL.)|s]|Morph=1
+5	bilpouzed	pilpous	?	_	_	_	_	_	Gloss=hypocrite]].[[-ed(PL.)|s|Morph=1
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:10)__1
@@ -169,7 +169,7 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 2	gilometr	gilometr	?	_	_	_	_	_	Gloss=kilometr
 3	dioh	dioh	?	_	_	_	_	_	Gloss=de
 4	ouzom..	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
@@ -190,7 +190,7 @@
 6	karfen	karout	verbe	_	_	_	_	_	Gloss=aimerais
 7	kleved	klevout	verbe	_	_	_	_	_	Gloss=entendre
 8	ahanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
-9	o	particuleo	?	_	_	_	_	_	Gloss=P]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=P|Morph=4
 10	kana	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 11	Gwerz	Gwerz	nom	_	_	_	_	_	Gloss=chanson
 12	Penmarh	Penmarh	?	_	_	_	_	_	Gloss=Penmarcxxxh

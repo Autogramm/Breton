@@ -8,7 +8,7 @@
 4	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
 5	[	[	?	_	_	_	_	_	Gloss=
 6	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	[particuleo	?	_	_	_	_	_	Gloss=à
 8	tond	dont	verbe	_	_	_	_	_	Gloss=venir
 9	amañ	amañ	?	_	_	_	_	_	Gloss=ici
 10	]	]	?	_	_	_	_	_	Gloss=
@@ -35,7 +35,7 @@
 2	int	COP	?	_	_	_	_	_	Gloss=sont
 3	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 4	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 
 # sent_id = arMeliner(2009:16)__1
@@ -49,7 +49,7 @@
 5	an	art	?	_	_	_	_	_	Gloss=le
 6	traoù-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
 7	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-8	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	kouezhel	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 10	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 11	àr-lec'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
@@ -91,5 +91,5 @@
 5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	karfen	karout	verbe	_	_	_	_	_	Gloss=aimerais
 7	ahanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	kana	kanañ	verbe	_	_	_	_	_	Gloss=chanter

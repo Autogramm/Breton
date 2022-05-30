@@ -24,11 +24,11 @@
 # source2 =  Standard, A. Cousin, 'Ken eürus e galleg hag e brezhoneg'
 1	Laouen	laouen	adjectif	_	_	_	_	_	Gloss=heureux
 2	int	COP	?	_	_	_	_	_	Gloss=sont
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	klevet	klevet	?	_	_	_	_	_	Gloss=entendre
 5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 6	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 9	e	P.e	?	_	_	_	_	_	Gloss=en
 10	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
@@ -45,7 +45,7 @@
 3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
 4	nan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
 5	mennek	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-6	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7			PUNCT	_	_	_	_	Gloss=punct
 8	tigoueho	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -99,7 +99,7 @@
 # text = en em glevout mat a raemp.
 # text_fr = '... nous nous entendions bien.'
 # source = ar Barzhig (1976)
-1	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	em	em	?	_	_	_	_	_	Gloss=entendre
 3	glevout	glevout	?	_	_	_	_	_	Gloss=?
 4	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien

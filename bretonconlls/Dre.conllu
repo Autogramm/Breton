@@ -5,7 +5,7 @@
 # texttype = Références de corpus
 1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
 2	vie	COP	?	_	_	_	_	_	Gloss=étions
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	redek	redek	verbe	_	_	_	_	_	Gloss=courir
 5	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
 6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
@@ -69,7 +69,7 @@
 4	ez	ez	?	_	_	_	_	_	Gloss=R
 5	eur	COP.IMP	?.?	_	_	_	_	_	Gloss=est.on
 6	bet	bet	?	_	_	_	_	_	Gloss=été
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 9	got	got	?	_	_	_	_	_	Gloss=billes
 10	dre	dre	préposition	_	_	_	_	_	Gloss=par
@@ -88,7 +88,7 @@
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	c'hostez	kostez	nom	_	_	_	_	_	Gloss=côté|Morph=5
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+9	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 10	ur	ur	?	_	_	_	_	_	Gloss=?
 11	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
 12	an	art	?	_	_	_	_	_	Gloss=le
@@ -196,7 +196,7 @@
 # text_fr = 'Malgré nos couleurs différentes, nous sommes frères par un même destin.'
 # location = Roscoff
 1	En	En	complémenteur	_	_	_	_	_	Gloss=[[endespet|en
-2	despet	despet	?	_	_	_	_	_	Gloss=dépit]]]
+2	despet	despet	?	_	_	_	_	_	Gloss=dépit]]
 3	d'	da	préposition	_	_	_	_	_	Gloss=de
 4	on	POSS	?	_	_	_	_	_	Gloss=notre
 5	liviou	liv.-ioù	nom.?	_	_	_	_	_	Gloss=couleur.s
@@ -294,7 +294,7 @@
 3	savent	sevel	verbe	_	_	_	_	_	Gloss=grandissaient
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	a	rankout	verbe	_	_	_	_	_	Gloss=devait
 8	ranke	ranke	?	_	_	_	_	_	Gloss=?
 9	mont	mont	verbe	_	_	_	_	_	Gloss=aller

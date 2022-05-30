@@ -7,10 +7,10 @@
 # texttype = Références de corpus
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	[[nom	[[nom	?	_	_	_	_	_	Gloss=[[nompropre|Yann
-3	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=Duff]]]
+3	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=Duff]]
 4	Duff	Duff	?	_	_	_	_	_	Gloss=?
 5	[	[	?	_	_	_	_	_	Gloss=?
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	[	[	?	_	_	_	_	_	Gloss=?
 8	niveri	niveri	?	_	_	_	_	_	Gloss=compter
 9	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
@@ -30,7 +30,7 @@
 7	[	[	?	_	_	_	_	_	Gloss=?
 8	karout	karout	verbe	_	_	_	_	_	Gloss=aimer
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 11	].	].	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Plougerneau,M-L.B(10/2018)__47
@@ -90,7 +90,7 @@
 # source = Gros (1989)
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-3	o	particuleo	?	_	_	_	_	_	Gloss=de]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=de|Morph=4
 4	[	[	?	_	_	_	_	_	Gloss=?
 5	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 6	a-droujouez	a-droujouez	adverbe	_	_	_	_	_	Gloss=en.masse

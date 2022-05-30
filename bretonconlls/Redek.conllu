@@ -17,7 +17,7 @@
 # text_fr = 'les courses de taureaux de Pamplona.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	redadegoù-tirvi	-adeg.-où(PL.).tarv.plurielinterne	nom.?.nom.?	_	_	_	_	_	Gloss=se.s.taureau.x
+1	redadegoù-tirvi	-adeg.-où(PL.).tarv.[plurielinterne	nom.?.nom.?	_	_	_	_	_	Gloss=se.s.taureau.x
 2	Pamplona	nompropre	?	_	_	_	_	_	Gloss=Pamplona
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -78,7 +78,7 @@
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	archerion	archer.-ion(PL.)	nom.?	_	_	_	_	_	Gloss=policier.s
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	sikourerion	sikour.-er,-our.-ion(PL.)	verbe-nom.?.?	_	_	_	_	_	Gloss=secour.iste.s
+8	sikourerion	sikour.-er,-our.[-ion(PL.)	verbe-nom.?.?	_	_	_	_	_	Gloss=secour.iste.s
 9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 10	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 11	seurt..	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte

@@ -12,7 +12,7 @@
 6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
 7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -23,7 +23,7 @@
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=[[ma!|Bon
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Pelec'h	pelec'h	?	_	_	_	_	_	Gloss=où
 5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4

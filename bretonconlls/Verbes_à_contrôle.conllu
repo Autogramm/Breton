@@ -8,7 +8,7 @@
 3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
 4	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 8	zebrin	debriñ	verbe	_	_	_	_	_	Gloss=manger
 9	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=crêpes
@@ -44,6 +44,10 @@
 5	Lenaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Lena.DIM
 6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
 7	respont	respont	?	_	_	_	_	_	Gloss=répondre
+8	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	/[[*]]	/[[*]]	?	_	_	_	_	_	Gloss=/
+10	anezhi	a.[pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Stephens(1990:157)__1
 # text = Pedin a reas Yann Lenaig  da respont [[*]] e-unan / he-unan.
@@ -110,7 +114,7 @@
 1	Skuizhañ	skuizh.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=fatigu.er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	touzañ	touzañ	verbe	_	_	_	_	_	Gloss=tondre
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	geot	geot	nom	_	_	_	_	_	Gloss=herbe

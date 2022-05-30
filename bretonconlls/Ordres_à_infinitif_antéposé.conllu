@@ -70,7 +70,7 @@
 2	o-zri	POSS	?	_	_	_	_	_	Gloss=leur
 3	e	P.e	?	_	_	_	_	_	Gloss=en
 4	Bro	bro	nom	_	_	_	_	_	Gloss=pays
-5	Gerne	nompropre	?	_	_	_	_	_	Gloss=Cornouaille]|Morph=1
+5	Gerne	nompropre	?	_	_	_	_	_	Gloss=Cornouaille|Morph=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc’h(1950:117)__1
@@ -295,7 +295,7 @@
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 11	[[nom	[[nom	?	_	_	_	_	_	Gloss=[[nompropre|Yann
 12	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=ar
-13	ar	ar	?	_	_	_	_	_	Gloss=Flocxxxh]]]
+13	ar	ar	?	_	_	_	_	_	Gloss=Flocxxxh]]
 14	Floc'h	Floc'h	?	_	_	_	_	_	Gloss=]
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 

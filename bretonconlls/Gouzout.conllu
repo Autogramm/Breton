@@ -145,10 +145,10 @@
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
 1	ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	hoar	hoar	?	_	_	_	_	_	Gloss=sait
-5	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 6	em	em	?	_	_	_	_	_	Gloss=servir
 7	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
 8	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
@@ -185,7 +185,7 @@
 5	bet	kaout	?	_	_	_	_	_	Gloss=eu
 6	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 7	ayayaylh	ayayaylh	?	_	_	_	_	_	Gloss=[[Aiou!|aîeaïeaïe
-8			?	_	_	_	_	_	Gloss=!]]]
+8			?	_	_	_	_	_	Gloss=!]]
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 10	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
 11	vouefes	vouefes	?	_	_	_	_	_	Gloss=savais

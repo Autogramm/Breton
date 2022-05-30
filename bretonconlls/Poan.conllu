@@ -65,7 +65,7 @@
 # text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
 # source = Le Gall (1957)
 1	Poan	Poan	nom	_	_	_	_	_	Gloss=peine
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	tigeina	di-.kein.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dés.dos.er
 4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
 5	beza	bezañ	?	_	_	_	_	_	Gloss=être
@@ -82,7 +82,7 @@
 # texttype = Ouvrages de recherche
 1	Poan	Poan	nom	_	_	_	_	_	Gloss=peine
 2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	kredi	krediñ	verbe	_	_	_	_	_	Gloss=croire
 5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 6	vefen	COP	?	_	_	_	_	_	Gloss=serais
@@ -102,7 +102,7 @@
 3	ziweza	diwezhat	adverbe	_	_	_	_	_	Gloss=tard]].[[superlatif|le.plus|Morph=1
 4	o-deveze	kaout	?	_	_	_	_	_	Gloss=avait
 5	poan	poan	nom	_	_	_	_	_	Gloss=peine
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	kavoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
 8	eur	art	nom	_	_	_	_	_	Gloss=un
 9	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Morph=1
@@ -118,7 +118,7 @@
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
 3	boan	boan	?	_	_	_	_	_	Gloss=peine
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
 6	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
 7	vaouez..	maouez	nom	_	_	_	_	_	Gloss=femme
@@ -129,12 +129,12 @@
 # text_fr = 'J'avais eu mille peines à me loger pour la nuit... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille]|Morph=1
+1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
 2	boan	boan	?	_	_	_	_	_	Gloss=peine
 3	em	em	?	_	_	_	_	_	Gloss=1SG
 4	oa	kaout	?	_	_	_	_	_	Gloss=avait
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
 8	ur	art	?	_	_	_	_	_	Gloss=un
 9	gwele	gwele	nom	_	_	_	_	_	Gloss=lit

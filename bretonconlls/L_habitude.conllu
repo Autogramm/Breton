@@ -4,7 +4,7 @@
 # text_phon = ["/'@õne vi", 'ˌvɛlhi', "u '@diʎad", 'ˌdeo/']
 1	Honnez	DEM	?	_	_	_	_	_	Gloss=Celle.ci
 2	’veze	bezan	?	_	_	_	_	_	Gloss=était
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	walhi	gwalc'hiñ	?	_	_	_	_	_	Gloss=laver
 5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
 6	dillad	dillad	?	_	_	_	_	_	Gloss=habits
@@ -221,7 +221,7 @@
 5	jeu	jeu	nom	_	_	_	_	_	Gloss=querelle
 6	vezan	COP	?	_	_	_	_	_	Gloss=suis
 7	pell	pell	adjectif	_	_	_	_	_	Gloss=long
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	trein	treiñ	verbe	_	_	_	_	_	Gloss=tourner
 10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 11	imor	imor	nom	_	_	_	_	_	Gloss=humeur

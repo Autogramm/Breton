@@ -31,7 +31,7 @@
 5	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
 6	be	bez	?	_	_	_	_	_	Gloss=expl
 7	zo	E	?	_	_	_	_	_	Gloss=y.a
-8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 9	gi	gi	?	_	_	_	_	_	Gloss=chien
 10	glep	glep	?	_	_	_	_	_	Gloss=mauvais
 11	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
@@ -144,7 +144,7 @@
 1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
 2	loeroù	loer	nom	_	_	_	_	_	Gloss=chaussettes
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 7	'	'	?	_	_	_	_	_	Gloss=?
@@ -160,7 +160,7 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
 3	/	/	PUNCT	_	_	_	_	Gloss=punct
 4	[[*]]	[[*]]	?	_	_	_	_	_	Gloss='@tomber

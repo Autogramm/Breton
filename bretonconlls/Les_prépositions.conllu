@@ -26,10 +26,10 @@
 5	dreistomp	dreist.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=au-delà.nous
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 7	a	a-zioc'h	préposition	_	_	_	_	_	Gloss=dessus
-8	zioc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
-9	deomp	deomp	?	_	_	_	_	_	Gloss=/
+8	zioc'h	da.[pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+9	deomp	a-us	préposition	_	_	_	_	_	Gloss=dessus
 10	/	/	PUNCT	_	_	_	_	Gloss=punct
-11	a	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+11	a	a	préposition	_	_	_	_	_	Gloss=?
 12	huz	huz	?	_	_	_	_	_	Gloss=?
 13	deomp	deomp	?	_	_	_	_	_	Gloss=?
 
@@ -88,7 +88,7 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	ø	P.e	?	_	_	_	_	_	Gloss=à
-2	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+2	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 3	gilometr	gilometr	?	_	_	_	_	_	Gloss=kilometr
 4	dioh	diouzh	préposition	_	_	_	_	_	Gloss=de
 5	ouzom..	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous

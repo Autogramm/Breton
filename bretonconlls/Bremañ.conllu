@@ -5,7 +5,7 @@
 1	Bremañ	Bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	karahent	karout	verbe	_	_	_	_	_	Gloss=aimeraient
-4	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	dastum	verbe	_	_	_	_	_	Gloss=réunir
 6	zastum	zastum	?	_	_	_	_	_	Gloss=?
 7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
@@ -46,7 +46,7 @@
 6	tokou	tok.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chapeau.x
 7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s]|Morph=1
+9	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = CapSizun,Chalm(2008)__1
@@ -86,7 +86,7 @@
 6	a-vreman	a	préposition	_	_	_	_	_	Gloss=de
 7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
 8	brunig	brunig	?	_	_	_	_	_	Gloss=DIM
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	tonet	dont	verbe	_	_	_	_	_	Gloss=venir
 11	c'haout	kavout	verbe	_	_	_	_	_	Gloss=trouver
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

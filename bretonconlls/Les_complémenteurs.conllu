@@ -23,7 +23,7 @@
 3	lâr	lavar	nom	_	_	_	_	_	Gloss=dit
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez(féminin)|ne]|Morph=1
+6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez(féminin)|ne|Morph=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 9	doc'hti	doc'h.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.elle
@@ -330,7 +330,7 @@
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
 4	ar	art	?	_	_	_	_	_	Gloss=le
-5	homzou	komz	verbe	_	_	_	_	_	Gloss=parl]].[[-où(PL.)|es]|Morph=5
+5	homzou	komz	verbe	_	_	_	_	_	Gloss=parl]].[[-où(PL.)|es|Morph=5
 6	bep	bep	?	_	_	_	_	_	Gloss=chaque
 7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 8	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
@@ -348,7 +348,7 @@
 5	??	??	?	_	_	_	_	_	Gloss=[
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	e-leh	e-leh	?	_	_	_	_	_	Gloss=[[e-lecxxxhma|au-lieu
-8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que]]]
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que]]
 9	oant	COP	?	_	_	_	_	_	Gloss=étaient
 10	e	e	?	_	_	_	_	_	Gloss=]
 11	oa	oa	?	_	_	_	_	_	Gloss=?
@@ -417,7 +417,7 @@
 # text = En em zivenn a ra evit ne vezo ket lakaet er-mêz.
 # text_fr = 'Il se défend pour ne pas être jeté dehors.'
 # source = Trépos (2001)
-1	En	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	En	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	em	em	?	_	_	_	_	_	Gloss=?
 3	zivenn	difenn	verbe	_	_	_	_	_	Gloss=défendre
 4	a	a	préposition	_	_	_	_	_	Gloss=R
@@ -457,7 +457,7 @@
 1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
 2	'	COP	?	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
-4	'	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5			PUNCT	_	_	_	_	Gloss=punct
 6	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 7	Loeiz	Loeiz	?	_	_	_	_	_	Gloss=Loeiz
@@ -650,7 +650,7 @@
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	kaozeet	kaozeet	?	_	_	_	_	_	Gloss=parlé
 14	ouzhin	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-15	anezhañ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+15	anezhañ	[pronomincorporé	?	_	_	_	_	_	Gloss=lui
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fagon&Riou(2015:165)__2
@@ -789,7 +789,7 @@
 7	rahe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
 8	èltoñ	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.lui
 9	a	a	préposition	_	_	_	_	_	Gloss=[[hapa|et
-10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]]
+10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand]]
 11	vehent	COP	?	_	_	_	_	_	Gloss=seraient
 12	lezet..	lezel	?	_	_	_	_	_	Gloss=laissé
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -803,12 +803,12 @@
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
 5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
 10	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-11	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+11	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 12	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dire
 13	gevier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -920,7 +920,7 @@
 1	pandeogwir	pandeogwir	?	_	_	_	_	_	Gloss=puisque
 2	eh	eh	?	_	_	_	_	_	Gloss=R
 3	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
-4	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	pasiñ	pasiñ	?	_	_	_	_	_	Gloss=passer
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
 7	amañ	amañ	?	_	_	_	_	_	Gloss=ici
@@ -1040,10 +1040,10 @@
 4	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=colère
 5	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
 6	o	o	?	_	_	_	_	_	Gloss=[[ovezañ
-7	vezañ	vezañ	?	_	_	_	_	_	Gloss=ma|à.être.que]]]
+7	vezañ	vezañ	?	_	_	_	_	_	Gloss=ma|à.être.que]]
 8	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 9	oa	COP	?	_	_	_	_	_	Gloss=était
-10	dibennet	di-,dis-.penn.-et(Adj.)	?.nom.?	_	_	_	_	_	Gloss=dé-.têt.é
+10	dibennet	di-,dis-.penn.[-et(Adj.)	?.nom.?	_	_	_	_	_	Gloss=dé-.têt.é
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:29)__7
@@ -1393,7 +1393,7 @@
 1	Salv	Salv	adjectif-complémenteur	_	_	_	_	_	Gloss=pourvu
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 3	ouio	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=saura
-4	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	zibab	dibab	verbe	_	_	_	_	_	Gloss=choisir
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

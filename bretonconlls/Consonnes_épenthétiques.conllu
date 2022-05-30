@@ -2,7 +2,7 @@
 # text = Matriona gaezh a yae war goshaat ivez hec'h unanik.
 # text_fr = 'Matriona vieillissait aussi seule.'
 # source = ar Barzhig (1976)
-1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona]|Morph=1
+1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona|Morph=1
 2	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=chère
 3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 4	yae	mont	verbe	_	_	_	_	_	Gloss=allait
@@ -140,7 +140,7 @@
 10	kalzig	kalz.kalzig	quantifieur-adverbe-déterminant.?	_	_	_	_	_	Gloss=beaucoup.DIM
 11	eus	eus	?	_	_	_	_	_	Gloss=de
 12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes]|Morph=1
+13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes|Morph=1
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2009:95)__1

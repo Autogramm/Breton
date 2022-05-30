@@ -5,7 +5,7 @@
 1	Hag	&	?	_	_	_	_	_	Gloss=et
 2	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
 3	int	COP	?	_	_	_	_	_	Gloss=sont
-4	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	gavet	kavout	verbe	_	_	_	_	_	Gloss=trouver
 7	pinvidig	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
@@ -40,7 +40,7 @@
 # source = Gros (1984)
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 5	sedig	sedig.sedig	?.?	_	_	_	_	_	Gloss=+C.DIM
 6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le

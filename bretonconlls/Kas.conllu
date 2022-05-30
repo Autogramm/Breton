@@ -134,7 +134,7 @@
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
-4	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	kas	kas	verbe	_	_	_	_	_	Gloss=chercher
 6	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
 7	madigoù	mat.madigoù.-où(PL.)	adverbe-adjectif.?.?	_	_	_	_	_	Gloss=bon.DIM.s
@@ -168,10 +168,10 @@
 # texttype = Élicitations
 1	Bonjour	bonjour	?	_	_	_	_	_	Gloss=bonjour
 2	Maian	Maian	?	_	_	_	_	_	Gloss=[[nompropre|Maian
-3	Stefen	Stefen	?	_	_	_	_	_	Gloss=Stefen]]]
+3	Stefen	Stefen	?	_	_	_	_	_	Gloss=Stefen]]
 4	me	pfi	?	_	_	_	_	_	Gloss=moi
 5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	??	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	??	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 8	kas	kas	verbe	_	_	_	_	_	Gloss=chercher
 9	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
@@ -204,13 +204,13 @@
 # source = Académie bretonne (1922)
 # texttype = Ouvrages de recherche
 1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	c'houilia	c'hwil.-iañ(V.)	?.?	_	_	_	_	_	Gloss=insect.er
 4	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
 5	kas	kas	verbe	_	_	_	_	_	Gloss=chercher
 6	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
 7	ar	ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
-8	pez	pez	?	_	_	_	_	_	Gloss=que]]]
+8	pez	pez	?	_	_	_	_	_	Gloss=que]]
 9	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
 10	deus	kaout	?	_	_	_	_	_	Gloss=a
 11	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u

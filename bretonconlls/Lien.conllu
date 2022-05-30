@@ -2,7 +2,7 @@
 # text = Em astenn a ran-me àr tamm lien…
 # text_fr = 'Je m'allonge, moi, sur un morceau de drap.'
 # source = Herrieu (1994)
-1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	Em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	astenn	astenn	verbe	_	_	_	_	_	Gloss=allonger
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	ran-me	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
@@ -21,7 +21,7 @@
 3	Koz-kastell	nompropre	?	_	_	_	_	_	Gloss=Koz-Kastell
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	an	art	?	_	_	_	_	_	Gloss=le
-6	Amerikaned	-an(Adj.).-ed(PL.)	?.?	_	_	_	_	_	Gloss=ain.s
+6	Amerikaned	-an(Adj.).[-ed(PL.)	?.?	_	_	_	_	_	Gloss=ain.s
 7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
 8	wele	gwelout	verbe	_	_	_	_	_	Gloss=voyaient
 9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1

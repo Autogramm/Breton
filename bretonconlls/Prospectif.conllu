@@ -64,7 +64,7 @@
 1	Me	pfi	?	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	aveiñ	aveiñ	?	_	_	_	_	_	Gloss=atteler
 6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	a-raok	war-raok	postposition	_	_	_	_	_	Gloss=en.avant
@@ -85,7 +85,7 @@
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	oa	COP	?	_	_	_	_	_	Gloss=était
 4	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	tiblas	tiblas	?	_	_	_	_	_	Gloss=déplacer
 7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 8	du-se	tu	nom	_	_	_	_	_	Gloss=côté
@@ -273,7 +273,7 @@
 # source = Malgorn (1909)
 # texttype = Ouvrages de recherche
 1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	farda	fardañ	?	_	_	_	_	_	Gloss=préparer
 4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
@@ -289,10 +289,10 @@
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	semplañ	semplañ	verbe	_	_	_	_	_	Gloss=évanouir
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]]]-[[DEM|ci|Morph=5
+9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]]-[[DEM|ci|Morph=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec & al. (2017:421)__1

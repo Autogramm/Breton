@@ -40,14 +40,14 @@
 5	labourer-douar	labour.-er,-our.douar	nom.?.nom	_	_	_	_	_	Gloss=travail.eur.terre
 6	Yannig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Yann.DIM
 7	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=2]|Morph=1
+8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=2|Morph=1
 9	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guiscriff,chantBosennElliant,[http://kan.bzh/docs/Fv-Bibliotheque/Landevennec/L-39/FV-L-39-026-1.pdftexte]__1
 # text = Ian baïzant na gompren ar foeltr-tra !
 # text_fr = 'Le paysan moyen ne comprend rien !'
-1	Ian	nompropre	?	_	_	_	_	_	Gloss=Yann]|Morph=1
+1	Ian	nompropre	?	_	_	_	_	_	Gloss=Yann|Morph=1
 2	baïzant	baïzant	?	_	_	_	_	_	Gloss=paysan
 3	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
 4	gompren	kompren	verbe	_	_	_	_	_	Gloss=comprend

@@ -111,7 +111,7 @@
 7			PUNCT	_	_	_	_	Gloss=punct
 8	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 9	ha	&	?	_	_	_	_	_	Gloss=et
-10	kuilhet	kuilh(N.).-et(Adj.)	?.?	_	_	_	_	_	Gloss=rid.é
+10	kuilhet	kuilh(N.).[-et(Adj.)	?.?	_	_	_	_	_	Gloss=rid.é
 11	d	d	?	_	_	_	_	_	Gloss=P
 12	'	art	?	_	_	_	_	_	Gloss=le
 13	ar	ar	?	_	_	_	_	_	Gloss=?
@@ -172,7 +172,7 @@
 7	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -373,7 +373,7 @@
 2	prajoù	prad	nom	_	_	_	_	_	Gloss=prés
 3	'	'	?	_	_	_	_	_	Gloss=R
 4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	'	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+5	'	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 6	n	okupiñ	?	_	_	_	_	_	Gloss=occupé
 7	em	em	?	_	_	_	_	_	Gloss=?
 8	okupet	okupet	?	_	_	_	_	_	Gloss=?
@@ -592,7 +592,7 @@
 7	pedet	pediñ	verbe	_	_	_	_	_	Gloss=invité
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	brinsez	priñs	nom	_	_	_	_	_	Gloss=princ]].[[-ez(F.)|esse]|Morph=1
+10	brinsez	priñs	nom	_	_	_	_	_	Gloss=princ]].[[-ez(F.)|esse|Morph=1
 11	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
 12	eur	art	nom	_	_	_	_	_	Gloss=un
 13	c'halz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=tas|Morph=5

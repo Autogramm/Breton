@@ -334,7 +334,7 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	rak	rak	?	_	_	_	_	_	Gloss=car
-2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux]|Morph=1
+2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
 3	vloavezhiad	bloaz.-ad	nom.?	_	_	_	_	_	Gloss=an.ée
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
@@ -406,7 +406,7 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	an	art	?	_	_	_	_	_	Gloss=le
-2	defotadou	de-.faotañ.-ach,-aj.-où(PL.)	?.verbe.?.?	_	_	_	_	_	Gloss=dé.faut.age.s
+2	defotadou	de-.faotañ.-ach,-aj.[-où(PL.)	?.verbe.?.?	_	_	_	_	_	Gloss=dé.faut.age.s
 3	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 4	sizun:	sizhun	nom	_	_	_	_	_	Gloss=semaine
 5	sukr	sukr	nom	_	_	_	_	_	Gloss=sucre

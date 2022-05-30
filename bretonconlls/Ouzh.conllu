@@ -70,7 +70,7 @@
 1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
 2	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
 3	emeur	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+4	oc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 5	da	POSS	?	_	_	_	_	_	Gloss=te|Morph=1
 6	c'hortoz..	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -88,7 +88,7 @@
 5	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
 6	ho	POP	?	_	_	_	_	_	Gloss=vous|Morph=3
 7	kwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 10	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -100,7 +100,7 @@
 1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	en	pronomréfléchi	?	_	_	_	_	_	Gloss=se]|Morph=1
+4	en	pronomréfléchi	?	_	_	_	_	_	Gloss=se|Morph=1
 5	em	kustumiñ	verbe	_	_	_	_	_	Gloss=accoutumé
 6	gustumet	gustumet	?	_	_	_	_	_	Gloss=?
 7	ouzhin	pronomincorporé	?	_	_	_	_	_	Gloss=moi
@@ -109,7 +109,7 @@
 10	me	pfi	?	_	_	_	_	_	Gloss=moi
 11	outi	pronomincorporé	?	_	_	_	_	_	Gloss=elle
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
-13	en	pronomréfléchi	?	_	_	_	_	_	Gloss=se]|Morph=1
+13	en	pronomréfléchi	?	_	_	_	_	_	Gloss=se|Morph=1
 14	em	klevout	verbe	_	_	_	_	_	Gloss=entendre
 15	glevout	glevout	?	_	_	_	_	_	Gloss=?
 16	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
@@ -279,7 +279,7 @@
 4	deoh	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 5	e	e	?	_	_	_	_	_	Gloss=R
 6	oar	COP.IMP	?.?	_	_	_	_	_	Gloss=est.on
-7	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 8	farsal	farsal	?	_	_	_	_	_	Gloss=rigoler
 9	ganeoh	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
 10	hag	&	?	_	_	_	_	_	Gloss=et
@@ -341,7 +341,7 @@
 # text_fr = 'Me défendre contre un ennemi caché, je ne sais pas faire... '
 # source = Beyer (2009)
 # texttype = Références de corpus
-1	Em	enem	?	_	_	_	_	_	Gloss=se]|Morph=1
+1	Em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
 2	zifenn	difenn	verbe	_	_	_	_	_	Gloss=défendre
 3	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=de
 4	un	art	?	_	_	_	_	_	Gloss=un
@@ -358,7 +358,7 @@
 # text = O selaou _ an dud en doa desket ur bern traoù.
 # text_fr = 'Il avait appris un tas de choses en écoutant les gens.'
 # source = Chalm (2008)
-1	O	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 2	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
 3	_	art	?	_	_	_	_	_	Gloss=le
 4	an	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1

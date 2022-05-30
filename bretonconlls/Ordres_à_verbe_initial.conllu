@@ -6,7 +6,7 @@
 # texttype = Ouvrages de recherche
 1	É	É	?	_	_	_	_	_	Gloss=R
 2	oen	COP	?	_	_	_	_	_	Gloss=étais
-3	é	particuleo	?	_	_	_	_	_	Gloss=P]|Morph=4
+3	é	particuleo	?	_	_	_	_	_	Gloss=P|Morph=4
 4	choñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
 5	get-n-eign	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
 6	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
@@ -20,7 +20,7 @@
 # source = ar Barzhig (1976)
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oad	COP.IMP	?.?	_	_	_	_	_	Gloss=étions.on
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	skingas	skingas	?	_	_	_	_	_	Gloss=émettre
 5	gwerzioù	gwerz.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=chanson.s
 6	Glinka	nompropre	?	_	_	_	_	_	Gloss=Glinka
@@ -34,7 +34,7 @@
 # texttype = Références de corpus
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
 6	zimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
@@ -65,7 +65,7 @@
 # text_fr = 'Il était en train de couper du trèfle pour ses bêtes.'
 # text_phon = ['[ wahô', '(o)', 'tròho', 'mèls̈ən', 'wit', 'i', 'lônəT ]']
 1	Oa-eñ	COP	?	_	_	_	_	_	Gloss=était
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	troc'hañ	troc'hañ	?	_	_	_	_	_	Gloss=couper
 4	melchon	melchon	nom	_	_	_	_	_	Gloss=trèfle
 5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
@@ -86,7 +86,7 @@
 7	rezon	rezon	?	_	_	_	_	_	Gloss=raison
 8	'	vez.écho	verbe-auxiliaire.?	_	_	_	_	_	Gloss=était.lui
 9	veze-eñ	veze-eñ	?	_	_	_	_	_	Gloss=?
-10	o	particuleo	?	_	_	_	_	_	Gloss=P]|Morph=4
+10	o	particuleo	?	_	_	_	_	_	Gloss=P|Morph=4
 11	v-bale	bale	verbe	_	_	_	_	_	Gloss=marcher
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
 13	an	art	?	_	_	_	_	_	Gloss=le
@@ -130,7 +130,7 @@
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
 15	hag	ezeus	?	_	_	_	_	_	Gloss=est
 16	eus	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux.F
-17	diou	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+17	diou	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 18	o	diskenn	verbe	_	_	_	_	_	Gloss=descendre
 
 # sent_id = Gros(1966:29)__1
@@ -336,7 +336,7 @@
 18	hag	vakañs	?	_	_	_	_	_	Gloss=vacances
 19	un	un	?	_	_	_	_	_	Gloss=?
 20	all	all	?	_	_	_	_	_	Gloss=?
-21	labourat	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+21	labourat	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 22	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1966:29)__1
@@ -405,7 +405,7 @@
 4	pri	pri	nom	_	_	_	_	_	Gloss=glaise
 5	amañ	amañ	?	_	_	_	_	_	Gloss=ici
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	en	enur	?	_	_	_	_	_	Gloss=en]|Morph=1
+7	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
 8	ur	ur	?	_	_	_	_	_	Gloss=?
 9	doullañ	toull.-añ(V.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.er
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -571,7 +571,7 @@
 3	`	`	?	_	_	_	_	_	Gloss=?
 4	marteze	marteze	?	_	_	_	_	_	Gloss=peut-être
 5	o-div	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-6	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 7	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
 9	vijen	COP	?	_	_	_	_	_	Gloss=serais
@@ -595,7 +595,7 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	éma	éma	?	_	_	_	_	_	Gloss=prt.est
-2	é	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	vâlé	bale	verbe	_	_	_	_	_	Gloss=promener
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -604,7 +604,7 @@
 # text_fr = 'Il est là en train de s'amuser avec un vieux soufflet.'
 # source = Gros (1984)
 1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=prt.est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 3	turlutad	turlutad	?	_	_	_	_	_	Gloss=bricoler
 4	aze	ads	?	_	_	_	_	_	Gloss=là
 5	gand	gant	?	_	_	_	_	_	Gloss=avec

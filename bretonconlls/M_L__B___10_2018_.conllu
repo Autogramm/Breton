@@ -2,7 +2,7 @@
 # text = Ar vugale neus gwelet ar vaouez deac’h.
 # text_fr = 'Les enfants ont vu la femme hier.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	neus	kaout	?	_	_	_	_	_	Gloss=a
 4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 5	ar	art	?	_	_	_	_	_	Gloss=le
@@ -17,7 +17,7 @@
 2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
 3	neus	kaout	?	_	_	_	_	_	Gloss=a
 4	ar	art	?	_	_	_	_	_	Gloss=le
-5	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+5	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
 8	deac’h	dec'h	?	_	_	_	_	_	Gloss=hier
@@ -27,7 +27,7 @@
 # text = Ar vugale o deus ket gwelet ar vaouez deac’h.
 # text_fr = 'Les enfants n’ont pas vu la femme hier.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -42,7 +42,7 @@
 # text_fr = 'Est-ce que les enfants ont vu la femme hier ?'
 1	Daouchte	daoust.C.ha(g)	complémenteur.?	_	_	_	_	_	Gloss=à.savoir.que
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -84,7 +84,7 @@
 1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
 2	maouez	maouez	nom	_	_	_	_	_	Gloss=femme
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 5	o	o	?	_	_	_	_	_	Gloss=3PL
 6	deus	kaout	?	_	_	_	_	_	Gloss=a
 7	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -97,7 +97,7 @@
 1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
 2	maouez	maouez	nom	_	_	_	_	_	Gloss=femme
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 5	o	o	?	_	_	_	_	_	Gloss=3PL
 6	deus	kaout	?	_	_	_	_	_	Gloss=a
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -110,7 +110,7 @@
 # text_fr = 'Quand est-ce que les enfants ont vu la femme hier ?'
 1	Peur	peur	?	_	_	_	_	_	Gloss=quand
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -126,7 +126,7 @@
 2	be	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=quel|Morph=1
 3	boenn	poent	nom	_	_	_	_	_	Gloss=moment
 4	ar	art	?	_	_	_	_	_	Gloss=le
-5	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+5	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 6	o	o	?	_	_	_	_	_	Gloss=3PL
 7	deus	kaout	?	_	_	_	_	_	Gloss=a
 8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -139,7 +139,7 @@
 # text = Ar vugale o deus gwelet ar vaouez sklaer.
 # text_fr = 'Les enfants ont vu la femme clairement.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -153,7 +153,7 @@
 # text_fr = 'Comment est-ce que les enfants ont vu la femme ?'
 1	Penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -166,7 +166,7 @@
 # text_fr = '- Les enfants ont vu l’homme hier. / - Non, les enfants ont vu la femme.'
 1	A:-	A:-	?	_	_	_	_	_	Gloss=
 2	Ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -178,7 +178,7 @@
 12	Ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	ar	art	?	_	_	_	_	_	Gloss=le
-15	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+15	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 16	o	o	?	_	_	_	_	_	Gloss=3PL
 17	deus	kaout	?	_	_	_	_	_	Gloss=a
 18	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -191,7 +191,7 @@
 # text_fr = '- Les enfants ont vu la femme ce matin./ - Non, les enfants ont vu la femme hier.'
 1	A:-	A:-	?	_	_	_	_	_	Gloss=
 2	Ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
 5	deus	kaout	?	_	_	_	_	_	Gloss=a
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -199,7 +199,7 @@
 8	Ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ar	art	?	_	_	_	_	_	Gloss=le
-11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+11	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 12	o	o	?	_	_	_	_	_	Gloss=3PL
 13	deus	kaout	?	_	_	_	_	_	Gloss=a
 14	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -216,7 +216,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez(e)	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -234,7 +234,7 @@
 4	telefonet	telefoniñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=téléphon.é
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	o	o	?	_	_	_	_	_	Gloss=3PL
 9	deus	kaout	?	_	_	_	_	_	Gloss=a
 10	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -251,7 +251,7 @@
 3	neus	kaout	?	_	_	_	_	_	Gloss=a
 4	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.-et
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -268,7 +268,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	(hag)	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	o	o	?	_	_	_	_	_	Gloss=3PL
 9	deus	kaout	?	_	_	_	_	_	Gloss=a
@@ -287,7 +287,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	(ha)	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	n'	n'	?	_	_	_	_	_	Gloss=ne
 9			PUNCT	_	_	_	_	Gloss=punct
@@ -311,7 +311,7 @@
 6	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
 7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 10	o	o	?	_	_	_	_	_	Gloss=3PL
 11	deus	kaout	?	_	_	_	_	_	Gloss=a
 12	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -327,7 +327,7 @@
 4	hoar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
 5	peur	peur	?	_	_	_	_	_	Gloss=quand
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	o	o	?	_	_	_	_	_	Gloss=3PL
 9	deus	kaout	?	_	_	_	_	_	Gloss=a
 10	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -356,7 +356,7 @@
 # text = Ar vugale o deus en em welet deac’h.
 # text_fr = 'Les enfants se sont vus hier.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	en	en	complémenteur	_	_	_	_	_	Gloss=[[enem|R
@@ -369,7 +369,7 @@
 # text = Ar vugale o deus c'hoariet.
 # text_fr = 'Les enfants ont joué.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	c'hoariet	c'hoari.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jou.é
@@ -379,7 +379,7 @@
 # text = Ar vugale o deus ket c'hoariet.
 # text_fr = 'Les enfants n’ont pas joué.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -415,7 +415,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	c'hoariet	c'hoari.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jou.é
@@ -429,7 +429,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -445,7 +445,7 @@
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	o	o	?	_	_	_	_	_	Gloss=3PL
 9	deus	kaout	?	_	_	_	_	_	Gloss=a
 10	c'hoariet	c'hoari.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jou.é
@@ -455,7 +455,7 @@
 # text = Ar vugale zo kouezhet.
 # text_fr = 'Les enfants sont tombés.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -464,7 +464,7 @@
 # text = Ar vugale n'int ket kouezhet.
 # text_fr = 'Les enfants ne sont pas tombés.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
 4	int	COP	?	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -481,7 +481,7 @@
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
@@ -501,7 +501,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	zo	zo	?	_	_	_	_	_	Gloss=est
 9	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
@@ -515,7 +515,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	(ha)	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	n’int	n’int	?	_	_	_	_	_	Gloss=ne
 9	ket	COP	adverbe	_	_	_	_	_	Gloss=sont
@@ -524,7 +524,7 @@
 # text = Ar vugale n’int ket kouezhet, ar gwaz e nevez aneho.
 # text_fr = 'Les enfants qui ne sont pas tombés, l'homme les connaît.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -544,7 +544,7 @@
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	zo	zo	?	_	_	_	_	_	Gloss=est
 10	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
@@ -554,7 +554,7 @@
 # text = Ar vugale o deus roet an hurdioù d’ar vaouez.
 # text_fr = 'Les enfants ont donné le livre à la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
@@ -567,7 +567,7 @@
 # text = Ar vugale o deus ket roet an hurdioù d’ar vaouez.
 # text_fr = 'Les enfants n'ont pas donné le livre à la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -614,7 +614,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
@@ -631,7 +631,7 @@
 3	e	e	?	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	o	o	?	_	_	_	_	_	Gloss=3PL
 8	deus	kaout	?	_	_	_	_	_	Gloss=a
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -648,7 +648,7 @@
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	o	o	?	_	_	_	_	_	Gloss=3PL
 9	deus	kaout	?	_	_	_	_	_	Gloss=a
 10	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
@@ -697,7 +697,7 @@
 5	neus	kaout	?	_	_	_	_	_	Gloss=a
 6	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 9	o	o	?	_	_	_	_	_	Gloss=3PL
 10	deus	kaout	?	_	_	_	_	_	Gloss=a
 11	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -715,7 +715,7 @@
 5	neus	kaout	?	_	_	_	_	_	Gloss=a
 6	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
 7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 9	o	o	?	_	_	_	_	_	Gloss=3PL
 10	deus	kaout	?	_	_	_	_	_	Gloss=a
 11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -853,14 +853,14 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	plac’hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
 10	e	e	?	_	_	_	_	_	Gloss=R
 11	lavar	lavarout	verbe	_	_	_	_	_	Gloss=dit
 12	ar	art	?	_	_	_	_	_	Gloss=le
-13	vugale-se	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]]]-[[DEM|se|Morph=1
+13	vugale-se	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]]-[[DEM|se|Morph=1
 14	o	o	?	_	_	_	_	_	Gloss=3PL
 15	deus	kaout	?	_	_	_	_	_	Gloss=a
 16	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -876,7 +876,7 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	plac’hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
@@ -898,7 +898,7 @@
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
 8	ar	art	?	_	_	_	_	_	Gloss=le
 9	plac’hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
@@ -922,7 +922,7 @@
 4	nevez	anavezout	verbe	_	_	_	_	_	Gloss=connaît
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 8	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
 9	ar	art	?	_	_	_	_	_	Gloss=le
 10	plac’hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fill.ette
@@ -954,8 +954,8 @@
 3	??	??	?	_	_	_	_	_	Gloss=R
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	oc’h	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=4
+6	oc’h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=4
 8	em	em	?	_	_	_	_	_	Gloss=?
 9	houlenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
 10	pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
@@ -976,7 +976,7 @@
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	oc’h	particuleo	?	_	_	_	_	_	Gloss=à
-7	en	enem	?	_	_	_	_	_	Gloss=se]|Morph=4
+7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=4
 8	em	goulenn	verbe	_	_	_	_	_	Gloss=demander
 9	houlenn	houlenn	?	_	_	_	_	_	Gloss=?
 10	pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
@@ -1005,7 +1005,7 @@
 # text = Ar vugale o doa an aer da veha gwelet ar vaouez.
 # text_fr = 'Les enfants ont paru/semblé voir la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	doa	kaout	?	_	_	_	_	_	Gloss=avait
 5	an	art	?	_	_	_	_	_	Gloss=le
@@ -1031,7 +1031,7 @@
 # text = Ar vugale o deus kredet gwelet ar vaouez.
 # text_fr = 'Les enfants ont cru voir la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	kredet	krediñ	verbe	_	_	_	_	_	Gloss=cru
@@ -1044,7 +1044,7 @@
 # text = Ar vugale o doa ket aer da veha kountan.
 # text_fr = 'Les enfants ont semblé déçus.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	doa	kaout	?	_	_	_	_	_	Gloss=avait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -1058,7 +1058,7 @@
 # text = Ar vugale o doa aer klañv.
 # text_fr = 'Les enfants ont semblé malades.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	doa	kaout	?	_	_	_	_	_	Gloss=avait
 5	aer	aer	nom	_	_	_	_	_	Gloss=air
@@ -1069,7 +1069,7 @@
 # text = Ar vugale noa an aer da veha klañv.
 # text_fr = 'Les enfants ont semblé malades.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	noa	kaout	?	_	_	_	_	_	Gloss=avait
 4	an	art	?	_	_	_	_	_	Gloss=le
 5	aer	aer	nom	_	_	_	_	_	Gloss=air
@@ -1098,7 +1098,7 @@
 # text = Ar vugale o deus ket diskouezet o deus gwelet ar vaouez.
 # text_fr = 'Les enfants n'ont pas montré qu'ils voyaient la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -1114,7 +1114,7 @@
 # text = Ar vugale o deus graet an aer da nompas gwelet ar vaouez.
 # text_fr = 'Les enfants ont semblé ne pas voir la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
@@ -1131,7 +1131,7 @@
 # text = Ar vugale o deus klasket gwelet ar vaouez.
 # text_fr = 'Les enfants ont essayé de voir la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
@@ -1157,7 +1157,7 @@
 # text = Ar vugale o deus klasket nompas gwelet ar vaouez.
 # text_fr = 'Les enfants ont essayé de ne pas voir la femme.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
@@ -1171,7 +1171,7 @@
 # text = Ar vugale o deus c'hoant ez afe ar vaouez kuit.
 # text_fr = 'Les enfants veulent que la femme parte.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
@@ -1186,7 +1186,7 @@
 # text = Ar vugale e garche ez afe ar vaouez kuit.
 # text_fr = 'Les enfants veulent que la femme parte.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
 4	garche	karout	verbe	_	_	_	_	_	Gloss=aimerait
 5	ez	ez	?	_	_	_	_	_	Gloss=R
@@ -1200,13 +1200,13 @@
 # text = Ar vugale o deus gwelet ar vaouez o vont kuit.
 # text_fr = 'Les enfants ont vu la femme partir.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -1221,7 +1221,7 @@
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 6	ar	art	?	_	_	_	_	_	Gloss=le
 7	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
-8	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 9	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -1232,12 +1232,12 @@
 1	Pese	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
 2	maouez	maouez	nom	_	_	_	_	_	Gloss=femme
 3	ar	art	?	_	_	_	_	_	Gloss=le
-4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 5	o	o	?	_	_	_	_	_	Gloss=3PL
 6	deus	kaout	?	_	_	_	_	_	Gloss=a
 7	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 8	__	__	?	_	_	_	_	_	Gloss=
-9	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 10	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 11	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -1253,7 +1253,7 @@
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 7	gant	gant	?	_	_	_	_	_	Gloss=avec
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__28
@@ -1268,7 +1268,7 @@
 7	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
@@ -1282,7 +1282,7 @@
 6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 7	gant	gant	?	_	_	_	_	_	Gloss=avec
 8	ar	art	?	_	_	_	_	_	Gloss=le
-9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+9	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
@@ -1297,7 +1297,7 @@
 7	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 8	gant	gant	?	_	_	_	_	_	Gloss=avec
 9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
@@ -1317,7 +1317,7 @@
 1	E	E	?	_	_	_	_	_	Gloss=R
 2	noa	kaout	?	_	_	_	_	_	Gloss=avait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	a	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+4	a	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 5	vugale	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
@@ -1352,7 +1352,7 @@
 3	bet	bet	?	_	_	_	_	_	Gloss=?
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	neus	kaout	?	_	_	_	_	_	Gloss=a
 8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 9	ar	art	?	_	_	_	_	_	Gloss=le
@@ -1367,7 +1367,7 @@
 3	bet)	bet)	?	_	_	_	_	_	Gloss=?
 4	deus	deus	?	_	_	_	_	_	Gloss=de
 5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 7	neus	kaout	?	_	_	_	_	_	Gloss=a
 8	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 9	ar	art	?	_	_	_	_	_	Gloss=le
@@ -1379,7 +1379,7 @@
 # text_fr = 'Tous les enfants ont vu la femme.'
 1	Toud	Toud	?	_	_	_	_	_	Gloss=tout
 2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+3	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 4	neus	kaout	?	_	_	_	_	_	Gloss=a
 5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
 6	ar	art	?	_	_	_	_	_	Gloss=le
@@ -1390,7 +1390,7 @@
 # text = Ar vugale a zo droug en enno.
 # text_fr = 'Les enfants sont en colère.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	a	zo	préposition	_	_	_	_	_	Gloss=est
 4	zo	zo	?	_	_	_	_	_	Gloss=?
 5	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
@@ -1402,7 +1402,7 @@
 # text = Ar vugale o deus dien. / [[*]] Ar vugale neus dien.
 # text_fr = 'Les enfants ont froid.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
 4	deus	kaout	?	_	_	_	_	_	Gloss=a
 5	dien	yen	adjectif	_	_	_	_	_	Gloss=froid
@@ -1494,7 +1494,7 @@
 # text = Ar vugale zo diaouloù bian.
 # text_fr = 'Les enfants sont des petits diables.'
 1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s]|Morph=1
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
 3	zo	zo	?	_	_	_	_	_	Gloss=sont
 4	diaouloù	diaoul.-où(PL.)	nom.?	_	_	_	_	_	Gloss=diable.s
 5	bian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit

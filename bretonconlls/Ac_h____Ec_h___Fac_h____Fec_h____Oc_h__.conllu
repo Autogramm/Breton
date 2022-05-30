@@ -9,7 +9,7 @@
 4	E-giz-se	e-giz	préposition	_	_	_	_	_	Gloss=comme
 5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 6	tapet	tapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=trap.é
-7	kleñvedoù	klañv.-ed(N.).-où(PL.)	adjectif.?.?	_	_	_	_	_	Gloss=malad.ie.s
+7	kleñvedoù	klañv.-ed(N.).[-où(PL.)	adjectif.?.?	_	_	_	_	_	Gloss=malad.ie.s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:33)__1
@@ -34,7 +34,7 @@
 2	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
 3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
 4	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	o	particuleo	?	_	_	_	_	_	Gloss=à]|Morph=4
+5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
 6	kount'	kontañ	verbe	_	_	_	_	_	Gloss=conter
 7			PUNCT	_	_	_	_	Gloss=punct
 8	anv	anv	nom	_	_	_	_	_	Gloss=nom
@@ -50,7 +50,7 @@
 # source = Bodiou-Stephens (12/2021)
 # texttype = Élicitations
 1	Heuc'h	Heuc'h	?	_	_	_	_	_	Gloss=[[Heucxxxh!|Yew
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Hag	&	?	_	_	_	_	_	Gloss=et
 5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
@@ -70,7 +70,7 @@
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
 1	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
-2	!)	!)	?	_	_	_	_	_	Gloss=!]]]
+2	!)	!)	?	_	_	_	_	_	Gloss=!]]
 3	Henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 4	neus	kaout	?	_	_	_	_	_	Gloss=ai
 5	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
@@ -81,7 +81,7 @@
 10	ma	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
 11	foñs	foñs	nom	_	_	_	_	_	Gloss=fond
 12	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
-13	!)	!)	?	_	_	_	_	_	Gloss=!]]]
+13	!)	!)	?	_	_	_	_	_	Gloss=!]]
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__27
 # text = Ac'h ! Henn neus lakaet din e zaorn war ma foñs !
@@ -90,7 +90,7 @@
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
 1	Ac'h	Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
-2			?	_	_	_	_	_	Gloss=!]]]
+2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 5	neus	kaout	?	_	_	_	_	_	Gloss=ai
