@@ -1,46 +1,49 @@
 # sent_id = Bzh5(2007:16).__1
 # text = Ec'h ! E-giz-se vez tapet kleñvedoù !
 # text_fr = 'Pouah ! C'est comme ça qu'on attrape des maladies !'
+# dialect = Standard
 # source = Bzh5 (2007)
 # texttype = Références de corpus
 1	Ec'h	Ec'h	?	_	_	_	_	_	Gloss=Pouah
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	E-giz-se	e-giz	préposition	_	_	_	_	_	Gloss=comme
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	tapet	tapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=trap.é
-7	kleñvedoù	klañv.-ed(N.).[-où(PL.)	adjectif.?.?	_	_	_	_	_	Gloss=malad.ie.s
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	tapet	tapout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trap.é
+7	kleñvedoù	klañv.-ed_(N.).[-où_(PL.)	adjectif.suffixe|nom.?	_	_	_	_	_	Gloss=malad.ie.s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:33)__1
 # text = Fec'h ! Gwell bezañ olifant eget ...
 # text_fr = 'Fi ! Mieux vaut être un éléphant que ... '
+# dialect = Standard
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
 1	Fec'h	Fec'h	?	_	_	_	_	_	Gloss=Fi
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Gwell	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
-5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+4	Gwell	gwelloc'h	adjectif	_	_	_	_	_	Gloss=mieux
+5	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 6	olifant	olifant	?	_	_	_	_	_	Gloss=éléphant
-7	eget	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+7	eget	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
 8	...	...	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:210)__1
+# sent_id = Avezard-Roger(2004a:210)__1
 # text = Oc'h, te 'vez atav o kount' anv dac'h da vamm-gozh.
 # text_fr = 'Oh ! Tu es toujours en train de parler de ta grand-mère'
-# text_phon = ['ɔX', 'te', 'vɛs', 'tao', 'o', 'kunt', 'ano', 'daʁ', 'da', 'vamgoz']
-1	te	pfi	?	_	_	_	_	_	Gloss=toi
-2	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+# text_phon = ɔX te vɛs tao o kunt ano daʁ da vamgoz 
+# source = Preder & Armor (1977)
+1	te	pfi	pronom	_	_	_	_	_	Gloss=toi
+2	'	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=?
 4	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	kount'	kontañ	verbe	_	_	_	_	_	Gloss=conter
 7			PUNCT	_	_	_	_	Gloss=punct
 8	anv	anv	nom	_	_	_	_	_	Gloss=nom
 9	dac'h	diouzh	préposition	_	_	_	_	_	Gloss=de
-10	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-11	vamm-gozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille|Morph=1
+10	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+11	vamm-gozh	kozh	adjectif	_	_	_	_	_	Gloss=vieille|Mutation=target|MutationNUM=1
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__1
@@ -49,17 +52,17 @@
 # location = Bulien
 # source = Bodiou-Stephens (12/2021)
 # texttype = Élicitations
-1	Heuc'h	Heuc'h	?	_	_	_	_	_	Gloss=[[Heucxxxh!|Yew
+1	Heuc'h	Heuc'h	?	_	_	_	_	_	Gloss=[[Heucxxxh_!|Yew
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Hag	&	?	_	_	_	_	_	Gloss=et
-5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zorn	dorn	nom	_	_	_	_	_	Gloss=main
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 10	pastel	pastel	?	_	_	_	_	_	Gloss=miche
-11	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+11	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 12	revr	revr	nom	_	_	_	_	_	Gloss=cul
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -69,18 +72,18 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
+1	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh_!|Yew
 2	!)	!)	?	_	_	_	_	_	Gloss=!]]
 3	Henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
-4	neus	kaout	?	_	_	_	_	_	Gloss=ai
-5	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+5	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+6	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zaorn	dorn	nom	_	_	_	_	_	Gloss=main
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	ma	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	ma	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	foñs	foñs	nom	_	_	_	_	_	Gloss=fond
-12	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
+12	(Ac'h	(Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh_!|Yew
 13	!)	!)	?	_	_	_	_	_	Gloss=!]]
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__27
@@ -89,28 +92,29 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Ac'h	Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
+1	Ac'h	Ac'h	?	_	_	_	_	_	Gloss=[[acxxxh_!|Yew
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
-5	neus	kaout	?	_	_	_	_	_	Gloss=ai
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	zaorn	dorn	nom	_	_	_	_	_	Gloss=main
-10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-11	ma	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+11	ma	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	foñs	foñs	nom	_	_	_	_	_	Gloss=fond
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:18)__1
 # text = Ac'h ! Ar peroked-se !...
 # text_fr = 'Ah ! Ce perroquet !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	Ac'h	Ac'h	?	_	_	_	_	_	Gloss=Rhaaa
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Ar	art	?	_	_	_	_	_	Gloss=le
+4	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	peroked-se	peroked	?	_	_	_	_	_	Gloss=perroquet
 6	!...	!...	?	_	_	_	_	_	Gloss=?

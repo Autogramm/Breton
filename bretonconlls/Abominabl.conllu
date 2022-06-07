@@ -4,13 +4,13 @@
 # dialect = Trégorrois
 # source = Gros (1974)
 # texttype = Ouvrages de recherche
-1	Eno	eno	?	_	_	_	_	_	Gloss=y
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-4	eur	art	nom	_	_	_	_	_	Gloss=un
+1	Eno	eno	adverbe	_	_	_	_	_	Gloss=y
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	chaflik	chaflik	?	_	_	_	_	_	Gloss=flic-flac
 6	abominabl	abominabl	adjectif	_	_	_	_	_	Gloss=extraordinaire
-7	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-8	ree	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+7	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+8	ree	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 9	glao	glav	nom	_	_	_	_	_	Gloss=pluie
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

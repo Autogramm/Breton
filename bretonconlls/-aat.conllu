@@ -1,0 +1,69 @@
+sent_id = Kervella(1995:§279)__1
+text = Raktal [...], ar baotred da dostaat...
+text_fr =  'De suite [...], les hommes s'approchèrent.'
+1	Raktal [...]	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
+2	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+3	ar baotred	art.paotr.-ed (PL.)	article.nom.nom	_	_	_	_	_	Gloss=le.homme.s
+4	da	da	préposition	_	_	_	_	_	Gloss=de
+5	dostaat..	tost	adjectif	_	_	_	_	_	Gloss=proch
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = LeGarrec(1901:8)__1
+text = Daoust piou  hallfe iac'hât gouliou ar vuhe?
+text_fr =  'Qui donc pourrait guérir les blessures de la vie?'
+1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
+2	piou	piv	nom	_	_	_	_	_	Gloss=qui
+3	??	([[R]]_[[1]])	?	_	_	_	_	_	Gloss=([[R]]_[[1]])
+4	?	?	PUNCT	_	_	_	_	_	Gloss=punct
+5	hallfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
+6	iac'hât	yac'h	adjectif	_	_	_	_	_	Gloss=guér
+7	gouliou	gouli.-ioù (PL.)	nom.nom	_	_	_	_	_	Gloss=blessure.s
+8	ar vuhe	art	article	_	_	_	_	_	Gloss=le
+9	?	?	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Herrieu(1994:35)__1
+text = Berraad a raont o zennerezh.
+text_fr =  'Ils raccourcissent leurs tirs.' 
+1	Berraad	berr	adjectif	_	_	_	_	_	Gloss=court
+2	a raont	[[R]]_[[1]] [[ober|font]]	?	_	_	_	_	_	Gloss=[[R]]_[[1]] [[ober|font]]
+3	o	POSS	nom	_	_	_	_	_	Gloss=leur
+4	zennerezh	tennañ.-erezh	verbe.nom	_	_	_	_	_	Gloss=tir.activité
+5	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Bouzeg(1986:36)__1
+text = 'Maon ' tont doc'h netaat an ti.
+text_fr =  'Je viens de nettoyer la maison.' 
+1	'Maon	eman	verbe	_	_	_	_	_	Gloss=suis
+2	'	particule o	verbe	_	_	_	_	_	Gloss=à
+3	tont	dont	verbe	_	_	_	_	_	Gloss=venir
+4	doc'h	doc'h	préposition	_	_	_	_	_	Gloss=de
+5	netaat	naet	adjectif	_	_	_	_	_	Gloss=net
+6	an ti	art	article	_	_	_	_	_	Gloss=le
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Fave(1998:140)__1
+text = Gwellaad a ra dezañ.
+text_fr =  'Il va mieux.' 
+1	Gwellaad	Gwellaad	?	_	_	_	_	_	Gloss=amélior.er
+2	a ra	[[R]]_[[1]] [[ober|fait]]	?	_	_	_	_	_	Gloss=[[R]]_[[1]] [[ober|fait]]
+3	dezañ	da.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=à.lui
+4	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Herrieu(1994:236)__1
+text = Diaesaat a ra d'ar c'hirri kerzhet.
+text_fr =  'Le passage des voitures devient difficile.'
+1	Diaesaat	Diaesaat	?	_	_	_	_	_	Gloss=colspan="10" | 'Ça rend difficile le passage des voitures.'
+2	a ra	a ra	?	_	_	_	_	_	Gloss=???
+3	d'ar	d'ar	?	_	_	_	_	_	Gloss=???
+4	c'hirri	c'hirri	?	_	_	_	_	_	Gloss=???
+5	kerzhet	kerzhet	?	_	_	_	_	_	Gloss=???
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Nicolas(2005:26)__1
+text = [ betad ǝrǝt avǝzǝl mi frasǝt ]
+text_fr = 'Vous devenez plus bête en grandissant.'
+1	[ betad	[ betad	?	_	_	_	_	_	Gloss=Betaat
+2	ǝrǝt	ǝrǝt	?	_	_	_	_	_	Gloss=a rit
+3	avǝzǝl	avǝzǝl	préposition	_	_	_	_	_	Gloss=a-vuzul
+4	mi	mi	?	_	_	_	_	_	Gloss=m'eh
+5	frasǝt ]	frasǝt ]	?	_	_	_	_	_	Gloss=vrasait.

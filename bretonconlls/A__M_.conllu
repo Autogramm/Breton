@@ -6,12 +6,12 @@
 # texttype = Élicitations
 1	(Bed'	(Bed'	?	_	_	_	_	_	Gloss=bez
 2	)	)	?	_	_	_	_	_	Gloss=?
-3	emaoun	eman	?	_	_	_	_	_	Gloss=suis
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-5	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+3	emaoun	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+5	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 7	/	/	?	_	_	_	_	_	Gloss=
-8	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-9	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
-10	emaoun	eman	?	_	_	_	_	_	Gloss=suis
+8	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+9	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
+10	emaoun	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

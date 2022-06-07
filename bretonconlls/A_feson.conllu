@@ -4,13 +4,13 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
-3	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-5	faota	faot	?	_	_	_	_	_	Gloss=faut
+3	èl	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+5	faota	faot	verbe	_	_	_	_	_	Gloss=faut
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	a-dres	a-dres	adjectif	_	_	_	_	_	Gloss=à-droit
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	a-feson	a-feson	adverbe-adjectif	_	_	_	_	_	Gloss=à-façon
+9	a-feson	a-feson	adverbe|adjectif	_	_	_	_	_	Gloss=à-façon
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

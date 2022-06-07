@@ -4,11 +4,11 @@
 # source = Berthou (1985)
 # texttype = Références de corpus
 1	A-drek	A-drek	préposition	_	_	_	_	_	Gloss=après
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	strolladoù	strollad.-où(PL.)	nom.?	_	_	_	_	_	Gloss=groupe.s
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	strolladoù	strollad.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=groupe.s
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
-5	eus	E	?	_	_	_	_	_	Gloss=y.a
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
-7	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-8	sioulder	sioul.-der	adjectif.?	_	_	_	_	_	Gloss=tranquill.ité
+5	eus	E	verbe	_	_	_	_	_	Gloss=y.a
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=autre.chose
+7	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+8	sioulder	sioul.-der	adjectif.suffixe|nom	_	_	_	_	_	Gloss=tranquill.ité
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

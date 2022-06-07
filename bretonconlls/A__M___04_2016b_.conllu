@@ -1,24 +1,24 @@
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = E tiskennan dac'h ar c'hae, evit klask ar goudor.
 # text_fr = 'Je descends du talus pour me mettre à l'abri.'
-1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+1	E	E	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	tiskennan	diskenn	verbe	_	_	_	_	_	Gloss=descends
-3	dac'h	deus	?	_	_	_	_	_	Gloss=de
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	c'hae	kae	nom	_	_	_	_	_	Gloss=talus|Morph=5
+3	dac'h	deus	préposition	_	_	_	_	_	Gloss=de
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	c'hae	kae	nom	_	_	_	_	_	Gloss=talus|Mutation=target|MutationNUM=5
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	goudor	goudor	nom	_	_	_	_	_	Gloss=abri
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = E labouran va zamm douar, hag on skuizh.
 # text_fr = 'Je travaille ma terre, et je suis fatigué.'
-1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+1	E	E	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	labouran	labourat	verbe	_	_	_	_	_	Gloss=travaille
-3	va	POSS	?	_	_	_	_	_	Gloss=mon
+3	va	POSS	déterminant	_	_	_	_	_	Gloss=mon
 4	zamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 5	douar	douar	nom	_	_	_	_	_	Gloss=terre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
@@ -27,48 +27,48 @@
 # text = Kontant e vichen ma kanfe (# aliesoc'h) Yann (aliesoc'h).
 # text_fr = 'Je serais content si Yann chantait plus souvent.'
 1	Kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vichen	COP	?	_	_	_	_	_	Gloss=serais
-4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vichen	COP	verbe	_	_	_	_	_	Gloss=serais
+4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 5	kanfe	kanañ	verbe	_	_	_	_	_	Gloss=chanterait
 6	(#	alies.-oc'jh	adverbe.?	_	_	_	_	_	Gloss=souvent.plus
 7	aliesoc'h)	aliesoc'h)	?	_	_	_	_	_	Gloss=?
-8	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+8	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 9	(aliesoc'h)	alies.-oc'h	adverbe.?	_	_	_	_	_	Gloss=souvent.plus
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
-# text = Kontant e vichen ma c'houefen sur e kanfe [[nom propre|Yann]].
+# text = Kontant e vichen ma c'houefen sur e kanfe [[nom propre|Yann.
 # text_fr = 'Je serais content si je savais avec certitude que Yann chantera.'
 1	Kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vichen	COP	?	_	_	_	_	_	Gloss=serais
-4	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-5	c'houefen	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vichen	COP	verbe	_	_	_	_	_	Gloss=serais
+4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+5	c'houefen	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savais
 6	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	kanfe	kanañ	verbe	_	_	_	_	_	Gloss=chanterait
-9	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
-10	propre|Yann]].	propre|Yann]].	?	_	_	_	_	_	Gloss=?
+9	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
+10	propre|Yann.	propre|Yann.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
-# text = Gouzout a rin sur ... e kano Yann / [[nom propre|Yann]] a gano.
+# text = Gouzout a rin sur ... e kano Yann / [[nom propre|Yann a gano.
 # text_fr = 'Je saurais avec certitude que Yann chantera.'
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Gouzout	Gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	rin	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+1	Gouzout	Gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	rin	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
 5	...	...	PUNCT	_	_	_	_	Gloss=punct
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 7	kano	kanañ	verbe	_	_	_	_	_	Gloss=chantera
 8	Yann	Yann	?	_	_	_	_	_	Gloss=Yann
 9	/	/	?	_	_	_	_	_	Gloss=/
-10	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
-11	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=R|Morph=1
-12	a	kanañ	verbe	_	_	_	_	_	Gloss=chantera
+10	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann]][[R|Mutation=trigger|MutationNUM=1
+11	propre|Yann	kanañ	verbe	_	_	_	_	_	Gloss=chantera
+12	a	a	préposition	_	_	_	_	_	Gloss=?
 13	gano.	gano.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
@@ -78,32 +78,33 @@
 # source = A. M. (04/2016b)
 # texttype = Élicitations
 1	Kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vichen	COP	?	_	_	_	_	_	Gloss=serais
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vichen	COP	verbe	_	_	_	_	_	Gloss=serais
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-6	meche	COP	?	_	_	_	_	_	Gloss=avais
-7	gouezet	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=su
-8	ha	Q	?	_	_	_	_	_	Gloss=si
+5	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+6	meche	COP	verbe	_	_	_	_	_	Gloss=avais
+7	gouezet	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=su
+8	ha	Q	Q	_	_	_	_	_	Gloss=si
 9	Yann	Yann	?	_	_	_	_	_	Gloss=Yann
-10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 11	ganfe	kanañ	verbe	_	_	_	_	_	Gloss=chanterait
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = N'ouzon ket hag (alies / bez a) noa choa da ganañ.
 # text_fr = 'Je ne sais pas si il avait (souvent) du plaisir à chanter.'
+# source = A. M. (04/2016b)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	hag	Q	?	_	_	_	_	_	Gloss=si
+4	hag	Q	Q	_	_	_	_	_	Gloss=si
 5	(alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 7	bez	bez	?	_	_	_	_	_	Gloss=?
 8	a)	a)	?	_	_	_	_	_	Gloss=?
 9	noa	noa	?	_	_	_	_	_	Gloss=?
 10	choa	joa	nom	_	_	_	_	_	Gloss=joie
-11	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 12	ganañ	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -114,30 +115,31 @@
 # source = A. M. (04/2016b)
 # texttype = Élicitations
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	hag	Q	?	_	_	_	_	_	Gloss=si
-5	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
+4	hag	Q	Q	_	_	_	_	_	Gloss=si
+5	abred	abred	adverbe|adjectif	_	_	_	_	_	Gloss=tôt
 6	ez	ez	?	_	_	_	_	_	Gloss=R
 7	a	mont	verbe	_	_	_	_	_	Gloss=va
 8	(alies)	(alies)	?	_	_	_	_	_	Gloss=souvent
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	gousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = N'ouzon ket hag (sonj) em eus (sonj) dac'h tout.
 # text_fr = 'Je ne sais pas si je me souviens de tout.'
+# source = A. M. (04/2016b)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	hag	Q	?	_	_	_	_	_	Gloss=si
+4	hag	Q	Q	_	_	_	_	_	Gloss=si
 5	(sonj)	soñj	nom	_	_	_	_	_	Gloss=souvenir
-6	em	kaout	?	_	_	_	_	_	Gloss=ai
-7	eus	eus	?	_	_	_	_	_	Gloss=?
+6	em	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+7	eus	eus	préposition	_	_	_	_	_	Gloss=?
 8	(sonj)	soñj	nom	_	_	_	_	_	Gloss=souvenir
-9	dac'h	deus	?	_	_	_	_	_	Gloss=de
-10	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	dac'h	deus	préposition	_	_	_	_	_	Gloss=de
+10	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
@@ -147,85 +149,89 @@
 # source = A. M. (04/2016b)
 # texttype = Élicitations
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	hag	Q	?	_	_	_	_	_	Gloss=si
+4	hag	Q	Q	_	_	_	_	_	Gloss=si
 5	//sonj	soñj	nom	_	_	_	_	_	Gloss=souvenir
-6	dac'h	deus	?	_	_	_	_	_	Gloss=de
+6	dac'h	deus	préposition	_	_	_	_	_	Gloss=de
 7	tout//	tout//	?	_	_	_	_	_	Gloss=tout
-8	em	kaout	?	_	_	_	_	_	Gloss=ai
+8	em	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 9	eus.	eus.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Me a gred Simone a blanto patatez er bloavezh-mañ egist he amezog.
 # text_fr = 'Je crois que Simone plantera des patates cette année comme son voisin.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = A. M. (04/2016b)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
 4	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	blanto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 7	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
-8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-9	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+8	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+9	bloavezh-mañ	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 10	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 12	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Me a gred (e planto) Simone (a blanto) patatez er bloavezh-mañ egist he amezog.
 # text_fr = 'Je crois que Simone plantera des patates cette année comme son voisin.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = A. M. (04/2016b)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
-4	(e	(e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	(e	(e	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	planto)	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 6	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
-7	(a	(a	?	_	_	_	_	_	Gloss=R|Morph=1
+7	(a	(a	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	blanto)	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 9	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
-10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-11	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+10	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+11	bloavezh-mañ	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 12	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+13	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 14	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Me a gred alato e planto patatez (Simone) er bloavezh-mañ (Simone) egist he amezog.
 # text_fr = 'Je crois cependant que Simone plantera des patates cette année comme son voisin.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = A. M. (04/2016b)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
-4	alato	alato	?	_	_	_	_	_	Gloss=pourtant
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	alato	alato	adverbe	_	_	_	_	_	Gloss=pourtant
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	planto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 7	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 8	(Simone)	(Simone)	?	_	_	_	_	_	Gloss=Simone
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+10	bloavezh-mañ	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 11	(Simone)	(Simone)	?	_	_	_	_	_	Gloss=Simone
 12	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+13	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 14	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Me a gred patatez kentoc'h e planto Simone er bloavezh-mañ egist he amezog.
 # text_fr = 'Je crois que Simone plantera des patates cette année comme son voisin.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = A. M. (04/2016b)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	gred	?	_	_	_	_	_	Gloss=crois
 4	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 5	kentoc'h	kentoc'h	?	_	_	_	_	_	Gloss=plutôt
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 7	planto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 8	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+10	bloavezh-mañ	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 11	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-12	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+12	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 13	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -235,13 +241,13 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	bla-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
-3	espress	espress	?	_	_	_	_	_	Gloss=exprès
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+3	espress	espress	adverbe	_	_	_	_	_	Gloss=exprès
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	planto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
-6	(ar	art	?	_	_	_	_	_	Gloss=le
-7	sodenn-se	DEM	?	_	_	_	_	_	Gloss=ci
+6	(ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	sodenn-se	DEM	pronom	_	_	_	_	_	Gloss=ci
 8	/[[*]]	/[[*]]	?	_	_	_	_	_	Gloss=/Simone
 9	Simone)	Simone)	?	_	_	_	_	_	Gloss=?
 10	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
@@ -256,15 +262,15 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	jouch	soñjal	verbe	_	_	_	_	_	Gloss=pense
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	bla-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
 7	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
 8	(espress)	espres	adverbe	_	_	_	_	_	Gloss=exprès
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	blanto	blanto	?	_	_	_	_	_	Gloss=plantera
 11	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 12	(espress)	espres	adverbe	_	_	_	_	_	Gloss=exprès
@@ -279,48 +285,50 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=arracher
-8	un	art	?	_	_	_	_	_	Gloss=un
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	dant	dant	nom	_	_	_	_	_	Gloss=dent
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	ospital	ospital	nom	_	_	_	_	_	Gloss=hôpital
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Me a gred (er bloavezh-mañ) Simone (er bloavezh-mañ) a lakeio plantañ patatez (er bloavezh-mañ).
 # text_fr = 'Je crois que cette année, Simone fera planter des patates.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = A. M. (04/2016b)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
-4	(er	art	?	_	_	_	_	_	Gloss=le
-5	bloavezh-mañ)	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+4	(er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	bloavezh-mañ)	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 6	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
-7	(er	art	?	_	_	_	_	_	Gloss=le
-8	bloavezh-mañ)	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	(er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	bloavezh-mañ)	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	lakeio	lakaat	verbe	_	_	_	_	_	Gloss=mettra
 11	plantañ	plantañ	verbe	_	_	_	_	_	Gloss=planter
 12	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
-13	(er	art	?	_	_	_	_	_	Gloss=le
-14	bloavezh-mañ)	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+13	(er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+14	bloavezh-mañ)	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = Sell! un trakteur bihan brao melen farsus !
 # text_fr = 'Regarde ! Un beau petit tracteur jaune rigolo!'
+# source = A. M. (04/2016b)
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	un	art	?	_	_	_	_	_	Gloss=un
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	trakteur	trakteur	?	_	_	_	_	_	Gloss=tracteur
-5	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-6	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+5	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+6	brao	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 7	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
 8	farsus	farsus	adjectif	_	_	_	_	_	Gloss=rigolo
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -328,15 +336,18 @@
 # sent_id = Lesneven/Kerlouan,A.M.(04/2016b)__1
 # text = A-wechoù, ar pezh a gaser (ganeomp/[[*]] gantor) a gaver barzh ar magajinoù.
 # text_fr = 'Des fois ce qu'on apporte avec soi, on le trouve dans les magasins.'
+# source = A. M. (04/2016b)
 1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	pezh	pezh	?	_	_	_	_	_	Gloss=que
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	gaser	kas.IMP	verbe.?	_	_	_	_	_	Gloss=envoie.on
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-8	gaver	kavout	verbe	_	_	_	_	_	Gloss=trouve
-9	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	magajinoù	magajinoù	?	_	_	_	_	_	Gloss=magasins
-12	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=que
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	gaser	kas.IMP	verbe.pronom	_	_	_	_	_	Gloss=envoie.on
+7	(ganeomp/[[*]]	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.nous
+8	gantor)	gant	préposition	_	_	_	_	_	Gloss=avec
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+10	gaver	kavout	verbe	_	_	_	_	_	Gloss=trouve
+11	barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	magajinoù	magajinoù	?	_	_	_	_	_	Gloss=magasins
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,23 +1,25 @@
 # sent_id = Moulleg(1978:24)__1
 # text = Toui ! C'hwitell ! Tapet on !
 # text_fr = 'Zut ! Flûte ! Fichu !'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Toui	interjection	?	_	_	_	_	_	Gloss=Nom.de.D..
+1	Toui	interjection	interjection	_	_	_	_	_	Gloss=Nom.de.D..
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	C'	C'	?	_	_	_	_	_	Gloss=[[cxxxhwitell!|flûte
-4	hwitell	hwitell	?	_	_	_	_	_	Gloss=!]]
+3	C'hwitell	C'hwitell	?	_	_	_	_	_	Gloss=[[cxxxhwitell_!|flûte
+4			?	_	_	_	_	_	Gloss=!]]
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	Tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
-7	on	COP	?	_	_	_	_	_	Gloss=suis
+6	Tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
+7	on	COP	verbe	_	_	_	_	_	Gloss=suis
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:48)__1
 # text = Atoe ! Digarez !
 # text_fr = 'Oh ! Pardon !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Atoe	Atoe	?	_	_	_	_	_	Gloss=[[Atoe!|Oh
+1	Atoe	Atoe	?	_	_	_	_	_	Gloss=[[Atoe_!|Oh
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Digarez	digarez	nom	_	_	_	_	_	Gloss=pardon
@@ -29,14 +31,14 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	A-toue	A-toue	?	_	_	_	_	_	Gloss=c.est.que
+1	A-toue	A-toue	interjection	_	_	_	_	_	Gloss=c.est.que
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	houlz-se	koulz	?	_	_	_	_	_	Gloss=temps]]-[[DEM|là|Morph=5
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	houlz-se	koulz	nom	_	_	_	_	_	Gloss=temps]]-[[DEM|là|Mutation=target|MutationNUM=5
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ne	ne	?	_	_	_	_	_	Gloss=ne
-8	oan	COP	nom	_	_	_	_	_	Gloss=étais
+7	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+8	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	pinvidig	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -44,6 +46,7 @@
 # sent_id = Biguet(2017:33)__1
 # text = Atoe, Klaskomp !
 # text_fr = 'Allons, cherchons !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Klaskomp	klask	verbe	_	_	_	_	_	Gloss=cherchons

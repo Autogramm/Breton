@@ -5,10 +5,10 @@
 # texttype = Ouvrages de recherche
 1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dit
 2	so	zo	?	_	_	_	_	_	Gloss=est
-3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-4	penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
+3	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	penaos	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=que
 5	na'	na'.na'	?.?	_	_	_	_	_	Gloss=ne.R
-6	m	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+6	m	POP	pronom	_	_	_	_	_	Gloss=me|Mutation=trigger|MutationNUM=2
 7	c'hare	karout	verbe	_	_	_	_	_	Gloss=aimait
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

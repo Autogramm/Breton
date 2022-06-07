@@ -1,12 +1,13 @@
 # sent_id = LeGall(1958:'mond')__1
 # text = abarz mond en douar e rankfen lakaad divesker nevez.
 # text_fr = 'Avant de travailler un sol retourné, je devrais mettre des jambes neuves.'
-# source = Le Gall (1958)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	abarz	abarz	?	_	_	_	_	_	Gloss=avant
 2	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	douar	douar	nom	_	_	_	_	_	Gloss=terre
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	rankfen	rankout	verbe	_	_	_	_	_	Gloss=devrais
 7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 8	divesker	duel.gar	?.nom	_	_	_	_	_	Gloss=2.jambe
@@ -20,12 +21,12 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Kar	kar	?	_	_	_	_	_	Gloss=car
+1	Kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 2	a-vihanoc'h	a-vihanoc'h	?	_	_	_	_	_	Gloss=sinon
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	krog	kregiñ	verbe	_	_	_	_	_	Gloss=croche
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'hleñved	kleñved	nom	_	_	_	_	_	Gloss=maladie|Morph=5
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	c'hleñved	kleñved	nom	_	_	_	_	_	Gloss=maladie|Mutation=target|MutationNUM=5
 7	a-barzh	a-barzh	préposition	_	_	_	_	_	Gloss=dedans
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,8 +36,8 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	a-barzh	a-barzh	préposition	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	vioh	COP	?	_	_	_	_	_	Gloss=serez
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	vioh	COP	verbe	_	_	_	_	_	Gloss=serez
 4	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -47,10 +48,10 @@
 # source = Croq (1908)
 # texttype = Références de corpus
 1	a-barz	a-barz	?	_	_	_	_	_	Gloss=avant
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	vezin	COP	?	_	_	_	_	_	Gloss=serai
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	vezin	COP	verbe	_	_	_	_	_	Gloss=serai
 4	d'	da	préposition	_	_	_	_	_	Gloss=de
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	distro	distro	?	_	_	_	_	_	Gloss=retour
 
 # sent_id = Menard&Kadored(2001:§'a-barzh')__1
@@ -59,25 +60,27 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 5	a-barzh	a-barzh	préposition	_	_	_	_	_	Gloss=avant
-6	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-8	ul	art	?	_	_	_	_	_	Gloss=un
+6	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+8	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	lev	lev	?	_	_	_	_	_	Gloss=lieue
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§599)__1
 # text = Deu d'am haoud a-barz ober netra.
 # text_fr = 'Viens me trouver avant de faire quoi que ce soit.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	Deu	dont	verbe	_	_	_	_	_	Gloss=viens
 2	d'	da	préposition	_	_	_	_	_	Gloss=pour
-3	am	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+3	am	POP	pronom	_	_	_	_	_	Gloss=me|Mutation=trigger|MutationNUM=2
 4	haoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
 5	a-barz	a-barz	?	_	_	_	_	_	Gloss=avant
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 7	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

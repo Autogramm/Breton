@@ -4,11 +4,11 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Sammet	sammañ	verbe	_	_	_	_	_	Gloss=chargé
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	??	??	?	_	_	_	_	_	Gloss=(Y)
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	hleñved	kleñved	nom	_	_	_	_	_	Gloss=maladie|Morph=5
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	hleñved	kleñved	nom	_	_	_	_	_	Gloss=maladie|Mutation=target|MutationNUM=5
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

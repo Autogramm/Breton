@@ -4,17 +4,17 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Mestr	mestr	nom	_	_	_	_	_	Gloss=maître
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	tiegezh	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.sfx
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	oa	COP	?	_	_	_	_	_	Gloss=était
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	zad	tad	nom	_	_	_	_	_	Gloss=père
-11	a-wel	a	préposition	_	_	_	_	_	Gloss=en|Morph=1
-12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	a-wel	a	préposition	_	_	_	_	_	Gloss=en|Mutation=trigger|MutationNUM=1
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	c'hellout	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
 14	paeañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
 15	...	...	PUNCT	_	_	_	_	Gloss=punct

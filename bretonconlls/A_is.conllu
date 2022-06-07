@@ -5,14 +5,14 @@
 # texttype = Ouvrages de recherche
 1	Sellit	sellout	verbe	_	_	_	_	_	Gloss=regardez
 2	dreist	dreist	préposition	_	_	_	_	_	Gloss=au-dessus
-3	ha	&	?	_	_	_	_	_	Gloss=et
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 4	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	sellit	sellout	verbe	_	_	_	_	_	Gloss=regardez
 7	a	a-zioc'h	préposition	_	_	_	_	_	Gloss=dessus
 8	zioc'h	zioc'h	?	_	_	_	_	_	Gloss=?
-9	hac	&	?	_	_	_	_	_	Gloss=et
-10	a	a	préposition	_	_	_	_	_	Gloss=P|Morph=1
+9	hac	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+10	a	a	préposition	_	_	_	_	_	Gloss=P|Mutation=trigger|MutationNUM=1
 11	is	is	?	_	_	_	_	_	Gloss=dessous
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,10 +22,10 @@
 # source = Rostrenen (1732)
 # texttype = Ouvrages de recherche
 1	a-zioc'h	a-zioc'h	?	_	_	_	_	_	Gloss=dessus
-2	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+2	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 3	penn	penn	nom	_	_	_	_	_	Gloss=tête
-4	hac	&	?	_	_	_	_	_	Gloss=et
-5	a	a	préposition	_	_	_	_	_	Gloss=P|Morph=1
+4	hac	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	a	a	préposition	_	_	_	_	_	Gloss=P|Mutation=trigger|MutationNUM=1
 6	is	is	?	_	_	_	_	_	Gloss=dessous
-7	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
-8	treid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+7	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
+8	treid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s

@@ -5,13 +5,13 @@
 # location = Tréguier
 # source = Ar Moal (1902)
 # texttype = Références de corpus
-1	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	vleo	blev	nom	_	_	_	_	_	Gloss=chevelure
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zavas	sevel	verbe	_	_	_	_	_	Gloss=monta
 5	a-bik	a-bik	adverbe	_	_	_	_	_	Gloss=debout
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	benn	penn	nom	_	_	_	_	_	Gloss=tête
 
 # sent_id = Elégoët(1982:19)__1
@@ -21,13 +21,13 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	c'helles	gallout	verbe	_	_	_	_	_	Gloss=peux
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	a-pik	a-pik	?	_	_	_	_	_	Gloss=à-pic
-6	e-mod-se	er-mod-se	?	_	_	_	_	_	Gloss=comme.ça
+6	e-mod-se	er-mod-se	adverbe	_	_	_	_	_	Gloss=comme.ça
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	ar	art	?	_	_	_	_	_	Gloss=le
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goemon
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
