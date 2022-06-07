@@ -4,31 +4,32 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
-2	antreal	antreal	?	_	_	_	_	_	Gloss=entr.er
-3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	antreal	antreal	verbe	_	_	_	_	_	Gloss=entr.er
+3	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	c'hlas	c'hlas	?	_	_	_	_	_	Gloss=5
 
-# sent_id =  Vannetais, Le Bayon (1878)__1
-# text = E oan o soñjal ganin ma-unan... ''Graphie peurunvan''
+# sent_id = Vannetais,LeBayon(1878)__1
+# text = E oan o soñjal ganin ma-unan... Graphie peurunvan
 # text_fr = 'Je songeais en moi-même.'
-# text_phon = ['É oen', 'é choñjal', 'get-n-eign', 'me unañ...']
-1	E	E	?	_	_	_	_	_	Gloss=R
-2	oan	COP	nom	_	_	_	_	_	Gloss=étais
-3	o	particuleo	?	_	_	_	_	_	Gloss=P|Morph=4
+# text_phon = É oen é choñjal get-n-eign me unañ... 
+# source = Herri (1982)
+1	E	E	verbe	_	_	_	_	_	Gloss=R
+2	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+3	o	particule_o	?	_	_	_	_	_	Gloss=P
 4	soñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
-5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+5	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 
 # sent_id = Herri(1982:75)__1
 # text = An Itron a zirollas d'e dabutal.
 # text_fr = 'La patronne a commencé à l'engueuler.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	Itron	itron	?	_	_	_	_	_	Gloss=Dame
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	Itron	itron	nom	_	_	_	_	_	Gloss=Dame
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zirollas	diroll	verbe	_	_	_	_	_	Gloss=commença
 5	d'	da	préposition	_	_	_	_	_	Gloss=de
-6	e	POP	?	_	_	_	_	_	Gloss=le|Morph=1
+6	e	POP	pronom	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=1
 7	dabutal	tabutal	?	_	_	_	_	_	Gloss=engueuler
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -38,11 +39,11 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Kroget	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
-2	on	COP	?	_	_	_	_	_	Gloss=suis
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	vlejal	blejal	verbe	_	_	_	_	_	Gloss=beugler
-5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	ul	art	?	_	_	_	_	_	Gloss=un
+5	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+6	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	leue	leue	nom	_	_	_	_	_	Gloss=veau
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -53,13 +54,13 @@
 # location = Pleyben
 # source = Ar Gow (1999)
 # texttype = Références de corpus
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 3	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
-4	den	nomnu	nom	_	_	_	_	_	Gloss=homme
+4	den	nom_nu	nom	_	_	_	_	_	Gloss=homme
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
-8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	laerezh	laerezh	verbe	_	_	_	_	_	Gloss=voler
+8	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 9	tanvez-amann...	danvez	nom	_	_	_	_	_	Gloss=matière
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

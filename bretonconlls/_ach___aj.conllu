@@ -5,13 +5,13 @@
 # location = Cléder
 # source = Seite (1985)
 # texttype = Références de corpus
-1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
-2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	veze	COP	?	_	_	_	_	_	Gloss=était
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	genaouajou	genou.-où(PL.)	?.?	_	_	_	_	_	Gloss=bouche.s
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+1	Ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=tant
+2	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	veze	COP	verbe	_	_	_	_	_	Gloss=était
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	genaouajou	genou.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=bouche.s
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
 9	tourlonka	tour-.lonkañ	?.verbe	_	_	_	_	_	Gloss=pfx.avaler
 10	...	...	PUNCT	_	_	_	_	Gloss=punct
@@ -23,8 +23,8 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	an	art	?	_	_	_	_	_	Gloss=le
-2	defotadou	de-.faotañ.-où(PL.)	?.verbe.?	_	_	_	_	_	Gloss=pfx.faut.PL
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	defotadou	de-.faotañ.-où_(PL.)	?.verbe.suffixe	_	_	_	_	_	Gloss=pfx.faut.PL
 3	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 4	sizun:	sizhun	nom	_	_	_	_	_	Gloss=semaine
 5	sukr	sukr	nom	_	_	_	_	_	Gloss=sucre
@@ -40,87 +40,95 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Tapet	tapout	?	_	_	_	_	_	Gloss=pris
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oan	COP	nom	_	_	_	_	_	Gloss=étais
+1	Tapet	tapout	verbe	_	_	_	_	_	Gloss=pris
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+5	en	P.e	préposition	_	_	_	_	_	Gloss=en
 6	berraj	berr	adjectif	_	_	_	_	_	Gloss=court
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:96)__1
 # text = Glavaj a ra arre.
 # text_fr = 'Il mouille encore.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Glavaj	glav	nom	_	_	_	_	_	Gloss=pluie
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	arre	adarre	adverbe	_	_	_	_	_	Gloss=encore
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:356)__1
 # text = En ti-mañ a zo daou chomaj.
 # text_fr = 'Dans cette maison-ci, il y a deux logements.'
-# source = Gros (1984)
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	zo	E	?	_	_	_	_	_	Gloss=y.a
+4	zo	E	verbe	_	_	_	_	_	Gloss=y.a
 5	chomaj	chom	verbe	_	_	_	_	_	Gloss=reste
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
 # text = Echu eo ar vansoniaj, hag ar hoataj braz a zo e plas.
 # text_fr = 'La maçonnerie est finie et la charpente est en place.'
-# source = Le Gall (1958)
-1	Echu	echu	?	_	_	_	_	_	Gloss=fini
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ar	art	?	_	_	_	_	_	Gloss=le
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Echu	echu	verbe	_	_	_	_	_	Gloss=fini
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	vansoniaj	vansoniaj	?	_	_	_	_	_	Gloss=1
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	hoataj	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
-9	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	hoataj	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
+9	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 10	a	a	préposition	_	_	_	_	_	Gloss=R
 11	zo	zo	?	_	_	_	_	_	Gloss=est
-12	e	P.e	?	_	_	_	_	_	Gloss=en
+12	e	P.e	préposition	_	_	_	_	_	Gloss=en
 13	plas	plas	nom	_	_	_	_	_	Gloss=place
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArGow(2005:37)__1
 # text = dalc'het ouzh ar c'hoadaj hag ar vogeriaj gant mein ha kerdin
 # text_fr = 'tenu à la charpente et à la maçonnerie avec des pierres et des cordes.'
-# source = Ar Gow (2005)
-1	dalc'het	derc'hel.-et(Adj.)	?.?	_	_	_	_	_	Gloss=ten.u
+# dialect = Cornouaillais
+# source = Ar Gow (1964)
+# texttype = Références de corpus
+1	dalc'het	derc'hel.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=ten.u
 2	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	c'hoadaj	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
-5	hag	&	?	_	_	_	_	_	Gloss=et
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vogeriaj	moger	verbe	_	_	_	_	_	Gloss=mur|Morph=1
-8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	mein	mein	?	_	_	_	_	_	Gloss=pierres
-10	ha	&	?	_	_	_	_	_	Gloss=et
-11	kerdin	kordenn.plurielinterne	nom.?	_	_	_	_	_	Gloss=corde.s
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	c'hoadaj	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
+5	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	vogeriaj	moger	verbe	_	_	_	_	_	Gloss=mur|Mutation=target|MutationNUM=1
+8	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+9	mein	mein	nom	_	_	_	_	_	Gloss=pierres
+10	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+11	kerdin	kordenn.pluriel_interne	nom.?	_	_	_	_	_	Gloss=corde.s
 
-# sent_id = Gros (1970b:§'avelaj') __1
+# sent_id = Gros(1970b:§'avelaj')__1
 # text = Pa veze bet avelaj evel-se e miz Here ez een d'ar hoajoù da geuneuta.
 # text_fr = j'allais dans les bois ramasser du bois mort.'
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+# source = Ar Gow (1964)
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
 4	avelaj	avel	nom	_	_	_	_	_	Gloss=vent
-5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	miz	miz	?	_	_	_	_	_	Gloss=mois
+5	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	miz	miz	nom	_	_	_	_	_	Gloss=mois
 8	ez	ez	?	_	_	_	_	_	Gloss=R
 9	een	mont	verbe	_	_	_	_	_	Gloss=allais
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	hoajoù	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
-13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-14	geuneuta	keneud.-a	nom.verbe	_	_	_	_	_	Gloss=petit.bois.ramasser
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	hoajoù	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+14	geuneuta	keneud.-a	nom.verbe|suffixe	_	_	_	_	_	Gloss=petit.bois.ramasser
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:14)__1
@@ -129,49 +137,55 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
-2	taoler	teuler.IMP	?.?	_	_	_	_	_	Gloss=jette.on
+1	E	E	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+2	taoler	teuler.IMP	verbe.pronom	_	_	_	_	_	Gloss=jette.on
 3	houarnaj	houarn	nom	_	_	_	_	_	Gloss=fer
 4	nend	nend	?	_	_	_	_	_	Gloss=ne
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ur	art	?	_	_	_	_	_	Gloss=un
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	spont	spont	nom	_	_	_	_	_	Gloss=honte
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:356)__1
 # text = Mouded a zo kignaj.
 # text_fr = 'Les mottes sont de l'écorchage.' (croûte gazonnée)
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Mouded	mouded	?	_	_	_	_	_	Gloss=mottes
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	kignaj	kignaj	?	_	_	_	_	_	Gloss=écorch.'@'@age'@'@
+4	kignaj	kignaj	?	_	_	_	_	_	Gloss=écorch.age
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaozeal')__1
 # text = Te a oar kaozeal saoznaj ?
 # text_fr = 'Tu sais parler anglais ?'
-# source = Gros (1989)
-1	Te	pfi	?	_	_	_	_	_	Gloss=toi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
 4	kaozeal	kaozeal	verbe	_	_	_	_	_	Gloss=parler
 5	saoznaj	saoznaj	?	_	_	_	_	_	Gloss=anglais
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:356)__1
 # text = E Lanngoad e vez greet strudaj euz ar struj.
-# text_fr = 'A Langoat on appelle les broussailles (''struj'') ''strudaj''.'
-# source = Gros (1984)
-1	E	P.e	?	_	_	_	_	_	Gloss=à
-2	Lanngoad	nompropre	?	_	_	_	_	_	Gloss=Langoat
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+# text_fr = 'A Langoat on appelle les broussailles (struj) strudaj.'
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	E	P.e	préposition	_	_	_	_	_	Gloss=à
+2	Lanngoad	nom_propre	?	_	_	_	_	_	Gloss=Langoat
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	strudaj	strudaj	?	_	_	_	_	_	Gloss="strudaj"
-7	euz	eus	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	struj	struj	?	_	_	_	_	_	Gloss=broussailles
+7	euz	eus	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	struj	struj	nom	_	_	_	_	_	Gloss=broussailles
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:79).__1
@@ -180,18 +194,18 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	chome	chom	verbe	_	_	_	_	_	Gloss=restait
-4	e-giz-se	e-giz.ads	préposition.?	_	_	_	_	_	Gloss=comme.ça
-5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+4	e-giz-se	e-giz.ads	préposition.adverbe|suffixe	_	_	_	_	_	Gloss=comme.ça
+5	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 6	eur	eur	nom	_	_	_	_	_	Gloss=heure
 7	horolaj	horolaj	?	_	_	_	_	_	Gloss=horloge
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ha	&	?	_	_	_	_	_	Gloss=et
+9	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 10	den	den	nom	_	_	_	_	_	Gloss=personne
 11	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucune
-12	war	war	?	_	_	_	_	_	Gloss=sur
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	war	war	préposition	_	_	_	_	_	Gloss=sur
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	dro	war-dro	préposition	_	_	_	_	_	Gloss=tour
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

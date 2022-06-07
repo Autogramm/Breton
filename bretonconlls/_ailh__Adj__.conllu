@@ -1,8 +1,8 @@
-# sent_id = Bouzec & al. (2017:192)__1
+# sent_id = Bouzec&al.(2017:192)__1
 # text = Ma dao pomay noñ founnuch.
 # text_fr = 'Il faut le paumailler rapidement.' (relever une ligne)
 1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Emañ
-2	dao	dao	adjectif	_	_	_	_	_	Gloss=dav
+2	dao	dao	interjection	_	_	_	_	_	Gloss=dav
 3	pomay	pomay	?	_	_	_	_	_	Gloss=pomailhañ
 4	noñ	noñ	?	_	_	_	_	_	Gloss=anezhañ
 5	founnuch	founnuch	?	_	_	_	_	_	Gloss=fonnus.
@@ -11,9 +11,11 @@
 # sent_id = Gros(1984:355)__1
 # text = Tanaillet eo ma zreid.
 # text_fr = 'Mes pieds sont brûlants.'
-# source = Gros (1984)
-1	Tanaillet	tan.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=feu.-é
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-4	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Tanaillet	tan.-et_(Adj.)	nom.verbe|suffixe	_	_	_	_	_	Gloss=feu.-é
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+4	zreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

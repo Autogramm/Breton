@@ -5,9 +5,9 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Redek	redek	verbe	_	_	_	_	_	Gloss=courir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
-4	par	par	préposition-nom	_	_	_	_	_	Gloss=comme
-5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	rae	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
+4	par	par	préposition|nom	_	_	_	_	_	Gloss=comme
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 6	c'helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

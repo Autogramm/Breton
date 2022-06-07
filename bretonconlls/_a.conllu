@@ -1,19 +1,19 @@
-# sent_id = Gros (1970b:§'avelaj') __1
+# sent_id = Gros(1970b:§'avelaj')__1
 # text = Pa veze bet avelaj evel-se e miz Here ez een d'ar hoajoù da geuneuta.
 # text_fr = j'allais dans les bois ramasser du bois mort.'
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	avelaj	avel.-ach,-aj	nom.?	_	_	_	_	_	Gloss=vent.erie
-5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	miz	miz	?	_	_	_	_	_	Gloss=mois
-8	Here	miz	?	_	_	_	_	_	Gloss=octobre
+4	avelaj	avel.-ach,_-aj	nom.suffixe|nom	_	_	_	_	_	Gloss=vent.erie
+5	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	miz	miz	nom	_	_	_	_	_	Gloss=mois
+8	Here	miz	nom	_	_	_	_	_	Gloss=octobre
 9	ez	ez	?	_	_	_	_	_	Gloss=R
 10	een	mont	verbe	_	_	_	_	_	Gloss=allais
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	ar	art	?	_	_	_	_	_	Gloss=le
-13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 14	geuneuta	keneud	nom	_	_	_	_	_	Gloss=petit.bois
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -23,29 +23,31 @@
 # source = Le Berre & Le Dû (1999)
 # texttype = Références de corpus
 1	Arabad	arabat	?	_	_	_	_	_	Gloss=interdit
-2	vo	COP	?	_	_	_	_	_	Gloss=sera
-3	dim	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
-4	bea	bezañ	?	_	_	_	_	_	Gloss=être
-5	war	war-lerc'h	?	_	_	_	_	_	Gloss=après
+2	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+3	dim	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+4	bea	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+5	war	war-lerc'h	préposition	_	_	_	_	_	Gloss=après
 6	lec'h	lec'h	?	_	_	_	_	_	Gloss=?
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	foar	foar	nom	_	_	_	_	_	Gloss=foire
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	kôc'ha	kaoc'h	?	_	_	_	_	_	Gloss=merde
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:358)__1
 # text = Peogwir e welen anezañ o vazata e gazeg.
 # text_fr = 'puisque je le voyais bâtonner sa jument.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	welen	gwelout	verbe	_	_	_	_	_	Gloss=voyais
-4	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-6	vazata	bazh.-ad	nom.?	_	_	_	_	_	Gloss=bâton.at
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-8	gazeg	kazeg	?	_	_	_	_	_	Gloss=jument
+4	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
+6	vazata	bazh.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=bâton.at
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+8	gazeg	kazeg	nom	_	_	_	_	_	Gloss=jument
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fagon&Riou(2015:'bannika')__1
@@ -54,52 +56,55 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	E	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-2	vannika	banne.vannika	?.?	_	_	_	_	_	Gloss=verre.DIM
-3	eur	COP.IMP	?.?	_	_	_	_	_	Gloss=est.on
+1	E	particule_o	verbe	_	_	_	_	_	Gloss=à
+2	vannika	banne.vannika	quantifieur.?	_	_	_	_	_	Gloss=verre.DIM
+3	eur	COP.IMP	verbe.pronom	_	_	_	_	_	Gloss=est.on
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:358)__1
 # text = Me am-eus choukatet behiou keuneud euz ar hoad-ze !
 # text_fr = 'J'en ai transporté (sur mon dos) des fardeaux de bois (des fagots) depuis ce bois-là!'
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	choukatet	chouk.-ad.-et(Adj.)	nom.?.?	_	_	_	_	_	Gloss=nuque.N.é
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	choukatet	chouk.-ad.-et_(Adj.)	nom.suffixe|nom.verbe|suffixe	_	_	_	_	_	Gloss=nuque.N.é
 3	behiou	bec'h	?	_	_	_	_	_	Gloss=charges
 4	keuneud	keneud	nom	_	_	_	_	_	Gloss=petit.bois
-5	euz	eus	?	_	_	_	_	_	Gloss=de
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	hoad-ze	koad	nom	_	_	_	_	_	Gloss=bois]]-[[DEM|là|Morph=5
+5	euz	eus	préposition	_	_	_	_	_	Gloss=de
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	hoad-ze	koad	nom	_	_	_	_	_	Gloss=bois]]-[[DEM|là|Mutation=target|MutationNUM=5
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:358)__1
 # text = Glizata a raio hirio e-pad an deiz.
 # text_fr = 'Il bruinera aujourd'hui pendant la journée.'
-# source = Gros (1984)
-1	Glizata	glizh.-ad	nom.?	_	_	_	_	_	Gloss=bruine.N
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Glizata	glizh.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=bruine.N
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+3	raio	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
 4	hirio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
 5	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = (Kervella1995:§214)__1
-# text = Mat eo da voueta ''vs''. Boueta ar chatal.
+# text = Mat eo da voueta vs. Boueta ar chatal.
 # text_fr = 'C'est bon pour appâter.' vs. 'nourrir le bétail.'
-# source = Kervella (1995)
-1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	voueta	boued	nom	_	_	_	_	_	Gloss=nourriture
-5	'	'	?	_	_	_	_	_	Gloss=
-6	'	'	?	_	_	_	_	_	Gloss=?
-7	vs'	vs'	?	_	_	_	_	_	Gloss=?
-8	'	'	?	_	_	_	_	_	Gloss=?
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
-10	Boueta	boued	nom	_	_	_	_	_	Gloss=nourri
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
-13	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	vs	vs	?	_	_	_	_	_	Gloss=
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	Boueta	boued	nom	_	_	_	_	_	Gloss=nourri
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
+10	.	.	PUNCT	_	_	_	_	Gloss=punct

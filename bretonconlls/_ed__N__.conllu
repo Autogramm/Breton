@@ -4,52 +4,57 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Sammet	sammañ	verbe	_	_	_	_	_	Gloss=chargé
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	gant	gant	?	_	_	_	_	_	Gloss=avec
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	hleñved	klañv	adjectif	_	_	_	_	_	Gloss=malad|Morph=5
+4	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	hleñved	klañv	adjectif	_	_	_	_	_	Gloss=malad|Mutation=target|MutationNUM=5
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:393)__1
 # text = Ar housked da greisteiz a zo eet er-mêz pell 'zo.
 # text_fr = 'La sieste est supprimée depuis longtemps.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	housked	kousk	verbe	_	_	_	_	_	Gloss=dormir|Morph=5
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	housked	kousk	verbe	_	_	_	_	_	Gloss=dormir|Mutation=target|MutationNUM=5
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	greisteiz	greisteiz	?	_	_	_	_	_	Gloss=midi
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
 7	eet	mont	verbe	_	_	_	_	_	Gloss=allé
-8	er-mêz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+8	er-mêz	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 9	pell	pell	adjectif	_	_	_	_	_	Gloss=long
-10	'	E	?	_	_	_	_	_	Gloss=y.a
+10	'	E	verbe	_	_	_	_	_	Gloss=y.a
 11	zo.	zo.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Bzh5(2007:16).__1
 # text = Ec'h ! E-giz-se vez tapet kleñvedoù !
 # text_fr = 'Pouah ! C'est comme ça qu'on attrape des maladies !'
+# dialect = Standard
 # source = Bzh5 (2007)
 # texttype = Références de corpus
-1	Ec'h	Ec'h	?	_	_	_	_	_	Gloss=[[Ecxxxh!|Pouah
+1	Ec'h	Ec'h	?	_	_	_	_	_	Gloss=[[Ecxxxh_!|Pouah
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	E-giz-se	e-giz	préposition	_	_	_	_	_	Gloss=comme
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	tapet	tapout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=trap.é
-7	kleñvedoù	klañv.-où(PL.)	adjectif.?	_	_	_	_	_	Gloss=malad.s
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	tapet	tapout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trap.é
+7	kleñvedoù	klañv.-où_(PL.)	adjectif.suffixe	_	_	_	_	_	Gloss=malad.s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = (Gros1970:163).__1
 # text = Jañn-Mari he-devoa prenet eur bufed koz digand honnez.
 # text_fr = 'Jeanne-Marie avait acheté un vieux buffet à celle-là.'
-# source = Gros (1970)
-1	Jañn-Mari	nompropre	?	_	_	_	_	_	Gloss=Jeanne-Marie
-2	prenet	prenañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=achet.é
-3	eur	art	nom	_	_	_	_	_	Gloss=un
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Jañn-Mari	nom_propre	?	_	_	_	_	_	Gloss=Jeanne-Marie
+2	prenet	prenañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=achet.é
+3	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	bufed	bufed	?	_	_	_	_	_	Gloss=buffet
 5	koz	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 6	digand	digant	préposition	_	_	_	_	_	Gloss=d.avec
-7	honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+7	honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.là
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

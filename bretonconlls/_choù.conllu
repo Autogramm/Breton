@@ -5,12 +5,12 @@
 # location = Huelgoat
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	heñchou	hent	nom	_	_	_	_	_	Gloss=route
-3	neunt	kaout	?	_	_	_	_	_	Gloss=ont
+3	neunt	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ont
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	bet	kaout	?	_	_	_	_	_	Gloss=eu
-6	kleuñiou	kleuz	?	_	_	_	_	_	Gloss=talus
+5	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+6	kleuñiou	kleuz	nom	_	_	_	_	_	Gloss=talus
 7	gwech	gwech	nom	_	_	_	_	_	Gloss=fois
 8	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -3,11 +3,11 @@
 # text_fr = 'Son visage rayonne de bonheur.'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	zremm	dremm	nom	_	_	_	_	_	Gloss=visage
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	bar	parañ	?	_	_	_	_	_	Gloss=brille
-5	warni	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.elle
-6	al	art	?	_	_	_	_	_	Gloss=le
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	bar	parañ	verbe	_	_	_	_	_	Gloss=brille
+5	warni	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.elle
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	levenez	levenez	?	_	_	_	_	_	Gloss=joie
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

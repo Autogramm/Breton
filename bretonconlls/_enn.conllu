@@ -1,14 +1,15 @@
 # sent_id = Chalm(2008:C7144)__1
 # text = Kouezhet ez eus ur fubuenn e-barzh er werenn.
 # text_fr = 'Un moucheron est tombé dans le verre.'
+# dialect = Standard
 # source = Chalm (2008)
-1	Kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+1	Kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	fubuenn	fubu	?	_	_	_	_	_	Gloss=moucherons
-6	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	fubuenn	fubu	nom	_	_	_	_	_	Gloss=moucherons
+6	e-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+7	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	werenn	gwer	adjectif	_	_	_	_	_	Gloss=verre
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,38 +19,40 @@
 # location = Laz
 # source = Lozach (2014)
 1	Loa(r)iet	loar	nom	_	_	_	_	_	Gloss=lune
-2	é	COP	?	_	_	_	_	_	Gloss=est
-3	un	art	?	_	_	_	_	_	Gloss=un
+2	é	COP	verbe	_	_	_	_	_	Gloss=est
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	aldouarenn	aval-douar	nom	_	_	_	_	_	Gloss=patate
-5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	deut	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 6	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
-7	ga'	gant	?	_	_	_	_	_	Gloss=avec
-8	r	r	?	_	_	_	_	_	Gloss=?
+7	ga'	gant	préposition	_	_	_	_	_	Gloss=avec
+8	r	r	particules verbale	_	_	_	_	_	Gloss=?
 
 # sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
 # text = Ar verklenn wenn a zo kouet war deliou an dero yaouank.
 # text_fr = 'Les feuillages des jeunes chênes ont attrapé l'oïdium.'
-# source = Le Gall (1958)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	verklenn	mergl	nom	_	_	_	_	_	Gloss=rouille]].[[-enn|SG|Morph=1
-3	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc|Morph=1
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	verklenn	mergl	nom	_	_	_	_	_	Gloss=rouille]].[[-enn|SG|Mutation=target|MutationNUM=1
+3	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc|Mutation=target|MutationNUM=1
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	kouet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
-7	war	war	?	_	_	_	_	_	Gloss=sur
+6	kouet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
 8	deliou	del.-où	nom.?	_	_	_	_	_	Gloss=feuillage.s
-9	an	art	?	_	_	_	_	_	Gloss=le
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	dero	derv	nom	_	_	_	_	_	Gloss=chênes
 11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Gros (1970b:§'lipadenn') __1
+# sent_id = Gros(1970b:§'lipadenn')__1
 # text = Lavaret a vefe lipadennou leue !
 # text_fr = (des coulées, des traînées de peinture inégales)
+# source = Le Gall (1957-58)
 1	Lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	vefe	COP	?	_	_	_	_	_	Gloss=serait
-4	lipadennou	lipat.-ad.-enn.-où	?.?.nom.?	_	_	_	_	_	Gloss=lèch.N.SG.PL
+3	vefe	COP	verbe	_	_	_	_	_	Gloss=serait
+4	lipadennou	lipat.-ad.-enn.-où	verbe.suffixe|nom.suffixe|nom.?	_	_	_	_	_	Gloss=lèch.N.SG.PL
 5	leue	leue	nom	_	_	_	_	_	Gloss=veau
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -58,22 +61,22 @@
 # text_fr = 'Je me moque bien de votre haquenée blanche, tout autant que d'un moustique.'
 # source = Pérennès (1938)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	fouter	foutre	nom	_	_	_	_	_	Gloss=cas
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	o	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	o	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 8	inkane	inkane	?	_	_	_	_	_	Gloss=haquenée
 9	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-14	gant	gant	?	_	_	_	_	_	Gloss=avec
-15	eur	art	nom	_	_	_	_	_	Gloss=un
-16	furbuen	fubu	?	_	_	_	_	_	Gloss=moustique
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+14	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+15	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+16	furbuen	fubu	nom	_	_	_	_	_	Gloss=moustique
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Pérennès(1938:250-1)__1
@@ -81,22 +84,22 @@
 # text_fr = 'Je me moque bien de ton manteau rouge, tout autant que d'un moustique.'
 # source = Pérennès (1938)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	fouter	foutre	nom	_	_	_	_	_	Gloss=cas
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 8	vantel	mantell	nom	_	_	_	_	_	Gloss=manteau
 9	ru	ruz	adjectif	_	_	_	_	_	Gloss=rouge
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	nebeut	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-14	gant	gant	?	_	_	_	_	_	Gloss=avec
-15	eur	art	nom	_	_	_	_	_	Gloss=un
-16	furbu	fubu	?	_	_	_	_	_	Gloss=moustique
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+14	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+15	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+16	furbu	fubu	nom	_	_	_	_	_	Gloss=moustique
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite&Stéphan(1957:15)__1
@@ -105,31 +108,32 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	disklavenn	dis-	?	_	_	_	_	_	Gloss=dé
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=un
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Menard (1995:§'gloc'hor')__1
+# sent_id = Menard(1995:§'gloc'hor')__1
 # text = En deus tapet gloc'horennoù a-geñver d'e señturenn.
 # text_fr = 'Il a attrapé des ampoules du côté de la ceinture.'
 # source2 =  Poullaouen, XIX°, manuscrit P. Roux:121
+# source = Seite & Stéphan (1957)
 1	En	En	complémenteur	_	_	_	_	_	Gloss=R
-2	deus	kaout	?	_	_	_	_	_	Gloss=a
-3	tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
+2	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
 4	gloc'horennoù	gloc'horennoù	?	_	_	_	_	_	Gloss=ampoules
-5	a-geñver	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-8	señturenn	-enn	nom	_	_	_	_	_	Gloss=SG
+5	a-geñver	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+8	señturenn	-enn	suffixe|nom	_	_	_	_	_	Gloss=SG
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:42)__1
@@ -139,27 +143,29 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	poa	kaout	?	_	_	_	_	_	Gloss=avais
-5	ur	art	?	_	_	_	_	_	Gloss=un
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	poa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	planken	planken	?	_	_	_	_	_	Gloss=planche
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	bignat	pignat	verbe	_	_	_	_	_	Gloss=monter
-9	warno	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
-10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-11	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+9	warno	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
+10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+11	vezent	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étaient
 12	uhel	uhel	adjectif	_	_	_	_	_	Gloss=haut
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:92)__1
 # text = peder flankenn diblaen.
 # text_fr = 'quatre planches grossières.'
-# source = Herrieu (1994)
-1	peder	numérauxcardinaux	?	_	_	_	_	_	Gloss=quatre|Morph=2
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	peder	numéraux_cardinaux	?	_	_	_	_	_	Gloss=quatre
 2	flankenn	flankenn	?	_	_	_	_	_	Gloss=planche
-3	diblaen	di-	?	_	_	_	_	_	Gloss=non|Morph=1
+3	diblaen	di-	?	_	_	_	_	_	Gloss=non|Mutation=trigger|MutationNUM=1
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:76)__1
@@ -168,18 +174,18 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jeu
-3	kartoù	kartenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=carte.s
-4	(,	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+3	kartoù	kartenn.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=carte.s
+4	(,	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 5	unan	a	préposition	_	_	_	_	_	Gloss=de
 6	a	a	préposition	_	_	_	_	_	Gloss=52
-7	52	kartenn	nom	_	_	_	_	_	Gloss=carte|Morph=1
+7	52	kartenn	nom	_	_	_	_	_	Gloss=carte|Mutation=target|MutationNUM=1
 8	gartenn,)	gartenn,)	?	_	_	_	_	_	Gloss=?
 9	a	a	préposition	_	_	_	_	_	Gloss=R
-10	oa	E	?	_	_	_	_	_	Gloss=était
-11	àr	war	?	_	_	_	_	_	Gloss=sur
-12	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	oa	E	verbe	_	_	_	_	_	Gloss=était
+11	àr	war	préposition	_	_	_	_	_	Gloss=sur
+12	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 13	gulotoù	kulotenn	nom	_	_	_	_	_	Gloss=culottes
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -189,18 +195,18 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	aze	ads	?	_	_	_	_	_	Gloss=ici
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	a-hed	a-hed	préposition	_	_	_	_	_	Gloss=pendant
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	hañv	hañv	nom	_	_	_	_	_	Gloss=été
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	ur	art	?	_	_	_	_	_	Gloss=un
-11	velchonenn	melchon	nom	_	_	_	_	_	Gloss=trèfle|Morph=1
-12	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon|Morph=1
+8	e	e	verbe	_	_	_	_	_	Gloss=R
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	velchonenn	melchon	nom	_	_	_	_	_	Gloss=trèfle|Mutation=target|MutationNUM=1
+12	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon|Mutation=target|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1984:374)__1
@@ -208,9 +214,9 @@
 # text_fr = 'Je sème mes salades selon la lune.
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	Deus	deus	?	_	_	_	_	_	Gloss=selon
+1	Deus	deus	préposition	_	_	_	_	_	Gloss=selon
 2	'	hadañ	verbe	_	_	_	_	_	Gloss=sème
 3	hadoñ	hadoñ	?	_	_	_	_	_	Gloss=?
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	saladen	saladen	?	_	_	_	_	_	Gloss=salade
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

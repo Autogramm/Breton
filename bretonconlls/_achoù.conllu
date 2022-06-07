@@ -3,18 +3,18 @@
 # text_fr = 'Chez les sœurs, nous n'avions que les restes des autres à midi.'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+1	Barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	seurezed	-ez(F.).[-ed(PL.)	?.?	_	_	_	_	_	Gloss=F.s
-5	ni	pfi	?	_	_	_	_	_	Gloss=nous
-6	nie	kaout	?	_	_	_	_	_	Gloss=aurait
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	seurezed	-ez_(F.).[-ed_(PL.)	suffixe.?	_	_	_	_	_	Gloss=F.s
+5	ni	pfi	pronom	_	_	_	_	_	Gloss=nous
+6	nie	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre
+8	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=autre
 9	restachou	restachou	?	_	_	_	_	_	Gloss=restes
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-12	all	all	?	_	_	_	_	_	Gloss=autre
-13	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+12	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+13	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 14	verenn	merenn	nom	_	_	_	_	_	Gloss=repas
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

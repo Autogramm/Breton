@@ -1,11 +1,13 @@
 # sent_id = Gros(1984:361)__1
 # text = Sell al lagadeg braz-se !
 # text_fr = 'Regarde ce grand individu qui a de gros yeux!'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
-2	al	art	?	_	_	_	_	_	Gloss=le
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	lagadeg	lagad	nom	_	_	_	_	_	Gloss=œil
-4	braz-se	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	braz-se	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
@@ -16,14 +18,14 @@
 # source = M-L. B. (01/2016)
 # texttype = Élicitations
 1	Ki	ki	nom	_	_	_	_	_	Gloss=chien
-2	va	POSS	?	_	_	_	_	_	Gloss=mon
+2	va	POSS	déterminant	_	_	_	_	_	Gloss=mon
 3	amezogez	amezeg	nom	_	_	_	_	_	Gloss=voisin
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	gac'hat	kaoc'h.-at	?.?	_	_	_	_	_	Gloss=merd.er
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	fleur	fleur	nom	_	_	_	_	_	Gloss=fleur
 11	bemus	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -34,16 +36,16 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=crois
 4	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	blanto	blanto	?	_	_	_	_	_	Gloss=plantera
 7	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
-8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-9	bloavezh-mañ	bloaz.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.ci
+8	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+9	bloavezh-mañ	bloaz.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=ann.ée.ci
 10	egist	e-giz	préposition	_	_	_	_	_	Gloss=comme
-11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 12	amezog	amezeg	nom	_	_	_	_	_	Gloss=voisin
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

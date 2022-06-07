@@ -3,18 +3,18 @@
 # text_fr = 'Les douarnenistes sont réputés prodigues.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	Douarneneziz	nompropre.[-iz(PL.)	?.?	_	_	_	_	_	Gloss=douarnen.istes
+1	Douarneneziz	nom_propre	?	_	_	_	_	_	Gloss=douarnen
 2	o	o	?	_	_	_	_	_	Gloss=3PL
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	anv	anv	nom	_	_	_	_	_	Gloss=nom
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
-7	distag-meurbet	di-.distag.meurbet	?.?.adverbe	_	_	_	_	_	Gloss=dé.attaché.très
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	vezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	distag-meurbet	di-.distag.meurbet	?.verbe.adverbe	_	_	_	_	_	Gloss=dé.attaché.très
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 9	c'halon	kalon	nom	_	_	_	_	_	Gloss=cœur
 10	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	baourentez	paour	adjectif	_	_	_	_	_	Gloss=pauvr]].[[-entez|eté|Morph=1
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	baourentez	paour	adjectif	_	_	_	_	_	Gloss=pauvr]].[[-entez|eté|Mutation=target|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:12)__1
@@ -23,11 +23,11 @@
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901)
 # texttype = Références de corpus
-1	ar	ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
+1	ar	ar	?	_	_	_	_	_	Gloss=[[ar_pezh|ce
 2	pez	pez	?	_	_	_	_	_	Gloss=que]]
 3	an	an	?	_	_	_	_	_	Gloss=3SGM
-4	oa	kaout	?	_	_	_	_	_	Gloss=avait
-5	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-7	waz	gwaz	?	_	_	_	_	_	Gloss=mari
+4	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+6	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+7	waz	gwaz	nom	_	_	_	_	_	Gloss=mari
 8	karantezus	karout	verbe	_	_	_	_	_	Gloss=aim

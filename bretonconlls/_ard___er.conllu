@@ -1,49 +1,54 @@
 # sent_id = Gros(1984:357)__1
 # text = Ar hizier a deu amañ war-dro a zo gouezarded.
 # text_fr = 'Les chats qui viennent ici tout autour sont des (animaux) sauvages.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[-ier|s|Morph=5
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[-ier|s|Mutation=target|MutationNUM=5
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-5	amañ	ads	?	_	_	_	_	_	Gloss=ici
+5	amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 6	war-dro	war-dro	préposition	_	_	_	_	_	Gloss=autour
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	gouezarded	gouez.-ed(PL.)	adjectif.?	_	_	_	_	_	Gloss=sauvage.s
+9	gouezarded	gouez.-ed_(PL.)	adjectif.suffixe	_	_	_	_	_	Gloss=sauvage.s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:14)__1
 # text = Harpet war barlenn ar prenestr, tennañ a ra hir ar c'hrennard war e anal.
 # text_fr = 'Appuyé sur le rebord de la fenêtre, l'adolescent respire profondément.
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Harpet	harpañ	verbe	_	_	_	_	_	Gloss=appuyé
-2	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+2	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 3	barlenn	barlenn	nom	_	_	_	_	_	Gloss=rebord
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+9	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 10	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	c'hrennard	c'hrennard	?	_	_	_	_	_	Gloss=5
-13	war	war	?	_	_	_	_	_	Gloss=sur
-14	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-15	anal	anal	?	_	_	_	_	_	Gloss=haleine
+13	war	war	préposition	_	_	_	_	_	Gloss=sur
+14	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+15	anal	anal	nom	_	_	_	_	_	Gloss=haleine
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:357)__1
 # text = 'M-eus aon ez out mañchard !
 # text_fr = 'Je crois bien que tu es gaucher!'
-# source = Gros (1984)
-1	'	Meusaon	?	_	_	_	_	_	Gloss=je.crois
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	'	Meus_aon	?	_	_	_	_	_	Gloss=je.crois
 2	M-eus	M-eus	?	_	_	_	_	_	Gloss=?
 3	aon	aon	nom	_	_	_	_	_	Gloss=?
 4	ez	ez	?	_	_	_	_	_	Gloss=R
-5	out	COP	?	_	_	_	_	_	Gloss=es
+5	out	COP	verbe	_	_	_	_	_	Gloss=es
 6	mañchard	mañchard	?	_	_	_	_	_	Gloss=manche.sfx
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -54,9 +59,9 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Stramwelet	stram-	?	_	_	_	_	_	Gloss=quasi|Morph=1
-2	'	kaout	?	_	_	_	_	_	Gloss=ai
+1	Stramwelet	stram-	?	_	_	_	_	_	Gloss=quasi|Mutation=trigger|MutationNUM=1
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	meus	meus	?	_	_	_	_	_	Gloss=?
-4	ur	art	?	_	_	_	_	_	Gloss=un
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	glazer	glazard	nom	_	_	_	_	_	Gloss=lézard
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

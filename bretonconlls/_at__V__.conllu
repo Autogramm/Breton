@@ -8,23 +8,25 @@
 2	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=force
 3	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	tay	dont	verbe	_	_	_	_	_	Gloss=viendra
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	benn	penn	nom	_	_	_	_	_	Gloss=tête
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:484)__1
 # text = Ema o turlutad aze gand eur goz souflez
 # text_fr = 'Il est là en train de s'amuser avec un vieux soufflet.'
-# source = Gros (1984)
-1	Ema	ema	?	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ema	ema	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	turlutad	turlutad	?	_	_	_	_	_	Gloss=bricoler
-4	aze	ads	?	_	_	_	_	_	Gloss=là
-5	gand	gant	?	_	_	_	_	_	Gloss=avec
-6	eur	art	nom	_	_	_	_	_	Gloss=un
-7	goz	kozh	adjectif	_	_	_	_	_	Gloss=vieille|Morph=1
+4	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=là
+5	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+6	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	goz	kozh	adjectif	_	_	_	_	_	Gloss=vieille|Mutation=target|MutationNUM=1
 8	souflez	souflez	?	_	_	_	_	_	Gloss=soufflet
 
 # sent_id = Vannetais,LeBayon(1878)__1
@@ -33,8 +35,8 @@
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
-1	É	É	?	_	_	_	_	_	Gloss=R|Morph=4
+1	É	É	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	tañ	dont	verbe	_	_	_	_	_	Gloss=viens
-3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	gowessat	gowessat	?	_	_	_	_	_	Gloss=confesser
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

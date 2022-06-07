@@ -1,17 +1,19 @@
 # sent_id = Herrieu(1994:80)__1
 # text = ne welomp nemet gwinizhegi bras, berrik-tra an ed enne ha treut...
 # text_fr = '...nous ne voyons que de grands champs de blé, aux céréales très courtes et maigres.'
-# source = Herrieu (1994)
-1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
 4	gwinizhegi	gwinizh	nom	_	_	_	_	_	Gloss=blé
-5	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	berrik-tra	berr.berrik-tra.INT	adjectif.?.?	_	_	_	_	_	Gloss=court.DIM.chose
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	berrik-tra	berr.berrik-tra.INT	adjectif.?.INT	_	_	_	_	_	Gloss=court.DIM.chose
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	ed	ed	nom	_	_	_	_	_	Gloss=blé
-10	enne	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
-11	ha	&	?	_	_	_	_	_	Gloss=et
+10	enne	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.eux
+11	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 12	treut..	treut	adjectif	_	_	_	_	_	Gloss=maigre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
