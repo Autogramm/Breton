@@ -3,38 +3,40 @@
 # text_fr = 'Il était tellement pressé de partir qu'il a laissé toutes ses affaires.'
 # location = Pleyben
 # source = ar Gow (1999)
-1	Kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	Kement	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	vall	mall	nom	_	_	_	_	_	Gloss=hâte
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	warnañ	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 9	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
 10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-11	lezas	lezel	?	_	_	_	_	_	Gloss=laissa
-12	e	POSS	?	_	_	_	_	_	Gloss=son
-13	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout|Morph=1
+11	lezas	lezel	verbe	_	_	_	_	_	Gloss=laissa
+12	e	POSS	déterminant	_	_	_	_	_	Gloss=son
+13	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout|Mutation=trigger|MutationNUM=1
 14	zanvez	danvez	nom	_	_	_	_	_	Gloss=affaire
-15	war	war	?	_	_	_	_	_	Gloss=sur
-16	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+15	war	war	préposition	_	_	_	_	_	Gloss=sur
+16	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 17	lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=suite
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'abuzi')__1
 # text = Ne dalv ket a boan lezel an traoù-mañ da abuzi an asïed.
 # text_fr = 'Il ne vaut pas la peine de laisser ces restes encombrer l’assiette. '
-# source = Gros (1989)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	dalv	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	boan	poan	nom	_	_	_	_	_	Gloss=peine
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	traoù-mañ	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	abuzi	-iñ	?	_	_	_	_	_	Gloss=er
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	traoù-mañ	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	abuzi	-iñ	verbe|suffixe	_	_	_	_	_	Gloss=er
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__4
 # text = Da c'houde mer'nn e vehe c'hoariet foutball met va mamm ne leske ket ac'hanon da vont.
@@ -42,38 +44,39 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-2	c'houde	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+2	c'houde	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 3	mer'	merenn	nom	_	_	_	_	_	Gloss=midi
 4	nn	nn	?	_	_	_	_	_	Gloss=?
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	vehe	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 7	c'hoariet	c'hoari	?	_	_	_	_	_	Gloss=joué
 8	foutball	foutball	?	_	_	_	_	_	Gloss=football
-9	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
-12	ne	ne	?	_	_	_	_	_	Gloss=ne
+12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
 13	leske	leske	?	_	_	_	_	_	Gloss=laissait
 14	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-15	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-16	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+15	ac'hanon	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+16	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 17	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Haut-vannetais (Plouhinec), Le Bozec (2018) __1
+# sent_id = Haut-vannetais(Plouhinec),LeBozec(2018)__1
 # text = Ema red leuskel ar mên evel ma 'c'h eus-hañ « troved ».
 # text_fr = 'Il faut laisser la pierre comme tu l’as trouvée.'
-# text_phon = ['/ma', 'rə', 'lə’kəl', "ər '@me:n", 'ɛl', 'masɑ̃', 'tro’vət/']
-1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# text_phon = /ma rə lə’kəl ər '@me:n ɛl masɑ̃ tro’vət/ 
+# source = M-L. B. (04/2016)
+1	Ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 2	red	ret	?	_	_	_	_	_	Gloss=obligé
 3	leuskel	leuskel	verbe	_	_	_	_	_	Gloss=laisser
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	mên	maen	?	_	_	_	_	_	Gloss=pierre
-6	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	mên	maen	nom	_	_	_	_	_	Gloss=pierre
+6	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 8	'	'	?	_	_	_	_	_	Gloss=2SG
-9	c'h	kaout	?	_	_	_	_	_	Gloss=a
+9	c'h	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 10	eus-hañ	eus-hañ	?	_	_	_	_	_	Gloss=?
 11	«	«	?	_	_	_	_	_	Gloss=trouvé
 12	troved	troved	?	_	_	_	_	_	Gloss=?
@@ -87,10 +90,10 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Laosket	Laosket	?	_	_	_	_	_	Gloss=laissé
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oe	COP	?	_	_	_	_	_	Gloss=fut
-4	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oe	COP	verbe	_	_	_	_	_	Gloss=fut
+4	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	reded	redek	verbe	_	_	_	_	_	Gloss=courir
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -101,26 +104,26 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	lezet	lezet	?	_	_	_	_	_	Gloss=laissé
 4	??	??	?	_	_	_	_	_	Gloss=[
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 6	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-7	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	vond	mont	verbe	_	_	_	_	_	Gloss=aller
-10	gand	gant	?	_	_	_	_	_	Gloss=avec
-11	e	POSS	?	_	_	_	_	_	Gloss=son
+10	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son
 12	loa	loa	nom	_	_	_	_	_	Gloss=cuillère
 13	d'	da	préposition	_	_	_	_	_	Gloss=à
-14	ar	art	?	_	_	_	_	_	Gloss=le
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	pod	pod	nom	_	_	_	_	_	Gloss=pot
 16	??	??	?	_	_	_	_	_	Gloss=]
 17	?	?	PUNCT	_	_	_	_	Gloss=punct
-18	e	e	?	_	_	_	_	_	Gloss=R
-19	vo	COP	?	_	_	_	_	_	Gloss=sera
-20	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-21	dezo	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+18	e	e	verbe	_	_	_	_	_	Gloss=R
+19	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+20	brao	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+21	dezo	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 22	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:12)__1
@@ -129,56 +132,59 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 3	person	person	nom	_	_	_	_	_	Gloss=recteur
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 6	red	ret	?	_	_	_	_	_	Gloss=dû
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	ezan	pronomincorporé	?	_	_	_	_	_	Gloss=lui
-9	lezel	lezel	?	_	_	_	_	_	Gloss=laisser
-10	ac'hanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
-11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	ezan	pronom_incorporé	?	_	_	_	_	_	Gloss=lui
+9	lezel	lezel	verbe	_	_	_	_	_	Gloss=laisser
+10	ac'hanout	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	bignat..	pignat	verbe	_	_	_	_	_	Gloss=monter
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Constantius(1900:375)__1
 # text = N' hel lez ket  da goueza en dienez.
 # text_fr = 'Ne le laisse pas tomber dans l'indigence.'
-# source = Constantius (1900)
+# source = Constantius (1899)
+# texttype = Ouvrages pédagogiques
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2			PUNCT	_	_	_	_	Gloss=punct
 3	hel	hel	?	_	_	_	_	_	Gloss=?
-4	lez	lezel	?	_	_	_	_	_	Gloss=laisse
-5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	lez	lezel	verbe	_	_	_	_	_	Gloss=laisse
+5	ket	ket	adverbe	_	_	_	_	_	Gloss=_pas
 6	??	??	?	_	_	_	_	_	Gloss=[
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	goueza	kouezhañ	?	_	_	_	_	_	Gloss=tomber
-10	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	goueza	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
+10	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 11	dienez	dienez	?	_	_	_	_	_	Gloss=indigence
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:34)__1
 # text = Lez ni e peoc'h !
 # text_fr = 'Fiche-nous la paix !'
+# dialect = Standard
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
 1	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-2	e	P.e	?	_	_	_	_	_	Gloss=en
+2	e	P.e	préposition	_	_	_	_	_	Gloss=en
 3	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moulleg(1978:39)__1
 # text = Lez ac'hanon ! da welout.
 # text_fr = 'Laisse-moi voir.'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
 1	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-2	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+2	ac'hanon	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	welout	gwelout	verbe	_	_	_	_	_	Gloss=voir
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -188,10 +194,10 @@
 # source = ar Meliner (2009)
 1	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	vonet	mont	verbe	_	_	_	_	_	Gloss=aller
-5	àr	war	?	_	_	_	_	_	Gloss=sur
-6	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+5	àr	war	préposition	_	_	_	_	_	Gloss=sur
+6	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 7	komz	komz	verbe	_	_	_	_	_	Gloss=parole
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -202,14 +208,14 @@
 # source = Ar Floch (1985)
 1	lezet	lezet	?	_	_	_	_	_	Gloss=laissé
 2	em	em	?	_	_	_	_	_	Gloss=1SG
-3	oa	kaout	?	_	_	_	_	_	Gloss=avait
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	gempenn	kempenn	verbe	_	_	_	_	_	Gloss=arranger
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 9	sivi	sivi	nom	_	_	_	_	_	Gloss=fraises
-10	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+10	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 11	ma'	ma	complémenteur	_	_	_	_	_	Gloss=que
 12	c'h	c'h	?	_	_	_	_	_	Gloss=?
 13	intentent	intent	?	_	_	_	_	_	Gloss=entendaient
@@ -223,18 +229,18 @@
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
 1	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	'	'	?	_	_	_	_	_	Gloss=[[enem
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	'	'	?	_	_	_	_	_	Gloss=[[en_em
 6	n	n	?	_	_	_	_	_	Gloss=gemer|décider]]
 7	em	em	?	_	_	_	_	_	Gloss=?
 8	gemer	gemer	?	_	_	_	_	_	Gloss=?
 9	hervez	hervez	préposition	_	_	_	_	_	Gloss=selon
-10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 11	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 12	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
-13	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+13	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:12,18)__1
@@ -244,37 +250,38 @@
 # source = Croq (1908)
 # texttype = Références de corpus
 1	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+3	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 9	Lez	Lez	?	_	_	_	_	_	Gloss=laisse
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	vale	bale	verbe	_	_	_	_	_	Gloss=marcher
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeSaëc(1990:11)__1
 # text = Ba ! Lez da vont ! Muioc'h e vo evit ar re all !
 # text_fr = 'Bah ! Laisse tomber ! Ça en fera plus pour les autres !'
+# dialect = Standard
 # source = Le Saëc (1990)
 # texttype = Références de corpus
-1	Ba	Ba	?	_	_	_	_	_	Gloss=[[Ba!|Bah
+1	Ba	Ba	?	_	_	_	_	_	Gloss=[[Ba_!|Bah
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Lez	lezel	?	_	_	_	_	_	Gloss=laisse
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	Lez	lezel	verbe	_	_	_	_	_	Gloss=laisse
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 8	Muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-9	e	e	?	_	_	_	_	_	Gloss=R
-10	vo	COP	?	_	_	_	_	_	Gloss=sera
-11	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-12	ar	art	?	_	_	_	_	_	Gloss=le
-13	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-14	all	all	?	_	_	_	_	_	Gloss=autre
+9	e	e	verbe	_	_	_	_	_	Gloss=R
+10	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+11	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+14	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:65)__1
@@ -284,8 +291,8 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Lausket	Lausket	?	_	_	_	_	_	Gloss=laissez
-2	en	art	complémenteur	_	_	_	_	_	Gloss=le
-3	ined	evn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=oiseau.x
-4	de	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	dostat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+2	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	ined	evn.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=oiseau.x
+4	de	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	dostat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

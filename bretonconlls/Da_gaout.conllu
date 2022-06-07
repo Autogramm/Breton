@@ -1,16 +1,18 @@
 # sent_id = Gros(1970:148)__1
 # text = E dreid a oa troet da gaoud ar hleuz.
 # text_fr = 'Ses pieds étaient tournés vers le talus.'
-# source = Gros (1970)
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-2	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+2	dreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	troet	treiñ	verbe	_	_	_	_	_	Gloss=tourné
 6	da	da	préposition	_	_	_	_	_	Gloss=vers
 7	gaoud	gaoud	?	_	_	_	_	_	Gloss=?
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	hleuz	kleuz	?	_	_	_	_	_	Gloss=talus|Morph=5
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	hleuz	kleuz	nom	_	_	_	_	_	Gloss=talus|Mutation=target|MutationNUM=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:25)__1
@@ -25,14 +27,16 @@
 # sent_id = Gros(1970:148)__1
 # text = Bremañ e teu an avel euz kaoud Lomikêl.
 # text_fr = 'Maintenant le vent vient de la direction de Saint-Michel.'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	teu	dont	verbe	_	_	_	_	_	Gloss=vient
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	avel	avel	nom	_	_	_	_	_	Gloss=vent
-6	euz	eus	?	_	_	_	_	_	Gloss=de
-7	kaoud	kaoud	?	_	_	_	_	_	Gloss=avoir
+6	euz	eus	préposition	_	_	_	_	_	Gloss=de
+7	kaoud	kaoud	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 8	Lomikêl	Lomikêl	?	_	_	_	_	_	Gloss=Lomikêl
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -43,9 +47,9 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	Han	mont	verbe	_	_	_	_	_	Gloss=vais
-2	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	de	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 3	gavet	gavet	?	_	_	_	_	_	Gloss=?
-4	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	me	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	handarw	kenderv	nom	_	_	_	_	_	Gloss=cousin
 
 # sent_id = Bouzec&al.(2017:75)__1
@@ -56,7 +60,7 @@
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-2	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 3	gaout	gaout	?	_	_	_	_	_	Gloss=?
 4	Konk	Konk	?	_	_	_	_	_	Gloss=Concarneau
 
@@ -67,43 +71,46 @@
 # location = Tréguier
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2			PUNCT	_	_	_	_	Gloss=punct
 3	chomez	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=?
-5	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	sellet	sellout	verbe	_	_	_	_	_	Gloss=regarder
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	gaout	gaout	?	_	_	_	_	_	Gloss=?
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	traoù-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	traoù-se	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:35)__1
+# sent_id = Nicolas(2005:35)__1
 # text = daet a-gaouizin, kerzhit da_[[1]]_-gaouitoñ.
 # text_fr = 'Viens vers moi, va vers lui.'
-# text_phon = ['[ dɛjdagawizaɲ', 'tʃɛrhətəgawitõ  ]']
+# text_phon =  dɛjdagawizaɲ tʃɛrhətəgawitõ   
+# source = Konan (2017)
 1	daet	dont	verbe	_	_	_	_	_	Gloss=venez
-2	a-gaouizin	a-gaouizin.pronomincorporé	?.?	_	_	_	_	_	Gloss=1.moi
+2	a-gaouizin	a-gaouizin.pronom_incorporé	?.?	_	_	_	_	_	Gloss=1.moi
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	kerzhit	kerzhit	?	_	_	_	_	_	Gloss=marchez
-5	da_[[1]]_-gaouitoñ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+5	da_[[1]]_-gaouitoñ	pronom_incorporé	?	_	_	_	_	_	Gloss=lui
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:148)__1
 # text = An hini goz a zalhe da zelled d'am haoud.
 # text_fr = 'La vieille continuait à regarder dans ma direction, vers moi.'
-# source = Gros (1970)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celle|Morph=1
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celle|Mutation=trigger|MutationNUM=1
 3	goz	kozh	adjectif	_	_	_	_	_	Gloss=vieux
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	zalhe	delc'her	?	_	_	_	_	_	Gloss=continuait
 6	da	da	préposition	_	_	_	_	_	Gloss=1
 7	zelled	sellout	verbe	_	_	_	_	_	Gloss=regarder
-8	d'	d'	?	_	_	_	_	_	Gloss='@'@à'@'@
-9	am	POP	?	_	_	_	_	_	Gloss=me
+8	d'	d'	?	_	_	_	_	_	Gloss=à
+9	am	POP	pronom	_	_	_	_	_	Gloss=me
 10	haoud	haoud	?	_	_	_	_	_	Gloss=avoir
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -115,7 +122,7 @@
 # texttype = Ouvrages de recherche
 1	Nijet	nijal	verbe	_	_	_	_	_	Gloss=volé
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 5	da	da	préposition	_	_	_	_	_	Gloss=vers
 6	gaout	gaout	?	_	_	_	_	_	Gloss=?

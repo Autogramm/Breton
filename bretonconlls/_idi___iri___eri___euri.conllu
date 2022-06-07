@@ -5,15 +5,15 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	kerz	kerzhout	verbe	_	_	_	_	_	Gloss=marche
-2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+3	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 4	géd	géd	?	_	_	_	_	_	Gloss=guet
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	du-hont	tu	nom	_	_	_	_	_	Gloss=côté
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
 9	puñs	puñs	nom	_	_	_	_	_	Gloss=puis
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	vereuri	vereuri	?	_	_	_	_	_	Gloss=1
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,11 +22,11 @@
 # text_fr = 'Dans les tanneries, les bœufs sont des vaches'
 # source = Abalain (2001)
 # texttype = Références de corpus
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	givijeri	givijeri	?	_	_	_	_	_	Gloss=tannerie
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	ejened	ejen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bœuf.s
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	ejened	ejen.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=bœuf.s
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	buoc'hed	buoc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=vache.s
+7	buoc'hed	buoc'h.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=vache.s
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

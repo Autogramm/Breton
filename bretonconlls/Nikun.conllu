@@ -1,4 +1,4 @@
-# sent_id = Bouzec & al. (2017:71)__1
+# sent_id = Bouzec&al.(2017:71)__1
 # text = ... nikun diyomp grédè pigno ken pèl...
 # text_fr = '...aucun d'entre nous n'osait grimper si loin... '
 1	..	..	?	_	_	_	_	_	Gloss=...
@@ -6,7 +6,7 @@
 3	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=nikun
 4	grédè	grédè	?	_	_	_	_	_	Gloss=grede
 5	pigno	pigno	verbe	_	_	_	_	_	Gloss=pignat
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=ken
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=ken
 7	pèl..	pèl..	adjectif	_	_	_	_	_	Gloss=pell
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,21 +16,21 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	ar	art	?	_	_	_	_	_	Gloss=le
+5	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+6	eo	COP	verbe	_	_	_	_	_	Gloss=est
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	lavaran	lavarout	verbe	_	_	_	_	_	Gloss=dis
-11	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-12	me	pfi	?	_	_	_	_	_	Gloss=moi
+11	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+12	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 13	frekantan	frekantan	?	_	_	_	_	_	Gloss=fréquente
 14	gour	gour	?	_	_	_	_	_	Gloss=homme
-15	deuzouto	deus.ouzh.pronomincorporé	?.préposition.?	_	_	_	_	_	Gloss=de.de.eux
+15	deuzouto	deus.ouzh.pronom_incorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.eux
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lozac'h(2012-:'nekon')__1
@@ -38,53 +38,57 @@
 # text_fr = 'J’étais allé chercher les vaches pour les ramener à la maison, mais il n'y en avait plus aucune dans le champ !'
 # source = Lozach (2012-)
 1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
-2	oain	COP	?	_	_	_	_	_	Gloss=étais
-3	da	da	préposition	_	_	_	_	_	Gloss=da|Morph=1
+2	oain	COP	verbe	_	_	_	_	_	Gloss=étais
+3	da	da	préposition	_	_	_	_	_	Gloss=da|Mutation=trigger|MutationNUM=1
 4	gerc'had	kerc'hat	?	_	_	_	_	_	Gloss=chercher
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	saout	saout	nom	_	_	_	_	_	Gloss=vaches
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Morph=1
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Mutation=target|MutationNUM=1
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	mes	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-12	ne	ne	?	_	_	_	_	_	Gloss=ne
-13	oa	COP	?	_	_	_	_	_	Gloss=était
+11	mes	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+13	oa	COP	verbe	_	_	_	_	_	Gloss=était
 14	nekon	nekon	?	_	_	_	_	_	Gloss=aucun
 15	e-bed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-16	kin	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-17	ba'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-18	r	art	?	_	_	_	_	_	Gloss=le
+16	kin	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+17	ba'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+18	r	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 19	park	park	nom	_	_	_	_	_	Gloss=parc
 20	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArGow(2005:45)__1
 # text = Ne 'm boa gwelet nikun all ebet c'hoazh em enezenn.
 # text_fr = 'Je n'en avais encore vu aucune sur mon île.' (une tortue d'eau)
-# source = Ar Gow (2005)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Cornouaillais
+# source = Ar Gow (1964)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	'	'	?	_	_	_	_	_	Gloss=1SG
-3	m	kaout	?	_	_	_	_	_	Gloss=avait
+3	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 4	boa	boa	?	_	_	_	_	_	Gloss=?
-5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+5	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 6	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=aucun
-7	all	all	?	_	_	_	_	_	Gloss=autre
+7	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 8	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 9	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
-10	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
-11	enezenn	enez.-enn	nom.nom	_	_	_	_	_	Gloss=îles.SG
+10	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
+11	enezenn	enez.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=îles.SG
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Troude(1886:'passer,14°')__1
 # text = Kavout a ra d'in e c'helfemp choum hep nikun.
 # text_fr = 'Je crois que nous pourrions nous en passer.'
-# source = Troude (1886)
+# dialect = Léonard
+# source = Troude (1869)
+# texttype = Ouvrages de recherche
 1	Kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ra
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ra
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	in	pronomincorporé	?	_	_	_	_	_	Gloss=moi
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	in	pronom_incorporé	?	_	_	_	_	_	Gloss=moi
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 7	c'helfemp	gallout	verbe	_	_	_	_	_	Gloss=pourrions
 8	choum	chom	verbe	_	_	_	_	_	Gloss=rester
 9	hep	hep	préposition	_	_	_	_	_	Gloss=sans
@@ -96,13 +100,13 @@
 # text_fr = 'Je connais Elena mieux que quiconque ici.'
 # source = Beyer (2009)
 # texttype = Références de corpus
-1	Elena	nompropre	?	_	_	_	_	_	Gloss=Elena
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Elena	nom_propre	?	_	_	_	_	_	Gloss=Elena
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	anavezan	anavezout	verbe	_	_	_	_	_	Gloss=connais
 4	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 5	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 6	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=___
-7	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+7	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Menard&Kadored(2001:'nikun')__1
@@ -111,31 +115,34 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	gerzhet	kerzhout	verbe	_	_	_	_	_	Gloss=marcher
-5	kenkoulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
-6	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+5	kenkoulz	kenkoulz	complémenteur|adjectif	_	_	_	_	_	Gloss=autant
+6	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 7	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=____
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kenvreuriezarbrezoneg[http://skritur.googlepages.com/sk-avielsantyann(1982:VI:39)]__1
 # text = Ha bolontez an hini e-neus kaset ahanon eo
-# text_fr = 'la volonté de celui qui m'a envoyé, c'est que je ne perde ''aucun de ceux qu'il m'a donnés'.'
+# text_fr = 'la volonté de celui qui m'a envoyé, c'est que je ne perde aucun de ceux qu'il m'a donnés'.'
+# source = Menard & Kadored (2001)
 
 # sent_id = Kerrien(2000:12)__5
 # text = Nikun ne da tre, 'met a Vreiz e ve.
 # text_fr = 'Personne ne pénètre, à moins d'être né en Bretagne.'
-# source = Kerrien (2000)
+# dialect = Léonard
+# source = Kerrien (1926)
+# texttype = Références de corpus
 1	Nikun	Nikun	quantifieur	_	_	_	_	_	Gloss=personne
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	da	mont	verbe	_	_	_	_	_	Gloss=va
 4	tre	postpositions	postposition	_	_	_	_	_	Gloss=postpos.
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=sauf
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=?
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	'	met	complémenteur|conjonction	_	_	_	_	_	Gloss=sauf
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=?
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	Vreiz	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
-10	e	e	?	_	_	_	_	_	Gloss=R
-11	ve	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+10	e	e	verbe	_	_	_	_	_	Gloss=R
+11	ve	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

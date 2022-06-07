@@ -1,15 +1,17 @@
 # sent_id = LeClerc(1986:201)__1
 # text = Seblantout a ra d'in e teuio ma breur.
 # text_fr = 'Il me semble que mon frère viendra.'
-# source = Le Clerc (1986)
-1	Seblantout	Seblantout	?	_	_	_	_	_	Gloss=sembler
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	Seblantout	Seblantout	verbe	_	_	_	_	_	Gloss=sembler
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	in	in	?	_	_	_	_	_	Gloss=?
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 7	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
-8	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	breur	breur	nom	_	_	_	_	_	Gloss=frère
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,80 +21,84 @@
 # dialect = Trégorrois
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	ezeus	?	_	_	_	_	_	Gloss=est
-3	seblant	seblant	?	_	_	_	_	_	Gloss=semblant
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+3	seblant	seblant	verbe	_	_	_	_	_	Gloss=semblant
 4	lusk	lusk	?	_	_	_	_	_	Gloss=mouvement
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	vonet..	mont	verbe	_	_	_	_	_	Gloss=aller
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = RadioBreizh,'keleierarvro'Karluer[http://www.radiobreizh.bzh/gallo/episode.php?epid=170608/02/2012]__1
 # text = Direizh-kaer eo seblantet d'ur bern tud seurt doareoù ober.
 # text_fr = 'Beaucoup de gens ont trouvé cette façon de procéder très injuste.'
-1	Direizh-kaer	di-.kaer	?.adverbe-adjectif	_	_	_	_	_	Gloss=in-.très
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# source = Konan (2017)
+1	Direizh-kaer	di-.kaer	?.adverbe|adjectif	_	_	_	_	_	Gloss=in-.très
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	seblantet	seblantet	?	_	_	_	_	_	Gloss=semblé
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ur	art	?	_	_	_	_	_	Gloss=un
-6	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+6	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 7	tud	tud	nom	_	_	_	_	_	Gloss=gens
-8	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
-9	doareoù	doare.-où(PL.)	nom.?	_	_	_	_	_	Gloss=façon.s
-10	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+8	seurt	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
+9	doareoù	doare.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=façon.s
+10	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Bremaik[08/03/2010]__1
 # text = Ur wech kuitaet an dachenn [...] o deus seblantet paotred an Oriant kaout muioc'h a fiziañs enno.
 # text_fr = 'Après avoir quitté le terrain, les gars de Lorient ont semblé avoir plus de confiance en eux-mêmes.'
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+# source = Konan (2017)
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Mutation=target|MutationNUM=1
 3	kuitaet	kuitaet	?	_	_	_	_	_	Gloss=quitté
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dachenn	tachenn	nom	_	_	_	_	_	Gloss=terrain|Morph=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dachenn	tachenn	nom	_	_	_	_	_	Gloss=terrain|Mutation=target|MutationNUM=1
 6	[...]	[...]	?	_	_	_	_	_	Gloss=?
 7	o	o	?	_	_	_	_	_	Gloss=3PL
-8	deus	kaout	?	_	_	_	_	_	Gloss=a
+8	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 9	seblantet	seblantet	?	_	_	_	_	_	Gloss=semblé
-10	paotred	paotr.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=gar.s
-11	an	art	?	_	_	_	_	_	Gloss=le
-12	Oriant	Oriant	?	_	_	_	_	_	Gloss=Lorient
-13	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+10	paotred	paotr.-ed_(PL.).art	nom.suffixe.déterminant|quantifieur	_	_	_	_	_	Gloss=gar.s.le
+11	an	an	?	_	_	_	_	_	Gloss=Lorient
+12	Oriant	Oriant	?	_	_	_	_	_	Gloss=?
+13	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 14	muioc'h	mui.-oc'h	adverbe.?	_	_	_	_	_	Gloss=plus.plus
-15	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+15	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 16	fiziañs	fiziañs	nom	_	_	_	_	_	Gloss=confiance
-17	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
+17	enno	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.eux
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Hendrick(1990:157)__1
-# text = N'en deus ket Yann seblantet [ karout ar vugale ].
+# text = N'en deus ket Yann seblantet [ karout ar vugale .
 # text_fr = 'Yann n'avait pas l'air d'aimer les enfants.'
 # source = Hendrick (1990)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 6	seblantet	seblantet	?	_	_	_	_	_	Gloss=semblé
 7	[	[	?	_	_	_	_	_	Gloss=?
 8	karout	karout	verbe	_	_	_	_	_	Gloss=aimer
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
-11	].	].	?	_	_	_	_	_	Gloss=?
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__3
 # text = Ar vugale noa an aer da veha klañv.
 # text_fr = 'Les enfants ont semblé malades.'
-# source = M-L.B (10/2018)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
-3	noa	kaout	?	_	_	_	_	_	Gloss=avait
-4	an	art	?	_	_	_	_	_	Gloss=le
+# dialect = Léonard
+# source = M-L. B. (10/2018)
+# texttype = Élicitations
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
+3	noa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	aer	aer	nom	_	_	_	_	_	Gloss=air
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	veha	bezañ	?	_	_	_	_	_	Gloss=être
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	veha	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 8	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

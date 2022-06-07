@@ -4,53 +4,55 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Hennañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	'	'	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Hennañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	'	'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3			PUNCT	_	_	_	_	Gloss=punct
 4	gred	krediñ	verbe	_	_	_	_	_	Gloss=croit
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	lâret	lavarout	verbe	_	_	_	_	_	Gloss=dire
-7	penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-8	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	penaos	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=que
+8	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	revr	revr	nom	_	_	_	_	_	Gloss=cul
-11	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+11	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'jeu')__1
 # text = A-revr emañ ma jeu ganin, toud emañ ma zraoù d'ober.
 # text_fr = 'Mon travail est en retard, tout mon ouvrage reste à faire.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	A-revr	a	préposition	_	_	_	_	_	Gloss=à
-2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 4	jeu	jeu	nom	_	_	_	_	_	Gloss=jeu
-5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+5	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-8	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-10	zraoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+7	toud	toud	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+8	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+9	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+10	zraoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+12	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__19
+# sent_id = Trégorrois(Bulien),Bodiou-Stephens(12/2021)__15
 # text = Sur on, hag eñ lakaet e zorn war ma fenn a-dreñv.
 # text_fr = 'Je t’assure, il m’a mis la main aux fesses.'
 # location = Bulien
 # source = Bodiou-Stephens (12/2021)
 # texttype = Élicitations
 1	Sur	sur	adverbe	_	_	_	_	_	Gloss=sûr
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	hag	&	?	_	_	_	_	_	Gloss=et
-5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zorn	dorn	nom	_	_	_	_	_	Gloss=main
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	fenn	penn	nom	_	_	_	_	_	Gloss=tête
 12	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -61,17 +63,17 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Ac’h	Ac’h	?	_	_	_	_	_	Gloss=[[acxxxh!|Yew
+1	Ac’h	Ac’h	?	_	_	_	_	_	Gloss=[[acxxxh_!|Yew
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
-5	neus	kaout	?	_	_	_	_	_	Gloss=ai
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	zaorn	dorn	nom	_	_	_	_	_	Gloss=main
-10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-11	ma	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+11	ma	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	foñs	foñs	nom	_	_	_	_	_	Gloss=fond
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -81,17 +83,17 @@
 # location = Bulien
 # source = Bodiou-Stephens (12/2021)
 # texttype = Élicitations
-1	Heuc’h	Heuc’h	?	_	_	_	_	_	Gloss=[[Heucxxxh!|Yew
+1	Heuc’h	Heuc’h	?	_	_	_	_	_	Gloss=[[Heucxxxh_!|Yew
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Hag	&	?	_	_	_	_	_	Gloss=et
-5	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zorn	dorn	nom	_	_	_	_	_	Gloss=main
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 10	pastel	pastel	?	_	_	_	_	_	Gloss=miche
-11	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+11	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 12	revr	revr	nom	_	_	_	_	_	Gloss=cul
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -101,42 +103,43 @@
 # dialect = Cornouaillais
 # source = Kersulec (2016)
 # texttype = Ouvrages de recherche
-1	Hounne	DEM	?	_	_	_	_	_	Gloss=celle.ci
-2	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	di	di	?	_	_	_	_	_	Gloss=?
-4	an	art	?	_	_	_	_	_	Gloss=le
+1	Hounne	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+2	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	di	di	adverbe	_	_	_	_	_	Gloss=?
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	tan	tan	nom	_	_	_	_	_	Gloss=feu
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	reor	reor	?	_	_	_	_	_	Gloss=cul
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzeg(1986:II)__5
+# sent_id = Bouzeg(1986:II)__6
 # text = Hennezh 'oa graet e vragoù 'raok e revr.
 # text_fr = 'Il est né riche.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	'	COP	?	_	_	_	_	_	Gloss=était
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
-4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	vragoù	bragoù	nom	_	_	_	_	_	Gloss=pantalons
-7	'	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+7	'	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 8	raok	raok	?	_	_	_	_	_	Gloss=?
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	revr	revr	nom	_	_	_	_	_	Gloss=cul
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Mathelier (2017:34)__1
+# sent_id = Mathelier(2017:34)__1
 # text = Pétra  lar da galéoñ pi de revr a séoñ?
 # text_fr = 'Que dit ton cœur quand ton cul sonne ?'
-1	Pétra	Pétra	pronom-complémenteur	_	_	_	_	_	Gloss=Petra
+# source = Bouzeg (1986)
+1	Pétra	Pétra	complémenteur|pronom	_	_	_	_	_	Gloss=Petra
 2	??	??	?	_	_	_	_	_	Gloss='@
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
-4	lar	lar	?	_	_	_	_	_	Gloss=lar
+4	lar	lar	complémenteur	_	_	_	_	_	Gloss=lar
 5	da	da	préposition	_	_	_	_	_	Gloss=da
 6	galéoñ	galéoñ	?	_	_	_	_	_	Gloss=galon
 7	pi	pi	complémenteur	_	_	_	_	_	Gloss=pa

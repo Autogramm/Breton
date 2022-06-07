@@ -1,15 +1,17 @@
 # sent_id = Gros(1984:331)__1
 # text = Ar re-ze a zoñj ganto n'e-nevez sort eun den d'ober.
 # text_fr = 'Ceux-ci se figurent qu'on n'a rien à faire.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zoñj	soñjal	verbe	_	_	_	_	_	Gloss=pense
-5	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
-6	sort	sort	?	_	_	_	_	_	Gloss=rien
-7	eun	IMP	?	_	_	_	_	_	Gloss=on
+5	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
+6	sort	sort	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=rien
+7	eun	IMP	pronom	_	_	_	_	_	Gloss=on
 8	den	den	nom	_	_	_	_	_	Gloss=?
 9	d'	da	préposition	_	_	_	_	_	Gloss=à
-10	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

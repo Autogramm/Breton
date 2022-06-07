@@ -5,30 +5,31 @@
 # location = Plougerneau
 # source = M-L. B. (01/2016)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	ziskenn	diskenn	verbe	_	_	_	_	_	Gloss=descend
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	delechoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	delechoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:29)__2
 # text = Ha diskenn a ra, en ur pennad tizh, gant an diri.
 # text_fr = 'Et il descend, en coup de vent, les escaliers.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	diskenn	diskenn	verbe	_	_	_	_	_	Gloss=descend
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	ur	art	?	_	_	_	_	_	Gloss=un
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	pennad	pennad	nom	_	_	_	_	_	Gloss=coup
 9	tizh	tizh	nom	_	_	_	_	_	Gloss=vitesse
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	gant	gant	?	_	_	_	_	_	Gloss=avec
-12	an	art	?	_	_	_	_	_	Gloss=le
+11	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	diri	diri	?	_	_	_	_	_	Gloss=escaliers
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -40,11 +41,11 @@
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
 1	Hag-eñ	Hag-eñ	complémenteur	_	_	_	_	_	Gloss=alors.que
-2	az-teus	kaout	?	_	_	_	_	_	Gloss=a
-3	mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
+2	az-teus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	mil	numéraux_cardinaux	?	_	_	_	_	_	Gloss=mille
 4	binijenn	binijenn	?	_	_	_	_	_	Gloss=pénitance
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
-7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	viñs	viñs	?	_	_	_	_	_	Gloss=escalier
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

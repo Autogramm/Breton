@@ -6,22 +6,23 @@
 # texttype = Références de corpus
 1	Gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+3	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	eme	eme	préposition	_	_	_	_	_	Gloss=dit
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ema-hi	eman	?	_	_	_	_	_	Gloss=est.3SG
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	ema-hi	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=est.3SG
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	tont	dont	verbe	_	_	_	_	_	Gloss=venir
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:47)__2
+# sent_id = Bouzec&al.(2017:47)__2
 # text = Bet ê bét yoñ ' lhabour' ba didan 'n amz'r.
 # text_fr = 'Il a travaillé sous les intempéries.'
+# source = Milin (1922)
 1	Bet	Bet	?	_	_	_	_	_	Gloss=Bet
-2	ê	ê	verbe-auxiliaire	_	_	_	_	_	Gloss=eo
+2	ê	ê	verbe|auxiliaire	_	_	_	_	_	Gloss=eo
 3	bét	bét	?	_	_	_	_	_	Gloss=bet
 4	yoñ	yoñ	?	_	_	_	_	_	Gloss=
 5	'	'	?	_	_	_	_	_	Gloss=o
@@ -40,10 +41,10 @@
 # text_fr = 'Aussi vite, il serait mort.' (à peu de chose près)
 # location = Saint-Yvi
 # source = German (2007:174)
-1	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
-2	vé	COP	?	_	_	_	_	_	Gloss=serait
+1	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
+2	vé	COP	verbe	_	_	_	_	_	Gloss=serait
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+4	maro	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
 5	haoñ	haoñ	?	_	_	_	_	_	Gloss=il
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -54,21 +55,22 @@
 # location = Saint-Yvi
 # source = German (2007)
 # texttype = Ouvrages de recherche
-1	Benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+1	Benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=quand
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	maro	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
 4	hè	hè	?	_	_	_	_	_	Gloss=ils/elles
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:204)__1
+# sent_id = Avezard-Roger(2004a:204)__1
 # text = Ema hi o vont d'ober erc'h.
 # text_fr = 'Il va neiger.'
-# text_phon = ['[ ma hi', "v'@õn", "d o'@:ba", 'ɛX ]']
+# text_phon =  ma hi v'@õn d o'@:ba ɛX  
 # source2 = Costaouec (1998a:422-3)
+# source = German (2007)
 1	o	mont	verbe	_	_	_	_	_	Gloss=aller
 2	vont	vont	?	_	_	_	_	_	Gloss=?
-3	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+3	d'	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 5	erc'h	erc'h	?	_	_	_	_	_	Gloss=neige
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -79,18 +81,19 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-2	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	'	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	vez-heñv	vez-heñv	?	_	_	_	_	_	Gloss=?
-4	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	é	particule_o	?	_	_	_	_	_	Gloss=à
 5	rekinal	rekinal	?	_	_	_	_	_	Gloss=rechigner
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:258)__2
+# sent_id = Avezard-Roger(2004a:258)__2
 # text = Me meus c'hoant la teuio eñ.
 # text_fr = 'J'ai envie qu'il vienne.'
-# text_phon = ['[ mɛ', 'møs', 'Xwãn', 'la', 'tju', 'hã  ]']
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+# text_phon =  mɛ møs Xwãn la tju hã   
+# source = Ar Borgn (2011)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
 4	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
 5	eñ	eñ	?	_	_	_	_	_	Gloss=lui

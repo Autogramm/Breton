@@ -3,18 +3,18 @@
 # text_fr = 'Mais le train reprenait aussitôt son élan, et les voyageurs leurs places.'
 # location = Kaouenneg
 # source = ar Barzhig (1976)
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	kerkent	kerkent	adverbe	_	_	_	_	_	Gloss=aussitôt
 3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
 4	adkemere	ad-.kemer	?.verbe	_	_	_	_	_	Gloss=re.prenait
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	tren	tren	?	_	_	_	_	_	Gloss=train
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	lañs	lañs	?	_	_	_	_	_	Gloss=élan
-9	hag	&	?	_	_	_	_	_	Gloss=et
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	veajourien	beajiñ	verbe	_	_	_	_	_	Gloss=voyag]].[[-our|eurs|Morph=1
-12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+9	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	veajourien	beajiñ	verbe	_	_	_	_	_	Gloss=voyag]].[[-our|eurs|Mutation=target|MutationNUM=1
+12	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 13	flasoù	plas.-où	nom.?	_	_	_	_	_	Gloss=place.s
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -34,20 +34,20 @@
 # source = Burel (2012)
 # texttype = Références de corpus
 1	Kerkent	Kerkent	adverbe	_	_	_	_	_	Gloss=aussitôt
-2	a	C.ha(g)	préposition	_	_	_	_	_	Gloss=que
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	voa	COP	?	_	_	_	_	_	Gloss=était
-5	débret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
-6	ho	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+2	a	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	voa	COP	verbe	_	_	_	_	_	Gloss=était
+5	débret	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
+6	ho	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 7	méren	merenn	nom	_	_	_	_	_	Gloss=goûter
-8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	réman	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+8	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	réman	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	ac	&	?	_	_	_	_	_	Gloss=et
-13	hint	pfi	?	_	_	_	_	_	Gloss=eux
-14	en	endro	complémenteur	_	_	_	_	_	Gloss=de.retour
+12	ac	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+13	hint	pfi	pronom	_	_	_	_	_	Gloss=eux
+14	en	endro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de.retour
 15	dro	dro	?	_	_	_	_	_	Gloss=?
-16	dar	da.art	préposition.?	_	_	_	_	_	Gloss=à.le
+16	dar	da.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=à.le
 17	parck..	park	nom	_	_	_	_	_	Gloss=champ
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

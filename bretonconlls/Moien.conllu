@@ -5,18 +5,18 @@
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
 1	Sañset	sañset	adverbe	_	_	_	_	_	Gloss=censément
-2	mag	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-3	ve	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	brañchet	brañchiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=branch.é
-5	nehon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-6	endro	endro	?	_	_	_	_	_	Gloss=de.retour
+2	mag	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+3	ve	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	brañchet	brañchiñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=branch.é
+5	nehon	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+6	endro	endro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de.retour
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	zo	zo	?	_	_	_	_	_	Gloss=est
 9	moien	moien	nom	_	_	_	_	_	Gloss=moyen
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	wel	gwelout	verbe	_	_	_	_	_	Gloss=voir
-12	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
-13	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+12	na	na	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+13	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 14	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 15	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -27,10 +27,10 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	doa	COP	?	_	_	_	_	_	Gloss=était
+1	doa	COP	verbe	_	_	_	_	_	Gloss=était
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 3	seulamant	seulamant	adverbe	_	_	_	_	_	Gloss=seulement
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	voyenn	voyenn	?	_	_	_	_	_	Gloss=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -40,33 +40,33 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-2	ranked	rankout.IMP	verbe.?	_	_	_	_	_	Gloss=devait.on
+1	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+2	ranked	rankout.IMP	verbe.pronom	_	_	_	_	_	Gloss=devait.on
 3	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-4	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	douar-braz	douar	nom	_	_	_	_	_	Gloss=terre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-9	doa	kaout	?	_	_	_	_	_	Gloss=avait
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+9	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 10	moyenn	moyenn	?	_	_	_	_	_	Gloss=moyen
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = AnDiberder(2000:105)__1
-# text = N'es chet moiand d'oh [ dunet ].
+# text = N'es chet moiand d'oh [ dunet .
 # text_fr = 'Tu ne peux pas venir.'
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	es	E	?	_	_	_	_	_	Gloss=y.a
+2	es	E	verbe	_	_	_	_	_	Gloss=y.a
 3	chet	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	moiand	moiand	?	_	_	_	_	_	Gloss=moyen
-5	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 6	oh	oh	?	_	_	_	_	_	Gloss=?
 7	[	[	?	_	_	_	_	_	Gloss=?
 8	dunet	dont	verbe	_	_	_	_	_	Gloss=venir
-9	].	].	?	_	_	_	_	_	Gloss=?
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:89)__1
 # text = 'Vo ket moien beviñ a-vihanoc'h.
@@ -74,7 +74,7 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	'	COP	?	_	_	_	_	_	Gloss=sera
+1	'	COP	verbe	_	_	_	_	_	Gloss=sera
 2	Vo	Vo	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	moien	moien	nom	_	_	_	_	_	Gloss=moyen
@@ -82,41 +82,46 @@
 6	a-vihanoc'h	a-vihanoc'h	?	_	_	_	_	_	Gloss=sinon
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:575)__3
+# sent_id = Evenou(1987:575)__3
 # text = ar fonnusañ oa moaien bout bet graet
 # text_fr = 'le plus rapidement qu'il était possible de faire.'
-# text_phon = ['[ ɵ', 'funisô', 'wa', 'mojen', 'bu', 'be', 'grajT ]']
-1	ar	art	?	_	_	_	_	_	Gloss=le
-2	fonnusañ	fonnus.superlatif	?.adjectif	_	_	_	_	_	Gloss=vite.le.plus
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+# text_phon =  ɵ funisô wa mojen bu be grajT  
+# source = Louis (2015)
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	fonnusañ	fonnus.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=vite.le.plus
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	moaien	moaien	?	_	_	_	_	_	Gloss=moyen
-5	bout	bezan	?	_	_	_	_	_	Gloss=être
+5	bout	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 6	bet	bet	?	_	_	_	_	_	Gloss=été
-7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 
 # sent_id = Gros(1989:'barn')__1
 # text = Moeien e vez da varn eun den gant ur yeotenn bennag.
 # text_fr = 'Il y a moyen de rendre une personne amnésique avec une herbe quelconque.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Moeien	Moeien	?	_	_	_	_	_	Gloss=moyen
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	varn	varn	?	_	_	_	_	_	Gloss=ensorceler
-5	eun	art	?	_	_	_	_	_	Gloss=un
+5	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=homme
-7	gant	gant	?	_	_	_	_	_	Gloss=avec
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	yeotenn	geot.-enn	nom.nom	_	_	_	_	_	Gloss=herbage.SG
+7	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	yeotenn	geot.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=herbage.SG
 
 # sent_id = Gros(1989:'diranson')__1
 # text = Hizio ne voe ket a voeien da dostaad.
 # text_fr = 'Aujourd'hui il n'y avait pas moyen de s'approcher.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Hizio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	voe	COP	?	_	_	_	_	_	Gloss=fut
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	voe	COP	verbe	_	_	_	_	_	Gloss=fut
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	voeien	voeien	?	_	_	_	_	_	Gloss=moyen
 
 # sent_id = Louis(2015:89)__1
@@ -125,15 +130,15 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Bout	bez'	?	_	_	_	_	_	Gloss=être
+1	Bout	bez'	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	h	E	?	_	_	_	_	_	Gloss=est
-4	eus	eus	?	_	_	_	_	_	Gloss=?
+3	h	E	verbe	_	_	_	_	_	Gloss=est
+4	eus	eus	préposition	_	_	_	_	_	Gloss=?
 5	moaien	moaien	?	_	_	_	_	_	Gloss=moyen
-6	marse	marse	?	_	_	_	_	_	Gloss=peut-être
+6	marse	marse	adverbe	_	_	_	_	_	Gloss=peut-être
 7	da	da	préposition	_	_	_	_	_	Gloss=de
 8	monet	mont	verbe	_	_	_	_	_	Gloss=aller
-9	fonnaploc'h	fonnapl.-oc'h	?.?	_	_	_	_	_	Gloss=vite.plus
+9	fonnaploc'h	fonnapl.-oc'h	adjectif.?	_	_	_	_	_	Gloss=vite.plus
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kergoat(1976:112)__1
@@ -143,10 +148,10 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	oa	COP	?	_	_	_	_	_	Gloss=était
-2	moian	moian	?	_	_	_	_	_	Gloss=moyen
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	oa	COP	verbe	_	_	_	_	_	Gloss=était
+2	moian	moian	nom	_	_	_	_	_	Gloss=moyen
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
-5	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 6	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
 7	?	?	PUNCT	_	_	_	_	Gloss=punct

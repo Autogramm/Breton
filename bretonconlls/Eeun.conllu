@@ -5,11 +5,11 @@
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	zo	COP	?	_	_	_	_	_	Gloss=est
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	zo	COP	verbe	_	_	_	_	_	Gloss=est
 3	eeoñv	eeoñv	?	_	_	_	_	_	Gloss=droit
 4	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	iliz	iliz	nom	_	_	_	_	_	Gloss=église
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,8 +19,8 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	Eeun	Eeun	adverbe-adjectif	_	_	_	_	_	Gloss=droit
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+1	Eeun	Eeun	adverbe|adjectif	_	_	_	_	_	Gloss=droit
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	valefen	bale	verbe	_	_	_	_	_	Gloss=marcherais
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -31,7 +31,7 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Bale	bale	verbe	_	_	_	_	_	Gloss=marcher
-2	eeun	eeun	adverbe-adjectif	_	_	_	_	_	Gloss=droit
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	rafen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferais
+2	eeun	eeun	adverbe|adjectif	_	_	_	_	_	Gloss=droit
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	rafen	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferais
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

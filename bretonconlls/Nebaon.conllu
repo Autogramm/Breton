@@ -5,14 +5,13 @@
 # location = Trédrez
 # source = Gros (1974)
 # texttype = Ouvrages de recherche
-1	Neb-aon	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=sans
+1	Neb-aon	nep	déterminant|quantifieur	_	_	_	_	_	Gloss=sans
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	C'	pfi	?	_	_	_	_	_	Gloss=vous
-4	hwi	hwi	?	_	_	_	_	_	Gloss=?
-5	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
-6	chomot	chom	verbe	_	_	_	_	_	Gloss=resterez
-7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	enebi	enep.-iñ	?.?	_	_	_	_	_	Gloss=contr.er
-11	!	!	PUNCT	_	_	_	_	Gloss=punct
+3	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+4	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Mutation=trigger|MutationNUM=1
+5	chomot	chom	verbe	_	_	_	_	_	Gloss=resterez
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	enebi	enep.-iñ	préposition|adjectif.verbe|suffixe	_	_	_	_	_	Gloss=contr.er
+10	!	!	PUNCT	_	_	_	_	Gloss=punct

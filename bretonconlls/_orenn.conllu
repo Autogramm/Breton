@@ -1,13 +1,13 @@
-# sent_id = Menard (1995:§ gloc'hor)__1
+# sent_id = Menard(1995:§gloc'hor)__1
 # text = En deus tapet gloc'horennoù a-geñver d'e señturenn.
 # text_fr = 'Il a attrapé des ampoules du côté de la ceinture.'
 # source2 =  Poullaouen, XIX°, ms. P. Roux:121
 1	En	En	complémenteur	_	_	_	_	_	Gloss=R
-2	deus	kaout	?	_	_	_	_	_	Gloss=a
-3	tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
+2	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
 4	gloc'horennoù	gloc'horennoù	?	_	_	_	_	_	Gloss=ampoules
-5	a-geñver	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a-geñver	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	d'	da	préposition	_	_	_	_	_	Gloss=de
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-8	señturenn	-enn	nom	_	_	_	_	_	Gloss=SG
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+8	señturenn	-enn	suffixe|nom	_	_	_	_	_	Gloss=SG
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

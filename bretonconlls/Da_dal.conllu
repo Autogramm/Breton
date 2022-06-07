@@ -1,12 +1,12 @@
-# sent_id = Evenou (1987:627)__2
+# sent_id = Evenou(1987:627)__2
 # text = ec'h yaje an dud da-dal ar stêr.
 # text_fr = 'Les gens allaient à la rivière.'
-# text_phon = ['[ hjize', 'ndyd', 'dǝ-dal', 'ǝ Stê:r ]']
+# text_phon =  hjize ndyd dǝ-dal ǝ Stê:r  
 1	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
-2	yaje	mont.Formesd'habitude	verbe.?	_	_	_	_	_	Gloss=allait.HAB
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-5	da-dal	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-6	ar	art	?	_	_	_	_	_	Gloss=le
+2	yaje	mont.Formes_d'habitude	verbe.?	_	_	_	_	_	Gloss=allait.HAB
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+5	da-dal	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	stêr	stêr	nom	_	_	_	_	_	Gloss=rivière
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

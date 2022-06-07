@@ -1,14 +1,16 @@
 # sent_id = Gros(1984:64)__1
 # text = Harz, ma faotr, ha gra !
 # text_fr = 'Aboie, mon garçon, allez vas-y.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Harz	Harz	préposition	_	_	_	_	_	Gloss=aboie
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 4	faotr	paotr	nom	_	_	_	_	_	Gloss=garçon
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	ha	&	?	_	_	_	_	_	Gloss=et
-7	gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	gra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fagon&Riou(2015:'bagwal')__1
@@ -17,12 +19,12 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	or	art	?	_	_	_	_	_	Gloss=un
-2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
+1	or	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Mutation=target|MutationNUM=5
 3	grignouz	grignouz	?	_	_	_	_	_	Gloss=hargneux
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ne	ne	?	_	_	_	_	_	Gloss=ne
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
 6	dean	dihan	verbe	_	_	_	_	_	Gloss=arrête
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	vagwal	vagwal	?	_	_	_	_	_	Gloss=aboyer
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

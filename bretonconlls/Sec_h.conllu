@@ -4,7 +4,7 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=un
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	teil	teil	nom	_	_	_	_	_	Gloss=fumier
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	seac'h-korn	seac'h-korn	?	_	_	_	_	_	Gloss=sec-INT
@@ -17,19 +17,19 @@
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
 1	Disterra	dister.superlatif	adjectif.adjectif	_	_	_	_	_	Gloss=minime.le.plus
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	teue	dont	verbe	_	_	_	_	_	Gloss=venait
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	fallaad	fall.-aat	adverbe-adjectif.verbe	_	_	_	_	_	Gloss=mauvais.er
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-9	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	fallaad	fall.-aat	adverbe|adjectif.verbe|suffixe	_	_	_	_	_	Gloss=mauvais.er
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+9	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+10	ranket	rankout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=d.û
 11	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
-12	aneuzeu	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
-13	war	war	?	_	_	_	_	_	Gloss=sur
-14	ar	art	?	_	_	_	_	_	Gloss=le
+12	aneuzeu	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+13	war	war	préposition	_	_	_	_	_	Gloss=sur
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	zeh	zeh	?	_	_	_	_	_	Gloss=sec
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -40,8 +40,8 @@
 # source = Lozach (2014)
 1	Douar-gretel	douar	nom	_	_	_	_	_	Gloss=terre
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	un	art	?	_	_	_	_	_	Gloss=un
-4	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+4	tammig	tamm.DIM	quantifieur.DIM	_	_	_	_	_	Gloss=morceau.petit
 5	kras	kras	?	_	_	_	_	_	Gloss=séché
-6	ah(e)	aze	?	_	_	_	_	_	Gloss=ici
+6	ah(e)	aze	adverbe	_	_	_	_	_	Gloss=ici
 7	his-se	giz	nom	_	_	_	_	_	Gloss=comme

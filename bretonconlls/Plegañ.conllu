@@ -4,27 +4,29 @@
 # dialect = Vannetais
 # source = Cheveau (2017)
 # texttype = Ouvrages de recherche
-1	hani	hini	nom-pronom	_	_	_	_	_	Gloss=aucun
-2	anezhe	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	hani	hini	pronom|nom	_	_	_	_	_	Gloss=aucun
+2	anezhe	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
 5	plegiñ	plegiñ	?	_	_	_	_	_	Gloss=plier
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	arall	all	?	_	_	_	_	_	Gloss=arall
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	arall	all	quantifieur|adjectif	_	_	_	_	_	Gloss=arall
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Audic(2013:103)__1
 # text = Fache vehai guet-ou plæguein é gorv de labourad.
 # text_fr = 'Il serait fâché de contraindre son corps à travailler.'
-# source = IS.
+# dialect = Vannetais
+# source = IS.(I, II)
+# texttype = Références de corpus
 1	Fache	Fache	?	_	_	_	_	_	Gloss=fâcherie
-2	vehai	COP	?	_	_	_	_	_	Gloss=serait
-3	guet-ou	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+2	vehai	COP	verbe	_	_	_	_	_	Gloss=serait
+3	guet-ou	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 4	plæguein	plæguein	?	_	_	_	_	_	Gloss=plier
-5	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	é	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	gorv	korf	nom	_	_	_	_	_	Gloss=corps
-7	de	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	de	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -33,24 +35,25 @@
 # text_fr = 'plié en deux (d'un bout à l'autre)'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	gourbleget	gour-	?	_	_	_	_	_	Gloss=très|Morph=1
-2	eus	eus	?	_	_	_	_	_	Gloss=de
+1	gourbleget	gour-	?	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
+2	eus	eus	préposition	_	_	_	_	_	Gloss=de
 3	penn	penn	nom	_	_	_	_	_	Gloss=tête
-4	traoñv	traoñv	?	_	_	_	_	_	Gloss=bas
+4	traoñv	traoñv	nom	_	_	_	_	_	Gloss=bas
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	egile	egile	?	_	_	_	_	_	Gloss=autre
+6	egile	egile	pronom	_	_	_	_	_	Gloss=autre
 
 # sent_id = Riou(1941:7)__1
 # text = D'al liorz, d'ober ur blegadenn.
 # text_fr = '(Je vais) au jardin, pour chier.'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
 1	D'	da	préposition	_	_	_	_	_	Gloss=à
-2	al	art	?	_	_	_	_	_	Gloss=le
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	liorz	liorzh	nom	_	_	_	_	_	Gloss=jardin
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	ur	art	?	_	_	_	_	_	Gloss=un
+5	d'	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	blegadenn	blegadenn.-adenn	?.nom	_	_	_	_	_	Gloss=1.ation
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

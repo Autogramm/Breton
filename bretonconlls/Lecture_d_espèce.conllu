@@ -1,15 +1,17 @@
 # sent_id = Gros(1989:'gwelloh')__1
 # text = Al lêz-kezeg a zo kalz gwelloh evit al lêz-saout.
 # text_fr = 'Le lait de jument est bien meilleur que le lait de vache.'
-# source = Gros (1989)
-1	Al	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	lêz-kezeg	laezh	nom	_	_	_	_	_	Gloss=lait
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+5	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 6	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-8	al	art	?	_	_	_	_	_	Gloss=le
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+8	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	lêz-saout	laezh	nom	_	_	_	_	_	Gloss=lait
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,15 +22,15 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Aliesoh	alies.-oc'h	adverbe.?	_	_	_	_	_	Gloss=souvent.plus
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	grohen	kroc'hen	?	_	_	_	_	_	Gloss=peau
 4	leue	leue	nom	_	_	_	_	_	Gloss=veau
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	ya	mont	verbe	_	_	_	_	_	Gloss=va
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	zeha	sec'hiñ	?	_	_	_	_	_	Gloss=sécher
-9	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	grohen	kroc'hen	?	_	_	_	_	_	Gloss=peau
 12	buoh	buoc'h	?	_	_	_	_	_	Gloss=vache
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -36,15 +38,17 @@
 # sent_id = Herrieu(1994:86)__1
 # text = Holl an dudigoù-mañ a vev diàr goust ar soudard.
 # text_fr = 'Toutes ces petites gens vivent sur le compte du soldat.'
-# source = Herrieu (1994)
-1	Holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dudigoù-mañ	tud	nom	_	_	_	_	_	Gloss=gens]].[[DIM]].PL-[[DEM|ci|Morph=1
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dudigoù-mañ	tud	nom	_	_	_	_	_	Gloss=gens]].[[DIM]].PL-[[DEM|ci|Mutation=target|MutationNUM=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	vev	bevañ	verbe	_	_	_	_	_	Gloss=vit
-6	diàr	diwar	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	diàr	diwar	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	goust	koust	?	_	_	_	_	_	Gloss=coût
-8	ar	art	?	_	_	_	_	_	Gloss=le
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -55,12 +59,12 @@
 # location = lettres Herrieu
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Er	art	?	_	_	_	_	_	Gloss=le
+1	Er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	grip	grip	?	_	_	_	_	_	Gloss=grippe
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	lak	lakaat	verbe	_	_	_	_	_	Gloss=met
-5	en	IMP	complémenteur	_	_	_	_	_	Gloss=on
+5	en	IMP	pronom	_	_	_	_	_	Gloss=on
 6	dén	dén	?	_	_	_	_	_	Gloss=?
 7	klan	klañv	adjectif	_	_	_	_	_	Gloss=malade
-8	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

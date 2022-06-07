@@ -1,4 +1,4 @@
-# sent_id = Bouzec & al. (2017:62)__1
+# sent_id = Bouzec&al.(2017:62)__1
 # text = Kracherc'h zo  nhijal diboa mintin-m'.
 # text_fr = 'Il vole de rares flocons depuis ce matin.'
 1	Kracherc'h	Kracherc'h	?	_	_	_	_	_	Gloss=Krakercxxxh
@@ -6,22 +6,23 @@
 3	??	??	?	_	_	_	_	_	Gloss=o
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	nhijal	nhijal	verbe	_	_	_	_	_	Gloss=nijal
-6	diboa	diboa	?	_	_	_	_	_	Gloss=dibaoe
+6	diboa	diboa	adverbe|préposition	_	_	_	_	_	Gloss=dibaoe
 7	mintin-m'	mintin-m'	?	_	_	_	_	_	Gloss=mintin-mañ
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1958:'pluenn')__1
 # text = Nijet ez eus kuit eur bluenn doh e askell.
 # text_fr = 'Une plume s'est envolée de son aile.'
-# source = Le Gall (1958)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Nijet	Nijet	?	_	_	_	_	_	Gloss=volé
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-5	eur	art	nom	_	_	_	_	_	Gloss=un
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	bluenn	bluenn	?	_	_	_	_	_	Gloss=1
 7	doh	doc'h	?	_	_	_	_	_	Gloss=de
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	askell	askell	nom	_	_	_	_	_	Gloss=aile
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -33,7 +34,7 @@
 # texttype = Ouvrages de recherche
 1	Nijet	Nijet	?	_	_	_	_	_	Gloss=volé
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 5	da	da-gaout	préposition	_	_	_	_	_	Gloss=vers
 6	gaout	gaout	?	_	_	_	_	_	Gloss=?

@@ -5,8 +5,8 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-2	all	all	?	_	_	_	_	_	Gloss=autre
+1	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+2	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 3	mond	mont	verbe	_	_	_	_	_	Gloss=aller
 4	gouestadig	gouestadig	?	_	_	_	_	_	Gloss=lentement
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -6,12 +6,12 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Laket	Laket	?	_	_	_	_	_	Gloss=mis
-2	'	kaout	?	_	_	_	_	_	Gloss=avez
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	peus	peus	?	_	_	_	_	_	Gloss=?
-4	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 5	hiviz	hiviz	nom	_	_	_	_	_	Gloss=chemise
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	an	art	?	_	_	_	_	_	Gloss=le
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	tu	tu	nom	_	_	_	_	_	Gloss=côté
 9	gin	gin	nom	_	_	_	_	_	Gloss=envers
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -19,13 +19,14 @@
 # sent_id = ArMenn(2015:32)__1
 # text = Ha lakit lakaat skritelloù e pep lec'h !
 # text_fr = 'Et faites mettre des affiches partout !'
+# dialect = Standard
 # source = Ar Menn (2015)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	lakit	lakit	?	_	_	_	_	_	Gloss=mettez
 3	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-4	skritelloù	skritell.-où(PL.)	?.?	_	_	_	_	_	Gloss=affiche.s
-5	e	P.e	?	_	_	_	_	_	Gloss=en
+4	skritelloù	skritell.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=affiche.s
+5	e	P.e	préposition	_	_	_	_	_	Gloss=en
 6	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 7	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -38,65 +39,68 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Dav	dav	adjectif	_	_	_	_	_	Gloss=obligé
-2	'	COP	?	_	_	_	_	_	Gloss=sera
+2	'	COP	verbe	_	_	_	_	_	Gloss=sera
 3	vo	vo	?	_	_	_	_	_	Gloss=?
 4	lakout	lakout	?	_	_	_	_	_	Gloss=mettre
 5	avel	avel	nom	_	_	_	_	_	Gloss=vent
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	ba	ba	?	_	_	_	_	_	Gloss=?
-8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+8	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 9	chaosennoù	chaosennoù	?	_	_	_	_	_	Gloss=chaussons
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'liva')__1
-# text = Me a lakaio [ liva ar vroz-mañ e glaz ].
+# text = Me a lakaio [ liva ar vroz-mañ e glaz .
 # text_fr = 'Je ferai teindre cette jupe-ci en bleu.'
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	lakaio	lakaio	?	_	_	_	_	_	Gloss=mettra
 4	[	[	?	_	_	_	_	_	Gloss=
 5	liva	livañ	verbe	_	_	_	_	_	Gloss=teindre
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vroz-mañ	brozh	nom	_	_	_	_	_	Gloss=jupe]]-[[DEM|ci|Morph=1
-8	e	P.e	?	_	_	_	_	_	Gloss=en
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	vroz-mañ	brozh	nom	_	_	_	_	_	Gloss=jupe]]-[[DEM|ci|Mutation=target|MutationNUM=1
+8	e	P.e	préposition	_	_	_	_	_	Gloss=en
 9	glaz	glas	adjectif	_	_	_	_	_	Gloss=bleu
-10	].	].	?	_	_	_	_	_	Gloss=?
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'barr')__1
 # text = Ar gloér a lakee an ed da zevel ha dansal gant barriou-avel...
 # text_fr = 'Les clercs faisaient s'élever et danser le blé au moyen de bourrasques... '
-# source = Gros (1989)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	gloér	gloér	?	_	_	_	_	_	Gloss=clercs
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	lakee	lakee	?	_	_	_	_	_	Gloss=mettait
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	ed	ed	nom	_	_	_	_	_	Gloss=blé
 7	zevel	sevel	verbe	_	_	_	_	_	Gloss=lever
-8	ha	&	?	_	_	_	_	_	Gloss=et
+8	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	dansal	dañsal	verbe	_	_	_	_	_	Gloss=danser
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 
 # sent_id = ArMeliner(2009:136)__2
 # text = Kentizh an holl ober èlti hag em lakaet da respont d'o zro.
 # text_fr = 'Et tous, aussitôt, de faire comme elle et de se mettre à répondre à leur tour.'
-# source = Ar Meliner (2009)
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
 1	Kentizh	kentizh	adverbe	_	_	_	_	_	Gloss=aussi.vite
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-5	èlti	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.elle
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+5	èlti	evel.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=comme.elle
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	em	en_em	?	_	_	_	_	_	Gloss=se
 8	lakaet	lakaet	?	_	_	_	_	_	Gloss=mettre
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 10	respont	respont	?	_	_	_	_	_	Gloss=répondre
-11	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-13	zro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+11	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+12	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+13	zro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Thibault(1914:436)__1
@@ -106,12 +110,12 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
-2	Ne	Ne	?	_	_	_	_	_	Gloss=mets
+2	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=mets
 3	lakã	lakã	?	_	_	_	_	_	Gloss=?
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	i	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
-7	eriẅ	arru	?	_	_	_	_	_	Gloss=arrivé
+7	eriẅ	arru	verbe	_	_	_	_	_	Gloss=arrivé
 8	/	/	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBarzhig(1976:28)__1
@@ -120,12 +124,12 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 3	gwarded	gwarded	?	_	_	_	_	_	Gloss=gardes
-4	war	war	?	_	_	_	_	_	Gloss=sur
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous|Morph=1
+4	war	war	préposition	_	_	_	_	_	Gloss=sur
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous|Mutation=trigger|MutationNUM=1
 7	c'heunioù	geun	nom	_	_	_	_	_	Gloss=marais
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -137,5 +141,5 @@
 # texttype = Ouvrages de recherche
 1	/pe	peseurt	?	_	_	_	_	_	Gloss=quel
 2	xaŋ	anv	nom	_	_	_	_	_	Gloss=nom
-3	təxoŋ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	təxoŋ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	/	/	PUNCT	_	_	_	_	Gloss=punct

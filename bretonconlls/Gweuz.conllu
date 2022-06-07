@@ -1,17 +1,18 @@
 # sent_id = Standard,Drezen(1990)__1
 # text = Skediñ a reas ivez he dent e skrin he diweuz ruzlivet.
 # text_fr = 'Ses dents brillèrent dans l'écrin de ses lèvres peintes de rouge.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Skediñ	skediñ	verbe	_	_	_	_	_	Gloss=briller
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-6	dent	dant.plurielinterne	nom.?	_	_	_	_	_	Gloss=dent.s
-7	e	P.e	?	_	_	_	_	_	Gloss=en
+5	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+6	dent	dant.pluriel_interne	nom.?	_	_	_	_	_	Gloss=dent.s
+7	e	P.e	préposition	_	_	_	_	_	Gloss=en
 8	skrin	skrin	?	_	_	_	_	_	Gloss=écrin
-9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+9	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 10	diweuz	duel	?	_	_	_	_	_	Gloss=2
-11	ruzlivet	ruz.livañ.-et(Adj.)	adjectif.verbe.?	_	_	_	_	_	Gloss=rouge.pein.t
+11	ruzlivet	ruz.livañ.-et_(Adj.)	adjectif.verbe.verbe|suffixe	_	_	_	_	_	Gloss=rouge.pein.t
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

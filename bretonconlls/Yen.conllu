@@ -1,10 +1,10 @@
-# sent_id = Bouzec & al. (2017:61)__1
+# sent_id = Bouzec&al.(2017:61)__1
 # text = Yégn 'rè n-dro 'dar.
 # text_fr = 'Il fait froid à nouveau.'
 1	Yégn	Yégn	adjectif	_	_	_	_	_	Gloss=Yen
 2	'	'	préposition	_	_	_	_	_	Gloss=a
 3	rè	rè	complémenteur	_	_	_	_	_	Gloss=ra
-4	n-dro	n-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=en-dro
+4	n-dro	n-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=en-dro
 5	'	'	?	_	_	_	_	_	Gloss=(adarre).
 6	dar.	dar.	?	_	_	_	_	_	Gloss=?
 
@@ -15,19 +15,19 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
-2	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+2	èl	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	'	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 6	vit	vit	?	_	_	_	_	_	Gloss=?
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	vro	bro	nom	_	_	_	_	_	Gloss=pays
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-11	heñv	pfi	?	_	_	_	_	_	Gloss=lui
-12	yenaet	-aat	verbe	_	_	_	_	_	Gloss=i
-13	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-14	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+10	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+11	heñv	pfi	pronom	_	_	_	_	_	Gloss=lui
+12	yenaet	-aat	verbe|suffixe	_	_	_	_	_	Gloss=i
+13	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+14	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:381)__1
@@ -39,23 +39,25 @@
 # texttype = Ouvrages de recherche
 1	Anou'	anoued	nom	_	_	_	_	_	Gloss=froid
 2	d	d	?	_	_	_	_	_	Gloss=?
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-5	sreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+5	sreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	yeign-sklass	yeign-sklass	?	_	_	_	_	_	Gloss=INT
-8	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 9	ma-yè	ma-yè	?	_	_	_	_	_	Gloss=3PL
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B(10/2018)__1
 # text = Ar vugale o deus dien.
 # text_fr = 'Les enfants ont froid.'
+# dialect = Léonard
 # location = Plougerneau
-# source = M-L.B (10/2018)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+# source = M-L. B. (10/2018)
+# texttype = Élicitations
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	dien	dien	?	_	_	_	_	_	Gloss=froid
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

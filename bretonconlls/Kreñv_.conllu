@@ -1,7 +1,8 @@
 # sent_id = Vallée(1980:XIX)__2
 # text = kemeridigezh ur c'hreñvlec'h
 # text_fr = 'la prise d'un fort'
-# source = Vallée (1980)
-1	kemeridigezh	kemer.-edigezh,-idigezh	verbe.?	_	_	_	_	_	Gloss=pren.ation
-2	ur	art	?	_	_	_	_	_	Gloss=un
+# source = Vallée (1931)
+# texttype = Ouvrages de recherche
+1	kemeridigezh	kemer.-edigezh,_-idigezh	verbe.suffixe|nom	_	_	_	_	_	Gloss=pren.ation
+2	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	c'hreñvlec'h	lec'h	?	_	_	_	_	_	Gloss=place

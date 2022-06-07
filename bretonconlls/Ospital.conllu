@@ -4,17 +4,17 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=arracher
-8	un	art	?	_	_	_	_	_	Gloss=un
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	dant	dant	nom	_	_	_	_	_	Gloss=dent
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	ospital	ospital	nom	_	_	_	_	_	Gloss=hôpital
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -30,6 +30,6 @@
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	eat	mont	verbe	_	_	_	_	_	Gloss=allé
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	ospital	ospital	nom	_	_	_	_	_	Gloss=hôpital
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

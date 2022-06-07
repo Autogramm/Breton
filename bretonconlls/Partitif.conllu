@@ -1,9 +1,11 @@
 # sent_id = Hemon(1956:xlii)__1
 # text = pep cornë a-ves en hent
 # text_fr = 'chaque tournant de la route'
+# dialect = Vannetais
 # source = NG.
+# texttype = Références de corpus
 1	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 2	cornë	korn	nom	_	_	_	_	_	Gloss=tournant
-3	a-ves	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+3	a-ves	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	hent	hent	nom	_	_	_	_	_	Gloss=route

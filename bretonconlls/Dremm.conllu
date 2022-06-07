@@ -5,9 +5,9 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Skaret	Skaret	?	_	_	_	_	_	Gloss=ridé
-2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-3	'	COP	?	_	_	_	_	_	Gloss=était
+2	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
 4	oa	oa	?	_	_	_	_	_	Gloss=?
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	fas	fas	nom	_	_	_	_	_	Gloss=face
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

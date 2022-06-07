@@ -7,10 +7,11 @@
 1	piz	piz	nom	_	_	_	_	_	Gloss=pois
 2	manjtout	manjtout	?	_	_	_	_	_	Gloss=mange-tout
 
-# sent_id = Bouzec & al. (2017:236)__3
+# sent_id = Bouzec&al.(2017:236)__3
 # text = Blam  vo had't péz perchoù.
 # text_fr = 'Cette année on sèmera des haricots à rames.'
-1	??	??	?	_	_	_	_	_	Gloss=e
+# source = Bouzeg (1986)
+1	??	??	verbe	_	_	_	_	_	Gloss=e
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	vo	vo	?	_	_	_	_	_	Gloss=vo
 4	had'	had'	?	_	_	_	_	_	Gloss=hadet

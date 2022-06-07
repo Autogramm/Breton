@@ -1,0 +1,24 @@
+sent_id = Standard,[http://br.dofollow.be/wiki/Patrom:Infobox_Sonerezh_%28arzour%29légendecouleurs]surWikipedia__1
+text = Nep den, sonaozour, teknikour, hag all... a gemer perzh a-dreñv al leurenn.
+text_fr =  'Tout sonorisateur, technicien, etc. qui participe hors la scène.' 
+1	Nep	nep	adjectif	_	_	_	_	_	Gloss=chaque
+2	den	den	nom	_	_	_	_	_	Gloss=homme
+3	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+4	sonaozour	sonaozour	?	_	_	_	_	_	Gloss=sonorisateur
+5	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+6	teknikour	teknikour	?	_	_	_	_	_	Gloss=technicien,
+7	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+8	hag all..	hag all..	?	_	_	_	_	_	Gloss=et autre...
+9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+10	a gemer	[[R]]_[[1]] [[kemer|prend]]	?	_	_	_	_	_	Gloss=[[R]]_[[1]] [[kemer|prend]]
+11	perzh	perzh	nom	_	_	_	_	_	Gloss=part
+12	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
+13	al leurenn	art	article	_	_	_	_	_	Gloss=le
+14	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Bouzeg(1986:I)__9
+text = avalou-douar plusk ha-tout
+text_fr =  'des pommes de terres en robe des champs.'
+1	avalou-douar	aval.-où (PL.).douar	nom.nom.nom	_	_	_	_	_	Gloss=pomme.s.terre
+2	plusk	plusk	nom	_	_	_	_	_	Gloss=peau
+3	ha-tout	&	conjonction	_	_	_	_	_	Gloss=et

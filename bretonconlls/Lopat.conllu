@@ -4,13 +4,13 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-2	mennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+2	mennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 3	'	zo	?	_	_	_	_	_	Gloss=est
 4	zo	zo	?	_	_	_	_	_	Gloss=?
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	lopat	lopat	verbe	_	_	_	_	_	Gloss=frapper
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	nor	dor	nom	_	_	_	_	_	Gloss=porte
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

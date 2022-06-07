@@ -5,16 +5,16 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-2	gant	gant	?	_	_	_	_	_	Gloss=avec
+1	Great	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+2	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 3	pri	pri	nom	_	_	_	_	_	Gloss=terre
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	gros	gros	adverbe-adjectif	_	_	_	_	_	Gloss=grossièrement
+5	great	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	gros	gros	adverbe|adjectif	_	_	_	_	_	Gloss=grossièrement
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	c'helles	gallout	verbe	_	_	_	_	_	Gloss=peux
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	grediñ	krediñ	verbe	_	_	_	_	_	Gloss=croire
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -23,5 +23,5 @@
 # text_fr = 'fours de faïencerie(s)'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	fornioù	forn.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=four.s
+1	fornioù	forn.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=four.s
 2	pri-livet	livañ	verbe	_	_	_	_	_	Gloss=peint

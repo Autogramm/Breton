@@ -5,13 +5,13 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 4	bourmen	bourmen	?	_	_	_	_	_	Gloss=promener
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	aotchoù	aod.-où(PL.)	nom.?	_	_	_	_	_	Gloss=côte.s
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	aotchoù	aod.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=côte.s
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite&Stéphan(1957:75)__1
@@ -21,13 +21,13 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Kerz	kerzhout	verbe	_	_	_	_	_	Gloss=va
-2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 3	bourmen	bourmen	?	_	_	_	_	_	Gloss=promener
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	marmouz	marmouz	nom	_	_	_	_	_	Gloss=singe
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ha	&	?	_	_	_	_	_	Gloss=et
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 8	chom	chom	verbe	_	_	_	_	_	Gloss=reste
 9	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
-10	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 11	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -10,39 +10,43 @@
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	tud	tud	nom	_	_	_	_	_	Gloss=gens
 6	boazet	boazañ	verbe	_	_	_	_	_	Gloss=habitué
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	zebr'	debriñ	verbe	_	_	_	_	_	Gloss=manger
 9			PUNCT	_	_	_	_	Gloss=punct
-10	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+10	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 11	drol	drol	adjectif	_	_	_	_	_	Gloss=bizarre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:149)__1
 # text = Bremañ e vez anoiou ken drol d'an dud.
 # text_fr = 'Maintenant on donne aux gens des noms tellement drôles.'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	anoiou	anv.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=nom.s
-5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	anoiou	anv.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=nom.s
+5	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=[[ken,_ker,
+6	drol	drol	adjectif	_	_	_	_	_	Gloss=kel|si]]drôle
+7	d'	da	préposition	_	_	_	_	_	Gloss=à
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1984:351)__1
 # text = N'e ke' drol neus blew ru ho mab.
 # text_fr = 'Ce n'est pas étonnant que votre fils ait les cheveux roux.'
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	e	COP	?	_	_	_	_	_	Gloss=est
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	e	COP	verbe	_	_	_	_	_	Gloss=est
 3	ke'	ket	adverbe	_	_	_	_	_	Gloss=pas
 4			PUNCT	_	_	_	_	Gloss=punct
 5	drol	drol	adjectif	_	_	_	_	_	Gloss=étonnant
-6	neus	kaout	?	_	_	_	_	_	Gloss=a
+6	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 7	blew	blev	nom	_	_	_	_	_	Gloss=cheveux
 8	ru	ruz	adjectif	_	_	_	_	_	Gloss=rouge
-9	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+9	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 10	mab	mab	nom	_	_	_	_	_	Gloss=fils
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

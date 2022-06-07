@@ -5,15 +5,15 @@
 # location = Plougerneau
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-2	houefen	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	veche	COP	?	_	_	_	_	_	Gloss=serait
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+2	houefen	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savais
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	veche	COP	verbe	_	_	_	_	_	Gloss=serait
 5	avel	avel	nom	_	_	_	_	_	Gloss=vent
 6	Nort	Nort	?	_	_	_	_	_	Gloss=Nord
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	sarfen	serriñ	verbe	_	_	_	_	_	Gloss=fermerais
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	bouliji	-i(PL.)	?	_	_	_	_	_	Gloss=s
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	bouliji	-i_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

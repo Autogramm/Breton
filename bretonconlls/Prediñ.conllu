@@ -1,38 +1,41 @@
 # sent_id = ArMeliner(2009:135)__1
 # text = A pa oa predet, holl an dud o doa em stardet muioc'h c'hoazh trema an oaled...
 # text_fr = 'Après le repas, tout le monde se rapprocha encore plus du foyer... '
-# source = Ar Meliner (2009)
-1	A	&	préposition	_	_	_	_	_	Gloss=et
-2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	A	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	predet	predet	?	_	_	_	_	_	Gloss=dîné
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-9	o	kaout	?	_	_	_	_	_	Gloss=avaient
+6	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+9	o	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avaient
 10	doa	doa	?	_	_	_	_	_	Gloss=?
-11	em	pronomréfléchi	?	_	_	_	_	_	Gloss=se
-12	stardet	stardañ	?	_	_	_	_	_	Gloss=rapproché
+11	em	pronom_réfléchi	?	_	_	_	_	_	Gloss=se
+12	stardet	stardet	?	_	_	_	_	_	Gloss=?
 13	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 14	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
-15	trema	trema	?	_	_	_	_	_	Gloss=vers
-16	an	art	?	_	_	_	_	_	Gloss=le
+15	trema	trema	préposition	_	_	_	_	_	Gloss=vers
+16	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 17	oaled..	oaled	nom	_	_	_	_	_	Gloss=foyer
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:307)__1
 # text = Goude hor bout predet e tiskouezer deomp hor gweleioù soudard.
 # text_fr = 'Après avoir mangé, on nous montre nos lits de soldats.'
-# source = Herrieu (1994)
-1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 2	hor	hor	?	_	_	_	_	_	Gloss=1PL
-3	bout	kaout	?	_	_	_	_	_	Gloss=être
+3	bout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4	predet	predet	?	_	_	_	_	_	Gloss=mangé
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	tiskouezer	diskouez.IMP	verbe.?	_	_	_	_	_	Gloss=montre.on
-7	deomp	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
-8	hor	POSS	?	_	_	_	_	_	Gloss=notre
-9	gweleioù	gwele.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=lit.s
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	tiskouezer	diskouez.IMP	verbe.pronom	_	_	_	_	_	Gloss=montre.on
+7	deomp	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+8	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+9	gweleioù	gwele.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=lit.s
 10	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

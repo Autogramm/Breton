@@ -4,17 +4,17 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-4	benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à
+1	Mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+4	benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=à
 5	disadorn	disadorn	?	_	_	_	_	_	Gloss=samedi
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	be	bez	?	_	_	_	_	_	Gloss=expl
-8	meus	kaout	?	_	_	_	_	_	Gloss=ai
+8	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 9	kod	kod	?	_	_	_	_	_	Gloss=code
 10	antre	antre	?	_	_	_	_	_	Gloss=entrée
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	savadur	savadur	?	_	_	_	_	_	Gloss=bâtiment
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -28,14 +28,14 @@
 2	gallon	gallout	verbe	_	_	_	_	_	Gloss=peux
 3	tchet	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+5	er-maez	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 6	be	bez	?	_	_	_	_	_	Gloss=expl
-7	zo	E	?	_	_	_	_	_	Gloss=y.a
-8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+7	zo	E	verbe	_	_	_	_	_	Gloss=y.a
+8	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 9	gi	gi	?	_	_	_	_	_	Gloss=chien
-10	glep	glep	?	_	_	_	_	_	Gloss=mauvais
+10	glep	glep	adjectif	_	_	_	_	_	Gloss=mauvais
 11	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-12	ma	POSS	complémenteur	_	_	_	_	_	Gloss=mon
+12	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon
 13	nor	nor	?	_	_	_	_	_	Gloss=porte
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -45,15 +45,15 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	Glaskit	klask	verbe	_	_	_	_	_	Gloss=cherchez
 4	tche	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	mi	mui	adverbe	_	_	_	_	_	Gloss=plus
 6	be	Bez'	?	_	_	_	_	_	Gloss=expl
-7	meus	kaout	?	_	_	_	_	_	Gloss=ai
+7	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 8	(bet)	bet	?	_	_	_	_	_	Gloss=eu
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	respont	respont	?	_	_	_	_	_	Gloss=réponse
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -64,37 +64,37 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Be(t)	bet	?	_	_	_	_	_	Gloss=eu
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	bizaoù	bizaoù	?	_	_	_	_	_	Gloss=bague
-6	(e)ma	kaout	?	_	_	_	_	_	Gloss=avais
+6	(e)ma	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 7			PUNCT	_	_	_	_	Gloss=punct
 8	(bet)	c'hoant	?	_	_	_	_	_	Gloss=envie
 9	c’hoant	c’hoant	?	_	_	_	_	_	Gloss=?
-10	{	kaout	?	_	_	_	_	_	Gloss=avoir
-11	kaout/da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-12	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+10	{	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+11	kaout/da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+12	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 13	}	}	?	_	_	_	_	_	Gloss=?
-14	ui	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-15	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+14	ui	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+15	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 16	bla	bla	?	_	_	_	_	_	Gloss=anniversaire
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = etpas...*eoanokaskaout,"carceseraitcommesituallaislachercher",Scaër,H.Gaudart(03/2017)__1
 # text = Bet meus bet ar bizaoù ma bet c’hoant da gaout.
 # text_fr = 'J’ai eu la bague dont j’avais envie.'
-# source = *
+# source = Grammaticalité
 1	Bet	bet	?	_	_	_	_	_	Gloss=eu
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	bizaoù	bizaoù	?	_	_	_	_	_	Gloss=bague
-6	ma	kaout	complémenteur	_	_	_	_	_	Gloss=avais
+6	ma	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 7	bet	bet	?	_	_	_	_	_	Gloss=eu
 8	c’hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
-9	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-10	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+9	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+10	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
@@ -104,7 +104,7 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
 4	zunn	zunn	?	_	_	_	_	_	Gloss=semaine
 5	oto	oto	nom	_	_	_	_	_	Gloss=voiture
@@ -112,7 +112,7 @@
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
-# text = Be zo /meus ma loeroù a gouezh.  (préférence pour ''meus'')
+# text = Be zo /meus ma loeroù a gouezh.  (préférence pour meus)
 # text_fr = 'J’ai les chaussettes qui descendent.'
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
@@ -120,54 +120,50 @@
 1	Be	Bez'	?	_	_	_	_	_	Gloss=expl
 2	zo	zo	?	_	_	_	_	_	Gloss=y.a
 3	/meus	/meus	?	_	_	_	_	_	Gloss=?
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	loeroù	loer	nom	_	_	_	_	_	Gloss=chaussettes
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	gouezh	kouezhañ	?	_	_	_	_	_	Gloss=tombe
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	gouezh	kouezhañ	verbe	_	_	_	_	_	Gloss=tombe
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 9	??	??	?	_	_	_	_	_	Gloss=???
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 11	(préférence	(préférence	?	_	_	_	_	_	Gloss=???
 12	pour	pour	nom	_	_	_	_	_	Gloss=?
-13	'	'	?	_	_	_	_	_	Gloss=?
-14	'	'	?	_	_	_	_	_	Gloss=?
-15	meus'	meus'	?	_	_	_	_	_	Gloss=?
-16	'	'	?	_	_	_	_	_	Gloss=?
-17	)	)	?	_	_	_	_	_	Gloss=?
+13	meus)	meus)	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
-# text = Ma loeroù zo o kouezhañ / 'kouezho / [[*]] o kouezho!
+# text = Ma loeroù zo o kouezhañ / 'kouezho / [[* o kouezho!
 # text_fr = 'J’ai les chaussettes qui descendent.'
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	loeroù	loer	nom	_	_	_	_	_	Gloss=chaussettes
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-5	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
+5	kouezhañ	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 7	'	'	?	_	_	_	_	_	Gloss=?
 8	kouezho	kouezho	?	_	_	_	_	_	Gloss=?
 9	/	/	PUNCT	_	_	_	_	Gloss=punct
-10	[[*]]	[[*]]	?	_	_	_	_	_	Gloss=?
+10	[[*	[[*	?	_	_	_	_	_	Gloss=?
 11	o	o	?	_	_	_	_	_	Gloss=?
 12	kouezho!	kouezho!	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
-# text = O kouezhañ / [[*]] 'Kouezho ema ma loeroù !
+# text = O kouezhañ / *]] 'Kouezho ema ma loeroù !
 # text_fr = 'J’ai les chaussettes qui descendent.'
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-2	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
+2	kouezhañ	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
 3	/	/	PUNCT	_	_	_	_	Gloss=punct
-4	[[*]]	[[*]]	?	_	_	_	_	_	Gloss='@tomber
+4	*]]	*]]	?	_	_	_	_	_	Gloss='@tomber
 5	'	'	?	_	_	_	_	_	Gloss=?
 6	Kouezho	Kouezho	?	_	_	_	_	_	Gloss=?
-7	ema	ema	?	_	_	_	_	_	Gloss=est
-8	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	ema	ema	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	loeroù	loer	nom	_	_	_	_	_	Gloss=chaussettes
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -177,11 +173,11 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	Benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=à
+1	Benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=à
 2	diriaou	diriaou	?	_	_	_	_	_	Gloss=jeudi
 3	'	degouezhout	verbe	_	_	_	_	_	Gloss=arrivera
-4	tigoueho	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-5	ma	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+4	tigoueho	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+5	ma	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 6	sraoù.	sraoù.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
@@ -190,9 +186,9 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
-1	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+1	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 2	/?	/?	?	_	_	_	_	_	Gloss=?
-3	bochad	bochad	adverbe-quantifieur	_	_	_	_	_	Gloss=?
+3	bochad	bochad	adverbe|quantifieur	_	_	_	_	_	Gloss=?
 4	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -203,14 +199,14 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
-2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 3	lost	lost	nom	_	_	_	_	_	Gloss=queue
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	(tapet)	(tapet)	?	_	_	_	_	_	Gloss=attrapé
 6	Lucille	Lucille	?	_	_	_	_	_	Gloss=Lucille
 7	(?tapet)	(?tapet)	?	_	_	_	_	_	Gloss=attrapé
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Morph=5
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Mutation=target|MutationNUM=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
@@ -220,12 +216,12 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
-2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+2	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 3	lost	lost	nom	_	_	_	_	_	Gloss=queue
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	tapet	tapet	?	_	_	_	_	_	Gloss=attrapé
 6	(Lucille)	(Lucille)	?	_	_	_	_	_	Gloss=Lucille
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Morph=5
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Mutation=target|MutationNUM=5
 9	$$$	$$$	?	_	_	_	_	_	Gloss=Lucille
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

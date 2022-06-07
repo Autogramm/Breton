@@ -1,11 +1,12 @@
 # sent_id = Moulleg(1978:24)__1
 # text = Toui ! C'hwitell ! Tapet on !
 # text_fr = 'Zut ! Flûte ! Fichu !'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	C'	C'	?	_	_	_	_	_	Gloss=flûte
-2	hwitell	hwitell	?	_	_	_	_	_	Gloss=!
+1	C'hwitell	C'hwitell	?	_	_	_	_	_	Gloss=flûte
+2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
-5	on	COP	?	_	_	_	_	_	Gloss=suis
+4	Tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
+5	on	COP	verbe	_	_	_	_	_	Gloss=suis
 6	!	!	PUNCT	_	_	_	_	Gloss=punct

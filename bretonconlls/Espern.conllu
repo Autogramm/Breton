@@ -5,12 +5,12 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Red	ret	?	_	_	_	_	_	Gloss=obligé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	hiriv	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
 6	espern	espern	verbe	_	_	_	_	_	Gloss=économiser
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	dour	dour	nom	_	_	_	_	_	Gloss=eau
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,12 +21,12 @@
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
 1	Gall	gallout	verbe	_	_	_	_	_	Gloss=pu
-2	enefe	kaout	?	_	_	_	_	_	Gloss=aurait
+2	enefe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 3	espern	espern	verbe	_	_	_	_	_	Gloss=épargner
 4	pugur	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	c'houneze	gounit	verbe	_	_	_	_	_	Gloss=gagnait
-7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+7	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(02/2016)__1
@@ -37,15 +37,15 @@
 # source = M-L. B. (02/2016)
 # texttype = Élicitations
 1	Espern	Espern	verbe	_	_	_	_	_	Gloss=épargner
-2	en	kaout	complémenteur	_	_	_	_	_	Gloss=aurait
+2	en	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 3	diche	diche	?	_	_	_	_	_	Gloss=?
 4	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	c'houneze	gounit	verbe	_	_	_	_	_	Gloss=gagnait
-9	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -57,11 +57,11 @@
 # texttype = Élicitations
 1	Gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 2	espern	espern	verbe	_	_	_	_	_	Gloss=épargner
-3	rak	rak	?	_	_	_	_	_	Gloss=car
+3	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 4	gounit	gounit	verbe	_	_	_	_	_	Gloss=gagner
-5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	rea	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+5	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	rea	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Menard&Kadored(2001:'rak')__1
@@ -70,11 +70,11 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Gallet	gallout	verbe	_	_	_	_	_	Gloss=pu
-2	en	kaout	complémenteur	_	_	_	_	_	Gloss=avait
+2	en	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 3	doa	doa	?	_	_	_	_	_	Gloss=?
 4	arboellañ	arboellañ	?	_	_	_	_	_	Gloss=économiser
-5	rak	rak	?	_	_	_	_	_	Gloss=car
-6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+5	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 7	c'houneze	gounit	verbe	_	_	_	_	_	Gloss=gagnait
-8	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+8	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

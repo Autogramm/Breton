@@ -1,12 +1,12 @@
-# sent_id = Evenou (1987:581)__2
+# sent_id = Evenou(1987:581)__2
 # text = Petra e valec'h gant ar vilin-se ?
 # text_fr = 'Qu'est-ce qu'on moud avec ce moulin ?'
-# text_phon = ['[ petra', '(ə)', 'fa:lEx', 'ga', '', 'vil-sən ]']
-1	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	valec'h	malañ.IMP	verbe.?	_	_	_	_	_	Gloss=moud.2PL
-4	gant	gant	?	_	_	_	_	_	Gloss=avec
-5	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
+# text_phon =  petra (ə) fa:lEx ga  vil-sən  
+1	Petra	Petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	valec'h	malañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=moud.2PL
+4	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=1
 6	vilin-se	milin	nom	_	_	_	_	_	Gloss=moulin
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -17,54 +17,54 @@
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
 1	Para	Para	?	_	_	_	_	_	Gloss=quoi
-2	arri	arru	?	_	_	_	_	_	Gloss=arrive
-3	ganit	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
-4	ahe	aze	?	_	_	_	_	_	Gloss=là
+2	arri	arru	verbe	_	_	_	_	_	Gloss=arrive
+3	ganit	gant.pronom_incorporé.aze	préposition.?.adverbe	_	_	_	_	_	Gloss=avec.toi.là
+4	ahe	ahe	?	_	_	_	_	_	Gloss=?
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 6	Para	Para	?	_	_	_	_	_	Gloss=quoi
 7	zo	zo	?	_	_	_	_	_	Gloss=est
 8	kaos	kaoz	nom	_	_	_	_	_	Gloss=cause
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	hopes	hopal	verbe	_	_	_	_	_	Gloss=cries
-11	velse	evel.ads	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.là
+11	velse	evel.ads	complémenteur|préposition.adverbe|suffixe	_	_	_	_	_	Gloss=comme.là
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = deRostrenen(1738:62)__1
 # text = Pe evit tra ne leveres-te qet an dra-man-dra ?
 # text_fr = 'Que ne dis-tu telle chose ?'
 # source = de Rostrenen (1738)
-1	Pe	motinterrogatif	conjonction-complémenteur	_	_	_	_	_	Gloss=QU
-2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	Pe	mot_interrogatif	complémenteur|conjonction	_	_	_	_	_	Gloss=QU
+2	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 3	tra	tra	nom	_	_	_	_	_	Gloss=chose
-4	ne	ne	?	_	_	_	_	_	Gloss=ne
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
 5	leveres-te	lavarout	verbe	_	_	_	_	_	Gloss=dis
 6	qet	ket	adverbe	_	_	_	_	_	Gloss=pas
 
-# sent_id = deRostrenen(1738:62)__1
+# sent_id = deRostrenen(1738:62)__2
 # text = Pe rag tra ne res-te qet qemeñ-ze ?
 # text_fr = 'Que ne fais-tu cela ?'
 # source = de Rostrenen (1738)
-1	Pe	motinterrogatif	conjonction-complémenteur	_	_	_	_	_	Gloss=QU
-2	rag	rak	?	_	_	_	_	_	Gloss=car
+1	Pe	mot_interrogatif	complémenteur|conjonction	_	_	_	_	_	Gloss=QU
+2	rag	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 3	tra	tra	nom	_	_	_	_	_	Gloss=chose
-4	ne	ne	?	_	_	_	_	_	Gloss=ne
-5	res-te	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+5	res-te	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 6	qet	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	qemeñ-ze	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+7	qemeñ-ze	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fave1998:141)__1
-# text = Petra eman en e zoñj [ober __ ] ?
+# text = Petra eman en e zoñj [ober __ ?
 # text_fr = 'Qu'est-ce qu'il pense faire ?'
 # dialect = Léonard
 # source = Fave (1998)
 # texttype = Ouvrages de recherche
-1	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	Petra	Petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	eman	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	en	P.e	préposition	_	_	_	_	_	Gloss=en
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	zoñj	soñj	nom	_	_	_	_	_	Gloss=pensée
-6	[ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+6	[ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 7	__	__	?	_	_	_	_	_	Gloss=(quoi)
 
 # sent_id = Herri(1982:113)__1
@@ -72,22 +72,22 @@
 # text_fr = 'On lui avait donné quelque chose, mais je ne me rappelle pas quoi.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Un	art	?	_	_	_	_	_	Gloss=un
-2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	oa	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 6	bet	bet	?	_	_	_	_	_	Gloss=été
 7	roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
-8	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+8	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	hogen	hogen	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=mais
+10	hogen	hogen	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=mais
 11	n'	n'	?	_	_	_	_	_	Gloss=ne
 12	em	em	?	_	_	_	_	_	Gloss=1SG
-13	eus	kaout	?	_	_	_	_	_	Gloss=a
+13	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 14	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 15	soñj	soñj	nom	_	_	_	_	_	Gloss=souvenir
-16	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+16	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Milin(1922:403)__1
@@ -97,27 +97,28 @@
 # location = Saint Pol de Léon
 # source = Milin (1922)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	glevas	klevout	verbe	_	_	_	_	_	Gloss=entendit
-3	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+3	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa..	E	?	_	_	_	_	_	Gloss=y.était
+5	oa..	E	verbe	_	_	_	_	_	Gloss=y.était
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:41)__2
 # text = Ha gouzout a rez, te, petra eo an dra-se, karout ?
 # text_fr = 'Et tu sais, toi, ce que c'est qu'aimer ?'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	gouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	an	DET	?	_	_	_	_	_	Gloss=le
-9	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+6	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	an	DET	déterminant	_	_	_	_	_	Gloss=le
+9	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Mutation=target|MutationNUM=1
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	karout	karout	verbe	_	_	_	_	_	Gloss=aimer
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -128,18 +129,18 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-2	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
+1	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+2	en	en_ur	complémenteur	_	_	_	_	_	Gloss=en
 3	ur	ur	?	_	_	_	_	_	Gloss=?
 4	sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	betra	betra	?	_	_	_	_	_	Gloss=quoi
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
-9	vefe	COP	?	_	_	_	_	_	Gloss=serait
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+9	vefe	COP	verbe	_	_	_	_	_	Gloss=serait
 10	kinniget	kinnig	verbe	_	_	_	_	_	Gloss=employé
-11	an	art	?	_	_	_	_	_	Gloss=le
-12	devezh	-vezh	nom	_	_	_	_	_	Gloss=ée
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	devezh	-vezh	suffixe|nom	_	_	_	_	_	Gloss=ée
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Burel(2012:38)__1
@@ -149,18 +150,18 @@
 # location = Lesneven
 # source = Burel (2012)
 # texttype = Références de corpus
-1	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+1	gouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reant	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisaient
+3	reant	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisaient
 4	magnifik	magnifik	?	_	_	_	_	_	Gloss=pertinemment
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	pétra	pétra	?	_	_	_	_	_	Gloss=quoi
-7	â	â	?	_	_	_	_	_	Gloss=R|Morph=1
+7	â	â	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	dlié	dleout	verbe	_	_	_	_	_	Gloss=devait
-9	erruout	erruout	?	_	_	_	_	_	Gloss=arriver
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	ô	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-12	bugalé	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+9	erruout	erruout	verbe	_	_	_	_	_	Gloss=arriver
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	ô	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+12	bugalé	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Burel(2012:40)__1
@@ -171,49 +172,51 @@
 # source = Burel (2012)
 # texttype = Références de corpus
 1	Gallek	galleg	nom	_	_	_	_	_	Gloss=français
-2	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	ouient	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savaient
-5	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+2	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	ouient	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savaient
+5	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 6	ivé	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	pétra	pétra	?	_	_	_	_	_	Gloss=quoi
-9	benac	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+9	benac	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 10	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-11	né	né	?	_	_	_	_	_	Gloss=ne|Morph=1
-12	ouient	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savaient
+11	né	né	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+12	ouient	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savaient
 13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 14	scriva	skrivañ	verbe	_	_	_	_	_	Gloss=écrire
-15	na	Na...na	?	_	_	_	_	_	Gloss=ni
-16	lenn	[lenn(V.)	?	_	_	_	_	_	Gloss=lire
-17	.	.	PUNCT	_	_	_	_	Gloss=punct
+15	na	Na..._na	complémenteur|conjonction	_	_	_	_	_	Gloss=ni
+16	lenn.	lenn.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Trépos(2001:§385)__1
 # text = Petra bennag ma oa skuiz, e kerze atao.
 # text_fr = 'Bien qu'il fût fatigué il marchait toujours.'
-# source = Trépos (2001)
-1	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	Petra	Petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	bennag	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	skuiz	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	kerze	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
 9	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Cheveau & Kersulec (2012-évolutif:Scaër,'harz')__1
+# sent_id = Cheveau&Kersulec(2012-évolutif:Scaër,'harz')__1
 # text = Hi n’he deus ket gwelet hini ebet anezhi petra.
 # text_fr = 'Elle n'en a vu aucun quoi.'
-# text_phon = ['[hi', 'nə', 'ʃə gɥɛl', 'ˈhɛ̃j be', 'nɛj', 'tʁa]']
-1	Hi	pfi	?	_	_	_	_	_	Gloss=elle
+# text_phon = hi nə ʃə gɥɛl ˈhɛ̃j be nɛj tʁa 
+# source = Trépos (1968)
+1	Hi	pfi	pronom	_	_	_	_	_	Gloss=elle
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-3	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-4	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+3	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+4	hini	hini	pronom|nom	_	_	_	_	_	Gloss=N
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
-7	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	anezhi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+7	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ouessant,Gouedig(1982)__1
@@ -222,9 +225,9 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	O	interjection	?	_	_	_	_	_	Gloss=oh
+1	O	interjection	interjection	_	_	_	_	_	Gloss=oh
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=quel
+3	Petra	Petra	complémenteur|pronom	_	_	_	_	_	Gloss=quel
 4	plijadur	plijadur	nom	_	_	_	_	_	Gloss=plaisir
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -234,15 +237,15 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	O	interjection	?	_	_	_	_	_	Gloss=oh
+1	O	interjection	interjection	_	_	_	_	_	Gloss=oh
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Petra	Petra	pronom-complémenteur	_	_	_	_	_	Gloss=quel
+3	Petra	Petra	complémenteur|pronom	_	_	_	_	_	Gloss=quel
 4	mizer	mizer	nom	_	_	_	_	_	Gloss=misère
 5	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
 6	debarasi	debarasiñ	?	_	_	_	_	_	Gloss=débarasser
 7	doh	doc'h	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = HorYezh(1983:73)__1
@@ -251,19 +254,19 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=qu(o)i
-6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	ar	art	?	_	_	_	_	_	Gloss=le
+5	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=qu(o)i
+6	eo	COP	verbe	_	_	_	_	_	Gloss=est
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	lavaran	lavarout	verbe	_	_	_	_	_	Gloss=dis
-11	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-12	me	pfi	?	_	_	_	_	_	Gloss=moi
+11	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+12	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 13	frekantan	frekantan	?	_	_	_	_	_	Gloss=fréquente
 14	gour	gour	?	_	_	_	_	_	Gloss=homme
-15	deuzouto	deus.ouzh.pronomincorporé	?.préposition.?	_	_	_	_	_	Gloss=de.de.eux
+15	deuzouto	deus.ouzh.pronom_incorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.eux
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

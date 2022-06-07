@@ -3,24 +3,26 @@
 # text_fr = 'On fait ça avec [le] couteau spécial.'
 # source = Blanchard (2016)
 # texttype = Ouvrages de recherche
-1	Gant	gant	?	_	_	_	_	_	Gloss=avec
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	gontel	kontell	nom	_	_	_	_	_	Gloss=couteau|Morph=1
+1	Gant	gant	préposition	_	_	_	_	_	Gloss=avec
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	gontel	kontell	nom	_	_	_	_	_	Gloss=couteau|Mutation=target|MutationNUM=1
 4	espres	espres	adverbe	_	_	_	_	_	Gloss=exprès
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaer')__1
 # text = N'em eus ket greet espres-kaer.
 # text_fr = 'Je ne l'ai pas fait exprès.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	em	em	?	_	_	_	_	_	Gloss=1SG
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	espres-kaer	espres-kaer	?	_	_	_	_	_	Gloss=INT
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -31,20 +33,20 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+1	Ranket	rankout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=d.û
 2	am	am	?	_	_	_	_	_	Gloss=1SG
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-5	ur	art	?	_	_	_	_	_	Gloss=un
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	sav	sevel	verbe	_	_	_	_	_	Gloss=lever
-7	a-espres	a-espres	?	_	_	_	_	_	Gloss=exprès
-8	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	a-espres	a-espres	adverbe	_	_	_	_	_	Gloss=exprès
+8	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	noz-mañ	noz	nom	_	_	_	_	_	Gloss=nuit
-10	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 11	lakat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-12	ar	art	?	_	_	_	_	_	Gloss=le
-13	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
-14	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Mutation=target|MutationNUM=5
+14	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 15	devel	tevel	verbe	_	_	_	_	_	Gloss=taire
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -57,17 +59,17 @@
 1	Espec'h	Espec'h	?	_	_	_	_	_	Gloss=exprès
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	ar	art	?	_	_	_	_	_	Gloss=le
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	goarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	reiñ	rein	verbe	_	_	_	_	_	Gloss=donner
 9	nebeutoc'h	nebeut.-oc'h	quantifieur.?	_	_	_	_	_	Gloss=peu.plus
-10	??	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	??	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
-12	zikourioù	sikour.-ioù(PL.)	verbe-nom.?	_	_	_	_	_	Gloss=aide.s
+12	zikourioù	sikour.-ioù_(PL.)	verbe|nom.suffixe	_	_	_	_	_	Gloss=aide.s
 13	d'	da	préposition	_	_	_	_	_	Gloss=à
-14	anin	IMP	?	_	_	_	_	_	Gloss=on
+14	anin	IMP	pronom	_	_	_	_	_	Gloss=on
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(01/2016)__12
@@ -77,14 +79,14 @@
 # location = Plougerneau
 # source = M-L. B. (01/2016)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Mutation=target|MutationNUM=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	goustoum	kustumiñ	verbe	_	_	_	_	_	Gloss=coutume
-5	espress	espress	?	_	_	_	_	_	Gloss=exprès
+5	espress	espress	adverbe	_	_	_	_	_	Gloss=exprès
 6	staotaat	staotat	verbe	_	_	_	_	_	Gloss=pisser
 7	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-8	va	POSS	?	_	_	_	_	_	Gloss=mon
+8	va	POSS	déterminant	_	_	_	_	_	Gloss=mon
 9	or	dor	nom	_	_	_	_	_	Gloss=porte
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -94,25 +96,25 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (05/2016)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	goarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	espec'h	espec'h	?	_	_	_	_	_	Gloss=exprès
 7	'	'	?	_	_	_	_	_	Gloss=?
 8			PUNCT	_	_	_	_	Gloss=punct
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	reiñ	reiñ	verbe	_	_	_	_	_	Gloss=donner
 11	nebeutoc'h	nebeut.-oc'h	quantifieur.?	_	_	_	_	_	Gloss=peu.plus
-12	??	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	??	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	?	?	PUNCT	_	_	_	_	Gloss=punct
-14	(zikourioù)	sikour.-ioù(PL.)	verbe-nom.?	_	_	_	_	_	Gloss=aide.s
+14	(zikourioù)	sikour.-ioù_(PL.)	verbe|nom.suffixe	_	_	_	_	_	Gloss=aide.s
 15	(d'	da	préposition	_	_	_	_	_	Gloss=à
-16	anin)	IMP	?	_	_	_	_	_	Gloss=on
+16	anin)	IMP	pronom	_	_	_	_	_	Gloss=on
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__5
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__6
 # text = Dont ' ra espec'h da glask bedoù ganin.
 # text_fr = 'Il vient me chercher des crosses exprès.'
 # dialect = Cornouaillais
@@ -121,12 +123,12 @@
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=vient
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 5	espec'h	espec'h	?	_	_	_	_	_	Gloss=exprès
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
-8	bedoù	bed.-où(PL.)	nom.?	_	_	_	_	_	Gloss=monde.s
-9	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+8	bedoù	bed.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=monde.s
+9	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(01/2016)__5
@@ -138,17 +140,17 @@
 # texttype = Élicitations
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=vient
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	ki	ki	nom	_	_	_	_	_	Gloss=chien
-5	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	amezogez	amezeg	nom	_	_	_	_	_	Gloss=voisin
 7	(espress)	(espress)	?	_	_	_	_	_	Gloss=(exprès)
 8	bemus	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
 9	(espress)	(espress)	?	_	_	_	_	_	Gloss=(exprès)
-10	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-11	gac'hat	kaoc'h.-at(V.)	?.?	_	_	_	_	_	Gloss=merd.er
-12	war	war	?	_	_	_	_	_	Gloss=sur
-13	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+11	gac'hat	kaoc'h.-at_(V.)	?.verbe|suffixe	_	_	_	_	_	Gloss=merd.er
+12	war	war	préposition	_	_	_	_	_	Gloss=sur
+13	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 14	fleur	fleur	nom	_	_	_	_	_	Gloss=fleurs
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -161,14 +163,14 @@
 # texttype = Élicitations
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=vient
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	ki	ki	nom	_	_	_	_	_	Gloss=chien
-5	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	amezogez	amezeg	nom	_	_	_	_	_	Gloss=voisin
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-8	gac'hat	kaoc'h.-at(V.)	?.?	_	_	_	_	_	Gloss=merd.er
-9	war	war	?	_	_	_	_	_	Gloss=sur
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+8	gac'hat	kaoc'h.-at_(V.)	?.verbe|suffixe	_	_	_	_	_	Gloss=merd.er
+9	war	war	préposition	_	_	_	_	_	Gloss=sur
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	fleur	fleur	nom	_	_	_	_	_	Gloss=fleur
 12	(espress)	(espress)	?	_	_	_	_	_	Gloss=(exprès)
 13	bemus	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
@@ -181,12 +183,12 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	jouch	sonjal	?	_	_	_	_	_	Gloss=pense
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	jouch	sonjal	verbe	_	_	_	_	_	Gloss=pense
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	bla-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
 4	Simone	Simone	?	_	_	_	_	_	Gloss=Simone
 5	(espress)	(espress)	?	_	_	_	_	_	Gloss=exprès
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	blanto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
 8	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 9	(espress)	(espress)	?	_	_	_	_	_	Gloss=exprès
@@ -201,19 +203,19 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
-4	jouch	sonjal	?	_	_	_	_	_	Gloss=pense
-5	ar	art	?	_	_	_	_	_	Gloss=le
+4	jouch	sonjal	verbe	_	_	_	_	_	Gloss=pense
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	bla-mañ	bloaz	nom	_	_	_	_	_	Gloss=an
-7	espress	espress	?	_	_	_	_	_	Gloss=exprès
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	espress	espress	adverbe	_	_	_	_	_	Gloss=exprès
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	planto	plantañ	verbe	_	_	_	_	_	Gloss=plantera
-10	(ar	art	?	_	_	_	_	_	Gloss=le
-11	sodenn-se	sod.-enn.DEM	nom.nom.?	_	_	_	_	_	Gloss=sot.e.ci
+10	(ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	sodenn-se	sod.-enn.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=sot.e.ci
 12	/[[*]]	/[[*]]	?	_	_	_	_	_	Gloss=/
-13	Simone)	nompropre	?	_	_	_	_	_	Gloss=Simone
+13	Simone)	nom_propre	?	_	_	_	_	_	Gloss=Simone
 14	patatez	patatez	nom	_	_	_	_	_	Gloss=patates
 15	e-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
 16	plantañ	plantañ	verbe	_	_	_	_	_	Gloss=planter

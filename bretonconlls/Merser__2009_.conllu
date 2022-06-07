@@ -3,10 +3,10 @@
 # text_fr = 'Regarde quel grand trou il y a dans mon bas.'
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 2	gwasad	-at	?	_	_	_	_	_	Gloss=!
-3	pez	pezh	?	_	_	_	_	_	Gloss=morceau
-4	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	pez	pezh	pronom|nom	_	_	_	_	_	Gloss=morceau
+4	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+7	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 8	loer	loer	nom	_	_	_	_	_	Gloss=chaussette
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

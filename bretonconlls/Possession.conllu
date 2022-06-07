@@ -4,50 +4,54 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	mə	pfi	?	_	_	_	_	_	Gloss=moi
-2	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+1	mə	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	bijeẃ	piaouiñ	?	_	_	_	_	_	Gloss=possède
 
 # sent_id = Gourmelon(2014:15)__3
 # text = Ar gontell-mañ zo din.
 # text_fr = 'Ce couteau m'appartient.'
-# source = Gourmelon (2014)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gontell-mañ	kontell	nom	_	_	_	_	_	Gloss=couteau]]-[[DEM|ci|Morph=1
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	gontell-mañ	kontell	nom	_	_	_	_	_	Gloss=couteau]]-[[DEM|ci|Mutation=target|MutationNUM=1
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = German (1984:129,30)__1
+# sent_id = German(1984:129,30)__1
 # text = N’eo ket doc’h anezhi.  (N’e)mañ ket dezhañ.
 # text_fr = 'Cela n'est pas à elle.' vs. 'Ce n'est pas à lui.'
-# text_phon = ['/ né', 'ké', 'dox', 'nèy /', 'vs.', '/ma', 'ké', 'dãõ/']
+# text_phon = / né ké dox nèy / vs. /ma ké dãõ/ 
+# source = Gerven (2014)
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 2	doc’h	diouzh	préposition	_	_	_	_	_	Gloss=à
-3	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+3	anezhi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 5	??	??	?	_	_	_	_	_	Gloss=
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	dezhañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'bronn')__1
 # text = Kaer em-oa rei ø bronn dezi, ne zerre ket eur genou.
 # text_fr = 'J'avais beau lui donner le sein, elle ne fermait pas la bouche.'
-# source = Gros (1989)
-1	Kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 2	em-oa	em-oa	?	_	_	_	_	_	Gloss=R
 3	rei	reiñ	verbe	_	_	_	_	_	Gloss=donner
 4	ø	ø	?	_	_	_	_	_	Gloss=?
 5	bronn	bronn	nom	_	_	_	_	_	Gloss=sein
-6	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	dezi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 9	zerre	serriñ	verbe	_	_	_	_	_	Gloss=fermait
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-11	eur	art	nom	_	_	_	_	_	Gloss=un
+11	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 12	genou	genoù	nom	_	_	_	_	_	Gloss=bouche
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -58,16 +62,16 @@
 # location = JMh
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	E	P.e	?	_	_	_	_	_	Gloss=en
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	goûg	gouzoug	nom	_	_	_	_	_	Gloss=gorge
-4	ha	&	?	_	_	_	_	_	Gloss=et
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 5	rac’h	rac'h	?	_	_	_	_	_	Gloss=tout
 6	'	'	?	_	_	_	_	_	Gloss=1SG
-7	m	kaout	?	_	_	_	_	_	Gloss=a
-8	eus	eus	?	_	_	_	_	_	Gloss=?
-9	bet	kaout	?	_	_	_	_	_	Gloss=eu
-10	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+7	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+8	eus	eus	préposition	_	_	_	_	_	Gloss=?
+9	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+10	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:'brid')__1
@@ -76,31 +80,34 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-2	vije	COP	?	_	_	_	_	_	Gloss=serait
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+2	vije	COP	verbe	_	_	_	_	_	Gloss=serait
 3	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
-4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+4	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 5	brid	brid	?	_	_	_	_	_	Gloss=bride
-6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 9	moue	moue	nom	_	_	_	_	_	Gloss=crinière
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'biz')__1
 # text = Yann e-neus trohet e viz.
 # text_fr = 'Yann s'est coupé le doigt.'
-# source = Gros (1989)
-1	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 2	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
 3	trohet	troc'hañ	?	_	_	_	_	_	Gloss=coupé
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	viz	biz	nom	_	_	_	_	_	Gloss=doigt
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:357)__1
+# sent_id = Bouzec&al.(2017:357)__1
 # text = 'pè dour 'resk hou fouessenno.
 # text_fr = 'On avait de l'eau jusqu'aux fesses.'
+# source = Gros (1970b)
 1	'	'	?	_	_	_	_	_	Gloss=Ho
 2	pè	pè	?	_	_	_	_	_	Gloss=poa
 3	dour	dour	nom	_	_	_	_	_	Gloss=dour
@@ -113,10 +120,12 @@
 # sent_id = Gros(1989:'êz’)__1
 # text = Pipi e-neus eur gorzaillenn êz.
 # text_fr = 'Pierre a la dalle en pente.'
-# source = Gros (1989)
-1	Pipi	nompropre	?	_	_	_	_	_	Gloss=Pipi
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Pipi	nom_propre	?	_	_	_	_	_	Gloss=Pipi
 2	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
-3	eur	art	nom	_	_	_	_	_	Gloss=un
-4	gorzaillenn	-ailh(N.).-enn	?.nom	_	_	_	_	_	Gloss=ier.une
+3	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+4	gorzaillenn	-ailh_(N.).-enn	suffixe|nom.suffixe|nom	_	_	_	_	_	Gloss=ier.une
 5	êz	aes	adjectif	_	_	_	_	_	Gloss=facile
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -5,7 +5,7 @@
 # location = Rieg
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	frapad	frapad	quantifieur	_	_	_	_	_	Gloss=beaucoup
 3	tud	tud	nom	_	_	_	_	_	Gloss=gens
 
@@ -19,9 +19,9 @@
 1	A	A	préposition	_	_	_	_	_	Gloss=
 2	:	:	?	_	_	_	_	_	Gloss=?
 3	Tud	tud	nom	_	_	_	_	_	Gloss=gens
-4	'	COP	?	_	_	_	_	_	Gloss=était
+4	'	COP	verbe	_	_	_	_	_	Gloss=était
 5	oa	oa	?	_	_	_	_	_	Gloss=?
-6	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+6	ba	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	sinéma	sinéma	?	_	_	_	_	_	Gloss=cinéma
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 9	B	B	?	_	_	_	_	_	Gloss=
@@ -30,12 +30,13 @@
 12	frapad	frapad	quantifieur	_	_	_	_	_	Gloss=beaucoup
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:384)__1
+# sent_id = Bouzec&al.(2017:384)__1
 # text = Yoñ nife 'r frapad tañsi'n.
 # text_fr = 'Il avait beaucoup de tension.'
+# source = Bouzec & al. (2017)
 1	Yoñ	Yoñ	?	_	_	_	_	_	Gloss=Eñ
 2	'	'	?	_	_	_	_	_	Gloss=ur
-3	r	r	quantifieur	_	_	_	_	_	Gloss=frapad
+3	r	r	particules verbale	_	_	_	_	_	Gloss=frapad
 4	frapad	frapad	quantifieur	_	_	_	_	_	Gloss=?
 5	tañsi'	tañsi'	?	_	_	_	_	_	Gloss=tañsion.
 6	n.	n.	?	_	_	_	_	_	Gloss=?

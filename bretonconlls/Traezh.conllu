@@ -1,18 +1,18 @@
-# sent_id =  Haut-vannetais (Plouhinec), Le Bozec (2018) __9
+# sent_id = Haut-vannetais(Plouhinec),LeBozec(2018)__9
 # text = Ewid moned da dapoued meskled… e vez lâred eh amp d'an traezh.
 # text_fr = 'Pour aller chercher des moules… on dit que nous allons à la côte.'
-# text_phon = ['/aɥə', 'mu’nɛ', 'də', 'da’pwi', 'mi’sklɛ:t', 've lâ’rət', 'jam', 'dən', "'@trɛ:x /"]
-1	Ewid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+# text_phon = /aɥə mu’nɛ də da’pwi mi’sklɛ:t ve lâ’rət jam dən '@trɛ:x / 
+1	Ewid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	moned	mont	verbe	_	_	_	_	_	Gloss=aller
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-4	dapoued	tapout	?	_	_	_	_	_	Gloss=prendre
-5	meskled…	meskl.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=moule.s
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+4	dapoued	tapout	verbe	_	_	_	_	_	Gloss=prendre
+5	meskled…	meskl.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=moule.s
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 8	lâred	lavarout	verbe	_	_	_	_	_	Gloss=dit
 9	eh	eh	?	_	_	_	_	_	Gloss=R
 10	amp	mont	verbe	_	_	_	_	_	Gloss=allons
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	an	art	?	_	_	_	_	_	Gloss=le
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	traezh	traezh	nom	_	_	_	_	_	Gloss=côte
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

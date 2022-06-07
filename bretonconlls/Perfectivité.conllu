@@ -5,10 +5,10 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Skaret	Skaret	?	_	_	_	_	_	Gloss=ridé
-2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-3	'	COP	?	_	_	_	_	_	Gloss=était
+2	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
 4	oa	oa	?	_	_	_	_	_	Gloss=?
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	fas	fas	nom	_	_	_	_	_	Gloss=face
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -17,16 +17,16 @@
 # text_fr = 'Et je courus vite-fait pieds-nus à la garenne.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
-3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	daoulamm	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	daoulamm	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	diarc'henn-klapez	di-	?	_	_	_	_	_	Gloss=sans
-8	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	waremm	gwaremm	nom	_	_	_	_	_	Gloss=garenne|Morph=1
+8	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	waremm	gwaremm	nom	_	_	_	_	_	Gloss=garenne|Mutation=target|MutationNUM=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:13)__1
@@ -34,25 +34,25 @@
 # text_fr = 'Je n'avais pas encore dix ans... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	em	em	?	_	_	_	_	_	Gloss=R
-3	oa	kaout	?	_	_	_	_	_	Gloss=a
+3	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
-6	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-7	dek	numérauxcardinaux	?	_	_	_	_	_	Gloss=dix|Morph=1
+6	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+7	dek	numéraux_cardinaux	préposition	_	_	_	_	_	Gloss=dix
 8	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
-9	echu..	echu	?	_	_	_	_	_	Gloss=fini
+9	echu..	echu	verbe	_	_	_	_	_	Gloss=fini
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:62)__2
 # text = Nolwenn ne zihan ket a bediñ.
 # text_fr = 'Nolùen ne cesse de prier.'
 # source = ar Meliner (2009)
-1	Nolwenn	nompropre	?	_	_	_	_	_	Gloss=Nolwenn
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Nolwenn	nom_propre	?	_	_	_	_	_	Gloss=Nolwenn
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	zihan	dihan	verbe	_	_	_	_	_	Gloss=arrête
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	bediñ	pediñ	verbe	_	_	_	_	_	Gloss=prier
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

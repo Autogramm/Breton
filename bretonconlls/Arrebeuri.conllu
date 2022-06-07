@@ -3,14 +3,14 @@
 # text_fr = 'Ici les meubles ne sont pas à moi.'
 # source = M. Lincoln (05/2014)
 # texttype = Élicitations
-1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
-2	an	art	?	_	_	_	_	_	Gloss=le
+1	Amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=mobilier
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	{eo/[[*]]	COP	?	_	_	_	_	_	Gloss=est
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	{eo/[[*]]	COP	verbe	_	_	_	_	_	Gloss=est
 6	int}	int}	?	_	_	_	_	_	Gloss=?
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon,M.Lincoln(05/2014)__1
@@ -18,14 +18,14 @@
 # text_fr = 'Le mobilier ne reste pas dans sa cave.'
 # source = M. Lincoln (05/2014)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=mobilier
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	chom	chom	verbe	_	_	_	_	_	Gloss=reste
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-8	c'hav	kav	?	_	_	_	_	_	Gloss=cave
+6	barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+8	c'hav	kav	nom	_	_	_	_	_	Gloss=cave
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:22)__1
@@ -33,14 +33,14 @@
 # text_fr = 'On a vendu tous les meubles qui n'étaient pas de première nécessité.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 3	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=meubles
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	oant	COP	?	_	_	_	_	_	Gloss=étaient
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	ret	ret	?	_	_	_	_	_	Gloss=obligé
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-9	oa	COP	?	_	_	_	_	_	Gloss=était
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+9	oa	COP	verbe	_	_	_	_	_	Gloss=était
 10	gwerzhet	gwerzhañ	verbe	_	_	_	_	_	Gloss=vendu
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

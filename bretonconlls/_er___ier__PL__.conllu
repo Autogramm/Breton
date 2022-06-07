@@ -1,29 +1,25 @@
 # sent_id = Wmffre1998:56)__1
-# text = [ fot ke la:ɤ gɛj_ə_ɤ kaɤ gud ɤã a_ɤ_ veɤjõn_ə_ ]
+# text = fot ke la:ɤ gɛj_ə_ɤ kaɤ gud ɤã a_ɤ_ veɤjõn_ə_
 # text_fr = 'Ne dites pas de mensonges car je connais la vérité.'
 # source = Wmffre (1998)
 # texttype = Ouvrages de recherche
-1	[	[	?	_	_	_	_	_	Gloss=[
-2	fot	faotañ	verbe	_	_	_	_	_	Gloss=faut
-3	ke	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	la:ɤ	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	gɛj_ə_ɤ	gaou.-ier	nom.?	_	_	_	_	_	Gloss=mensonge.s
-6	kaɤ	rak	?	_	_	_	_	_	Gloss=car
-7	gud	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-8	ɤã	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-9	a_ɤ_	art	?	_	_	_	_	_	Gloss=le
-10	veɤjõn_ə_	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
-11	]	]	?	_	_	_	_	_	Gloss=]
+1	la:ɤ	lavarout	verbe	_	_	_	_	_	Gloss=dire
+2	gɛj_ə_ɤ	gaou.-ier	nom.suffixe	_	_	_	_	_	Gloss=mensonge.s
+3	kaɤ	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+4	gud	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+5	ɤã	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 
 # sent_id = Trépos(2001:§198)__1
 # text = E-leh seier nevez em-eus kavet traoù kozh.
 # text_fr = 'Au lieu de sacs neufs, j'en ai trouvé des vieux.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	E-leh	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
-2	seier	sac'h.-ier	?.?	_	_	_	_	_	Gloss=sac.s
+2	seier	sac'h.-ier	?.suffixe	_	_	_	_	_	Gloss=sac.s
 3	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
-4	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-5	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=N
+4	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+5	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=N
 6	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -32,37 +28,38 @@
 # text_fr = 'Quelques-uns, cependant, sont restés dans les maisons... '
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	zo	zo	?	_	_	_	_	_	Gloss=est
-8	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+8	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+9	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	tier..	ti	nom	_	_	_	_	_	Gloss=maison
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBozec(1933:82)__1
 # text = Ar chatal, dalc'het e pad an deiz er c'hreier, a vez laosket en o frankiz.
 # text_fr = 'Les bestiaux, tout le jour retenus dans la crèche, vont errer librement.'
-# source = Le Bozec
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	dalc'het	derc'hel.-et(Adj.)	?.?	_	_	_	_	_	Gloss=gard.é
+4	dalc'het	derc'hel.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=gard.é
 5	e	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 6	pad	pad	?	_	_	_	_	_	Gloss=?
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	c'hreier	kraou	nom	_	_	_	_	_	Gloss=crèche|Morph=5
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+10	c'hreier	kraou	nom	_	_	_	_	_	Gloss=crèche|Mutation=target|MutationNUM=5
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 14	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
-15	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-16	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+15	en	P.e	préposition	_	_	_	_	_	Gloss=en
+16	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 17	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

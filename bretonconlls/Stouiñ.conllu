@@ -1,13 +1,14 @@
 # sent_id = LeGall(1957:'digeina')__1
 # text = Poan am-eus o tigeina goude beza chomet stouet keid-all.
 # text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Poan	poan	nom	_	_	_	_	_	Gloss=peine
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	tigeina	di-.kein.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dés.dos.er
-4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-5	beza	bezañ	?	_	_	_	_	_	Gloss=être
-6	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-7	stouet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-8	keid-all	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
+3	tigeina	di-.kein.-añ_(V.)	?.nom.verbe|suffixe	_	_	_	_	_	Gloss=dés.dos.er
+4	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+5	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+7	stouet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+8	keid-all	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.loin
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

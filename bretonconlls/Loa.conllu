@@ -5,12 +5,12 @@
 # location = Plougerneau
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	neus	kaout	?	_	_	_	_	_	Gloss=a
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	kroget	kregiñ	verbe	_	_	_	_	_	Gloss=croché
-4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Anna
+4	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Anna
 5	propre|Anna]]	propre|Anna]]	?	_	_	_	_	_	Gloss=?
-6	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	el	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	loa	loa	nom	_	_	_	_	_	Gloss=cuillère
 8	...	...	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,11 +21,11 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
-2	loaiad	-ad	?	_	_	_	_	_	Gloss=-ée
+1	Teir	numéraux_cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=trois
+2	loaiad	-ad	suffixe|nom	_	_	_	_	_	Gloss=-ée
 3	bemdez	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
-4	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	he-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	gemered	kemer	verbe	_	_	_	_	_	Gloss=prendre
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,13 +35,13 @@
 # dialect = Cornouaillais
 # source = Ar Gow (1958b)
 # texttype = Références de corpus
-1	"Emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	lipet	lipat	?	_	_	_	_	_	Gloss=avalé
-3	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
-4	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+1	"Emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	lipet	lipat	verbe	_	_	_	_	_	Gloss=avalé
+3	ganti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
+4	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 5	loa	loa	nom	_	_	_	_	_	Gloss=cuillère
 6	!"	!"	?	_	_	_	_	_	Gloss=?
 7	eme	eme	préposition	_	_	_	_	_	Gloss=dit
-8	Brimel	nompropre	?	_	_	_	_	_	Gloss=Brimel
-9	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+8	Brimel	nom_propre	?	_	_	_	_	_	Gloss=Brimel
+9	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

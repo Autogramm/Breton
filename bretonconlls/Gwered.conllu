@@ -1,30 +1,32 @@
 # sent_id = Preder&Armor(1977:29)__1
 # text = Hmmmm... Echu eo gwered an died.
 # text_fr = 'Hmmm... La potion a fini de faire effet.'
+# dialect = Standard
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
 1	Hmmmm..	Hmmmm..	?	_	_	_	_	_	Gloss=Hmmm...
 2	.	.	PUNCT	_	_	_	_	Gloss=punct
-3	Echu	echu	?	_	_	_	_	_	Gloss=fini
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	Echu	echu	verbe	_	_	_	_	_	Gloss=fini
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	gwered	gwered	nom	_	_	_	_	_	Gloss=effet
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	died	died	nom	_	_	_	_	_	Gloss=potion
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:29)__2
 # text = Ma ! An diedoù galian-se o deus gweredoù berrbad.
 # text_fr = 'Bah ! Ces potions gauloises ont des effets de courte durée !'
+# dialect = Standard
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
-1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=[[Ma!|Bah
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=[[Ma_!|Bah
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	An	art	?	_	_	_	_	_	Gloss=le
-5	diedoù	died.-où(PL.)	nom.?	_	_	_	_	_	Gloss=potion.s
-6	galian-se	nompropre.[-an(Adj.).DEM	?.?.?	_	_	_	_	_	Gloss=gaul.ois.là
+4	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	diedoù	died.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=potion.s
+6	galian-se	nom_propre	?	_	_	_	_	_	Gloss=gaul
 7	o	o	?	_	_	_	_	_	Gloss=3PL
-8	deus	kaout	?	_	_	_	_	_	Gloss=a
-9	gweredoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-10	berrbad	berr	adjectif	_	_	_	_	_	Gloss=court|Morph=1
+8	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+9	gweredoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+10	berrbad	berr	adjectif	_	_	_	_	_	Gloss=court|Mutation=trigger|MutationNUM=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

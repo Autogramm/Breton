@@ -3,36 +3,37 @@
 # text_fr = 'En vérité, nous avions affaire à un homme blanc dehors et noir profond à l'intérieur.'
 # source = Priel (1955)
 # texttype = Références de corpus
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	gwirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 6	hor	hor	?	_	_	_	_	_	Gloss=2PL
-7	boa	kaout	?	_	_	_	_	_	Gloss=avait
-8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	ur	art	?	_	_	_	_	_	Gloss=un
-10	gwaz	gwaz	?	_	_	_	_	_	Gloss=homme
+7	boa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+8	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	gwaz	gwaz	nom	_	_	_	_	_	Gloss=homme
 11	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
 12	a-ziavaez	a-ziavaez	?	_	_	_	_	_	Gloss=en.dehors
-13	ha	&	?	_	_	_	_	_	Gloss=et
+13	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 14	du-mouar	du	adjectif	_	_	_	_	_	Gloss=noir
-15	an	art	?	_	_	_	_	_	Gloss=le
+15	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 16	diabarzh	diabarzh	?	_	_	_	_	_	Gloss=dedans
-17	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+17	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Timm (1989:366)__1
+# sent_id = Timm(1989:366)__1
 # text = Laret 'vez din la zebaint mouar du ha rezin.
 # text_fr = 'On me dit qu'ils mangent des mûres et du raisin.'
-# text_phon = ['/laRd ve dῖ', 'la zebajñč', 'mowady a Režn/']
+# text_phon = /laRd ve dῖ la zebajñč mowady a Režn/ 
+# source = Priel (1955)
 1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dit
-2	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+2	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
-6	zebaint	debriñ	verbe	_	_	_	_	_	Gloss=mangent|Morph=1
+6	zebaint	debriñ	verbe	_	_	_	_	_	Gloss=mangent|Mutation=target|MutationNUM=1
 7	mouar	du	adjectif	_	_	_	_	_	Gloss=noir
-8	du	&	adjectif	_	_	_	_	_	Gloss=et
+8	du	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	ha	ha	?	_	_	_	_	_	Gloss=raisin
 10	rezin.	rezin.	?	_	_	_	_	_	Gloss=?

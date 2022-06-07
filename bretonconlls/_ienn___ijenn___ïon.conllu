@@ -4,9 +4,9 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
+1	Yoñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+3	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 4	vet'	metr	?	_	_	_	_	_	Gloss=mètre
 5			PUNCT	_	_	_	_	Gloss=punct
 6	chirijenn	hir	adjectif	_	_	_	_	_	Gloss=long
@@ -18,7 +18,7 @@
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
 1	'	paour	adjectif	_	_	_	_	_	Gloss=pauvre
-2	pauum	COP	?	_	_	_	_	_	Gloss=suis
-3	be	COP	?	_	_	_	_	_	Gloss=été
-4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	pauum	COP	verbe	_	_	_	_	_	Gloss=suis
+3	be	COP	verbe	_	_	_	_	_	Gloss=été
+4	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	meXijɛn	merc'h	?	_	_	_	_	_	Gloss=fille

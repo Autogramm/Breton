@@ -1,30 +1,30 @@
 # sent_id = Standard,[http://www.alliamm.comAlLiamm](347:117)__2
 # text = ur raktres hir ha resis war treuzkas galloudoù ar Stad d'ar Rannvro
 # text_fr = 'Un projet étoffé et précis au sujet de la passation de pouvoir de l’État aux Régions'
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	raktres	rak-	?	_	_	_	_	_	Gloss=pro
 3	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	resis	resis	adverbe-adjectif	_	_	_	_	_	Gloss=précis
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	treuzkas	treuz-.kas(V.)	?.?	_	_	_	_	_	Gloss=à.travers.envoi
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	resis	resis	adverbe|adjectif	_	_	_	_	_	Gloss=précis
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	treuzkas	treuz-.kas_(V.)	?.?	_	_	_	_	_	Gloss=à.travers.envoi
 8	galloudoù	galloud.-où	?.?	_	_	_	_	_	Gloss=pouvoir.s
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	Stad	stad	nom	_	_	_	_	_	Gloss=Etat
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	ar	art	?	_	_	_	_	_	Gloss=le
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	Rannvro	Rannvro.bro	?.nom	_	_	_	_	_	Gloss=1.pays
 
 # sent_id = [http://diocese-quimper.fr/bibliotheque/files/original/dde339b2f90c775787c2ac0282eb57f8.pdfBleunBrug53]__1
 # text = da boueza war pep ger ha war pep rann-ger.
 # text_fr = 'de peser sur chaque mot et chaque syllabe'
-1	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+1	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 2	boueza	pouezañ	verbe	_	_	_	_	_	Gloss=peser
-3	war	war	?	_	_	_	_	_	Gloss=sur
+3	war	war	préposition	_	_	_	_	_	Gloss=sur
 4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 5	ger	ger	nom	_	_	_	_	_	Gloss=mot
-6	ha	&	?	_	_	_	_	_	Gloss=et
-7	war	war	?	_	_	_	_	_	Gloss=sur
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
 8	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 9	rann-ger	ger	nom	_	_	_	_	_	Gloss=mot
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

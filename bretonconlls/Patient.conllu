@@ -1,13 +1,15 @@
 # sent_id = Gros(1984:320)__1
 # text = Ar hi-ze a oa bet ranket lazañ anezañ.
 # text_fr = 'Ce chien-là, il avait fallu le tuer.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	hi-ze	DEM	?	_	_	_	_	_	Gloss=ci
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hi-ze	DEM	pronom	_	_	_	_	_	Gloss=ci
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=d.û
+6	ranket	rankout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=d.û
 
 # sent_id = ArBorgn(2011:29)__1
 # text = Skaret tout ' oa e fas.
@@ -16,22 +18,24 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Skaret	skariñ	?	_	_	_	_	_	Gloss=ridé
-2	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+2	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 7	fas	fas	nom	_	_	_	_	_	Gloss=face
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:366)__2
 # text = Hennez a deu tezennou fentuz gantañ.
 # text_fr = 'Celui-là raconte des histoires comiques.'
-# source = Gros (1984)
-1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Hennez	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-4	tezennou	tezenn.-où(PL.)	adjectif.?	_	_	_	_	_	Gloss=thèse.s
+4	tezennou	tezenn.-où_(PL.)	adjectif.suffixe	_	_	_	_	_	Gloss=thèse.s
 5	fentuz	fentus	adjectif	_	_	_	_	_	Gloss=drôle
-6	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+6	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

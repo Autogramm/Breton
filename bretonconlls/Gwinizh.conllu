@@ -4,33 +4,35 @@
 # source = Elegoet (1975)
 # texttype = Ouvrages de recherche
 1	Bara	bara	nom	_	_	_	_	_	Gloss=pain
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	poa	kaout	?	_	_	_	_	_	Gloss=avait
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-5	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	poa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+5	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 6	ie	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
 9	gwiniz	gwiniz	?	_	_	_	_	_	Gloss=blé
-10	e	e	?	_	_	_	_	_	Gloss=R
-11	pehe	kaout	?	_	_	_	_	_	Gloss=aviez
+10	e	e	verbe	_	_	_	_	_	Gloss=R
+11	pehe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aviez
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:80)__1
 # text = ne welomp nemet gwinizhegi bras, berrik-tra an ed enne ha treut...
 # text_fr = '... nous ne voyons que de grands champs de blé, aux céréales très courtes et maigres.'
-# source = Herrieu (1994)
-1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
 4	gwinizhegi	-egi	nom	_	_	_	_	_	Gloss=champs
-5	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	berrik-tra	berr.berrik-tra.tra	adjectif.?.nom	_	_	_	_	_	Gloss=court.DIM.chose
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	ed	ed	nom	_	_	_	_	_	Gloss=blé
-10	enne	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.eux
-11	ha	&	?	_	_	_	_	_	Gloss=et
+10	enne	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.eux
+11	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 12	treut..	treut	adjectif	_	_	_	_	_	Gloss=maigre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -45,20 +47,20 @@
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:92).__1
-# text = Setu an dud zo bet komañset da daoler war ar gwinizh [...].
+# text = Setu an dud zo bet komañset da daoler war ar gwinizh [....
 # text_fr = 'Donc les gens ont commencé à mettre (de l'engrais) sur le blé.'
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=donc
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=donc
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	bet	bet	?	_	_	_	_	_	Gloss=été
 6	komañset	komañs	verbe	_	_	_	_	_	Gloss=commencé
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-8	daoler	taoler	?	_	_	_	_	_	Gloss=mettre
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	ar	art	?	_	_	_	_	_	Gloss=le
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	daoler	taoler	verbe	_	_	_	_	_	Gloss=mettre
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
-12	[...].	[...].	?	_	_	_	_	_	Gloss=?
+12	[....	[....	?	_	_	_	_	_	Gloss=?

@@ -3,15 +3,15 @@
 # text_fr = 'A-peine se couchait-t-il qu'il ré-entendait le pire des tapages.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	a-vec'h	a-vec'h	?	_	_	_	_	_	Gloss=a|Morph=1
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vije	COP	?	_	_	_	_	_	Gloss=serait
-4	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
-5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	a-vec'h	a-vec'h	?	_	_	_	_	_	Gloss=a|Mutation=trigger|MutationNUM=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vije	COP	verbe	_	_	_	_	_	Gloss=serait
+4	kouezhet	kouezhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tomb.é
+5	en	P.e	préposition	_	_	_	_	_	Gloss=en
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 7	wele	gwele	nom	_	_	_	_	_	Gloss=lit
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 10	kleve	klevout	verbe	_	_	_	_	_	Gloss=entendait
 11	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
 12	gwashoc'h	gwasoc'h	?	_	_	_	_	_	Gloss=pire

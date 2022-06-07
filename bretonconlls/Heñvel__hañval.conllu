@@ -1,16 +1,18 @@
 # sent_id = Herrieu(1994:249)__1
 # text = Ne vennont ket krediñ e c’heller bout dishañval doc’hte.
 # text_fr = 'Ils ne peuvent croire que quiconque soit différent d’eux.'
-# source = Herrieu (1994)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vennont	mennout	verbe	_	_	_	_	_	Gloss=veulent
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	krediñ	krediñ	verbe	_	_	_	_	_	Gloss=croire
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	c’heller	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=peut.on
-7	bout	beza	?	_	_	_	_	_	Gloss=être
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	c’heller	gallout.IMP	verbe.pronom	_	_	_	_	_	Gloss=peut.on
+7	bout	beza	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 8	dishañval	di-	?	_	_	_	_	_	Gloss=di
-9	doc’hte	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+9	doc’hte	diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:59)__1
@@ -20,12 +22,12 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Haval	Haval	?	_	_	_	_	_	Gloss=pareil
-2	é	COP	?	_	_	_	_	_	Gloss=est
+2	é	COP	verbe	_	_	_	_	_	Gloss=est
 3	é	é	?	_	_	_	_	_	Gloss=R
-4	véhé	COP	?	_	_	_	_	_	Gloss=serait
+4	véhé	COP	verbe	_	_	_	_	_	Gloss=serait
 5	ret	ret	?	_	_	_	_	_	Gloss=obligé
-6	bout	bezan	?	_	_	_	_	_	Gloss=être
-7	didalvé	talvezout	verbe	_	_	_	_	_	Gloss=vaut|Morph=1
+6	bout	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	didalvé	talvezout	verbe	_	_	_	_	_	Gloss=vaut|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kergoat(1976:42)__1
@@ -35,14 +37,14 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Hirio	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
-2	an	art	?	_	_	_	_	_	Gloss=le
+1	Hirio	hiriv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	heñvel	heñvel	?	_	_	_	_	_	Gloss=pareil
-8	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+7	heñvel	heñvel	adjectif	_	_	_	_	_	Gloss=pareil
+8	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Miossec(1980:66)__1
@@ -51,44 +53,48 @@
 # dialect = Léonard
 # source = Miossec (1980)
 # texttype = Références de corpus
-1	eur	art	nom	_	_	_	_	_	Gloss=un
-2	gêr	kêr	nom	_	_	_	_	_	Gloss=ville|Morph=1
-3	heñvel	heñvel	?	_	_	_	_	_	Gloss=semblable
+1	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	gêr	kêr	nom	_	_	_	_	_	Gloss=ville|Mutation=target|MutationNUM=1
+3	heñvel	heñvel	adjectif	_	_	_	_	_	Gloss=semblable
 4	tost	tost	adjectif	_	_	_	_	_	Gloss=près
 5	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-6	Kemper	nompropre	?	_	_	_	_	_	Gloss=Quimper
+6	Kemper	nom_propre	?	_	_	_	_	_	Gloss=Quimper
 
 # sent_id = Herrieu(1994:232)__1
 # text = Hañval eo d’an den  bout en un ti gwerzh bras.
 # text_fr = 'On se croirait dans un grand magasin.'
-# source = Herrieu (1994)
-1	Hañval	Hañval	?	_	_	_	_	_	Gloss=pareil
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Hañval	Hañval	verbe	_	_	_	_	_	Gloss=pareil
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	d’an	da	préposition	_	_	_	_	_	Gloss=à
-4	den	IMP	nom	_	_	_	_	_	Gloss=on
+4	den	IMP	pronom	_	_	_	_	_	Gloss=on
 5	??	??	?	_	_	_	_	_	Gloss=[
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
-7	bout	bezañ	?	_	_	_	_	_	Gloss=être
-8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-9	un	art	?	_	_	_	_	_	Gloss=un
+7	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+8	en	P.e	préposition	_	_	_	_	_	Gloss=en
+9	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 10	ti	ti	nom	_	_	_	_	_	Gloss=maison
 11	gwerzh	gwerzhañ	verbe	_	_	_	_	_	Gloss=vente
 
 # sent_id = Herrieu(1994:247)__1
 # text = Hañval eo get an den  gwelet riolennoù laezh é redek.
 # text_fr = 'On croirait voir couler des rigoles de lait.'
-# source = Herrieu (1994)
-1	Hañval	Hañval	?	_	_	_	_	_	Gloss=pareil
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	get	gant	?	_	_	_	_	_	Gloss=avec
-4	an	IMP	?	_	_	_	_	_	Gloss=on
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Hañval	Hañval	verbe	_	_	_	_	_	Gloss=pareil
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	get	gant	préposition	_	_	_	_	_	Gloss=avec
+4	an	IMP	pronom	_	_	_	_	_	Gloss=on
 5	den	den	nom	_	_	_	_	_	Gloss=?
 6	??	??	?	_	_	_	_	_	Gloss=[
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 8	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 9	riolennoù	-ennoù	nom	_	_	_	_	_	Gloss=es
 10	laezh	laezh	nom	_	_	_	_	_	Gloss=lait
-11	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+11	é	particule_o	?	_	_	_	_	_	Gloss=à
 
 # sent_id = LeBayon(1878:10)__1
 # text = Haval get-n'eign é vourret.
@@ -96,9 +102,9 @@
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
-1	Haval	heñvel	?	_	_	_	_	_	Gloss=semblable
-2	get-n'	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+1	Haval	heñvel	adjectif	_	_	_	_	_	Gloss=semblable
+2	get-n'	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 3	eign	eign	?	_	_	_	_	_	Gloss=?
-4	é	é	?	_	_	_	_	_	Gloss=R|Morph=4
+4	é	é	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	vourret	bourriñ	verbe	_	_	_	_	_	Gloss=plaisez
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

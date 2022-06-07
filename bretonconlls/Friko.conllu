@@ -5,11 +5,11 @@
 # location = Plougerneau
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	friko-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	friko-mañ	DEM	pronom	_	_	_	_	_	Gloss=ci
 3	a	zo	préposition	_	_	_	_	_	Gloss=est
 4	zo	zo	?	_	_	_	_	_	Gloss=?
-5	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	ger	ker	adjectif	_	_	_	_	_	Gloss=cher
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

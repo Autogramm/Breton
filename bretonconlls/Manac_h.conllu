@@ -1,28 +1,31 @@
 # sent_id = LeClerc(1910:17)__1
 # text = rak bean a oa gantan nav ugent manac'h.
 # text_fr = '... car il était accompagné de cent quatre-vingt moines.'
-# source = Le Clerc (1910)
-1	rak	rak	?	_	_	_	_	_	Gloss=car
+# dialect = Trégorrois
+# source = Le Clerc (1910a)
+# texttype = Références de corpus
+1	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 2	bean	bez	?	_	_	_	_	_	Gloss=expl.
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	gantan	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	gantan	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 6	manac'h	manac'h	?	_	_	_	_	_	Gloss=moine
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:53)__1
 # text = Ni, Breur Arzhur, a zo da vezañ menec'h ac'hanomp…
 # text_fr = 'Nous, frère Arthur, sommes destinés à être moines.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	Breur	breur	nom	_	_	_	_	_	Gloss=Frère
-4	Arzhur	nompropre	?	_	_	_	_	_	Gloss=Arthur
+4	Arzhur	nom_propre	?	_	_	_	_	_	Gloss=Arthur
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	zo	COP	?	_	_	_	_	_	Gloss=est
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-9	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
-10	menec'h	plurielsinternes	?	_	_	_	_	_	Gloss=s
-11	ac'hanomp…	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.nous
+7	zo	COP	verbe	_	_	_	_	_	Gloss=est
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	vezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+10	menec'h	pluriels_internes	?	_	_	_	_	_	Gloss=s
+11	ac'hanomp…	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.nous

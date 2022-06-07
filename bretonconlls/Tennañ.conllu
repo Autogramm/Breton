@@ -4,30 +4,33 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-2	ac'hanon	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	Sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+2	ac'hanon	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	dennañ	dennañ	?	_	_	_	_	_	Gloss=tirer
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	bount	bount	?	_	_	_	_	_	Gloss=bouchon
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:93)__1
 # text = Stankaet en deus ar Jermaned da denniñ.
 # text_fr = 'Les allemands ont densifié leurs tirs.'
-# source = Herrieu (1994)
-1	Stankaet	stank.-aat	adverbe-quantifieur-adjectif.verbe	_	_	_	_	_	Gloss=dens.ifié
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Stankaet	stank.-aat	adverbe|quantifieur|adjectif.verbe|suffixe	_	_	_	_	_	Gloss=dens.ifié
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	ar	art	?	_	_	_	_	_	Gloss=le
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	Jermaned	Jermaned	nom	_	_	_	_	_	Gloss=allemands
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	denniñ	denniñ	?	_	_	_	_	_	Gloss=tirer
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:236)__1
+# sent_id = Bouzec&al.(2017:236)__1
 # text = Diwaétoc'h, deut dornérez péz bi'n da den o labour gan ' dud.
 # text_fr = 'Plus tard, l'arrivée de la batteuse nous a retiré notre travail.'
+# source = Herrieu (1974)
 1	Diwaétoc'h	Diwaétoc'h	?	_	_	_	_	_	Gloss=Diwezhatocxxxh,
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	dornérez	dornérez	?	_	_	_	_	_	Gloss=dornerez
@@ -50,23 +53,25 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Un	art	?	_	_	_	_	_	Gloss=un
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	dennadenn	dennadenn.-adenn	?.nom	_	_	_	_	_	Gloss=1.ement
 3	prim	prim	?	_	_	_	_	_	Gloss=rapide
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	tri-ugent	numérauxcardinaux	?	_	_	_	_	_	Gloss=soixante
+5	tri-ugent	numéraux_cardinaux	?	_	_	_	_	_	Gloss=soixante
 6	euro	euro	?	_	_	_	_	_	Gloss=euro
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:35)__1
 # text = Berraad a raont o zennerezh.
 # text_fr = 'Ils raccourcissent leurs tirs.'
-# source = Herrieu (1994)
-1	Berraad	berr.-aat	adjectif.verbe	_	_	_	_	_	Gloss=court.er
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Berraad	berr.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=court.er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
-4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-5	zennerezh	-erezh	?	_	_	_	_	_	Gloss=activité
+3	raont	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=font
+4	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+5	zennerezh	-erezh	nom	_	_	_	_	_	Gloss=activité
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBarzhig(1976:63)__1
@@ -75,40 +80,40 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=2|Morph=1
-3	vekaniker	-er(A.)	?	_	_	_	_	_	Gloss=ien
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=2
+3	vekaniker	-er_(A.)	suffixe|nom	_	_	_	_	_	Gloss=ien
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	zo	COP	?	_	_	_	_	_	Gloss=est
-6	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+5	zo	COP	verbe	_	_	_	_	_	Gloss=est
+6	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 7	em	em	?	_	_	_	_	_	Gloss=?
 8	dennet	dennet	?	_	_	_	_	_	Gloss=tiré
 9	hep	hep	préposition	_	_	_	_	_	Gloss=sans
 10	re	re	adverbe	_	_	_	_	_	Gloss=trop
-11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 12	boan	poan	nom	_	_	_	_	_	Gloss=douleur
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__29
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__28
 # text = Heoñv neus tennet e vask hag atchoum ! An neus krañchet kreiz e fas.
 # text_fr = 'Il a retiré son masque et atchoum ! Il lui a éternué dans la figure.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Heoñv	pfi	?	_	_	_	_	_	Gloss=lui
-2	neus	kaout	?	_	_	_	_	_	Gloss=a
-3	tennet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	Heoñv	pfi	pronom	_	_	_	_	_	Gloss=lui
+2	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	tennet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	vask	vask	?	_	_	_	_	_	Gloss=masque
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	atchoum	interjection	?	_	_	_	_	_	Gloss=atchoum
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	atchoum	interjection	interjection	_	_	_	_	_	Gloss=atchoum
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 9	An	An	?	_	_	_	_	_	Gloss=R
-10	neus	kaout	?	_	_	_	_	_	Gloss=a
-11	krañchet	krañchañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=éternu.é
+10	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+11	krañchet	krañchañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=éternu.é
 12	kreiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	fas	fas	nom	_	_	_	_	_	Gloss=face
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -119,7 +124,7 @@
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
 1	Pegement	pegement	pronom	_	_	_	_	_	Gloss=combien
-2	'	kaout	?	_	_	_	_	_	Gloss=a
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	peus	peus	?	_	_	_	_	_	Gloss=?
 4	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
 5	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
@@ -131,17 +136,17 @@
 # dialect = Léonard
 # source = A. M. (04/2016b)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 7	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=arracher
-8	un	art	?	_	_	_	_	_	Gloss=un
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	dant	dant	nom	_	_	_	_	_	Gloss=dent
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	ospital	ospital	nom	_	_	_	_	_	Gloss=hôpital
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -152,13 +157,13 @@
 # texttype = Références de corpus
 1	Tennet	Tennet	?	_	_	_	_	_	Gloss=tiré
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
-6	vil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
+5	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
+6	vil	numéraux_cardinaux	?	_	_	_	_	_	Gloss=mille|Mutation=target|MutationNUM=1
 7	skouerenn	skouerenn	?	_	_	_	_	_	Gloss=exemplaire
-8	eus	eus	?	_	_	_	_	_	Gloss=de
-9	al	art	?	_	_	_	_	_	Gloss=le
+8	eus	eus	préposition	_	_	_	_	_	Gloss=de
+9	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	levr	levr	nom	_	_	_	_	_	Gloss=livre
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -172,26 +177,27 @@
 1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
 2	ahalese	ac'hann	?	_	_	_	_	_	Gloss=de.là
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
-4	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 5	welez	gwelout	verbe	_	_	_	_	_	Gloss=vois
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	tenner	IMP	?	_	_	_	_	_	Gloss=on
-9	warnout	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.toi
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	tenner	IMP	pronom	_	_	_	_	_	Gloss=on
+9	warnout	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.toi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = KeitVimpBev(1987:25)__1
 # text = Tennañ a reont da gerniel, a larfe an unan.
 # text_fr = 'On dirait des cornes.'
+# dialect = Standard
 # source = Keit Vimp Bev (1987)
 # texttype = Références de corpus
 1	Tennañ	Tennañ	verbe	_	_	_	_	_	Gloss=tirer
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+3	reont	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=font
 4	da	da	préposition	_	_	_	_	_	Gloss=à
-5	gerniel	korn.plurielinterne	nom.?	_	_	_	_	_	Gloss=corne.s
+5	gerniel	korn.pluriel_interne	nom.?	_	_	_	_	_	Gloss=corne.s
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	larfe	lavarout	verbe	_	_	_	_	_	Gloss=dirait
-9	an	IMP	?	_	_	_	_	_	Gloss=on
+9	an	IMP	pronom	_	_	_	_	_	Gloss=on
 10	unan.	unan.	?	_	_	_	_	_	Gloss=?

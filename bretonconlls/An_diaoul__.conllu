@@ -1,14 +1,16 @@
 # sent_id = Kerrien(2000:12)__1
 # text = Piou an diaoul  al lakepod-man ?
 # text_fr = 'Qui diable est cet énergumène ?'
-# source = Kerrien (2000)
-1	Piou	wh	?	_	_	_	_	_	Gloss=qui
-2	an	art	?	_	_	_	_	_	Gloss=le
+# dialect = Léonard
+# source = Kerrien (1926)
+# texttype = Références de corpus
+1	Piou	wh	pronom	_	_	_	_	_	Gloss=qui
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
-4	??	COP	?	_	_	_	_	_	Gloss=est
+4	??	COP	verbe	_	_	_	_	_	Gloss=est
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
-6	al	art	?	_	_	_	_	_	Gloss=le
-7	lakepod-man	DEM	?	_	_	_	_	_	Gloss=ci
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	lakepod-man	DEM	pronom	_	_	_	_	_	Gloss=ci
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornillet(2020)__1
@@ -16,30 +18,31 @@
 # text_fr = 'Je ne sais pas diable ce qu'il fait !'
 # source = Cornillet (2020)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	petiaoul	pezh.diaoul	?.nom	_	_	_	_	_	Gloss=quel.diable
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	petiaoul	pezh.diaoul	pronom|nom.nom	_	_	_	_	_	Gloss=quel.diable
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:46)__1
 # text = Pitiaoul ! Dizamant eo aet ganti, ar vaouez vat !
 # text_fr = 'Diable ! Elle n'y est pas allée de main morte, la bonne dame !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Pitiaoul	Pitiaoul	?	_	_	_	_	_	Gloss=[[pitiaoul!|Que.diable
+1	Pitiaoul	Pitiaoul	?	_	_	_	_	_	Gloss=[[pitiaoul_!|Que.diable
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Dizamant	dizamant	?	_	_	_	_	_	Gloss=impitoyablement
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-7	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+7	ganti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
-11	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon|Morph=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Mutation=target|MutationNUM=1
+11	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon|Mutation=target|MutationNUM=1
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornouaillais(Rostrenen),KoulmigArvor(1934)__1
@@ -48,60 +51,63 @@
 # source = Koulmig Arvor (1934)
 # texttype = Références de corpus
 1	Kemener	kemener	nom	_	_	_	_	_	Gloss=tailleur
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	foeltr	foeltr	?	_	_	_	_	_	Gloss=foudre
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	Laer	laer	nom	_	_	_	_	_	Gloss=voleur
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 9	Boued	boued	nom	_	_	_	_	_	Gloss=nourriture
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	groug	groug	?	_	_	_	_	_	Gloss=1
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:51)__1
 # text = Peseurt darvoud an diaoul a zo degouezet hizio er vro?
 # text_fr = 'Que diable se passe-t-il dans le pays aujourd'hui ?'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
 1	Peseurt	peseurt	?	_	_	_	_	_	Gloss=quel
 2	darvoud	darvoud	nom	_	_	_	_	_	Gloss=évènement
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	zo	zo	?	_	_	_	_	_	Gloss=est
 7	degouezet	degouezhout	verbe	_	_	_	_	_	Gloss=arrivé
 8	hizio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+10	vro	bro	nom	_	_	_	_	_	Gloss=pays|Mutation=target|MutationNUM=1
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:7)__1
 # text = Fidamdoustik ! Pelec'h an diaoul eo aet da guzh ?
 # text_fr = 'Bon sang de bon sang ! Où a-t-il bien pu se cacher ?'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Pelec'h	pelec'h	?	_	_	_	_	_	Gloss=où
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	guzh	kuzhat	verbe	_	_	_	_	_	Gloss=cacher
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:55)__1
 # text = Pitiaoul ! Trouz a zo aze e-barzh !
 # text_fr = 'Diable ! Ça barde là-dedans !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Pitiaoul	Pitiaoul	?	_	_	_	_	_	Gloss=[[Pitiaoul!|Diable
+1	Pitiaoul	Pitiaoul	?	_	_	_	_	_	Gloss=[[Pitiaoul_!|Diable
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Trouz	trouz	nom	_	_	_	_	_	Gloss=bruit
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	aze	aze	?	_	_	_	_	_	Gloss=là
-8	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+7	aze	aze	adverbe	_	_	_	_	_	Gloss=là
+8	e-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dedans
 9	!	!	PUNCT	_	_	_	_	Gloss=punct

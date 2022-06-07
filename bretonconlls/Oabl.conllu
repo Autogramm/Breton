@@ -4,12 +4,12 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=ni
-2	èn	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	èn	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 3	oabr	oabr	?	_	_	_	_	_	Gloss=ciel
-4	koumouluz	koumoul.-uz	nom.?	_	_	_	_	_	Gloss=nuag.eux
+4	koumouluz	koumoul.-uz	nom.suffixe|adjectif	_	_	_	_	_	Gloss=nuag.eux
 5	heol	heol	nom	_	_	_	_	_	Gloss=soleil
 6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	o	particule_o	?	_	_	_	_	_	Gloss=à
 8	para	para	?	_	_	_	_	_	Gloss=briller
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,17 +19,17 @@
 # dialect = Vannetais
 # source = Herrieu (1974)
 # texttype = Références de corpus
-1	Én	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	Én	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	èbr	èbr	?	_	_	_	_	_	Gloss=ciel
-3	heneoah	fenoz	?	_	_	_	_	_	Gloss=ce.soir
-4	ne	ne	?	_	_	_	_	_	Gloss=ne
-5	fehè	COP	?	_	_	_	_	_	Gloss=serait
-6	bout	bezañ	?	_	_	_	_	_	Gloss=être
-7	kleuet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+3	heneoah	fenoz	adverbe	_	_	_	_	_	Gloss=ce.soir
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+5	fehè	COP	verbe	_	_	_	_	_	Gloss=serait
+6	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	kleuet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
 8	boéhieu	boéhieu	?	_	_	_	_	_	Gloss=voix
-9	en	art	complémenteur	_	_	_	_	_	Gloss=le
-10	Eled	ael.-ed(PL.)	?.?	_	_	_	_	_	Gloss=ange.s
-11	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	Eled	ael.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=ange.s
+11	é	particule_o	?	_	_	_	_	_	Gloss=à
 12	kañnal	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 13	Peah	peoc'h	?	_	_	_	_	_	Gloss=paix
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

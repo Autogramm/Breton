@@ -5,9 +5,9 @@
 # location = bigouden
 # source = Bijer (2003)
 # texttype = Références de corpus
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	votez-lèr-mañ	botez	nom	_	_	_	_	_	Gloss=chaussure]]-cuir-[[ads|ci|Morph=1
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	votez-lèr-mañ	botez	nom	_	_	_	_	_	Gloss=chaussure]]-cuir-[[ads|ci|Mutation=target|MutationNUM=1
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:21)__1
@@ -17,8 +17,8 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	botou-ler	botez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussure.s
-2	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+1	botou-ler	botez.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=chaussure.s
+2	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 3	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	dreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s

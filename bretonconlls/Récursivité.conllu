@@ -2,8 +2,8 @@
 # text = Baloñsoù ruz bras brav...
 # text_fr = 'De beaux grands ballons rouges.'
 # location = Douarnenez
-1	Baloñsoù	baloñs.-où(PL.)	?.?	_	_	_	_	_	Gloss=ballon.s
+1	Baloñsoù	baloñs.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=ballon.s
 2	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
-3	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-4	brav..	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+3	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+4	brav..	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

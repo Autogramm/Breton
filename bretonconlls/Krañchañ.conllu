@@ -1,22 +1,22 @@
-# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__29
+# sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__28
 # text = Heoñv neus tennet e vask hag atchoum ! An neus krañchet kreiz e fas.
 # text_fr = 'Il a retiré son masque et atchoum ! Il lui a éternué dans la figure.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Heoñv	pfi	?	_	_	_	_	_	Gloss=lui
-2	neus	kaout	?	_	_	_	_	_	Gloss=a
-3	tennet	tennañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tir.é
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	Heoñv	pfi	pronom	_	_	_	_	_	Gloss=lui
+2	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	tennet	tennañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tir.é
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	vask	vask	?	_	_	_	_	_	Gloss=masque
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	atchoum	interjection	?	_	_	_	_	_	Gloss=atchoum
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	atchoum	interjection	interjection	_	_	_	_	_	Gloss=atchoum
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 9	An	An	?	_	_	_	_	_	Gloss=R
-10	neus	kaout	?	_	_	_	_	_	Gloss=a
-11	krañchet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+10	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+11	krañchet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
 12	kreiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	fas	fas	nom	_	_	_	_	_	Gloss=face
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -2,81 +2,87 @@
 # text = Lod all zo plijet gant an divyezhegezh kentoc’h, forzh peseurt yezh e vije an eil.
 # text_fr = 'D'autres sont plutôt attirés par le bilinguisme, quelle que soit la langue seconde.'
 1	Lod	lod	quantifieur	_	_	_	_	_	Gloss=partie
-2	all	all	?	_	_	_	_	_	Gloss=autre
+2	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	plijet	plijout	verbe	_	_	_	_	_	Gloss=séduit
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	an	art	?	_	_	_	_	_	Gloss=le
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	divyezhegezh	duel.yezh.-egezh	?.nom.nom	_	_	_	_	_	Gloss=2.lingu.isme
 8	kentoc’h	kentoc'h	?	_	_	_	_	_	Gloss=plutôt
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 11	peseurt	peseurt	?	_	_	_	_	_	Gloss=quel.sorte
 12	yezh	yezh	nom	_	_	_	_	_	Gloss=langue
-13	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-14	vije	COP	?	_	_	_	_	_	Gloss=serait
-15	an	art	?	_	_	_	_	_	Gloss=le
+13	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+14	vije	COP	verbe	_	_	_	_	_	Gloss=serait
+15	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 16	eil	eil	pronom	_	_	_	_	_	Gloss=second
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'forz')__5
 # text = N'eus forz da di biou ez in, e vin degemeret mad.
 # text_fr = 'Où que j'aille je serai bien reçu.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eus	E	?	_	_	_	_	_	Gloss=y.a
+2	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 3	forz	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	di	ti	nom	_	_	_	_	_	Gloss=maison|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	di	ti	nom	_	_	_	_	_	Gloss=maison|Mutation=trigger|MutationNUM=1
 6	biou	piv	pronom	_	_	_	_	_	Gloss=qui
 7	ez	ez	?	_	_	_	_	_	Gloss=R
 8	in	mont	verbe	_	_	_	_	_	Gloss=irai
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	e	e	?	_	_	_	_	_	Gloss=R
-11	vin	COP	?	_	_	_	_	_	Gloss=serai
-12	degemeret	degemer.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=accueil.i
-13	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+10	e	e	verbe	_	_	_	_	_	Gloss=R
+11	vin	COP	verbe	_	_	_	_	_	Gloss=serai
+12	degemeret	degemer.-et_(Adj.)	nom.verbe|suffixe	_	_	_	_	_	Gloss=accueil.i
+13	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Abeozen(1986:48)__1
 # text = Un n'eus forzh piv ne deo ket den da reiñ bara d'ur plac'h seven.
 # text_fr = 'Quelqu'un qui est n'importe qui n'est pas homme à donner du pain à une fille respectable.'
-# source = Abeozen (1986)
-1	Un	art	?	_	_	_	_	_	Gloss=un
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
-3	eus	eus	?	_	_	_	_	_	Gloss=y.a
+3	eus	eus	préposition	_	_	_	_	_	Gloss=y.a
 4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 5	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-6	ne	ne	?	_	_	_	_	_	Gloss=ne
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
 7	deo	deo	?	_	_	_	_	_	Gloss=?
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=+C
 9	den	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	da	den	nom	_	_	_	_	_	Gloss=homme
-11	reiñ	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	reiñ	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	bara	reiñ	verbe	_	_	_	_	_	Gloss=donner
 13	d'	bara	nom	_	_	_	_	_	Gloss=pain
 14	ur	ur	?	_	_	_	_	_	Gloss=?
 15	seven	plac'h	?	_	_	_	_	_	Gloss=fille
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:132)__1
+# sent_id = Goyat(2012:132)__1
 # text = (N'eus) forzh petra a c'hoarvezo.
 # text_fr = 'Quoi qu'il arrive.'
-# text_phon = ['', '[fors', "'@pea", 'a', 'xwarˌveo]']
+# text_phon =  [fors '@pea a xwarˌveo 
+# source = Abeozen (1969)
 1	(N'	(N'	?	_	_	_	_	_	Gloss=ne
-2	eus)	E	?	_	_	_	_	_	Gloss=y.a
+2	eus)	E	verbe	_	_	_	_	_	Gloss=y.a
 3	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-4	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	c'hoarvezo	c'hoarvezout	?	_	_	_	_	_	Gloss=arrivera
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Douarnenez,[HD08/2010]__1
 # text = Trapit n'eus forzh peseurt kartenn.
 # text_fr = 'Prenez n’importe quelle carte.'
-1	Trapit	tapout	?	_	_	_	_	_	Gloss=prenez
+# source = Abeozen (1969)
+1	Trapit	tapout	verbe	_	_	_	_	_	Gloss=prenez
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
-3	eus	E	?	_	_	_	_	_	Gloss=y.a
+3	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 5	peseurt	peseurt	?	_	_	_	_	_	Gloss=quelle.sorte
 6	kartenn	kartenn	nom	_	_	_	_	_	Gloss=carte
@@ -84,24 +90,24 @@
 
 # sent_id = Favereau&LeBihan(2006:350)__1
 # text = Forzh piv a vije o selaou ha forzh peseurt abeg en dije sachet tud « Fri Louz »...
-# text_fr = 'Quiconque ait été à écouter, et quelles que soient les motivations des gens de ''Fri Lous''... '
+# text_fr = 'Quiconque ait été à écouter, et quelles que soient les motivations des gens de Fri Lous... '
 # source = Favereau & Le Bihan (2006)
 # texttype = Références de corpus
 1	Forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 2	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	vije	COP	?	_	_	_	_	_	Gloss=serait
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	vije	COP	verbe	_	_	_	_	_	Gloss=serait
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
-7	ha	&	?	_	_	_	_	_	Gloss=et
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 8	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 9	peseurt	peseurt	?	_	_	_	_	_	Gloss=quelle
 10	abeg	abeg	?	_	_	_	_	_	Gloss=raison
 11	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-12	dije	kaout	?	_	_	_	_	_	Gloss=aurait
+12	dije	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 13	sachet	sachañ	verbe	_	_	_	_	_	Gloss=tiré
 14	tud	tud	nom	_	_	_	_	_	Gloss=gens
-15	«	«	?	_	_	_	_	_	Gloss=[[nompropre|Fri
+15	«	«	?	_	_	_	_	_	Gloss=[[nom_propre|Fri
 16	Fri	Fri	nom	_	_	_	_	_	Gloss=Lous]]
 17	Louz	Louz	?	_	_	_	_	_	Gloss=?
 18	»...	»...	?	_	_	_	_	_	Gloss=?
@@ -112,27 +118,29 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	furnez	fur.-nezh	adjectif.nom	_	_	_	_	_	Gloss=sag.esse
-3	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	furnez	fur.-nezh	adjectif.suffixe|nom	_	_	_	_	_	Gloss=sag.esse
+3	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	daill	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 5	aour	aour	nom	_	_	_	_	_	Gloss=or
 6	forz	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	biou	piv	pronom	_	_	_	_	_	Gloss=qui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'forz')__6
 # text = N'eus forz pegoulz ez i di...
 # text_fr = 'Quand que tu ailles... '
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eus	E	?	_	_	_	_	_	Gloss=y.a
+2	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 3	forz	forzh	quantifieur	_	_	_	_	_	Gloss=cas
 4	pegoulz	pegoulz	?	_	_	_	_	_	Gloss=quand
 5	ez	ez	?	_	_	_	_	_	Gloss=R
 6	i	mont	verbe	_	_	_	_	_	Gloss=iras
-7	di..	di	?	_	_	_	_	_	Gloss=y
+7	di..	di	adverbe	_	_	_	_	_	Gloss=y
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herri(1982:43)__1
@@ -142,13 +150,13 @@
 # texttype = Références de corpus
 1	Marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
 2	kuzh	kuzh	?	_	_	_	_	_	Gloss=caché
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zeuio	dont	verbe	_	_	_	_	_	Gloss=viendra
 5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 7	vanko	mankout	verbe	_	_	_	_	_	Gloss=manquera
 8	n'	n'	?	_	_	_	_	_	Gloss=ne
-9	eus	E	?	_	_	_	_	_	Gloss=y.a
+9	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 10	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-11	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+11	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

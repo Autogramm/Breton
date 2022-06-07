@@ -2,17 +2,17 @@
 # text = Ar gwragez a veze heligentañ etreze evit bevañ ar vesaerien diouzh o gwellañ.
 # text_fr = 'Les femmes étaient en compétition pour nourrir les bergers de leur mieux.'
 # source = ar Barzhig (1976)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gwragez	-e(z)(PL.)	?	_	_	_	_	_	Gloss=s
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	gwragez	-e(z)_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	heligentañ	heligentañ	?	_	_	_	_	_	Gloss=≈qui.mieux-mieux
-6	etreze	etre.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=entre.eux
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	etreze	etre.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=entre.eux
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	bevañ	bevañ	verbe	_	_	_	_	_	Gloss=nourrir
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	vesaerien	vesaerien	?	_	_	_	_	_	Gloss=1
 11	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
-12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 13	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

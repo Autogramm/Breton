@@ -1,10 +1,11 @@
 # sent_id = Drezen(1990:30)__1
 # text = ur gouelec'h krin ha kras
 # text_fr = 'un désert aride et desséché'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	gouelec'h	gouez-.lec'h	adjectif.?	_	_	_	_	_	Gloss=sauvage.lieu
 3	krin	krin	?	_	_	_	_	_	Gloss=aride
-4	ha	&	?	_	_	_	_	_	Gloss=et
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 5	kras	kraz	adjectif	_	_	_	_	_	Gloss=desséché

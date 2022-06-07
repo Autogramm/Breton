@@ -4,9 +4,9 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	doa	COP	?	_	_	_	_	_	Gloss=était
+1	doa	COP	verbe	_	_	_	_	_	Gloss=était
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 3	seulamant	seulamant	adverbe	_	_	_	_	_	Gloss=seulement
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	voyenn	moien	nom	_	_	_	_	_	Gloss=moyen|Morph=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	voyenn	moien	nom	_	_	_	_	_	Gloss=moyen|Mutation=target|MutationNUM=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

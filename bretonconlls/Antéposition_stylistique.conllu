@@ -5,19 +5,19 @@
 # location = Kistinid
 # source = Nicolas (2005)
 # texttype = Ouvrages de recherche
-1	Roet	rein	?	_	_	_	_	_	Gloss=donné
-2	'	kaout	?	_	_	_	_	_	Gloss=a
+1	Roet	rein	verbe	_	_	_	_	_	Gloss=donné
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	meus	meus	?	_	_	_	_	_	Gloss=?
 4	_	_	?	_	_	_	_	_	Gloss=_
 5	bara	bara	nom	_	_	_	_	_	Gloss=pain
-6	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-7	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+6	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+7	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 8	??	??	?	_	_	_	_	_	Gloss=ne
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 10	'	'	?	_	_	_	_	_	Gloss=R
-11	oa	COP	?	_	_	_	_	_	Gloss=était
+11	oa	COP	verbe	_	_	_	_	_	Gloss=était
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-13	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+13	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ouessant,Gouedig(1982)__1
@@ -26,14 +26,14 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
-2	em-eus	kaout	?	_	_	_	_	_	Gloss=a
+1	Klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
+2	em-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	_	_	?	_	_	_	_	_	Gloss=?
 4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	eun	art	?	_	_	_	_	_	Gloss=un
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	ti	ti	nom	_	_	_	_	_	Gloss=maison
-8	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+8	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 9	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -42,12 +42,12 @@
 # text_fr = 'Yann a lu et compris le livre.'
 # source = Rivero (1999)
 # texttype = Ouvrages de recherche
-1	Lennet	lenn(V.)	?	_	_	_	_	_	Gloss=lu
-2	ha	&	?	_	_	_	_	_	Gloss=et
-3	komprenet	kompren.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=compr.is
+1	Lennet	lenn_(V.)	?	_	_	_	_	_	Gloss=lu
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+3	komprenet	kompren.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=compr.is
 4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-5	deus	kaout	?	_	_	_	_	_	Gloss=a
-6	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+6	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
 7	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Rivero(1999:73)__1
@@ -55,12 +55,12 @@
 # text_fr = 'J'ai eu lu le livre.'
 # source = Rivero (1999)
 # texttype = Ouvrages de recherche
-1	Lennet	lenn(V.)	?	_	_	_	_	_	Gloss=lu
+1	Lennet	lenn_(V.)	?	_	_	_	_	_	Gloss=lu
 2	am	am	?	_	_	_	_	_	Gloss=R
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	__	__	?	_	_	_	_	_	Gloss=
-6	al	art	?	_	_	_	_	_	Gloss=le
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	levr	levr	nom	_	_	_	_	_	Gloss=livre
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -74,18 +74,18 @@
 2	et	et	?	_	_	_	_	_	Gloss=?
 3	'	'	?	_	_	_	_	_	Gloss=ministre
 4	ministr	ministr	?	_	_	_	_	_	Gloss=?
-5	tchentañ	ordinal	?	_	_	_	_	_	Gloss=premier
+5	tchentañ	ordinal	adjectif	_	_	_	_	_	Gloss=premier
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ha	&	?	_	_	_	_	_	Gloss=et
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	'	art	?	_	_	_	_	_	Gloss=le
-10	r	marc'had	?	_	_	_	_	_	Gloss=marché
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	r	marc'had	particules verbale	_	_	_	_	_	Gloss=marché
 11	marc'had,	marc'had,	?	_	_	_	_	_	Gloss=?
-12	djwele'	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+12	djwele'	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 13	et	et	?	_	_	_	_	_	Gloss=?
-14	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-15	e	e	?	_	_	_	_	_	Gloss=R
-16	oa	COP	?	_	_	_	_	_	Gloss=était
+14	vehe	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+15	e	e	verbe	_	_	_	_	_	Gloss=R
+16	oa	COP	verbe	_	_	_	_	_	Gloss=était
 17	meo	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -95,17 +95,17 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
-1	'	art	?	_	_	_	_	_	Gloss=un
-2	R	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+1	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	R	gwech	nom	_	_	_	_	_	Gloss=fois|Mutation=target|MutationNUM=1
 3	wech	c'hoazh	?	_	_	_	_	_	Gloss=encore
 4	c'hoazh,	c'hoazh,	?	_	_	_	_	_	Gloss=?
 5	kresket	kreskiñ	verbe	_	_	_	_	_	Gloss=monté
-6	e	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	e	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 7	bet	bet	?	_	_	_	_	_	Gloss=été
-8	'	art	?	_	_	_	_	_	Gloss=le
+8	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	n	talioù	?	_	_	_	_	_	Gloss=impôts
 10	talioù	talioù	?	_	_	_	_	_	Gloss=?
-11	gante	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+11	gante	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:172)__1
@@ -117,34 +117,35 @@
 # texttype = Références de corpus
 1	Gortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	ranket	rankout	verbe	_	_	_	_	_	Gloss=devoir
 6	__	__	?	_	_	_	_	_	Gloss=<attendre>
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	bloavez	-vezh	nom	_	_	_	_	_	Gloss=née
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	bloavez	-vezh	suffixe|nom	_	_	_	_	_	Gloss=née
 9	1950	1950	?	_	_	_	_	_	Gloss=1950
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 11	kavoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
-12	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	beb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-14	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
-15	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-16	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+14	seurt	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
+15	traou	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+16	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 17	brena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
-18	a-nevez	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+18	a-nevez	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bzh5(2007:27).__1
 # text = Hama ! Aet int sot pe betra ?
 # text_fr = 'Eh bien ! Ils sont devenus fous ?'
+# dialect = Standard
 # source = Bzh5 (2007)
 # texttype = Références de corpus
 1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
-2	int	COP	?	_	_	_	_	_	Gloss=sont
+2	int	COP	verbe	_	_	_	_	_	Gloss=sont
 3	sot	sot	adjectif	_	_	_	_	_	Gloss=sot
-4	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
-5	betra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+4	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
+5	betra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herri(1982:81)__1
@@ -152,44 +153,42 @@
 # text_fr = 'Si la République, le pays, la France, étaient sauvés, mes quinze francs aussi.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	savetaet	savetaet	?	_	_	_	_	_	Gloss=sauvé
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	Republik	Republik	?	_	_	_	_	_	Gloss=République
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vro	bro	nom	_	_	_	_	_	Gloss=pays|Mutation=target|MutationNUM=1
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	Bro-C'	art	?	_	_	_	_	_	Gloss=le
-11	hall	bro	nom	_	_	_	_	_	Gloss=pays
-12	,	,	PUNCT	_	_	_	_	Gloss=punct
-13	savetaet	savetaet	?	_	_	_	_	_	Gloss=sauvé
-14	e	e	?	_	_	_	_	_	Gloss=R
-15	oa	COP	?	_	_	_	_	_	Gloss=était
-16	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-17	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-18	femzek	cardinaux	?	_	_	_	_	_	Gloss=quinze
-19	lur	lur	?	_	_	_	_	_	Gloss=franc
-20	.	.	PUNCT	_	_	_	_	Gloss=punct
+10	savetaet	savetaet	?	_	_	_	_	_	Gloss=sauvé
+11	e	e	verbe	_	_	_	_	_	Gloss=R
+12	oa	COP	verbe	_	_	_	_	_	Gloss=était
+13	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+14	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+15	femzek	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=quinze
+16	lur	lur	?	_	_	_	_	_	Gloss=franc
+17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Loth(1890c:288)__1
 # text = discaret ha trebuchet hez deues an edeficc a orgueil dre an humilité anezy.
 # text_fr = 'Elle a détruit l'édifice d'orgueil de par son humilité.'
 # source = Ca.
+# texttype = Références de corpus
 1	discaret	diskar	verbe	_	_	_	_	_	Gloss=détruit
-2	ha	&	?	_	_	_	_	_	Gloss=et
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	trebuchet	trebuchet	?	_	_	_	_	_	Gloss=tombé
 4	hez	hez	?	_	_	_	_	_	Gloss=3SGF
-5	deues	kaout	?	_	_	_	_	_	Gloss=a
-6	an	art	?	_	_	_	_	_	Gloss=le
+5	deues	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	edeficc	edeficc	?	_	_	_	_	_	Gloss=édifice
 8	a	a	préposition	_	_	_	_	_	Gloss=de
 9	orgueil	orgueil	?	_	_	_	_	_	Gloss=orgueil
 10	dre	dre	préposition	_	_	_	_	_	Gloss=par
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	humilité	humilité	?	_	_	_	_	_	Gloss=humilité
-13	anezy	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+13	anezy	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Rouveret(2017:32)__1
@@ -199,7 +198,7 @@
 # texttype = Ouvrages de recherche
 1	Cau	Cau	?	_	_	_	_	_	Gloss=fermer
 2	('	('	?	_	_	_	_	_	Gloss=le
-3	r	r	?	_	_	_	_	_	Gloss=barrière
+3	r	r	particules verbale	_	_	_	_	_	Gloss=barrière
 4	glwyd)	glwyd)	?	_	_	_	_	_	Gloss=?
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	wnaeth	wnaeth	?	_	_	_	_	_	Gloss=fit
@@ -225,6 +224,7 @@
 # sent_id = Islandais,Sigurðsson(2010:178)__1
 # text = Tekin hefur verið ___ sú ákvörðun að fresta kosningunum.
 # text_fr = 'La décision a été prise de repousser les élections.'
+# source = Jouitteau (2010)
 1	Tekin	Tekin	?	_	_	_	_	_	Gloss=pris
 2	hefur	hefur	préposition	_	_	_	_	_	Gloss=a
 3	verið	verið	?	_	_	_	_	_	Gloss=été
@@ -239,6 +239,7 @@
 # sent_id = Moyendanois,1550,Falk&Torp(1900:296),citédansFranco(2009b:145)__1
 # text = Som sagd er  ved Propheten.
 # text_fr = 'Comme le dit le prophète.'
+# source = Jouitteau (2010)
 1	Som	Som	?	_	_	_	_	_	Gloss=comme
 2	sagd	sagd	?	_	_	_	_	_	Gloss=dit
 3	er	er	?	_	_	_	_	_	Gloss=est
@@ -251,6 +252,7 @@
 # sent_id = Vieuxnorse,Faarlund(2004),citédansFranco(2009b:145)__1
 # text = eina dittur er Droplaug hét .
 # text_fr = 'une fille qui s'appelait Droplaug.'
+# source = Jouitteau (2010)
 1	eina	eina	?	_	_	_	_	_	Gloss=une
 2	dittur	dittur	?	_	_	_	_	_	Gloss=fille
 3	er	er	?	_	_	_	_	_	Gloss=qui
@@ -259,18 +261,20 @@
 6			?	_	_	_	_	_	Gloss=__
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Jouitteau (2010:500)__1
+# sent_id = Jouitteau(2010:500)__1
 # text = Gledali sa filma.
 # text_fr = 'J'ai vu un film.'
 # source2 =  Bulgare, Lambova (2002)
+# source = Jouitteau (2010)
 1	sa	sa	?	_	_	_	_	_	Gloss=clitique
 2	filma	filma	?	_	_	_	_	_	Gloss=film
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Jouitteau (2010:503)__1
+# sent_id = Jouitteau(2010:503)__1
 # text = Pojeo je (bio) sve gljive. / Bio je pojeo sve gljive.
 # text_fr = 'Il a mangé tous les champignons.'
 # source2 =  Serbo-croate, Ackema and Čamdžić (2003)
+# source = Jouitteau (2010)
 1	Pojeo	Pojeo	?	_	_	_	_	_	Gloss=mangé
 2	je	je	?	_	_	_	_	_	Gloss=est
 3	(bio)	(bio)	?	_	_	_	_	_	Gloss=été

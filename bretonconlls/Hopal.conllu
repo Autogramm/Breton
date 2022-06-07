@@ -4,16 +4,16 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	oa	CP	?	_	_	_	_	_	Gloss=était
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	oa	CP	CP	_	_	_	_	_	Gloss=était
 3	hopet	hopet	?	_	_	_	_	_	Gloss=appelé
-4	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	oa	COP	?	_	_	_	_	_	Gloss=était
-7	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+4	warnañ	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
+7	deut	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 8	d'	da	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 11	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -23,15 +23,15 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Para	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	arri	arru	?	_	_	_	_	_	Gloss=arrive
-3	ganit	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
-4	ahe	aze	?	_	_	_	_	_	Gloss=là
+1	Para	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	arri	arru	verbe	_	_	_	_	_	Gloss=arrive
+3	ganit	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.toi
+4	ahe	aze	adverbe	_	_	_	_	_	Gloss=là
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
-6	Para	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+6	Para	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 7	zo	zo	?	_	_	_	_	_	Gloss=est
 8	kaos	kaoz	nom	_	_	_	_	_	Gloss=cause
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	hopes	hopes	?	_	_	_	_	_	Gloss=cries
-11	velse	evel.ads	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.là
+11	velse	evel.ads	complémenteur|préposition.adverbe|suffixe	_	_	_	_	_	Gloss=comme.là
 12	?	?	PUNCT	_	_	_	_	Gloss=punct

@@ -4,13 +4,13 @@
 # dialect = Vannetais
 # source = Cheveau (2007)
 # texttype = Ouvrages de recherche
-1	mǝs	kaout	?	_	_	_	_	_	Gloss=a
-2	pasǝd	paseal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pass.é
-3	ǝ	art	?	_	_	_	_	_	Gloss=le
+1	mǝs	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+2	pasǝd	paseal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pass.é
+3	ǝ	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	huʁz	amzer	nom	_	_	_	_	_	Gloss=temps
 5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-6	mɔ	kaout	?	_	_	_	_	_	Gloss=avait
-7	dʁukɛɲ	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+6	mɔ	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+7	dʁukɛɲ	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Konan(2017:'digoulzañ')__1
@@ -20,9 +20,9 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Digoulzañ	di-	?	_	_	_	_	_	Gloss=dé|Morph=1
+1	Digoulzañ	di-	?	_	_	_	_	_	Gloss=dé|Mutation=trigger|MutationNUM=1
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	zimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,13 +4,13 @@
 # dialect = Léonard
 # source = Miossec (1978)
 # texttype = Références de corpus
-1	Toud	Toud	?	_	_	_	_	_	Gloss=tout
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	rehier	roc'h.plurielinterne	?.?	_	_	_	_	_	Gloss=pierre.s
+1	Toud	Toud	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	rehier	roc'h.pluriel_interne	?.?	_	_	_	_	_	Gloss=pierre.s
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	lavarfed	lavarout.IMP	verbe.?	_	_	_	_	_	Gloss=dirait.on
+5	lavarfed	lavarout.IMP	verbe.pronom	_	_	_	_	_	Gloss=dirait.on
 6	ez	ez	?	_	_	_	_	_	Gloss=R
-7	int	COP	?	_	_	_	_	_	Gloss=sont
+7	int	COP	verbe	_	_	_	_	_	Gloss=sont
 8	bet	bet	?	_	_	_	_	_	Gloss=été
 9	savet	sevel	verbe	_	_	_	_	_	Gloss=dressé
 10	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
@@ -18,34 +18,33 @@
 
 # sent_id = Elégoët(1982:21)__1
 # text = Kavet  veze da brenañ treid gilhotinoù gwechall.
-# text_fr = 'Autrefois, on trouvait dans le commerce des pieds de guillotine.''
+# text_fr = 'Autrefois, on trouvait dans le commerce des pieds de guillotine.
 # dialect = Léonard
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-2	??	??	?	_	_	_	_	_	Gloss=R|Morph=4
+1	Kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+2	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	brenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
-7	treid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
-8	gilhotinoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+7	treid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
+8	gilhotinoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 9	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:70)__1
-# text = [ Al labourerien-douar gwechall ] a oa toud _ paour-pe-baouroh.
+# text = Al labourerien-douar gwechall ] a oa toud _ paour-pe-baouroh.
 # text_fr = 'Les cultivateurs autrefois étaient tous plus pauvres les uns que les autres.'
-# source = Gros (1984)
-1	[	[	?	_	_	_	_	_	Gloss=[
-2	Al	art	?	_	_	_	_	_	Gloss=le
-3	labourerien-douar	labourat.-erien.douar	verbe.?.nom	_	_	_	_	_	Gloss=travaill.eurs.terre
-4	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=jadis
-5	]	]	?	_	_	_	_	_	Gloss=]
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=4
-7	oa	COP	?	_	_	_	_	_	Gloss=était
-8	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-9	_	quantifieurflottant	?	_	_	_	_	_	Gloss=_
-10	paour-pe-baouroh	paour	adjectif	_	_	_	_	_	Gloss=pauvre]]-[[pe|ou|Morph=1
-11	.	.	PUNCT	_	_	_	_	Gloss=punct
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=jadis
+2	]	]	?	_	_	_	_	_	Gloss=]
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	toud	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+6	_	quantifieur_flottant	?	_	_	_	_	_	Gloss=_
+7	paour-pe-baouroh	paour	adjectif	_	_	_	_	_	Gloss=pauvre]]-[[pe|ou|Mutation=trigger|MutationNUM=1
+8	.	.	PUNCT	_	_	_	_	Gloss=punct

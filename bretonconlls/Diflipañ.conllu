@@ -1,25 +1,28 @@
 # sent_id = Gros(1989:'diflipa')__1
 # text = Skoulm anezañ ervat bete-gouzoud e tiflipfe diganit.
 # text_fr = 'Noue-le comme il faut de crainte qu'il ne t'échappe.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Skoulm	skoulmañ	verbe	_	_	_	_	_	Gloss=noue
-2	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-3	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+2	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+3	ervat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 4	bete-gouzoud	betegout	complémenteur	_	_	_	_	_	Gloss=de.crainte
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	tiflipfe	tiflipfe	?	_	_	_	_	_	Gloss=glisser
-7	diganit	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
+7	diganit	digant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:33)__1
 # text = Boulc'hurun ! Diflipet int c'hoazh !
 # text_fr = 'Tonnerre ! Ils se sont encore échappés !'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	Boulc'hurun	boul	?	_	_	_	_	_	Gloss=boule
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Diflipet	Diflipet	?	_	_	_	_	_	Gloss=échapper
-5	int	COP	?	_	_	_	_	_	Gloss=sont
+5	int	COP	verbe	_	_	_	_	_	Gloss=sont
 6	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

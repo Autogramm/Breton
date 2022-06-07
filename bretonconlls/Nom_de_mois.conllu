@@ -5,28 +5,29 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Aze	aze	?	_	_	_	_	_	Gloss=là
+1	Aze	aze	adverbe	_	_	_	_	_	Gloss=là
 2	'	'	?	_	_	_	_	_	Gloss=R
 3	c'h	c'h	?	_	_	_	_	_	Gloss=?
-4	omp	COP	?	_	_	_	_	_	Gloss=sommes
-5	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+4	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
+5	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 6	barzh	barzh	?	_	_	_	_	_	Gloss=?
-7	miz	miz	?	_	_	_	_	_	Gloss=mois
+7	miz	miz	nom	_	_	_	_	_	Gloss=mois
 8	meurzh	meurzh	?	_	_	_	_	_	Gloss=mars
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Ternes (1970:322)__5
-# text = Ma ne zimezan ket a-benn miz Mae, me ya da vout matez.  ''Équivalent standardisé''
+# sent_id = Ternes(1970:322)__5
+# text = Ma ne zimezan ket a-benn miz Mae, me ya da vout matez.  Équivalent standardisé
 # text_fr = 'Si je ne me marie pas d'ici mai, j'irai devenir servante.'
-# text_phon = ['/me-nəzemanče', 'ben-miz maj', 'məje də-vu', 'mateX/']
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si]]-[[ne|Morph=1
-2	ne	ne	?	_	_	_	_	_	Gloss=?
+# text_phon = /me-nəzemanče ben-miz maj məje də-vu mateX/ 
+# source = Konan (2017)
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si]]-[[ne|Mutation=trigger|MutationNUM=1
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=?
 3	zimezan	zimezan	?	_	_	_	_	_	Gloss=?
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=?
-5	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
-6	miz	mae	?	_	_	_	_	_	Gloss=mai
+5	a-benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=d'@ici
+6	miz	mae	nom	_	_	_	_	_	Gloss=mai
 7	Mae,	Mae,	?	_	_	_	_	_	Gloss=?
-8	me	pfi.mont	?.verbe	_	_	_	_	_	Gloss=moi.va
+8	me	pfi.mont	pronom.verbe	_	_	_	_	_	Gloss=moi.va
 9	ya	da	préposition	_	_	_	_	_	Gloss=pour
 10	da	da	préposition	_	_	_	_	_	Gloss=?
 11	vout	vout	?	_	_	_	_	_	Gloss=?
@@ -34,12 +35,8 @@
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 14	??	??	?	_	_	_	_	_	Gloss=???
 15	?	?	PUNCT	_	_	_	_	Gloss=punct
-16	'	'	?	_	_	_	_	_	Gloss=???
-17	'	'	?	_	_	_	_	_	Gloss=?
-18	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=?
-19	standardisé'	standardisé'	?	_	_	_	_	_	Gloss=?
-20	'	'	?	_	_	_	_	_	Gloss=?
-21			PUNCT	_	_	_	_	Gloss=punct
+16	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=???
+17	standardisé	standardisé	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Elégoët(1982:23)__1
 # text = Miz Mae ha miz Even, ral ma vez reverdioù bras kement.
@@ -48,18 +45,18 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Miz	miz	?	_	_	_	_	_	Gloss=mois
+1	Miz	miz	nom	_	_	_	_	_	Gloss=mois
 2	Mae	mae	?	_	_	_	_	_	Gloss=mai
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	miz	miz	?	_	_	_	_	_	Gloss=mois
-5	Even	even	?	_	_	_	_	_	Gloss=juin
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	miz	miz	nom	_	_	_	_	_	Gloss=mois
+5	Even	even	nom	_	_	_	_	_	Gloss=juin
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ral	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rare
+7	ral	ral	adverbe|adjectif	_	_	_	_	_	Gloss=rare
 8	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	reverdioù	reverdi.-où(PL.)	?.?	_	_	_	_	_	Gloss=marée.s
-11	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-12	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+10	reverdioù	reverdi.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=marée.s
+11	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+12	kement	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'avelaj')__1
@@ -68,41 +65,42 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	avelaj	avel.-aj	nom.?	_	_	_	_	_	Gloss=vent.ée
-5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	miz	miz	?	_	_	_	_	_	Gloss=mois
+4	avelaj	avel.-aj	nom.suffixe|nom	_	_	_	_	_	Gloss=vent.ée
+5	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	miz	miz	nom	_	_	_	_	_	Gloss=mois
 8	Here	here	?	_	_	_	_	_	Gloss=octobre
 9	ez	ez	?	_	_	_	_	_	Gloss=R
 10	een	mont	verbe	_	_	_	_	_	Gloss=allais
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	ar	art	?	_	_	_	_	_	Gloss=le
-13	hoajoù	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
-14	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-15	geuneuta	keneud.-a	nom.verbe	_	_	_	_	_	Gloss=petit.bois.ramasser
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	hoajoù	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
+14	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+15	geuneuta	keneud.-a	nom.verbe|suffixe	_	_	_	_	_	Gloss=petit.bois.ramasser
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon1877,LeFinistèren°557__1
 # text = pa zigouezo ar mare, ar pevar eus ar miz du kenta, votit eta...
 # text_fr = 'Quand viendra le moment, le quatre du mois de novembre, votez donc... '
-1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+# source = Gros (1970b)
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	zigouezo	degouezhout	verbe	_	_	_	_	_	Gloss=viendra
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	mare	mare	nom	_	_	_	_	_	Gloss=moment
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	pevar	cardinaux	?	_	_	_	_	_	Gloss=quatre
-8	eus	eus	?	_	_	_	_	_	Gloss=de
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	miz	miz	?	_	_	_	_	_	Gloss=mois
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	pevar	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=quatre
+8	eus	eus	préposition	_	_	_	_	_	Gloss=de
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	miz	miz	nom	_	_	_	_	_	Gloss=mois
 11	du	du	adjectif	_	_	_	_	_	Gloss=noir
-12	kenta	numéralordinal	?	_	_	_	_	_	Gloss=premier
+12	kenta	numéral_ordinal	?	_	_	_	_	_	Gloss=premier
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	votit	votiñ	?	_	_	_	_	_	Gloss=votez
-15	eta..	eta	?	_	_	_	_	_	Gloss=donc
+15	eta..	eta	conjonction	_	_	_	_	_	Gloss=donc
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1922:347)__2
@@ -110,19 +108,19 @@
 # text_fr = 'Bien ! pour sur, je dois avoir un mari d'ici novembre.'
 # location = Bodilis
 # source = Ar Floch (1922)
-1	Mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+1	Mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	m'	pfi	?	_	_	_	_	_	Gloss=moi
-4	en	POP	complémenteur	_	_	_	_	_	Gloss=le
+3	m'	pfi	pronom	_	_	_	_	_	Gloss=moi
+4	en	POP	pronom	_	_	_	_	_	Gloss=le
 5	tou	touiñ	?	_	_	_	_	_	Gloss=jure
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
-9	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
-10	eur	art	nom	_	_	_	_	_	Gloss=un
-11	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
-12	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=d'@ici
-13	miz	miz	?	_	_	_	_	_	Gloss=mois
+9	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+10	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	gwaz	gwaz	nom	_	_	_	_	_	Gloss=mari
+12	a-benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=d'@ici
+13	miz	miz	nom	_	_	_	_	_	Gloss=mois
 14	Du	du	adjectif	_	_	_	_	_	Gloss=noir
-15	kenta	numéralordinal	?	_	_	_	_	_	Gloss=premier
+15	kenta	numéral_ordinal	?	_	_	_	_	_	Gloss=premier
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

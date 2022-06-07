@@ -1,73 +1,80 @@
 # sent_id = Kerrien(2000:82)__1
 # text = An traou-ze diwezatoc'h a vo un dudi sonjal enno.
 # text_fr = 'Tout cela plus tard, ce sera un bonheur d'y repenser.'
-# source = Kerrien (2000)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	traou-ze	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+# dialect = Léonard
+# source = Kerrien (1926)
+# texttype = Références de corpus
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	traou-ze	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 3	diwezatoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	vo	COP	?	_	_	_	_	_	Gloss=sera
-6	un	art	?	_	_	_	_	_	Gloss=un
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+6	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	dudi	dudi	nom	_	_	_	_	_	Gloss=plaisir
-8	sonjal	sonjal	?	_	_	_	_	_	Gloss=penser
-9	enno	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.eux
+8	sonjal	sonjal	verbe	_	_	_	_	_	Gloss=penser
+9	enno	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:49)__1
+# sent_id = Nicolas(2005:49)__1
 # text = Kani he breur zo brasoc'h
 # text_fr = 'Celui/celle de son frère est plus grand.e.'
-# text_phon = ['[ kani', 'i', 'brør', 'zu', 'brasɔχ ]']
-1	Kani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+# text_phon =  kani i brør zu brasɔχ  
+# source = Kerrien (1926)
+1	Kani	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+2	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 3	breur	breur	nom	_	_	_	_	_	Gloss=frère
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	brasoc'h	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	brasoc'h	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 
-# sent_id = Nicolas (2005:19)__1
+# sent_id = Nicolas(2005:19)__1
 # text = Solange 'oa koshikoc'h / brazikoc'h
 # text_fr = 'Solange était un peu plus vieille/grande.'
-# text_phon = ['[solãʒ', 'wɛ', 'kòhitʃɔχ]', '/', '[brazətʃɔχ]']
+# text_phon = solãʒ wɛ kòhitʃɔχ] / [brazətʃɔχ 
+# source = Kerrien (1926)
 1	Solange	Solange	?	_	_	_	_	_	Gloss=Solange
-2	'	COP	?	_	_	_	_	_	Gloss=était
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
 4	koshikoc'h	kozh.koshikoc'h	adjectif.?	_	_	_	_	_	Gloss=vieux.DIM
 5	/	/	?	_	_	_	_	_	Gloss=
-6	brazikoc'h	bras.brazikoc'h	adverbe-adjectif.?	_	_	_	_	_	Gloss=grand.DIM
+6	brazikoc'h	bras.brazikoc'h	adverbe|adjectif.?	_	_	_	_	_	Gloss=grand.DIM
 
 # sent_id = Drezen(1990:15)__1
 # text = Gwashoc'hik e c’hoarvezas, e-pad ar studiadenn a nav eur.
 # text_fr = 'Il se passa pire pendant l'étude de neuf heures.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Gwashoc'hik	Gwashoc'hik	?	_	_	_	_	_	Gloss=DIM
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	c’hoarvezas	c'hoarvezout	?	_	_	_	_	_	Gloss=arriva
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	studiadenn	studiañ.-adenn	verbe.nom	_	_	_	_	_	Gloss=étud.e
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	eur	eur	nom	_	_	_	_	_	Gloss=heure
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Abeozen(1986:38)__2
 # text = N'ouzomp ket hag hiroc'hik he doa ar son da larout _ diwar-benn ebatoù maner Kervanous.
 # text_fr = 'Nous ne savons pas si la chanson en disait plus long sur les ébats du manoir Kervanous... '
-# source = Abeozen (1986)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	ouzomp	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savons
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	ouzomp	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savons
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	hag	ha(g)	?	_	_	_	_	_	Gloss=si
 5	hiroc'hik	hir.-oc'h.hiroc'hik	adjectif.?.?	_	_	_	_	_	Gloss=long.plus.DIM
 6	he	he	?	_	_	_	_	_	Gloss=3SGF
-7	doa	kaout	?	_	_	_	_	_	Gloss=avait
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	son	son	?	_	_	_	_	_	Gloss=son
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	larout	lavarout	verbe	_	_	_	_	_	Gloss=dire
 12	_	_	?	_	_	_	_	_	Gloss=
 13	diwar-benn	diwar-benn	préposition	_	_	_	_	_	Gloss=sur
-14	ebatoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+14	ebatoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 15	maner	maner	nom	_	_	_	_	_	Gloss=manoir
 16	Kervanous	Kervanous	?	_	_	_	_	_	Gloss=Kervanous
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -77,11 +84,11 @@
 # text_fr = 'Elle est mieux que lui.'
 # source = Koadig (2010)
 # texttype = Ouvrages de recherche
-1	Houmañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
+1	Houmañ	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
 4	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
-5	'	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.lui
+5	'	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.lui
 6	vitañ.	vitañ.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Favereau(1997:§443)__1
@@ -89,52 +96,56 @@
 # text_fr = 'Il est apparu une amélioration.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+1	Deut	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 2	'	'	?	_	_	_	_	_	Gloss=R
 3	z	z	?	_	_	_	_	_	Gloss=?
-4	eus	ezeus	?	_	_	_	_	_	Gloss=est
-5	gwellaenn	gwellaat.-enn	verbe.nom	_	_	_	_	_	Gloss=améliorer.SG
+4	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+5	gwellaenn	gwellaat.-enn	verbe.suffixe|nom	_	_	_	_	_	Gloss=améliorer.SG
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:18)__1
+# sent_id = Nicolas(2005:18)__1
 # text = E vreur 'deus muioc'h a daol evitoñ.
 # text_fr = 'Son frère travaille mieux que lui (il a plus le coup pour travailler).'
-# text_phon = ['[ i', 'vrør', 'dɛ', 'myɔh a', 'dawl', 'awɛtõ ]']
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+# text_phon =  i vrør dɛ myɔh a dawl awɛtõ  
+# source = Favereau (1997)
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	vreur	breur	nom	_	_	_	_	_	Gloss=frère
-3	'	kaout	?	_	_	_	_	_	Gloss=a
-4	deus	deus	?	_	_	_	_	_	Gloss=?
+3	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	deus	deus	préposition	_	_	_	_	_	Gloss=?
 5	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	daol	taol(M.)	?	_	_	_	_	_	Gloss=coup
-8	evitoñ	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.lui
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	daol	taol_(M.)	?	_	_	_	_	_	Gloss=coup
+8	evitoñ	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:12)__4
 # text = maouezed peuzziwiskoc’h an eil re eget ar re all.
 # text_fr = 'des femmes presque plus dénudées les unes que les autres.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	maouezed	maouez.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=femme.s
-2	peuzziwiskoc’h	peuz-.di-.gwiskañ	?.?.?	_	_	_	_	_	Gloss=presque.dés.habillé
-3	an	art	?	_	_	_	_	_	Gloss=le
+1	maouezed	maouez.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=femme.s
+2	peuzziwiskoc’h	peuz-.di-.gwiskañ	?.?.verbe	_	_	_	_	_	Gloss=presque.dés.habillé
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	eil	eil	pronom	_	_	_	_	_	Gloss=second
-5	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 6	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-9	all	all	?	_	_	_	_	_	Gloss=autre
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+9	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:148)__1
 # text = Goulenn a raer genin paperioù muioc’h eget biskoazh.
 # text_fr = 'On me demande des papiers plus que jamais.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Goulenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
-4	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-5	paperioù	paper.-où(PL.)	?.?	_	_	_	_	_	Gloss=papier.s
+3	raer	ober.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=fait.on
+4	genin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+5	paperioù	paper.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=papier.s
 6	muioc’h	muioc'h	?	_	_	_	_	_	Gloss=plus
 7	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 8	biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
@@ -147,41 +158,43 @@
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	ar	art	?	_	_	_	_	_	Gloss=le
-2	merc'het	merc'h.-ed(PL.).DEM	?.?.?	_	_	_	_	_	Gloss=femme.s.ci
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	merc'het	merc'h.-ed_(PL.).DEM	?.suffixe.pronom	_	_	_	_	_	Gloss=femme.s.ci
 3	man,	man,	?	_	_	_	_	_	Gloss=?
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	énem	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	énem	en_em	?	_	_	_	_	_	Gloss=se
 6	glévé	klevout	verbe	_	_	_	_	_	Gloss=entendre
 7	guélloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 8	éguet	eget	complémenteur	_	_	_	_	_	Gloss=que
-9	choarezet	c'hoar.-ed(PL.)	?.?	_	_	_	_	_	Gloss=soeur.s
+9	choarezet	c'hoar.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=soeur.s
 10	aliès	alies	adverbe	_	_	_	_	_	Gloss=souvent
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:18)__1
+# sent_id = Nicolas(2005:18)__1
 # text = Yaouankoc'h on-me evit Maria.
 # text_fr = 'Je suis plus jeune que Maria.'
-# text_phon = ['[ jøãkɔhɔnmi', 'awɛ', 'marja ]']
+# text_phon =  jøãkɔhɔnmi awɛ marja  
+# source = Burel (2012)
 1	Yaouankoc'h	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
-2	on-me	COP	?	_	_	_	_	_	Gloss=suis
-3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+2	on-me	COP	verbe	_	_	_	_	_	Gloss=suis
+3	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
 4	Maria	Maria	?	_	_	_	_	_	Gloss=Maria
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:200)__1
+# sent_id = Goyat(2012:200)__1
 # text = Diaesoh eo c’hoaz evid ma zoñjen.
 # text_fr = 'C’est encore plus difficile que je ne le pensais.'
-# text_phon = ["[ di'@ɛsoh", 'ɛˌhwa', "vi ma '@ʒõ:ʒɛn ]"]
+# text_phon =  di'@ɛsoh ɛˌhwa vi ma '@ʒõ:ʒɛn  
+# source = Burel (2012)
 1	Diaesoh	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	c’hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
-4	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-6	zoñjen	sonjal	?	_	_	_	_	_	Gloss=pensais
+4	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+6	zoñjen	sonjal	verbe	_	_	_	_	_	Gloss=pensais
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__18
+# sent_id = Léon(Plougerneau),M-L.B.(05/2016)__19
 # text = Bevañ a reomp ur poent ar vugale a hoar en em zervicha gwelloc'h it o zud gant an ordinateur.
 # text_fr = 'Nous vivons un temps où les enfants savent plus des ordinateurs que leurs parents.'
 # dialect = Léonard
@@ -189,64 +202,68 @@
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
 1	Bevañ	bevañ	verbe	_	_	_	_	_	Gloss=vivre
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	reomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
-4	ur	art	?	_	_	_	_	_	Gloss=un
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	reomp	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisons
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	poent	poent	nom	_	_	_	_	_	Gloss=temps
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-9	hoar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-10	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+9	hoar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
+10	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 11	em	em	?	_	_	_	_	_	Gloss=servir
 12	zervicha	zervicha	?	_	_	_	_	_	Gloss=?
 13	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
-14	it	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-15	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+14	it	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+15	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 16	zud	tud	nom	_	_	_	_	_	Gloss=parents
-17	gant	gant	?	_	_	_	_	_	Gloss=avec
-18	an	art	?	_	_	_	_	_	Gloss=le
+17	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+18	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 19	ordinateur	ordinateur	?	_	_	_	_	_	Gloss=ordinateur
 20	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeClerc(1986:130)__6
 # text = An dour na vo nemet tommoc'h a ze.
 # text_fr = 'L'eau n'en sera que plus chaude'
-# source = Le Clerc (1986)
-1	An	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	dour	dour	nom	_	_	_	_	_	Gloss=eau
 3	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
-4	vo	COP	?	_	_	_	_	_	Gloss=sera
-5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+4	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+5	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
 6	a	se	pronom	_	_	_	_	_	Gloss=ça
 7	ze.	ze.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Gros(1989:'kaer')__1
 # text = Mari he-deus bet kaeroh chañs evidon-me.
 # text_fr = 'Marie a eu plus de chance que moi.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Mari	Mari	?	_	_	_	_	_	Gloss=Marie
-2	he-deus	kaout	?	_	_	_	_	_	Gloss=a
+2	he-deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	kaeroh	kaer.-oc'h	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.plus
+4	kaeroh	kaer.-oc'h	adverbe|adjectif.?	_	_	_	_	_	Gloss=beau.plus
 5	chañs	chañs	nom	_	_	_	_	_	Gloss=chance
-6	evidon-me	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.moi
+6	evidon-me	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__61
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__62
 # text = pegur e oa bihanoc'h widin 'ba ger.
 # text_fr = 'Parce qu'à la maison il y a avait des plus petits que moi... '
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
 1	pegur	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	bihanoc'h	-oc'h	?	_	_	_	_	_	Gloss=plus
-5	widin	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.moi
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-7	ba	art	?	_	_	_	_	_	Gloss=le
-8	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+5	widin	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.moi
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+7	ba	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:25)__1
@@ -256,16 +273,17 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+1	Kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 2	tanavoc'h	tanav	adjectif	_	_	_	_	_	Gloss=épais
 3	bezhin	bezhin	nom	_	_	_	_	_	Gloss=algues
-4	int	COP	?	_	_	_	_	_	Gloss=sont
+4	int	COP	verbe	_	_	_	_	_	Gloss=sont
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:18)__1
+# sent_id = Nicolas(2005:18)__1
 # text = Nosoc'h zo teñveloc'h.
 # text_fr = 'Plus il fait nuit, plus il fait sombre.'
-# text_phon = ['[ nosɔχ', 'zə', 'tiɥɛlɔχ ]']
+# text_phon =  nosɔχ zə tiɥɛlɔχ  
+# source = Elégoët (1982)
 1	Nosoc'h	noz	nom	_	_	_	_	_	Gloss=nuit
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	teñveloc'h	teñval	adjectif	_	_	_	_	_	Gloss=sombre
@@ -274,10 +292,12 @@
 # sent_id = Abeozen(1986:62)__1
 # text = Hag e lope warno gwashoc'h-gwazh.
 # text_fr = 'Et il leur tapait dessus de pire en pire.'
-# source = Abeozen (1986)
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	lope	lopat	verbe	_	_	_	_	_	Gloss=tapait
-4	warno	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+4	warno	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
 5	gwashoc'h-gwazh	gwashoc'h-gwazh	?	_	_	_	_	_	Gloss=pire.plus-pire
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

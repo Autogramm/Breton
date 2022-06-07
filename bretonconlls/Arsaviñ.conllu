@@ -1,14 +1,16 @@
 # sent_id = Herrieu(1994:100)__2
 # text = Ne arsav ket neoazh ar Jermaned a fardiñ bemnoz...
 # text_fr = 'Mais les allemands n'arrêtent pas de charger chaque nuit ... '
-# source = Herrieu (1994)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	arsav	arsav	?	_	_	_	_	_	Gloss=arrête
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	neoazh	neoazh	adverbe	_	_	_	_	_	Gloss=cependant
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	Jermaned	jermaned	nom	_	_	_	_	_	Gloss=allemands
-7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-8	fardiñ	fardañ	?	_	_	_	_	_	Gloss=charger
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	fardiñ	fardañ	verbe	_	_	_	_	_	Gloss=charger
 9	bemnoz..	pep.noz	quantifieur.nom	_	_	_	_	_	Gloss=chaque.nuit
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

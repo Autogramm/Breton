@@ -4,13 +4,13 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	adtaol	teuler	?	_	_	_	_	_	Gloss=jette
-3	eun	art	?	_	_	_	_	_	Gloss=un
-4	den	IMP	nom	_	_	_	_	_	Gloss=homme
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	adtaol	teuler	verbe	_	_	_	_	_	Gloss=jette
+3	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+4	den	IMP	pronom	_	_	_	_	_	Gloss=homme
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	gousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
-7	e	e	?	_	_	_	_	_	Gloss=R
+7	e	e	verbe	_	_	_	_	_	Gloss=R
 8	chom	chom	verbe	_	_	_	_	_	Gloss=reste
 9	diwezad	diwezhat	adverbe	_	_	_	_	_	Gloss=tard
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -22,14 +22,14 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	aztov	aztov	?	_	_	_	_	_	Gloss=oeuf.factice
-5	out	COP	?	_	_	_	_	_	Gloss=es
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+5	out	COP	verbe	_	_	_	_	_	Gloss=es
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	barzh	barzh	?	_	_	_	_	_	Gloss=?
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	neizh	neizh	nom	_	_	_	_	_	Gloss=nid
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -40,49 +40,53 @@
 # location = Lothey
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	marhadour	marhadour	?	_	_	_	_	_	Gloss=marchand
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	hejas	hejañ	verbe	_	_	_	_	_	Gloss=secoua
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	benn	penn	nom	_	_	_	_	_	Gloss=tête
-7	hag	&	?	_	_	_	_	_	Gloss=et
+7	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-10	an	art	?	_	_	_	_	_	Gloss=le
+9	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	azvan	azvan	?	_	_	_	_	_	Gloss=1
-12	bellaad	pell.-aat	adjectif.verbe	_	_	_	_	_	Gloss=loin.er
+12	bellaad	pell.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=loin.er
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Yekel & al. (2015-2021:rakgerioù)__1
-# text = goude ad-en em reunisañ a vez start. ''Graphie standard''
+# sent_id = Yekel&al.(2015-2021:rakgerioù)__1
+# text = goude ad-en em reunisañ a vez start. Graphie standard
 # text_fr = '... (mais ?) après il est difficile de se réunir.'
-# text_phon = ['goudé', 'had nõn', 'réunisã', 'vé', 'start', "'@'@Graphie locale'@'@"]
-1	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-2	ad-en	enem	?	_	_	_	_	_	Gloss=se
+# text_phon = goudé had nõn réunisã vé start Graphie locale 
+# source = Seite & Stéphan (1957)
+1	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+2	ad-en	en_em	?	_	_	_	_	_	Gloss=se
 3	em	em	?	_	_	_	_	_	Gloss=?
 4	reunisañ	reunisañ	?	_	_	_	_	_	Gloss=réunir
 5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 7	start	start	adjectif	_	_	_	_	_	Gloss=difficile
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Yekel & al. (2015-2021:rakgerioù)__1
-# text = ad-en em gavet eo ''Graphie standard''
+# sent_id = Yekel&al.(2015-2021:rakgerioù)__1
+# text = ad-en em gavet eo Graphie standard
 # text_fr = 'Elle est de nouveau rétablie.'
-# text_phon = ['hadnõn', 'gad', 'ê', "'@'@Graphie locale'@'@"]
-1	ad-en	enem	?	_	_	_	_	_	Gloss=se
+# text_phon = hadnõn gad ê Graphie locale 
+# source = Seite & Stéphan (1957)
+1	ad-en	en_em	?	_	_	_	_	_	Gloss=se
 2	em	em	?	_	_	_	_	_	Gloss=?
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 
 # sent_id = Gros(1984:371)__1
 # text = 'M-eus aon out mezo ! – Ya, advezo !
 # text_fr = 'Je crois que tu es saoûl ! Oui, re-saoûl ! (ce n'est pas la première fois).'
-# source = Gros (1984)
-1	'	meusaon	?	_	_	_	_	_	Gloss=je.crois
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	'	meus_aon	?	_	_	_	_	_	Gloss=je.crois
 2	M-eus	M-eus	?	_	_	_	_	_	Gloss=?
 3	aon	aon	nom	_	_	_	_	_	Gloss=?
-4	out	COP	?	_	_	_	_	_	Gloss=es
+4	out	COP	verbe	_	_	_	_	_	Gloss=es
 5	mezo	mezv	adjectif	_	_	_	_	_	Gloss=saoûl
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	–	ya	interjection	_	_	_	_	_	Gloss=oui
@@ -95,9 +99,9 @@
 # text_fr = 'le tour des réservistes de partir'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	tro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	adarmeaded	adarmeaded	?	_	_	_	_	_	Gloss='@'@sfx'@'@.soldats
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	tro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	adarmeaded	adarmeaded	?	_	_	_	_	_	Gloss=sfx.soldats
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 6	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti

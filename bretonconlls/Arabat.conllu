@@ -4,12 +4,12 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	Arabat	Arabat	?	_	_	_	_	_	Gloss=?
-2	'	COP	?	_	_	_	_	_	Gloss=était
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
-4	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-5	bezañ	bezan	?	_	_	_	_	_	Gloss=être
+4	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+5	bezañ	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 6	kontet	kontañ	verbe	_	_	_	_	_	Gloss=conté
-7	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+7	dezhe	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:24,25)__1
@@ -19,30 +19,31 @@
 # texttype = Références de corpus
 1	'	'	?	_	_	_	_	_	Gloss=?
 2	Rabad	Rabad	?	_	_	_	_	_	Gloss=?
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	Bastien	Bastien	?	_	_	_	_	_	Gloss=Bastien
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	heul	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
 8	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
-11	gourre	gorre	?	_	_	_	_	_	Gloss=dessus
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=1
+11	gourre	gorre	nom	_	_	_	_	_	Gloss=dessus
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Le Berre & Le Dû (1999:28) __1
+# sent_id = LeBerre&LeDû(1999:28)__1
 # text = Arabad vo dim bea war lec'h ar foar o kôc'ha.
 # text_fr = > Dépêchons-nous.
+# source = Le Garrec (1901)
 1	Arabad	Arabad	?	_	_	_	_	_	Gloss=interdit
-2	vo	COP	?	_	_	_	_	_	Gloss=sera
-3	dim	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
-4	bea	bezañ	?	_	_	_	_	_	Gloss=être
-5	war	war-lerc'h	?	_	_	_	_	_	Gloss=après
+2	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+3	dim	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+4	bea	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+5	war	war-lerc'h	préposition	_	_	_	_	_	Gloss=après
 6	lec'h	lec'h	?	_	_	_	_	_	Gloss=?
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	foar	foar	nom	_	_	_	_	_	Gloss=foire
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-10	kôc'ha	kaoc'h.-a	?.verbe	_	_	_	_	_	Gloss=merde.chercher
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
+10	kôc'ha	kaoc'h.-a	?.verbe|suffixe	_	_	_	_	_	Gloss=merde.chercher
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herri(1982:112)__1
@@ -52,10 +53,10 @@
 # texttype = Références de corpus
 1	Arabat	Arabat	?	_	_	_	_	_	Gloss=interdit
 2	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-3	hor	POSS	?	_	_	_	_	_	Gloss=notre
+3	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
 4	genou	genoù	nom	_	_	_	_	_	Gloss=bouche
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	nav	cardinaux	?	_	_	_	_	_	Gloss=neuf
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	nav	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=neuf
 7	eur	eur	nom	_	_	_	_	_	Gloss=heure
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -66,10 +67,10 @@
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
 1	Arabat	Arabat	?	_	_	_	_	_	Gloss=?
-2	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+2	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 3	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	e	P.e	?	_	_	_	_	_	Gloss=en
+5	e	P.e	préposition	_	_	_	_	_	Gloss=en
 6	mod	mod	préposition	_	_	_	_	_	Gloss=façon
 7	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 8	!	!	PUNCT	_	_	_	_	Gloss=punct

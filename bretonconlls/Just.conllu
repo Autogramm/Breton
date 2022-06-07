@@ -1,51 +1,54 @@
 # sent_id = Herrieu(1994:37)__1
 # text = Just àr-lerc’h deomp bout aet en tu 'rall da bont Comin…
 # text_fr = 'Juste après que nous soyons passés de l'autre côté du pont Comin... '
-# source = Herrieu (1994)
-1	Just	Just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Just	Just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
 2	àr-lerc’h	war-lerc'h	?	_	_	_	_	_	Gloss=après
-3	deomp	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
-4	bout	bezañ	?	_	_	_	_	_	Gloss=être
+3	deomp	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+4	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 5	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	tu	tu	nom	_	_	_	_	_	Gloss=côté
-8	'	arall	?	_	_	_	_	_	Gloss=autre
+8	'	arall	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 9	rall	rall	?	_	_	_	_	_	Gloss=?
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	bont	bont	?	_	_	_	_	_	Gloss=pont
-12	Comin…	nompropre	?	_	_	_	_	_	Gloss=Comin
+12	Comin…	nom_propre	?	_	_	_	_	_	Gloss=Comin
 
-# sent_id = Nicolas (2005:106)__1
+# sent_id = Nicolas(2005:106)__1
 # text = an hini zo e ferm just etaldin
 # text_fr = 'Celui dont la ferme est juste à côté de moi.'
-# text_phon = ['[ ənani', 'zi', '', 'fɛrm', 'jəst', 'etaldaɲ ]']
-1	an	art	?	_	_	_	_	_	Gloss=le
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-3	e	POSS	?	_	_	_	_	_	Gloss=son
+# text_phon =  ənani zi  fɛrm jəst etaldaɲ  
+# source = Herrieu (1974)
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+3	e	POSS	déterminant	_	_	_	_	_	Gloss=son
 4	ferm	ferm	?	_	_	_	_	_	Gloss=ferme
-5	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-6	etaldin	P.e.tal.da.pronomincorporé	?.nom.préposition.?	_	_	_	_	_	Gloss=en.face.à.moi
+5	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
+6	etaldin	P.e.tal.da.pronom_incorporé	préposition.nom.préposition.?	_	_	_	_	_	Gloss=en.face.à.moi
 
 # sent_id = ArFloc'h(1985:27)__1
 # text = ne ouien ket zoken d'an oad-se petra oa an dra-se, d'ar just.
 # text_fr = 'Je ne savais même pas à cet âge là ce que c'était, au juste.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	ouien	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savais
+1	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	ouien	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	zoken	zoken	?	_	_	_	_	_	Gloss=même
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	oad-se	oad	nom	_	_	_	_	_	Gloss=âge
-8	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-9	oa	COP	?	_	_	_	_	_	Gloss=était
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+8	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+9	oa	COP	verbe	_	_	_	_	_	Gloss=était
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Mutation=target|MutationNUM=1
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
-13	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
+13	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herri(1982:25)__1
@@ -54,14 +57,14 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Den	den	nom	_	_	_	_	_	Gloss=personne
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-4	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-5	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	oa	COP	?	_	_	_	_	_	Gloss=était
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'hleñved-se	kleñved	nom	_	_	_	_	_	Gloss=maladie]]-[[DEM|ci|Morph=5
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+4	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+5	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	c'hleñved-se	kleñved	nom	_	_	_	_	_	Gloss=maladie]]-[[DEM|ci|Mutation=target|MutationNUM=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:25)__4
@@ -71,10 +74,10 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Just	Just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-2	'	COP	?	_	_	_	_	_	Gloss=était
+1	Just	Just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-6	kouezho	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	kouezho	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,14 +1,15 @@
 # sent_id = Vallée(1980:XXIV)__1
 # text = Mall eo gantañ. / Bloaz eo.
 # text_fr = 'Il a hâte.' / 'Il y a un an.'
-# source = Vallée (1980)
+# source = Vallée (1931)
+# texttype = Ouvrages de recherche
 1	Mall	mall	nom	_	_	_	_	_	Gloss=hâte
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 5	/	/	?	_	_	_	_	_	Gloss=/
 6	Bloaz	Bloaz	nom	_	_	_	_	_	Gloss=an
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'estren')__1
@@ -18,10 +19,10 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+4	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 5	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter/obéir
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	estren	estren	nom-adjectif	_	_	_	_	_	Gloss=étranger
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	estren	estren	adjectif|nom	_	_	_	_	_	Gloss=étranger
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

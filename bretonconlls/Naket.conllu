@@ -1,46 +1,52 @@
 # sent_id = Herrieu(1994:46)__1
 # text = Ne vehomp ket tolpet naket gant ar re a garomp.
 # text_fr = 'Nous ne sommes pas non plus groupés par affinités.'
-# source = Herrieu (1994)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	vehomp	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sommes
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	vehomp	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sommes
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	tolpet	tolpañ	?	_	_	_	_	_	Gloss=groupé
 5	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	garomp	karout	verbe	_	_	_	_	_	Gloss=aimons
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:55)__1
 # text = an ofiserion ha ne blij ket naket o zoulloù dezhe...
 # text_fr = 'les officiers à qui leur trou ne plait pas non plus.'
-# source = Herrieu (1994)
-1	an	art	?	_	_	_	_	_	Gloss=le
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	ofiserion	-erion	?	_	_	_	_	_	Gloss=iers
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 5	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-9	zoulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
-10	dezhe..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+9	zoulloù	toull.-où_(PL.)	adjectif|nom.suffixe	_	_	_	_	_	Gloss=trou.s
+10	dezhe..	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:188)__1
 # text = Doc'h an tu-mañ ne vezont ket forzh bourrus naket !
 # text_fr = 'De ce côté-ci ils ne sont pas très agréables non plus !'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Doc'h	doc'h	?	_	_	_	_	_	Gloss=de
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	tu-mañ	tu	nom	_	_	_	_	_	Gloss=côté
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	vezont	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
-8	bourrus	bourrus	?	_	_	_	_	_	Gloss=plaisant
+8	bourrus	bourrus	adjectif	_	_	_	_	_	Gloss=plaisant
 9	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
 10	!	!	PUNCT	_	_	_	_	Gloss=punct

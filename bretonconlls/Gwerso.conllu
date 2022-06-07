@@ -4,8 +4,8 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	aesaet	aes.-aat	adjectif.verbe	_	_	_	_	_	Gloss=ais.é
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	aesaet	aes.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=ais.é
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	gwerso	gwerso	adverbe	_	_	_	_	_	Gloss=depuis.longtemps
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

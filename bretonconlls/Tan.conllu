@@ -4,43 +4,49 @@
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
-1	A-nevez	a	préposition	_	_	_	_	_	Gloss=de]]_[[1]]_-[[nevez-|nouveau|Morph=1
+1	A-nevez	a	préposition	_	_	_	_	_	Gloss=de]]_[[1]]_-[[nevez-|nouveau|Mutation=trigger|MutationNUM=1
 2	grog	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	an	art	?	_	_	_	_	_	Gloss=le
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	tan	tan	nom	_	_	_	_	_	Gloss=feu
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:355)__1
 # text = Tanaillet eo ma zreid.
 # text_fr = 'Mes pieds sont brûlants.'
-# source = Gros (1984)
-1	Tanaillet	-ailh.-et(Adj.)	?.?	_	_	_	_	_	Gloss=sfx.-é
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-4	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Tanaillet	-ailh.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=sfx.-é
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+4	zreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeClerc(1986:132)__1
 # text = an tan gwall a oa en e wasan.
 # text_fr = 'L'incendie était dans toute sa force'
-# source = Le Clerc (1986)
-1	an	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	tan	tan	nom	_	_	_	_	_	Gloss=feu
-3	gwall	gwall	?	_	_	_	_	_	Gloss=accident
+3	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=accident
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	wasan	gwashañ	adjectif	_	_	_	_	_	Gloss=pire
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'abuzi')__1
 # text = abuz-tan int.
 # text_fr = '… ils exigent trop de feu (pour les cuire).'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	abuz-tan	abuz-tan	?	_	_	_	_	_	Gloss=perte-feu
-2	int	COP	?	_	_	_	_	_	Gloss=sont
+2	int	COP	verbe	_	_	_	_	_	Gloss=sont
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kersulec(2016:26)__2
@@ -49,29 +55,31 @@
 # dialect = Cornouaillais
 # source = Kersulec (2016)
 # texttype = Ouvrages de recherche
-1	Hounne	DEM	?	_	_	_	_	_	Gloss=celle.ci
-2	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	di	di	?	_	_	_	_	_	Gloss=?
-4	an	art	?	_	_	_	_	_	Gloss=le
+1	Hounne	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+2	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	di	di	adverbe	_	_	_	_	_	Gloss=?
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	tan	tan	nom	_	_	_	_	_	Gloss=feu
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 8	reor	revr	nom	_	_	_	_	_	Gloss=cul
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:373)__1
 # text = Pa vo daoulammet ar zoubenn ne vo ket mad.
 # text_fr = 'Quand on fait bouillir le pot-au-feu au galot (à gros bouillons) il n’est pas bon.'
-# source = Gros (1984)
-1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vo	COP	?	_	_	_	_	_	Gloss=sera
-3	daoulammet	daoulammet.lammat.-et(Adj.)	?.?.?	_	_	_	_	_	Gloss=daou-.saut.é
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	zoubenn	soubenn	nom	_	_	_	_	_	Gloss=soupe|Morph=1
-6	ne	ne	?	_	_	_	_	_	Gloss=ne
-7	vo	COP	?	_	_	_	_	_	Gloss=sera
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+3	daoulammet	daoulammet.lammat.-et_(Adj.)	?.verbe.verbe|suffixe	_	_	_	_	_	Gloss=daou-.saut.é
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	zoubenn	soubenn	nom	_	_	_	_	_	Gloss=soupe|Mutation=target|MutationNUM=1
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+7	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+9	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArGow(1961:146)__1
@@ -81,14 +89,14 @@
 # location = Pleiben
 # source = Ar Gow (1961)
 # texttype = Références de corpus
-1	e	P.e	?	_	_	_	_	_	Gloss=en
+1	e	P.e	préposition	_	_	_	_	_	Gloss=en
 2	korn	korn	nom	_	_	_	_	_	Gloss=coin
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	oaled	oaled	nom	_	_	_	_	_	Gloss=foyer
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e-lec'h	P.e	?	_	_	_	_	_	Gloss=en
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	e-lec'h	P.e	préposition	_	_	_	_	_	Gloss=en
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	vourremp	bourriñ	verbe	_	_	_	_	_	Gloss=plaisions
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	tommañ	tomm.-añ	adjectif.?	_	_	_	_	_	Gloss=chauff.er
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

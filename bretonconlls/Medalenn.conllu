@@ -9,9 +9,9 @@
 2	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 3	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
 4	am	am	?	_	_	_	_	_	Gloss=R
-5	eus	kaout	?	_	_	_	_	_	Gloss=ai
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
-8	ar	art	?	_	_	_	_	_	Gloss=le
+5	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	vedalen	vedalen	?	_	_	_	_	_	Gloss=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

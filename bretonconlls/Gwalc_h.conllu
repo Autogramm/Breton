@@ -4,23 +4,24 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	a-gwalc'h	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
-2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-3	toud	toud	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+1	a-gwalc'h	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+2	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+3	toud	toud	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	oll	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Ternes (1970:322)__2
+# sent_id = Ternes(1970:322)__2
 # text = Pad-on bihan, me mb'oa labouret mem gwalc'h.
 # text_fr = 'Quand j'étais petite, j'ai travaillé mon content.'
-# text_phon = ['/pəd-on', 'bijãn,', 'məmbez', 'labure', 'məŋgwalX /']
+# text_phon = /pəd-on bijãn, məmbez labure məŋgwalX / 
+# source = Fagon & Riou (2015)
 1	Pad-on	pa	complémenteur	_	_	_	_	_	Gloss=quand
-2	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+2	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	me	pfi.COP	?.?	_	_	_	_	_	Gloss=moi.avait
+4	me	pfi.COP	pronom.verbe	_	_	_	_	_	Gloss=moi.avait
 5	mb'	mb'	?	_	_	_	_	_	Gloss=?
 6	oa	oa	?	_	_	_	_	_	Gloss=?
 7	labouret	labourat	verbe	_	_	_	_	_	Gloss=travaillé
-8	mem	POSS	?	_	_	_	_	_	Gloss=mon
+8	mem	POSS	déterminant	_	_	_	_	_	Gloss=mon
 9	gwalc'h.	gwalc'h.	?	_	_	_	_	_	Gloss=?

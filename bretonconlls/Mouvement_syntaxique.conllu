@@ -5,16 +5,16 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	foenn-ze	foenn	nom	_	_	_	_	_	Gloss=foin
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
 6	troha	troc'hañ	?	_	_	_	_	_	Gloss=trancher
 7	__	__	?	_	_	_	_	_	Gloss=
-8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	falherez	falz.-erez	nom.?	_	_	_	_	_	Gloss=faux.ée
+8	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	falherez	falz.-erez	nom.nom	_	_	_	_	_	Gloss=faux.ée
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:60)__1
@@ -26,12 +26,12 @@
 1	Heot	geot	nom	_	_	_	_	_	Gloss=herbe
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
 3	em	em	?	_	_	_	_	_	Gloss=R
-4	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	__	__	?	_	_	_	_	_	Gloss=<'@'@herbe'@'@>
-7	kén	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	__	__	?	_	_	_	_	_	Gloss=<herbe>
+7	kén	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+8	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+9	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	saout	saout	nom	_	_	_	_	_	Gloss=vaches
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -41,9 +41,9 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Lan	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Lan	leun	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	a	a	préposition	_	_	_	_	_	Gloss=de
-4	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
-5	dechoù	tech.-où(PL.)	nom.?	_	_	_	_	_	Gloss=penchant.s
+4	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
+5	dechoù	tech.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=penchant.s
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

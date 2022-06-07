@@ -4,18 +4,18 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vehec'h	COP	?	_	_	_	_	_	Gloss=seriez
-3	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vehec'h	COP	verbe	_	_	_	_	_	Gloss=seriez
+3	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
 4	paravis	paravis	préposition	_	_	_	_	_	Gloss=vis-à-vis
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	'	'	?	_	_	_	_	_	Gloss=R
-8	vehe	COP	?	_	_	_	_	_	Gloss=serait
-9	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+8	vehe	COP	verbe	_	_	_	_	_	Gloss=serait
+9	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 10	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-12	an	art	?	_	_	_	_	_	Gloss=le
-13	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-14	brasañ	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+11	eo	COP	verbe	_	_	_	_	_	Gloss=est
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	hani	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+14	brasañ	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

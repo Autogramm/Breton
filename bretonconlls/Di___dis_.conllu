@@ -1,27 +1,30 @@
 # sent_id = Gros(1984:29)__1
 # text = Ar re-ze a vije dleet dihouzougañ anezo.
 # text_fr = 'Ceux-là, on devrait leur couper le cou (les décapiter!).'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	vije	COP	?	_	_	_	_	_	Gloss=serait
+4	vije	COP	verbe	_	_	_	_	_	Gloss=serait
 5	dleet	dleout	verbe	_	_	_	_	_	Gloss=dû
 6	dihouzougañ	dihouzougañ	?	_	_	_	_	_	Gloss=1
-7	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+7	anezo	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:36)__1
 # text = Didud ha morgousket e oa ar gompezenn.
 # text_fr = 'La plaine était endormie et déserte.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Didud	Didud	?	_	_	_	_	_	Gloss=1
-2	ha	&	?	_	_	_	_	_	Gloss=et
-3	morgousket	mor-	?	_	_	_	_	_	Gloss=en|Morph=1
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	ar	art	?	_	_	_	_	_	Gloss=le
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+3	morgousket	mor-	?	_	_	_	_	_	Gloss=en|Mutation=trigger|MutationNUM=1
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	gompezenn	gompezenn	?	_	_	_	_	_	Gloss=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -29,12 +32,12 @@
 # text = Gwas pe diwas, an dra-s’ so memes mod !
 # text_fr = 'Costaud ou pas costaud c’est la même chose !'
 # source = Favereau (1997) 
-1	Gwas	gwaz	?	_	_	_	_	_	Gloss=homme
-2	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+1	Gwas	gwaz	nom	_	_	_	_	_	Gloss=homme
+2	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
 3	diwas	diwas	?	_	_	_	_	_	Gloss=1
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	dra-s’	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	dra-s’	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Mutation=target|MutationNUM=1
 7	so	zo	?	_	_	_	_	_	Gloss=est
 8	memes	memes	adjectif	_	_	_	_	_	Gloss=même
 9	mod	mod	préposition	_	_	_	_	_	Gloss=mode
@@ -43,39 +46,42 @@
 # sent_id = Haïku,H.Gaudart[c.p.28/11/2020]__1
 # text = Kollet ar vaouez kozh / en ur ragach digompren - estrenez en he bro
 # text_fr = 'vieille femme égarée en un sabir incompréhensible - étrangère en son pays.'
-1	Kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+# source = Favereau (1997) 
+1	Kollet	koll.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=perd.u
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Mutation=target|MutationNUM=1
 4	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 5	/	/	PUNCT	_	_	_	_	Gloss=punct
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	ur	art	?	_	_	_	_	_	Gloss=un
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	ragach	ragach	?	_	_	_	_	_	Gloss=sabir
 9	digompren	digompren.kompren	?.verbe	_	_	_	_	_	Gloss=1.comprendre
 10	-	-	PUNCT	_	_	_	_	Gloss=punct
-11	estrenez	estren.-ez	nom-adjectif.?	_	_	_	_	_	Gloss=étranger.e
-12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-13	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	estrenez	estren.-ez	adjectif|nom.?	_	_	_	_	_	Gloss=étranger.e
+12	en	P.e	préposition	_	_	_	_	_	Gloss=en
+13	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 14	bro	bro	nom	_	_	_	_	_	Gloss=pays
 
 # sent_id = Gros(1984:28)__1
 # text = Hañ ! Te eo Kristof? Gortoz, me a ya da zigristofi ahanout !
 # text_fr = 'Ah ! C'est toi, Christophe ? Attends, je vais t'en fiche, du Christophe.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Hañ	onomatopée	?	_	_	_	_	_	Gloss=EXCL
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Te	pfi	?	_	_	_	_	_	Gloss=toi
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	Kristof	Kristof	?	_	_	_	_	_	Gloss=Christophe
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	Gortoz	gortoz	verbe	_	_	_	_	_	Gloss=attends
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	me	pfi	?	_	_	_	_	_	Gloss=moi
+9	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 10	a	a	préposition	_	_	_	_	_	Gloss=R
 11	ya	mont	verbe	_	_	_	_	_	Gloss=va
-12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 13	zigristofi	zigristofi	?	_	_	_	_	_	Gloss=1
-14	ahanout	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+14	ahanout	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1993)__1
@@ -84,12 +90,12 @@
 # source = Favereau (1993)
 # texttype = Ouvrages de recherche
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=aller
-2	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+2	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 5	divragoù	divragoù	?	_	_	_	_	_	Gloss=1
-6	ha	&	?	_	_	_	_	_	Gloss=et
-7	divotoù	divotoù.botez.-où(PL.)	?.nom.?	_	_	_	_	_	Gloss=1.chaussure.s
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	divotoù	divotoù.botez.-où_(PL.)	?.nom.suffixe	_	_	_	_	_	Gloss=1.chaussure.s
 
 # sent_id = Seite&Stéphan(1957:15)__1
 # text = En disklavenn, meur a hini a zo o c'hoari patati.
@@ -97,15 +103,15 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	disklavenn	glav.-enn	nom.nom	_	_	_	_	_	Gloss=pluie.eur
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	disklavenn	glav.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=pluie.eur
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=un
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -116,8 +122,8 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	out	COP	?	_	_	_	_	_	Gloss=es
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	out	COP	verbe	_	_	_	_	_	Gloss=es
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	diloer	loer	nom	_	_	_	_	_	Gloss=bas
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -129,12 +135,12 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
 5	divew	divew	?	_	_	_	_	_	Gloss=1
-6	anezhañ	Résomption_du_sujet_'à_la_Cornouaillaise'.pronomincorporé	?.?	_	_	_	_	_	Gloss=P.lui
+6	anezhañ	Résomption_du_sujet_'à_la_Cornouaillaise'.pronom_incorporé	?.?	_	_	_	_	_	Gloss=P.lui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1993)__1
@@ -144,49 +150,51 @@
 # texttype = Ouvrages de recherche
 1	A	A	préposition	_	_	_	_	_	Gloss=
 2	-	-	?	_	_	_	_	_	Gloss=
-3	C'	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
-4	hoarzhin	hoarzhin	?	_	_	_	_	_	Gloss=?
-5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-7	!	!	PUNCT	_	_	_	_	Gloss=punct
-8	??	??	?	_	_	_	_	_	Gloss=
-9	?	?	PUNCT	_	_	_	_	Gloss=punct
-10	B	B	?	_	_	_	_	_	Gloss=
-11	-	-	?	_	_	_	_	_	Gloss=
-12	Dic'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
-13	a	a	préposition	_	_	_	_	_	Gloss=R
-14	ray	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
-15	!	!	PUNCT	_	_	_	_	Gloss=punct
-16	??	??	?	_	_	_	_	_	Gloss=
-17	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	C'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	!	!	PUNCT	_	_	_	_	Gloss=punct
+7	??	??	?	_	_	_	_	_	Gloss=
+8	?	?	PUNCT	_	_	_	_	Gloss=punct
+9	B	B	?	_	_	_	_	_	Gloss=
+10	-	-	?	_	_	_	_	_	Gloss=
+11	Dic'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
+12	a	a	préposition	_	_	_	_	_	Gloss=R
+13	ray	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
+14	!	!	PUNCT	_	_	_	_	Gloss=punct
+15	??	??	?	_	_	_	_	_	Gloss=
+16	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBozec(1933:66)__1
 # text = Eman o tilasa e votou-lêr, o tiglochedi e vantel, hag o tinozelenna e chupenn...
 # text_fr = 'Il délace ses souliers, dégrafe son manteau et déboutonne sa veste... '
-# source = Le Bozec
-1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	tilasa	las.-añ(V.)	nom.?	_	_	_	_	_	Gloss=lac.er
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	votou-lêr	botez.-où(PL.).ler	nom.?.nom	_	_	_	_	_	Gloss=soulier.s.cuir
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Eman	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
+3	tilasa	las.-añ_(V.)	nom.verbe|suffixe	_	_	_	_	_	Gloss=lac.er
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	votou-lêr	botez.-où_(PL.).ler	nom.suffixe.nom	_	_	_	_	_	Gloss=soulier.s.cuir
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	o	particule_o	?	_	_	_	_	_	Gloss=à
 8	tiglochedi	tiglochedi	?	_	_	_	_	_	Gloss=dé.agrafer
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	vantel	mantell	nom	_	_	_	_	_	Gloss=manteau
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	hag	&	?	_	_	_	_	_	Gloss=et
-13	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+12	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+13	o	particule_o	?	_	_	_	_	_	Gloss=à
 14	tinozelenna	tinozelenna	?	_	_	_	_	_	Gloss=dé.boutonner
-15	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+15	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 16	chupenn..	chupenn	?	_	_	_	_	_	Gloss=veste
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:162)__1
 # text = Ne zislavaran ket.
 # text_fr = 'Je le maintiens.'
-# source = Gros (1984)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	zislavaran	lavarout	verbe	_	_	_	_	_	Gloss=dire
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -197,28 +205,29 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+1	Goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 4	bloñset	bloñset	?	_	_	_	_	_	Gloss=tapé
-5	ha	&	?	_	_	_	_	_	Gloss=et
-6	dibloñset	dibloñset	?	_	_	_	_	_	Gloss='@'@dé'@'@-tapé
-7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+6	dibloñset	dibloñset	?	_	_	_	_	_	Gloss=dé-tapé
+7	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 8	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=bien.sur
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'dihori')__1
 # text = Ne ouie den koulz hag eñ dihori eur forn nevez.
 # text_fr = 'Personne ne savait faire une première chauffe de four neuf comme lui.'
-# source = Le Gall (1957)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=Ne|Morph=1
-2	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=Ne|Mutation=trigger|MutationNUM=1
+2	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
 3	den	den	nom	_	_	_	_	_	Gloss=personne
-4	koulz	kenkoulz	?	_	_	_	_	_	Gloss=tant
-5	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-6	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+4	koulz	kenkoulz	complémenteur|adjectif	_	_	_	_	_	Gloss=tant
+5	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+6	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 7	dihori	dihori	?	_	_	_	_	_	Gloss=1
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	forn	forn	?	_	_	_	_	_	Gloss=four
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	forn	forn	nom	_	_	_	_	_	Gloss=four
 10	nevez	nevez	adjectif	_	_	_	_	_	Gloss=neuf
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

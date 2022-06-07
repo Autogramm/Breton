@@ -5,11 +5,11 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Nend	Nend	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	ret	ret	?	_	_	_	_	_	Gloss=obligé
-5	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-6	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
+5	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	o	POP	pronom	_	_	_	_	_	Gloss=les|Mutation=trigger|MutationNUM=2
 7	dismantr	dismantr	?	_	_	_	_	_	Gloss=dilapider
 8	a-grenn	a-grenn	adverbe	_	_	_	_	_	Gloss=complètement
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

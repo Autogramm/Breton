@@ -2,13 +2,14 @@
 # text = Pegeit zo euz a Vrest da Wipavaz ?
 # text_fr = 'Quelle distance y-a-t-il de Brest à Guipavaz ?'
 # source = CBF.
+# texttype = Références de corpus
 1	Pegeit	Pegeit	pronom	_	_	_	_	_	Gloss=combien
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	euz	eus	?	_	_	_	_	_	Gloss=de
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	Vrest	nompropre	?	_	_	_	_	_	Gloss=Brest
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	Wipavaz	nompropre	?	_	_	_	_	_	Gloss=Guipavas
+3	euz	eus	préposition	_	_	_	_	_	Gloss=de
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	Vrest	nom_propre	?	_	_	_	_	_	Gloss=Brest
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	Wipavaz	nom_propre	?	_	_	_	_	_	Gloss=Guipavas
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bégard,Yekel,Georgelin&ArC'hozh(2015-2017)__1
@@ -17,7 +18,7 @@
 # source = Yekel, Georgelin & Ar Chozh (2015-2017)
 1	Pégêit	Pégêit	?	_	_	_	_	_	Gloss=combien
 2	so	zo	?	_	_	_	_	_	Gloss=est
-3	tréé	etre.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=entre.eux
+3	tréé	etre.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=entre.eux
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2009:43)__1
@@ -28,7 +29,7 @@
 # texttype = Ouvrages pédagogiques
 1	Bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 2	pegeit	pegeit	pronom	_	_	_	_	_	Gloss=combien
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	?	?	PUNCT	_	_	_	_	Gloss=punct

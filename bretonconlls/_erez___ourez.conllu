@@ -1,11 +1,13 @@
 # sent_id = Gros(1984:359)__1
 # text = Eno e oa eur ruzaterez.
 # text_fr = 'Là il y avait une glissoire.'
-# source = Gros (1984)
-1	Eno	eno	?	_	_	_	_	_	Gloss=y
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	E	?	_	_	_	_	_	Gloss=y.avait
-4	eur	art	nom	_	_	_	_	_	Gloss=un
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Eno	eno	adverbe	_	_	_	_	_	Gloss=y
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	E	verbe	_	_	_	_	_	Gloss=y.avait
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	ruzaterez	ruz.-at	adjectif.?	_	_	_	_	_	Gloss=roug.ir
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,54 +18,61 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	foenn-ze	foenn	nom	_	_	_	_	_	Gloss=foin
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 6	troha	troc'hañ	?	_	_	_	_	_	Gloss=trancher
-7	gand	gant	?	_	_	_	_	_	Gloss=avec
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	falherez	falc'h	?	_	_	_	_	_	Gloss=faux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:364)__1
 # text = Ar geginérez
 # text_fr = 'La cuisinière.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	geginérez	kegin	nom	_	_	_	_	_	Gloss=cuisin
 
 # sent_id = Gros(1984:363)__1
 # text = Honnez a zo dispignerez. Koufonerez eo da-vad.
 # text_fr = 'Celle-là est dépensière. Elle est très gaspilleuse.'
-# source = Gros (1984)
-1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	dispignerez	dispignerez	?	_	_	_	_	_	Gloss=dépens.sfx
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 6	Koufonerez	Koufonerez	?	_	_	_	_	_	Gloss=gaspill.sfx
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	da-vad	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	da-vad	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:364)__1
 # text = Ar geginérez a zo war ar geginèrez.
 # text_fr = 'La cuisinière est en train de faire la cuisine.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	geginérez	kegin	nom	_	_	_	_	_	Gloss=cuisin
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	geginèrez	kegin.-erezh	nom.?	_	_	_	_	_	Gloss=cuisin.N
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	geginèrez	kegin.-erezh	nom.nom	_	_	_	_	_	Gloss=cuisin.N
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:236)__1
-# text = Diwaétoc'h, deut dornérez péz bi'n da den o labour gan 'dud.   ''Cornouaillais de l'Est''
+# sent_id = Bouzec&al.(2017:236)__1
+# text = Diwaétoc'h, deut dornérez péz bi'n da den o labour gan 'dud.   Cornouaillais de l'Est
 # text_fr = 'Plus tard, l'arrivée de la batteuse nous a retiré notre travail.'
+# source = Gros (1974)
 1	Diwaétoc'h	Diwaétoc'h	?	_	_	_	_	_	Gloss=Diwezhatocxxxh,
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	dornérez	dornérez	?	_	_	_	_	_	Gloss=dornerez
@@ -82,11 +91,7 @@
 16	?	?	PUNCT	_	_	_	_	Gloss=punct
 17	??	??	?	_	_	_	_	_	Gloss=
 18	?	?	PUNCT	_	_	_	_	Gloss=punct
-19	'	'	?	_	_	_	_	_	Gloss='@'@Équivalent
-20	'	'	?	_	_	_	_	_	Gloss=standardisé'@'@
-21	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
-22	de	de	?	_	_	_	_	_	Gloss=?
-23	l'	l'	?	_	_	_	_	_	Gloss=?
-24	Est'	Est'	?	_	_	_	_	_	Gloss=?
-25	'	'	?	_	_	_	_	_	Gloss=?
-26			PUNCT	_	_	_	_	Gloss=punct
+19	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=Équivalent
+20	de	de	?	_	_	_	_	_	Gloss=standardisé
+21	l'	l'	?	_	_	_	_	_	Gloss=?
+22	Est	Est	?	_	_	_	_	_	Gloss=?

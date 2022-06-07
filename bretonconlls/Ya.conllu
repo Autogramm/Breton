@@ -2,58 +2,61 @@
 # text = Oh ya, betek ma vez al labour a renke bezañ graet.
 # text_fr = 'Oh oui, tant qu'il y avait du travail à faire.'
 # location = Plouhinec
-1	Oh	interjection	?	_	_	_	_	_	Gloss=oh
+1	Oh	interjection	interjection	_	_	_	_	_	Gloss=oh
 2	ya	interjection	interjection	_	_	_	_	_	Gloss=oui
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	al	art	?	_	_	_	_	_	Gloss=le
+4	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	labour	labour	nom	_	_	_	_	_	Gloss=travail
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	renke	rankout	verbe	_	_	_	_	_	Gloss=devait
-11	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-12	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+11	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+12	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2007:4)__1
 # text = Yey, setu unan eus e zeizioù mat...
 # text_fr = 'Ouais, il est dans un de ses bons jours... '
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
-1	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	unan	cardinal	pronom-quantifieur	_	_	_	_	_	Gloss=un
-3	eus	eus	?	_	_	_	_	_	Gloss=de
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	zeizioù	deiz.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=jour.s
-6	mat..	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+1	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	unan	cardinal	quantifieur|adjectif	_	_	_	_	_	Gloss=un
+3	eus	eus	préposition	_	_	_	_	_	Gloss=de
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	zeizioù	deiz.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=jour.s
+6	mat..	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2007:8)__1
 # text = Yey, atav vez tud chañsus...
 # text_fr = 'Ouais, Yen a toujours qu'ont de la chance ... '
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
 1	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	tud	tud	nom	_	_	_	_	_	Gloss=gens
-4	chañsus..	chañs.-us	nom.?	_	_	_	_	_	Gloss=chanc.eux
+4	chañsus..	chañs.-us	nom.suffixe|adjectif	_	_	_	_	_	Gloss=chanc.eux
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:61)__1
 # text = Ya da, Aotrounez kelaouennerien, a-drugarez din eo bet kavet an dalc'h !
 # text_fr = 'Oui, messieurs les journalistes, c'est grâce à moi que le pot aux roses a été découvert.'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	Ya	Ya	interjection	_	_	_	_	_	Gloss=oui
-2	Aotrounez	aotrou.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=monsieur.s
+2	Aotrounez	aotrou.-e(z)_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=monsieur.s
 3	kelaouennerien	kelaouenn.-erien	nom.?	_	_	_	_	_	Gloss=journal.istes
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	a-drugarez	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
-6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	a-drugarez	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+6	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
 8	bet	bet	?	_	_	_	_	_	Gloss=été
-9	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-10	an	art	?	_	_	_	_	_	Gloss=le
+9	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	dalc'h	dalc'h	?	_	_	_	_	_	Gloss=hameçon
 12	!	!	PUNCT	_	_	_	_	Gloss=punct

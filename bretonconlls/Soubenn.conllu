@@ -1,14 +1,16 @@
 # sent_id = Gros(1984:373)__1
 # text = Pa vo daoulammet ar zoubenn ne vo ket mad.
 # text_fr = 'Quand on fait bouillir le pot-au-feu à gros bouillons il n’est pas bon.'
-# source = Gros (1984)
-1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vo	COP	?	_	_	_	_	_	Gloss=sera
-3	daoulammet	daoulammet.lammat.-et(Adj.)	?.?.?	_	_	_	_	_	Gloss=daou-.saut.é
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	vo	COP	?	_	_	_	_	_	Gloss=sera
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+3	daoulammet	daoulammet.lammat.-et_(Adj.)	?.verbe.verbe|suffixe	_	_	_	_	_	Gloss=daou-.saut.é
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+7	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Skragn(2002:60)__1
@@ -17,8 +19,8 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	eur	art	nom	_	_	_	_	_	Gloss=un
-2	banne	banne	?	_	_	_	_	_	Gloss=verre
+1	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	banne	banne	quantifieur	_	_	_	_	_	Gloss=verre
 3	zoubenn	zoubenn	?	_	_	_	_	_	Gloss=1
 
 # sent_id = Kervella(2009:37)__1
@@ -27,8 +29,8 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	banne	banne	?	_	_	_	_	_	Gloss=contenant
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	banne	banne	quantifieur	_	_	_	_	_	Gloss=contenant
 3	soubenn	soubenn	nom	_	_	_	_	_	Gloss=1
-4	domm	tomm	adjectif	_	_	_	_	_	Gloss=chaud|Morph=1
+4	domm	tomm	adjectif	_	_	_	_	_	Gloss=chaud|Mutation=target|MutationNUM=1
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

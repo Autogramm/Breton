@@ -5,28 +5,30 @@
 # source = Miossec (1980)
 # texttype = Références de corpus
 1	Famill	familh	nom	_	_	_	_	_	Gloss=famille
-2	homañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	homañ	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	gendalh	gendalh	?	_	_	_	_	_	Gloss=continue
 5	d'	da	préposition	_	_	_	_	_	Gloss=de
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	galleg	galleg	nom	_	_	_	_	_	Gloss=français
-8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-11	all	all	?	_	_	_	_	_	Gloss=autre
-12	endro	endro	?	_	_	_	_	_	Gloss=autour
-13	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.elle
+8	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+11	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+12	endro	endro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=autour
+13	dezi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.elle
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§384)__1
 # text = Ken skuizh e oa ne helle ket kenderhel.
 # text_fr = 'Il était si fatigué qu'il ne pouvait pas continuer.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 5	helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	kenderhel	kenderhel	?	_	_	_	_	_	Gloss=continuer

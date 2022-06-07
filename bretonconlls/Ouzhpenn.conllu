@@ -4,16 +4,16 @@
 # location = Pleyben
 # source = Ar Go (1950)
 # texttype = Références de corpus
-1	Hogen	hogen	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=mais
-2	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=sur-tête
-3	eun	art	?	_	_	_	_	_	Gloss=un
+1	Hogen	hogen	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=mais
+2	ouzhpenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=sur-tête
+3	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	dastumer	dastum.-er	verbe.?	_	_	_	_	_	Gloss=collect.eur
-5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+5	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
 6	aozer	aozañ.-er	verbe.?	_	_	_	_	_	Gloss=créat.eur
 7	marvailhou	marvailh.-où	nom.?	_	_	_	_	_	Gloss=conte.s
-8	e	COP	?	_	_	_	_	_	Gloss=était
+8	e	COP	verbe	_	_	_	_	_	Gloss=était
 9	oa	oa	?	_	_	_	_	_	Gloss=?
-10	Yann	Yann	?	_	_	_	_	_	Gloss=[[nompropre|Yann
+10	Yann	Yann	?	_	_	_	_	_	Gloss=[[nom_propre|Yann
 11	ar	ar	?	_	_	_	_	_	Gloss=ar
 12	Floc'h	Floc'h	?	_	_	_	_	_	Gloss=Flocxxxh]]
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -21,26 +21,32 @@
 # sent_id = Gros(1984:176,263)__1
 # text = Bremañ ne guz ket an heol da hweh eur: ouspennig e vez.
 # text_fr = 'Maintenant le soleil ne se couche pas à six heures: il est un peu plus (de 6h).'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	guz	kuzhat	verbe	_	_	_	_	_	Gloss=cache
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	heol	heol	nom	_	_	_	_	_	Gloss=soleil
-7	ouspennig	ouspennig	?	_	_	_	_	_	Gloss=DIM
-8	e	e	?	_	_	_	_	_	Gloss=R
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	.	.	PUNCT	_	_	_	_	Gloss=punct
+7	da	da	préposition	_	_	_	_	_	Gloss=à
+8	hweh	hweh	?	_	_	_	_	_	Gloss=[[les_numéraux
+9	eur:	eur	nom	_	_	_	_	_	Gloss=heure
+10	ouspennig	ouspennig	?	_	_	_	_	_	Gloss=DIM
+11	e	e	verbe	_	_	_	_	_	Gloss=R
+12	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Standard, Brezhoneg #2, p.14__1
+# sent_id = Standard,Brezhoneg#2,p.14__1
 # text = Ouzhpenn tud torr-penn zo amañ !
 # text_fr = 'Il n'y a pas que des gens pénibles ici !'
-1	Ouzhpenn	Ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=Estreget
+# source = Gros (1974)
+1	Ouzhpenn	Ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=Estreget
 2	tud	tud	nom	_	_	_	_	_	Gloss=tud
 3	torr-penn	torr-penn	?	_	_	_	_	_	Gloss=torr-penn
 4	zo	zo	?	_	_	_	_	_	Gloss=zo
-5	amañ	amañ	?	_	_	_	_	_	Gloss=amañ
+5	amañ	amañ	adverbe	_	_	_	_	_	Gloss=amañ
 6			?	_	_	_	_	_	Gloss=!
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -49,14 +55,14 @@
 # text_fr = 'D'autres que moi y ont été.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Ouzhpenn	Ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Ouzhpenn	Ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=plus
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 3	'	zo	?	_	_	_	_	_	Gloss=est
 4	zo	mont	verbe	_	_	_	_	_	Gloss=été
 5	bet.	bet.	?	_	_	_	_	_	Gloss=?
 6	/	/	?	_	_	_	_	_	Gloss=/
-7	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-8	evidon	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.moi
+7	ouzhpenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=plus
+8	evidon	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.moi
 9	'	zo	?	_	_	_	_	_	Gloss=est
 10	zo	mont	verbe	_	_	_	_	_	Gloss=été
 11	bet.	bet.	?	_	_	_	_	_	Gloss=?
@@ -64,16 +70,20 @@
 # sent_id = Gourmelon(2014:35)__1
 # text = Gallout a ra sammañ ouzhpenn daou c'hant livr war e gein.
 # text_fr = 'Il peut porter plus de deux cent livres sur son dos.'
-# source = Gourmelon (2014)
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
 1	Gallout	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	sammañ	sammañ	verbe	_	_	_	_	_	Gloss=charger
-5	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=au.delà
-6	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-8	gein	kein	nom	_	_	_	_	_	Gloss=dos
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
+5	ouzhpenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=au.delà
+6	daou	daou	?	_	_	_	_	_	Gloss=[[les_numéraux
+7	c'hant	c'hant	?	_	_	_	_	_	Gloss=cardinaux|deux
+8	livr	livr	?	_	_	_	_	_	Gloss=cent]]livre
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+11	gein	kein	nom	_	_	_	_	_	Gloss=dos
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:31)__1
 # text = ... Bout a oa unan er-walc'h hag a vehe bet oc'hpenn kontant da chomel...
@@ -81,14 +91,14 @@
 # source = ar Meliner (2009)
 1	..	..	?	_	_	_	_	_	Gloss=
 2	.	.	PUNCT	_	_	_	_	Gloss=punct
-3	Bout	Bez	?	_	_	_	_	_	Gloss=expl
+3	Bout	Bez	verbe|auxiliaire	_	_	_	_	_	Gloss=expl
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=unan
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=unan
 7	er-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
-8	hag	&	?	_	_	_	_	_	Gloss=et
+8	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	a	a	préposition	_	_	_	_	_	Gloss=R
-10	vehe	COP	?	_	_	_	_	_	Gloss=serait
+10	vehe	COP	verbe	_	_	_	_	_	Gloss=serait
 11	bet	bet	?	_	_	_	_	_	Gloss=été
 12	oc'hpenn	oc'hpenn	?	_	_	_	_	_	Gloss=plus
 13	kontant	kontant	adjectif	_	_	_	_	_	Gloss=content
@@ -99,36 +109,43 @@
 # sent_id = Trépos(2001:§346)__4
 # text = Ouzhpenn dezo beza hep arhant
 # text_fr = '... outre qu'ils sont sans argent'
-# source = Trépos (2001)
-1	Ouzhpenn	Ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
-2	dezo	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
-3	beza	beza	?	_	_	_	_	_	Gloss=être
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	Ouzhpenn	Ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=en.plus
+2	dezo	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+3	beza	beza	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4	hep	hep	préposition	_	_	_	_	_	Gloss=sans
 5	arhant	arc'hant	?	_	_	_	_	_	Gloss=argent
 
 # sent_id = Press(2010:458)__1
 # text = ouzhpenn ma oa skuizh
 # text_fr = 'outre qu'il était fatigué'
+# dialect = Standard
 # source = Press (2010)
 # texttype = Ouvrages de recherche
-1	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
+1	ouzhpenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=en.plus
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
 
 # sent_id = LeClerc(1910:95)__1
 # text = Daouzek vla ha tri-ugent ec'h ê, ha ne rofe ket an nen d'ean ouspenn tri-ugent.
 # text_fr = 'Il a soixante douze ans, et on ne lui en donnerait pas plus de soixante.'
-# source = Le Clerc (1910)
-1	ec'h	ec'h	?	_	_	_	_	_	Gloss=R|Morph=4
-2	ê	COP	?	_	_	_	_	_	Gloss=est
-3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	ne	ne	?	_	_	_	_	_	Gloss=ne
-6	rofe	rein	?	_	_	_	_	_	Gloss=donnerait
-7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	an	IMP	?	_	_	_	_	_	Gloss=on
-9	nen	nen	?	_	_	_	_	_	Gloss=?
-10	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-11	ean	ean	?	_	_	_	_	_	Gloss=?
-12	ouspenn	ouspenn	?	_	_	_	_	_	Gloss=au.delà
+# dialect = Trégorrois
+# source = Le Clerc (1910a)
+# texttype = Références de corpus
+1	Daouzek	Daouzek	?	_	_	_	_	_	Gloss=[[les_numéraux
+2	vla	bloaz	nom	_	_	_	_	_	Gloss=an
+3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	ê	COP	verbe	_	_	_	_	_	Gloss=est
+5	,	,	PUNCT	_	_	_	_	Gloss=punct
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+8	rofe	rein	verbe	_	_	_	_	_	Gloss=donnerait
+9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+10	an	IMP	pronom	_	_	_	_	_	Gloss=on
+11	nen	nen	?	_	_	_	_	_	Gloss=?
+12	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+13	ean	ean	?	_	_	_	_	_	Gloss=?
+14	ouspenn	ouspenn	?	_	_	_	_	_	Gloss=au.delà

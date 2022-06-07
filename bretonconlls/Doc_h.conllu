@@ -2,13 +2,13 @@
 # text = Met ne selle ket-eñ doc'h ar re-se.
 # text_fr = 'Mais lui ne les regardait pas.'
 # source = ar Meliner (2009)
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	selle	sellout	verbe	_	_	_	_	_	Gloss=regardait
 4	ket-eñ	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	doc'h	doc'h	?	_	_	_	_	_	Gloss=à
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	re-se	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:69)__1
@@ -17,27 +17,28 @@
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
-1	Lareit	laerañ	?	_	_	_	_	_	Gloss=volé
-2	e	kaout	?	_	_	_	_	_	Gloss=avez
+1	Lareit	laerañ	verbe	_	_	_	_	_	Gloss=volé
+2	e	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	huès	huès	?	_	_	_	_	_	Gloss=?
-4	toheign	pronomincorporé	?	_	_	_	_	_	Gloss=moi
-5	er	art	?	_	_	_	_	_	Gloss=le
+4	toheign	pronom_incorporé	?	_	_	_	_	_	Gloss=moi
+5	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	guellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=meilleur
 7	a	a	préposition	_	_	_	_	_	Gloss=de
-8	mem	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	mem	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	buhé	buhez	nom	_	_	_	_	_	Gloss=vie
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:14)__1
+# sent_id = Nicolas(2005:14)__1
 # text = An dachenn tostañ-ha-rac'h doc'homp 'oa ar Glever.
 # text_fr = 'La parcelle la plus proche de nous, c'était Le Glever.'
-# text_phon = ['[ ən daʃɛn', 'toʃtã ha raχ', 'doχɔm', 'we ər gləɥɛr ]']
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dachenn	tachenn	nom	_	_	_	_	_	Gloss=parcelle|Morph=1
-3	doc'homp	pronomincorporé	?	_	_	_	_	_	Gloss=nous
-4	'	COP	?	_	_	_	_	_	Gloss=était
-5	oa	art	?	_	_	_	_	_	Gloss=le
-6	ar	nompropre	?	_	_	_	_	_	Gloss=Glever
+# text_phon =  ən daʃɛn toʃtã ha raχ doχɔm we ər gləɥɛr  
+# source = Le Bayon (1878)
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dachenn	tachenn	nom	_	_	_	_	_	Gloss=parcelle|Mutation=target|MutationNUM=1
+3	doc'homp	pronom_incorporé	?	_	_	_	_	_	Gloss=nous
+4	'	COP	verbe	_	_	_	_	_	Gloss=était
+5	oa	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	ar	nom_propre	?	_	_	_	_	_	Gloss=Glever
 7	Glever.	Glever.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = ArBorgn(2011:34)__1
@@ -46,9 +47,9 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Yenaet	yen.-aat	adjectif.verbe	_	_	_	_	_	Gloss=froid.i
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	doc'hin	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+1	Yenaet	yen.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=froid.i
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	doc'hin	pronom_incorporé	?	_	_	_	_	_	Gloss=moi
 4	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -58,11 +59,11 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	c'hoef-mañ	koef	nom	_	_	_	_	_	Gloss=coiffe]]-[[DEM|ci|Morph=5
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'hoef-mañ	koef	nom	_	_	_	_	_	Gloss=coiffe]]-[[DEM|ci|Mutation=target|MutationNUM=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	goucha	goucha	?	_	_	_	_	_	Gloss=convient
-5	doc'hoc'h	pronomincorporé	?	_	_	_	_	_	Gloss=vous
+5	doc'hoc'h	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:198)__1
@@ -71,25 +72,26 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	aesay	aesay	?	_	_	_	_	_	Gloss=guérira
 4	doc’h	doc’h	?	_	_	_	_	_	Gloss=de
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	grip	grip	?	_	_	_	_	_	Gloss=grippe
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'ispilh')__1
 # text = Darbedig eo bet dei chom doh an ispilh.
 # text_fr = 'Elle a failli ne pas trouver à se marier.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Darbedig	darbet.Darbedig	?.?	_	_	_	_	_	Gloss=failli.DIM
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	dei	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+4	dei	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 5	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 6	doh	doh	?	_	_	_	_	_	Gloss=à
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	ispilh	ispilh	?	_	_	_	_	_	Gloss=crochet.de.suspension
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -99,22 +101,23 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/duX-ənty	art.tu	?.nom	_	_	_	_	_	Gloss=un.côté
-2	əral	all	?	_	_	_	_	_	Gloss=autre
+1	/duX-ənty	art.tu	déterminant|quantifieur.nom	_	_	_	_	_	Gloss=un.côté
+2	əral	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 3	/	/	PUNCT	_	_	_	_	Gloss=punct
 4			?	_	_	_	_	_	Gloss=
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	/duX-ərsã-saj	art	?	_	_	_	_	_	Gloss=le
+6	/duX-ərsã-saj	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	/	/	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:34)__1
+# sent_id = Nicolas(2005:34)__1
 # text = Komzit doc'htoñ Komzit doc'himp
 # text_fr = 'Parlez-moi, parlez-nous.'
-# text_phon = ['[ kõz_ə_', 'dohtõ', 'kõzətohɛm ]']
+# text_phon =  kõz_ə_ dohtõ kõzətohɛm  
+# source = Ternes (1970)
 1	Komzit	komz	verbe	_	_	_	_	_	Gloss=parlez
-2	doc'htoñ	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+2	doc'htoñ	pronom_incorporé	?	_	_	_	_	_	Gloss=moi
 3	Komzit	komz	verbe	_	_	_	_	_	Gloss=parlez
-4	doc'himp	pronomincorporé	?	_	_	_	_	_	Gloss=nous
+4	doc'himp	pronom_incorporé	?	_	_	_	_	_	Gloss=nous
 
 # sent_id = Solliec(2015:75)__1
 # text = en-istribilh doc'h ar skeul.
@@ -122,7 +125,7 @@
 # source = Solliec (2015)
 # texttype = Ouvrages de recherche
 1	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	skeul	skeul	nom	_	_	_	_	_	Gloss=échelle
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -133,14 +136,14 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	eman	?	_	_	_	_	_	Gloss=suis
+1	'	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
 2	Maon	Maon	?	_	_	_	_	_	Gloss=?
-3	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	'	particule_o	?	_	_	_	_	_	Gloss=à
 4			PUNCT	_	_	_	_	Gloss=punct
 5	tont	tont	?	_	_	_	_	_	Gloss=?
 6	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
-7	netaat	naet.-aat	adjectif.verbe	_	_	_	_	_	Gloss=nett.oyer
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	netaat	naet.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=nett.oyer
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	ti	ti	nom	_	_	_	_	_	Gloss=maison
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -151,7 +154,7 @@
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
 1	/bujardew	/bujardew	?	_	_	_	_	_	Gloss=grains
-2	duX-ərulern	art	?	_	_	_	_	_	Gloss=le
+2	duX-ərulern	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	/	/	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:320)__1
@@ -160,12 +163,12 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/Xawa	pfi.COP	?.?	_	_	_	_	_	Gloss=eux.était
+1	/Xawa	pfi.COP	pronom.verbe	_	_	_	_	_	Gloss=eux.était
 2	pel	pell	adjectif	_	_	_	_	_	Gloss=loin
-3	duX-uzyt	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+3	duX-uzyt	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 4	/	/	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzeg(1986:II)__2
+# sent_id = Bouzeg(1986:II)__3
 # text = Doc'h pep troad n'eo ket mat pep botez.
 # text_fr = 'Toute chaussure n'est pas bonne à tout pied.'
 # dialect = Cornouaillais
@@ -176,9 +179,9 @@
 2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 3	troad	troad	nom	_	_	_	_	_	Gloss=pied
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+7	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 8	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 9	botez	botez	nom	_	_	_	_	_	Gloss=chaussure
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -186,15 +189,16 @@
 # sent_id = LeGall(1958:'pluenn')__1
 # text = Nijet ez eus kuit eur bluenn doh e askell.
 # text_fr = 'Une plume s'est envolée de son aile.'
-# source = Le Gall (1958)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Nijet	nijal	verbe	_	_	_	_	_	Gloss=volé
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-5	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un|Mutation=trigger|MutationNUM=1
 6	bluenn	pluenn	nom	_	_	_	_	_	Gloss=plume
 7	doh	doh	?	_	_	_	_	_	Gloss=de
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	askell	askell	nom	_	_	_	_	_	Gloss=aile
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -204,11 +208,11 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	ouia	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-5	doc'htoñ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+4	ouia	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
+5	doc'htoñ	pronom_incorporé	?	_	_	_	_	_	Gloss=lui
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:26)__1
@@ -219,10 +223,10 @@
 # texttype = Ouvrages de recherche
 1	skoaz-doc'h-skoaz	skoaz	nom	_	_	_	_	_	Gloss=épaule
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	par-doc'h-par	par	préposition-nom	_	_	_	_	_	Gloss=égal
+3	par-doc'h-par	par	préposition|nom	_	_	_	_	_	Gloss=égal
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	àr	war-lerc'h	?	_	_	_	_	_	Gloss=après
-6	lerc'h	pfi	?	_	_	_	_	_	Gloss=vous
+6	lerc'h	pfi	pronom	_	_	_	_	_	Gloss=vous
 7	c'hwi	choaz	verbe	_	_	_	_	_	Gloss=choisirez
 8	'	'	?	_	_	_	_	_	Gloss=?
 9	choajo.	choajo.	?	_	_	_	_	_	Gloss=?
@@ -233,26 +237,27 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/duX-əndon	art	?	_	_	_	_	_	Gloss=le
+1	/duX-əndon	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	əwaj	əwaj	?	_	_	_	_	_	Gloss=R
-3	/	COP	?	_	_	_	_	_	Gloss=était
+3	/	COP	verbe	_	_	_	_	_	Gloss=était
 
 # sent_id = LeGall(1957:'mannouz')__1
 # text = Eur vannouzenn a zo doh e veg gwasoh evid doh rêr eur pimoh !
 # text_fr = 'Il a des salissures à la bouche pire qu'au cul d'un cochon !'
-# source = Le Gall (1957)
-1	Eur	art	nom	_	_	_	_	_	Gloss=un
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	vannouzenn	vannouzenn	?	_	_	_	_	_	Gloss=souillure
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	doh	doh	?	_	_	_	_	_	Gloss=à
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 7	veg	beg	nom	_	_	_	_	_	Gloss=bouche
 8	gwasoh	gwasoc'h	?	_	_	_	_	_	Gloss=pire
-9	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+9	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
 10	doh	doh	?	_	_	_	_	_	Gloss=à
 11	rêr	revr	nom	_	_	_	_	_	Gloss=cul
-12	eur	art	nom	_	_	_	_	_	Gloss=un
+12	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 13	pimoh	pemoc'h	?	_	_	_	_	_	Gloss=cochon
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -260,17 +265,17 @@
 # text = Ma ferson a lâre din tuchantik, a pa oa doc'h man deveriñ...
 # text_fr = 'Mon recteur me disait tout à l'heure, quand il me donnait l'extrême onction... '
 # source = ar Meliner (2009)
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	ferson	person	nom	_	_	_	_	_	Gloss=recteur
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	lâre	lavarout	verbe	_	_	_	_	_	Gloss=disait
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 6	tuchantik	tuchant.tuchantik	adverbe.?	_	_	_	_	_	Gloss=tout.à.l'@heure.DIM
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	a	hapa	préposition	_	_	_	_	_	Gloss=quand
+8	a	ha_pa	préposition	_	_	_	_	_	Gloss=quand
 9	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
-10	oa	COP	?	_	_	_	_	_	Gloss=était
-11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-12	man	POP	?	_	_	_	_	_	Gloss=me
+10	oa	COP	verbe	_	_	_	_	_	Gloss=était
+11	doc'h	particule_o	?	_	_	_	_	_	Gloss=à
+12	man	POP	pronom	_	_	_	_	_	Gloss=me
 13	deveriñ..	deveriñ..	?	_	_	_	_	_	Gloss=V
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

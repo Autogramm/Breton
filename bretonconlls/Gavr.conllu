@@ -4,17 +4,17 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Bezo	COP	?	_	_	_	_	_	Gloss=sera
+1	Bezo	COP	verbe	_	_	_	_	_	Gloss=sera
 2	du	du	adjectif	_	_	_	_	_	Gloss=noir
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	bezo	COP	?	_	_	_	_	_	Gloss=sera
+4	bezo	COP	verbe	_	_	_	_	_	Gloss=sera
 5	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 8	gavr	gavr	nom	_	_	_	_	_	Gloss=chèvre
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	gar	karout	verbe	_	_	_	_	_	Gloss=aime
-11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 12	menn	menn	nom	_	_	_	_	_	Gloss=chevreau
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,11 +25,11 @@
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
 1	Kaor	Kaor	?	_	_	_	_	_	Gloss=chèvre
-2	Morwena	nompropre	?	_	_	_	_	_	Gloss=Morwena
+2	Morwena	nom_propre	?	_	_	_	_	_	Gloss=Morwena
 3	dioustu	diouzhtu	adverbe	_	_	_	_	_	Gloss=soudain
-4	nun	P.e.art	?.?	_	_	_	_	_	Gloss=en.un
+4	nun	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.un
 5	piouff	onomatopée	?	_	_	_	_	_	Gloss=piouff
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	zo	zo	?	_	_	_	_	_	Gloss=est
-8	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+8	kollet	koll.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=perd.u
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

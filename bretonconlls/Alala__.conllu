@@ -1,13 +1,14 @@
 # sent_id = Monfort(2006:15)__1
 # text = Alala ! Pell e c'hell padout...
 # text_fr = 'Ahlala ! Ça peut durer... '
+# dialect = Standard
 # source = Monfort (2006)
 # texttype = Références de corpus
 1	Alala	Alala	?	_	_	_	_	_	Gloss=Ahlala
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Pell	pell	adjectif	_	_	_	_	_	Gloss=loin
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
 7	padout..	padout	verbe	_	_	_	_	_	Gloss=durer
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

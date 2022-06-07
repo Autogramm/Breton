@@ -1,20 +1,22 @@
 # sent_id = Gros(1984:398)__1
 # text = Pa vez hejet ar voutaill e vez klevet al liou o trouzillal enni.
 # text_fr = 'Quand on secoue la bouteille, on entend l'encre y bruisser.'
-# source = Gros (1984)
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
 3	hejet	hejañ	verbe	_	_	_	_	_	Gloss=secoué
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	voutaill	voutaill	?	_	_	_	_	_	Gloss=1
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
-9	al	art	?	_	_	_	_	_	Gloss=le
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
+9	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	liou	liv	nom	_	_	_	_	_	Gloss=encre
-11	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-12	trouzillal	trouz.-ilh.-al	nom.nom.?	_	_	_	_	_	Gloss=bruit.N.er
-13	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+11	o	particule_o	?	_	_	_	_	_	Gloss=à
+12	trouzillal	trouz.-ilh.-al	nom.suffixe|nom.verbe|suffixe	_	_	_	_	_	Gloss=bruit.N.er
+13	enni	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.elle
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:66)__2
@@ -24,10 +26,10 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Waet	mont	verbe	_	_	_	_	_	Gloss=allé
-2	'	COP	?	_	_	_	_	_	Gloss=était
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
-4	geton	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	voutailhad	voutailhad.-ad	?.?	_	_	_	_	_	Gloss=1.ée
+4	geton	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	voutailhad	voutailhad.-ad	?.suffixe|nom	_	_	_	_	_	Gloss=1.ée
 7	a-grenn	a-grenn	adverbe	_	_	_	_	_	Gloss=en.entier
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

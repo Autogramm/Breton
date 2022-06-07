@@ -4,14 +4,14 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Al	art	?	_	_	_	_	_	Gloss=le
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	leue	leue	nom	_	_	_	_	_	Gloss=veau
-3	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+3	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	zenañ	zenañ	?	_	_	_	_	_	Gloss=téter
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	vamm	mamm	nom	_	_	_	_	_	Gloss=mère
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

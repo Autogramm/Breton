@@ -1,68 +1,72 @@
 # sent_id = LeSaëc(1990:11)__1
 # text = Muioc'h e vo evit ar re all !
 # text_fr = 'Ça en fera plus pour les autres !'
+# dialect = Standard
 # source = Le Saëc (1990)
 # texttype = Références de corpus
 1	Muioc'h	Muioc'h	?	_	_	_	_	_	Gloss=plus
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
-4	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-7	all	all	?	_	_	_	_	_	Gloss=autre
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+4	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+7	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:135)__1
 # text = A pa oa predet, holl an dud o doa em stardet muioc'h c'hoazh trema an oaled...
 # text_fr = 'Après le repas, tout le monde se rapprocha encore plus du foyer... '
-# source = Ar Meliner (2009)
-1	A	&	préposition	_	_	_	_	_	Gloss=et
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	A	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
-3	oa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-4	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-7	o	kaout	?	_	_	_	_	_	Gloss=avaient
+3	oa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+4	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+7	o	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avaient
 8	doa	doa	?	_	_	_	_	_	Gloss=?
-9	em	pronomréfléchi	?	_	_	_	_	_	Gloss=se
-10	stardet	stardañ	?	_	_	_	_	_	Gloss=rapproché
+9	em	pronom_réfléchi	?	_	_	_	_	_	Gloss=se
+10	stardet	stardet	?	_	_	_	_	_	Gloss=?
 11	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 12	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
-13	trema	trema	?	_	_	_	_	_	Gloss=vers
-14	an	art	?	_	_	_	_	_	Gloss=le
+13	trema	trema	préposition	_	_	_	_	_	Gloss=vers
+14	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	oaled..	oaled	nom	_	_	_	_	_	Gloss=foyer
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Chalm(2008:R.2.4)__1
 # text = Setu un oberenn a blij din muioc'h eget nep hini all.
 # text_fr = 'Voici une œuvre qui me plait plus qu'aucune autre.'
+# dialect = Standard
 # source = Chalm (2008)
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	un	art	?	_	_	_	_	_	Gloss=un
-3	oberenn	ober.-enn	verbe-auxiliaire.nom	_	_	_	_	_	Gloss=œuvr.e
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+3	oberenn	ober.-enn	verbe|auxiliaire.suffixe|nom	_	_	_	_	_	Gloss=œuvr.e
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
-6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 7	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 8	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-9	nep	nepX	quantifieur-déterminant	_	_	_	_	_	Gloss=aucun
-10	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
-11	all	all	?	_	_	_	_	_	Gloss=autre
+9	nep	nep_X	déterminant|quantifieur	_	_	_	_	_	Gloss=aucun
+10	hini	hini	pronom|nom	_	_	_	_	_	Gloss=N
+11	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = BuhezarZent,[http://marikavel.fr/documents/buhez-ar-zent/baz-232.htmp.236]__1
 # text = Goest omp d'ober muioc'h a vad eget ne zonjomp.
 # text_fr = 'Nous sommes capables de faire plus de bien que nous (ne) le pensons.'
+# source = Chalm (2008)
 1	Goest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-2	omp	COP	?	_	_	_	_	_	Gloss=sommes
-3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 5	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	a	a	préposition	_	_	_	_	_	Gloss=P|Morph=1
-7	vad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	a	a	préposition	_	_	_	_	_	Gloss=P|Mutation=trigger|MutationNUM=1
+7	vad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 8	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-10	zonjomp	sonjal	?	_	_	_	_	_	Gloss=pensons
+9	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+10	zonjomp	sonjal	verbe	_	_	_	_	_	Gloss=pensons
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:31)__2
@@ -72,23 +76,24 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Bet	bet	?	_	_	_	_	_	Gloss=eu
-2	'	kaout	?	_	_	_	_	_	Gloss=a
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	neus	neus	?	_	_	_	_	_	Gloss=?
-4	bet	kaout	?	_	_	_	_	_	Gloss=eu
+4	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
 5	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	e'	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.moi
+6	e'	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.moi
 7	idin.	idin.	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Nicolas (2005:18)__1
+# sent_id = Nicolas(2005:18)__1
 # text = E vreur 'deus muioc'h a daol evitoñ.
 # text_fr = 'Son frère a plus le coup pour travailler.'
-# text_phon = ['[ i', 'vrør', 'dɛ', 'myɔh a', 'dawl', 'awɛtõ ]']
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+# text_phon =  i vrør dɛ myɔh a dawl awɛtõ  
+# source = Ar Borgn (2011)
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	vreur	breur	nom	_	_	_	_	_	Gloss=frère
-3	'	kaout	?	_	_	_	_	_	Gloss=a
-4	deus	deus	?	_	_	_	_	_	Gloss=?
+3	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	deus	deus	préposition	_	_	_	_	_	Gloss=?
 5	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	daol	taol(M.)	?	_	_	_	_	_	Gloss=coup
-8	evitoñ	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.lui
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	daol	taol_(M.)	?	_	_	_	_	_	Gloss=coup
+8	evitoñ	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

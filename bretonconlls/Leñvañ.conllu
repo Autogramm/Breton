@@ -3,21 +3,21 @@
 # text_fr = 'Et le grand-père de descendre en pleurant son fils, son petit Yeun... '
 # location = Pleyben
 # source = Ar Floch (1950)
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	an	art	?	_	_	_	_	_	Gloss=le
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	tad-koz	tad	nom	_	_	_	_	_	Gloss=père
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	ziskenn	diskenn	verbe	_	_	_	_	_	Gloss=descendre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	o	particule_o	?	_	_	_	_	_	Gloss=à
 8	leñva	leñva	?	_	_	_	_	_	Gloss=pleurer
 9	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
 10	d'	da	préposition	_	_	_	_	_	Gloss=de
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	vab	mab	nom	_	_	_	_	_	Gloss=fils
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	d'	da	préposition	_	_	_	_	_	Gloss=de
-15	e	POSS	?	_	_	_	_	_	Gloss=son
+15	e	POSS	déterminant	_	_	_	_	_	Gloss=son
 16	Yeunig..	Yeunig..	?	_	_	_	_	_	Gloss=DIM
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -27,7 +27,7 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/pənošt	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=pourquoi
-2	ə	ə	?	_	_	_	_	_	Gloss=R|Morph=4
+1	/pənošt	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=pourquoi
+2	ə	ə	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	leiẃes	leiẃes	?	_	_	_	_	_	Gloss=pleures
 4	/	/	PUNCT	_	_	_	_	Gloss=punct

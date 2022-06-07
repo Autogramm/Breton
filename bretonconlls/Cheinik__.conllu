@@ -4,15 +4,15 @@
 # dialect = Cornouaillais
 # source = Martin (1929)
 # texttype = Références de corpus
-1	Cheinik	Cheinik	?	_	_	_	_	_	Gloss=!
+1	Cheinik	Cheinik	interjection	_	_	_	_	_	Gloss=!
 2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	hema	DEM	?	_	_	_	_	_	Gloss=celui.ci
+4	hema	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	eun	art	?	_	_	_	_	_	Gloss=un
+6	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 8	tra	tra	nom	_	_	_	_	_	Gloss=chose
-9	goalldra	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+9	goalldra	gwall-	adverbe|nom	_	_	_	_	_	Gloss=mauvais|Mutation=trigger|MutationNUM=1
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornouaillais(1911),Menard&Bihan(2016-)__1
@@ -20,12 +20,12 @@
 # text_fr = 'Oh ! la ! la ! dit Jean Pensec, écoute donc François Cozic.'
 # source = Menard & Bihan (2016-)
 # texttype = Ouvrages de recherche
-1	Cheinik	Cheinik	?	_	_	_	_	_	Gloss=!
+1	Cheinik	Cheinik	interjection	_	_	_	_	_	Gloss=!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	lar	lavar	nom	_	_	_	_	_	Gloss=dit
-4	Ian	Ian	?	_	_	_	_	_	Gloss=[[nompropre|Jean
+4	Ian	Ian	?	_	_	_	_	_	Gloss=[[nom_propre|Jean
 5	Pensek	Pensek	?	_	_	_	_	_	Gloss=Pensec]]
 6	chilaou	selaou	verbe	_	_	_	_	_	Gloss=écoute
-7	ta	eta	?	_	_	_	_	_	Gloss=donc
-8	Fanch	Fanch	?	_	_	_	_	_	Gloss=[[nompropre|François
+7	ta	eta	conjonction	_	_	_	_	_	Gloss=donc
+8	Fanch	Fanch	?	_	_	_	_	_	Gloss=[[nom_propre|François
 9	Kouik	Kouik	?	_	_	_	_	_	Gloss=Cozic]]

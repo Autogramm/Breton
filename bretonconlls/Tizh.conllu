@@ -3,14 +3,14 @@
 # text_fr = 'Et moi de m'en retourner à Brest en vitesse... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	adarre	adarre	adverbe	_	_	_	_	_	Gloss=de.retour
 3	ha	ha(g)	?	_	_	_	_	_	Gloss=et
-4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-5	Vrest	nompropre	?	_	_	_	_	_	Gloss=Brest
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+5	Vrest	nom_propre	?	_	_	_	_	_	Gloss=Brest
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	tizh	tizh	nom	_	_	_	_	_	Gloss=vitesse
-8	warnon..	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.moi
+8	warnon..	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.moi
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:60)__1
@@ -19,10 +19,10 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Kê	mont	verbe	_	_	_	_	_	Gloss=va
-2	timad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+2	timad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 3	war	war-eeun	préposition	_	_	_	_	_	Gloss=tout-droit
 4	eon	eon	?	_	_	_	_	_	Gloss=?
-5	beteg	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusque
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	beteg	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusque
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 7	di	ti	nom	_	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,24 +1,11 @@
-# sent_id = Stephens(1982:81)__1
-# text = Anezho a gavas Lenaig war an aod.
-# text_fr = 'Lenaig les a trouvés sur la grève.'
-# source = Stephens (1982)
-# texttype = Ouvrages de recherche
-1	Anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	gavas	kavout	verbe	_	_	_	_	_	Gloss=trouva
-4	Lenaig	nompropre	?	_	_	_	_	_	Gloss=Lenaig
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	aod.	aod.	?	_	_	_	_	_	Gloss=?
-
 # sent_id = Guéméné-sur-scorff,McKenna(1978)__1
 # text = Me hi helia ahanein.
 # text_fr = 'Mon chien me suit.'
 # dialect = Vannetais
 # source = McKenna (1978)
 # texttype = Ouvrages de recherche
-1	Me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Me	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	hi	ki	nom	_	_	_	_	_	Gloss=chien
 3	helia	heuliañ	verbe	_	_	_	_	_	Gloss=suit
-4	ahanein	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+4	ahanein	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

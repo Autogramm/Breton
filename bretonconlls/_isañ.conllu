@@ -1,9 +1,9 @@
-# sent_id =  Kazetenn ar Menez 1981, audio sur [http://brezhoneg-digor.blogspot.fr/2010/07/kleub-ba-plouie.html brezhoneg digor]__1
+# sent_id = KazetennarMenez1981,audiosur[http://brezhoneg-digor.blogspot.fr/2010/07/kleub-ba-plouie.htmlbrezhonegdigor]__1
 # text = evid 'n-om reünissañ.
 # text_fr = 'pour se réunir.'
 # source2 =  Haute-Cornouaille (Plouyé)
-1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-2	'	enem	?	_	_	_	_	_	Gloss=se
+1	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+2	'	en_em	?	_	_	_	_	_	Gloss=se
 3	n-om	n-om	?	_	_	_	_	_	Gloss=?
 4	reünissañ	reünissañ	?	_	_	_	_	_	Gloss=réunir
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -12,10 +12,10 @@
 # text = Ar mêr neus fournisset ar lokal.
 # text_fr = 'Le maire a fourni le local.'
 # location = Plouyé
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	mêr	mêr	?	_	_	_	_	_	Gloss=maire
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	fournisset	fournisset	?	_	_	_	_	_	Gloss=fournit
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	lokal	lokal	?	_	_	_	_	_	Gloss=local
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

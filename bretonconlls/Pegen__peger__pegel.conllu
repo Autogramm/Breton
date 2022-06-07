@@ -5,40 +5,41 @@
 # source = Guillevic & Le Goff (1902)
 # texttype = Ouvrages de recherche
 1	péker	péker	?	_	_	_	_	_	Gloss=combien
-2	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	é	COP	?	_	_	_	_	_	Gloss=est
+2	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	é	COP	verbe	_	_	_	_	_	Gloss=est
 4	ean	écho	?	_	_	_	_	_	Gloss=lui
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:12)__1
+# sent_id = Nicolas(2005:12)__1
 # text = Pegen kozh e oa ?
 # text_fr = 'Quel âge avait-il ?'
-# text_phon = ['[ pøgɛn', 'kòh', 'i wɛ Ɂ ]']
-1	Pegen	Pegen	?	_	_	_	_	_	Gloss=combien
+# text_phon =  pøgɛn kòh i wɛ Ɂ  
+# source = Guillevic & Le Goff (1902)
+1	Pegen	Pegen	complémenteur	_	_	_	_	_	Gloss=combien
 2	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Goyat(2012:127)__1
-# text = [pe'ɡɛn zod ]
+# text = pe'ɡɛn zod
 # text_fr = 'Comme (c’est) stupide !'
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	[pe'	[pe'	?	_	_	_	_	_	Gloss=Pegen
+1	pe'	pe'	complémenteur	_	_	_	_	_	Gloss=Pegen
 2	ɡɛn	ɡɛn	?	_	_	_	_	_	Gloss=?
-3	zod	zod	?	_	_	_	_	_	Gloss=zod
-4	]	]	?	_	_	_	_	_	Gloss=!
 
 # sent_id = Guillevic&LeGoff(1986:80)__1
 # text = na péger braù é ?
 # text_fr = 'Qu'il est beau!'
-# source = Guillevic & Le Goff (1986)
+# dialect = Vannetais
+# source = Guillevic & Le Goff (1902)
+# texttype = Ouvrages de recherche
 1	na	na(g)	complémenteur	_	_	_	_	_	Gloss=que
 2	péger	péger	?	_	_	_	_	_	Gloss=combien
-3	braù	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-4	é	COP	?	_	_	_	_	_	Gloss=est
+3	braù	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+4	é	COP	verbe	_	_	_	_	_	Gloss=est
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Skragn(2002:22)__2
@@ -47,42 +48,44 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	gand	gant	?	_	_	_	_	_	Gloss=avec
-5	daelou	daer	?	_	_	_	_	_	Gloss=larmes
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	e-noa	kaout	?	_	_	_	_	_	Gloss=avait
+4	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+5	daelou	daer	nom	_	_	_	_	_	Gloss=larmes
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	e-noa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 8	displeget	displegañ	?	_	_	_	_	_	Gloss=expliqué
-9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-10	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+9	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
 11	kriz	kriz	adjectif	_	_	_	_	_	Gloss=cruel
-12	e	e	?	_	_	_	_	_	Gloss=R
-13	oa	COP	?	_	_	_	_	_	Gloss=était
+12	e	e	verbe	_	_	_	_	_	Gloss=R
+13	oa	COP	verbe	_	_	_	_	_	Gloss=était
 14	bet	bet	?	_	_	_	_	_	Gloss=été
-15	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+15	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 16	blanedenn	blanedenn	?	_	_	_	_	_	Gloss=destin
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:295)__1
 # text = Eveshaet en deus ivez peger bihan eo niver ar soudarded, hag e komz diàr kement-se.
 # text_fr = 'Il a remarqué aussi le peu de soldats qu'il y avait, et en parle.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Eveshaet	evezh	nom	_	_	_	_	_	Gloss=attention
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-5	peger	peger	?	_	_	_	_	_	Gloss=combien
-6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	peger	peger	complémenteur	_	_	_	_	_	Gloss=combien
+6	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
 8	niver	niver	?	_	_	_	_	_	Gloss=nombre
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	soudarded	soudard.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=soldat.s
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	soudarded	soudard.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=soldat.s
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	hag	&	?	_	_	_	_	_	Gloss=et
-13	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+12	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+13	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 14	komz	komz	verbe	_	_	_	_	_	Gloss=parle
 15	diàr	diwar	préposition	_	_	_	_	_	Gloss=de
-16	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+16	kement-se	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

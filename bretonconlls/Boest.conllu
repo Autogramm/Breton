@@ -5,13 +5,13 @@
 # source = Croq (1908)
 # texttype = Références de corpus
 1	d'	da	préposition	_	_	_	_	_	Gloss=pour
-2	am	POP	?	_	_	_	_	_	Gloss=me
+2	am	POP	pronom	_	_	_	_	_	Gloss=me
 3	diwall	diwall	verbe	_	_	_	_	_	Gloss=surveiller
 4	ac'han	ac'hann	?	_	_	_	_	_	Gloss=jusqu.à
 5	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
-6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	eo	COP	verbe	_	_	_	_	_	Gloss=est
 7	bet	bet	?	_	_	_	_	_	Gloss=été
-8	digoret	digeriñ	?	_	_	_	_	_	Gloss=ouvert
-9	ar	art	?	_	_	_	_	_	Gloss=le
+8	digoret	digeriñ	verbe	_	_	_	_	_	Gloss=ouvert
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	voest	voest	?	_	_	_	_	_	Gloss=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

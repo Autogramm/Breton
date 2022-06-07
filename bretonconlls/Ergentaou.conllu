@@ -4,13 +4,13 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	'	art	?	_	_	_	_	_	Gloss=le
-3	n	hini	nom-pronom	_	_	_	_	_	Gloss=N
-4	hini	hini	nom-pronom	_	_	_	_	_	Gloss=?
+1	Hemañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	n	hini	pronom|nom	_	_	_	_	_	Gloss=N
+4	hini	hini	pronom|nom	_	_	_	_	_	Gloss=?
 5	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
 6	roët	Reiñ	verbe	_	_	_	_	_	Gloss=donné
-7	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+7	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 8	ergentaou	ergentaou	adverbe	_	_	_	_	_	Gloss=tantôt
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,7 +19,7 @@
 # text_fr = 'Il était ici tantôt.'
 # source = Troude (1842)
 # texttype = Ouvrages de recherche
-1	édo	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-2	aman	ads	?	_	_	_	_	_	Gloss=ici
+1	édo	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+2	aman	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 3	akétaou	akétaou	?	_	_	_	_	_	Gloss=tantôt
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

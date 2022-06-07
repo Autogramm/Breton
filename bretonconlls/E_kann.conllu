@@ -4,6 +4,6 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/ynãn	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-2	t-ənaral	da.unan.all	préposition.pronom-quantifieur.?	_	_	_	_	_	Gloss=à.un.autre
+1	/ynãn	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+2	t-ənaral	da.unan.all	préposition.pronom|quantifieur.quantifieur|adjectif	_	_	_	_	_	Gloss=à.un.autre
 3	/	/	PUNCT	_	_	_	_	Gloss=punct

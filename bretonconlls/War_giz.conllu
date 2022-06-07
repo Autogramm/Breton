@@ -1,10 +1,10 @@
-# sent_id = Timm (1987a:284)__1
+# sent_id = Timm(1987a:284)__1
 # text = Pedavare (e) teuio Jean war-giz?
 # text_fr = 'Quand est-ce que Jean reviendra ?'
-# text_phon = ["/pɛn'@vaR", '', 'tɛj', 'ʒɔ̃', 'waj̆ji:s/']
+# text_phon = /pɛn'@vaR  tɛj ʒɔ̃ waj̆ji:s/ 
 1	Pedavare	pedavare	?	_	_	_	_	_	Gloss=quand
-2	(e)	(e)	?	_	_	_	_	_	Gloss=R|Morph=4
+2	(e)	(e)	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
 4	Jean	Jean	?	_	_	_	_	_	Gloss=Jean
-5	war-giz	war-giz	préposition-postposition	_	_	_	_	_	Gloss=sur-arrière
+5	war-giz	war-giz	préposition|postposition	_	_	_	_	_	Gloss=sur-arrière
 6	?	?	PUNCT	_	_	_	_	Gloss=punct

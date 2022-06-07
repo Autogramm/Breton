@@ -1,5 +1,5 @@
 # sent_id = Bijer(2007:388),citédansRezac(2009)__1
-# text = Biskoazh n'he doa gwelet Naig kement a gaoterioù o virviñ […]
+# text = Biskoazh n'he doa gwelet Naig kement a gaoterioù o virviñ […
 # text_fr = 'Naig n'avait jamais vu bouillir autant de chaudrons.'
 # dialect = Cornouaillais
 # source = Bijer (2007)
@@ -7,36 +7,36 @@
 1	Biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
 3	he	he	?	_	_	_	_	_	Gloss=3SGF
-4	doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+4	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 6	Naig	Naig	?	_	_	_	_	_	Gloss=Naig
-7	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	gaoterioù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	kement	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	gaoterioù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	virviñ	birviñ	verbe	_	_	_	_	_	Gloss=bouillir
-12	[…]	[…]	?	_	_	_	_	_	Gloss=?
+12	[…	[…	?	_	_	_	_	_	Gloss=?
 
 # sent_id = arGow(1999:33)__1
 # text = An hini a chomo amañ a lakay dour da virviñ er gaoter evit poazhañ ar pesked [...] hor bezo paket.
 # text_fr = 'Celui qui restera ici mettra de l'eau à bouillir pour cuire les poissons que nous aurons attrapés.'
 # location = Pleyben
 # source = ar Gow (1999)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=N
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	chomo	chom	verbe	_	_	_	_	_	Gloss=restera
-5	amañ	ads	?	_	_	_	_	_	Gloss=ici
+5	amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	lakay	lakaat	verbe	_	_	_	_	_	Gloss=mettra
 8	dour	dour	nom	_	_	_	_	_	Gloss=eau
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 10	virviñ	birviñ	verbe	_	_	_	_	_	Gloss=bouillir
-11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 12	gaoter	gaoter	?	_	_	_	_	_	Gloss=1
-13	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+13	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 14	poazhañ	poazhañ	verbe	_	_	_	_	_	Gloss=cuire
-15	ar	art	?	_	_	_	_	_	Gloss=le
+15	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 16	pesked	pesk	nom	_	_	_	_	_	Gloss=poissons
 17	[...]	[...]	?	_	_	_	_	_	Gloss=?
 18	hor	hor	?	_	_	_	_	_	Gloss=1PL

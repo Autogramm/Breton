@@ -4,9 +4,9 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Kemerit	kemer	verbe	_	_	_	_	_	Gloss=prenez
-2	leizh	leizh	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-3	ur	art	?	_	_	_	_	_	Gloss=un
+2	leizh	leizh	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+3	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	gastelodenn	gastelodenn	?	_	_	_	_	_	Gloss=1
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	zour	dour	nom	_	_	_	_	_	Gloss=eau
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

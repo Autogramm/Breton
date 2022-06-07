@@ -3,9 +3,9 @@
 # text_fr = '- Bilzig, fais telle chose .... '
 # source = Al Lay (1925)
 # texttype = Références de corpus
-1	Bilzig	nompropre	?	_	_	_	_	_	Gloss=Bilzig
+1	Bilzig	nom_propre	?	_	_	_	_	_	Gloss=Bilzig
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dra-man-dra..	tra	nom	_	_	_	_	_	Gloss=chose]]-ci-_[[1]]_[[tra|chose|Morph=1
+3	gra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dra-man-dra..	tra	nom	_	_	_	_	_	Gloss=chose]]-ci-_[[1]]_[[tra|chose|Mutation=target|MutationNUM=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

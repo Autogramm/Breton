@@ -4,11 +4,11 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Aih	Aih	?	_	_	_	_	_	Gloss=[[Aiou!|Aïe
+1	Aih	Aih	?	_	_	_	_	_	Gloss=[[Aiou_!|Aïe
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Gastoù	Hyp	?	_	_	_	_	_	Gloss=ette
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	Paket	pakañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=attrap.é
-7	meus	kaout	?	_	_	_	_	_	Gloss=ai
-8	on	art	?	_	_	_	_	_	Gloss=un
+6	Paket	pakañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=attrap.é
+7	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+8	on	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un

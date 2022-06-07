@@ -5,12 +5,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=parce.que
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	ree	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
-4	ar	art	?	_	_	_	_	_	Gloss=le
+1	abalamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=parce.que
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	ree	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	chiminal	chiminal	?	_	_	_	_	_	Gloss=cheminée
-6	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+6	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 7	moged	moged	nom	_	_	_	_	_	Gloss=fumée
 
 # sent_id = Briant-Cadiou(1998:34)__1
@@ -21,16 +21,16 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Eet	mont	verbe	_	_	_	_	_	Gloss=allé
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oant	COP	?	_	_	_	_	_	Gloss=étaient
-4	e	P.e	?	_	_	_	_	_	Gloss=en
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
+4	e	P.e	préposition	_	_	_	_	_	Gloss=en
 5	moged	moged	nom	_	_	_	_	_	Gloss=fumée
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	a-veh	a	préposition	_	_	_	_	_	Gloss=à|Morph=4
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	helh	kelc'h	?	_	_	_	_	_	Gloss=cercle|Morph=5
-10	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-11	e-touez	e-touez	?	_	_	_	_	_	Gloss=parmi
-12	al	art	?	_	_	_	_	_	Gloss=le
+7	a-veh	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=4
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	helh	kelc'h	?	_	_	_	_	_	Gloss=cercle|Mutation=target|MutationNUM=5
+10	bennag	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+11	e-touez	e-touez	préposition	_	_	_	_	_	Gloss=parmi
+12	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	ludu	ludu	nom	_	_	_	_	_	Gloss=cendre
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

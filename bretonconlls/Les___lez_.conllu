@@ -4,20 +4,22 @@
 # source = Priel (1959)
 # texttype = Références de corpus
 1	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=bien
-2	ha	c.ha(g)	?	_	_	_	_	_	Gloss=que
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	vezen	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étais
+2	ha	c.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	vezen	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étais
 5	lesanvet	anv	nom	_	_	_	_	_	Gloss=nom
-6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 
 # sent_id = Herrieu(1994:104)__1
-# text = Kavet a zo doc'htu ur moranv dezhoñ: ''Fil-de-fer''!
-# text_fr = 'On lui trouve de suite un surnom: ''Fil-de-fer''!'
-# source = Herrieu (1994)
-1	Kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+# text = Kavet a zo doc'htu ur moranv dezhoñ: Fil-de-fer!
+# text_fr = 'On lui trouve de suite un surnom: Fil-de-fer!'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	doc'htu	diouzhtu	adverbe	_	_	_	_	_	Gloss=immédiatement
-5	ur	art	?	_	_	_	_	_	Gloss=un
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	moranv	mor-.anv	?.nom	_	_	_	_	_	Gloss=sur.nom
-7	dezhoñ:	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	dezhoñ:	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui

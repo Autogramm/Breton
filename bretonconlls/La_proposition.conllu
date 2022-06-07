@@ -1,16 +1,17 @@
 # sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
 # text =  Heman eo ar pevare tamm bara deañ da lonka.
 # text_fr = 'C'est le quatrième morceau de pain qu'il engloutit.'
-# source = Le Gall (1958)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	??	??	?	_	_	_	_	_	Gloss=[
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	Heman	DEM	?	_	_	_	_	_	Gloss=celui.ci
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	pevare	ordinaux	?	_	_	_	_	_	Gloss=quatrième
+3	Heman	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	pevare	ordinaux	adjectif	_	_	_	_	_	Gloss=quatrième
 7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-8	deañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-9	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	deañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+9	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 
 # sent_id = ArBorgn(2011:27)__4
 # text = M' henn anzava.
@@ -18,7 +19,7 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	M'	pfi	?	_	_	_	_	_	Gloss=moi
+1	M'	pfi	pronom	_	_	_	_	_	Gloss=moi
 2			PUNCT	_	_	_	_	Gloss=punct
 3	henn	henn	pronom	_	_	_	_	_	Gloss=?
 4	anzava	anzav	verbe	_	_	_	_	_	Gloss=avoue
@@ -32,12 +33,12 @@
 # texttype = Ouvrages de recherche
 1	Diskouezet	diskouez	verbe	_	_	_	_	_	Gloss=montré
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	gant	gant	?	_	_	_	_	_	Gloss=par
+5	gant	gant	préposition	_	_	_	_	_	Gloss=par
 6	X	X	?	_	_	_	_	_	Gloss=X
 7	[	[	?	_	_	_	_	_	Gloss=
-8	e	e	?	_	_	_	_	_	Gloss=R
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	e	e	verbe	_	_	_	_	_	Gloss=R
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 10	muioc'h..	muioc'h..	?	_	_	_	_	_	Gloss=plus
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

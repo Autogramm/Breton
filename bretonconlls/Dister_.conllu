@@ -1,32 +1,29 @@
 # sent_id = Bouzec&al.(2017:392)__1
-# text = Yoñ ra bil ga' disterdra.   ''Cornouaillais de l'Est''
+# text = Yoñ ra bil ga' disterdra.   Cornouaillais de l'Est
 # text_fr = 'Il se fait du souci d'un rien.'
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
-2	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+1	Yoñ	pfi	pronom	_	_	_	_	_	Gloss=lui
+2	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 3	bil	bil	?	_	_	_	_	_	Gloss=bile
-4	ga'	gant	?	_	_	_	_	_	Gloss=avec
+4	ga'	gant	préposition	_	_	_	_	_	Gloss=avec
 5			PUNCT	_	_	_	_	Gloss=punct
-6	disterdra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+6	disterdra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 8	??	??	?	_	_	_	_	_	Gloss=???
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 10	??	??	?	_	_	_	_	_	Gloss=???
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
-12	'	'	?	_	_	_	_	_	Gloss=???
-13	'	'	?	_	_	_	_	_	Gloss=?
-14	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
-15	de	de	?	_	_	_	_	_	Gloss=?
-16	l'	l'	?	_	_	_	_	_	Gloss=?
-17	Est'	Est'	?	_	_	_	_	_	Gloss=?
-18	'	'	?	_	_	_	_	_	Gloss=?
-19			PUNCT	_	_	_	_	Gloss=punct
+12	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=???
+13	de	de	?	_	_	_	_	_	Gloss=?
+14	l'	l'	?	_	_	_	_	_	Gloss=?
+15	Est	Est	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Gros (1970b:'dister')__1
+# sent_id = Gros(1970b:'dister')__1
 # text = a. Ma vije bet an disterra tamm tazon ar bragou-ze...
 # text_fr = 'Si ce pantalon-là avait été usé le moindrement.'
+# source = Bouzec & al. (2017)
 1	a	a	préposition	_	_	_	_	_	Gloss=b.
 2	.	.	PUNCT	_	_	_	_	Gloss=punct
 3	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Ma

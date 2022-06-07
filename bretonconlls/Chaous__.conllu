@@ -1,71 +1,76 @@
 # sent_id = Bannoù-Heol(2000:12)__1
 # text = Chaous !!!! Ne'z a ket din !
 # text_fr = 'Mince ! Ça ne m'arrange pas !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Chaous	Chaous	?	_	_	_	_	_	Gloss=Mince
+1	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Mince
 2	!!!	!!!	?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ne'	Ne'	?	_	_	_	_	_	Gloss=ne
 5	z	z	?	_	_	_	_	_	Gloss=?
 6	a	mont	verbe	_	_	_	_	_	Gloss=va
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:50)__1
 # text = Chaous ! Chaous ! ha Chaous !
 # text_fr = 'Zut ! Zut et Zut !'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
-1	Chaous	Chaous	?	_	_	_	_	_	Gloss=Zut
+1	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Zut
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Chaous	Chaous	?	_	_	_	_	_	Gloss=Zut
+4	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Zut
 5			?	_	_	_	_	_	Gloss=!
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
-7	ha	&	?	_	_	_	_	_	Gloss=et
-8	Chaous	Chaous	?	_	_	_	_	_	Gloss=Zut
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Zut
 9			?	_	_	_	_	_	Gloss=!
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2007:14)__1
 # text = Chaous ! Gennet eo ma breuger !
 # text_fr = 'Zut ! Mon klaxon est coincé !'
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
-1	Chaous	Chaous	?	_	_	_	_	_	Gloss=Zut
+1	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Zut
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Gennet	gennañ	?	_	_	_	_	_	Gloss=coincé
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
+6	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 7	breuger	breugal.-er	?.?	_	_	_	_	_	Gloss=brair.eur
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bannoù-Heol(2000:12)__1
 # text = Chaous ! Da belec'h an diaoul eo aet ?
 # text_fr = 'Mince ! Où a-t-il pu aller ?'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Chaous	Chaous	?	_	_	_	_	_	Gloss=Mince
+1	Chaous	Chaous	nom	_	_	_	_	_	Gloss=Mince
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	Da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	belec'h	pelec'h	?	_	_	_	_	_	Gloss=où
-6	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
+6	an	an	?	_	_	_	_	_	Gloss=[[an_diaoul|le
 7	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
 9	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:2).__1
 # text = Chaous ! pebezh dichañs !
 # text_fr = 'Zut ! Quelle guigne !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Chaous	interjection	?	_	_	_	_	_	Gloss=Zut!
+1	Chaous	interjection	interjection	_	_	_	_	_	Gloss=Zut_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	pebezh	pebezh	?	_	_	_	_	_	Gloss=quel
-4	dichañs	di-,dis-.chañs	?.nom	_	_	_	_	_	Gloss=mal.chance
+4	dichañs	di-,_dis-	?	_	_	_	_	_	Gloss=mal
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

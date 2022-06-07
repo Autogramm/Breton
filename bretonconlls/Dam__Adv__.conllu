@@ -6,7 +6,7 @@
 1	Dam	Dam	?	_	_	_	_	_	Gloss=quasi
 2	memes	memes	adjectif	_	_	_	_	_	Gloss=même
 3	oad	oad	nom	_	_	_	_	_	Gloss=âge
-4	edont	COP	?	_	_	_	_	_	Gloss=étaient
+4	edont	COP	verbe	_	_	_	_	_	Gloss=étaient
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Menard&Kadored(2001)__1
@@ -14,15 +14,15 @@
 # text_fr = 'Et il dit, entre rires et pleurs.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	lavaras	lavarout	verbe	_	_	_	_	_	Gloss=dit
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	dam	dam	?	_	_	_	_	_	Gloss=quasi
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	c'hoarzhin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	dam	dam	?	_	_	_	_	_	Gloss=quasi
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	ouelañ	gouelañ	verbe	_	_	_	_	_	Gloss=pleurer
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

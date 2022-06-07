@@ -2,18 +2,18 @@
 # text = Ma ferson a lâre din tuchantik, a pa oa doc'h man deveriñ...
 # text_fr = 'Mon recteur me disait tout à l'heure, quand il me donnait l'extrême onction... '
 # source = ar Meliner (2009)
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	ferson	person	nom	_	_	_	_	_	Gloss=recteur
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	lâre	lavarout	verbe	_	_	_	_	_	Gloss=disait
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 6	tuchantik	tuchantik	?	_	_	_	_	_	Gloss=DIM
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	a	hapa	préposition	_	_	_	_	_	Gloss=quand
+8	a	ha_pa	préposition	_	_	_	_	_	Gloss=quand
 9	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
-10	oa	COP	?	_	_	_	_	_	Gloss=était
-11	doc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-12	man	POP	?	_	_	_	_	_	Gloss=me
+10	oa	COP	verbe	_	_	_	_	_	Gloss=était
+11	doc'h	particule_o	?	_	_	_	_	_	Gloss=à
+12	man	POP	pronom	_	_	_	_	_	Gloss=me
 13	deveriñ..	deveriñ..	?	_	_	_	_	_	Gloss=V
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -24,7 +24,7 @@
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	Touchant	Touchant	?	_	_	_	_	_	Gloss=tout.à.l'@heure
-2	'	COP	?	_	_	_	_	_	Gloss=étais
+2	'	COP	verbe	_	_	_	_	_	Gloss=étais
 3	oan	oan	nom	_	_	_	_	_	Gloss=?
 4	taget	tagañ	verbe	_	_	_	_	_	Gloss=attrapé
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,17 +1,19 @@
 # sent_id = LeDû(2012:41)__1
 # text = E bèrn labour-zé zó ém tut t'ober nê.
 # text_fr = 'Ce tas de travail, il y a besoin de personnel pour le faire.'
+# dialect = Trégorrois
 # location = Plougrescant
-# source = Le Dû (2012)
-1	E	art	?	_	_	_	_	_	Gloss=le
-2	bèrn	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
+1	E	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	bèrn	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 3	labour-zé	labour	nom	_	_	_	_	_	Gloss=travail
 4	zó	zo	?	_	_	_	_	_	Gloss=est
 5	ém	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 6	tut	tud	nom	_	_	_	_	_	Gloss=gens
 7	t'	da	préposition	_	_	_	_	_	Gloss=pour
-8	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-9	nê	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+8	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+9	nê	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:69)__1
@@ -20,27 +22,29 @@
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
-1	Lareit	laerañ	?	_	_	_	_	_	Gloss=volé
-2	e	kaout	?	_	_	_	_	_	Gloss=avez
+1	Lareit	laerañ	verbe	_	_	_	_	_	Gloss=volé
+2	e	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	huès	huès	?	_	_	_	_	_	Gloss=?
-4	toheign	Diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-5	er	art	?	_	_	_	_	_	Gloss=le
+4	toheign	Diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	guellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=meilleur
 7	a	a	préposition	_	_	_	_	_	Gloss=de
-8	mem	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	mem	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	buhé	buhez	nom	_	_	_	_	_	Gloss=vie
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeDû(2012:97)__2
 # text = Laa nœs tĩ penõz wa Jobéĝ võnn te dimĩ.
 # text_fr = 'Il m'a dit que Joseph allait se marier.'
+# dialect = Trégorrois
 # location = Plougrescant
-# source = Le Dû (2012)
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
 1	Laa	lavarout	verbe	_	_	_	_	_	Gloss=dit
-2	nœs	kaout	?	_	_	_	_	_	Gloss=a
-3	tĩ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-4	penõz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-5	wa	COP	?	_	_	_	_	_	Gloss=était
+2	nœs	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	tĩ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	penõz	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=que
+5	wa	COP	verbe	_	_	_	_	_	Gloss=était
 6	Jobéĝ	Jobéĝ	?	_	_	_	_	_	Gloss=Joseph
 
 # sent_id = Ternes(1970:267)__1
@@ -51,7 +55,7 @@
 # texttype = Ouvrages de recherche
 1	/pe	peseurt	?	_	_	_	_	_	Gloss=quel
 2	xaŋ	anv	nom	_	_	_	_	_	Gloss=nom
-3	təxoŋ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	təxoŋ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	/	/	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:35)__1
@@ -62,15 +66,15 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	neve'	nevez.neve'	adjectif.?	_	_	_	_	_	Gloss=nouveau.DIM
-2	ig	E	?	_	_	_	_	_	Gloss=y.a
+2	ig	E	verbe	_	_	_	_	_	Gloss=y.a
 3	'	'	?	_	_	_	_	_	Gloss=?
 4	so	so	?	_	_	_	_	_	Gloss=?
 5	pellig	pell.pellig	adjectif.?	_	_	_	_	_	Gloss=long.DIM
-6	'	E	?	_	_	_	_	_	Gloss=y.a
+6	'	E	verbe	_	_	_	_	_	Gloss=y.a
 7	so	so	?	_	_	_	_	_	Gloss=?
-8	un	art	?	_	_	_	_	_	Gloss=un
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	tammig	tamm.tammig	quantifieur.?	_	_	_	_	_	Gloss=morceau.DIM
-10	'	E	?	_	_	_	_	_	Gloss=y.a
+10	'	E	verbe	_	_	_	_	_	Gloss=y.a
 11	so.	so.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = LeBayon(1878:59)__1
@@ -80,7 +84,7 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	t	da	préposition	_	_	_	_	_	Gloss=à
-2	'	pronomincorporé	?	_	_	_	_	_	Gloss=nous
+2	'	pronom_incorporé	?	_	_	_	_	_	Gloss=nous
 3	emb	emb	?	_	_	_	_	_	Gloss=?
 4	monnet	mont	verbe	_	_	_	_	_	Gloss=aller
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
@@ -92,22 +96,21 @@
 # dialect = Léonard
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
+1	Amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	war	war	?	_	_	_	_	_	Gloss=sur
+3	war	war	préposition	_	_	_	_	_	Gloss=sur
 4	gern	gern	?	_	_	_	_	_	Gloss=hauteur
 5	Menez-Hom	Menez-Hom	?	_	_	_	_	_	Gloss=Menez
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	gouél	Gouel(M.)	?	_	_	_	_	_	Gloss=fête
-10	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-13	ploaz	bloaz	nom	_	_	_	_	_	Gloss=an
-14	,	,	PUNCT	_	_	_	_	Gloss=punct
-15	neketa	keta	?	_	_	_	_	_	Gloss=n'@est.ce.pas
-16	!	!	PUNCT	_	_	_	_	Gloss=punct
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	gouél	Gouel_(M.)	nom	_	_	_	_	_	Gloss=fête
+10	braz,	braz,	?	_	_	_	_	_	Gloss=?
+11	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+12	ploaz	bloaz	nom	_	_	_	_	_	Gloss=an
+13	,	,	PUNCT	_	_	_	_	Gloss=punct
+14	neketa	keta	?	_	_	_	_	_	Gloss=n'@est.ce.pas
+15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:I)__8
 # text = krampouezh gwiniz-tu.
@@ -125,18 +128,18 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	A-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	poa	kaout	?	_	_	_	_	_	Gloss=avait
+1	A-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	poa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 4	pennoù	penn	nom	_	_	_	_	_	Gloss=têtes
 5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	melenoc'h,	melen.-oc'h	adjectif.?	_	_	_	_	_	Gloss=jaune.plus
-8	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
+8	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voila
 9	a	a	préposition	_	_	_	_	_	Gloss=R
 10	choke,	choke,	?	_	_	_	_	_	Gloss=choquait,
 11	evel-just	evel-just	adverbe	_	_	_	_	_	Gloss=comme-vrai
-12	kwir	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	kwir	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 13	er	er	?	_	_	_	_	_	Gloss=5
 14	c'hajot.	c'hajot.	?	_	_	_	_	_	Gloss=?
 
@@ -146,26 +149,27 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	Chte	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	Chte	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	oeid	mont	verbe	_	_	_	_	_	Gloss=allé
-3	er	art	?	_	_	_	_	_	Gloss=le
+3	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	siren	siren	?	_	_	_	_	_	Gloss=sirène
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-6	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	te	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	greisnouz	greisnouz	?	_	_	_	_	_	Gloss=milieu.nuit
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Cheveau & Kersulec (2012-évolutif:Laz,'enep din')__1
+# sent_id = Cheveau&Kersulec(2012-évolutif:Laz,'enepdin')__1
 # text = Roet em boa ma rastell din, enep din.
 # text_fr = 'J’avais donné mon râteau à moi, malgré moi.'
-# text_phon = ['[ˈʁo mo', 'me ˈʁasɛl dɪɲ,', 'ˈneːb dɪɲ].']
+# text_phon = ˈʁo mo me ˈʁasɛl dɪɲ, ˈneːb dɪɲ. 
+# source = An Diberder (2000)
 1	Roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
 2	em	em	?	_	_	_	_	_	Gloss=R
-3	boa	kaout	?	_	_	_	_	_	Gloss=avait
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	boa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	rastell	rastell	nom	_	_	_	_	_	Gloss=râteau
-6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	enep	enep	?	_	_	_	_	_	Gloss=contre
-9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	enep	enep	préposition|adjectif	_	_	_	_	_	Gloss=contre
+9	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

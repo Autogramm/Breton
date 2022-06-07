@@ -3,10 +3,10 @@
 # text_fr = 'un grand cratère dans le champ'
 # source = Drezen (1943)
 # texttype = Références de corpus
-1	ur	art	?	_	_	_	_	_	Gloss=un
-2	pikol	pikol	nom-adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=grand
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	pikol	pikol	adverbe|quantifieur|adjectif|nom	_	_	_	_	_	Gloss=grand
 3	puñs	puñs	nom	_	_	_	_	_	Gloss=puits
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	park	park	nom	_	_	_	_	_	Gloss=champ
 
 # sent_id = Briant-Cadiou(1998:45)__1
@@ -16,12 +16,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ouspenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=en.plus
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	ranked	rankout.IMP	verbe.?	_	_	_	_	_	Gloss=devait.on
+1	Ouspenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=en.plus
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	ranked	rankout.IMP	verbe.pronom	_	_	_	_	_	Gloss=devait.on
 4	[...]	[...]	?	_	_	_	_	_	Gloss=
 5	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau
-7	euz	eus	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	euz	eus	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	puns…	puns…	?	_	_	_	_	_	Gloss=puits

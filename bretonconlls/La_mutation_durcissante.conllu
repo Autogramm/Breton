@@ -4,13 +4,13 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Don	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
-2	'	kaout	?	_	_	_	_	_	Gloss=avez
+1	Don	don	adverbe|adjectif	_	_	_	_	_	Gloss=profond
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	peus	peus	?	_	_	_	_	_	Gloss=?
-4	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-5	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+5	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 6	piz	biz	nom	_	_	_	_	_	Gloss=doigt
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-8	hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
+8	hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 9	lagad	lagad	nom	_	_	_	_	_	Gloss=oeil
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

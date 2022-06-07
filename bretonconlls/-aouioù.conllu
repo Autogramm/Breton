@@ -1,0 +1,10 @@
+sent_id = HorYezh(1983:25)__1
+text = Papa gave ket aes anezhañ ar matelaouioù.
+text_fr =  'Papa ne trouvait pas les matelas pratiques.' 
+1	Papa	nom de titre	nom	_	_	_	_	_	Gloss=Papa
+2	gave	_[[1]][[kavout|trouvait]]	?	_	_	_	_	_	Gloss=_[[1]][[kavout|trouvait]]
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+4	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
+5	anezhañ	a.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=P.lui
+6	ar matelaouioù	art	article	_	_	_	_	_	Gloss=le
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct

@@ -3,9 +3,9 @@
 # text_fr = 'Normalement, si je le branche... '
 # location = Locronan
 1	Sañset	sañset	adverbe	_	_	_	_	_	Gloss=censément
-2	mag	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-3	ve	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	brañchet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-5	nehon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-6	endro..	endro	?	_	_	_	_	_	Gloss=de.retour
+2	mag	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+3	ve	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	brañchet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+5	nehon	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+6	endro..	endro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de.retour
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

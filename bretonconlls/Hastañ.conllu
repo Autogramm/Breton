@@ -4,17 +4,17 @@
 # dialect = Léonard
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Méd	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+1	Méd	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	hastom	hastom	?	_	_	_	_	_	Gloss=pressons
-3	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+3	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 4	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-5	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-6	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
-7	da	da	préposition	_	_	_	_	_	Gloss=de
-8	veza	bezañ	?	_	_	_	_	_	Gloss=être
-9	a-raog	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
-10	an	art	?	_	_	_	_	_	Gloss=le
+5	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+6	deom	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	veza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+9	a-raog	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	noz	noz	nom	_	_	_	_	_	Gloss=nuit
-12	e	P.e	?	_	_	_	_	_	Gloss=à
-13	Konkerne	nompropre	?	_	_	_	_	_	Gloss=Concarneau
+12	e	P.e	préposition	_	_	_	_	_	Gloss=à
+13	Konkerne	nom_propre	?	_	_	_	_	_	Gloss=Concarneau
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,11 +4,11 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	mevel	mevel	nom	_	_	_	_	_	Gloss=valet
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	gwella	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
-5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	deut	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	vestr	mestr	nom	_	_	_	_	_	Gloss=maître

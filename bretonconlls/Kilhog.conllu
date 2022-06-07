@@ -5,19 +5,19 @@
 # source = Denez (1984)
 # texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	pelec'h	pelec'h	?	_	_	_	_	_	Gloss=où
-5	noe	kaout	?	_	_	_	_	_	Gloss=avait
-6	laeret	laerañ	?	_	_	_	_	_	Gloss=volé
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	noe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+6	laeret	laerañ	verbe	_	_	_	_	_	Gloss=volé
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 9	Treboull	Treboull	?	_	_	_	_	_	Gloss=Tréboul
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	c'hilhog	c'hilhog	?	_	_	_	_	_	Gloss=5
 12	da	da	préposition	_	_	_	_	_	Gloss=pour
 13	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-14	war	war	?	_	_	_	_	_	Gloss=sur
-15	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+14	war	war	préposition	_	_	_	_	_	Gloss=sur
+15	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 16	iliz..	iliz	nom	_	_	_	_	_	Gloss=église
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

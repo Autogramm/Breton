@@ -4,17 +4,16 @@
 # dialect = Cornouaillais
 # source = Denez (1984)
 # texttype = Références de corpus
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	voused	voused	?	_	_	_	_	_	Gloss=1
-5	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
-6	noe	kaout	?	_	_	_	_	_	Gloss=avait
-7	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-8	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
-9	gasketenn	gasketenn	?	_	_	_	_	_	Gloss=casquette
-10	martolod	martolod	nom	_	_	_	_	_	Gloss=matelot
-11	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	voused	voused	?	_	_	_	_	_	Gloss=1
+4	vihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit|Mutation=target|MutationNUM=1
+5	noe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+6	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=1
+8	gasketenn	gasketenn	?	_	_	_	_	_	Gloss=casquette
+9	martolod	martolod	nom	_	_	_	_	_	Gloss=matelot
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Denez(1984:73)__3
 # text = Darpenn gwechall ar merc'hed noe ur chal bihan war ar sizhun.
@@ -22,15 +21,15 @@
 # dialect = Cornouaillais
 # source = Denez (1984)
 # texttype = Références de corpus
-1	Darpenn	darpenn	?	_	_	_	_	_	Gloss=car
+1	Darpenn	darpenn	complémenteur	_	_	_	_	_	Gloss=car
 2	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	merc'hed	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=fille.s
-5	noe	kaout	?	_	_	_	_	_	Gloss=avait
-6	ur	art	?	_	_	_	_	_	Gloss=un
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	merc'hed	merc'h.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=fille.s
+5	noe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	chal	chal	?	_	_	_	_	_	Gloss=châle
-8	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-9	war	war	?	_	_	_	_	_	Gloss=sur
-10	ar	art	?	_	_	_	_	_	Gloss=le
+8	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+9	war	war	préposition	_	_	_	_	_	Gloss=sur
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

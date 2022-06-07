@@ -2,9 +2,9 @@
 # text = Trapit ar gartenn peus c'hoant.
 # text_fr = 'Prenez n'importe quelle carte.'
 1	Trapit	Trapit	?	_	_	_	_	_	Gloss=prenez
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	gartenn	kartenn	nom	_	_	_	_	_	Gloss=carte|Morph=1
-4	peus	kaout	?	_	_	_	_	_	Gloss=avez
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	gartenn	kartenn	nom	_	_	_	_	_	Gloss=carte|Mutation=target|MutationNUM=1
+4	peus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -14,11 +14,11 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
-2	ho	POP	?	_	_	_	_	_	Gloss=vous|Morph=3
-3	kwalldapo	gwall-	nom-adverbe	_	_	_	_	_	Gloss=més|Morph=1
-4	e	P.e	?	_	_	_	_	_	Gloss=en
+2	ho	POP	pronom	_	_	_	_	_	Gloss=vous|Mutation=trigger|MutationNUM=3
+3	kwalldapo	gwall-	adverbe|nom	_	_	_	_	_	Gloss=més|Mutation=trigger|MutationNUM=1
+4	e	P.e	préposition	_	_	_	_	_	Gloss=en
 5	doare	doare	nom	_	_	_	_	_	Gloss=manière
-6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+6	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 7	zoare	doare	nom	_	_	_	_	_	Gloss=manière
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -27,19 +27,19 @@
 # text_fr = 'Il faut au moins avoir cent mille signes pour remporter le prix.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Kant	Kant	?	_	_	_	_	_	Gloss=[[numérauxcardinaux|cent
+1	Kant	Kant	quantifieur|adjectif	_	_	_	_	_	Gloss=[[numéraux_cardinaux|cent
 2	mil	mil	?	_	_	_	_	_	Gloss=mille]]
-3	lizherenn	lizher.-enn	nom.nom	_	_	_	_	_	Gloss=lettre.SG
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	ranked	rankout.IMP	verbe.?	_	_	_	_	_	Gloss=doit.on
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+3	lizherenn	lizher.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=lettre.SG
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	ranked	rankout.IMP	verbe.pronom	_	_	_	_	_	Gloss=doit.on
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	vihannañ	bihan.superlatif	adverbe-quantifieur-adjectif.adjectif	_	_	_	_	_	Gloss=petit.le.plus
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+10	vihannañ	bihan.superlatif	adverbe|quantifieur|adjectif.adjectif	_	_	_	_	_	Gloss=petit.le.plus
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-13	tapout	tapout	?	_	_	_	_	_	Gloss=prendre
-14	ar	art	?	_	_	_	_	_	Gloss=le
+12	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+13	tapout	tapout	verbe	_	_	_	_	_	Gloss=prendre
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	priz	priz	nom	_	_	_	_	_	Gloss=prix
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

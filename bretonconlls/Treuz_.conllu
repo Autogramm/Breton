@@ -1,28 +1,28 @@
 # sent_id = Standard,[http://www.alliamm.comAlLiamm](347:117)__2
 # text = ur raktres hir ha resis war treuzkas galloudoù ar Stad d'ar Rannvro
 # text_fr = 'Un projet étoffé et précis au sujet de la passation de pouvoir de l’État aux Régions'
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	raktres	rak-	?	_	_	_	_	_	Gloss=pro
 3	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	resis	resis	adverbe-adjectif	_	_	_	_	_	Gloss=précis
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	resis	resis	adverbe|adjectif	_	_	_	_	_	Gloss=précis
 6	galloudoù	-où	?	_	_	_	_	_	Gloss=s
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	Stad	Stad	nom	_	_	_	_	_	Gloss=Etat
 9	d'	da	préposition	_	_	_	_	_	Gloss=à
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	Rannvro	rann-	?	_	_	_	_	_	Gloss=partie|Morph=1
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	Rannvro	rann-	?	_	_	_	_	_	Gloss=partie|Mutation=trigger|MutationNUM=1
 
-# sent_id = Bouzec & al. (2017:77)__1
+# sent_id = Bouzec&al.(2017:77)__1
 # text = 'N oto 'oa 'hon treuj-didreuj ga hi hent.
 # text_fr = 'La voiture zigzaguait sur la route.'
 1	'	'	?	_	_	_	_	_	Gloss=An
-2	N	N	nom	_	_	_	_	_	Gloss=oto
+2	N	N	N	_	_	_	_	_	Gloss=oto
 3	oto	oto	nom	_	_	_	_	_	Gloss=?
 4	'	'	?	_	_	_	_	_	Gloss=vont
 5	hon	hon	?	_	_	_	_	_	Gloss=treuz-didreuz
 6	treuj-didreuj	treuj-didreuj	?	_	_	_	_	_	Gloss=?
-7	ga	ga	?	_	_	_	_	_	Gloss=gant
+7	ga	ga	préposition	_	_	_	_	_	Gloss=gant
 8	hi	hi	?	_	_	_	_	_	Gloss=he
 9	hent	hent	nom	_	_	_	_	_	Gloss=hent.
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

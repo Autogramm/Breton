@@ -1,23 +1,27 @@
 # sent_id = Kervella(1995:§512)__1
 # text = Melloù glavennoù dibaot
 # text_fr = 'De grosses gouttes isolées'
-# source = Kervella (1995)
-1	Melloù	mell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=grosse.s
-2	glavennoù	glav.-enn.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=pluie.SG.s
-3	dibaot	dibaot	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=rare
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Melloù	mell.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=grosse.s
+2	glavennoù	glav.-enn.-où_(PL.)	nom.suffixe|nom.suffixe	_	_	_	_	_	Gloss=pluie.SG.s
+3	dibaot	dibaot	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=rare
 
 # sent_id = Troude(1886:'peut-être')__1
 # text = Dibaot e ve kavout eunn den mad enn ho zouez.
 # text_fr = 'Peut-être ne trouverait-on pas un brave homme parmi eux.'
-# source = Troude (1886)
-1	Dibaot	Dibaot	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=rare
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	ve	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# dialect = Léonard
+# source = Troude (1869)
+# texttype = Ouvrages de recherche
+1	Dibaot	Dibaot	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=rare
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	ve	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
-5	eunn	art	?	_	_	_	_	_	Gloss=un
+5	eunn	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=homme
-7	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-8	enn	P.e	?	_	_	_	_	_	Gloss=en
-9	ho	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-10	zouez	touez	?	_	_	_	_	_	Gloss=parmi
+7	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+8	enn	P.e	préposition	_	_	_	_	_	Gloss=en
+9	ho	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+10	zouez	touez	préposition	_	_	_	_	_	Gloss=parmi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

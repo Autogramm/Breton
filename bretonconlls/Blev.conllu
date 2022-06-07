@@ -2,10 +2,10 @@
 # text = Me zou milén mem bléu.
 # text_fr = 'J'ai les cheveux blonds'.
 # source = Guillevic & Le Goff (1986:138)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zou	zo	?	_	_	_	_	_	Gloss=est
 3	milén	melen	adjectif	_	_	_	_	_	Gloss=jaune
-4	mem	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	mem	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	bléu	bléu	?	_	_	_	_	_	Gloss=chevelure
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -15,33 +15,35 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	es	E	?	_	_	_	_	_	Gloss=est
-3	bliavenn	-enn	nom	_	_	_	_	_	Gloss=SG
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	es	E	verbe	_	_	_	_	_	Gloss=est
+3	bliavenn	-enn	suffixe|nom	_	_	_	_	_	Gloss=SG
 4	bi	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 5	mi	mui	adverbe	_	_	_	_	_	Gloss=plus
-6	var	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	var	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	benn	penn	nom	_	_	_	_	_	Gloss=tête
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Inisan(1930:11)__1
 # text = N'eo ket pluet a-walc'h da laboused; n'eus nemet marbleo warnezo.
 # text_fr = 'Tes oiseaux n'ont pas assez le plumage, ils n'ont qu'un duvet.'
-# source = Inisan (1930)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# dialect = Léonard
+# source = Inisan (1878b)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	pluet	pluñv.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=plum.é
+4	pluet	pluñv.-et_(Adj.)	nom.verbe|suffixe	_	_	_	_	_	Gloss=plum.é
 5	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
-6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-7	laboused	labous	?	_	_	_	_	_	Gloss=oiseaux
+6	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+7	laboused	labous	nom	_	_	_	_	_	Gloss=oiseaux
 8	;	;	PUNCT	_	_	_	_	Gloss=punct
-9	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-10	eus	E	?	_	_	_	_	_	Gloss=est
-11	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-12	marbleo	mor-,mar-	?	_	_	_	_	_	Gloss=pfx
-13	warnezo	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+9	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+10	eus	E	verbe	_	_	_	_	_	Gloss=est
+11	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+12	marbleo	mor-,_mar-	?	_	_	_	_	_	Gloss=pfx
+13	warnezo	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMoal(1902:13)__1
@@ -51,19 +53,19 @@
 # location = Tréguier
 # source = Ar Moal (1902)
 # texttype = Références de corpus
-1	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	vleo	vleo	?	_	_	_	_	_	Gloss=cheveux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	hag	&	?	_	_	_	_	_	Gloss=et
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-9	oant	COP	?	_	_	_	_	_	Gloss=étaient
+7	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+9	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 10	du	du	adjectif	_	_	_	_	_	Gloss=noir
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-13	a-raog	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+13	a-raog	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon/Diwan,M.Lincoln(06/2014b)__1
@@ -71,21 +73,21 @@
 # text_fr = 'Quand on regarde de près, les cheveux ont chacun une couleur particulère.'
 # source = M. Lincoln (06/2014b)
 # texttype = Élicitations
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	seller	sellout.IMP	verbe.?	_	_	_	_	_	Gloss=regarde.on
-3	a-dost	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	seller	sellout.IMP	verbe.pronom	_	_	_	_	_	Gloss=regarde.on
+3	a-dost	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	blev	blev	nom	_	_	_	_	_	Gloss=cheveux
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	zo	zo	?	_	_	_	_	_	Gloss=est
 9	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 10	a	a	préposition	_	_	_	_	_	Gloss=de
-11	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
-12	ul	art	?	_	_	_	_	_	Gloss=un
+11	hini	hini	pronom|nom	_	_	_	_	_	Gloss=N
+12	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 13	liv	liv	nom	_	_	_	_	_	Gloss=couleur
 14	ispisial	ispisial	?	_	_	_	_	_	Gloss=spéciale
-15	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+15	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon/Diwan,M.Lincoln(05/2015)__1
@@ -93,13 +95,13 @@
 # text_fr = 'les petits cheveux et les grands aussi'
 # source = M. Lincoln (05/2015)
 # texttype = Élicitations
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	blev	blev	nom	_	_	_	_	_	Gloss=cheveux
-3	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=bihan
-4	hag	&	?	_	_	_	_	_	Gloss=et
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-7	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand|Morph=1
+3	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=bihan
+4	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+7	vras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand|Mutation=target|MutationNUM=1
 8	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 
 # sent_id = Bouzec&al.(2017:101)__1
@@ -111,9 +113,9 @@
 # texttype = Ouvrages de recherche
 1	A	A	préposition	_	_	_	_	_	Gloss=
 2	:	:	?	_	_	_	_	_	Gloss=?
-3	Argant	arc'hant	?	_	_	_	_	_	Gloss=argent
-4	zo	COP	?	_	_	_	_	_	Gloss=est
-5	genout	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
+3	Argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
+4	zo	COP	verbe	_	_	_	_	_	Gloss=est
+5	genout	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.toi
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	B	B	?	_	_	_	_	_	Gloss=
 8	:	:	?	_	_	_	_	_	Gloss=?
@@ -126,19 +128,19 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Hemañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	or	art	?	_	_	_	_	_	Gloss=un
-6	vlevenn	vlevenn.-enn	?.nom	_	_	_	_	_	Gloss=1.SG
-7	e	kaout	?	_	_	_	_	_	Gloss=a
+5	or	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+6	vlevenn	vlevenn.-enn	?.suffixe|nom	_	_	_	_	_	Gloss=1.SG
+7	e	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 8	neus	neus	?	_	_	_	_	_	Gloss=?
-9	baz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	baz	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	zorn	dorn	nom	_	_	_	_	_	Gloss=main
-12	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-13	ol	art	?	_	_	_	_	_	Gloss=un
+12	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+13	ol	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 14	lost	lost	nom	_	_	_	_	_	Gloss=queue
 15	beuc'h	buoc'h	?	_	_	_	_	_	Gloss=vache
 16	!	!	PUNCT	_	_	_	_	Gloss=punct

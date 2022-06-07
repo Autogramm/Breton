@@ -1,53 +1,50 @@
-# sent_id = Goyat (2012:195)__1
+# sent_id = Goyat(2012:195)__1
 # text = N'eo ket ken tomm-se.
 # text_fr = 'Il ne fait pas si chaud que ça.'
-# text_phon = ['/ne', 'ke', 'ken', "'@tom se/"]
+# text_phon = /ne ke ken '@tom se/ 
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	tomm-se	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:195)__1
+# sent_id = Goyat(2012:195)__1
 # text = Ne zoñje ket din e oa ken braz an ti.
 # text_fr = 'Je ne pensais pas que la maison était aussi grande.'
-# text_phon = ["/ne '@ʒõ:ʒe", 'ke', 'ˌdiɲ', 'va', "'@ken", 'braz', "an '@ti/"]
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# text_phon = /ne '@ʒõ:ʒe ke ˌdiɲ va '@ken braz an '@ti/ 
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	zoñje	soñjal	verbe	_	_	_	_	_	Gloss=pensait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-5	e	COP	?	_	_	_	_	_	Gloss=était
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	e	COP	verbe	_	_	_	_	_	Gloss=était
 6	oa	oa	?	_	_	_	_	_	Gloss=?
-7	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	ti	ti	nom	_	_	_	_	_	Gloss=maison
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:197)__1
+# sent_id = Goyat(2012:197)__1
 # text = Hennez zo memez oad din.
 # text_fr = 'Il a le même âge que moi.'
-# text_phon = ["/'@ene", 'zo', 'ˌmømøz', "'@wa:d", 'ˌdiɲ/']
-1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.ci
+# text_phon = /'@ene zo ˌmømøz '@wa:d ˌdiɲ/ 
+1	Hennez	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	memez	memes	adjectif	_	_	_	_	_	Gloss=même
 4	oad	oad	nom	_	_	_	_	_	Gloss=âge
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = :133)__1
-# text = an heveleb ster evel ''o''.
-# text_fr = 'le même sens que ''o''.'
+# text = an heveleb ster evel o.
+# text_fr = 'le même sens que o.'
 # location = Kléder
 # source = Fave (1998:133)
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	heveleb	hevelep	adjectif	_	_	_	_	_	Gloss=même
 3	ster	ster	nom	_	_	_	_	_	Gloss=sens
-4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=que
-5	'	'	?	_	_	_	_	_	Gloss='@'@o'@'@
-6	'	'	?	_	_	_	_	_	Gloss=?
-7	o'	o'	?	_	_	_	_	_	Gloss=?
-8	'	'	?	_	_	_	_	_	Gloss=?
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
+4	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=que
+5	o	o	?	_	_	_	_	_	Gloss=o
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1966:233)__1
 # text = Ha ken seder goude evel kent.
@@ -55,22 +52,23 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	seder	seder	adverbe-adjectif	_	_	_	_	_	Gloss=gai
-3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	seder	seder	adverbe|adjectif	_	_	_	_	_	Gloss=gai
+3	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+4	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 5	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:16)__1
+# sent_id = Nicolas(2005:16)__1
 # text = Eñ 'ya ken lies èldoc'h
 # text_fr = 'Il y va aussi souvent que vous.'
-# text_phon = ['[ jεm', 'ja', 'kεn', 'li:jεs', 'εldɔχ ]']
-1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+# text_phon =  jεm ja kεn li:jεs εldɔχ  
+# source = Gros (1966)
+1	Eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 2	'	mont	verbe	_	_	_	_	_	Gloss=va
 3	ya	ya	interjection	_	_	_	_	_	Gloss=?
 4	lies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-5	èldoc'h	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.vous
+5	èldoc'h	evel.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.vous
 
 # sent_id = Ternes(1970:223)__1
 # text = /jãzo čen bra:z jald-ida:t /
@@ -78,72 +76,73 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/jãzo	pfi.zo	?.?	_	_	_	_	_	Gloss=lui.est
-2	bra:z	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	jald-ida:t	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme]]-[[POSS|son|Morph=1
+1	/jãzo	pfi.zo	pronom.?	_	_	_	_	_	Gloss=lui.est
+2	bra:z	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	jald-ida:t	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme]]-[[POSS|son|Mutation=trigger|MutationNUM=1
 4	/	/	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:595) __1
+# sent_id = Evenou(1987:595)__1
 # text =  ken glas ha 'n neñv
 # text_fr = 'aussi bleu que le ciel.'
-# text_phon = ['[', 'c̈En', 'gla:s', 'a', 'nêw ]']
+# text_phon =  c̈En gla:s a nêw  
+# source = Ternes (1970)
 1	??	??	?	_	_	_	_	_	Gloss=
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	glas	glas	adjectif	_	_	_	_	_	Gloss=bleu
-4	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-5	'	art	?	_	_	_	_	_	Gloss=le
+4	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+5	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	n	neñv	nom	_	_	_	_	_	Gloss=ciel
 7	neñv	neñv	nom	_	_	_	_	_	Gloss=?
 
 # sent_id = Trépos(2001:§249)__2
 # text = An div fun-ze zo keid-ha-keid / zo keid an eil hag eben.
 # text_fr = 'Ces deux cordes sont aussi longues l'une que l'autre.'
+# dialect = Cornouaillais
 # location = Bigouden
-# source = Trépos (2001)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	fun-ze	DEM	?	_	_	_	_	_	Gloss=là
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	fun-ze	DEM	pronom	_	_	_	_	_	Gloss=là
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	keid-ha-keid	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.long
+4	keid-ha-keid	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.long
 5	/	/	?	_	_	_	_	_	Gloss=
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	keid	keid	?	_	_	_	_	_	Gloss=si.long
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	keid	keid	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.long
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	eil	eil	pronom	_	_	_	_	_	Gloss=second
-10	hag	&	?	_	_	_	_	_	Gloss=et
-11	eben	eben	?	_	_	_	_	_	Gloss=autre
+10	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+11	eben	eben	pronom	_	_	_	_	_	Gloss=autre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = German (1984:187)__2
-# text = C'hwi 'zo ken droch ha dezhi.   ''Graphie peurunvan''
+# sent_id = German(1984:187)__2
+# text = C'hwi 'zo ken droch ha dezhi.   Graphie peurunvan
 # text_fr = 'Vous êtes aussi bête qu'elle.'
-# text_phon = ['/ hwi', 'zo', 'kènn', 'droš', 'a', 'dèy/']
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	'	zo	?	_	_	_	_	_	Gloss=est
-4	zo	zo	?	_	_	_	_	_	Gloss=?
-5	droch	droch	adjectif	_	_	_	_	_	Gloss=ridicule
-6	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-7	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
-9	??	??	?	_	_	_	_	_	Gloss=???
-10	?	?	PUNCT	_	_	_	_	Gloss=punct
-11	??	??	?	_	_	_	_	_	Gloss=???
-12	?	?	PUNCT	_	_	_	_	Gloss=punct
-13	'	'	?	_	_	_	_	_	Gloss=???
-14	'	'	?	_	_	_	_	_	Gloss=?
-15	Graphie	Graphie	?	_	_	_	_	_	Gloss=?
-16	peurunvan'	peurunvan'	?	_	_	_	_	_	Gloss=?
-17	'	'	?	_	_	_	_	_	Gloss=?
-18			PUNCT	_	_	_	_	Gloss=punct
+# text_phon = / hwi zo kènn droš a dèy/ 
+# source = Trépos (1968)
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	'	zo	?	_	_	_	_	_	Gloss=est
+3	zo	zo	?	_	_	_	_	_	Gloss=?
+4	droch	droch	adjectif	_	_	_	_	_	Gloss=ridicule
+5	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+6	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
+8	??	??	?	_	_	_	_	_	Gloss=???
+9	?	?	PUNCT	_	_	_	_	Gloss=punct
+10	??	??	?	_	_	_	_	_	Gloss=???
+11	?	?	PUNCT	_	_	_	_	Gloss=punct
+12	Graphie	Graphie	?	_	_	_	_	_	Gloss=???
+13	peurunvan	peurunvan	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Gros(1984:198)__6
 # text = Mari-ze a labour kenkoulz ha paotr ebed.
 # text_fr = 'Cette Marie-là travaille aussi bien que n'importe quel garçon.'
-# source = Gros (1984)
-1	Mari-ze	DEM	?	_	_	_	_	_	Gloss=ci
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Mari-ze	DEM	pronom	_	_	_	_	_	Gloss=ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	labour	labourat	verbe	_	_	_	_	_	Gloss=travaille
-4	kenkoulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
+4	kenkoulz	kenkoulz	complémenteur|adjectif	_	_	_	_	_	Gloss=autant
 5	ha	ha(g)	?	_	_	_	_	_	Gloss=que
 6	paotr	paotr	nom	_	_	_	_	_	Gloss=homme
 7	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
@@ -156,32 +155,34 @@
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
-2	Xizo	eurus	?	_	_	_	_	_	Gloss=heureux
+2	Xizo	eurus	adjectif	_	_	_	_	_	Gloss=heureux
 3	y:rys	y:rys	?	_	_	_	_	_	Gloss=?
 4	tə-zit	dezit	préposition	_	_	_	_	_	Gloss=par.rapport.à
-5	XiXwe:r	POSS.c'hoar	?.?	_	_	_	_	_	Gloss=son.sœur
+5	XiXwe:r	POSS.c'hoar	déterminant.?	_	_	_	_	_	Gloss=son.sœur
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeClerc(1986:130)__1
 # text = eun ti brasoc'h
 # text_fr = 'une plus grande maison.'
-# source = Le Clerc (1986)
-1	eun	art	?	_	_	_	_	_	Gloss=un
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
-3	brasoc'h	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+3	brasoc'h	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 
 # sent_id = Beyer(2009:101)__1
 # text = Elena a anavezan gwelloc'h eget nikun amañ.
 # text_fr = 'Je connais Elena mieux que quiconque ici.'
 # source = Beyer (2009)
 # texttype = Références de corpus
-1	Elena	nompropre	?	_	_	_	_	_	Gloss=Elena
+1	Elena	nom_propre	?	_	_	_	_	_	Gloss=Elena
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	anavezan	anavezout	verbe	_	_	_	_	_	Gloss=connais
 4	gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 5	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 6	nikun	nikun	quantifieur	_	_	_	_	_	Gloss=personne
-7	amañ	ads	?	_	_	_	_	_	Gloss=ici
+7	amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:222)__1
@@ -195,17 +196,18 @@
 # sent_id = Drezen(1990:12)__4
 # text = maouezed peuzziwiskoc’h an eil re eget ar re all.
 # text_fr = 'des femmes presque plus dénudées les unes que les autres.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	maouezed	maouez.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=femme.s
+1	maouezed	maouez.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=femme.s
 2	peuzziwiskoc’h	peuz-	?	_	_	_	_	_	Gloss=presque.
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	eil	eil	pronom	_	_	_	_	_	Gloss=second
-5	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 6	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-9	all	all	?	_	_	_	_	_	Gloss=autre
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+9	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:54)__1
@@ -215,36 +217,39 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	savet	sevel	verbe	_	_	_	_	_	Gloss=élevé
 5	eas	aes	adjectif	_	_	_	_	_	Gloss=facile
 6	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-7	e-skoaz	e-skoaz	préposition-complémenteur	_	_	_	_	_	Gloss=dans.épaule
+7	e-skoaz	e-skoaz	complémenteur|préposition	_	_	_	_	_	Gloss=dans.épaule
 8	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeClerc(1986:130)__1
 # text = Pêr n'eo ket _ evit e vreur
 # text_fr = 'Pierre est moins fort que son frère.'
-# source = Le Clerc (1986)
-1	Pêr	nompropre	?	_	_	_	_	_	Gloss=Pierre
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	Pêr	nom_propre	?	_	_	_	_	_	Gloss=Pierre
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	_	_	?	_	_	_	_	_	Gloss=plus.adjectif
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	vreur	breur	nom	_	_	_	_	_	Gloss=frère
 
 # sent_id = Drezen(1990:53)__6
 # text = gwelloc'hikañ ma c'hellan.
 # text_fr = '... du mieux que je peux.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	gwelloc'hikañ	gwelloc'h.gwelloc'hikañ.superlatif	?.?.adjectif	_	_	_	_	_	Gloss=mieux.DIM.le.plus
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	c'hellan	gallout	verbe	_	_	_	_	_	Gloss=peux
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -255,12 +260,12 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+1	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 2			PUNCT	_	_	_	_	Gloss=punct
 3	zegouezh	degouezhout	verbe	_	_	_	_	_	Gloss=arrive
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	'	art	?	_	_	_	_	_	Gloss=le
+5	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	n	eil	pronom	_	_	_	_	_	Gloss=second
-7	eil	deus	pronom	_	_	_	_	_	Gloss=de
-8	deus	egile	?	_	_	_	_	_	Gloss=autre
+7	eil	deus	préposition	_	_	_	_	_	Gloss=de
+8	deus	egile	pronom	_	_	_	_	_	Gloss=autre
 9	egile.	egile.	?	_	_	_	_	_	Gloss=?

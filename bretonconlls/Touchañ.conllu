@@ -4,14 +4,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	N'	kaout	?	_	_	_	_	_	Gloss=avait|Morph=1
+1	N'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait|Mutation=target|MutationNUM=1
 2	oa	oa	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	droed	droed	?	_	_	_	_	_	Gloss=droit
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	droed	droed	nom	_	_	_	_	_	Gloss=droit
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	douch	douch	?	_	_	_	_	_	Gloss=toucher
-7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=jusqu.à
-8	na	ne	?	_	_	_	_	_	Gloss=que
-9	vehe-heñv	COP	?	_	_	_	_	_	Gloss=serait
-10	marv	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+7	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=jusqu.à
+8	na	ne	complémenteur	_	_	_	_	_	Gloss=que
+9	vehe-heñv	COP	verbe	_	_	_	_	_	Gloss=serait
+10	marv	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

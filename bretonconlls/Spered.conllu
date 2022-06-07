@@ -5,12 +5,12 @@
 # texttype = Références de corpus
 1	Komz	komz	verbe	_	_	_	_	_	Gloss=parler
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	ur	art	?	_	_	_	_	_	Gloss=un
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	spered	spered	nom	_	_	_	_	_	Gloss=esprit
-8	diuntuek	di-.unan.tu.-ek	?.pronom-quantifieur.nom.?	_	_	_	_	_	Gloss=dé.un.côté.é
+8	diuntuek	di-.unan.tu.-ek	?.pronom|quantifieur.nom.suffixe|adjectif	_	_	_	_	_	Gloss=dé.un.côté.é
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Langleiz(1975:15)__1
@@ -18,31 +18,32 @@
 # text_fr = 'Voici le but que le Mal avait de tous temps cherché à atteindre.'
 # source = Langleiz (1975)
 # texttype = Références de corpus
-1	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	doa	kaout	?	_	_	_	_	_	Gloss=avait
-4	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
+3	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	klasket	klask.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=cherch.é
 5	tizhout	tizhout	verbe	_	_	_	_	_	Gloss=atteindre
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	Droug-Spered	droug	nom-adjectif	_	_	_	_	_	Gloss=Mal
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	Droug-Spered	droug	adjectif|nom	_	_	_	_	_	Gloss=Mal
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	holl-viskoazh	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+10	holl-viskoazh	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Lozac'h, [http://brezhoneg-digor.blogspot.fr/2010/07/spered-ar-vatezh.html brezhoneg digor]__1
+# sent_id = Lozac'h,[http://brezhoneg-digor.blogspot.fr/2010/07/spered-ar-vatezh.htmlbrezhonegdigor]__1
 # text = An otro-person lar din lar me meus ket kalz spered kin !
 # text_fr = 'Le recteur me dit que je n'ai plus beaucoup de jugeote !'
 # source2 =  Plonévez-du-Faou, Kazetenn ar Menez 1981
-1	An	art	?	_	_	_	_	_	Gloss=le
+# source = Langleiz (1975)
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	otro-person	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 3	lar	lavarout	verbe	_	_	_	_	_	Gloss=dit
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
-6	me	pfi	?	_	_	_	_	_	Gloss=moi
-7	meus	kaout	?	_	_	_	_	_	Gloss=ai
+6	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+7	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=baucoup
+9	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=baucoup
 10	spered	spered	nom	_	_	_	_	_	Gloss=esprit
-11	kin	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+11	kin	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 12	!	!	PUNCT	_	_	_	_	Gloss=punct

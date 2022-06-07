@@ -4,14 +4,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Heñv	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Heñv	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	foetas	foetañ	verbe	_	_	_	_	_	Gloss=fouetta
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	zanvez	danvez	nom	_	_	_	_	_	Gloss=matière
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	ren	ren	verbe	_	_	_	_	_	Gloss=mener
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 10	diroll	diroll	verbe	_	_	_	_	_	Gloss=dissolu
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

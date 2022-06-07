@@ -8,7 +8,7 @@
 3	em-bije	em-bije	?	_	_	_	_	_	Gloss=R
 4	breh	brec'h	?	_	_	_	_	_	Gloss=bras
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	na	na...na	?	_	_	_	_	_	Gloss=ni
+6	na	na..._na	?	_	_	_	_	_	Gloss=ni
 7	diouvreh	diouvreh.brec'h	?.?	_	_	_	_	_	Gloss=1.bras
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -17,7 +17,7 @@
 # text_fr = 'yeux bleus'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	daoulagad	1]]_.[[lagad	?	_	_	_	_	_	Gloss=œil|Morph=1
+1	daoulagad	1]]_.[[lagad	?	_	_	_	_	_	Gloss=œil|Mutation=trigger|MutationNUM=1
 2	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=bleu
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	daou	daou	?	_	_	_	_	_	Gloss=deux
@@ -29,16 +29,16 @@
 # text_fr = 'Jamais il n'y aura assez de bras pour faire la moisson.'
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
-2	vezo	E	?	_	_	_	_	_	Gloss=sera
-3	nepred	nep-X	adverbe	_	_	_	_	_	Gloss=jamais
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
+2	vezo	E	verbe	_	_	_	_	_	Gloss=sera
+3	nepred	nep-X	quantifieur	_	_	_	_	_	Gloss=jamais
 4	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
 5	a-zivrec'h	a.a-zivrec'h.brec'h	préposition.?.?	_	_	_	_	_	Gloss=de.1.bras
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	troc'hañ	troc'hañ	?	_	_	_	_	_	Gloss=couper
-8	ha	&	?	_	_	_	_	_	Gloss=et
+8	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	dastum	dastum	verbe	_	_	_	_	_	Gloss=récolter
-10	an	art	?	_	_	_	_	_	Gloss=le
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	eost	eost	nom	_	_	_	_	_	Gloss=moisson
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -47,10 +47,10 @@
 # text_fr = 'Vos mains ne sont pas propres.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+1	Ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 2	taouarn	dorn	nom	_	_	_	_	_	Gloss=main
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	int	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+4	int	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	net	naet	adjectif	_	_	_	_	_	Gloss=net
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -61,11 +61,11 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	He	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	diouskouarn	skouarn	nom	_	_	_	_	_	Gloss=oreille
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	braz-se	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-5	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+4	braz-se	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+5	anezo	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§96)__1
@@ -73,15 +73,15 @@
 # text_fr = 'De quelle couleur sont ses yeux ? - Ils sont noirs.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=Quel
+1	Pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=Quel
 2	liv	liv	nom	_	_	_	_	_	Gloss=couleur
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	zaoulagad	lagad	nom	_	_	_	_	_	Gloss=oeil
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	-	-	?	_	_	_	_	_	Gloss=-
 8	Du	du	adjectif	_	_	_	_	_	Gloss=noir
-9	int	COP	?	_	_	_	_	_	Gloss=sont
+9	int	COP	verbe	_	_	_	_	_	Gloss=sont
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Goyat(2012:188)__1
@@ -90,28 +90,30 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	Mellou	mell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=grand.s
+1	Mellou	mell.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=grand.s
 2	daoulagad	lagad	nom	_	_	_	_	_	Gloss=œil
 3	du	du	adjectif	_	_	_	_	_	Gloss=noir
-4	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§346),citantRoc'halan.__1
 # text = Un daoulagad leun a zouster hag a garantez a skede en he fenn.
 # text_fr = 'Son visage rayonnait d'un regard plein d'amour et douceur.'
-# source = Kervella (1995)
-1	Un	art	?	_	_	_	_	_	Gloss=un
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	lagad	nom	_	_	_	_	_	Gloss=œil
-3	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	zouster	dous.-ter	adverbe-adjectif.?	_	_	_	_	_	Gloss=douc.eur
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	leun	leun	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	zouster	dous.-ter	adverbe|adjectif.suffixe|nom	_	_	_	_	_	Gloss=douc.eur
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	garantez	karantez	nom	_	_	_	_	_	Gloss=amour
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	skede	skediñ	verbe	_	_	_	_	_	Gloss=brillait
-11	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-12	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	en	P.e	préposition	_	_	_	_	_	Gloss=en
+12	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 13	fenn	penn	nom	_	_	_	_	_	Gloss=tête
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -120,13 +122,13 @@
 # text_fr = 'Des yeux clairs, une chevelure blonde'
 # location = Bodilis
 # source = Ar Floch (1922)
-1	Eun	art	?	_	_	_	_	_	Gloss=un
+1	Eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	lagad	nom	_	_	_	_	_	Gloss=œil
 3	glaz	glas	adjectif	_	_	_	_	_	Gloss=bleu/vert
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	eur	art	nom	_	_	_	_	_	Gloss=un
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	bleo	blev	nom	_	_	_	_	_	Gloss=chevelure
-7	bloundin	bloundin	?	_	_	_	_	_	Gloss=blond
+7	bloundin	bloundin	adjectif	_	_	_	_	_	Gloss=blond
 
 # sent_id = Goyat(2012:188)__1
 # text = eun daoulagad du dezañ.
@@ -134,10 +136,10 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	eun	art	?	_	_	_	_	_	Gloss=un
+1	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	lagad	nom	_	_	_	_	_	Gloss=œil
 3	du	du	adjectif	_	_	_	_	_	Gloss=noir
-4	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§96)__1
@@ -146,36 +148,39 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	gedon	gad	nom	_	_	_	_	_	Gloss=lièvres
-2	gant	gant	?	_	_	_	_	_	Gloss=avec
+2	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 3	diskouarnioù	skouarn	nom	_	_	_	_	_	Gloss=oreilles
 4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
 
 # sent_id = Gros(1970:154)__1
 # text = Peziou daoulagad dezo o selled ouzin-me.
 # text_fr = 'me regardant avec de grands yeux'
-# source = Gros (1970)
-1	Peziou	pezh.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=morceau.x
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Peziou	pezh.-ioù_(PL.)	pronom|nom.suffixe	_	_	_	_	_	Gloss=morceau.x
 2	daoulagad	lagad	nom	_	_	_	_	_	Gloss=yeux
-3	dezo	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	dezo	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
 5	selled	sellout	verbe	_	_	_	_	_	Gloss=regarder
-6	ouzin-me	ouzh.pronomincorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=à.moi.moi
+6	ouzin-me	ouzh.pronom_incorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=à.moi.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,CAPES2005,traductionHanotte(2000)__1
 # text = Pevarlammat a raen e-giz unan difelc’het.
 # text_fr = 'Je galopais comme un dératé.'
 # source = Hanotte (2000)
-1	Pevarlammat	lammat	?	_	_	_	_	_	Gloss=sauter
+1	Pevarlammat	lammat	verbe	_	_	_	_	_	Gloss=sauter
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisais
+3	raen	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisais
 4	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
-5	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 6	difelc’het	difelc’het	?	_	_	_	_	_	Gloss=dératé
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Égyptien,Gardiner(2017:640)__1
 # text = nb-∅ tᴈ-wy
 # text_fr = 'maître des deux pays'
+# source = Hanotte (2000)
 1	nb-∅	nb-∅	?	_	_	_	_	_	Gloss=maître-M.SG
 2	tᴈ-wy	tᴈ-wy	?	_	_	_	_	_	Gloss=pays-duel.masculin

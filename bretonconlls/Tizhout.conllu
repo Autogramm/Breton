@@ -3,32 +3,33 @@
 # text_fr = 'Voici le but que le Mal avait de tous temps cherché à atteindre.'
 # source = Langleiz (1975)
 # texttype = Références de corpus
-1	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	doa	kaout	?	_	_	_	_	_	Gloss=avait
-4	klasket	klask.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cherch.é
+3	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	klasket	klask.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=cherch.é
 5	tizhout	tizhout	verbe	_	_	_	_	_	Gloss=atteindre
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	Droug-Spered	droug	nom-adjectif	_	_	_	_	_	Gloss=Mal
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	Droug-Spered	droug	adjectif|nom	_	_	_	_	_	Gloss=Mal
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	holl-viskoazh	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+10	holl-viskoazh	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:22)__1
 # text = Me a vez tizet dalc'hmat, e lec'h ar re all.
 # text_fr = 'C'est toujours moi qui prends, pas les autres.' (un élève)
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	tizet	tizet	?	_	_	_	_	_	Gloss=visé
 5	dalc'hmat	dalc'hmat	?	_	_	_	_	_	Gloss=toujours
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
+7	e	e-lec'h	verbe	_	_	_	_	_	Gloss=au.lieu
 8	lec'h	lec'h	?	_	_	_	_	_	Gloss=?
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-11	all	all	?	_	_	_	_	_	Gloss=autre
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+11	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

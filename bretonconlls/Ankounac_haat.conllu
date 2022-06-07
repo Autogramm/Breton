@@ -4,19 +4,19 @@
 # dialect = Vannetais
 # source = Herrieu (1915-19)
 # texttype = Références de corpus
-1	Ar	Ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
-2	pezh	pezh	?	_	_	_	_	_	Gloss=que]]
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Ar	Ar	?	_	_	_	_	_	Gloss=[[ar_pezh|ce
+2	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=que]]
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 7	??	??	?	_	_	_	_	_	Gloss=
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 9	ankouaat	ankouaat	?	_	_	_	_	_	Gloss=oublier
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	feson	feson	nom	_	_	_	_	_	Gloss=façon
-12	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-13	el	POP	?	_	_	_	_	_	Gloss=le
+12	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+13	el	POP	pronom	_	_	_	_	_	Gloss=le
 14	lâret	lavarout	verbe	_	_	_	_	_	Gloss=dire
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,9 +25,9 @@
 # text_fr = 'Pour que Yann n'oublie pas.'
 # source = Tallerman (1997)
 # texttype = Ouvrages de recherche
-1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause.de
+1	abalamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=à.cause.de
 2	da	da	préposition	_	_	_	_	_	Gloss=de
-3	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+3	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 4	nompas	nompas	?	_	_	_	_	_	Gloss=NEG
 5	ankouaad..	ankouaad..	?	_	_	_	_	_	Gloss=oublier
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -35,12 +35,14 @@
 # sent_id = Gros(1970:157)__1
 # text = Ankounac'heet am-eus piou a oa Soaz dezo.
 # text_fr = 'J'ai oublié qui était Soaz dans leur imagination.'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Ankounac'heet	Ankounac'heet	?	_	_	_	_	_	Gloss=oublié
 2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
 3	piou	piv	pronom	_	_	_	_	_	Gloss=qui
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-6	Soaz	nompropre	?	_	_	_	_	_	Gloss=Soaz
-7	dezo	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+5	oa	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+6	Soaz	nom_propre	?	_	_	_	_	_	Gloss=Soaz
+7	dezo	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

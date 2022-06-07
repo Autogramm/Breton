@@ -1,0 +1,14 @@
+sent_id = Gros(1984:398)__1
+text = Pa vez hejet ar voutaill e vez klevet al liou o trouzillal enni.
+text_fr =  'Quand on secoue la bouteille, on entend l'encre y faire du bruit.' (bruisser)
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand
+2	vez	vez	verbe	_	_	_	_	_	Gloss=est
+3	hejet	hejañ.-et (Adj.)	verbe.verbe	_	_	_	_	_	Gloss=secou.é
+4	ar voutaill	art	article	_	_	_	_	_	Gloss=le
+5	e vez	[[R]]_[[4]] [[vez|est]]	?	_	_	_	_	_	Gloss=[[R]]_[[4]] [[vez|est]]
+6	klevet	klevout.-et (Adj.)	verbe.verbe	_	_	_	_	_	Gloss=entend.u
+7	al liou	art	article	_	_	_	_	_	Gloss=le
+8	o	particule o	verbe	_	_	_	_	_	Gloss=à
+9	trouzillal	trouz	nom	_	_	_	_	_	Gloss=bruit
+10	enni	P.e.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=en.elle
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct

@@ -1,13 +1,15 @@
 # sent_id = Gros(1984:364,7)__1
 # text = Al labour-douar a zo eur vicher stard.
 # text_fr = 'L'agriculture est un dur métier.'
-# source = Gros (1984)
-1	Al	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	labour-douar	labour	nom	_	_	_	_	_	Gloss=travail
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	eur	art	nom	_	_	_	_	_	Gloss=un
-6	vicher	micher	nom	_	_	_	_	_	Gloss=métier|Morph=1
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+6	vicher	micher	nom	_	_	_	_	_	Gloss=métier|Mutation=target|MutationNUM=1
 7	stard	stard	?	_	_	_	_	_	Gloss=difficile
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,14 +20,14 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Stert	Stert	?	_	_	_	_	_	Gloss=difficile
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	er	POP	?	_	_	_	_	_	Gloss=le
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	er	POP	pronom	_	_	_	_	_	Gloss=le
 4	c'hompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
-5	kar	kar	?	_	_	_	_	_	Gloss=car
-6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	'	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-10	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=?
-11	zeal	onomatopée.-al(V.)	?.?	_	_	_	_	_	Gloss=zézay.er
+9	'	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+10	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=?
+11	zeal	onomatopée.-al_(V.)	?.verbe|suffixe	_	_	_	_	_	Gloss=zézay.er
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,22 +4,22 @@
 # dialect = Léonard
 # source = M-L. B. (05/2018)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	archerien	-ien	?	_	_	_	_	_	Gloss=s
-3	e	e	?	_	_	_	_	_	Gloss=3SG
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
-5	soñjet	soñjal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pens.é
+3	e	e	verbe	_	_	_	_	_	Gloss=3SG
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	soñjet	soñjal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pens.é
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	penn	penn	nom	_	_	_	_	_	Gloss=tête
-9	kenta	kentañ	?	_	_	_	_	_	Gloss=premier
-10	ar	art	?	_	_	_	_	_	Gloss=le
+9	kenta	kentañ	adjectif	_	_	_	_	_	Gloss=premier
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	seurezed	seurezed	?	_	_	_	_	_	Gloss=soeurs
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	houie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-14	un	art	?	_	_	_	_	_	Gloss=un
-15	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
-16	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	houie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+14	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+15	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
+16	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Drezen(1943)__1
@@ -29,16 +29,16 @@
 # texttype = Références de corpus
 1	a	a	préposition	_	_	_	_	_	Gloss=de
 2	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	deredet	redek	verbe	_	_	_	_	_	Gloss=accourru
 5	pomperion	pomper.-ion	nom.?	_	_	_	_	_	Gloss=pompier.s
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	archerion	-erion	?	_	_	_	_	_	Gloss=iers
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	sikourerion	sikour.-erion	verbe-nom.?	_	_	_	_	_	Gloss=secour.istes
-10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	sikourerion	sikour.-erion	verbe|nom.?	_	_	_	_	_	Gloss=secour.istes
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-12	seurt..	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+12	seurt..	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMerser(2009:§'ratisser')__1
@@ -47,12 +47,12 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Furchet	furchal	verbe	_	_	_	_	_	Gloss=cherché
-2	piz	pizh	adverbe-quantifieur	_	_	_	_	_	Gloss=fin
-3	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	piz	pizh	adverbe|quantifieur	_	_	_	_	_	Gloss=fin
+3	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	harter	karter	nom	_	_	_	_	_	Gloss=quartier|Morph=5
-7	gant	gant	?	_	_	_	_	_	Gloss=par
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	bolised	polis	?	_	_	_	_	_	Gloss=policier]].[[-ed(PL.)|s|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	harter	karter	nom	_	_	_	_	_	Gloss=quartier|Mutation=target|MutationNUM=5
+7	gant	gant	préposition	_	_	_	_	_	Gloss=par
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	bolised	polis	?	_	_	_	_	_	Gloss=policier]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

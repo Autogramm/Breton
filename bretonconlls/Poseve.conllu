@@ -4,12 +4,12 @@
 # source = Solliec (2015)
 # texttype = Ouvrages de recherche
 1	Poseve	Poseve	complémenteur	_	_	_	_	_	Gloss=C
-2	vichen	COP	?	_	_	_	_	_	Gloss=serais
+2	vichen	COP	verbe	_	_	_	_	_	Gloss=serais
 3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	pet'	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+5	pet'	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 6	a	a	préposition	_	_	_	_	_	Gloss=?
-7	mije	kaout	?	_	_	_	_	_	Gloss=aurais
+7	mije	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurais
 8	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=vu
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,8 +21,8 @@
 # texttype = Références de corpus
 1	gwelloh	-oc'h	?	_	_	_	_	_	Gloss=plus
 2	eged	eget	complémenteur	_	_	_	_	_	Gloss=que
-3	hounnez	DEM	?	_	_	_	_	_	Gloss=celle.là
-4	e	e	?	_	_	_	_	_	Gloss=R
+3	hounnez	DEM	pronom	_	_	_	_	_	Gloss=celle.là
+4	e	e	verbe	_	_	_	_	_	Gloss=R
 5	kavo	kavout	verbe	_	_	_	_	_	Gloss=trouvera
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	poseve	poseve	complémenteur	_	_	_	_	_	Gloss=espère
@@ -36,14 +36,15 @@
 # source = Lagadeg (2006)
 # texttype = Références de corpus
 1	Poseve	Poseve	complémenteur	_	_	_	_	_	Gloss=
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vezi	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=seras
-4	a-raog	araok	?	_	_	_	_	_	Gloss=avant
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vezi	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=seras
+4	a-raog	araok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 
-# sent_id = Lagadeg (2006 :46)__1
+# sent_id = Lagadeg(2006:46)__1
 # text =  [[ne]] [[kavout|trouve]] [[ket|pas]] [[da|à]].[[pronom incorporé|toi]] [[R]] [[gallout|pourrait]] [[bezañ|être]] [[traoù|choses]] [[nevez|nouveau]] [[gant|avec]].[[pronom incorporé|elle]]
 # text_fr = 'A :- Tu ne penses pas qu’elle pourrait être enceinte ? / B : - Mais, non, j’espère bien !'
-# text_phon = ['A : -', 'Ne gav', 'ket', 'dit', 'e hellfe', 'beza', 'traou', 'nevez', 'ganti ?']
+# text_phon = A : - Ne gav ket dit e hellfe beza traou nevez ganti ? 
+# source = Lagadeg (2006)
 1	[[ne]]	[[ne]]	?	_	_	_	_	_	Gloss=Alato,
 2	[[kavout|trouve]]	[[kavout|trouve]]	?	_	_	_	_	_	Gloss=?
 3	[[da|à]].[[pronom	[[da|à]].[[pronom	?	_	_	_	_	_	Gloss=ket,

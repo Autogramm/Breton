@@ -1,14 +1,15 @@
 # sent_id = LeGall(1957:'digratenna')__1
 # text = N'he-deus ket kavet amzer zoken da zigratenna he beg !
 # text_fr = 'Elle n'a même pas trouvé le temps de se décrasser la bouche !'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-2	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+2	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
 3	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 4	zoken	zoken	?	_	_	_	_	_	Gloss=même
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	zigratenna	di-.-añ(V.)	?.?	_	_	_	_	_	Gloss=dé-.-er
-7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	zigratenna	di-.-añ_(V.)	?.verbe|suffixe	_	_	_	_	_	Gloss=dé-.-er
+7	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 8	beg	beg	nom	_	_	_	_	_	Gloss=bouche
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,15 +19,15 @@
 # source = Plourin (2000)
 # texttype = Références de corpus
 1	Bet	bet	?	_	_	_	_	_	Gloss=eu
-2	neus	kaout	?	_	_	_	_	_	Gloss=a
-3	bet	kaout	?	_	_	_	_	_	Gloss=eu
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	begad	-ad	?	_	_	_	_	_	Gloss=ée
+2	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	begad	-ad	suffixe|nom	_	_	_	_	_	Gloss=ée
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	n'	n'	?	_	_	_	_	_	Gloss=ne
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-10	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=P
+10	'	evit	complémenteur|préposition	_	_	_	_	_	Gloss=P
 11	wid	wid	?	_	_	_	_	_	Gloss=?
 12	respont	respont	?	_	_	_	_	_	Gloss=répondre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -40,6 +41,6 @@
 # texttype = Ouvrages de recherche
 1	sell	sellout	verbe	_	_	_	_	_	Gloss=regarder
 2	deus	diouzh	préposition	_	_	_	_	_	Gloss=à
-3	'	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+3	'	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 4	nan	nan	?	_	_	_	_	_	Gloss=?
-5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+5	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque

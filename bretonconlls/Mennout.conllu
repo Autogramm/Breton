@@ -1,51 +1,56 @@
 # sent_id = Herrieu(1994:249)__1
 # text = Ne vennont ket krediñ e c’heller bout dishañval doc’hte.
 # text_fr = 'Ils ne peuvent croire que quiquonque soit différent d’eux.'
-# source = Herrieu (1994)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vennont	vennont	?	_	_	_	_	_	Gloss=veulent
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	krediñ	krediñ	verbe	_	_	_	_	_	Gloss=croire
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	c’heller	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=peut.on
-7	bout	beza	?	_	_	_	_	_	Gloss=être
-8	dishañval	dis-.heñvel	?.?	_	_	_	_	_	Gloss=dé.semblable
-9	doc’hte	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	c’heller	gallout.IMP	verbe.pronom	_	_	_	_	_	Gloss=peut.on
+7	bout	beza	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+8	dishañval	dis-.heñvel	?.adjectif	_	_	_	_	_	Gloss=dé.semblable
+9	doc’hte	diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:17)__1
 # text = Goap a vennit ober ac'hanon ?
 # text_fr = 'Tu veux te moquer de moi ?'
-# source = Ar Meliner (2009)
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
 1	Goap	goap	nom	_	_	_	_	_	Gloss=farce
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	vennit	vennit	?	_	_	_	_	_	Gloss=voulez
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-5	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+5	ac'hanon	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:233)__1
 # text = Mes er ré e venn hé santein a dost hag épad hir amzér, e cherr en droug pen.
 # text_fr = 'Mais ceux qui veulent sentir (cette plante) de près et pendant longtemps attrapent le mal de tête.'
+# dialect = Vannetais
 # source = ENVD.
-1	Mes	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	er	art	?	_	_	_	_	_	Gloss=le
-3	ré	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+# texttype = Références de corpus
+1	Mes	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	ré	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	venn	venn	?	_	_	_	_	_	Gloss=veut
-6	hé	POP	?	_	_	_	_	_	Gloss=les
+6	hé	POP	pronom	_	_	_	_	_	Gloss=les
 7	santein	santout	verbe	_	_	_	_	_	Gloss=sentir
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	dost	tost	adjectif	_	_	_	_	_	Gloss=près
-10	hag	&	?	_	_	_	_	_	Gloss=et
+10	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 11	épad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 12	hir	hir	adjectif	_	_	_	_	_	Gloss=long
 13	amzér	amzer	nom	_	_	_	_	_	Gloss=temps
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
-15	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+15	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 16	cherr	serriñ	verbe	_	_	_	_	_	Gloss=attrape
-17	en	art	complémenteur	_	_	_	_	_	Gloss=le
-18	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+17	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+18	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 19	pen	penn	nom	_	_	_	_	_	Gloss=tête
 20	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -56,13 +61,13 @@
 # location = Cléder
 # source = Seite (1985)
 # texttype = Références de corpus
-1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
-2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	e	COP	?	_	_	_	_	_	Gloss=était
+1	Ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=tant
+2	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	e	COP	verbe	_	_	_	_	_	Gloss=était
 4	veze	veze	?	_	_	_	_	_	Gloss=?
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	genaouajou	genoù.-ach,-aj.[-où(PL.)	nom.?.?	_	_	_	_	_	Gloss=bouche.ée.s
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	genaouajou	genoù.-ach,_-aj.[-où_(PL.)	nom.suffixe|nom.?	_	_	_	_	_	Gloss=bouche.ée.s
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	venne	venne	?	_	_	_	_	_	Gloss=manquait
 9	tourlonka	tour-.lonkañ	?.verbe	_	_	_	_	_	Gloss=pfx.avaler
 10	...	...	PUNCT	_	_	_	_	Gloss=punct
@@ -73,37 +78,39 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Mennout	Mennout	verbe	_	_	_	_	_	Gloss=manquer
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	gouelañ	gouelañ	verbe	_	_	_	_	_	Gloss=pleurer
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-7	sonjan	sonjal	?	_	_	_	_	_	Gloss=pense
-8	hirio	hiriv	?	_	_	_	_	_	Gloss=aujourd'@hui
-9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+7	sonjan	sonjal	verbe	_	_	_	_	_	Gloss=pense
+8	hirio	hiriv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
+9	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-11	evurus..	eurus	?	_	_	_	_	_	Gloss=heureux
+11	evurus..	eurus	adjectif	_	_	_	_	_	Gloss=heureux
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:56)__1
-# text = èl a pa vennahe ma zrugarekaat e'it ar pezh am eus graet eviti [...].
+# text = èl a pa vennahe ma zrugarekaat e'it ar pezh am eus graet eviti [....
 # text_fr = '...comme si elle voulait me remercier de ce que j'ai fait pour elle [...].'
-# source = Herrieu (1994)
-1	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-2	a	hapa	?	_	_	_	_	_	Gloss=si|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	èl	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+2	a	ha_pa	préposition	_	_	_	_	_	Gloss=si
 3	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 4	vennahe	vennahe	?	_	_	_	_	_	Gloss=voulait
-5	ma	POP	?	_	_	_	_	_	Gloss=me|Morph=2
-6	zrugarekaat	trugarez.-aat	nom-interjection.verbe	_	_	_	_	_	Gloss=remerc.ier
-7	e'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	ma	POP	pronom	_	_	_	_	_	Gloss=me|Mutation=trigger|MutationNUM=2
+6	zrugarekaat	trugarez.-aat	interjection|nom.verbe|suffixe	_	_	_	_	_	Gloss=remerc.ier
+7	e'	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	it	it	?	_	_	_	_	_	Gloss=?
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	pezh	pezh	?	_	_	_	_	_	Gloss=ce.que
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=ce.que
 11	am	am	?	_	_	_	_	_	Gloss=R
-12	eus	kaout	?	_	_	_	_	_	Gloss=a
-13	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-14	eviti	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.elle
-15	[...].	[...].	?	_	_	_	_	_	Gloss=?
+12	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+13	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+14	eviti	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=pour.elle
+15	[....	[....	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Louis(2015:56)__1
 # text = Ne vennan ket ma taoc’h.
@@ -111,38 +118,40 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vennan	vennan	?	_	_	_	_	_	Gloss=veux
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 5	taoc’h	dont	verbe	_	_	_	_	_	Gloss=veniez
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1993:110)__1
 # text = Mennet e oa d'ober d'ar vugale c'hoarzhin.
 # text_fr = 'C'était destiné à faire rire les enfants.'
+# dialect = Standard
 # location = Dirinon
 # source = Kervella (1993)
 # texttype = Références de corpus
-1	Mennet	-et(Adj.)	?	_	_	_	_	_	Gloss=u
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Mennet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=u
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	ar	art	?	_	_	_	_	_	Gloss=le|Morph=1
-8	vugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=1
+8	vugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 9	c'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1933:42)__1
 # text = An neb a venn  a c'hell .
 # text_fr = 'Qui veut peut.'
+# dialect = Standard
 # source = Kervella (1993)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	neb	NepX	?	_	_	_	_	_	Gloss=nep
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	neb	Nep_X	déterminant|quantifieur	_	_	_	_	_	Gloss=nep
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	venn	venn	?	_	_	_	_	_	Gloss=veut
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut

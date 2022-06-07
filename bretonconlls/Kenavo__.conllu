@@ -1,16 +1,17 @@
 # sent_id = Bannoù-Heol(2000:33)__1
 # text = Forzh ma buhez ! ... Kenavo er bed all !...
 # text_fr = 'Au secours ! Adieu à jamais !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Forzh	forzh	quantifieur	_	_	_	_	_	Gloss=force
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	..	..	?	_	_	_	_	_	Gloss=
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
-7	Kenavo	Kenavo	?	_	_	_	_	_	Gloss=au.revoir
-8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	Kenavo	Kenavo	interjection	_	_	_	_	_	Gloss=au.revoir
+8	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	bed	bed	nom	_	_	_	_	_	Gloss=monde
-10	all	all	?	_	_	_	_	_	Gloss=autre
+10	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 11	!...	!...	?	_	_	_	_	_	Gloss=?

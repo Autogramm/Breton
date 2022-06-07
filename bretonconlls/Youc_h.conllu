@@ -5,13 +5,13 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Strafuilh	strafuilh	nom	_	_	_	_	_	Gloss=effroi
-2	ha	&	?	_	_	_	_	_	Gloss=et
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	youh	youh	?	_	_	_	_	_	Gloss=cri
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
-5	ha	&	?	_	_	_	_	_	Gloss=et
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	teh	tec'h	?	_	_	_	_	_	Gloss=fuite
 7	timad	timat	verbe	_	_	_	_	_	Gloss=promptement
-8	war-du	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	hoad-pin	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+8	war-du	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	hoad-pin	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

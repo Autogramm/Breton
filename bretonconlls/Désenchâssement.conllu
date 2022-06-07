@@ -1,34 +1,37 @@
 # sent_id = Standard,Kervella(2013)__1
 # text = Ho tigarez, eme Mammig, met dav eo d'ar paotrig mont abred da gousket.
 # text_fr = 'Excusez-moi, dit maman, mais le petit doit se coucher tôt.'
+# dialect = Standard
 # source = Kervella (2013)
 # texttype = Références de corpus
-1	Ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+1	Ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 2	tigarez	digarez	nom	_	_	_	_	_	Gloss=excuse
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	eme	eme	préposition	_	_	_	_	_	Gloss=dit
 5	Mammig	mamm.Mammig	nom.?	_	_	_	_	_	Gloss=maman.DIM
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 8	dav	dav	adjectif	_	_	_	_	_	Gloss=dev(oir)
-9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-11	ar	art	?	_	_	_	_	_	Gloss=le
+9	eo	COP	verbe	_	_	_	_	_	Gloss=est
+10	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	paotrig	paotr.paotrig	nom.?	_	_	_	_	_	Gloss=gars.DIM
 13	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-14	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
-15	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+14	abred	abred	adverbe|adjectif	_	_	_	_	_	Gloss=tôt
+15	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 16	gousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:318)__1
 # text = bezañ lakeet honnez da labourat !
 # text_fr = '(Il aurait fallu) la mettre au travail !'
-# source = Gros (1984)
-1	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-2	lakeet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-3	honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+2	lakeet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+3	honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -37,9 +40,9 @@
 # text_fr = 'Tu aurais dû me dire.'
 # source = Hewitt (2010b)
 # texttype = Ouvrages de recherche
-1	(ma	ma(r)	?	_	_	_	_	_	Gloss=si
+1	(ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	karjes)	karout	verbe	_	_	_	_	_	Gloss=aurait.aimé
-3	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+3	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4	lared	lavarout	verbe	_	_	_	_	_	Gloss=dit
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

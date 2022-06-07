@@ -1,4 +1,4 @@
-# sent_id = Mathelier (2017:30)__3
+# sent_id = Mathelier(2017:30)__3
 # text = Me ga de vonek d'er palut.
 # text_fr = 'Je vais aller au marais.'
 1	ga	ga	interjection	_	_	_	_	_	Gloss=ya
@@ -13,9 +13,9 @@
 # text = N'eus buhez ebet er paludoù-holen.
 # text_fr = 'Il n'y a pas de vie dans les marais salants.'
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eus	E	?	_	_	_	_	_	Gloss=y.a
+2	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 3	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
 4	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-6	paludoù-holen	-où(PL.)	?	_	_	_	_	_	Gloss=s
+5	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+6	paludoù-holen	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

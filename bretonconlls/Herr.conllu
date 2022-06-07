@@ -5,10 +5,10 @@
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
 1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=de.fois
-2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+3	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 4	herr	herr	nom	_	_	_	_	_	Gloss=vitesse
-5	e	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	e	particule_o	verbe	_	_	_	_	_	Gloss=à
 6	plantañ	plantañ	verbe	_	_	_	_	_	Gloss=planter
 7	brikoli..	brikoli	nom	_	_	_	_	_	Gloss=choux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

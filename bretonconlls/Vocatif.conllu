@@ -4,12 +4,12 @@
 # dialect = Léonard
 # source = Seite (1975)
 # texttype = Ouvrages pédagogiques
-1	Tostaad	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+1	Tostaad	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+3	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
 4	ouz	ouzh	préposition	_	_	_	_	_	Gloss=de
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	bourk	bourk	?	_	_	_	_	_	Gloss=bourg
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	bourk	bourk	nom	_	_	_	_	_	Gloss=bourg
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	tad-koz	tad	nom	_	_	_	_	_	Gloss=père
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -17,25 +17,28 @@
 # sent_id = KeitVimpBev(1987:45)__1
 # text = Azalek amañ e ya pep hini deus e du, Yakari.
 # text_fr = 'À partir d'ici, nous allons chacun de notre côté, Yakari.'
+# dialect = Standard
 # source = Keit Vimp Bev (1987)
 # texttype = Références de corpus
-1	Azalek	azalek	?	_	_	_	_	_	Gloss=depuis
-2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-3	e	e	?	_	_	_	_	_	Gloss=R
+1	Azalek	azalek	préposition	_	_	_	_	_	Gloss=depuis
+2	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+3	e	e	verbe	_	_	_	_	_	Gloss=R
 4	ya	mont	verbe	_	_	_	_	_	Gloss=va
 5	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-7	deus	deus	?	_	_	_	_	_	Gloss=de
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+7	deus	deus	préposition	_	_	_	_	_	Gloss=de
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	du	tu	nom	_	_	_	_	_	Gloss=côté
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	Yakari	nompropre	?	_	_	_	_	_	Gloss=Yakari
+11	Yakari	nom_propre	?	_	_	_	_	_	Gloss=Yakari
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Vannetais,Guillome(1836)__1
 # text = Te garehe, té, bihuein hemb labourat ?
 # text_fr = 'Tu aimerais, toi, vivre sans travailler ?'
-# source = Guillome (1836)
+# dialect = Vannetais
+# source = Guillôme (1836)
+# texttype = Ouvrages de recherche
 1	garehe	karout	verbe	_	_	_	_	_	Gloss=aimerais
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	bihuein	bevañ	verbe	_	_	_	_	_	Gloss=vivre
@@ -46,12 +49,13 @@
 # sent_id = LeSaëc(1990:12)__1
 # text = He i ! Te ! Paotr !
 # text_fr = 'Eh ! Toi ! Mec !'
+# dialect = Standard
 # source = Le Saëc (1990)
 # texttype = Références de corpus
-1	He	He	?	_	_	_	_	_	Gloss=[[interjection|Ehho
+1	He	He	?	_	_	_	_	_	Gloss=[[interjection|Eh_ho
 2	i	i	?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Te	pfi	?	_	_	_	_	_	Gloss=toi
+4	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -59,21 +63,23 @@
 # sent_id = Gros(1984:100)__2
 # text = N'eo ket awalh ar boan a vez, med ar frejou a vez, te !
 # text_fr = 'C'est pas le tout, le mal que l'on a, mais les frais qu'on a, toi ! (rends-toi compte !).'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	awalh	a-walc'h	?	_	_	_	_	_	Gloss=assez
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	boan	poan	nom	_	_	_	_	_	Gloss=peine|Morph=1
+4	awalh	a-walc'h	adverbe|quantifieur	_	_	_	_	_	Gloss=assez
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	boan	poan	nom	_	_	_	_	_	Gloss=peine|Mutation=target|MutationNUM=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
-8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-11	ar	art	?	_	_	_	_	_	Gloss=le
+10	med	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	frejou	frejou	?	_	_	_	_	_	Gloss=frais
 13	a	a	préposition	_	_	_	_	_	Gloss=R
-14	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+14	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 15	,	,	PUNCT	_	_	_	_	Gloss=punct
 16	te	te	?	_	_	_	_	_	Gloss=2SG
 17	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -84,10 +90,10 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	Piw	piv	pronom	_	_	_	_	_	Gloss=qui
-2	e'	COP	?	_	_	_	_	_	Gloss=est
+2	e'	COP	verbe	_	_	_	_	_	Gloss=est
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	zac'had	sac'h.-ad	?.?	_	_	_	_	_	Gloss=sac.ée
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	zac'had	sac'h.-ad	?.suffixe|nom	_	_	_	_	_	Gloss=sac.ée
 6	brenn	brenn	?	_	_	_	_	_	Gloss=son
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	-te	-te	?	_	_	_	_	_	Gloss=2SG
@@ -98,34 +104,35 @@
 # text_fr = 'Pour les hommes, idiot (que vous êtes), les hommes... '
 # source = Derrien (1980)
 # texttype = Références de corpus
-1	Evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
+1	Evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	penn	penn	nom	_	_	_	_	_	Gloss=tête
 6	zod	zod	adjectif	_	_	_	_	_	Gloss=sot
-7	ahanoh	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
+7	ahanoh	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.vous
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	baotred..	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	baotred..	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:53)__1
 # text = Ni, Breur Arzhur, a zo da vezañ menec'h ac'hanomp…
 # text_fr = 'Nous, frère Arthur, sommes destinés à être moines.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	Breur	breur	nom	_	_	_	_	_	Gloss=Frère
 4	Arzhur	Arzhur	?	_	_	_	_	_	Gloss=Arthur
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	zo	COP	?	_	_	_	_	_	Gloss=est
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-9	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
-10	menec'h	manac'h.plurielsinternes	?.?	_	_	_	_	_	Gloss=moine.s
-11	ac'hanomp…	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.nous
+7	zo	COP	verbe	_	_	_	_	_	Gloss=est
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	vezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+10	menec'h	manac'h.pluriels_internes	?.?	_	_	_	_	_	Gloss=moine.s
+11	ac'hanomp…	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.nous
 
 # sent_id = Gros(1970b:'padoud')__1
 # text = N'eus ket ken; ne bad ket an traou, ma flah !
@@ -133,31 +140,32 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	ez_eus	préposition	_	_	_	_	_	Gloss=y.a
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+4	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 5	;	;	PUNCT	_	_	_	_	Gloss=punct
-6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 7	bad	padout	verbe	_	_	_	_	_	Gloss=dure
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	an	art	?	_	_	_	_	_	Gloss=le
-10	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	traou	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+12	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 13	flah	plac'h	?	_	_	_	_	_	Gloss=fille
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:19)__1
 # text = Ne dalv ket youc'hal evel-se, aotrou !
 # text_fr = 'Inutile de crier comme ça, monsieur !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	dalv	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	youc'hal	youc'hal	?	_	_	_	_	_	Gloss=crier
-5	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+5	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -167,14 +175,14 @@
 # text_fr = 'Pour que tu trouves un mari de ton milieu social, ma fille ?'
 # location = Bodilis
 # source = Ar Floch (1922)
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	kavi	kavout	verbe	_	_	_	_	_	Gloss=trouveras
-4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
-6	eus	eus	?	_	_	_	_	_	Gloss=de
-7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-8	gendere	ken-.derez	?.nom	_	_	_	_	_	Gloss=com.degré
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	gwaz	gwaz	nom	_	_	_	_	_	Gloss=mari
+6	eus	eus	préposition	_	_	_	_	_	Gloss=de
+7	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+8	gendere	ken-.derez	adjectif.nom	_	_	_	_	_	Gloss=com.degré
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	merc'hig	merc'h.merc'hig	?.?	_	_	_	_	_	Gloss=fille.DIM
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -182,46 +190,49 @@
 # sent_id = Kervella(2001:25)__3
 # text = Brav int, hañ, tonton Mateo ?
 # text_fr = 'N'est-ce pas qu'ils sont jolis, oncle Matéo ?'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-2	int	COP	?	_	_	_	_	_	Gloss=sont
+1	Brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+2	int	COP	verbe	_	_	_	_	_	Gloss=sont
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	hañ	hañ	?	_	_	_	_	_	Gloss=einh
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	Mateo	nompropre	?	_	_	_	_	_	Gloss=Matéo
+6	Mateo	nom_propre	?	_	_	_	_	_	Gloss=Matéo
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:163)__1
 # text = Hag e rafe ferhier-houarn, bugale, d'ar skol e vo ret mond!
 # text_fr = 'Même s'il tombait des hallebardes, mes enfants, il faudra aller à l'école !'
-# source = Gros (1989)
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	rafe	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferait
 4	ferhier-houarn	forc'h	?	_	_	_	_	_	Gloss=fourches
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+6	bugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	d'	da	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	skol	skol	nom	_	_	_	_	_	Gloss=école
-11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-12	vo	COP	?	_	_	_	_	_	Gloss=sera
+11	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+12	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 13	ret	ret	?	_	_	_	_	_	Gloss=obligé
 14	mond	mont	verbe	_	_	_	_	_	Gloss=aller
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = ArBorgn(2011:13)__8
+# sent_id = ArBorgn(2011:13)__7
 # text = Tapet oc'h ma lapous !
 # text_fr = 'T'es bien attrapé, mon coquin !'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
-2	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-4	lapous	lapous	?	_	_	_	_	_	Gloss=oiseau
+1	Tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
+2	oc'h	COP	verbe	_	_	_	_	_	Gloss=êtes
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+4	lapous	lapous	nom	_	_	_	_	_	Gloss=oiseau
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite(1975:53)__1
@@ -232,17 +243,17 @@
 # texttype = Ouvrages pédagogiques
 1	A:	A:	?	_	_	_	_	_	Gloss=
 2	-	-	PUNCT	_	_	_	_	Gloss=punct
-3	D'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
-6	e	e	?	_	_	_	_	_	Gloss=R
+3	D'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
+6	e	e	verbe	_	_	_	_	_	Gloss=R
 7	teui	dont	verbe	_	_	_	_	_	Gloss=viendras
-8	Jakez	nompropre	?	_	_	_	_	_	Gloss=Jakez
+8	Jakez	nom_propre	?	_	_	_	_	_	Gloss=Jakez
 9			?	_	_	_	_	_	Gloss=
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 11	B:	B:	?	_	_	_	_	_	Gloss=
 12	-	-	PUNCT	_	_	_	_	Gloss=punct
-13	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+13	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 14	deuin	dont	verbe	_	_	_	_	_	Gloss=viendrai
 15	két	ket	adverbe	_	_	_	_	_	Gloss=pas
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -250,21 +261,23 @@
 # sent_id = Gros(1984:23)__3
 # text = Ha c'hwi, ma flah bihan, ma 'ho pije gwelet an traou-ze...
 # text_fr = 'Et vous, ma petite fille, si vous aviez vu ces choses-là... '
-# source = Gros (1984)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	c'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ma	POSS	complémenteur	_	_	_	_	_	Gloss=mon
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon
 5	flah	flah	?	_	_	_	_	_	Gloss=fille
-6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit,
+6	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit,
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 9	'	'	?	_	_	_	_	_	Gloss=2PL
-10	ho	kaout	?	_	_	_	_	_	Gloss=aviez
+10	ho	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aviez
 11	pije	pije	?	_	_	_	_	_	Gloss=?
-12	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-13	an	art	?	_	_	_	_	_	Gloss=le
-14	traou-ze..	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+12	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+14	traou-ze..	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:180)__1
@@ -273,35 +286,38 @@
 # source = ar Meliner (2009)
 1	Aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	vonet	mont	verbe	_	_	_	_	_	Gloss=aller
-5	àr	war	?	_	_	_	_	_	Gloss=sur
-6	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+5	àr	war	préposition	_	_	_	_	_	Gloss=sur
+6	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 7	komz	komz	verbe	_	_	_	_	_	Gloss=parole
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kalamarhad')__1
 # text = C'hwi, kaz, na viot ket o kalamarhad an traoù toud amañ.
 # text_fr = 'Vous, (mon)_[[*]]/?_ chat, vous ne piétinerez pas tout (vous ne sauterez pas partout) ici !'
-# source = Gros (1989)
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi,	hwi,	?	_	_	_	_	_	Gloss=?
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	kaz	kazh	nom	_	_	_	_	_	Gloss=chat
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
-6	viot	COP	?	_	_	_	_	_	Gloss=serez
+5	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Mutation=trigger|MutationNUM=1
+6	viot	COP	verbe	_	_	_	_	_	Gloss=serez
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	kalamarhad	kalamarhad	?	_	_	_	_	_	Gloss=piétiner
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-12	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-13	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+12	toud	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+13	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Tchèque,M.Rezac,c.p.[01/2010]__1
 # text = Kamaráde, co ten mě už stál peněz !
 # text_fr = 'Mon ami, qu'est-ce qu'il m'a déjà couté d'argent !'
+# source = Gros (1970b)
 1	Kamaráde	Kamaráde	?	_	_	_	_	_	Gloss=camarade.VOC
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	co	co	?	_	_	_	_	_	Gloss=quoi.ACC

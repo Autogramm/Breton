@@ -4,25 +4,26 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	fenn	penn	nom	_	_	_	_	_	Gloss=tête
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	pounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 7	gwan	gwan	adjectif	_	_	_	_	_	Gloss=faible
-8	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	man	POSS	?	_	_	_	_	_	Gloss=mon
+8	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+9	man	POSS	déterminant	_	_	_	_	_	Gloss=mon
 
 # sent_id = Vallée(1980:XVII)__1
 # text = Ar gwanderiou a zeu eus ar wanded.
 # text_fr = 'Les infirmités qui viennent de la faiblesse.'
-# source = Vallée (1980)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gwanderiou	-der.-où(PL.)	?.?	_	_	_	_	_	Gloss=N.s
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = Vallée (1931)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	gwanderiou	-der.-où_(PL.)	suffixe|nom.suffixe	_	_	_	_	_	Gloss=N.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zeu	dont	verbe	_	_	_	_	_	Gloss=vient
-5	eus	eus	?	_	_	_	_	_	Gloss=de
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	wanded	wanded.-ded	?.?	_	_	_	_	_	Gloss=1.N
+5	eus	eus	préposition	_	_	_	_	_	Gloss=de
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	wanded	wanded.-ded	?.suffixe|nom	_	_	_	_	_	Gloss=1.N
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

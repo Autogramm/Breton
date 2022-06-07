@@ -1,19 +1,21 @@
 # sent_id = LeBozec(1933:85)__1
 # text = An naer he deus debret ar glesker.
 # text_fr = 'Le serpent a mangé la grenouille.'
-# source = Le Bozec
-1	An	art	?	_	_	_	_	_	Gloss=le
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	naer	naer	nom	_	_	_	_	_	Gloss=serpent
 3	he	he	?	_	_	_	_	_	Gloss=3SGF
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
-5	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
-6	ar	art	?	_	_	_	_	_	Gloss=le
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	debret	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Pijin,Lefebvre(2011:19)__1
 # text = dig-em siton.
 # text_fr = 'déterrer une pierre'
+# source = Le Bozec (1933)
 1	dig-em	dig-em	?	_	_	_	_	_	Gloss=déterre-TRANSITIF
 2	siton	siton	?	_	_	_	_	_	Gloss=pierre
 3	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -6,42 +6,44 @@
 # texttype = Élicitations
 1	Gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 2	espern	espern	verbe	_	_	_	_	_	Gloss=épargner
-3	rak	rak	?	_	_	_	_	_	Gloss=car
+3	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 4	gounit	gounit	verbe	_	_	_	_	_	Gloss=gagner
-5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	rea	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+5	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	rea	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:528)__1
 # text = Red e vez d'an den ober e zispign diouz e hounedigez.
 # text_fr = 'Il faut régler sa dépense sur son gain.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Red	ret	?	_	_	_	_	_	Gloss=obligé
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	an	IMP	?	_	_	_	_	_	Gloss=on
+5	an	IMP	pronom	_	_	_	_	_	Gloss=on
 6	den	den	nom	_	_	_	_	_	Gloss=?
-7	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	zispign	dispign	?	_	_	_	_	_	Gloss=dépense
 10	diouz	diouzh	préposition	_	_	_	_	_	Gloss=selon
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-12	hounedigez	-edigezh	?	_	_	_	_	_	Gloss=erie
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+12	hounedigez	-edigezh	suffixe|nom	_	_	_	_	_	Gloss=erie
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__15
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__16
 # text = Gall enefe espern pugur e c'houneze mat.
 # text_fr = 'Il aurait pu économiser car il gagnait bien.'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
 1	Gall	gallout	verbe	_	_	_	_	_	Gloss=pu
-2	enefe	kaout	?	_	_	_	_	_	Gloss=aurait
+2	enefe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 3	espern	espern	verbe	_	_	_	_	_	Gloss=épargner
 4	pugur	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	c'houneze	c'houneze	?	_	_	_	_	_	Gloss=gagnait
-7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+7	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

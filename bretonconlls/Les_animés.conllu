@@ -1,0 +1,19 @@
+sent_id = Avezard-Roger(2004a:218)__1
+text = pij eã da gɔ̃ te dɔX...
+text_fr =  'Qu'est-ce que je vais te raconter... '
+source = Avezard-Roger (2004a)
+texttype = Ouvrages de recherche
+1	pij	piv	pronom	_	_	_	_	_	Gloss=qu(o)i
+2	eã da gɔ̃ te	mont	verbe-verbe-verbe-verbe-verbe-verbe	_	_	_	_	_	Gloss=vais
+3	dɔX..	da.Pronom incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+4	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Avezard-Roger(2004a:189)__1
+text = ma pju lakefən ve mã da fesən
+text_fr =  'Qu'est-ce que je pourrais mettre pour aller à la fête ?'
+source = Avezard-Roger (2004a)
+texttype = Ouvrages de recherche
+1	ma pju	met	complémenteur-conjonction	_	_	_	_	_	Gloss=mais
+2	lakefən	lakaat	verbe-verbe	_	_	_	_	_	Gloss=mettrais
+3	ve mã	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+4	da fesən	da	préposition	_	_	_	_	_	Gloss=à

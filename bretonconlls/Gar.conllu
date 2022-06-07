@@ -6,12 +6,12 @@
 1	Krigi	kregiñ	verbe	_	_	_	_	_	Gloss=crocher
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=vert|Morph=5
-7	'	P.e	?	_	_	_	_	_	Gloss=en
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=vert|Mutation=target|MutationNUM=5
+7	'	P.e	préposition	_	_	_	_	_	Gloss=en
 8	n	n	?	_	_	_	_	_	Gloss=?
-9	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+9	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 10	gar	gar	nom	_	_	_	_	_	Gloss=jambe
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,15 +21,15 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	fenn	penn	nom	_	_	_	_	_	Gloss=tête
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	pounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 7	gwan	gwan	adjectif	_	_	_	_	_	Gloss=faible
-8	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	man	POSS	?	_	_	_	_	_	Gloss=mon
+8	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+9	man	POSS	déterminant	_	_	_	_	_	Gloss=mon
 
 # sent_id = Ouessant,Gouedig(1982)__16
 # text = N'on ket kapab, krena ra on divesker niennon.
@@ -37,51 +37,48 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=na|Morph=1
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	N'	N'	?	_	_	_	_	_	Gloss=na|Mutation=trigger|MutationNUM=1
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	kapab	kapap	?	_	_	_	_	_	Gloss=capable
+4	kapab	kapap	adjectif	_	_	_	_	_	Gloss=capable
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	krena	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=trembler
-7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	krena	krenañ	verbe|adverbe	_	_	_	_	_	Gloss=trembler
+7	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 8	on	on	?	_	_	_	_	_	Gloss=POSS
 9	divesker	duel	?	_	_	_	_	_	Gloss=deux.F
-10	niennon	dindan.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=sous.moi
+10	niennon	dindan.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sous.moi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1958:'mond')__1
 # text = abarz mond en douar e rankfen lakaad divesker nevez
 # text_fr = 'Avant de travailler un sol retourné, je devrais mettre des jambes neuves.'
-# source = Le Gall (1958)
-1	abarz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=avant
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	abarz	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=avant
 2	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	douar	douar	nom	_	_	_	_	_	Gloss=terre
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	rankfen	rankout	verbe	_	_	_	_	_	Gloss=devrais
 7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
 8	divesker	duel	?	_	_	_	_	_	Gloss=2
 9	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
 
 # sent_id = Bouzeg(1986:27)__6
-# text = 'ser geipal Doue  (cf. ''Standard'' 'galoupat')
+# text = 'ser geipal Doue  (cf. Standard 'galoupat')
 # text_fr = 'en courant à toutes jambes.'
 # dialect = Cornouaillais
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	e-serr	?	_	_	_	_	_	Gloss=en
+1	'	e-serr	préposition	_	_	_	_	_	Gloss=en
 2	ser	ser	?	_	_	_	_	_	Gloss=?
 3	geipal	geipal	?	_	_	_	_	_	Gloss=courir
-4	Doue	INT	nom	_	_	_	_	_	Gloss=Dieu
+4	Doue	INT	INT	_	_	_	_	_	Gloss=Dieu
 5	??	??	?	_	_	_	_	_	Gloss=???
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	(cf.	(cf.	?	_	_	_	_	_	Gloss=???
-8	'	'	?	_	_	_	_	_	Gloss=?
+8	Standard	Standard	?	_	_	_	_	_	Gloss=?
 9	'	'	?	_	_	_	_	_	Gloss=?
-10	Standard'	Standard'	?	_	_	_	_	_	Gloss=?
-11	'	'	?	_	_	_	_	_	Gloss=?
-12			PUNCT	_	_	_	_	Gloss=punct
-13	'	'	?	_	_	_	_	_	Gloss=?
-14	galoupat'	galoupat'	?	_	_	_	_	_	Gloss=?
-15	)	)	?	_	_	_	_	_	Gloss=?
+10	galoupat'	galoupat'	?	_	_	_	_	_	Gloss=?
+11	)	)	?	_	_	_	_	_	Gloss=?

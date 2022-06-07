@@ -2,12 +2,12 @@
 # text = ur raktres hir ha resis war treuzkas galloudoù ar Stad d'ar Rannvro
 # text_fr = 'Un projet étoffé et précis au sujet de la passation de pouvoir de l’État aux Régions'
 1	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-2	ha	&	?	_	_	_	_	_	Gloss=et
-3	resis	resis	adverbe-adjectif	_	_	_	_	_	Gloss=précis
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+3	resis	resis	adverbe|adjectif	_	_	_	_	_	Gloss=précis
 4	treuzkas	treuz-.kas	?.verbe	_	_	_	_	_	Gloss=à.travers.envoi
 5	galloudoù	gallout.-où	verbe.?	_	_	_	_	_	Gloss=pouvoir.s
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	Stad	Stad	nom	_	_	_	_	_	Gloss=État
 8	d'	da	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	Rannvro	rann-	?	_	_	_	_	_	Gloss=partie|Morph=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	Rannvro	rann-	?	_	_	_	_	_	Gloss=partie|Mutation=trigger|MutationNUM=1

@@ -5,9 +5,9 @@
 # texttype = Références de corpus
 1	Etre	Etre	préposition	_	_	_	_	_	Gloss=1
 2	veui	veui	?	_	_	_	_	_	Gloss=noyer
-3	ha	&	?	_	_	_	_	_	Gloss=et
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 4	neui	neuial	verbe	_	_	_	_	_	Gloss=nager
-5	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1944:108)__1
@@ -16,12 +16,12 @@
 # dialect = Cornouaillais
 # source = Riou (1944)
 # texttype = Références de corpus
-1	Sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
+1	Sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-4	din	da.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	Sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+4	din	da.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.moi
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Beuzet	Beuzet	?	_	_	_	_	_	Gloss=noyé
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	vin	COP	?	_	_	_	_	_	Gloss=serai
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	vin	COP	verbe	_	_	_	_	_	Gloss=serai
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

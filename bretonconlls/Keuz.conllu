@@ -4,33 +4,33 @@
 # dialect = Léonard
 # source = M-L. B. (05/2018)
 # texttype = Élicitations
-1	Tout	Tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	Tout	Tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
-5	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 6	keuz	keuz	nom	_	_	_	_	_	Gloss=regret
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	neus	kaout	?	_	_	_	_	_	Gloss=a
-9	lennet	lenn(V.)	?	_	_	_	_	_	Gloss=lu
-10	Alain	nompropre	?	_	_	_	_	_	Gloss=Alain
-11	an	art	?	_	_	_	_	_	Gloss=le
-12	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+9	lennet	lenn_(V.)	?	_	_	_	_	_	Gloss=lu
+10	Alain	nom_propre	?	_	_	_	_	_	Gloss=Alain
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	dra-se	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Mutation=target|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Vannetais,LeBayon(1878)__3
-# text = Kӕ e mes [ em bout hou s-offañset ]
+# text = Kӕ e mes [ em bout hou s-offañset 
 # text_fr = 'Je me repens de vous avoir offensé.'
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Kӕ	Kӕ	?	_	_	_	_	_	Gloss=regret
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	mes	kaout	?	_	_	_	_	_	Gloss=ai
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	mes	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 4	[	[	?	_	_	_	_	_	Gloss=
 5	em	em	?	_	_	_	_	_	Gloss=R
-6	bout	bout	?	_	_	_	_	_	Gloss=être
-7	hou	POP	?	_	_	_	_	_	Gloss=OBL
+6	bout	bout	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	hou	POP	pronom	_	_	_	_	_	Gloss=OBL
 8	s-offañset	s-offañset	?	_	_	_	_	_	Gloss=offensé
 
 # sent_id = Louis(2015:110)__1
@@ -41,12 +41,12 @@
 # texttype = Ouvrages de recherche
 1	Keuz	Keuz	nom	_	_	_	_	_	Gloss=regret
 2	am	am	?	_	_	_	_	_	Gloss=1SG
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	mand	ma	complémenteur	_	_	_	_	_	Gloss=que
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	ret	ret	?	_	_	_	_	_	Gloss=nécessaire
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	mab	mab	nom	_	_	_	_	_	Gloss=fils
 10	monet	mont	verbe	_	_	_	_	_	Gloss=aller
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -58,13 +58,13 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Keuz	Keuz	nom	_	_	_	_	_	Gloss=regret
-2	am-eus	kaout	?	_	_	_	_	_	Gloss=a
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	veza	bezañ	?	_	_	_	_	_	Gloss=être
+2	am-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	veza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 5	degaset	degas	verbe	_	_	_	_	_	Gloss=emporté
-6	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-7	eur	art	nom	_	_	_	_	_	Gloss=un
+6	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+7	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	zah	sac'h	?	_	_	_	_	_	Gloss=sac
-9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
-10	vian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
+10	vian	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

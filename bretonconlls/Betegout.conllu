@@ -1,14 +1,16 @@
 # sent_id = Gros(1989:'diflipa')__1
 # text = Skoulm anezañ ervat bete-gouzoud e tiflipfe diganit.
 # text_fr = 'Noue-le comme il faut de crainte qu'il [ne] t'échappe.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Skoulm	skoulmañ	verbe	_	_	_	_	_	Gloss=noue
-2	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-3	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+2	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+3	ervat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 4	bete-gouzoud	bete-gouzoud	?	_	_	_	_	_	Gloss=de.crainte
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	tiflipfe	diflipañ	verbe	_	_	_	_	_	Gloss=glisser
-7	diganit	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
+7	diganit	digant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Konan(2017:'betegoût')__1
@@ -20,7 +22,7 @@
 # texttype = Ouvrages de recherche
 1	Betegoût	Betegoût	?	_	_	_	_	_	Gloss=au.cas.où
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+3	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 4	partout	partout	adverbe	_	_	_	_	_	Gloss=partout
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -31,14 +33,14 @@
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
 1	Chomit	chom	verbe	_	_	_	_	_	Gloss=restez
-2	aze	ads	?	_	_	_	_	_	Gloss=ici
+2	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 3	war-hed	war-hed	préposition	_	_	_	_	_	Gloss=à.distance
-4	tôl	taol(M.)	?	_	_	_	_	_	Gloss=coup
+4	tôl	taol_(M.)	?	_	_	_	_	_	Gloss=coup
 5	bete-gouzoud	bete-gouzoud	?	_	_	_	_	_	Gloss=de.crainte
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vefe	COP	?	_	_	_	_	_	Gloss=serait
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vefe	COP	verbe	_	_	_	_	_	Gloss=serait
 8	ezomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
-9	diouzoh	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.vous
+9	diouzoh	diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.vous
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:29)__4
@@ -50,14 +52,14 @@
 # texttype = Ouvrages de recherche
 1	Degas'	degas	verbe	_	_	_	_	_	Gloss=apportez
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
-4	harz-glav	herzel	?	_	_	_	_	_	Gloss=stoppe
-5	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+3	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
+4	harz-glav	herzel	verbe	_	_	_	_	_	Gloss=stoppe
+5	ganeoc'h	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 6	betegoût	betegoût	?	_	_	_	_	_	Gloss=au.cas.où
 7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 8	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	barrad	barr.-ad	nom.?	_	_	_	_	_	Gloss=avers.ée
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	barrad	barr.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=avers.ée
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:309)__1
@@ -67,25 +69,26 @@
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
 1	bétégoud	bétégoud	?	_	_	_	_	_	Gloss=au.cas.où
-2	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+2	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
-4	ziztagfè-hi	distag	?	_	_	_	_	_	Gloss=détacherait
-5	'	art	?	_	_	_	_	_	Gloss=un
-6	n	taol(M.)	?	_	_	_	_	_	Gloss=coup
+4	ziztagfè-hi	distag	verbe	_	_	_	_	_	Gloss=détacherait
+5	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+6	n	taol_(M.)	?	_	_	_	_	_	Gloss=coup
 7	taol	taol	?	_	_	_	_	_	Gloss=?
 8	paw	pav	nom	_	_	_	_	_	Gloss=patte
 
-# sent_id = Bouzec & al. (2017:132)__1
+# sent_id = Bouzec&al.(2017:132)__1
 # text = betegoud  vankfè 'n dra m neg dei.
 # text_fr = 'au cas où il lui manquerait quelque chose'
+# source = Bouzec & al. (2017)
 1	betegoud	betegoud	?	_	_	_	_	_	Gloss=Bete-goût
-2	??	??	?	_	_	_	_	_	Gloss=e
+2	??	??	verbe	_	_	_	_	_	Gloss=e
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	vankfè	vankfè	?	_	_	_	_	_	Gloss=vankfe
 5	'	'	?	_	_	_	_	_	Gloss=un
 6	n	n	?	_	_	_	_	_	Gloss=dra
 7	dra	dra	?	_	_	_	_	_	Gloss=?
-8	m	m	quantifieur-adjectif	_	_	_	_	_	Gloss=bennak
+8	m	m	quantifieur|adjectif	_	_	_	_	_	Gloss=bennak
 9	neg	neg	?	_	_	_	_	_	Gloss=?
 10	dei	dei	?	_	_	_	_	_	Gloss=dezhi.
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

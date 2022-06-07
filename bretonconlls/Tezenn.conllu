@@ -1,11 +1,13 @@
 # sent_id = Gros(1984:366)__2
 # text = Hennez a deu tezennou fentuz gantañ.
 # text_fr = 'Celui-là raconte des histoires comiques.'
-# source = Gros (1984)
-1	Hennez	DEM	?	_	_	_	_	_	Gloss=celui.là
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Hennez	DEM	pronom	_	_	_	_	_	Gloss=celui.là
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-4	tezennou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	tezennou	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 5	fentuz	fentuz	?	_	_	_	_	_	Gloss=drôle
-6	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+6	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

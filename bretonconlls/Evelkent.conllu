@@ -1,17 +1,19 @@
 # sent_id = Gros(1970:133)__1
 # text = Evelkent, a-benn laza eun den e vez red beza kriz.
 # text_fr = 'Tout de même, pour tuer un homme, il faut être cruel.'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Evelkent	Evelkent	adverbe	_	_	_	_	_	Gloss=|tout.de.même
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	a-benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 4	laza	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
-5	eun	art	?	_	_	_	_	_	Gloss=un
+5	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=homme
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 9	red	ret	?	_	_	_	_	_	Gloss=obligé
-10	beza	bezan	?	_	_	_	_	_	Gloss=être
+10	beza	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 11	kriz	kriz	adjectif	_	_	_	_	_	Gloss=cruel
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -24,9 +26,9 @@
 # texttype = Ouvrages de recherche
 1	Pas	Pas	?	_	_	_	_	_	Gloss=pas
 2	réi	reiñ	verbe	_	_	_	_	_	Gloss=donner
-3	kem-sen	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=tant
-4	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-5	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	kem-sen	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=tant
+4	traou	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+5	doñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	aken	aken	?	_	_	_	_	_	Gloss=tout.de.même
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -34,18 +36,20 @@
 # sent_id = Gros(1989:'kalon')__1
 # text = Ze, evelkent, a oa eur galonad dezi da gaoud.
 # text_fr = 'C'était tout de même un crève-cœur pour elle.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Ze	ze	?	_	_	_	_	_	Gloss=ça
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	evelkent	evelkent	adverbe	_	_	_	_	_	Gloss=tout.de.même
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	oa	COP	?	_	_	_	_	_	Gloss=était
-7	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
-8	galonad	kalon.-ad	nom.?	_	_	_	_	_	Gloss=cœur.-ée
-9	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-11	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
+7	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un|Mutation=trigger|MutationNUM=1
+8	galonad	kalon.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=cœur.-ée
+9	dezi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+11	gaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elegoet(1975:9)__1
@@ -54,24 +58,24 @@
 # location = Plougerneau
 # source = Elegoet (1975)
 # texttype = Ouvrages de recherche
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-2	vijes	COP	?	_	_	_	_	_	Gloss=serais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+2	vijes	COP	verbe	_	_	_	_	_	Gloss=serais
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
-5	kanetennoù	kanetenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=canette.s
+5	kanetennoù	kanetenn.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=canette.s
 6	[...],	[...],	?	_	_	_	_	_	Gloss=?
-7	oas	COP	?	_	_	_	_	_	Gloss=étais
+7	oas	COP	verbe	_	_	_	_	_	Gloss=étais
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 9	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	jom	chom	verbe	_	_	_	_	_	Gloss=rester
 12	eken	eken	?	_	_	_	_	_	Gloss=même
 13	pesogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-14	e	e	?	_	_	_	_	_	Gloss=R
+14	e	e	verbe	_	_	_	_	_	Gloss=R
 15	rankes	rankout	verbe	_	_	_	_	_	Gloss=dois
 16	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
-17	eun	art	?	_	_	_	_	_	Gloss=un
-18	all	all	?	_	_	_	_	_	Gloss=autre
+17	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+18	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:12)__1
@@ -80,8 +84,8 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Sort-mañ	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+1	Sort-mañ	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	dibordet	di-.bord.-et(Adj.)	?.?.?	_	_	_	_	_	Gloss=sans.limite.é
+3	dibordet	di-.bord.-et_(Adj.)	?.?.verbe|suffixe	_	_	_	_	_	Gloss=sans.limite.é
 4	alkent	alkent	?	_	_	_	_	_	Gloss=tout.de.même
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -4,17 +4,17 @@
 # dialect = Cornouaillais
 # source = Ar Gow (1964)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oamp	COP	?	_	_	_	_	_	Gloss=étions
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oamp	COP	verbe	_	_	_	_	_	Gloss=étions
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	morse	morse	adverbe	_	_	_	_	_	Gloss=jamais
 5	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	un	art	?	_	_	_	_	_	Gloss=un
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	enkadenn	enkadenn	?	_	_	_	_	_	Gloss=?
-9	par	par	préposition-nom	_	_	_	_	_	Gloss=pareil
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-11	homañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
+9	par	par	préposition|nom	_	_	_	_	_	Gloss=pareil
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+11	homañ	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:74)__1
@@ -22,11 +22,11 @@
 # text_fr = '...d'éloigner de moi des anxiétés et des angoisses'
 # source = Le Garrec (1901)
 # texttype = Références de corpus
-1	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-2	bellât	pell.-aat	adjectif.verbe	_	_	_	_	_	Gloss=loin.er
-3	deuz	deus.ouzh.pronomincorporé	?.préposition.?	_	_	_	_	_	Gloss=de.de.moi
+1	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+2	bellât	pell.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=loin.er
+3	deuz	deus.ouzh.pronom_incorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.moi
 4	ouzon	ouzon	?	_	_	_	_	_	Gloss=?
 5	trubuill	trubuilh	nom	_	_	_	_	_	Gloss=anxiété
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	enkrezo	enkrez.-où(PL.)	?.?	_	_	_	_	_	Gloss=angoisse.s
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	enkrezo	enkrez.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=angoisse.s
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

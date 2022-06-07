@@ -12,17 +12,18 @@
 # sent_id = Drezen(1990:12)__4
 # text = maouezed peuzziwiskoc’h an eil re eget ar re all.
 # text_fr = '...des femmes presque plus dénudées les unes que les autres.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	maouezed	maouez.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=femme.s
+1	maouezed	maouez.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=femme.s
 2	peuzziwiskoc’h	-oc'h	?	_	_	_	_	_	Gloss=plus
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	eil	eil	pronom	_	_	_	_	_	Gloss=second
-5	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+5	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 6	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-9	all	all	?	_	_	_	_	_	Gloss=autre
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+9	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1993)__1
@@ -34,8 +35,8 @@
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	peuzevañ	evañ	verbe	_	_	_	_	_	Gloss=boire
 4	peuzlazhañ	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
-5	peuzloskiñ	loskiñ	?	_	_	_	_	_	Gloss=brûler
-6	peuzachu	achu	?	_	_	_	_	_	Gloss=fini
+5	peuzloskiñ	loskiñ	verbe	_	_	_	_	_	Gloss=brûler
+6	peuzachu	achu	verbe	_	_	_	_	_	Gloss=fini
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1993)__1
@@ -45,8 +46,8 @@
 # texttype = Ouvrages de recherche
 1	peuzdall	dall	adjectif	_	_	_	_	_	Gloss=aveugle
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	peuzdon	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
-4	peuzdous	dous	adverbe-adjectif	_	_	_	_	_	Gloss=doux
+3	peuzdon	don	adverbe|adjectif	_	_	_	_	_	Gloss=profond
+4	peuzdous	dous	adverbe|adjectif	_	_	_	_	_	Gloss=doux
 5	peuzdu	du	adjectif	_	_	_	_	_	Gloss=noir
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -55,11 +56,11 @@
 # text_fr = 'presque tous, presque tout.'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
-1	peuzholl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous/tout
+1	peuzholl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous/tout
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	[[Favereau	[[Favereau	?	_	_	_	_	_	Gloss=
 4	(1993)]];	(1993)]];	?	_	_	_	_	_	Gloss=?
-5	peuzoll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous/tout
+5	peuzoll	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous/tout
 
 # sent_id = Merser(2009)__1
 # text = peuzaliez, peuzkerkent.

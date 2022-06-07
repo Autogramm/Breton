@@ -4,12 +4,12 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	mell	mell	nom	_	_	_	_	_	Gloss=grand
 3	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 4	diskoaz	duel.skoaz	?.nom	_	_	_	_	_	Gloss=2.épaule
 5	ledan	ledan	adjectif	_	_	_	_	_	Gloss=large
-6	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:222)__1
@@ -26,13 +26,13 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=large
+1	Frank	frank	adverbe|adjectif	_	_	_	_	_	Gloss=large
 2	'	a-walc'h	?	_	_	_	_	_	Gloss=assez
 3	walc'h	walc'h	?	_	_	_	_	_	Gloss=?
-4	'	COP	?	_	_	_	_	_	Gloss=était
+4	'	COP	verbe	_	_	_	_	_	Gloss=était
 5	oa	oa	?	_	_	_	_	_	Gloss=?
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	hent-bras	hent	nom	_	_	_	_	_	Gloss=route
-8	aze	ads	?	_	_	_	_	_	Gloss=là
+8	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=là
 9	neoazh	neoazh	adverbe	_	_	_	_	_	Gloss=cependant
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

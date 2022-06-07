@@ -1,15 +1,16 @@
 # sent_id = Gourmelon(2014:15)__1
 # text = Ti ma zud a oa d'am breur betek warlene.
 # text_fr = 'La maison de mes parents était à mon frère jusqu'à l'an dernier.'
-# source = Gourmelon (2014)
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
 1	Ti	ti	nom	_	_	_	_	_	Gloss=maison
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	zud	tud	nom	_	_	_	_	_	Gloss=parent
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	am	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+7	am	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 8	breur	breur	nom	_	_	_	_	_	Gloss=frère
-9	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-10	warlene	warlene	adverbe	_	_	_	_	_	Gloss=andernier
+9	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+10	warlene	warlene	adverbe	_	_	_	_	_	Gloss=an_dernier
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

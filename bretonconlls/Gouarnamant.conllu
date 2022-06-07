@@ -1,4 +1,4 @@
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__16
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__17
 # text = Espec'h ' ra ar goarnamant da reiñ nebeutoc'h  zikourioù d'anin.
 # text_fr = 'Le gouvernement fait exprès de réduire les aides.'
 # dialect = Cornouaillais
@@ -7,15 +7,15 @@
 1	Espec'h	espres	adverbe	_	_	_	_	_	Gloss=exprès
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	ar	art	?	_	_	_	_	_	Gloss=le
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	goarnamant	goarnamant	?	_	_	_	_	_	Gloss=gouvernement
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	reiñ	rein	verbe	_	_	_	_	_	Gloss=donner
 9	nebeutoc'h	nebeut.-oc'h	quantifieur.?	_	_	_	_	_	Gloss=peu.plus
-10	??	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	??	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
-12	zikourioù	sikour.-ioù(PL.)	verbe-nom.?	_	_	_	_	_	Gloss=aide.s
+12	zikourioù	sikour.-ioù_(PL.)	verbe|nom.suffixe	_	_	_	_	_	Gloss=aide.s
 13	d'	da	préposition	_	_	_	_	_	Gloss=à
-14	anin	IMP	?	_	_	_	_	_	Gloss=on
+14	anin	IMP	pronom	_	_	_	_	_	Gloss=on
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,17 +4,17 @@
 # dialect = Léonard
 # source = Perrot (1912)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
 2	fellas	fellout	verbe	_	_	_	_	_	Gloss=plut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	gantan	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.lui
+4	gantan	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	priz	priz	nom	_	_	_	_	_	Gloss=prix
 8	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	kemer	kemer	verbe	_	_	_	_	_	Gloss=prendre
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	garg-ze	garg-ze	?	_	_	_	_	_	Gloss=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,7 +26,7 @@
 # texttype = Ouvrages de recherche
 1	Herri	Herri	?	_	_	_	_	_	Gloss=Henri
 2	IV	IV	?	_	_	_	_	_	Gloss=IV
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	hargou	hargou.-où(PL.)	?.?	_	_	_	_	_	Gloss=5.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	hargou	hargou.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=5.s
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

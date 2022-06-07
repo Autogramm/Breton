@@ -1,8 +1,8 @@
-# sent_id = Bouzec & al. (2017:70)__2
+# sent_id = Bouzec&al.(2017:70)__2
 # text = 'lamp oa 'stripil 'uc'h 'n dol.
 # text_fr = 'La lampe était suspendue au-dessus de la table.'
 1	oa	oa	?	_	_	_	_	_	Gloss=oa
-2	'	'	?	_	_	_	_	_	Gloss=en-istribilh
+2	'	'	préposition	_	_	_	_	_	Gloss=en-istribilh
 3	stripil	stripil	?	_	_	_	_	_	Gloss=?
 4	'	'	préposition	_	_	_	_	_	Gloss=a-us
 5	uc'h	uc'h	?	_	_	_	_	_	Gloss=?
@@ -18,17 +18,18 @@
 # texttype = Ouvrages pédagogiques
 1	Pebez	pebezh	?	_	_	_	_	_	Gloss=quel
 2	taolenn	taolenn	nom	_	_	_	_	_	Gloss=tableau
-3	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=joli|Morph=1
+3	gaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=joli|Mutation=target|MutationNUM=1
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMenn(2015:5)__1
 # text = Taol vat deoc'h, paotred !
 # text_fr = 'Bon appétit, les gars !'
+# dialect = Standard
 # source = Ar Menn (2015)
 # texttype = Références de corpus
 1	Taol	Taol	?	_	_	_	_	_	Gloss=1
-2	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-3	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+2	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+3	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	paotred	paotr.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=gars.s
+5	paotred	paotr.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=gars.s
 6	!	!	PUNCT	_	_	_	_	Gloss=punct

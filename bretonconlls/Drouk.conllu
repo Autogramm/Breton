@@ -1,13 +1,15 @@
 # sent_id = Gros(1984:50)__1
 # text = A-hervez e oa droug ken e oa.
 # text_fr = 'Il paraît qu'il était terriblement méchant.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	A-hervez	hervez	préposition	_	_	_	_	_	Gloss=selon
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=méchant
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=méchant
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Naoned(1952:60)__1
@@ -16,10 +18,10 @@
 # dialect = Cornouaillais
 # source = Naoned (1952)
 # texttype = Ouvrages de recherche
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-2	bozoù	poz.-où(PL.)	nom.?	_	_	_	_	_	Gloss=mot.s
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+2	bozoù	poz.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=mot.s
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	ont	COP	?	_	_	_	_	_	Gloss=sont
+4	ont	COP	verbe	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	drouk	drouk	adjectif	_	_	_	_	_	Gloss=méchant
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

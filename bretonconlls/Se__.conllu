@@ -4,27 +4,28 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	respont	respont	?	_	_	_	_	_	Gloss=répond
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	se	se	pronom	_	_	_	_	_	Gloss=tiens
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	Re	re	adverbe	_	_	_	_	_	Gloss=trop
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	labour	labour	nom	_	_	_	_	_	Gloss=travail
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	douetus	douetus	adverbe-adjectif	_	_	_	_	_	Gloss=certainement
+11	douetus	douetus	adverbe|adjectif	_	_	_	_	_	Gloss=certainement
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bannoù-Heol(2000:15)__1
 # text = Brav eo dezhañ, se !
 # text_fr = 'Il porte beau, ça !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+1	Brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	dezhañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	se	se	pronom	_	_	_	_	_	Gloss=ça
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -32,17 +33,18 @@
 # sent_id = Bannoù-Heol(2000:27)__1
 # text = Salud dit Tata ! Sevel a rez abred, se !
 # text_fr = 'Bonjour Papa ! Tu te lèves tôt, dis-donc !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Salud	salud!	?	_	_	_	_	_	Gloss=salut
-2	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
-3	Tata	Tata	?	_	_	_	_	_	Gloss=[[nomde
+1	Salud	salud_!	?	_	_	_	_	_	Gloss=salut
+2	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+3	Tata	Tata	?	_	_	_	_	_	Gloss=[[nom_de
 4			?	_	_	_	_	_	Gloss=titre|Papa]]
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
 7	a	a	préposition	_	_	_	_	_	Gloss=R
-8	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-9	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
+8	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+9	abred	abred	adverbe|adjectif	_	_	_	_	_	Gloss=tôt
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	se	se	pronom	_	_	_	_	_	Gloss=ça
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -50,17 +52,18 @@
 # sent_id = Bannoù-Heol(2000:27)__1
 # text = N'eo nemet ur spernenn ! Nemet emañ em fav, se !
 # text_fr = 'C'est qu'une épine ! Sauf qu'elle est dans ma patte, dis-donc !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-4	ur	art	?	_	_	_	_	_	Gloss=un
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	spernenn	spernenn	?	_	_	_	_	_	Gloss=épine
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
-7	Nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
-8	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+7	Nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=sauf
+8	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+9	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 10	fav	pav	nom	_	_	_	_	_	Gloss=patte
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
 12	se	se	pronom	_	_	_	_	_	Gloss=ça
@@ -74,11 +77,11 @@
 # texttype = Ouvrages pédagogiques
 1	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-4	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+3	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+4	c'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	ganet	genel	verbe	_	_	_	_	_	Gloss=né
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
 8	aod	aod	nom	_	_	_	_	_	Gloss=côte
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 

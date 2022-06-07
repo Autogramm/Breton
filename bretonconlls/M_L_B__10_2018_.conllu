@@ -1,0 +1,29 @@
+sent_id = Plougerneau,M-L.B(10/2018)__5
+text = Ar vugale o deus gwelet ar vaouez sklaer.
+text_fr =  'Les enfants ont vu la femme clairement.' 
+1	Ar vugale	art.bugel.pluriel interne	article.nom.nom	_	_	_	_	_	Gloss=le.enfant.s
+2	o deus	kaout	verbe	_	_	_	_	_	Gloss=a
+3	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=vu
+4	ar vaouez	art	article	_	_	_	_	_	Gloss=le
+5	sklaer	sklaer	adjectif	_	_	_	_	_	Gloss=clair
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Plougerneau,M-L.B(10/2018)__1
+text = A:- Ar gwazed o deus roet an hurdioù d’ar vaouez.
+text_fr =  '- Non. Les enfants ont donné le livre à la femme.'
+1	A:-	A:-	?	_	_	_	_	_	Gloss=colspan="4" | '- Les hommes ont donné le livre à la femme.'
+2	Ar gwazed	Ar gwazed	?	_	_	_	_	_	Gloss=???
+3	o deus	o deus	?	_	_	_	_	_	Gloss=???
+4	roet an hurdioù	roet an hurdioù	?	_	_	_	_	_	Gloss=???
+5	d’ar vaouez	d’ar vaouez	?	_	_	_	_	_	Gloss=???
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Plougerneau,M-L.B(10/2018)__16
+text = A:- Ar gwazed o deus roet an hurdioù d’ar vaouez.
+text_fr =  '- Non. Les enfants ont donné le livre à la femme.'
+1	A:-	A:-	?	_	_	_	_	_	Gloss=colspan="4" | ' - Les hommes ont donné le livre à la femme.'
+2	Ar gwazed	Ar gwazed	?	_	_	_	_	_	Gloss=???
+3	o deus	o deus	?	_	_	_	_	_	Gloss=???
+4	roet an hurdioù	roet an hurdioù	?	_	_	_	_	_	Gloss=???
+5	d’ar vaouez	d’ar vaouez	?	_	_	_	_	_	Gloss=???
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct

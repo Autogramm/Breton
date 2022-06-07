@@ -4,17 +4,17 @@
 # dialect = Léonard
 # source = Abeozen (1942)
 # texttype = Références de corpus
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	strollad	strollad	nom	_	_	_	_	_	Gloss=groupe
-3	listri	lestr.-i(PL.)	nom.?	_	_	_	_	_	Gloss=vaisseau.x
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	listri	lestr.-i_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=vaisseau.x
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attend
-6	al	art	?	_	_	_	_	_	Gloss=le
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	lanv	lanv	nom	_	_	_	_	_	Gloss=marée
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-9	dostaat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	dostaat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 10	ouz	ouzh	préposition	_	_	_	_	_	Gloss=de
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	aod	aod	nom	_	_	_	_	_	Gloss=côte
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -24,11 +24,11 @@
 # source = Berthou (1985)
 # texttype = Références de corpus
 1	A-drek	a-drek	préposition	_	_	_	_	_	Gloss=après
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	strolladoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	strolladoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
-5	eus	E	?	_	_	_	_	_	Gloss=y.a
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
-7	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-8	sioulder	sioul.-der	adjectif.?	_	_	_	_	_	Gloss=tranquill.ité
+5	eus	E	verbe	_	_	_	_	_	Gloss=y.a
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=autre.chose
+7	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+8	sioulder	sioul.-der	adjectif.suffixe|nom	_	_	_	_	_	Gloss=tranquill.ité
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

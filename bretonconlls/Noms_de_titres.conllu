@@ -6,25 +6,26 @@
 # texttype = Références de corpus
 1	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
 2	urz	urzh	nom	_	_	_	_	_	Gloss=ordre
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	Jeneral	Jeneral	?	_	_	_	_	_	Gloss=général
 5	Ramke	Ramke	?	_	_	_	_	_	Gloss=Ramke
 
 # sent_id = Bannoù-Heol(2000:27)__1
 # text = Salud dit Tata ! Sevel a rez abred, se !
 # text_fr = 'Bonjour Papa ! Tu te lèves tôt, dis-donc !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Salud	salud!	?	_	_	_	_	_	Gloss=salut
-2	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+1	Salud	salud_!	?	_	_	_	_	_	Gloss=salut
+2	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 3	Tata	Tata	?	_	_	_	_	_	Gloss=Papa
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
 6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-8	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
+7	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+8	abred	abred	adverbe|adjectif	_	_	_	_	_	Gloss=tôt
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	se	se!	pronom	_	_	_	_	_	Gloss=ça
+10	se	se_!	pronom	_	_	_	_	_	Gloss=ça
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = HorYezh(1983:71)__1
@@ -32,14 +33,14 @@
 # text_fr = 'Nous avons toujours aimé Dieu.'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	n	kaout	?	_	_	_	_	_	Gloss=a
-4	eus	eus	?	_	_	_	_	_	Gloss=?
+3	n	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	eus	eus	préposition	_	_	_	_	_	Gloss=?
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	karet	karout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=aim.é
+6	karet	karout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=aim.é
 7	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 10	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -47,23 +48,24 @@
 # sent_id = ArMenn(2015:46)__1
 # text = Bo ! Gouzout a rit, aotrou kannadour, ne chom Lucky Luke gwech ebet gwall bell...
 # text_fr = 'Oh ! Vous savez, Monsieur l'ambassadeur, que Lucky Luke ne reste jamais très longtemps... '
+# dialect = Standard
 # source = Ar Menn (2015)
 # texttype = Références de corpus
-1	Bo	interjection	?	_	_	_	_	_	Gloss=Oh!
+1	Bo	interjection	interjection	_	_	_	_	_	Gloss=Oh_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+3	Gouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+5	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 8	kannadour	kannadour	nom	_	_	_	_	_	Gloss=embassadeur
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 11	chom	chom	verbe	_	_	_	_	_	Gloss=reste
-12	Lucky	Lucky	?	_	_	_	_	_	Gloss=[[nompropre|Lucky
+12	Lucky	Lucky	?	_	_	_	_	_	Gloss=[[nom_propre|Lucky
 13	Luke	Luke	?	_	_	_	_	_	Gloss=Luke]]
 14	gwech	gwech	nom	_	_	_	_	_	Gloss=fois
 15	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-16	gwall	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
+16	gwall	gwall-	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
 17	bell..	pell	adjectif	_	_	_	_	_	Gloss=loin
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

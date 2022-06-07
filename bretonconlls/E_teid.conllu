@@ -5,21 +5,21 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	ag	&	?	_	_	_	_	_	Gloss=et
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	hezeg	kezeg	?	_	_	_	_	_	Gloss=chevaux|Morph=5
+1	ag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	hezeg	kezeg	nom	_	_	_	_	_	Gloss=chevaux|Mutation=target|MutationNUM=5
 4	d'	da	préposition	_	_	_	_	_	Gloss=de
-5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 6	em	em	?	_	_	_	_	_	Gloss=?
 7	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	beuri	peuriñ	verbe	_	_	_	_	_	Gloss=paître
 10	e-teid	e-teid	préposition	_	_	_	_	_	Gloss=en-long
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	hae	hae	nom	_	_	_	_	_	Gloss=haie|Morph=5
-13	war	war	?	_	_	_	_	_	Gloss=sur
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	hae	hae	nom	_	_	_	_	_	Gloss=haie|Mutation=target|MutationNUM=5
+13	war	war	préposition	_	_	_	_	_	Gloss=sur
 14	bord	bord	?	_	_	_	_	_	Gloss=bord
-15	an	art	?	_	_	_	_	_	Gloss=le
+15	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 16	hent	hent	nom	_	_	_	_	_	Gloss=route
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -29,16 +29,16 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voila
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 4	em	em	?	_	_	_	_	_	Gloss=?
 5	lakjont	lakaat	verbe	_	_	_	_	_	Gloss=mirent
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-8	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-9	labouriou	labour.-ioù	nom.?	_	_	_	_	_	Gloss=travau.x
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+8	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+9	labouriou	labour.-ioù	nom.suffixe	_	_	_	_	_	Gloss=travau.x
 10	e-teid	e-teid	préposition	_	_	_	_	_	Gloss=le.long
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	mor	mor	nom	_	_	_	_	_	Gloss=mer
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

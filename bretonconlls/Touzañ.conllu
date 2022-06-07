@@ -1,13 +1,14 @@
 # sent_id = Chalm(2008:D4)__2
 # text = Skuizhañ a ran o touzañ ar geot.
 # text_fr = 'Je suis fatigué.e de tondre l'herbe.'
+# dialect = Standard
 # source = Chalm (2008)
-1	Skuizhañ	skuizh.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=fatigu.er
+1	Skuizhañ	skuizh.-añ_(V.)	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=fatigu.er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	o	o	?	_	_	_	_	_	Gloss=4
 5	touzañ	touzañ	verbe	_	_	_	_	_	Gloss=tondre
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	geot	geot	nom	_	_	_	_	_	Gloss=herbe
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,12 +19,12 @@
 # source = M-L. B. (05/2018)
 # texttype = Élicitations
 1	Peur	peur	?	_	_	_	_	_	Gloss=quand
-2	veho	COP	?	_	_	_	_	_	Gloss=sera
+2	veho	COP	verbe	_	_	_	_	_	Gloss=sera
 3	touzet	touzet	?	_	_	_	_	_	Gloss=tondu
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	deñved	dañvad.plurielinterne	?.?	_	_	_	_	_	Gloss=mouton.s
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	deñved	dañvad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=mouton.s
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-8	houezan	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+7	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+8	houezan	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 9	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

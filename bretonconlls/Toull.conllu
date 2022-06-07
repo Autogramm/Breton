@@ -5,9 +5,9 @@
 # location = Tréguier
 # source = Ar Moal (1902)
 # texttype = Références de corpus
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
-3	an	art	?	_	_	_	_	_	Gloss=le
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	hent-se	hent	nom	_	_	_	_	_	Gloss=chemin
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,37 +16,38 @@
 # text_fr = '... car bien que nous ne soyons pas dépensiers, nos poches étaient vides.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	rak	rak	?	_	_	_	_	_	Gloss=car
+1	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 2	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=troué
-8	hor	POSS	?	_	_	_	_	_	Gloss=notre
-9	godelloù	godell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=poche.s
+7	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=troué
+8	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+9	godelloù	godell.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=poche.s
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	goullo	goullo	adjectif	_	_	_	_	_	Gloss=vide
-12	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-13	oant	COP	?	_	_	_	_	_	Gloss=étaient
+12	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+13	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:55)__1
 # text = ... an ofiserion ha ne blij ket naket o zoulloù dezhe...
 # text_fr = 'les officiers à qui leur trou ne plait pas non plus.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	...	...	PUNCT	_	_	_	_	Gloss=punct
 2	an	-erion	?	_	_	_	_	_	Gloss=iers
 3	ofiserion	ofiserion	?	_	_	_	_	_	Gloss=?
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 6	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	naket	naket	adverbe	_	_	_	_	_	Gloss=non.plus
-9	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-10	zoulloù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-11	dezhe..	da.[pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
-12	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+10	zoulloù	-où_(PL.).da.[pronom_incorporé	suffixe.préposition.?	_	_	_	_	_	Gloss=s.à.eux
+11	dezhe...	dezhe...	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Briant-Cadiou(1998:8)__1
 # text = Anez e helled toulla ha sklabeza al lard a oa outo.
@@ -55,17 +56,17 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Anez	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans(ça)
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	helled	gallout.IMP	verbe.?	_	_	_	_	_	Gloss=pouvait.on
+1	Anez	anez	adverbe|préposition	_	_	_	_	_	Gloss=sans_(ça)
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	helled	gallout.IMP	verbe.pronom	_	_	_	_	_	Gloss=pouvait.on
 4	toulla	toulla	?	_	_	_	_	_	Gloss=trouer
-5	ha	&	?	_	_	_	_	_	Gloss=et
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	sklabeza	sklabezañ	?	_	_	_	_	_	Gloss=salir
-7	al	art	?	_	_	_	_	_	Gloss=le
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	lard	lard	?	_	_	_	_	_	Gloss=lard
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-10	oa	COP	?	_	_	_	_	_	Gloss=était
-11	outo	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+10	oa	COP	verbe	_	_	_	_	_	Gloss=était
+11	outo	ouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Helias(1986:'toullgov')__1
@@ -73,7 +74,7 @@
 # text_fr = 'hernie'
 # source = Helias (1986)
 # texttype = Ouvrages de recherche
-1	toullgov	kof	nom	_	_	_	_	_	Gloss=ventre|Morph=1
+1	toullgov	kof	nom	_	_	_	_	_	Gloss=ventre|Mutation=target|MutationNUM=1
 
 # sent_id = ArBarzhig(1976:29)__7
 # text = e toull dor he c'hegin.
@@ -81,10 +82,10 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	e	P.e	?	_	_	_	_	_	Gloss=en
-2	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+1	e	P.e	préposition	_	_	_	_	_	Gloss=en
+2	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
 3	dor	dor	nom	_	_	_	_	_	Gloss=porte
-4	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+4	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 5	c'hegin	kegin	nom	_	_	_	_	_	Gloss=cuisine
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -94,11 +95,11 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Toulliñ	-iñ(V.)	?	_	_	_	_	_	Gloss=er
+1	Toulliñ	-iñ_(V.)	verbe|suffixe	_	_	_	_	_	Gloss=er
 2	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
-3	genin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-4	'	'	?	_	_	_	_	_	Gloss=R
+3	genin	gant.pronom_incorporé.genin	préposition.?.?	_	_	_	_	_	Gloss=avec.moi.R
+4	'	'	?	_	_	_	_	_	Gloss=?
 5			PUNCT	_	_	_	_	Gloss=punct
 6	faote	faotañ	verbe	_	_	_	_	_	Gloss=fallait
-7	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -6,12 +6,12 @@
 # texttype = Références de corpus
 1	I	e-kreiz	préposition	_	_	_	_	_	Gloss=en-milieu
 2	kreiz	kreiz	nom	_	_	_	_	_	Gloss=?
-3	en	art	complémenteur	_	_	_	_	_	Gloss=le
+3	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	di	deiz	nom	_	_	_	_	_	Gloss=jour
 5	i	i	?	_	_	_	_	_	Gloss=R
-6	oé	COP	?	_	_	_	_	_	Gloss=était
-7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-8	gouleu	gouloù.-où(PL.)	nom.?	_	_	_	_	_	Gloss=lumière.s
+6	oé	COP	verbe	_	_	_	_	_	Gloss=était
+7	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+8	gouleu	gouloù.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=lumière.s
 9	alumet	alumet	?	_	_	_	_	_	Gloss=allumé
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,17 +22,17 @@
 # location = Riec
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	bizier	biz	nom	_	_	_	_	_	Gloss=doigts
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	uz'	uz'	?	_	_	_	_	_	Gloss=usé
 5	t	t	?	_	_	_	_	_	Gloss=?
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
 7	forz	forzh	quantifieur	_	_	_	_	_	Gloss=force
-8	gob'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-9	r	r	?	_	_	_	_	_	Gloss=?
+8	gob'	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+9	r	r	particules verbale	_	_	_	_	_	Gloss=?
 10	pikurio	pikurio	?	_	_	_	_	_	Gloss=piqures
-11	dè	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+11	dè	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:6)__1
@@ -42,12 +42,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 4	bourmen	pourmen	verbe	_	_	_	_	_	Gloss=promener
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	an	art	?	_	_	_	_	_	Gloss=le
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	aotchoù	aod	nom	_	_	_	_	_	Gloss=côte
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -58,11 +58,11 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	eur	art	nom	_	_	_	_	_	Gloss=un
+1	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	mell	mell	nom	_	_	_	_	_	Gloss=grand
-3	gwezenn	gwez.-enn	nom.nom	_	_	_	_	_	Gloss=arbres.SG
+3	gwezenn	gwez.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=arbres.SG
 4	glas-kaol	glas	adjectif	_	_	_	_	_	Gloss=vert
-5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+5	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 6	deliou	del	nom	_	_	_	_	_	Gloss=feuilles
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -73,8 +73,8 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	ramañs	ramañs	?	_	_	_	_	_	Gloss=ramasser
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gourlañioù..	gour-	?	_	_	_	_	_	Gloss=haut-|Morph=1
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	gourlañioù..	gour-	?	_	_	_	_	_	Gloss=haut-|Mutation=trigger|MutationNUM=1
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,14 +1,15 @@
 # sent_id = Riou(1941:7)__5
 # text = Hervez ar roc'hou a groze dre gwerzidou ar gweleou
 # text_fr = 'à en croire les ronflements qui grondaient à travers les barreaux des lits'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
 1	Hervez	hervez	préposition	_	_	_	_	_	Gloss=selon
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	roc'hou	idéophone.-où(PL.)	?.?	_	_	_	_	_	Gloss=ronflement.s
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	roc'hou	idéophone.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=ronflement.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	groze	krozal	verbe	_	_	_	_	_	Gloss=grondait
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
-7	gwerzidou	-où(PL.)	?	_	_	_	_	_	Gloss=x
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	gweleou	gwele.-où(PL.)	nom.?	_	_	_	_	_	Gloss=lit.s
+7	gwerzidou	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=x
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	gweleou	gwele.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=lit.s

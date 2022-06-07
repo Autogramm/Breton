@@ -1,44 +1,51 @@
-# sent_id = Goyat (2012:196)__1
+# sent_id = Goyat(2012:196)__1
 # text = Keid eo an daou hent an eil hag egile.
 # text_fr = 'Les deux routes ont la même longueur.'
-# text_phon = ["['@kɛjd", 'ɛ', "ãn '@dow ˌen", "ãn '@ɛil", "aɡ i'@ɡi:le ]"]
+# text_phon = '@kɛjd ɛ ãn '@dow ˌen ãn '@ɛil aɡ i'@ɡi:le  
 1	Keid	hed	nom	_	_	_	_	_	Gloss=long
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	eil	eil	pronom	_	_	_	_	_	Gloss=second
-5	hag	&	?	_	_	_	_	_	Gloss=et
-6	egile	egile	?	_	_	_	_	_	Gloss=autre
-7	.	.	PUNCT	_	_	_	_	Gloss=punct
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	daou	daou	?	_	_	_	_	_	Gloss=[[les_numéraux
+5	hent	hent	nom	_	_	_	_	_	Gloss=route
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	eil	eil	pronom	_	_	_	_	_	Gloss=second
+8	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+9	egile	egile	pronom	_	_	_	_	_	Gloss=autre
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§249)__1
 # text = Brest ha Kemper zo keid-ha-keid eus Roazhon.
 # text_fr = 'Brest et Quimper sont à égale distance de Rennes.'
+# dialect = Cornouaillais
 # location = Bigouden
-# source = Trépos (2001)
-1	Brest	nompropre	?	_	_	_	_	_	Gloss=Brest
-2	ha	&	?	_	_	_	_	_	Gloss=et
-3	Kemper	nompropre	?	_	_	_	_	_	Gloss=Quimper
-4	zo	zo	?	_	_	_	_	_	Gloss=est
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	Brest	nom_propre	?	_	_	_	_	_	Gloss=Brest
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+3	Kemper	nom_propre	?	_	_	_	_	_	Gloss=Quimper
+4	zo	zo	?	_	_	_	_	_	Gloss=?
 5	keid-ha-keid	keid-ha-keid	?	_	_	_	_	_	Gloss=si.long-et-si.long
-6	eus	eus	?	_	_	_	_	_	Gloss=de
-7	Roazhon	nompropre	?	_	_	_	_	_	Gloss=Rennes
+6	eus	eus	préposition	_	_	_	_	_	Gloss=de
+7	Roazhon	nom_propre	?	_	_	_	_	_	Gloss=Rennes
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§249)__1
 # text = An div fun-ze zo keid-ha-keid / zo keid an eil hag eben.
 # text_fr = 'Ces deux cordes sont aussi longues l'une que l'autre.'
+# dialect = Cornouaillais
 # location = Bigouden
-# source = Trépos (2001)
-1	fun-ze	DEM	?	_	_	_	_	_	Gloss=là
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	fun-ze	DEM	pronom	_	_	_	_	_	Gloss=là
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	keid-ha-keid	keid-ha-keid	?	_	_	_	_	_	Gloss=si.long-et-si.long
 4	/	/	?	_	_	_	_	_	Gloss=
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	keid	keid	?	_	_	_	_	_	Gloss=si.long
-7	an	art	?	_	_	_	_	_	Gloss=le
+6	keid	keid	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.long
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	eil	eil	pronom	_	_	_	_	_	Gloss=second
-9	hag	&	?	_	_	_	_	_	Gloss=et
-10	eben	egile	?	_	_	_	_	_	Gloss=autre
+9	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+10	eben	egile	pronom	_	_	_	_	_	Gloss=autre
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'flistra')__1
@@ -47,65 +54,69 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Hennez	DEM	?	_	_	_	_	_	Gloss=lui
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Hennez	DEM	pronom	_	_	_	_	_	Gloss=lui
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	flistre	flistrañ	?	_	_	_	_	_	Gloss=jaillissait
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	wad	gwad	nom	_	_	_	_	_	Gloss=sang
-6	keit	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=jusque
+6	keit	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=jusque
 7	hag	hag	?	_	_	_	_	_	Gloss=à
-8	ahann	ac'hann	?	_	_	_	_	_	Gloss=de.là
+8	ahann	ac'hann	adverbe	_	_	_	_	_	Gloss=de.là
 9	d'	da	préposition	_	_	_	_	_	Gloss=de
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'digeina')__1
 # text = Poan am-eus o tigeina goude beza chomet stouet keid-all.
 # text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Poan	poan	nom	_	_	_	_	_	Gloss=peine
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	tigeina	di-.kein.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dés.dos.er
-4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-5	beza	bezañ	?	_	_	_	_	_	Gloss=être
-6	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-7	stouet	stouiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pench.é
-8	keid-all	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
+3	tigeina	di-.kein.-añ_(V.)	?.nom.verbe|suffixe	_	_	_	_	_	Gloss=dés.dos.er
+4	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+5	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+7	stouet	stouiñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pench.é
+8	keid-all	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.loin
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:30)__1
 # text = Mar don harluet amañ, keit all, gant kalzig eus ma c'henvroiz...
 # text_fr = 'Si je suis exilé ici, si loin, avec beaucoup de mes compatriotes... '
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
-2	don	COP	adverbe-adjectif	_	_	_	_	_	Gloss=suis
-3	harluet	harlu.-et(Adj.)	nom.?	_	_	_	_	_	Gloss=exil.é
-4	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	don	COP	verbe	_	_	_	_	_	Gloss=suis
+3	harluet	harlu.-et_(Adj.)	nom.verbe|suffixe	_	_	_	_	_	Gloss=exil.é
+4	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	keit	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
-7	all	all	?	_	_	_	_	_	Gloss=autre
+6	keit	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.loin
+7	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	kalzig	kalz.kalzig	quantifieur-adverbe-déterminant.?	_	_	_	_	_	Gloss=beaucoup.DIM
-11	eus	eus	?	_	_	_	_	_	Gloss=de
-12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz(PL.)|otes|Morph=1
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	kalzig	kalz.kalzig	adverbe|déterminant|quantifieur.?	_	_	_	_	_	Gloss=beaucoup.DIM
+11	eus	eus	préposition	_	_	_	_	_	Gloss=de
+12	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+13	c'henvroiz..	bro	nom	_	_	_	_	_	Gloss=patri]].[[-iz_(PL.)|otes|Mutation=target|MutationNUM=1
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:28)__1
 # text = Anez da ze ne oam ket eet da haloupad keit-se.
 # text_fr = 'Sans cela, nous ne serions pas allés courir si loin.'
-# source = Gros (1970)
-1	Anez	anez	préposition-adverbe	_	_	_	_	_	Gloss=sans
-2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Anez	anez	adverbe|préposition	_	_	_	_	_	Gloss=sans
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	ze	se	pronom	_	_	_	_	_	Gloss=ça
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	oam	COP	?	_	_	_	_	_	Gloss=étions
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	oam	COP	verbe	_	_	_	_	_	Gloss=étions
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	eet	mont	verbe	_	_	_	_	_	Gloss=allé
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	haloupad	galoupat	verbe	_	_	_	_	_	Gloss=galoper
 10	keit-se	se	pronom	_	_	_	_	_	Gloss=ça
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -113,35 +124,38 @@
 # sent_id = Drezen(1990:29)__1
 # text = Penaos oc'h deuet a geit all da ren ho puhez en ur gouent kastilhat ?
 # text_fr = 'Comment êtes-vous venu d'aussi loin pour passer votre vie dans un couvent castillan ?'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
-2	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
-3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+1	Penaos	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=comment
+2	oc'h	COP	verbe	_	_	_	_	_	Gloss=êtes
+3	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 4	a	a	préposition	_	_	_	_	_	Gloss=de
 5	geit	geit	?	_	_	_	_	_	Gloss=si.loin
-6	all	all	?	_	_	_	_	_	Gloss=autre
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	ren	ren	verbe	_	_	_	_	_	Gloss=mener
-9	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+9	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 10	puhez	buhez	nom	_	_	_	_	_	Gloss=vie
-11	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-12	ur	art	?	_	_	_	_	_	Gloss=un
-13	gouent	kouent	nom	_	_	_	_	_	Gloss=couvent|Morph=1
-14	kastilhat	nompropre.[-at(Adj.)	?.?	_	_	_	_	_	Gloss=Castill.an
+11	en	P.e	préposition	_	_	_	_	_	Gloss=en
+12	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+13	gouent	kouent	nom	_	_	_	_	_	Gloss=couvent|Mutation=target|MutationNUM=1
+14	kastilhat	nom_propre	?	_	_	_	_	_	Gloss=Castill
 15	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§248)__1
 # text = Keit ha ma vin-me mestr en ti-mañ.
 # text_fr = 'Tant que je serai le maître de cette maison.'
+# dialect = Cornouaillais
 # location = Bigouden
-# source = Trépos (2001)
-1	Keit	Keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=tant
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	vin-me	COP	?	_	_	_	_	_	Gloss=serai
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	Keit	Keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=tant
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	vin-me	COP	verbe	_	_	_	_	_	Gloss=serai
 5	mestr	mestr	nom	_	_	_	_	_	Gloss=maître
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -152,14 +166,14 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	e-keit	e-keit	préposition-complémenteur	_	_	_	_	_	Gloss=pendant
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+1	e-keit	e-keit	complémenteur|préposition	_	_	_	_	_	Gloss=pendant
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 4	save	sevel	verbe	_	_	_	_	_	Gloss=construisait
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	roue-meur	roue	nom	_	_	_	_	_	Gloss=roi
 7	kastell	kastell	nom	_	_	_	_	_	Gloss=château
-8	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+8	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 9	Versaillez	Versaillez	?	_	_	_	_	_	Gloss=Versailles
 
 # sent_id = Bouzec&al.(2017:123)__1
@@ -169,17 +183,17 @@
 # location = Riec
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Keit	Keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=1
+1	Keit	Keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=1
 2	badè	padout	verbe	_	_	_	_	_	Gloss=durait
-3	'	art	?	_	_	_	_	_	Gloss=le
+3	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	n	amzer	nom	_	_	_	_	_	Gloss=temps
 5	amz'	amz'	?	_	_	_	_	_	Gloss=?
-6	r	r	?	_	_	_	_	_	Gloss=?
+6	r	r	particules verbale	_	_	_	_	_	Gloss=?
 7	yegn	yen	adjectif	_	_	_	_	_	Gloss=froid
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	gerze	kerzhout	verbe	_	_	_	_	_	Gloss=marchait|Morph=1
-10	'	IMP	?	_	_	_	_	_	Gloss=on
+9	gerze	kerzhout	verbe	_	_	_	_	_	Gloss=marchait|Mutation=target|MutationNUM=1
+10	'	IMP	pronom	_	_	_	_	_	Gloss=on
 11	nen	nen	?	_	_	_	_	_	Gloss=?
-12	ga	gant	?	_	_	_	_	_	Gloss=avec
-13	boutoù-koat	botez.-où(PL.).koad	nom.?.nom	_	_	_	_	_	Gloss=chaussure.s.bois
+12	ga	gant	préposition	_	_	_	_	_	Gloss=avec
+13	boutoù-koat	botez.-où_(PL.).koad	nom.suffixe.nom	_	_	_	_	_	Gloss=chaussure.s.bois
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,14 +1,15 @@
 # sent_id = Drezen(1990:11)__1
 # text = Setu ma fiñv ar skeudenn santel.
 # text_fr = 'Voici que bouge l'image sainte.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	fiñv	fiñv	?	_	_	_	_	_	Gloss=bouge
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	skeudenn	skeudenn	?	_	_	_	_	_	Gloss=image
-6	santel	sant.-el(Adj.)	nom.?	_	_	_	_	_	Gloss=saint.e
+6	santel	sant.-el_(Adj.)	nom.suffixe|adjectif	_	_	_	_	_	Gloss=saint.e
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeDû(2012a:240)__1
@@ -18,9 +19,9 @@
 # location = Plougrescant
 # source = Le Dû (2012a)
 # texttype = Ouvrages de recherche
-1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	vhiwfé-ked	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+4	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	ibiļ	ibil	nom	_	_	_	_	_	Gloss=cheville
 6	/	/	PUNCT	_	_	_	_	Gloss=punct

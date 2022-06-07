@@ -3,12 +3,12 @@
 # text_fr = 'Maintenant c'est ton camion à toi toute seule.'
 # location = homme
 1	Breman	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	eoc'h	pronomincorporé	?	_	_	_	_	_	Gloss=vous
-5	de	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-7	ar	art	?	_	_	_	_	_	Gloss=le
+4	eoc'h	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
+5	de	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+6	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	(Camion)	(Camion)	?	_	_	_	_	_	Gloss=(camion)
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,30 +16,30 @@
 # text = c'houi a zeus d'ar ger pe me a zred arok.
 # text_fr = 'Tu rentreras ce soir ou je mange avant ?'
 # location = homme
-1	c'houi	pfi	?	_	_	_	_	_	Gloss=vous
+1	c'houi	pfi	pronom	_	_	_	_	_	Gloss=vous
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zeus	mont	verbe	_	_	_	_	_	Gloss=ira
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
-7	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-8	me	pfi	?	_	_	_	_	_	Gloss=moi
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	ger	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
+7	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
+8	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 9	a	a	préposition	_	_	_	_	_	Gloss=R
-10	zred	debriñ	verbe	_	_	_	_	_	Gloss=mange|Morph=1
-11	arok	araok	?	_	_	_	_	_	Gloss=avant
+10	zred	debriñ	verbe	_	_	_	_	_	Gloss=mange|Mutation=target|MutationNUM=1
+11	arok	araok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornouaille(homme),Kontañkaoz(06/2019)__1
 # text = goud a res plec'h e ma ar ty Poste ?
 # text_fr = 'Vous savez où est la poste ?'
 # location = homme
-1	goud	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
+1	goud	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	res	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+3	res	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	plec'h	pelec'h	?	_	_	_	_	_	Gloss=où
-5	e	Emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=se.trouve
+5	e	Emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=se.trouve
 6	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	ty	ti	nom	_	_	_	_	_	Gloss=maison
 9	Poste	post	?	_	_	_	_	_	Gloss=Poste
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -50,38 +50,39 @@
 # source = Kontañ kaoz (06/2019)
 # texttype = Élicitations
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=venir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
-4	fenozh	fenoz	?	_	_	_	_	_	Gloss=ce.soir
-5	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vo	COP	?	_	_	_	_	_	Gloss=sera
-8	paket	pakout	?	_	_	_	_	_	Gloss=pris
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
+4	fenozh	fenoz	adverbe	_	_	_	_	_	Gloss=ce.soir
+5	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+8	paket	pakout	verbe	_	_	_	_	_	Gloss=pris
 9	lein	lein	nom	_	_	_	_	_	Gloss=souper
-10	ganiñ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-11	araok	araok	?	_	_	_	_	_	Gloss=avant
-12	!	!	PUNCT	_	_	_	_	Gloss=punct
+10	ganiñ	gant.pronom_incorporé.araok	préposition.?.adverbe|préposition|postposition	_	_	_	_	_	Gloss=avec.moi.avant
+11	araok!	araok!	?	_	_	_	_	_	Gloss=?
 
 # sent_id = MichelleNicolas(Plozévet),Kontañkaoz(06/2019)__1
 # text = ma pi gwelet nac'h fi.
 # text_fr = 'Si seulement tu avais pu voir ça, toi !'
 # location = Plozévet
+# source = Kontañ kaoz (06/2019)
 1	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-2	pi	kaout	?	_	_	_	_	_	Gloss=aurais
-3	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-4	fi	pfi	?	_	_	_	_	_	Gloss=vous
+2	pi	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurais
+3	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+4	fi	pfi	pronom	_	_	_	_	_	Gloss=vous
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = MichelleNicolas(Plozévet),Kontañkaoz(06/2019)__1
 # text = bremañ e oc'h camion d'oc'h ou hin.
 # text_fr = 'Maintenant c'est ton camion à toi toute seule.'
 # location = Plozévet
+# source = Kontañ kaoz (06/2019)
 1	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	e	COP	?	_	_	_	_	_	Gloss=est
-3	oc'h	POSS	?	_	_	_	_	_	Gloss=votre
+2	e	COP	verbe	_	_	_	_	_	Gloss=est
+3	oc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 4	camion	camion	?	_	_	_	_	_	Gloss=camion
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	oc'h	pronomincorporé	?	_	_	_	_	_	Gloss=vous
-7	ou	POSS	?	_	_	_	_	_	Gloss=votre
-8	hin	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+6	oc'h	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
+7	ou	POSS	déterminant	_	_	_	_	_	Gloss=votre
+8	hin	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

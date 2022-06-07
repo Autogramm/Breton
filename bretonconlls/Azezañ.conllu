@@ -4,11 +4,11 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	azezañ	azezañ	verbe	_	_	_	_	_	Gloss=asseoir
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

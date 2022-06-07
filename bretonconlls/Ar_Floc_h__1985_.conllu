@@ -4,17 +4,17 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	eured,	eured	nom	_	_	_	_	_	Gloss=noce
 4	`	`	?	_	_	_	_	_	Gloss=?
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 7	bried	pried	nom	_	_	_	_	_	Gloss=époux
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	deuas	dont	verbe	_	_	_	_	_	Gloss=venir
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 13	Vodiliz…	Vodiliz…	?	_	_	_	_	_	Gloss=Bodilis
 
 # sent_id = ArFloc'h(1985:7)__1
@@ -22,14 +22,14 @@
 # text_fr = 'Mon cousin et moi étions en chemise.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	c'henderv	kenderv	nom	_	_	_	_	_	Gloss=cousin
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	me	pfi	?	_	_	_	_	_	Gloss=moi
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	yoa	COP	?	_	_	_	_	_	Gloss=était
-7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	yoa	COP	verbe	_	_	_	_	_	Gloss=était
+7	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 8	gorf	korf	nom	_	_	_	_	_	Gloss=corps
-9	hor	POSS	?	_	_	_	_	_	Gloss=notre
-10	rochedoù	roched.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chemise.s
+9	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+10	rochedoù	roched.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=chemise.s
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

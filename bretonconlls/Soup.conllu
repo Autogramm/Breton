@@ -5,15 +5,15 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-3	soub-se	DEM	?	_	_	_	_	_	Gloss=ci
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+3	soub-se	DEM	pronom	_	_	_	_	_	Gloss=ci
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	chomet	chom	verbe	_	_	_	_	_	Gloss=resté
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	zarneiñ	dar-.neuial	?.verbe	_	_	_	_	_	Gloss=sur.nager
-9	war	war	?	_	_	_	_	_	Gloss=sur
-10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	war	war	préposition	_	_	_	_	_	Gloss=sur
+10	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	c'halon	kalon	nom	_	_	_	_	_	Gloss=coeur
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

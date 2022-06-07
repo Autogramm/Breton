@@ -7,13 +7,13 @@
 1	Selaou	Selaou	verbe	_	_	_	_	_	Gloss=écoute
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	selaou	selaou	verbe	_	_	_	_	_	Gloss=écoute
-4	krenn	krenn	adverbe-adjectif	_	_	_	_	_	Gloss=complètement
+4	krenn	krenn	adverbe|adjectif	_	_	_	_	_	Gloss=complètement
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	tu	tu	nom	_	_	_	_	_	Gloss=côté
-8	all	all	?	_	_	_	_	_	Gloss=autre
-9	emer	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+9	emer	emañ.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=est.on
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	lazhañ	lazhañ	verbe	_	_	_	_	_	Gloss=tuer
 12	c'hwenn	c'hwenn	?	_	_	_	_	_	Gloss=puces
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -24,13 +24,12 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	zelaou	zelaou	?	_	_	_	_	_	Gloss=écoute
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	gentel	kentel	nom	_	_	_	_	_	Gloss=leçon|Morph=1
-7	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	zelaou	zelaou	?	_	_	_	_	_	Gloss=écoute
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gentel	kentel	nom	_	_	_	_	_	Gloss=leçon|Mutation=target|MutationNUM=1
+6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Seite&Stéphan(1957:96)__1
 # text = Selaou a reas va c'homzoù...
@@ -39,10 +38,10 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Selaou	Selaou	verbe	_	_	_	_	_	Gloss=écouter
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-5	c'homzoù..	komz.-où(PL.)	verbe.?	_	_	_	_	_	Gloss=parole.s
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+5	c'homzoù..	komz.-où_(PL.)	verbe.suffixe	_	_	_	_	_	Gloss=parole.s
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'estren')__1
@@ -52,26 +51,27 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+4	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 5	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	estren	estren	nom-adjectif	_	_	_	_	_	Gloss=étranger
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	estren	estren	adjectif|nom	_	_	_	_	_	Gloss=étranger
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Chalm(2008:D4)__1
 # text = O selaou an dud en doa desket ur bern traoù.
 # text_fr = 'Il avait appris un tas de choses en écoutant les gens.'
+# dialect = Standard
 # source = Chalm (2008)
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 5	en	en	complémenteur	_	_	_	_	_	Gloss=R
-6	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 7	desket	deskiñ	verbe	_	_	_	_	_	Gloss=appris
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
-10	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
+10	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

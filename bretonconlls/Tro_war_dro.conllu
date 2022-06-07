@@ -5,12 +5,12 @@
 # location = Saint Pol de Léon
 # source = Milin (1922)
 # texttype = Références de corpus
-1	dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
-2	gement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+1	dre	dre	préposition	_	_	_	_	_	Gloss=par|Mutation=trigger|MutationNUM=1
+2	gement	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 3	bro	bro	nom	_	_	_	_	_	Gloss=pays
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	tro-war-dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	tro-war-dro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
 
 # sent_id = Léon,Y.Simon(23/03/2013)__1
 # text = Ne oa nemet brezhoneg tro-war-dro din.
@@ -18,12 +18,12 @@
 # dialect = Léonard
 # source = Y. Simon (23/03/2013)
 # texttype = Élicitations
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=que
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=que
 4	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
-5	tro-war-dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
-6	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+5	tro-war-dro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
+6	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:319)__1
@@ -32,8 +32,8 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/trow	&	?	_	_	_	_	_	Gloss=et
+1	/trow	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	a	a	préposition	_	_	_	_	_	Gloss=?
-3	tro	tro	préposition-nom	_	_	_	_	_	Gloss=?
-4	d-ənti	da.art.ti	préposition.?.nom	_	_	_	_	_	Gloss=de.le.maison
+3	tro	tro	préposition|nom	_	_	_	_	_	Gloss=?
+4	d-ənti	da.art.ti	préposition.déterminant|quantifieur.nom	_	_	_	_	_	Gloss=de.le.maison
 5	/	/	PUNCT	_	_	_	_	Gloss=punct

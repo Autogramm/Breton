@@ -5,13 +5,13 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Laket	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-2	'	kaout	?	_	_	_	_	_	Gloss=avez
+1	Laket	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	peus	peus	?	_	_	_	_	_	Gloss=?
-4	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 5	hiviz	hiviz	nom	_	_	_	_	_	Gloss=chemise
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	an	art	?	_	_	_	_	_	Gloss=le
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	tu	tu	nom	_	_	_	_	_	Gloss=côté
 9	gin	gin	nom	_	_	_	_	_	Gloss=envers
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -23,144 +23,154 @@
 # location = Perros-guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+1	Lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
 2	ac'h	ac'h	?	_	_	_	_	_	Gloss=R
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-5	votoù	botez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussure.s
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	andu	an-,am-	?	_	_	_	_	_	Gloss=dé|Morph=1
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+5	votoù	botez.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=chaussure.s
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	andu	an-,_am-	?	_	_	_	_	_	Gloss=dé
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:37)__1
 # text = evit gwelet ha bout 'oa tu deomp d’achap…
 # text_fr = 'pour voir si nous avions moyen de nous échapper'
-# source = Herrieu (1994)
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-3	ha	C.ha(g)	?	_	_	_	_	_	Gloss=si
-4	bout	bout	?	_	_	_	_	_	Gloss=être
+3	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=si
+4	bout	bout	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 5	'	'	?	_	_	_	_	_	Gloss=R
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	tu	tu	nom	_	_	_	_	_	Gloss=moyen
+8	deomp	da.pronom_incorporé.da	préposition.?.préposition	_	_	_	_	_	Gloss=à.nous.à
+9	d’achap…	achap	?	_	_	_	_	_	Gloss=échapper
 
 # sent_id = Timm(1995:4)__1
 # text = Marteze e vefe tu din da gemer ac'hanoc'h.
 # text_fr = 'Peut-être y aurait-il un moyen pour que je te/vous prenne.'
 # source = Timm (1995)
 # texttype = Ouvrages de recherche
-1	Marteze	marteze	?	_	_	_	_	_	Gloss=peut-être
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vefe	COP	?	_	_	_	_	_	Gloss=serait
+1	Marteze	marteze	adverbe	_	_	_	_	_	Gloss=peut-être
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vefe	COP	verbe	_	_	_	_	_	Gloss=serait
 4	tu	tu	nom	_	_	_	_	_	Gloss=moyen
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	gemer	kemer	verbe	_	_	_	_	_	Gloss=prendre
-8	ac'hanoc'h	pronomincorporé	?	_	_	_	_	_	Gloss=vous
+8	ac'hanoc'h	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeMercierd'Erm1926:68)__1
 # text = Mar laret d'ein più e glasket, M'hellou rein d'oh tu er havet.
 # text_fr = 'Si vous me dites qui vous cherchez, Je pourrai vous aider à le découvrir.'
 # source = Le Mercier dErm (1926)
-1	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+1	Mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	laret	lavarout	verbe	_	_	_	_	_	Gloss=dites
-3	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 4	ein	ein	?	_	_	_	_	_	Gloss=?
 5	più	piv	pronom	_	_	_	_	_	Gloss=qui
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	glasket	klask	verbe	_	_	_	_	_	Gloss=cherchez
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	M'	pfi	?	_	_	_	_	_	Gloss=moi
+9	M'	pfi	pronom	_	_	_	_	_	Gloss=moi
 10	hellou	gallout	verbe	_	_	_	_	_	Gloss=pourrai
 11	rein	reiñ	verbe	_	_	_	_	_	Gloss=donner
-12	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+12	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 13	oh	oh	?	_	_	_	_	_	Gloss=?
 14	tu	tu	nom	_	_	_	_	_	Gloss=moyen
-15	er	POP	?	_	_	_	_	_	Gloss=le
+15	er	POP	pronom	_	_	_	_	_	Gloss=le
 16	havet	kavout	verbe	_	_	_	_	_	Gloss=trouver
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:35)__1
 # text = N'eus tu ebet da zibrennañ an nor.
 # text_fr = 'Il n'y a pas moyen de déverrouiller la porte.'
-# source = Gourmelon (2014)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	E	?	_	_	_	_	_	Gloss=y.a
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 3	tu	tu	nom	_	_	_	_	_	Gloss=astuce
 4	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	zibrennañ	di-.prennañ	?.verbe	_	_	_	_	_	Gloss=dé-.verrouiller
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	nor	dor	nom	_	_	_	_	_	Gloss=porte|Morph=1
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	nor	dor	nom	_	_	_	_	_	Gloss=porte|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = - Tu zo dit da brestañ da garr ? - N’eus ket tu, er c’harrdi emañ.
 # text_fr = 'Tu ne peux pas prêter ta voiture ? - Non, elle est au garage.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	-	-	?	_	_	_	_	_	Gloss=
 2	Tu	Tu	nom	_	_	_	_	_	Gloss=moyen
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	brestañ	prestañ	?	_	_	_	_	_	Gloss=prêter
-7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+7	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 8	garr	karr	nom	_	_	_	_	_	Gloss=voiture
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 10	-	-	?	_	_	_	_	_	Gloss=
 11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 12	tu	tu	nom	_	_	_	_	_	Gloss=moyen
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
-14	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-15	c’harrdi	karrdi	nom	_	_	_	_	_	Gloss=garage|Morph=5
-16	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+14	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+15	c’harrdi	karrdi	nom	_	_	_	_	_	Gloss=garage|Mutation=target|MutationNUM=5
+16	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:24)__1
 # text = Taolenn ha blaz braouac'hus ne vo ket tu da hani ac'hanomp ankouaat ken tre ma vevahomp !
 # text_fr = 'Un tableau et une odeur effarants qu'aucun de nous n'oubliera tant qu'il vivra.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Taolenn	taolenn	nom	_	_	_	_	_	Gloss=tableau
-2	ha	&	?	_	_	_	_	_	Gloss=et
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	blaz	blaz	nom	_	_	_	_	_	Gloss=odeur
 4	braouac'hus	braouac'hus	?	_	_	_	_	_	Gloss=effarant
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-6	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+6	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	tu	tu	nom	_	_	_	_	_	Gloss=moyen
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-11	ac'hanomp	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+10	hani	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+11	ac'hanomp	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
 12	ankouaat	ankounac'haat	?	_	_	_	_	_	Gloss=oublier
-13	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-14	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tant
-15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+13	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+14	tre	tre	adverbe|adjectif	_	_	_	_	_	Gloss=tant
+15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 16	vevahomp	bevañ	verbe	_	_	_	_	_	Gloss=vivrons
 17	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:35)__1
 # text = Gallout a ra sammañ ouzhpenn daou c'hant livr war e gein.
 # text_fr = 'Il peut porter plus de deux cent livres sur son dos.'
-# source = Gourmelon (2014)
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
 1	Gallout	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	sammañ	sammañ	verbe	_	_	_	_	_	Gloss=charger
-5	ouzhpenn	ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=au.delà
+5	ouzhpenn	ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=au.delà
 6	c'hant	c'hant	?	_	_	_	_	_	Gloss=livre
-7	livr	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-8	war	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	livr	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+8	war	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	e	kein	nom	_	_	_	_	_	Gloss=dos
 
 # sent_id = Gourmelon(2014:35)__2
 # text = E c'hellit tostaat un tammig ?
 # text_fr = 'Vous pouvez vous rapprocher ?'
-# source = Gourmelon (2014)
-1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	E	E	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	c'hellit	gallout	verbe	_	_	_	_	_	Gloss=pouvez
-3	tostaat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+3	tostaat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	tammig	tamm.DIM	quantifieur.DIM	_	_	_	_	_	Gloss=morceau.petit
 6	?	?	PUNCT	_	_	_	_	Gloss=punct

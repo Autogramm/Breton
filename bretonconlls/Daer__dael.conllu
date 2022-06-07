@@ -4,13 +4,13 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	eñ	pfi	?	_	_	_	_	_	Gloss=lui
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	gand	gant	?	_	_	_	_	_	Gloss=avec
-5	daelou	-où(PL.)	?	_	_	_	_	_	Gloss=s
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+5	daelou	-où_(PL.).P.e	suffixe.préposition	_	_	_	_	_	Gloss=s.en
+6	en	en	complémenteur	_	_	_	_	_	Gloss=?
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zaoulagad..	duel.lagad	?.nom	_	_	_	_	_	Gloss=2.oeil
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,14 +18,14 @@
 # text = ur ger fentus bennak a lakae hon daeroù da sec'hiñ.
 # text_fr = '... quelque mot drôle qui (nous) faisait sécher nos larmes.'
 # source = ar Meliner (2009)
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	ger	ger	nom	_	_	_	_	_	Gloss=mot
 3	fentus	fentus	adjectif	_	_	_	_	_	Gloss=drôle
-4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	lakae	lakaat	verbe	_	_	_	_	_	Gloss=mettait
-7	hon	POSS	?	_	_	_	_	_	Gloss=notre
-8	daeroù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	hon	POSS	déterminant	_	_	_	_	_	Gloss=notre
+8	daeroù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 10	sec'hiñ	sec'hiñ	?	_	_	_	_	_	Gloss=sécher
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

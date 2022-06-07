@@ -4,27 +4,28 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Darbet	Darbet	?	_	_	_	_	_	Gloss=failli
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	semplañ	semplañ	verbe	_	_	_	_	_	Gloss=évanouir
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où(PL.)|s]]-[[DEM|ci|Morph=5
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	c'homzoù-se	komz	verbe	_	_	_	_	_	Gloss=parole]].[[-où_(PL.)|s]][[DEM|ci|Mutation=target|MutationNUM=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'ispilh')__1
 # text = Darbedig eo bet dei chom doh an ispilh.
 # text_fr = 'Elle a failli ne pas trouver à se marier.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Darbedig	Darbedig	?	_	_	_	_	_	Gloss=DIM
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	dei	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+4	dei	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 5	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 6	doh	doc'h	?	_	_	_	_	_	Gloss=à
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	ispilh	ispilh	?	_	_	_	_	_	Gloss=crochet
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -36,44 +37,50 @@
 # texttype = Références de corpus
 1	Gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	Ignatitch	nompropre	?	_	_	_	_	_	Gloss=Ignatich
+3	Ignatitch	nom_propre	?	_	_	_	_	_	Gloss=Ignatich
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	bet	bet	?	_	_	_	_	_	Gloss=été
 7	darbet	darbet	?	_	_	_	_	_	Gloss=failli
-8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 9	??	??	?	_	_	_	_	_	Gloss=[
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 11	dimeziñ	dimeziñ	verbe	_	_	_	_	_	Gloss=marier
+12	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Favereau (1997:§375)__2
+# sent_id = Favereau(1997:§375)__2
 # text = Darbet 'oa din  bezañ la'het anezhañ.
 # text_fr = 'J'ai failli le tuer.'
 # source2 =  Breton central, Davalan
+# source = Ar Barzhig (1976)
 1	Darbet	Darbet	?	_	_	_	_	_	Gloss=failli
-2	'	COP	?	_	_	_	_	_	Gloss=était
+2	'	COP	verbe	_	_	_	_	_	Gloss=était
 3	oa	oa	?	_	_	_	_	_	Gloss=?
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	??	??	?	_	_	_	_	_	Gloss=[
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
-7	bezañ	bezan	?	_	_	_	_	_	Gloss=être
-8	la'	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
+7	bezañ	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+8	la'	lazhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tu.é
 9	het	het	nom	_	_	_	_	_	Gloss=?
+10	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:74)__1
 # text = evel ouzh un den  bet darbet dezhañ koll e lod baradoz.
 # text_fr = 'comme (à) un homme qui aurait juste failli perdre son bout de paradis.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+1	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 2	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-3	un	art	?	_	_	_	_	_	Gloss=un
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	den	den	nom	_	_	_	_	_	Gloss=homme
 5	??	??	?	_	_	_	_	_	Gloss=[
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	bet	bet	?	_	_	_	_	_	Gloss=été
 8	darbet	darbet	?	_	_	_	_	_	Gloss=failli
-9	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+9	dezhañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 10	koll	koll	verbe	_	_	_	_	_	Gloss=perdre
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	lod	lod	quantifieur	_	_	_	_	_	Gloss=partie

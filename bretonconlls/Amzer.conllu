@@ -1,14 +1,15 @@
 # sent_id = Kervella(1947:§717)__1
 # text = Chom gwall yen a ra an amzer.
 # text_fr = 'Le temps reste très froid.'
+# dialect = Standard
 # location = Dirinon
 # source = Kervella (1947)
 # texttype = Ouvrages de recherche
 1	Chom	chom	verbe	_	_	_	_	_	Gloss=rester
-2	gwall	gwall	?	_	_	_	_	_	Gloss=très|Morph=1
+2	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
 3	yen	yen	adjectif	_	_	_	_	_	Gloss=froid
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	an	art	?	_	_	_	_	_	Gloss=le
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

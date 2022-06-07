@@ -1,0 +1,16 @@
+sent_id = L'Hôpital-Camfrout,LeGall(1958)__1
+text = Echu eo ar vansoniaj, hag ar hoataj braz a zo e plas.
+text_fr =  'La maçonnerie est finie et la charpente est en place.' 
+1	Echu	echu	verbe	_	_	_	_	_	Gloss=fini
+2	eo	COP	copule	_	_	_	_	_	Gloss=est
+3	ar	art	article	_	_	_	_	_	Gloss=le
+4	vansoniaj	_[[1]]maçon.n.[[-aj|erie]]	?	_	_	_	_	_	Gloss=_[[1]]maçon.n.[[-aj|erie]]
+5	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+6	hag	&	conjonction	_	_	_	_	_	Gloss=et
+7	ar	art	article	_	_	_	_	_	Gloss=le
+8	hoataj	koat.-aj	nom.nom	_	_	_	_	_	Gloss=bois.erie
+9	braz	bras	adjectif	_	_	_	_	_	Gloss=grand
+10	a zo	[[R]] [[zo|est]]	?	_	_	_	_	_	Gloss=[[R]] [[zo|est]]
+11	e	P.e	préposition	_	_	_	_	_	Gloss=en
+12	plas	plas	nom	_	_	_	_	_	Gloss=place
+13	.	.	PUNCT	_	_	_	_	_	Gloss=punct

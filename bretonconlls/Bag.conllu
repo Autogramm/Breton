@@ -5,15 +5,15 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	O	O!	?	_	_	_	_	_	Gloss=Oh
+1	O	O_!	interjection	_	_	_	_	_	Gloss=Oh
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	Tragaer	tragaer	quantifieur	_	_	_	_	_	Gloss=quantité
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	gerdin	kordenn.plurielinterne	nom.?	_	_	_	_	_	Gloss=cordage.s
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	gerdin	kordenn.pluriel_interne	nom.?	_	_	_	_	_	Gloss=cordage.s
 6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	ar	art	?	_	_	_	_	_	Gloss=le
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	vag	vag	?	_	_	_	_	_	Gloss=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,15 +25,15 @@
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-2	z'	ezeus	?	_	_	_	_	_	Gloss=est
-3	eus	eus	?	_	_	_	_	_	Gloss=?
-4	gwall	gwall	?	_	_	_	_	_	Gloss=mauvais
+2	z'	ez_eus	?	_	_	_	_	_	Gloss=est
+3	eus	eus	préposition	_	_	_	_	_	Gloss=?
+4	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=mauvais
 5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	bagoù	-où(PL.)	?	_	_	_	_	_	Gloss=x
-8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	bagoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=x
+8	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 9	c'hellint	gallout	verbe	_	_	_	_	_	Gloss=pourront
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 11	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-12	er-meas	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+12	er-meas	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

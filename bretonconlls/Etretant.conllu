@@ -6,14 +6,14 @@
 # source = Burel (2012)
 # texttype = Références de corpus
 1	Entrétant	Entrétant	?	_	_	_	_	_	Gloss=entre.temps
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	médécin	médécin	?	_	_	_	_	_	Gloss=médecin
 4	à	à	?	_	_	_	_	_	Gloss=R
-5	èném	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+5	èném	en_em	?	_	_	_	_	_	Gloss=se
 6	gavas	kavout	verbe	_	_	_	_	_	Gloss=trouva
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	vélet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-9	an	art	?	_	_	_	_	_	Gloss=le
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	den	den	nom	_	_	_	_	_	Gloss=homme
 11	blesset..	blesset..	?	_	_	_	_	_	Gloss=blessé
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

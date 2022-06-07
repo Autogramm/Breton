@@ -5,12 +5,12 @@
 # texttype = Ouvrages de recherche
 1	Intentet	Intentet	?	_	_	_	_	_	Gloss=compris
 2	em	em	?	_	_	_	_	_	Gloss=R
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	tabut	tabut	nom	_	_	_	_	_	Gloss=dispute
-7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-8	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+8	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	ti-se	ti	nom	_	_	_	_	_	Gloss=maison
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,11 +19,11 @@
 # text_fr = 'La patronne a commencé à l'engueuler.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	Itron	itron	?	_	_	_	_	_	Gloss=Dame
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	Itron	itron	nom	_	_	_	_	_	Gloss=Dame
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zirollas	diroll	verbe	_	_	_	_	_	Gloss=commença
 5	d'	da	préposition	_	_	_	_	_	Gloss=de
-6	e	POP	?	_	_	_	_	_	Gloss=le|Morph=1
-7	dabutal	-al(V.)	?	_	_	_	_	_	Gloss=er
+6	e	POP	pronom	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=1
+7	dabutal	-al_(V.)	verbe|suffixe	_	_	_	_	_	Gloss=er
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

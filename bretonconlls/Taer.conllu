@@ -1,36 +1,37 @@
 # sent_id = Drezen(1990:61)__3
 # text = C'hwek eo ar garantez e-giz ar mel, ha taer e-giz an tan-flamm.
 # text_fr = 'L'amour est délicieux comme le miel et violent comme le feu.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	C'	c'hwek	?	_	_	_	_	_	Gloss=délicieux
-2	hwek	hwek	?	_	_	_	_	_	Gloss=?
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	garantez	karantez	nom	_	_	_	_	_	Gloss=amour|Morph=1
-6	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	mel	mel	nom	_	_	_	_	_	Gloss=miel
-9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	ha	&	?	_	_	_	_	_	Gloss=et
-11	taer	taer	adjectif	_	_	_	_	_	Gloss=violent
-12	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
-13	an	art	?	_	_	_	_	_	Gloss=le
-14	tan-flamm	tan	nom	_	_	_	_	_	Gloss=feu
-15	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwek	c'hwek	?	_	_	_	_	_	Gloss=délicieux
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	garantez	karantez	nom	_	_	_	_	_	Gloss=amour|Mutation=target|MutationNUM=1
+5	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	mel	mel	nom	_	_	_	_	_	Gloss=miel
+8	,	,	PUNCT	_	_	_	_	Gloss=punct
+9	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+10	taer	taer	adjectif	_	_	_	_	_	Gloss=violent
+11	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	tan-flamm	tan	nom	_	_	_	_	_	Gloss=feu
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:62)__1
 # text = N'omp ket taer ken war ar c'hirri-nij... '
 # text_fr = 'L'avion, euh... Nous n'y tenons pas tellement... '
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	omp	COP	?	_	_	_	_	_	Gloss=sommes
+2	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	taer	taer	adjectif	_	_	_	_	_	Gloss=intense
-5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	c'hirri-nij...	karr	nom	_	_	_	_	_	Gloss=char]]-[[nijal|vole|Morph=5
+5	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	c'hirri-nij...	karr	nom	_	_	_	_	_	Gloss=char]]-[[nijal|vole|Mutation=target|MutationNUM=5
 9	'	'	?	_	_	_	_	_	Gloss=?
 10			PUNCT	_	_	_	_	Gloss=punct

@@ -2,12 +2,13 @@
 # text = Pegeit zo euz a Vrest da Wipavaz?
 # text_fr = 'Quelle distance y-a-t-il de Brest à Guipavaz?'
 # source = CBF.
+# texttype = Références de corpus
 1	Pegeit	pegeit	pronom	_	_	_	_	_	Gloss=combien
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	euz	eus	?	_	_	_	_	_	Gloss=de
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	euz	eus	préposition	_	_	_	_	_	Gloss=de
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	Vrest	Vrest	?	_	_	_	_	_	Gloss=Brest
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	Wipavaz	Wipavaz	?	_	_	_	_	_	Gloss=Guipavas
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,11 +17,11 @@
 # text_fr = 'dans un manoir près de Morlaix' [< Montroulez]
 # location = Bodilis
 # source = Ar Floch (1985)
-1	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-2	ur	art	?	_	_	_	_	_	Gloss=un
+1	en	P.e	préposition	_	_	_	_	_	Gloss=en
+2	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	maner	maner	nom	_	_	_	_	_	Gloss=manoir
-4	damdost	dam-	?	_	_	_	_	_	Gloss=presque|Morph=1
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	damdost	dam-	?	_	_	_	_	_	Gloss=presque|Mutation=trigger|MutationNUM=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	Vontroulez	Vontroulez	?	_	_	_	_	_	Gloss=Morlaix
 
 # sent_id = Léon(Landivisiau),Y.Simon(23/03/2013)__1
@@ -30,13 +31,13 @@
 # location = Landivisiau
 # source = Y. Simon (23/03/2013)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	darvoud	darvoud	nom	_	_	_	_	_	Gloss=évènement
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	Varie	Varie	?	_	_	_	_	_	Gloss=Marie
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -47,48 +48,50 @@
 # location = Landivisiau
 # source = Y. Simon (23/03/2013)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	amzer-gwall	amzer	nom	_	_	_	_	_	Gloss=temps
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	Marie	Marie	?	_	_	_	_	_	Gloss=Marie
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Querrien,publicitédansAnoaled40p.507,(1932)__1
 # text = ar wiskamant Kerne, potr ha plac'h a vë graet war vuzul en ti Gallo Breudeur
 # text_fr = 'Le vêtement de Cornouaille hommes et femmes est confectionné sur mesure chez Gallo Frères.'
-1	ar	art	?	_	_	_	_	_	Gloss=un
-2	wiskamant	gwiskañ	?	_	_	_	_	_	Gloss=vêt]].[[-amant|ement|Morph=1
+# source = Y. Simon (23/03/2013)
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	wiskamant	gwiskañ	verbe	_	_	_	_	_	Gloss=vêt]].[[-amant|ement|Mutation=target|MutationNUM=1
 3	Kerne	Kerne	?	_	_	_	_	_	Gloss=Cornouaille
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	potr	paotr	nom	_	_	_	_	_	Gloss=homme
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 7	plac'h	plac'h	?	_	_	_	_	_	Gloss=femme
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	vë	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-11	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+9	vë	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+10	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+11	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 12	vuzul	muzul	nom	_	_	_	_	_	Gloss=mesure
-13	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+13	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 14	ti	ti	nom	_	_	_	_	_	Gloss=maison
 15	Gallo	Gallo	?	_	_	_	_	_	Gloss=Gallo
-16	Breudeur	breur.plurielinterne	nom.?	_	_	_	_	_	Gloss=Frère.s
+16	Breudeur	breur.pluriel_interne	nom.?	_	_	_	_	_	Gloss=Frère.s
 
 # sent_id = SkolanEmsav(1977:24)__3
 # text = Kis kis ! Klask roud an Daltoned !
 # text_fr = 'Ksss ! Cherche la trace des Daltons !'
+# dialect = Standard
 # source = Skol an Emsav (1977)
 # texttype = Références de corpus
-1	Kis	huchements	?	_	_	_	_	_	Gloss=Ksss!
+1	Kis	huchements	?	_	_	_	_	_	Gloss=Ksss_!
 2	kis	kis	?	_	_	_	_	_	Gloss=?
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Klask	klask	verbe	_	_	_	_	_	Gloss=cherche
 5	roud	roud	nom	_	_	_	_	_	Gloss=trace
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	Daltoned	-ed(PL.)	?	_	_	_	_	_	Gloss=s
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	Daltoned	-ed_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:'pare')__2
@@ -98,14 +101,14 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Oto	Oto	nom	_	_	_	_	_	Gloss=auto
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	If	nompropre	?	_	_	_	_	_	Gloss=Yves
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	If	nom_propre	?	_	_	_	_	_	Gloss=Yves
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	pare	pare	adjectif	_	_	_	_	_	Gloss=prêt
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	veza	bezañ	?	_	_	_	_	_	Gloss=être
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	veza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 10	dreset	dresañ	verbe	_	_	_	_	_	Gloss=réparé
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -115,14 +118,14 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Mari	Mari	?	_	_	_	_	_	Gloss=Marie
-2	amañ	ads	?	_	_	_	_	_	Gloss=ici
+2	amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 3	he	he	?	_	_	_	_	_	Gloss=3SGF
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	un	art	?	_	_	_	_	_	Gloss=un
-8	dousig	dous.dousig	adverbe-adjectif.?	_	_	_	_	_	Gloss=doux.DIM
-9	diouzhit	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.toi
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+8	dousig	dous.dousig	adverbe|adjectif.?	_	_	_	_	_	Gloss=doux.DIM
+9	diouzhit	diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.toi
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Jaffré(1986:16)__1
@@ -131,9 +134,9 @@
 # dialect = Vannetais
 # source = Schapansky (1996)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	gér	kêr	nom	_	_	_	_	_	Gloss=village
-3	truhek	truez.-ek	nom.?	_	_	_	_	_	Gloss=pitoy.ant
-4	é	COP	?	_	_	_	_	_	Gloss=est
-5	Karnasen-man	ads	?	_	_	_	_	_	Gloss=là
+3	truhek	truez.-ek	nom.suffixe|adjectif	_	_	_	_	_	Gloss=pitoy.ant
+4	é	COP	verbe	_	_	_	_	_	Gloss=est
+5	Karnasen-man	ads	adverbe|suffixe	_	_	_	_	_	Gloss=là
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

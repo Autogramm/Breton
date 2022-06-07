@@ -1,9 +1,10 @@
 # sent_id = Standard,Kerrain(2001)__1
 # text = Estregedout zo fin.
 # text_fr = 'Il n'y a pas que toi qui est malin.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
-1	Estregedout	eget.pronomincorporé	complémenteur.?	_	_	_	_	_	Gloss=que.toi
+1	Estregedout	eget.pronom_incorporé	complémenteur.?	_	_	_	_	_	Gloss=que.toi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	fin	fin	?	_	_	_	_	_	Gloss=malin
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -15,21 +16,22 @@
 # source = Helias (1953)
 # texttype = Références de corpus
 1	Estr	Estr	?	_	_	_	_	_	Gloss=autre
-2	egedon	eget.pronomincorporé	complémenteur.?	_	_	_	_	_	Gloss=que.moi
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	egedon	eget.pronom_incorporé	complémenteur.?	_	_	_	_	_	Gloss=que.moi
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	gwerzet	gwerzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=vend.u
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	gwerzet	gwerzhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=vend.u
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zell	sell	nom	_	_	_	_	_	Gloss=regard
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Brezhoneg#2,p.15__1
 # text = Estreget pizza a zebromp memes tra !
 # text_fr = 'Nous ne mangeons pas que de la pizza quand même !'
-1	Estreget	Estreget	préposition-quantifieur	_	_	_	_	_	Gloss=autre.que
+# source = Helias (1953)
+1	Estreget	Estreget	quantifieur|préposition	_	_	_	_	_	Gloss=autre.que
 2	pizza	pizza	?	_	_	_	_	_	Gloss=pizza
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zebromp	debriñ	verbe	_	_	_	_	_	Gloss=mangeons
 5	memes	memes	adjectif	_	_	_	_	_	Gloss=même
 6	tra	tra	nom	_	_	_	_	_	Gloss=chose
@@ -42,47 +44,50 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Estroh	-oc'h	?	_	_	_	_	_	Gloss=plus
-2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-4	ostalerïou	ostaleri.-où(PL.)	nom.?	_	_	_	_	_	Gloss=auberge.s
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+3	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+4	ostalerïou	ostaleri.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=auberge.s
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 7	cholori	cholori	nom	_	_	_	_	_	Gloss=tapage
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:36)__1
+# sent_id = Nicolas(2005:36)__1
 # text = estroc'h -evit unan
 # text_fr = 'plus d'un'
-# text_phon = ['[ ɛʃtroh', 'awɛ', 'inõ ]']
+# text_phon =  ɛʃtroh awɛ inõ  
+# source = Gros (1970b)
 1	estroc'h	-oc'h	?	_	_	_	_	_	Gloss=plus
-2	-evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-3	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	-evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+3	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 
-# sent_id = Nicolas (2005:36)__1
+# sent_id = Nicolas(2005:36)__1
 # text = Bout eh eus estroc'h-evidin-me ha ' ouia gober an traoù-se.
 # text_fr = 'Il n'y a pas[?] que moi qui sait faire ça.'
-# text_phon = ['[ bød', 'e', 'ɛʃtrohaɥɛdaɲmi', '', 'a', 'wija', 'gober', 'ən trəwsə ]']
-1	Bout	Bezañpréverbal	?	_	_	_	_	_	Gloss=être
+# text_phon =  bød e ɛʃtrohaɥɛdaɲmi  a wija gober ən trəwsə  
+# source = Gros (1970b)
+1	Bout	Bezañ_préverbal	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 2	eh	eh	?	_	_	_	_	_	Gloss=R
-3	eus	E	?	_	_	_	_	_	Gloss=y.a
-4	estroc'h-evidin-me	-oc'h.evit.écho	?.préposition-complémenteur.?	_	_	_	_	_	Gloss=plus.que.1SG
-5	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+3	eus	E	verbe	_	_	_	_	_	Gloss=y.a
+4	estroc'h-evidin-me	-oc'h.evit.écho	?.complémenteur|préposition.?	_	_	_	_	_	Gloss=plus.que.1SG
+5	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 6	'	'	?	_	_	_	_	_	Gloss=R
 7			PUNCT	_	_	_	_	Gloss=punct
-8	ouia	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-9	gober	gober	?	_	_	_	_	_	Gloss=faire
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	traoù-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+8	ouia	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
+9	gober	gober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	traoù-se	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Brezhoneg#2,p.15__1
 # text = Selaou a ran estroc'h evit sonerezh pop.
 # text_fr = 'Je n'écoute pas que de la musique pop !'
+# source = Gros (1970b)
 1	Selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	estroc'h	-oc'h	?	_	_	_	_	_	Gloss=plus
-5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+5	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
 6	sonerezh	sonerezh	?	_	_	_	_	_	Gloss=musique
 7	pop	pop	?	_	_	_	_	_	Gloss=pop
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -95,27 +100,28 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	skleit	skleit	?	_	_	_	_	_	Gloss=autre
-2	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-3	Jos	nompropre	?	_	_	_	_	_	Gloss=Jos
+2	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+3	Jos	nom_propre	?	_	_	_	_	_	Gloss=Jos
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	zo	?	_	_	_	_	_	Gloss=?
 6	bet	bet	?	_	_	_	_	_	Gloss=été
-7	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 8	ba'	ba'	?	_	_	_	_	_	Gloss=?
 9			PUNCT	_	_	_	_	Gloss=punct
 10	du-se	du-se	?	_	_	_	_	_	Gloss=côté-ci
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:109)__1
+# sent_id = Bouzec&al.(2017:109)__1
 # text = Skleit 'vi Joz, oa dàet i rweig 'sam'z genom.
 # text_fr = 'En plus de Jos, sa femme est venue avec nous.'
-1	Skleit	Skleit	préposition-quantifieur	_	_	_	_	_	Gloss=Estreget
+# source = Bouzeg (1986)
+1	Skleit	Skleit	quantifieur|préposition	_	_	_	_	_	Gloss=Estreget
 2	'	'	?	_	_	_	_	_	Gloss=?
-3	vi	vi	?	_	_	_	_	_	Gloss=?
+3	vi	vi	nom	_	_	_	_	_	Gloss=?
 4	Joz	Joz	?	_	_	_	_	_	Gloss=Joz,
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	dàet	dàet	?	_	_	_	_	_	Gloss=deuet
-7	i	i	?	_	_	_	_	_	Gloss=e
+7	i	i	verbe	_	_	_	_	_	Gloss=e
 8	rweig	rweig	?	_	_	_	_	_	Gloss=wreg
 9	'	'	?	_	_	_	_	_	Gloss=asamblez
 10	sam'	sam'	?	_	_	_	_	_	Gloss=?
@@ -123,14 +129,15 @@
 12	genom	genom	?	_	_	_	_	_	Gloss=ganeomp.
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Standard, Brezhoneg #2, p.14__1
+# sent_id = Standard,Brezhoneg#2,p.14__1
 # text = Ouzhpenn tud torr-penn zo amañ !
 # text_fr = 'Il n'y a pas que des gens pénibles ici !'
-1	Ouzhpenn	Ouzhpenn	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=Estreget
+# source = Bouzeg (1986)
+1	Ouzhpenn	Ouzhpenn	complémenteur|adverbe|préposition	_	_	_	_	_	Gloss=Estreget
 2	tud	tud	nom	_	_	_	_	_	Gloss=tud
 3	torr-penn	torr-penn	?	_	_	_	_	_	Gloss=torr-penn
 4	zo	zo	?	_	_	_	_	_	Gloss=zo
-5	amañ	amañ	?	_	_	_	_	_	Gloss=amañ
+5	amañ	amañ	adverbe	_	_	_	_	_	Gloss=amañ
 6			?	_	_	_	_	_	Gloss=!
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -139,14 +146,14 @@
 # text_fr = 'Que ferions-nous à cet âge à part jouer ?'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferions
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	'	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferions
 3	rajemp	rajemp	?	_	_	_	_	_	Gloss=?
-4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-5	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
+4	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+5	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=sauf
 6	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
-7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	oad-se	oad	nom	_	_	_	_	_	Gloss=âge
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -156,11 +163,11 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-4	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
-5	ar	art	?	_	_	_	_	_	Gloss=le
+3	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+4	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=sauf
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	person	person	nom	_	_	_	_	_	Gloss=recteur
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -170,11 +177,11 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-3	hepken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-4	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=sauf
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	ar	art	?	_	_	_	_	_	Gloss=le
+3	hepken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+4	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=sauf
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	person	person	nom	_	_	_	_	_	Gloss=recteur
 8	?	?	PUNCT	_	_	_	_	Gloss=punct

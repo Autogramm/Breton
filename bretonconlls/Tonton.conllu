@@ -1,10 +1,11 @@
 # sent_id = Kervella(2001:25)__3
 # text = Brav int, hañ, tonton Mateo ?
 # text_fr = 'N'est-ce pas qu'ils sont jolis, oncle Matéo ?'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-2	int	COP	?	_	_	_	_	_	Gloss=sont
+1	Brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+2	int	COP	verbe	_	_	_	_	_	Gloss=sont
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	Mateo	nompropre	?	_	_	_	_	_	Gloss=Matéo
+4	Mateo	nom_propre	?	_	_	_	_	_	Gloss=Matéo
 5	?	?	PUNCT	_	_	_	_	Gloss=punct

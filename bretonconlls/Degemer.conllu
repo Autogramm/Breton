@@ -3,13 +3,13 @@
 # text_fr = 'un accueil des plus chaleureux me fut fait... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	un	art	?	_	_	_	_	_	Gloss=un
+1	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	degemer	degemer	nom	_	_	_	_	_	Gloss=accueil
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	c'halonekañ	kalon	nom	_	_	_	_	_	Gloss=coeur]].[[-ek|eux]].[[superlatif|le.plus|Morph=5
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-7	din..	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	c'halonekañ	kalon	nom	_	_	_	_	_	Gloss=coeur]].[[-ek|eux]].[[superlatif|le.plus|Mutation=target|MutationNUM=5
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+7	din..	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1974:101)__1
@@ -21,12 +21,12 @@
 # texttype = Ouvrages de recherche
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=Q
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	emezon-me	eme.pronomincorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=dit.moi.moi
+3	emezon-me	eme.pronom_incorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=dit.moi.moi
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	petore	petore	?	_	_	_	_	_	Gloss=quel
 6	degemer	degemer	nom	_	_	_	_	_	Gloss=accueil
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-8	vo	COP	?	_	_	_	_	_	Gloss=sera
-9	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-10	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+8	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+9	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+10	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

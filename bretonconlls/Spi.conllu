@@ -1,17 +1,18 @@
 # sent_id = Monfort(2006:15)__1
 # text = Du zo du. N'eus spi ebet e'm zu...
 # text_fr = 'Noir c'est noir. Il n'y a plus d'espoir... '
+# dialect = Standard
 # source = Monfort (2006)
 # texttype = Références de corpus
 1	Du	du	adjectif	_	_	_	_	_	Gloss=noir
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	du	du	adjectif	_	_	_	_	_	Gloss=noir
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
-5	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-6	eus	ezeus	?	_	_	_	_	_	Gloss=est
+5	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+6	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 7	spi	spi	nom	_	_	_	_	_	Gloss=espoir
 8	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-9	e'	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+9	e'	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 10	m	m	?	_	_	_	_	_	Gloss=?
 11	zu..	tu	nom	_	_	_	_	_	Gloss=côté
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -19,25 +20,26 @@
 # sent_id = Moulleg(1978:21)__4
 # text = Ma, bugale, spi 'meus n'en deus den all ebet klevet anv eus an danvez spontus-se !
 # text_fr = 'Eh bien, les enfants, j'espère que personne d'autre n'a eu vent de ce produit dangereux !'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Ma	interjection	complémenteur	_	_	_	_	_	Gloss=ehbien
+1	Ma	interjection	interjection	_	_	_	_	_	Gloss=eh_bien
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+3	bugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	spi	spi	nom	_	_	_	_	_	Gloss=espoir
 6	'	'	?	_	_	_	_	_	Gloss=1SG
-7	meus	kaout	?	_	_	_	_	_	Gloss=a
-8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+7	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 9	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
-10	deus	kaout	?	_	_	_	_	_	Gloss=a
+10	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 11	den	den	nom	_	_	_	_	_	Gloss=homme
-12	all	all	?	_	_	_	_	_	Gloss=autre
+12	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 13	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-14	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+14	klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
 15	anv	anv	nom	_	_	_	_	_	Gloss=nom
-16	eus	eus	?	_	_	_	_	_	Gloss=de
-17	an	art	?	_	_	_	_	_	Gloss=le
+16	eus	eus	préposition	_	_	_	_	_	Gloss=de
+17	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 18	danvez	danvez	nom	_	_	_	_	_	Gloss=matière
 19	spontus-se	spontus	adjectif	_	_	_	_	_	Gloss=horrible
 20	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -46,16 +48,16 @@
 # text = Taolet en devoa e spi àr Vargeit, minourez ar Bodoù ...
 # text_fr = 'Il avait mis son espoir en Marguerite, l'héritière du Bodo ... '
 # source = ar Meliner (2009)
-1	Taolet	taoler	?	_	_	_	_	_	Gloss=jeté
+1	Taolet	taoler	verbe	_	_	_	_	_	Gloss=jeté
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	devoa	kaout	?	_	_	_	_	_	Gloss=avait
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	spi	spi	nom	_	_	_	_	_	Gloss=espoir
-6	àr	war	?	_	_	_	_	_	Gloss=sur
-7	Vargeit	nompropre	?	_	_	_	_	_	Gloss=Marguerite
+6	àr	war	préposition	_	_	_	_	_	Gloss=sur
+7	Vargeit	nom_propre	?	_	_	_	_	_	Gloss=Marguerite
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	minourez	-ez(F.)	?	_	_	_	_	_	Gloss=e
-10	ar	art	?	_	_	_	_	_	Gloss=le
+9	minourez	-ez_(F.)	suffixe	_	_	_	_	_	Gloss=e
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	Bodoù	Bodoù	?	_	_	_	_	_	Gloss=
-12	..	nompropre	?	_	_	_	_	_	Gloss=Bodo
+12	..	nom_propre	?	_	_	_	_	_	Gloss=Bodo
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

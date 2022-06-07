@@ -1,7 +1,7 @@
-# sent_id = Ternes (1970:321)__1
+# sent_id = Ternes(1970:321)__1
 # text = e-korf div pe deir eur
 # text_fr = 'dans l'espace de deux ou trois heures'
-# text_phon = ['/e-korf', 'di', 'bə', 'de:r', 'øyr /']
+# text_phon = /e-korf di bə de:r øyr / 
 1	e-korf	P.e	préposition	_	_	_	_	_	Gloss=en
-2	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+2	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 3	eur	eur	nom	_	_	_	_	_	Gloss=heure

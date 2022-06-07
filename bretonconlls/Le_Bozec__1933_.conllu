@@ -2,12 +2,12 @@
 # text = - Pe evn a c'hrougous ? - Ar goulm
 # text_fr = '- Quel oiseau roucoule ? - Le pigeon.'
 1	-	-	?	_	_	_	_	_	Gloss=-
-2	Pe	INT	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+2	Pe	INT	INT	_	_	_	_	_	Gloss=quel
 3	evn	evn	nom	_	_	_	_	_	Gloss=oiseau
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	c'hrougous	c'hrougous	?	_	_	_	_	_	Gloss=roucoule
 6			?	_	_	_	_	_	Gloss=?
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 8	-	-	?	_	_	_	_	_	Gloss=-
-9	Ar	art	?	_	_	_	_	_	Gloss=le
-10	goulm	koulm	nom	_	_	_	_	_	Gloss=pigeon|Morph=1
+9	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	goulm	koulm	nom	_	_	_	_	_	Gloss=pigeon|Mutation=target|MutationNUM=1

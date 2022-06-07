@@ -4,8 +4,8 @@
 # source = Brendan Corre (12/2017)
 # texttype = Élicitations
 1	Herwe	hervez	préposition	_	_	_	_	_	Gloss=P.selon
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	kollet	koll.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=perd.u
 4	lestr	lestr	nom	_	_	_	_	_	Gloss=vaisseau
 5	Kola	Kola	?	_	_	_	_	_	Gloss=Kola
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -16,17 +16,17 @@
 # dialect = Léonard
 # source = Abeozen (1942)
 # texttype = Références de corpus
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	strollad	strollad	nom	_	_	_	_	_	Gloss=groupe
 3	listri	listri	?	_	_	_	_	_	Gloss=vaisseaux
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	c'hortoz	gortoz	verbe	_	_	_	_	_	Gloss=attend
-6	al	art	?	_	_	_	_	_	Gloss=le
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	lanv	lanv	nom	_	_	_	_	_	Gloss=marée
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-9	dostaat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	dostaat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 10	ouz	ouzh	préposition	_	_	_	_	_	Gloss=de
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	aod	aod	nom	_	_	_	_	_	Gloss=côte
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -34,15 +34,15 @@
 # text = Ar c'hein eûz a eul léstr a zô kuzed enn dour.
 # text_fr = 'La quille d’un vaisseau est cachée dans l'eau.'
 # source = Le Gonidec (1838 :186-7)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	c'hein	kein	nom	_	_	_	_	_	Gloss=dos|Morph=5
-3	eûz	eus	?	_	_	_	_	_	Gloss=de
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'hein	kein	nom	_	_	_	_	_	Gloss=dos|Mutation=target|MutationNUM=5
+3	eûz	eus	préposition	_	_	_	_	_	Gloss=de
 4	a	a	préposition	_	_	_	_	_	Gloss=à
-5	eul	art	?	_	_	_	_	_	Gloss=un
+5	eul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	léstr	léstr	?	_	_	_	_	_	Gloss=vaisseau
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	zô	zo	?	_	_	_	_	_	Gloss=est
 9	kuzed	kuzhat	verbe	_	_	_	_	_	Gloss=caché
-10	enn	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	enn	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 11	dour	dour	nom	_	_	_	_	_	Gloss=eau
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

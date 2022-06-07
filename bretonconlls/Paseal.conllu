@@ -1,37 +1,36 @@
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__2
 # text = C'hwi laro doñ e pasein da beo diwetoc'h.
 # text_fr = 'Tu lui diras que je passerai payer plus tard.'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
-4	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	pasein	pasein	?	_	_	_	_	_	Gloss=passerai
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-8	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
-9	diwetoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
-10	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
+3	doñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	pasein	pasein	?	_	_	_	_	_	Gloss=passerai
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+7	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
+8	diwetoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elen,introductionArMeliner(2009:7)__2
 # text = pandeogwir eh oc'h é pasiñ dre amañ, marse ho po un tasad kafe ?'
 # text_fr = 'Comme vous passez par là, vous prendrez bien un café ?’
 # source = ar Meliner (2009)
-1	pandeogwir	pandeogwir	?	_	_	_	_	_	Gloss=puisque
+1	pandeogwir	pandeogwir	complémenteur	_	_	_	_	_	Gloss=puisque
 2	eh	eh	?	_	_	_	_	_	Gloss=R
-3	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
-4	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-5	pasiñ	pasiñ	?	_	_	_	_	_	Gloss=passer
+3	oc'h	COP	verbe	_	_	_	_	_	Gloss=êtes
+4	é	particule_o	?	_	_	_	_	_	Gloss=à
+5	pasiñ	pasiñ	verbe	_	_	_	_	_	Gloss=passer
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
-7	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+7	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	marse	marteze	?	_	_	_	_	_	Gloss=peut-être
+9	marse	marteze	adverbe	_	_	_	_	_	Gloss=peut-être
 10	ho	ho	?	_	_	_	_	_	Gloss=2PL
-11	po	kaout	?	_	_	_	_	_	Gloss=aura
-12	un	art	?	_	_	_	_	_	Gloss=un
-13	tasad	-ad	?	_	_	_	_	_	Gloss=ée
+11	po	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aura
+12	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+13	tasad	-ad	suffixe|nom	_	_	_	_	_	Gloss=ée
 14	kafe	kafe	nom	_	_	_	_	_	Gloss=café
 15	?'	?'	?	_	_	_	_	_	Gloss=?
 16			PUNCT	_	_	_	_	Gloss=punct
@@ -42,16 +41,16 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	Te	pfi	?	_	_	_	_	_	Gloss=toi
+1	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
-4	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+4	dezi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 5	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
-6	me	pfi	?	_	_	_	_	_	Gloss=moi
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	baseo	baseo	?	_	_	_	_	_	Gloss=passera
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	baea	paieañ	verbe	_	_	_	_	_	Gloss=payer
-11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-12	c'houde	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+12	c'houde	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

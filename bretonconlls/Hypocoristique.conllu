@@ -3,13 +3,14 @@
 # text_fr = 'gigolos', 'femmes légères'
 # source = Menard (1995)
 # texttype = Ouvrages de recherche
-1	gwazed-où	gwaz.-ed(PL.)	?.?	_	_	_	_	_	Gloss=homme.s
-2	merc'h-ed-où	merc'h.-ed(PL.)	?.?	_	_	_	_	_	Gloss=femme.s
+1	gwazed-où	gwaz.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=homme.s
+2	merc'h-ed-où	merc'h.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=femme.s
 
-# sent_id = Le Dû (2012:45)__1
+# sent_id = LeDû(2012:45)__1
 # text = [[pezh|morceau]].[[-où (PL.)|x]] [[tud|gens]]
 # text_fr = (souvent des enfants, avec un sens hypocoristique)
-# text_phon = ['péjó   tut']
+# text_phon = péjó   tut 
+# source = Menard (1995)
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__18
 # text = Aih ! Gastoù ! Paket meus on taol deurn.
@@ -17,93 +18,100 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Aih	Aih	?	_	_	_	_	_	Gloss=[[Aiou!|Aïe
+1	Aih	Aih	?	_	_	_	_	_	Gloss=[[Aiou_!|Aïe
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Gastoù	gast	nom	_	_	_	_	_	Gloss=pute
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	Paket	pakañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=attrap.é
-7	meus	kaout	?	_	_	_	_	_	Gloss=ai
-8	on	art	?	_	_	_	_	_	Gloss=un
+6	Paket	pakañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=attrap.é
+7	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+8	on	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 
 # sent_id = Bannoù-Heol(2000:15)__1
 # text = Orê ! Chasoù ! Laoskit da dremen ur paotr eus an aerbost !
 # text_fr = 'Oh aih ! Les copains ! Laissez passer le gars de la postale !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Orê	Orê	?	_	_	_	_	_	Gloss=[[interjection|Ohaih
+1	Orê	Orê	?	_	_	_	_	_	Gloss=[[interjection|Oh_aih
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Chasoù	chas	nom	_	_	_	_	_	Gloss=chiens
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Laoskit	leuskel	verbe	_	_	_	_	_	Gloss=laissez
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	dremen	tremen	verbe	_	_	_	_	_	Gloss=passer
-9	ur	art	?	_	_	_	_	_	Gloss=un
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 10	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
-11	eus	eus	?	_	_	_	_	_	Gloss=de
-12	an	art	?	_	_	_	_	_	Gloss=le
-13	aerbost	aer	nom	_	_	_	_	_	Gloss=air|Morph=1
+11	eus	eus	préposition	_	_	_	_	_	Gloss=de
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	aerbost	aer	nom	_	_	_	_	_	Gloss=air|Mutation=trigger|MutationNUM=1
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:215)__1
 # text = Peder eur kousked, d'un den skuizh, a zo berrik-mat.
 # text_fr = 'Quatre heures de sommeil sont bien courtes pour un homme fatigué.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	eur	eur	nom	_	_	_	_	_	Gloss=heure
 2	kousked	kousk	verbe	_	_	_	_	_	Gloss=sommeil
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	un	art	?	_	_	_	_	_	Gloss=un
+5	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=humain
 7	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	a	a	préposition	_	_	_	_	_	Gloss=R
 10	zo	zo	?	_	_	_	_	_	Gloss=est
-11	berrik-mat	berr.berrik-mat.mat	adjectif.?.adverbe-adjectif	_	_	_	_	_	Gloss=court.DIM.bien
+11	berrik-mat	berr.berrik-mat.mat	adjectif.?.adverbe|adjectif	_	_	_	_	_	Gloss=court.DIM.bien
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:225)__1
 # text = Bremañ e karahent o-daouig en em zastum evit sevel un neizhig arall.
 # text_fr = 'Ils aimeraient maintenant s'unir pour former un autre (petit) nid.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	karahent	karout	verbe	_	_	_	_	_	Gloss=aimeraient
-4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+4	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	zastum	dastum	verbe	_	_	_	_	_	Gloss=réunir
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
-9	un	art	?	_	_	_	_	_	Gloss=un
+9	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 10	neizhig	neizh.neizhig	nom.?	_	_	_	_	_	Gloss=nid.DIM
-11	arall	all	?	_	_	_	_	_	Gloss=autre
+11	arall	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:33)__3
 # text = Arsa ! Aze 'oas Milou gaezh !
 # text_fr = 'Ah ! Te voilà enfin, mon vieux Milou !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[Arsa!|Ah
+1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[Arsa_!|Ah
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Aze	aze	?	_	_	_	_	_	Gloss=là
-5	'	COP	?	_	_	_	_	_	Gloss=étais
+4	Aze	aze	adverbe	_	_	_	_	_	Gloss=là
+5	'	COP	verbe	_	_	_	_	_	Gloss=étais
 6	oas	oas	?	_	_	_	_	_	Gloss=?
-7	Milou	nompropre	?	_	_	_	_	_	Gloss=Milou
-8	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=cher|Morph=1
+7	Milou	nom_propre	?	_	_	_	_	_	Gloss=Milou
+8	gaezh	kaezh	adjectif	_	_	_	_	_	Gloss=cher|Mutation=target|MutationNUM=1
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:52)__1
 # text = Se zo labour vrav 'vat !
 # text_fr = 'Ça, c'est du beau travail !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
 1	Se	se	pronom	_	_	_	_	_	Gloss=ça
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	labour	labour	nom	_	_	_	_	_	Gloss=travail
-4	vrav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
-5	'	'	?	_	_	_	_	_	Gloss=[['@vat!|
+4	vrav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau|Mutation=target|MutationNUM=1
+5	'	'	?	_	_	_	_	_	Gloss=[['@vat_!|
 6	vat	vat	?	_	_	_	_	_	Gloss=!]]
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

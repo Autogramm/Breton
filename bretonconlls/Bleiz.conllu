@@ -3,15 +3,15 @@
 # text_fr = 'La population aurait préféré avoir des loups plutôt qu'eux.'
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	Koulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Koulz	kenkoulz	complémenteur|adjectif	_	_	_	_	_	Gloss=autant
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	bobl	pobl	nom	_	_	_	_	_	Gloss=peuple|Morph=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	bobl	pobl	nom	_	_	_	_	_	Gloss=peuple|Mutation=target|MutationNUM=1
 6	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
-7	bleizi	-i(PL.)	?	_	_	_	_	_	Gloss=s
-8	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-9	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=1
+7	bleizi	-i_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+8	ba	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+9	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=1
 10	blass	plas	nom	_	_	_	_	_	Gloss=place
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,13 +20,13 @@
 # text_fr = 'Tu n'as jamais entendu parler du loup-garou ?'
 # source = Audic (2013)
 # texttype = Ouvrages de recherche
-1	T'	kaout	?	_	_	_	_	_	Gloss=as
-2	eus	eus	?	_	_	_	_	_	Gloss=?
+1	T'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=as
+2	eus	eus	préposition	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	james	james	adverbe	_	_	_	_	_	Gloss=jamais
-5	klewet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+5	klewet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
 6	komz	komz	verbe	_	_	_	_	_	Gloss=parler
-7	ag	eus,a(g)	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	ag	eus,_a(g)	?	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	garew	garew	?	_	_	_	_	_	Gloss=garou
 10	?	?	PUNCT	_	_	_	_	Gloss=punct

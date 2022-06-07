@@ -1,20 +1,22 @@
 # sent_id = Léon,Milin(1924)__1
 # text = Ra vezo ama e-lec'h hon ti taouarc'h-ni eur maner eus ar re gaera...
 # text_fr = 'Que soit ici, à la place de notre maison de tourbe à nous, un manoir des plus beaux... '
-# source = Milin (1924)
-1	Ra	ra	complémenteur	_	_	_	_	_	Gloss=que|Morph=1
-2	vezo	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sera
-3	ama	amañ	?	_	_	_	_	_	Gloss=ici
-4	e-lec'h	P.e.lec'h	?.?	_	_	_	_	_	Gloss=en.lieu
-5	hon	POSS	?	_	_	_	_	_	Gloss=notre
+# dialect = Léonard
+# source = Milin (1922)
+# texttype = Références de corpus
+1	Ra	ra	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=1
+2	vezo	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sera
+3	ama	amañ	adverbe	_	_	_	_	_	Gloss=ici
+4	e-lec'h	P.e.lec'h	préposition.?	_	_	_	_	_	Gloss=en.lieu
+5	hon	POSS	déterminant	_	_	_	_	_	Gloss=notre
 6	ti	ti	nom	_	_	_	_	_	Gloss=maison
-7	taouarc'h-ni	echo	?	_	_	_	_	_	Gloss=nous
-8	eur	art	nom	_	_	_	_	_	Gloss=un
+7	taouarc'h-ni	echo	pronom	_	_	_	_	_	Gloss=nous
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	maner	maner	nom	_	_	_	_	_	Gloss=manoir
-10	eus	eus	?	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux|Morph=1
-13	gaera..	kaer.superlatif	adverbe-adjectif.adjectif	_	_	_	_	_	Gloss=beau.le.plus
+10	eus	eus	préposition	_	_	_	_	_	Gloss=de
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux|Mutation=trigger|MutationNUM=1
+13	gaera..	kaer.superlatif	adverbe|adjectif.adjectif	_	_	_	_	_	Gloss=beau.le.plus
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Martin(1929:178)__1
@@ -23,29 +25,32 @@
 # dialect = Cornouaillais
 # source = Martin (1929)
 # texttype = Références de corpus
-1	Hen	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait.HAB
+1	Hen	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait.HAB
 3	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
-4	e-lec'h	P.e	?	_	_	_	_	_	Gloss=au
+4	e-lec'h	P.e	préposition	_	_	_	_	_	Gloss=au
 5	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§198)__1
 # text = E-leh seier nevez em-eus kavet traoù kozh.
 # text_fr = 'Au lieu de sacs neufs, j'en ai trouvé des vieux.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	E-leh	E-leh	?	_	_	_	_	_	Gloss=au-lieu
-2	seier	sac'h.-ier(PL)	?.?	_	_	_	_	_	Gloss=sac.s
+2	seier	sac'h.-ier_(PL)	?.suffixe	_	_	_	_	_	Gloss=sac.s
 3	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
-4	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-5	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=N
+4	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+5	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=N
 6	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Gros (1970:154)__1
+# sent_id = Gros(1970:154)__1
 # text = [[ma(r)|si]]_[[4]]_ [[COP|était]] [[brav|beau]] [[da|à]].[[pronom incorporé|eux]] [[P.e|en]]-[[lec'h|lieu]] que [[COP|étaient]] [[R]] [[COP|était]] [[da|à]].[[pronom incorporé|eux]] [[bezan|être]] [[chom|rest]].[[-et (Adj.)|é]] [[eno|là]]
 # text_fr = '… il leur appartenait d’y rester.’
-# text_phon = ['Ma', 'oa', 'brao', 'dezo [ e-leh', 'ma oant ]', 'e oa dezo', 'beza chomet eno.']
+# text_phon = Ma oa brao dezo [ e-leh ma oant ] e oa dezo beza chomet eno. 
+# source = Trépos (1968)
 1	[[COP|était]]	[[COP|était]]	?	_	_	_	_	_	Gloss=???
 2	[[brav|beau]]	[[brav|beau]]	?	_	_	_	_	_	Gloss=???
 3	[[da|à]].[[pronom	[[da|à]].[[pronom	?	_	_	_	_	_	Gloss=???
@@ -67,17 +72,18 @@
 # text_fr = 'la maison où il travaillait.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
 3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
 4	yaen	mont	verbe	_	_	_	_	_	Gloss=allais
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:264)__1
+# sent_id = Bouzec&al.(2017:264)__1
 # text = lerc'h vêè  yê berni't da r'hotoz beut gwenntaed.
 # text_fr = '...où ils étaient entassés en attendant d'être vannés.'
+# source = Favereau (1997)
 1	vêè	vêè	?	_	_	_	_	_	Gloss=vezent
 2			PUNCT	_	_	_	_	Gloss=punct
 3	yê	yê	?	_	_	_	_	_	Gloss=?
@@ -86,7 +92,7 @@
 6	da	da	préposition	_	_	_	_	_	Gloss=da
 7	r'	r'	?	_	_	_	_	_	Gloss=cxxxhortoz
 8	hotoz	hotoz	?	_	_	_	_	_	Gloss=?
-9	beut	beut	?	_	_	_	_	_	Gloss=bout
+9	beut	beut	verbe|auxiliaire	_	_	_	_	_	Gloss=bout
 10	gwenntaed	gwenntaed	?	_	_	_	_	_	Gloss=gwentet.
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -96,8 +102,8 @@
 # source = Solliec (2015)
 # texttype = Ouvrages de recherche
 1	zeske	deskiñ	verbe	_	_	_	_	_	Gloss=apprenait
-2	'	P.e	?	_	_	_	_	_	Gloss=en
+2	'	P.e	préposition	_	_	_	_	_	Gloss=en
 3	lec’h	lec’h	?	_	_	_	_	_	Gloss=?
-4	reen	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisais
+4	reen	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisais
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

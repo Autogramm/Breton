@@ -5,13 +5,13 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	gourlan	Gour-.lanv	?.nom	_	_	_	_	_	Gloss=haut.flux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	ziskenn	diskenn	verbe	_	_	_	_	_	Gloss=descend
 5	divreoc'h	divreoc'h	?	_	_	_	_	_	Gloss=vite.plus
 6	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	pign	pignat	verbe	_	_	_	_	_	Gloss=monte
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	sañset	sañset	adverbe	_	_	_	_	_	Gloss=censé
@@ -22,12 +22,12 @@
 # text_fr = 'plié en deux.' (d'un bout à l'autre)
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	gourbleget	plegañ	verbe	_	_	_	_	_	Gloss=plié|Morph=1
-2	eus	eus	?	_	_	_	_	_	Gloss=de
+1	gourbleget	plegañ	verbe	_	_	_	_	_	Gloss=plié|Mutation=target|MutationNUM=1
+2	eus	eus	préposition	_	_	_	_	_	Gloss=de
 3	penn	penn	nom	_	_	_	_	_	Gloss=tête
 4	traoñv	traoñ	nom	_	_	_	_	_	Gloss=bas
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	egile	egile	?	_	_	_	_	_	Gloss=autre
+6	egile	egile	pronom	_	_	_	_	_	Gloss=autre
 
 # sent_id = Seite&Stéphan(1957:123)__4
 # text = Tost deom e hournije didrouz goelini skañv a-uz d'an dour.
@@ -36,14 +36,14 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Tost	tost	adjectif	_	_	_	_	_	Gloss=près
-2	deom	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	deom	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	hournije	nijal	verbe	_	_	_	_	_	Gloss=volait
-5	didrouz	di-	?	_	_	_	_	_	Gloss=sans|Morph=1
-6	goelini	gouelan.plurielinterne	nom.?	_	_	_	_	_	Gloss=goéland.s
+5	didrouz	di-	?	_	_	_	_	_	Gloss=sans|Mutation=trigger|MutationNUM=1
+6	goelini	gouelan.pluriel_interne	nom.?	_	_	_	_	_	Gloss=goéland.s
 7	skañv	skañv	adjectif	_	_	_	_	_	Gloss=léger
 8	a-uz	a-us	préposition	_	_	_	_	_	Gloss=au-dessus
-9	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-10	an	art	?	_	_	_	_	_	Gloss=le
+9	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	dour	dour	nom	_	_	_	_	_	Gloss=eau
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

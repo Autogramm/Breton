@@ -1,15 +1,17 @@
 # sent_id = Herrieu(1994:288)__1
 # text = Respont a ran dezhoñ e karan gwell frankiz eget argant.
 # text_fr = 'Je lui réponds que je préfère la liberté à l'argent.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Respont	Respont	?	_	_	_	_	_	Gloss=répondre
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	karan	karout	verbe	_	_	_	_	_	Gloss=aime
-7	gwell	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+7	gwell	gwelloc'h	adjectif	_	_	_	_	_	Gloss=mieux
 8	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 9	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-10	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
+10	argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

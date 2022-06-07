@@ -1,12 +1,14 @@
 # sent_id = Gros(1989:'diflipa')__1
 # text = Skoulm anezañ ervat bete-gouzoud e tiflipfe diganit.
 # text_fr = 'Noue-le comme il faut de crainte qu'il ne t'échappe.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Skoulm	Skoulm	nom	_	_	_	_	_	Gloss=noue
-2	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-3	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+2	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+3	ervat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 4	bete-gouzoud	betegout	complémenteur	_	_	_	_	_	Gloss=de.crainte
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	tiflipfe	diflipañ	verbe	_	_	_	_	_	Gloss=glisser
-7	diganit	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
+7	diganit	digant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.avec.toi
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

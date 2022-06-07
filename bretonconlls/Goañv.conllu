@@ -5,13 +5,13 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Mont	mont	verbe	_	_	_	_	_	Gloss=aller
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
 5	sine	sine	?	_	_	_	_	_	Gloss=ciné
 6	'	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 7	pad	pad	?	_	_	_	_	_	Gloss=?
-8	ar	art	?	_	_	_	_	_	Gloss=le
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	goañv..	goañv..	?	_	_	_	_	_	Gloss=hiver
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,22 +21,24 @@
 # location = Plaudren
 # source = Quéré (2011)
 # texttype = Ouvrages de recherche
-1	E	E	?	_	_	_	_	_	Gloss=R|Morph=4
+1	E	E	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	ta	dont	verbe	_	_	_	_	_	Gloss=vient
-3	er	art	?	_	_	_	_	_	Gloss=le
+3	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	gouian	gouian	?	_	_	_	_	_	Gloss=hiver
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§500)__1
 # text = Dour e-leizh a oa kouezhet e-pad ar goañvezh-se.
 # text_fr = 'Il avait beaucoup plu cet hiver-là.'
-# source = Kervella (1995)
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
 1	Dour	dour	nom	_	_	_	_	_	Gloss=eau
-2	e-leizh	e-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	e-leizh	e-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	E	?	_	_	_	_	_	Gloss=y.avait
-5	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+4	oa	E	verbe	_	_	_	_	_	Gloss=y.avait
+5	kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
 6	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	goañvezh-se	-vezh.DEM	nom.?	_	_	_	_	_	Gloss=ée.ci
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	goañvezh-se	-vezh.DEM	suffixe|nom.pronom	_	_	_	_	_	Gloss=ée.ci
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

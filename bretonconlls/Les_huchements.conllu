@@ -1,34 +1,37 @@
 # sent_id = Biguet(2017:51)__2
 # text = Arsa ! Chou ! Kit dezhi !
 # text_fr = 'Allons ! Ouste, filez !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[arsa!|Allons
+1	Arsa	Arsa	?	_	_	_	_	_	Gloss=[[arsa_!|Allons
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Chou	Chou	?	_	_	_	_	_	Gloss=[[Chou!|Ouste
+4	Chou	Chou	?	_	_	_	_	_	Gloss=[[Chou_!|Ouste
 5			?	_	_	_	_	_	Gloss=!]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	Kit	mont	verbe	_	_	_	_	_	Gloss=allez
-8	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+8	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2006:20)__1
 # text = Kit kuit ! Oust ! Brou !
 # text_fr = 'Ouste ! Du balai !' (à une mouette)
+# dialect = Standard
 # source = Monfort (2006)
 # texttype = Références de corpus
 1	Kit	mont	verbe	_	_	_	_	_	Gloss=allez
 2	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Oust	interjection	?	_	_	_	_	_	Gloss=Ouste!
+4	Oust	interjection	interjection	_	_	_	_	_	Gloss=Ouste_!
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	Brou	interjection	?	_	_	_	_	_	Gloss=Ouste!
+6	Brou	interjection	interjection	_	_	_	_	_	Gloss=Ouste_!
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:47)__1
 # text = Kis-kis ! Klask, Ranko !
 # text_fr = 'Ksss ! Cherche, Ranko !'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	Kis-kis	Kis-kis	?	_	_	_	_	_	Gloss=Ksss
@@ -36,12 +39,13 @@
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Klask	klask	verbe	_	_	_	_	_	Gloss=cherche
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	Ranko	nompropre	?	_	_	_	_	_	Gloss=Ranko
+6	Ranko	nom_propre	?	_	_	_	_	_	Gloss=Ranko
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = SkolanEmsav(1977:24)__1
 # text = Kis kis ! Klask roud an Daltoned !
 # text_fr = 'Ksss ! Cherche la trace des Daltons !'
+# dialect = Standard
 # source = Skol an Emsav (1977)
 # texttype = Références de corpus
 1	Kis	Kis	?	_	_	_	_	_	Gloss=Ksss
@@ -49,28 +53,31 @@
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Klask	klask	verbe	_	_	_	_	_	Gloss=cherche
 5	roud	roud	nom	_	_	_	_	_	Gloss=trace
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	Daltoned	nompropre.[-ed(PL.)	?.?	_	_	_	_	_	Gloss=Dalton.s
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	Daltoned	nom_propre	?	_	_	_	_	_	Gloss=Dalton
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:149)__3
 # text = Kerz d'ar vuoc'h !
 # text_fr = 'Cours après la vache !' (à un chien)
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Kerz	kerzhout	verbe	_	_	_	_	_	Gloss=va
-2	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	vuoc'h	buoc'h	?	_	_	_	_	_	Gloss=vache|Morph=1
+2	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	vuoc'h	buoc'h	?	_	_	_	_	_	Gloss=vache|Mutation=target|MutationNUM=1
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Sauvé(2001:258)__1
 # text = Dia ! ioik, da vit gwin...
 # text_fr = 'À droite !, poulain, pour chercher du vin... '
-# source = Sauvé (2001)
+# source = Sauvé (1878)
+# texttype = Références de corpus
 1	Dia	Dia	?	_	_	_	_	_	Gloss=à.droite
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	ioik	jav.-ig	nom.?	_	_	_	_	_	Gloss=cheval.DIM
+4	ioik	jav.-ig	nom.suffixe	_	_	_	_	_	Gloss=cheval.DIM
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	da	davit	postposition	_	_	_	_	_	Gloss=pour
 7	vit	vit	?	_	_	_	_	_	Gloss=?
@@ -80,10 +87,11 @@
 # sent_id = ArMenn(2015:6)__1
 # text = Ha yao da vro Vec'hiko !
 # text_fr = '... et hue ! On retourne au Mexique !'
+# dialect = Standard
 # source = Ar Menn (2015)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 3	vro	bro	nom	_	_	_	_	_	Gloss=pays
-4	Vec'hiko	nompropre	?	_	_	_	_	_	Gloss=Mexique|Morph=1
+4	Vec'hiko	nom_propre	?	_	_	_	_	_	Gloss=Mexique|Mutation=target|MutationNUM=1
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

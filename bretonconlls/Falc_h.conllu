@@ -1,19 +1,21 @@
 # sent_id = Gros(1989:163)__1
 # text = Hag e rafe ferhier-houarn, bugale, d'ar skol e vo ret mond !
 # text_fr = 'Même s'il tombait des hallebardes, mes enfants, il faudra aller à l'école !'
-# source = Gros (1989)
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	rafe	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferait
 4	ferhier-houarn	forc'h	?	_	_	_	_	_	Gloss=fourches
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+6	bugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	d'	da	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	skol	skol	nom	_	_	_	_	_	Gloss=école
-11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-12	vo	COP	?	_	_	_	_	_	Gloss=sera
+11	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+12	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 13	ret	ret	?	_	_	_	_	_	Gloss=obligé
 14	mond	mont	verbe	_	_	_	_	_	Gloss=aller
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -25,15 +27,15 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	foenn-ze	foenn	nom	_	_	_	_	_	Gloss=foin
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
 6	troha	troc'hañ	?	_	_	_	_	_	Gloss=trancher
-7	gant	gant	?	_	_	_	_	_	Gloss=avec
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	falherez	-erez	?	_	_	_	_	_	Gloss=ée
+7	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	falherez	-erez	nom	_	_	_	_	_	Gloss=ée
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Stephens(1992:152)__3
@@ -41,9 +43,9 @@
 # text_fr = 'La fauche de Yann ne vaut rien.'
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
-1	Falc'had	-ad	?	_	_	_	_	_	Gloss=ée
-2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Falc'had	-ad	suffixe|nom	_	_	_	_	_	Gloss=ée
+2	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	dalvez	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 5	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

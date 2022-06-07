@@ -5,14 +5,14 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savent
+1	'	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savent
 2	ouiont	ouiont	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	re	re	adverbe	_	_	_	_	_	Gloss=trop
-5	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	faot	faot	?	_	_	_	_	_	Gloss=faut
-8	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+5	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	faot	faot	verbe	_	_	_	_	_	Gloss=faut
+8	dezhe	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:I)__1
@@ -22,7 +22,7 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	De	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	De	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 2	belec'h	pelec'h	?	_	_	_	_	_	Gloss=où
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
@@ -38,11 +38,11 @@
 # texttype = Ouvrages de recherche
 1	??	??	?	_	_	_	_	_	Gloss=[
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	Toulliñ	toull.-añ(V.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.er
+3	Toulliñ	toull.-añ_(V.)	adjectif|nom.verbe|suffixe	_	_	_	_	_	Gloss=trou.er
 4	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
 5	'	'	?	_	_	_	_	_	Gloss=R
 6	faote	faote	?	_	_	_	_	_	Gloss=fallait
-7	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:301)__1
@@ -51,9 +51,9 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/	pfi	?	_	_	_	_	_	Gloss=lui
+1	/	pfi	pronom	_	_	_	_	_	Gloss=lui
 2	jãnfote	jãnfote	?	_	_	_	_	_	Gloss=fallait
-3	dəxoŋ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	dəxoŋ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	xwax	c'hoazh	?	_	_	_	_	_	Gloss=encore
 5	myjox	muioc'h	?	_	_	_	_	_	Gloss=davantage
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
@@ -67,14 +67,14 @@
 1	'	'	?	_	_	_	_	_	Gloss=faut.3SG
 2	Faota	Faota	?	_	_	_	_	_	Gloss=?
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	gouarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
 6	goulenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
-7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+7	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 8	ali	ali	?	_	_	_	_	_	Gloss=avis
-9	g'	gant	?	_	_	_	_	_	Gloss=avec
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	g'	gant	préposition	_	_	_	_	_	Gloss=avec
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:25)__1
@@ -83,22 +83,23 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
-3	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+3	èl	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 5	faota	faota	?	_	_	_	_	_	Gloss=faut
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	a-dres	a-dres	adjectif	_	_	_	_	_	Gloss=à-droit
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	a-feson	a-feson	adverbe-adjectif	_	_	_	_	_	Gloss=à-façon
+9	a-feson	a-feson	adverbe|adjectif	_	_	_	_	_	Gloss=à-façon
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:571)__1
+# sent_id = Evenou(1987:571)__1
 # text = Faot ket.
 # text_fr = 'Il ne faut pas.'
-# text_phon = ['[ fOta', 'čeT ].']
-1	Faot	Faot	?	_	_	_	_	_	Gloss=faut
+# text_phon =  fOta čeT . 
+# source = Ar Borgn (2011)
+1	Faot	Faot	verbe	_	_	_	_	_	Gloss=faut
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -109,9 +110,9 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	ke	ket	adverbe	_	_	_	_	_	Gloss=pas
-2	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	chtaldoc'h-c'hwi	evel.pronomincorporé.écho	préposition-complémenteur.?.?	_	_	_	_	_	Gloss=comme.vous.vous
+2	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	chtaldoc'h-c'hwi	evel.pronom_incorporé.écho	complémenteur|préposition.?.?	_	_	_	_	_	Gloss=comme.vous.vous
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	na	na...na	?	_	_	_	_	_	Gloss=ni
+5	na	na..._na	?	_	_	_	_	_	Gloss=ni
 6	dañjer	dañjer	adverbe	_	_	_	_	_	Gloss=danger
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

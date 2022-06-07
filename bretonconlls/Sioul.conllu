@@ -3,13 +3,13 @@
 # text_fr = 'Les gens ne disaient rien mais restaient tranquilles.'
 # source = Borsley & Stephens (1989)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	lavarent	lavarout	verbe	_	_	_	_	_	Gloss=disaient
 5	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
-6	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	chome	chom	verbe	_	_	_	_	_	Gloss=restait
 9	sioul	sioul	adjectif	_	_	_	_	_	Gloss=tranquille
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -20,11 +20,11 @@
 # source = Berthou (1985)
 # texttype = Références de corpus
 1	A-drek	a-drek	préposition	_	_	_	_	_	Gloss=après
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	strolladoù	strollad.-où(PL.)	nom.?	_	_	_	_	_	Gloss=groupe.s
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	strolladoù	strollad.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=groupe.s
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
-5	eus	E	?	_	_	_	_	_	Gloss=y.a
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=autre.chose
-7	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-8	sioulder	-der	?	_	_	_	_	_	Gloss=ité
+5	eus	E	verbe	_	_	_	_	_	Gloss=y.a
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=autre.chose
+7	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+8	sioulder	-der	suffixe|nom	_	_	_	_	_	Gloss=ité
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

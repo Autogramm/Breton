@@ -4,18 +4,19 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Kroget	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
-2	on	COP	?	_	_	_	_	_	Gloss=suis
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	vlejal	blejal	verbe	_	_	_	_	_	Gloss=beugler
-5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	ul	art	?	_	_	_	_	_	Gloss=un
+5	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+6	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	leue	leue	nom	_	_	_	_	_	Gloss=veau
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Favereau (1984:300)__1
+# sent_id = Favereau(1984:300)__1
 # text = on daoulagad beuc'h marlouiet
 # text_fr = (triste, incrédule, décontenancé)
-1	on	art	?	_	_	_	_	_	Gloss=un
+# source = Herri (1982)
+1	on	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.oeil
 3	beuc'h	buoc'h	?	_	_	_	_	_	Gloss=vache
-4	marlouiet	marv.-et(Adj.)	nom-adjectif.?	_	_	_	_	_	Gloss=mort.é
+4	marlouiet	marv.-et_(Adj.)	adjectif|nom.verbe|suffixe	_	_	_	_	_	Gloss=mort.é

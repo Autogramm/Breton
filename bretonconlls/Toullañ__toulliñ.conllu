@@ -4,9 +4,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Toulliñ	Toulliñ	?	_	_	_	_	_	Gloss=engager
+1	Toulliñ	Toulliñ	verbe	_	_	_	_	_	Gloss=engager
 2	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
-3	'	faotañ	verbe	_	_	_	_	_	Gloss=fallait
-4	faote	faote	?	_	_	_	_	_	Gloss=?
-5	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-6	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	genin	gant.pronom_incorporé.genin	préposition.?.?	_	_	_	_	_	Gloss=avec.moi.R
+4	'	faotañ	verbe	_	_	_	_	_	Gloss=fallait
+5	faote	faote	?	_	_	_	_	_	Gloss=?
+6	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	.	.	PUNCT	_	_	_	_	Gloss=punct

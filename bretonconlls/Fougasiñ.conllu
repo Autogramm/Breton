@@ -1,18 +1,19 @@
 # sent_id = Riou(1941:22)__1
 # text = Fougaser ac'hanoc'h ! A-boan ma anavezit zoken an "a" ouz an "o".
 # text_fr = 'Vantard (de toi) ! Tu sais à peine lire !'  (un élève)
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Fougaser	-er,-our	?	_	_	_	_	_	Gloss=ard
-2	ac'hanoc'h	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
+1	Fougaser	-er,_-our	suffixe|nom	_	_	_	_	_	Gloss=ard
+2	ac'hanoc'h	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.toi
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	A-boan	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	A-boan	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 6	anavezit	anavezout	verbe	_	_	_	_	_	Gloss=connaissez
 7	zoken	zoken	?	_	_	_	_	_	Gloss=même
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	"a"	"a"	?	_	_	_	_	_	Gloss="a"
-10	ouz	ouz	?	_	_	_	_	_	Gloss=de
-11	an	art	?	_	_	_	_	_	Gloss=le
+10	ouz	ouz	préposition	_	_	_	_	_	Gloss=de
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	"o"	"o"	?	_	_	_	_	_	Gloss="o"
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,22 @@
+sent_id = arBarzhig(1976:57)__1
+text = ar blenier, lorc'hus ha reut a-walc'h an tamm anezhañ.
+text_fr = 'le conducteur, fier et raide'
+1	ar blenier	art	article	_	_	_	_	_	Gloss=le
+2	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+3	lorc'hus	lorc'h	nom	_	_	_	_	_	Gloss=orgueil
+4	ha reut	&	conjonction	_	_	_	_	_	Gloss=et
+5	a-walc'h	a-walc'h	adverbe	_	_	_	_	_	Gloss=assez
+6	an tamm	art	article	_	_	_	_	_	Gloss=le
+7	anezhañ	a.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=P.lui
+8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Drezen(1990:12)__1
+text = Damverzout a ra bremañ ar c’housker furmoù all...
+text_fr =  'Le rêveur commence maintenant à remarquer d'autres formes...'
+1	Damverzout	dam-	nom	_	_	_	_	_	Gloss=semi
+2	a ra	[[R]] [[ober|fait]]	?	_	_	_	_	_	Gloss=[[R]] [[ober|fait]]
+3	bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
+4	ar c’housker	art	article	_	_	_	_	_	Gloss=le
+5	furmoù	furm.-où (PL.)	?.nom	_	_	_	_	_	Gloss=forme.s
+6	all..	all	nom	_	_	_	_	_	Gloss=autre
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct

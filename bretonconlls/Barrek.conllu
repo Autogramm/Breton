@@ -4,30 +4,32 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	Komañset	komañs.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=commenc.é
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oan	COP	nom	_	_	_	_	_	Gloss=étais
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
-6	esperañs	esperañs	?	_	_	_	_	_	Gloss=espoir
+1	Komañset	komañs.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=commenc.é
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	gaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+6	esperañs	esperañs	nom	_	_	_	_	_	Gloss=espoir
 7	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
-8	e	e	?	_	_	_	_	_	Gloss=R
-9	oan	COP	nom	_	_	_	_	_	Gloss=étais
+8	e	e	verbe	_	_	_	_	_	Gloss=R
+9	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 10	barreg	barreg	?	_	_	_	_	_	Gloss=capable
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'barreg')__1
 # text = Te a zo barreg a-walh da eva eur bannah chistr.
 # text_fr = 'Tu es assez capable (tu peux bien) boire un coup de cidre.'
-# source = Gros (1989)
-1	Te	pfi	?	_	_	_	_	_	Gloss=toi
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	zo	COP	?	_	_	_	_	_	Gloss=est
+3	zo	COP	verbe	_	_	_	_	_	Gloss=est
 4	barreg	barreg	?	_	_	_	_	_	Gloss=capable
 5	a-walh	awalc'h	?	_	_	_	_	_	Gloss=assez
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	eva	evañ	verbe	_	_	_	_	_	Gloss=boire
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	bannah	banne	?	_	_	_	_	_	Gloss=verre
-10	chistr	sistr	?	_	_	_	_	_	Gloss=cidre
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	bannah	banne	quantifieur	_	_	_	_	_	Gloss=verre
+10	chistr	sistr	nom	_	_	_	_	_	Gloss=cidre
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

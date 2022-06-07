@@ -4,21 +4,21 @@
 # dialect = Léonard
 # source = Y. M. (04/2016b)
 # texttype = Élicitations
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	vo	COP	?	_	_	_	_	_	Gloss=sera
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 7	laosket	leuskel	verbe	_	_	_	_	_	Gloss=laissé
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
-10	a	a	préposition	_	_	_	_	_	Gloss=[[afas
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Mutation=target|MutationNUM=5
+10	a	a	préposition	_	_	_	_	_	Gloss=[[a_fas
 11	fas	fas	nom	_	_	_	_	_	Gloss=da|devant]]
 12	da	da	préposition	_	_	_	_	_	Gloss=?
 13	dor	dor	nom	_	_	_	_	_	Gloss=porte
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	vagajen	magazenn	?	_	_	_	_	_	Gloss=magasin|Morph=1
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	vagajen	magazenn	nom	_	_	_	_	_	Gloss=magasin|Mutation=target|MutationNUM=1
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(01/2016)__1
@@ -28,14 +28,14 @@
 # location = Plougerneau
 # source = M-L. B. (01/2016)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Morph=5
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|Mutation=target|MutationNUM=5
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	goustoum	kustumiñ	verbe	_	_	_	_	_	Gloss=coutume
 5	espress	espres	adverbe	_	_	_	_	_	Gloss=exprès
-6	staotaat	staotaat	?	_	_	_	_	_	Gloss=pisser
+6	staotaat	staotaat	verbe	_	_	_	_	_	Gloss=pisser
 7	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-8	va	POSS	?	_	_	_	_	_	Gloss=mon
+8	va	POSS	déterminant	_	_	_	_	_	Gloss=mon
 9	or	or	?	_	_	_	_	_	Gloss=porte
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -45,11 +45,11 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Emeur	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Emeur	emañ.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=est.on
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	lopaat	lopaat	?	_	_	_	_	_	Gloss=frapper
-4	war	war	?	_	_	_	_	_	Gloss=sur
-5	an	art	?	_	_	_	_	_	Gloss=le
+4	war	war	préposition	_	_	_	_	_	Gloss=sur
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	nor	nor	?	_	_	_	_	_	Gloss=porte.
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -60,6 +60,6 @@
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
 1	Sko	skeiñ	verbe	_	_	_	_	_	Gloss=frappé
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	'	war	?	_	_	_	_	_	Gloss=sur
-4	r	r	?	_	_	_	_	_	Gloss=?
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	'	war	préposition	_	_	_	_	_	Gloss=sur
+4	r	r	particules verbale	_	_	_	_	_	Gloss=?

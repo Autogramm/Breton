@@ -1,15 +1,15 @@
 # sent_id = Léon,Kervella(2009:95)__1
 # text = Pe betek ar gador a-hont ma 'z oc'h ket re skuizh.
 # text_fr = 'Ou jusqu'à la chaise là-bas si vous [n'] êtes [pas] trop fatiguée.'
-1	Pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-2	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Morph=1
-5	a-hont	ahont	?	_	_	_	_	_	Gloss=là-bas
+1	Pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
+2	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Mutation=target|MutationNUM=1
+5	a-hont	ahont	adverbe	_	_	_	_	_	Gloss=là-bas
 6	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 7	'	'	?	_	_	_	_	_	Gloss=_+C_
 8	z	z	?	_	_	_	_	_	Gloss=?
-9	oc'h	COP	?	_	_	_	_	_	Gloss=êtes
+9	oc'h	COP	verbe	_	_	_	_	_	Gloss=êtes
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 11	re	re	adverbe	_	_	_	_	_	Gloss=trop
 12	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué

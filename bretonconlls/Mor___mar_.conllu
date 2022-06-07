@@ -1,49 +1,51 @@
 # sent_id = Herrieu(1994:104)__2
-# text = Kavet a zo doc'htu ur moranv dezhoñ: ''Fil-de-fer''!
-# text_fr = 'On lui trouve de suite un surnom: ''Fil-de-fer''!'
-# source = Herrieu (1994)
-1	Kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+# text = Kavet a zo doc'htu ur moranv dezhoñ: Fil-de-fer!
+# text_fr = 'On lui trouve de suite un surnom: Fil-de-fer!'
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	doc'htu	diouzhtu	adverbe	_	_	_	_	_	Gloss=immédiatement
-5	ur	art	?	_	_	_	_	_	Gloss=un
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	moranv	anv	nom	_	_	_	_	_	Gloss=nom
-7	dezhoñ:	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-8	'	nompropre	?	_	_	_	_	_	Gloss=Fil-de-fer
-9	'	'	?	_	_	_	_	_	Gloss=?
-10	Fil-de-fer'	Fil-de-fer'	?	_	_	_	_	_	Gloss=?
-11	'	'	?	_	_	_	_	_	Gloss=?
-12	!	!	PUNCT	_	_	_	_	Gloss=punct
+7	dezhoñ:	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	Fil-de-fer	nom_propre	?	_	_	_	_	_	Gloss=Fil-de-fer
+9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:36)__1
 # text = Didud ha morgousket e oa ar gompezenn.
 # text_fr = 'La plaine était endormie et déserte.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Didud	di-	?	_	_	_	_	_	Gloss=sans|Morph=1
-2	ha	&	?	_	_	_	_	_	Gloss=et
+1	Didud	di-	?	_	_	_	_	_	Gloss=sans|Mutation=trigger|MutationNUM=1
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	morgousket	morgousket.kousk	?.verbe	_	_	_	_	_	Gloss=1.endormi
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	ar	art	?	_	_	_	_	_	Gloss=le
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	gompezenn	gompezenn	?	_	_	_	_	_	Gloss=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:306)__1
 # text = Donet a ran da benn a vorgousket, rak ne harzan ket mui…
 # text_fr = 'Je parviens à m'endormir à peu près car je n'en peux plus... '
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Donet	dont	verbe	_	_	_	_	_	Gloss=venir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	benn	penn	nom	_	_	_	_	_	Gloss=bout
-6	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	vorgousket	vorgousket.kousk	?.verbe	_	_	_	_	_	Gloss=1.dormir
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	rak	kar	?	_	_	_	_	_	Gloss=car
-10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-11	harzan	harzañ	?	_	_	_	_	_	Gloss=supporte
+9	rak	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+10	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+11	harzan	harzañ	verbe	_	_	_	_	_	Gloss=supporte
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	mui…	mui	adverbe	_	_	_	_	_	Gloss=plus
 
@@ -53,16 +55,17 @@
 # source = Priel (1959)
 # texttype = Références de corpus
 1	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=bien
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	vezen	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étais
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	vezen	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étais
 5	lesanvet	les-	?	_	_	_	_	_	Gloss=sur
-6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+6	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 
-# sent_id = Favereau (1984:300)__1
+# sent_id = Favereau(1984:300)__1
 # text = on daoulagad beuc'h marlouiet
 # text_fr = (triste, incrédule, décontenancé)
-1	on	art	?	_	_	_	_	_	Gloss=un
+# source = Priel (1959)
+1	on	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.oeil
 3	beuc'h	buoc'h	?	_	_	_	_	_	Gloss=vache
 4	marlouiet	leue	nom	_	_	_	_	_	Gloss=veau
@@ -74,7 +77,7 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 3	marvor	marvor.mor	?.nom	_	_	_	_	_	Gloss=1.mer
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

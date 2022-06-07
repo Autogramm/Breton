@@ -5,15 +5,15 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	COP	?	_	_	_	_	_	Gloss=étais
+1	'	COP	verbe	_	_	_	_	_	Gloss=étais
 2	Oan	Oan	nom	_	_	_	_	_	Gloss=?
-3	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
+4	'	particule_o	?	_	_	_	_	_	Gloss=à
 5			PUNCT	_	_	_	_	Gloss=punct
 6	tiblas	diblas	verbe	_	_	_	_	_	Gloss=déplace
 7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-8	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-9	du-se	ads	?	_	_	_	_	_	Gloss=côté-là
+8	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+9	du-se	ads	adverbe|suffixe	_	_	_	_	_	Gloss=côté-là
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:113)__1
@@ -21,33 +21,33 @@
 # text_fr = 'Viens Maryvonne, viens ici puisque mes jambes ne me portent plus jusqu'à toi.'
 # source = ar Meliner (2009)
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	am	POP	?	_	_	_	_	_	Gloss=me
+2	am	POP	pronom	_	_	_	_	_	Gloss=me
 3	doug	dougen	verbe	_	_	_	_	_	Gloss=porte
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
-6	man	POSS	?	_	_	_	_	_	Gloss=mon
+6	man	POSS	déterminant	_	_	_	_	_	Gloss=mon
 7	divhar	duel.gar	?.nom	_	_	_	_	_	Gloss=2.jambe
-8	betagoc'h-c'hwi.'	pronomincorporé.echo	?.?	_	_	_	_	_	Gloss=vous.vous
+8	betagoc'h-c'hwi.'	pronom_incorporé.echo	?.pronom	_	_	_	_	_	Gloss=vous.vous
 9			PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:138)__1
 # text = C'hwec'h kardlev bennak, a lârer, hon eus araokaet beta bremañ.
 # text_fr = 'A ce qu'on dit, nous avons avancé d'à peu près six quarts de lieu jusqu'ici.'
-# source = Herrieu (1994)
-1	C'	C'	?	_	_	_	_	_	Gloss=[[lesnuméraux
-2	hwec'h	hwec'h	?	_	_	_	_	_	Gloss=cardinaux|six]]
-3	kardlev	fraction	?	_	_	_	_	_	Gloss=quart
-4	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	lârer	lavarout.IMP	verbe.?	_	_	_	_	_	Gloss=dit.on
-8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	hon	hon	?	_	_	_	_	_	Gloss=1PL
-10	eus	kaout	?	_	_	_	_	_	Gloss=a
-11	araokaet	araokaet	?	_	_	_	_	_	Gloss=avancé
-12	beta	beta	?	_	_	_	_	_	Gloss=jusque
-13	bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
-14	.	.	PUNCT	_	_	_	_	Gloss=punct
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	kardlev	fraction	adjectif	_	_	_	_	_	Gloss=quart
+2	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+3	,	,	PUNCT	_	_	_	_	Gloss=punct
+4	a	a	préposition	_	_	_	_	_	Gloss=R
+5	lârer	lavarout.IMP	verbe.pronom	_	_	_	_	_	Gloss=dit.on
+6	,	,	PUNCT	_	_	_	_	Gloss=punct
+7	hon	hon	?	_	_	_	_	_	Gloss=1PL
+8	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+9	araokaet	araokaet	?	_	_	_	_	_	Gloss=avancé
+10	beta	beta	?	_	_	_	_	_	Gloss=jusque
+11	bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Quéré(2011:119)__1
 # text = On oeit a nezé da Gerare de huèh vlé betag pearzek vlé.
@@ -55,62 +55,68 @@
 # location = Plaudren
 # source = Quéré (2011)
 # texttype = Ouvrages de recherche
-1	On	COP	?	_	_	_	_	_	Gloss=suis
+1	On	COP	verbe	_	_	_	_	_	Gloss=suis
 2	oeit	mont	verbe	_	_	_	_	_	Gloss=allé
 3	a	a	préposition	_	_	_	_	_	Gloss=de
-4	nezé	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	nezé	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	Gerare	Gerare	?	_	_	_	_	_	Gloss=Gerare
-7	betag	betag	?	_	_	_	_	_	Gloss=jusqu'@à
-8	vlé	bloaz	nom	_	_	_	_	_	Gloss=an
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
-
-# sent_id =  Haut-vannetais (Plouhinec), Le Bozec (2018) __1
-# text = Ar mor a za bedag an Nostank pad eo mare braz.
-# text_fr = 'La mer vient jusqu'à Nostang quand il y a [une] grande marée.'
-# text_phon = ["/ ər '@mur", 'ə za', "bə'@dag", "ən no'@stãk", 'pəd ə', 'mɑ:re', "'@brɑ:s /"]
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	mor	mor	nom	_	_	_	_	_	Gloss=mer
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	za	mont	verbe	_	_	_	_	_	Gloss=va
-5	bedag	bedag	?	_	_	_	_	_	Gloss=jusqu'@à
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	Nostank	Nostank	?	_	_	_	_	_	Gloss=Nostang
-8	pad	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	mare	mare	nom	_	_	_	_	_	Gloss=marée
-11	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+7	de	deus	préposition	_	_	_	_	_	Gloss=de
+8	huèh	huèh	?	_	_	_	_	_	Gloss=[[les_numéraux
+9	vlé	bloaz	nom	_	_	_	_	_	Gloss=an
+10	betag	betag	?	_	_	_	_	_	Gloss=jusqu'@à
+11	vlé	bloaz	nom	_	_	_	_	_	Gloss=an
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Fave (1998:140)__1
+# sent_id = Haut-vannetais(Plouhinec),LeBozec(2018)__1
+# text = Ar mor a za bedag an Nostank pad eo mare braz.
+# text_fr = 'La mer vient jusqu'à Nostang quand il y a [une] grande marée.'
+# text_phon = / ər '@mur ə za bə'@dag ən no'@stãk pəd ə mɑ:re '@brɑ:s / 
+# source = Quéré (2011)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	mor	mor	nom	_	_	_	_	_	Gloss=mer
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	za	mont	verbe	_	_	_	_	_	Gloss=va
+5	bedag	bedag	?	_	_	_	_	_	Gloss=jusqu'@à
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	Nostank	Nostank	?	_	_	_	_	_	Gloss=Nostang
+8	pad	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+9	eo	COP	verbe	_	_	_	_	_	Gloss=est
+10	mare	mare	nom	_	_	_	_	_	Gloss=marée
+11	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
+
+# sent_id = Fave(1998:140)__1
 # text = Ar marh a jome beteg m'e neveze.
 # text_fr = 'Littéralement: Le cheval attendait jusqu'à ce qu'il avait.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# source = Quéré (2011)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	marh	marc'h	?	_	_	_	_	_	Gloss=cheval
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	jome	chom	verbe	_	_	_	_	_	Gloss=restait
 5	beteg	beteg	?	_	_	_	_	_	Gloss=jusqu'@à
 6	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
-7	e	e	?	_	_	_	_	_	Gloss=?
-8	neveze	kaout.neveze.neveze	?.?.?	_	_	_	_	_	Gloss=avait.HAB.imparfait
+7	e	e	verbe	_	_	_	_	_	Gloss=?
+8	neveze	kaout.neveze.neveze	verbe|auxiliaire.?.?	_	_	_	_	_	Gloss=avait.HAB.imparfait
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = AnnaColin[01/1984]Cornouaille(Plouhinec),[http://fresques.ina.fr/ouest-en-memoire/fiche-media/Region00850/d-an-nav-vloaz-d-an-aod-ha-da-pevarzek-vloaz-d-an-uzin-des-neuf-ans-a-la-greve-et-en-usine-a-quatorze-ans.htmlOuestenmémoire]__1
 # text = Oh ya, betek ma vez al labour a renke bezañ graet.
 # text_fr = 'Oh oui, tant qu'il y avait du travail à faire.'
 # location = Plouhinec
-1	Oh	interjection	?	_	_	_	_	_	Gloss=oh
+# source = Quéré (2011)
+1	Oh	interjection	interjection	_	_	_	_	_	Gloss=oh
 2	ya	ya	interjection	_	_	_	_	_	Gloss=oui
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
+4	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
 5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	al	art	?	_	_	_	_	_	Gloss=le
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	labour	labour	nom	_	_	_	_	_	Gloss=travail
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	renke	rankout	verbe	_	_	_	_	_	Gloss=devait
-11	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-12	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+11	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+12	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:8)__1
@@ -120,41 +126,43 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	pod	pod	nom	_	_	_	_	_	Gloss=pot
-3	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+3	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 4	[...]	[...]	?	_	_	_	_	_	Gloss=?
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-7	karget	kargañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=charg.é
-8	a	eus	?	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+7	karget	kargañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=charg.é
+8	a	eus	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	zour	dour	nom	_	_	_	_	_	Gloss=eau
-10	ha	&	?	_	_	_	_	_	Gloss=et
-11	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+10	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+11	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 12	tan	tan	nom	_	_	_	_	_	Gloss=feu
-13	dindannañ	dindan.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=sous.lui
+13	dindannañ	dindan.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sous.lui
 14	beteg	beteg	?	_	_	_	_	_	Gloss=jusqu'@à
-15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+15	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 16	verve	birviñ	verbe	_	_	_	_	_	Gloss=bouillait
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'forz')__1
 # text = Bez ez eus tud ha na reont forz petra d'ober betek kaoud arhant.
 # text_fr = 'Il y a des gens qui ne se soucient nullement de ce qu'ils feront pourvu qu'ils aient de l'argent'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Bez	bez	?	_	_	_	_	_	Gloss=expl
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=y.a
 4	tud	tud	nom	_	_	_	_	_	Gloss=gens
-5	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+5	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 6	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
-7	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
+7	reont	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=font
 8	forz	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-9	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+9	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 10	d'	da	préposition	_	_	_	_	_	Gloss=de
-11	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-12	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-13	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+11	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+12	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+13	kaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 14	arhant	arc'hant	?	_	_	_	_	_	Gloss=argent
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -162,24 +170,26 @@
 # text = Pa deu pep langaich so er bet, / Do meleudy bede à steret
 # text_fr = 'Puisque vient chaque langue de ce monde / Vous louer jusqu'aux étoiles'
 # source = EFP
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	deu	dont	verbe	_	_	_	_	_	Gloss=vient
 3	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 4	langaich	langaich	?	_	_	_	_	_	Gloss=langue
 5	so	zo	?	_	_	_	_	_	Gloss=est
-6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	bet,	bed	nom	_	_	_	_	_	Gloss=monde
 8	/	/	PUNCT	_	_	_	_	Gloss=punct
 9	meleudy	meuleudiñ	?	_	_	_	_	_	Gloss=louer
 10	bede	bede	?	_	_	_	_	_	Gloss=jusqu'@à
-11	à	art	?	_	_	_	_	_	Gloss=le
+11	à	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	steret	stered	nom	_	_	_	_	_	Gloss=étoiles
 
-# sent_id = Goyat (2012:195)__1
+# sent_id = Goyat(2012:195)__1
 # text = trohet beteg ar beo
 # text_fr = 'coupé jusqu'au vif.'
-# text_phon = ["/'@tro:hɛd", 'ˌbetɛɡ', "ar '@bew/"]
+# text_phon = /'@tro:hɛd ˌbetɛɡ ar '@bew/ 
+# source = EFP
 1	trohet	troc'hañ	?	_	_	_	_	_	Gloss=coupé
 2	beteg	beteg	?	_	_	_	_	_	Gloss=jusqu'@à
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	beo	bev	adjectif	_	_	_	_	_	Gloss=vif

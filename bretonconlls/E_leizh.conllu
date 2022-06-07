@@ -5,22 +5,22 @@
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
 1	Amelioret	Amelioret	?	_	_	_	_	_	Gloss=amélioré
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	a-leiz	a-leiz	?	_	_	_	_	_	Gloss=à-plein
 5	dre	dre	préposition	_	_	_	_	_	Gloss=par
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	abeg	abeg	?	_	_	_	_	_	Gloss=cause
 8	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
-9	a-deus	kaout	?	_	_	_	_	_	Gloss=a
+9	a-deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 10	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	gwazed	gwaz.-ed(PL.)	?.?	_	_	_	_	_	Gloss=homme.s
-13	hag	&	?	_	_	_	_	_	Gloss=et
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	baotred	paotr	nom	_	_	_	_	_	Gloss=garçon]].[[-ed(PL.)|s|Morph=1
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	gwazed	gwaz.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=homme.s
+13	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	baotred	paotr	nom	_	_	_	_	_	Gloss=garçon]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 16	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-17	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+17	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 18	naviga	naviga	?	_	_	_	_	_	Gloss=naviguer
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -29,11 +29,11 @@
 # text_fr = 'J'ai pleuré d'abondance.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Gouelet	gouelañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pleur.é
+1	Gouelet	gouelañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pleur.é
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	m	kaout	?	_	_	_	_	_	Gloss=a
-4	eus	eus	?	_	_	_	_	_	Gloss=?
-5	a-leizh	a-leizh	?	_	_	_	_	_	Gloss=beaucoup
+3	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	eus	eus	préposition	_	_	_	_	_	Gloss=?
+5	a-leizh	a-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'leiz')__1
@@ -42,10 +42,10 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Eno	ads	?	_	_	_	_	_	Gloss=là
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	E	?	_	_	_	_	_	Gloss=y.avait
-4	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+1	Eno	ads	adverbe|suffixe	_	_	_	_	_	Gloss=là
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	E	verbe	_	_	_	_	_	Gloss=y.avait
+4	traou	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 5	a-leiz	a-leiz	?	_	_	_	_	_	Gloss=beaucoup
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -56,10 +56,10 @@
 # source = Miossec (1980)
 # texttype = Références de corpus
 1	a-leiz	a-leiz	?	_	_	_	_	_	Gloss=plein
-2	euz	eus	?	_	_	_	_	_	Gloss=de
+2	euz	eus	préposition	_	_	_	_	_	Gloss=de
 3	kelennerien	-erien	?	_	_	_	_	_	Gloss=ants
-4	Skoliou-Meur	skol.-ioù(PL.).meur	nom.?.quantifieur	_	_	_	_	_	Gloss=école.s.grand
-5	Bro-Hall	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
+4	Skoliou-Meur	skol.-ioù_(PL.).meur	nom.suffixe.quantifieur	_	_	_	_	_	Gloss=école.s.grand
+5	Bro-Hall	bro	nom	_	_	_	_	_	Gloss=pays|Mutation=trigger|MutationNUM=1
 
 # sent_id = Briant-Cadiou(1998:175)__1
 # text = gand a-leiz a drouz
@@ -68,17 +68,19 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	gand	gant	?	_	_	_	_	_	Gloss=avec
-2	a-leiz	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+2	a-leiz	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	drouz	trouz	nom	_	_	_	_	_	Gloss=bruit
 
 # sent_id = Kervella(1995:§500)__1
 # text = E-leizh a dud
 # text_fr = 'beaucoup de gens.'
-# source = Kervella (1995)
-1	E-leizh	E-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=beaucoup
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	E-leizh	E-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	dud	tud	nom	_	_	_	_	_	Gloss=gens
 
 # sent_id = ArBorgn(2011:7)__1
@@ -87,43 +89,47 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	E-leizh	E-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=beaucoup
+1	E-leizh	E-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 2	a	a	préposition	_	_	_	_	_	Gloss=de
-3	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
-4	geti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+3	argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
+4	geti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	lan	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-7	al	art	?	_	_	_	_	_	Gloss=le
+6	lan	leun	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	lesiveuz	lesiveuz	?	_	_	_	_	_	Gloss=lessiveuse
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§500)__1
 # text = Dour e-leizh a oa kouezhet e-pad ar goañvezh-se.
 # text_fr = 'Il avait beaucoup plu cet hiver-là.'
-# source = Kervella (1995)
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
 1	Dour	dour	nom	_	_	_	_	_	Gloss=eau
-2	e-leizh	e-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	e-leizh	e-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	E	?	_	_	_	_	_	Gloss=y.avait
-5	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+4	oa	E	verbe	_	_	_	_	_	Gloss=y.avait
+5	kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
 6	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	goañvezh-se	goañv.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=hiver.ée.ci
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	goañvezh-se	goañv.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=hiver.ée.ci
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:58)__1
 # text = Bout a zo  e-leizh hag a rahe èltoñ a pa vehent lezet...
 # text_fr = 'Yen a beaucoup qui feraient comme lui si on leur laissait le choix.'
-# source = Herrieu (1994)
-1	Bout	Bezañpréverbal	?	_	_	_	_	_	Gloss=EXPL
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Bout	Bezañ_préverbal	verbe|auxiliaire	_	_	_	_	_	Gloss=EXPL
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	zo	E	?	_	_	_	_	_	Gloss=est
-4	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+3	zo	E	verbe	_	_	_	_	_	Gloss=est
+4	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	rahe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
-7	èltoñ	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.lui
-8	a	hapa	préposition	_	_	_	_	_	Gloss=C
+6	rahe	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferait
+7	èltoñ	evel.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=comme.lui
+8	a	ha_pa	préposition	_	_	_	_	_	Gloss=C
 9	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
-10	vehent	COP	?	_	_	_	_	_	Gloss=seraient
-11	lezet..	lezel.-et(Adj.)	?.?	_	_	_	_	_	Gloss=laiss.é
+10	vehent	COP	verbe	_	_	_	_	_	Gloss=seraient
+11	lezet..	lezel.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=laiss.é
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -8,13 +8,13 @@
 2	gallon	gallout	verbe	_	_	_	_	_	Gloss=peux
 3	tchet	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+5	er-maez	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 6	be	bez	?	_	_	_	_	_	Gloss=expl
-7	zo	E	?	_	_	_	_	_	Gloss=y.a
-8	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+7	zo	E	verbe	_	_	_	_	_	Gloss=y.a
+8	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 9	gi	ki	nom	_	_	_	_	_	Gloss=chien
 10	glep	gleb	adjectif	_	_	_	_	_	Gloss=mauvais
 11	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+12	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 13	nor	dor	nom	_	_	_	_	_	Gloss=porte
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

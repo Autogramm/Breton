@@ -4,30 +4,31 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Na	Na	?	_	_	_	_	_	Gloss=C
-2	bout	bezañ	?	_	_	_	_	_	Gloss=être
-3	'	COP	?	_	_	_	_	_	Gloss=était
+1	Na	Na	complémenteur	_	_	_	_	_	Gloss=C
+2	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
 4	oa	oa	?	_	_	_	_	_	Gloss=?
-5	bihanoc'h	bihan.-oc'h	adverbe-quantifieur-adjectif.?	_	_	_	_	_	Gloss=petit.plus
-6	'	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=que.lui
+5	bihanoc'h	bihan.-oc'h	adverbe|quantifieur|adjectif.?	_	_	_	_	_	Gloss=petit.plus
+6	'	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=que.lui
 7	vitoñ,	vitoñ,	?	_	_	_	_	_	Gloss=?
 8	eh	eh	?	_	_	_	_	_	Gloss=R
 9	ae	mont	verbe	_	_	_	_	_	Gloss=allait
-10	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+10	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = McKenna (1976-8:70)__1
+# sent_id = McKenna(1976-8:70)__1
 # text = Na bout e veuehen ankouein ket (er) Bretagne james.
 # text_fr = 'Tant que je vis, je n'oublierai jamais la Bretagne.'
-# text_phon = ['[ nɑbo', "'@hwe.və׀hi_n'@_", "aŋko'@iï_n_tšï", "'@britein'@", "'@zɑmïs ]"]
+# text_phon =  nɑbo '@hwe.və׀hi_n'@_ aŋko'@iï_n_tšï '@britein'@ '@zɑmïs  
+# source = Ar Borgn (2011)
 1	Na	Na	?	_	_	_	_	_	Gloss=
-2	bout	bout	?	_	_	_	_	_	Gloss=?
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	bout	bout	verbe|auxiliaire	_	_	_	_	_	Gloss=?
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	veuehen	bevañ	verbe	_	_	_	_	_	Gloss=vivrais
 5	ankouein	ankounac'haat	?	_	_	_	_	_	Gloss=oublierai
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	(er)	art	?	_	_	_	_	_	Gloss=le
-8	Bretagne	nompropre	?	_	_	_	_	_	Gloss=Bretagne
+7	(er)	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	Bretagne	nom_propre	?	_	_	_	_	_	Gloss=Bretagne
 9	james	james	adverbe	_	_	_	_	_	Gloss=jamais
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -38,13 +39,13 @@
 # location = Languidic
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
-1	Na	Na	?	_	_	_	_	_	Gloss=C
-2	bout	bezañ	?	_	_	_	_	_	Gloss=être
+1	Na	Na	complémenteur	_	_	_	_	_	Gloss=C
+2	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 3	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
-4	on	COP	?	_	_	_	_	_	Gloss=suis
-5	arriw	arru	?	_	_	_	_	_	Gloss=arrivé
+4	on	COP	verbe	_	_	_	_	_	Gloss=suis
+5	arriw	arru	verbe	_	_	_	_	_	Gloss=arrivé
 6	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	labouran	labourat	verbe	_	_	_	_	_	Gloss=travaille
 9	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -55,29 +56,30 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Na	Na	?	_	_	_	_	_	Gloss=C
-2	bout	bezañ	?	_	_	_	_	_	Gloss=être
-3	'	COP	?	_	_	_	_	_	Gloss=était
+1	Na	Na	complémenteur	_	_	_	_	_	Gloss=C
+2	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
 4	oa	oa	?	_	_	_	_	_	Gloss=?
-5	arru	arru	?	_	_	_	_	_	Gloss=arrivé
+5	arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
 6	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	kerzhe	kerzhout	verbe	_	_	_	_	_	Gloss=marchait
 10	c'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
 11	pasapl	pasapl	adverbe	_	_	_	_	_	Gloss=pas.mal
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Ar Borgn (2011:82)__1
+# sent_id = ArBorgn(2011:82)__1
 # text = Na bout lârehen, ne gredehec'h ket din !
 # text_fr = 'Même si je disais, tu ne me croirais pas !'
 # source2 =  Le Scorff, E. Samedy
-1	Na	Na	?	_	_	_	_	_	Gloss=C
-2	bout	bezañ	?	_	_	_	_	_	Gloss=être
+# source = Ar Borgn (2011)
+1	Na	Na	complémenteur	_	_	_	_	_	Gloss=C
+2	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 3	lârehen	lavarout	verbe	_	_	_	_	_	Gloss=disais
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 6	gredehec'h	krediñ	verbe	_	_	_	_	_	Gloss=croiriez
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 9	!	!	PUNCT	_	_	_	_	Gloss=punct

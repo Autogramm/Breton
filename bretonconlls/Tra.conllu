@@ -4,14 +4,14 @@
 # dialect = Vannetais
 # source = Cheveau (2017)
 # texttype = Ouvrages de recherche
-1	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	zad	tad	nom	_	_	_	_	_	Gloss=père
-3	m'	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+3	m'	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-5	dehe	kaout	?	_	_	_	_	_	Gloss=avait
+5	dehe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 6	bet	bet	?	_	_	_	_	_	Gloss=eu
-7	gouiet	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=su
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	gouiet	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=su
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	dra-se...	dra-se...	?	_	_	_	_	_	Gloss=1
 10	'	'	?	_	_	_	_	_	Gloss=?
 11			PUNCT	_	_	_	_	Gloss=punct
@@ -23,16 +23,16 @@
 # location = Clohars-Carnoët
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	'	art	?	_	_	_	_	_	Gloss=le
-2	N	N	?	_	_	_	_	_	Gloss=1
+1	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	N	N	N	_	_	_	_	_	Gloss=1
 3	dreu-s	dreu-s	?	_	_	_	_	_	Gloss=?
-4	'	COP	?	_	_	_	_	_	Gloss=était
+4	'	COP	verbe	_	_	_	_	_	Gloss=était
 5	oa	oa	?	_	_	_	_	_	Gloss=?
 6	pad'	padout	verbe	_	_	_	_	_	Gloss=duré
 7	t	t	?	_	_	_	_	_	Gloss=?
 8	duran'	duran'	?	_	_	_	_	_	Gloss=durant
 9			PUNCT	_	_	_	_	Gloss=punct
-10	teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+10	teir	numéraux_cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=trois
 11	eur	eur	nom	_	_	_	_	_	Gloss=heure
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -42,15 +42,15 @@
 # dialect = Cornouaillais
 # source = Martin (1929)
 # texttype = Références de corpus
-1	Cheinik	cheinik	?	_	_	_	_	_	Gloss=dos.petit?
+1	Cheinik	cheinik	interjection	_	_	_	_	_	Gloss=dos.petit_?
 2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	hema	DEM	?	_	_	_	_	_	Gloss=celui.ci
+4	hema	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	eun	art	?	_	_	_	_	_	Gloss=un
+6	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 8	tra	tra	nom	_	_	_	_	_	Gloss=chose
-9	goalldra	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+9	goalldra	gwall-	adverbe|nom	_	_	_	_	_	Gloss=mauvais|Mutation=trigger|MutationNUM=1
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(10/2021)__19
@@ -60,16 +60,15 @@
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Ah	interjection	?	_	_	_	_	_	Gloss=ahbah
+1	Ah	interjection	interjection	_	_	_	_	_	Gloss=ah_bah
 2	bah	bah	?	_	_	_	_	_	Gloss=?
-3	ndrahe	art.ndrahe.DEM	?.?.?	_	_	_	_	_	Gloss=le.1.ci
+3	ndrahe	art.ndrahe.DEM	déterminant|quantifieur.?.pronom	_	_	_	_	_	Gloss=le.1.ci
 4	hat	avat	adverbe	_	_	_	_	_	Gloss=mais
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	C'	pfi	?	_	_	_	_	_	Gloss=vous
-7	hwi	hwi	?	_	_	_	_	_	Gloss=?
-8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	va	war	?	_	_	_	_	_	Gloss=sur
-10	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
-11	du	tu	nom	_	_	_	_	_	Gloss=côté
-12	dehou	dehou	?	_	_	_	_	_	Gloss=droit
-13	.	.	PUNCT	_	_	_	_	Gloss=punct
+6	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+7	zo	zo	?	_	_	_	_	_	Gloss=est
+8	va	war	préposition	_	_	_	_	_	Gloss=sur
+9	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=1
+10	du	tu	nom	_	_	_	_	_	Gloss=côté
+11	dehou	dehou	adjectif|nom	_	_	_	_	_	Gloss=droit
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

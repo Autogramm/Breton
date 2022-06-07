@@ -5,16 +5,16 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	nebleh	nep-.lec'h	quantifieur.?	_	_	_	_	_	Gloss=nul.part
-3	ne	ne	?	_	_	_	_	_	Gloss=ne
-4	oe	COP	?	_	_	_	_	_	Gloss=était
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+4	oe	COP	verbe	_	_	_	_	_	Gloss=était
 5	biskoaz	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
-6	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+6	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 7	em	em	?	_	_	_	_	_	Gloss=battre
 8	gannet	gannet	?	_	_	_	_	_	Gloss=?
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 10	muioch	muioc'h	?	_	_	_	_	_	Gloss=plus
-11	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 12	youl	youl	nom	_	_	_	_	_	Gloss=énergie
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

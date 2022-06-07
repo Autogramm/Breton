@@ -6,12 +6,12 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Gwechal	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
-2	e	P.e	?	_	_	_	_	_	Gloss=en
-3	koulz	kenkoulz	?	_	_	_	_	_	Gloss=autant
+2	e	P.e	préposition	_	_	_	_	_	Gloss=en
+3	koulz	kenkoulz	complémenteur|adjectif	_	_	_	_	_	Gloss=autant
 4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 5	peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 6	tiegez	ti.-egezh	nom.nom	_	_	_	_	_	Gloss=maison.née
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	oa	COP	?	_	_	_	_	_	Gloss=était
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	oa	COP	verbe	_	_	_	_	_	Gloss=était
 9	gwenan	gwenan	nom	_	_	_	_	_	Gloss=abeilles
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

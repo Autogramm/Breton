@@ -1,21 +1,24 @@
 # sent_id = Gros(1984:234)__1
 # text = Gouvezit ervad petra oh oh ober.
 # text_fr = 'Réfléchissez bien à ce que vous êtes en train de faire.'
-# source = Gros (1984)
-1	Gouvezit	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sachez
-2	ervad	ervad	?	_	_	_	_	_	Gloss=bien
-3	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-4	oh	COP	?	_	_	_	_	_	Gloss=êtes
-5	oh	particuleo	?	_	_	_	_	_	Gloss=à
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Gouvezit	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sachez
+2	ervad	ervad	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+3	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+4	oh	COP	verbe	_	_	_	_	_	Gloss=êtes
+5	oh	particule_o	?	_	_	_	_	_	Gloss=à
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Mathelier (2017:35)__1
+# sent_id = Mathelier(2017:35)__1
 # text = Hi ouel houat !
 # text_fr = 'Tu vois bien.', 'Vois-tu bien ?'
-1	Hi	Hi	?	_	_	_	_	_	Gloss=C'@hwi
+# source = Gros (1974)
+1	Hi	Hi	?	_	_	_	_	_	Gloss=Cxxxhwi
 2	ouel	ouel	?	_	_	_	_	_	Gloss='@wel
-3	houat	houat	adverbe-adjectif	_	_	_	_	_	Gloss=ervat
+3	houat	houat	adverbe|adjectif	_	_	_	_	_	Gloss=ervat
 4			?	_	_	_	_	_	Gloss=!
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -27,10 +30,10 @@
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
 2	da	da	préposition	_	_	_	_	_	Gloss=de
 3	se	se	pronom	_	_	_	_	_	Gloss=ça
-4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+4	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	gomprenont	kompren	verbe	_	_	_	_	_	Gloss=comprennent
-7	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=parfaitement
+7	ervat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=parfaitement
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:27)__1
@@ -38,67 +41,72 @@
 # text_fr = 'Prends ta décision avec soin, car il est pour toi temps de choisir ton état.' (laïque ou religieux)
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-2	ervat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-3	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+1	Gra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+2	ervat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+3	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 4	soñj	soñj	nom	_	_	_	_	_	Gloss=pensée
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	rak	rak	?	_	_	_	_	_	Gloss=car
+6	rak	rak	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 7	poent	poent	nom	_	_	_	_	_	Gloss=temps
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
+9	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 10	dibab	dibab	verbe	_	_	_	_	_	Gloss=choisir
-11	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+11	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 12	stad	stad	nom	_	_	_	_	_	Gloss=état
-13	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+13	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 14	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:234)__1
 # text = Med ni on-oa leviet or batimant ervad da antren er porz.
 # text_fr = 'Mais nous avions gouverné notre navire comme il fallait (habilement) pour entrer dans le port.'
-# source = Gros (1984)
-1	Med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	ni	pfi	?	_	_	_	_	_	Gloss=nous
-3	on-oa	kaout	?	_	_	_	_	_	Gloss=avait
-4	leviet	leviañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=gouvern.é
-5	or	POSS	?	_	_	_	_	_	Gloss=notre
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Med	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	ni	pfi	pronom	_	_	_	_	_	Gloss=nous
+3	on-oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	leviet	leviañ.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=gouvern.é
+5	or	POSS	déterminant	_	_	_	_	_	Gloss=notre
 6	batimant	batimant	?	_	_	_	_	_	Gloss=bâtiment
-7	ervad	ervad	?	_	_	_	_	_	Gloss=habilement
+7	ervad	ervad	adverbe|adjectif	_	_	_	_	_	Gloss=habilement
 8	da	da	préposition	_	_	_	_	_	Gloss=pour
-9	antren	antren	?	_	_	_	_	_	Gloss=entrer
-10	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	antren	antren	verbe	_	_	_	_	_	Gloss=entrer
+10	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 11	porz	porzh	nom	_	_	_	_	_	Gloss=port
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaoz')__1
 # text = Ne dalvez mann ma haoz, peogwir n'on ket kap da lavared ervad.
 # text_fr = 'Ma conversation ne vaut rien, puisque je ne peux pas dire correctement ce que je voulais dire.'
-# source = Gros (1989)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	dalvez	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 3	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	haoz	haoz	?	_	_	_	_	_	Gloss=conversation
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-9	on	COP	?	_	_	_	_	_	Gloss=suis
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+9	on	COP	verbe	_	_	_	_	_	Gloss=suis
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-11	kap	kap	?	_	_	_	_	_	Gloss=capable
-12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	kap	kap	adjectif	_	_	_	_	_	Gloss=capable
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
-14	ervad	ervad	?	_	_	_	_	_	Gloss=bien
+14	ervad	ervad	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Louis (2015:96)__1
+# sent_id = Louis(2015:96)__1
 # text = Met chouket ne hrein ket erhat !
 # text_fr = 'Mais je ne m’assiérai sûrement pas !'
 # source2 =  Vannetais, Le Melinaire (1938)
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+# source = Gros (1970b)
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	chouket	choukañ	?	_	_	_	_	_	Gloss=asseoir
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	hrein	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferai
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	hrein	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferai
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	erhat	erhat	?	_	_	_	_	_	Gloss=ça.non
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

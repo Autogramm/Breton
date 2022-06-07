@@ -1,19 +1,19 @@
-# sent_id = Bouzec & al. (2017:62)__1
+# sent_id = Bouzec&al.(2017:62)__1
 # text = Bou zo klér àr ' lenn.
 # text_fr = 'Il y a une couche de glace sur le lac.'
-1	Bou	Bou	?	_	_	_	_	_	Gloss=Bout
+1	Bou	Bou	verbe|auxiliaire	_	_	_	_	_	Gloss=Bout
 2	zo	zo	?	_	_	_	_	_	Gloss=zo
 3	klér	klér	nom	_	_	_	_	_	Gloss=kler
 4	àr	àr	?	_	_	_	_	_	Gloss=àr
 5	'	'	?	_	_	_	_	_	Gloss=al
 6			PUNCT	_	_	_	_	Gloss=punct
-7	lenn	lenn	?	_	_	_	_	_	Gloss=lenn.
+7	lenn	lenn	verbe	_	_	_	_	_	Gloss=lenn.
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:62)__1
+# sent_id = Bouzec&al.(2017:62)__1
 # text = Beu zo 'n glér'nn ar ' zeillad dour.
 # text_fr = 'L'eau du seau est recouverte de glace.'
-1	Beu	Beu	?	_	_	_	_	_	Gloss=Bout
+1	Beu	Beu	verbe|auxiliaire	_	_	_	_	_	Gloss=Bout
 2	zo	zo	?	_	_	_	_	_	Gloss=zo
 3	'	'	?	_	_	_	_	_	Gloss=ur
 4	n	n	?	_	_	_	_	_	Gloss=glerenn

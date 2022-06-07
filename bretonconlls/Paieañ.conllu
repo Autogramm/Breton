@@ -6,38 +6,38 @@
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 4	paieañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-7	hag	&	?	_	_	_	_	_	Gloss=et
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+7	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__1
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__2
 # text = C'hwi laro doñ e pasein da beo diwetoc'h.
 # text_fr = 'Tu lui diras que je passerai payer plus tard.'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
-4	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-8	beo	beo	?	_	_	_	_	_	Gloss=payer
-9	diwetoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
-10	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
+3	doñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+7	beo	beo	adjectif	_	_	_	_	_	Gloss=payer
+8	diwetoc'h	diwezhat.-oc'h	adverbe.?	_	_	_	_	_	Gloss=tard.plus
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Guyonvarc'h (1984:18) __1
+# sent_id = Guyonvarc'h(1984:18)__1
 # text = me vel tin paia.
 # text_fr = 'Je veux payer.'
 # source2 =  Moyen breton vannetais, Gl.AvH
+# source = H. Gaudart (04/2016b)
 1	vel	fellout	verbe	_	_	_	_	_	Gloss=plait
-2	tin	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+2	tin	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 3	paia	paia	?	_	_	_	_	_	Gloss=payer
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

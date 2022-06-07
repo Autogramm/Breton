@@ -4,8 +4,8 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	gerzhan	kerzhout	verbe	_	_	_	_	_	Gloss=marche
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
@@ -14,11 +14,12 @@
 8	ehouolh	awalc'h	?	_	_	_	_	_	Gloss=assez
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:192)__1
+# sent_id = Bouzec&al.(2017:192)__1
 # text = Ma dao pomay noñ founnuch.
 # text_fr = 'Il faut le paumailler rapidement.' (relever une ligne)
+# source = An Diberder (2000)
 1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Emañ
-2	dao	dao	adjectif	_	_	_	_	_	Gloss=dav
+2	dao	dao	interjection	_	_	_	_	_	Gloss=dav
 3	pomay	pomay	?	_	_	_	_	_	Gloss=pomailhañ
 4	noñ	noñ	?	_	_	_	_	_	Gloss=anezhañ
 5	founnuch	founnuch	?	_	_	_	_	_	Gloss=fonnus.

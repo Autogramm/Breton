@@ -1,24 +1,27 @@
 # sent_id = Gros(1989:'bet')__1
 # text = Me a zo bet hag e een da gerhad amann da Rosmeur.
 # text_fr = 'Il fut un temps où j'allais chercher du beurre à Rosmeur.'
-# source = Gros (1989)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	zo	COP	?	_	_	_	_	_	Gloss=est
+3	zo	COP	verbe	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-6	e	e	?	_	_	_	_	_	Gloss=R
+5	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+6	e	e	verbe	_	_	_	_	_	Gloss=R
 7	een	mont	verbe	_	_	_	_	_	Gloss=allais
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 9	gerhad	kerc'hat	?	_	_	_	_	_	Gloss=chercher
 10	amann	amann	nom	_	_	_	_	_	Gloss=beurre
 11	da	da	préposition	_	_	_	_	_	Gloss=à
 12	Rosmeur	Rosmeur	?	_	_	_	_	_	Gloss=Rosmeur
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Mathelier (2017:31)__1
+# sent_id = Mathelier(2017:31)__1
 # text = Me zo bet de zoueñ añmeneñn de me brèr Hañri.
 # text_fr = 'Je suis allée apporter du beurre à mon frère Henri.'
+# source = Gros (1970b)
 1	Me	Me	?	_	_	_	_	_	Gloss=Me
 2	zo	zo	?	_	_	_	_	_	Gloss=zo
 3	bet	bet	?	_	_	_	_	_	Gloss=bet
@@ -38,14 +41,14 @@
 # location = Pleyben
 # source = Ar Gow (1999)
 # texttype = Références de corpus
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 3	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
-4	den	nomnu	nom	_	_	_	_	_	Gloss=personne
+4	den	nom_nu	nom	_	_	_	_	_	Gloss=personne
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
-8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	laerezh	laerezh	verbe	_	_	_	_	_	Gloss=voler
+8	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 9	tanvez-amann..	danvez	nom	_	_	_	_	_	Gloss=matière
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -56,7 +59,7 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Arnevet	arnev	nom	_	_	_	_	_	Gloss=orag
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	an	art	?	_	_	_	_	_	Gloss=le
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	amann	amann	nom	_	_	_	_	_	Gloss=beurre
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

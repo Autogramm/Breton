@@ -4,13 +4,13 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=ni
-2	èn	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	èn	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 3	oabr	oabl	nom	_	_	_	_	_	Gloss=ciel
-4	koumouluz	-uz	?	_	_	_	_	_	Gloss=eux
+4	koumouluz	-uz	suffixe|adjectif	_	_	_	_	_	Gloss=eux
 5	heol	heol	nom	_	_	_	_	_	Gloss=soleil
 6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-8	para	parañ	?	_	_	_	_	_	Gloss=briller
+7	o	particule_o	?	_	_	_	_	_	Gloss=à
+8	para	parañ	verbe	_	_	_	_	_	Gloss=briller
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:'c'hoar')__1
@@ -21,14 +21,14 @@
 # texttype = Ouvrages de recherche
 1	Gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	c'hoar	c'hoar	?	_	_	_	_	_	Gloss=sœur
-6	arru	arru	?	_	_	_	_	_	Gloss=arriver
+6	arru	arru	verbe	_	_	_	_	_	Gloss=arriver
 7	du-hont	du-hont	?	_	_	_	_	_	Gloss=là-bas
-8	ha	&	?	_	_	_	_	_	Gloss=et
+8	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	du	du	adjectif	_	_	_	_	_	Gloss=noir
 10	barlenn	barlenn	nom	_	_	_	_	_	Gloss=devant
-11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 12	broz	brozh	nom	_	_	_	_	_	Gloss=jupe
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,11 +1,11 @@
 # sent_id = :133)__1
 # text = an heveleb ster evel "o".
-# text_fr = 'le même sens que ''o''.'
+# text_fr = 'le même sens que o.'
 # location = Kléder
 # source = Fave (1998:133)
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	heveleb	hevelep	adjectif	_	_	_	_	_	Gloss=même
 3	ster	ster	nom	_	_	_	_	_	Gloss=sens
-4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=que
-5	"o"	"o"	?	_	_	_	_	_	Gloss='@'@o'@'@
+4	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=que
+5	"o"	"o"	?	_	_	_	_	_	Gloss=o
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

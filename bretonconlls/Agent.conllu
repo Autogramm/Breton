@@ -4,11 +4,11 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	Lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-5	geti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+5	geti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:66)__1
@@ -18,9 +18,9 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Lonket	lonkañ	verbe	_	_	_	_	_	Gloss=avalé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	penn-da-benn	penn-da-benn	adverbe	_	_	_	_	_	Gloss=intégralement
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -30,7 +30,7 @@
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
 1	respont	respont	?	_	_	_	_	_	Gloss=réponse
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	gouarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
 
 # sent_id = Stephens(1992:152)__1
@@ -38,12 +38,12 @@
 # text_fr = 'La demande des enfants a été entendue.'
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
-1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	goulenn	goulenn	verbe	_	_	_	_	_	Gloss=question
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Stephens(1992:152)__1
@@ -51,9 +51,9 @@
 # text_fr = 'La fauche de Yann ne vaut rien.'
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
-1	Falc'had	falc'h.-ad	?.?	_	_	_	_	_	Gloss=fauch.ée
-2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Falc'had	falc'h.-ad	?.suffixe|nom	_	_	_	_	_	Gloss=fauch.ée
+2	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	dalvez	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 5	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -63,11 +63,11 @@
 # text_fr = 'l'amour de Lenaig pour les pauvres'
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
-1	karantez	karout.-antez	verbe.?	_	_	_	_	_	Gloss=am.our
-2	Lenaig	nompropre.Lenaig	?.?	_	_	_	_	_	Gloss=Lena.DIM
-3	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	re	re	adverbe	_	_	_	_	_	Gloss=ceux|Morph=1
+1	karantez	karout.-antez	verbe.suffixe|nom	_	_	_	_	_	Gloss=am.our
+2	Lenaig	nom_propre	?	_	_	_	_	_	Gloss=Lena
+3	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	re	re	adverbe	_	_	_	_	_	Gloss=ceux|Mutation=trigger|MutationNUM=1
 6	baour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 
 # sent_id = Stephens(1992:153)__1
@@ -75,11 +75,11 @@
 # text_fr = 'les coups de Yann à ses ennemis'
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
-1	kalkennou	kalkenniñ.-où(PL.)	verbe.?	_	_	_	_	_	Gloss=frapp.ements
-2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+1	kalkennou	kalkenniñ.-où_(PL.)	verbe.suffixe	_	_	_	_	_	Gloss=frapp.ements
+2	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 3	d'	da	préposition	_	_	_	_	_	Gloss=pour
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	enebourien	enebour.-ien(PL.)	nom.?	_	_	_	_	_	Gloss=ennemi.s
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	enebourien	enebour.-ien_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=ennemi.s
 
 # sent_id = Stephens(1992:153)__1
 # text = tresadenn Lenaig deus an den
@@ -87,7 +87,7 @@
 # source = Stephens (1992)
 # texttype = Ouvrages de recherche
 1	tresadenn	tresañ.-adenn	verbe.nom	_	_	_	_	_	Gloss=dess.in
-2	Lenaig	nompropre.Lenaig	?.?	_	_	_	_	_	Gloss=Lena.DIM
-3	deus	deus	?	_	_	_	_	_	Gloss=de
-4	an	art	?	_	_	_	_	_	Gloss=le
+2	Lenaig	nom_propre	?	_	_	_	_	_	Gloss=Lena
+3	deus	deus	préposition	_	_	_	_	_	Gloss=de
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	den	den	nom	_	_	_	_	_	Gloss=homme

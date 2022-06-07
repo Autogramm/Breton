@@ -5,13 +5,13 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+1	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-3	darngofad	darngofad.kof.-ad	?.nom.?	_	_	_	_	_	Gloss=1.ventr.ée
+3	darngofad	darngofad.kof.-ad	?.nom.suffixe|nom	_	_	_	_	_	Gloss=1.ventr.ée
 4	mar	mar	nom	_	_	_	_	_	Gloss=si
 5	kerez	karout	verbe	_	_	_	_	_	Gloss=aimes
 6	paneogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
 7	zo	zo	?	_	_	_	_	_	Gloss=est
 8	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
-9	frank	frank	adverbe-adjectif	_	_	_	_	_	Gloss=plein
+9	frank	frank	adverbe|adjectif	_	_	_	_	_	Gloss=plein
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

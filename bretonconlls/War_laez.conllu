@@ -5,15 +5,15 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	war-laez	war	adverbe	_	_	_	_	_	Gloss=sur
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	peus	kaout	?	_	_	_	_	_	Gloss=as
-4	un	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-5	all	all	?	_	_	_	_	_	Gloss=autre
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	war-laez	war	préposition	_	_	_	_	_	Gloss=sur
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	peus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=as
+4	un	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+5	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	dalc'her	derc'hel	?	_	_	_	_	_	Gloss=garder
-8	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-9	dres	dres	adverbe-adjectif	_	_	_	_	_	Gloss=droit
+8	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	dres	dres	adverbe|adjectif	_	_	_	_	_	Gloss=droit
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ouessant,Gouedig(1982)__46
@@ -23,15 +23,15 @@
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
 1	savet	sevel	verbe	_	_	_	_	_	Gloss=monté
-2	war-laez	war	adverbe	_	_	_	_	_	Gloss=sur
-3	hag	&	?	_	_	_	_	_	Gloss=et
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	tiskenned	diskenn.IMP	verbe.?	_	_	_	_	_	Gloss=descendait.on
-6	daou-ha-daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+2	war-laez	war	préposition	_	_	_	_	_	Gloss=sur
+3	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	tiskenned	diskenn.IMP	verbe.pronom	_	_	_	_	_	Gloss=descendait.on
+6	daou-ha-daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	med	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-9	me	pfi	?	_	_	_	_	_	Gloss=moi
-10	'	kaout	?	_	_	_	_	_	Gloss=avait
+8	med	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+9	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+10	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 11	m-oa	m-oa	?	_	_	_	_	_	Gloss=?
 12	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 13	kavalier	kavalier	?	_	_	_	_	_	Gloss=cavalier
@@ -44,13 +44,13 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Eur	art	nom	_	_	_	_	_	Gloss=un
-2	gwaz	gwaz	?	_	_	_	_	_	Gloss=homme
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	oe	COP	?	_	_	_	_	_	Gloss=fut
-5	karget	kargañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=charg.é
+1	Eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	gwaz	gwaz	nom	_	_	_	_	_	Gloss=homme
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	oe	COP	verbe	_	_	_	_	_	Gloss=fut
+5	karget	kargañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=charg.é
 6	vond	mont	verbe	_	_	_	_	_	Gloss=aller
-7	war-laez…	war	?	_	_	_	_	_	Gloss=sur
+7	war-laez…	war	préposition	_	_	_	_	_	Gloss=sur
 
 # sent_id = Elégoët(1982:14)__7
 # text = Pa deu ar mor war-laez...
@@ -59,11 +59,11 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	mor	mor	nom	_	_	_	_	_	Gloss=mer
-5	war-laez..	war	?	_	_	_	_	_	Gloss=sur
+5	war-laez..	war	préposition	_	_	_	_	_	Gloss=sur
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:30)__1
@@ -73,23 +73,23 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+4	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	pa'	pa	complémenteur	_	_	_	_	_	Gloss=quand
 7	z	z	?	_	_	_	_	_	Gloss=?
 8	ay	mont	verbe	_	_	_	_	_	Gloss=ira
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture|Morph=5
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture|Mutation=target|MutationNUM=5
 11	kuites	kuit	postposition	_	_	_	_	_	Gloss=parti
 12	dabord	dabort	adverbe	_	_	_	_	_	Gloss=bientôt
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
-14	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+14	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 15	avañs	avañs	?	_	_	_	_	_	Gloss=avancer
-16	ar	art	?	_	_	_	_	_	Gloss=le
-17	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+16	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+17	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Mutation=target|MutationNUM=1
 18	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
-19	war	war	?	_	_	_	_	_	Gloss=sur
+19	war	war	préposition	_	_	_	_	_	Gloss=sur
 20	laez.	laez.	?	_	_	_	_	_	Gloss=?

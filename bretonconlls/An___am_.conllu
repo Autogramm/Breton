@@ -5,10 +5,10 @@
 # location = Perros-guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-2	loeroù	loer.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chaussette.s
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+2	loeroù	loer.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=chaussette.s
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+5	en	P.e	préposition	_	_	_	_	_	Gloss=en
 6	andu	andu.tu	?.nom	_	_	_	_	_	Gloss=1.côté
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,0 +1,23 @@
+sent_id = Herri(1982:40)__1
+text = Siwazh, re gaer e oa evit padout betek fin ar beurbadelezh.
+text_fr =  'Malheureusement, c'était trop beau pour durer jusqu'à la fin de l'éternité.'
+1	Siwazh	siwazh	adverbe	_	_	_	_	_	Gloss=malheureusement
+2	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+3	re	re	adverbe	_	_	_	_	_	Gloss=trop
+4	gaer	kaer	adjectif	_	_	_	_	_	Gloss=beau
+5	e oa	[[R]]_[[4]] [[COP|était]]	?	_	_	_	_	_	Gloss=[[R]]_[[4]] [[COP|était]]
+6	evit	evit	préposition	_	_	_	_	_	Gloss=pour
+7	padout	padout	verbe	_	_	_	_	_	Gloss=durer
+8	betek	betek	préposition	_	_	_	_	_	Gloss=jusqu.à
+9	fin	fin	?	_	_	_	_	_	Gloss=fin
+10	ar beurbadelezh	art.peur-.padout	article.adjectif.verbe	_	_	_	_	_	Gloss=le.complet.dur
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Vallée(1980:XVIII)__1
+text = N'eus ket a zoueegezh ennout!
+text_fr =  'Il n'y a pas de divinité en toi!'
+1	N'eus	[[ne]]'[[E|y.a]]	?	_	_	_	_	_	Gloss=[[ne]]'[[E|y.a]]
+2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	a zoueegezh	a	préposition	_	_	_	_	_	Gloss=de
+4	ennout	P.e.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=dans.toi
+5	!	!	PUNCT	_	_	_	_	_	Gloss=punct

@@ -1,28 +1,32 @@
 # sent_id = Gros(1984:95)__1
 # text = Pegen glac'haret, evel ouzout, na oa ket mamm hennezh  !
 # text_fr = 'Quelle n'était pas l'affliction de sa mère !'
-# source = Gros (1984)
-1	Pegen	pegen	?	_	_	_	_	_	Gloss=combien
-2	glac'haret	glac'har.-et(Adj.)	?.?	_	_	_	_	_	Gloss=chagrin.é
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
+2	glac'haret	glac'har.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=chagrin.é
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-5	ouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+4	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+5	ouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
-8	oa	COP	?	_	_	_	_	_	Gloss=était
+7	na	na	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+8	oa	COP	verbe	_	_	_	_	_	Gloss=était
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
-11	hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+11	hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 12			PUNCT	_	_	_	_	Gloss=punct
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guillevic&LeGoff(1986:79)__1
 # text = (na) braùet un iliz !
 # text_fr = 'Quelle belle église !'
-# source = Guillevic & Le Goff (1986)
+# dialect = Vannetais
+# source = Guillevic & Le Goff (1902)
+# texttype = Ouvrages de recherche
 1	(na)	na(g)	complémenteur	_	_	_	_	_	Gloss=quel
-2	braùet	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-3	un	art	?	_	_	_	_	_	Gloss=un
+2	braùet	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	iliz	iliz	nom	_	_	_	_	_	Gloss=église
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -33,8 +37,8 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Kaeraat	kaer.-at(excl.)	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.suffixe
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	Kaeraat	kaer.-at_(excl.)	adverbe|adjectif.suffixe|adjectif	_	_	_	_	_	Gloss=beau.suffixe
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	vur	vur	?	_	_	_	_	_	Gloss=mur
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -50,11 +54,13 @@
 # sent_id = Gros(1984:432)__1
 # text = Pebez kalonad d'eur vamm !
 # text_fr = 'Quel crève-cœur pour une mère !'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Pebez	pebezh	?	_	_	_	_	_	Gloss=quel
-2	kalonad	kalon.-ad	nom.?	_	_	_	_	_	Gloss=cœur.ée
+2	kalonad	kalon.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=cœur.ée
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un|Mutation=trigger|MutationNUM=1
 5	vamm	mamm	nom	_	_	_	_	_	Gloss=mère
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -65,7 +71,7 @@
 # texttype = Ouvrages de recherche
 1	Pësort	peseurt	?	_	_	_	_	_	Gloss=quelle
 2	duoñn	du.-on	adjectif.?	_	_	_	_	_	Gloss=noir.N
-3	ê	COP	?	_	_	_	_	_	Gloss=est
+3	ê	COP	verbe	_	_	_	_	_	Gloss=est
 
 # sent_id = ArBorgn(2011:7)__1
 # text = Pesort diskonfortañs goude marv ma mab  !
@@ -74,10 +80,10 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Pesort	peseurt	?	_	_	_	_	_	Gloss=quel
-2	diskonfortañs	di-.-añs	?.?	_	_	_	_	_	Gloss=in.N
-3	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-4	marv	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
-5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	diskonfortañs	di-.-añs	?.suffixe|nom	_	_	_	_	_	Gloss=in.N
+3	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+4	marv	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	mab	mab	nom	_	_	_	_	_	Gloss=fils
 7			PUNCT	_	_	_	_	Gloss=punct
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -90,12 +96,12 @@
 # texttype = Ouvrages de recherche
 1	Na	na(g)	complémenteur	_	_	_	_	_	Gloss=que
 2	kragn	kragn	?	_	_	_	_	_	Gloss=radin
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Na	na(g)	complémenteur	_	_	_	_	_	Gloss=que
 7	sec'h	sec'h	?	_	_	_	_	_	Gloss=sec
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	gein	kein	nom	_	_	_	_	_	Gloss=dos
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -105,40 +111,43 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	kavan	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guillevic&LeGoff(1986:80)__1
 # text = Get ou des de zoujein !
 # text_fr = 'Combien ils ont à craindre !'
-# source = Guillevic & Le Goff (1986)
-1	Get	gant	?	_	_	_	_	_	Gloss=que!
-2	ou	kaout	?	_	_	_	_	_	Gloss=3PLa
-3	des	des	?	_	_	_	_	_	Gloss=?
-4	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+# dialect = Vannetais
+# source = Guillevic & Le Goff (1902)
+# texttype = Ouvrages de recherche
+1	Get	gant	préposition	_	_	_	_	_	Gloss=que_!
+2	ou	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=3PL_a
+3	des	des	verbe	_	_	_	_	_	Gloss=?
+4	de	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	zoujein	doujañ	verbe	_	_	_	_	_	Gloss=craindre
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Mathelier (2017:34-35)__1
+# sent_id = Mathelier(2017:34-35)__1
 # text = Ked a boèn ! Ked a dieir ! Ked a séhéo ! Ked a chetal !
 # text_fr = 'Que de peine !', 'Que de maisons !', 'Que de robes !', 'Que de bétail !'
-1	Ked	Ked	?	_	_	_	_	_	Gloss=gant
+# source = Guillevic & Le Goff (1902)
+1	Ked	Ked	préposition	_	_	_	_	_	Gloss=gant
 2	a	a	préposition	_	_	_	_	_	Gloss=a
 3	boèn	boèn	?	_	_	_	_	_	Gloss=boan
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
-5	Ked	Ked	?	_	_	_	_	_	Gloss=gant
+5	Ked	Ked	préposition	_	_	_	_	_	Gloss=gant
 6	a	a	préposition	_	_	_	_	_	Gloss=a
 7	dieir	dieir	?	_	_	_	_	_	Gloss=dier
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
-9	Ked	Ked	?	_	_	_	_	_	Gloss=gant
+9	Ked	Ked	préposition	_	_	_	_	_	Gloss=gant
 10	a	a	préposition	_	_	_	_	_	Gloss=a
 11	séhéo	séhéo	?	_	_	_	_	_	Gloss=seoù
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
-13	Ked	Ked	?	_	_	_	_	_	Gloss=gant
+13	Ked	Ked	préposition	_	_	_	_	_	Gloss=gant
 14	a	a	préposition	_	_	_	_	_	Gloss=a
 15	chetal	chetal	nom	_	_	_	_	_	Gloss=chatal
 16	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -146,24 +155,28 @@
 # sent_id = Gros(1984:432)__1
 # text = Gwasad ma plij dezañ farsal!
 # text_fr = 'Comme il aime à plaisanter!'
-# source = Gros (1984)
-1	Gwasad	Gwasad	?	_	_	_	_	_	Gloss='@'@pire'@'@
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Gwasad	Gwasad	?	_	_	_	_	_	Gloss=pire
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	plij	plijout	verbe	_	_	_	_	_	Gloss=plait
-4	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	farsal	fars.-al	nom.?	_	_	_	_	_	Gloss=farc.er
+4	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	farsal	fars.-al	nom.verbe|suffixe	_	_	_	_	_	Gloss=farc.er
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeDû(2012:100)__1
 # text = Gwasɑ̃ h ê braz e béd!
 # text_fr = 'Que le monde est grand !'
+# dialect = Trégorrois
 # location = Plougrescant
-# source = Le Dû (2012)
-1	Gwasɑ̃	Gwasɑ̃	?	_	_	_	_	_	Gloss='@'@pire'@'@
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
+1	Gwasɑ̃	Gwasɑ̃	?	_	_	_	_	_	Gloss=pire
 2	h	h	?	_	_	_	_	_	Gloss=R
-3	ê	COP	?	_	_	_	_	_	Gloss=est
-4	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-5	e	art	?	_	_	_	_	_	Gloss=le
+3	ê	COP	verbe	_	_	_	_	_	Gloss=est
+4	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+5	e	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	béd	bed	nom	_	_	_	_	_	Gloss=monde
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -174,18 +187,20 @@
 # location = Tregastell
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 2	'	'	?	_	_	_	_	_	Gloss=mur
 3	vur	vur	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Gros(1984:94)__1
 # text = O ! N'eus ket pemp bloaz ebet c'hoaz.
 # text_fr = 'Ça ne fait pas cinq ans.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	O	O	?	_	_	_	_	_	Gloss=interjection
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	N'	N'	?	_	_	_	_	_	Gloss=ne
-4	eus	ezeus	?	_	_	_	_	_	Gloss=y.a
+4	eus	ez_eus	préposition	_	_	_	_	_	Gloss=y.a
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 7	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
@@ -195,13 +210,15 @@
 # sent_id = Gros(1984:180)__1
 # text = Ar re-ze a ra _ frikadennou!
 # text_fr = 'Ils font de ces gambades !'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 5	_	_	?	_	_	_	_	_	Gloss=∅
-6	frikadennou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+6	frikadennou	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:37)__1
@@ -211,16 +228,16 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	eman	?	_	_	_	_	_	Gloss=sont
+1	'	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 2	Maint	Maint	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	'	particuleo	?	_	_	_	_	_	Gloss=à
+5	'	particule_o	?	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=4
 6			PUNCT	_	_	_	_	Gloss=punct
 7	werzhañ	gwerzhañ	verbe	_	_	_	_	_	Gloss=vendre
-8	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+8	'	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 9	nezhañ	nezhañ	?	_	_	_	_	_	Gloss=?
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 11	gouloù	gouloù	nom	_	_	_	_	_	Gloss=lumière
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -231,16 +248,16 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 2	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	ginnig	kinnig	verbe	_	_	_	_	_	Gloss=proposer
 7	lur	lur	?	_	_	_	_	_	Gloss=franc
-8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-9	'	art	?	_	_	_	_	_	Gloss=le
+8	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+9	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	n	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 11	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=?
-12	pradlenn-se	prad.lenn(N.).DEM	nom.?.?	_	_	_	_	_	Gloss=pré.lac.ci
+12	pradlenn-se	prad.lenn_(N.).DEM	nom.?.pronom	_	_	_	_	_	Gloss=pré.lac.ci
 13	!	!	PUNCT	_	_	_	_	Gloss=punct

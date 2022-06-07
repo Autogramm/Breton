@@ -4,24 +4,25 @@
 # dialect = Trégorrois
 # source = Giraudon (2014)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	beorien	paour	adjectif	_	_	_	_	_	Gloss=pauvre]].[[-ien(PL.)|s|Morph=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	beorien	paour	adjectif	_	_	_	_	_	Gloss=pauvre]].[[-ien_(PL.)|s|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:29)__1
 # text = Fae ganin gant ar gelaouennerien !
 # text_fr = 'Les journalistes, moi, j'en ai par-dessus la tête !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-2	gant	gant	?	_	_	_	_	_	Gloss=avec
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gelaouennerien	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-er,-our|iste|Morph=1
+1	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+2	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	gelaouennerien	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-er,_-our|iste|Mutation=target|MutationNUM=1
 5			?	_	_	_	_	_	Gloss=(PL)|s]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -32,19 +33,19 @@
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ho	kaout	?	_	_	_	_	_	Gloss=auriez
+2	ho	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=auriez
 3	pefe	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=?
 5	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
-6	eus	eus	?	_	_	_	_	_	Gloss=de
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	ar	art	?	_	_	_	_	_	Gloss=le
+6	eus	eus	préposition	_	_	_	_	_	Gloss=de
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	jedoniezh	jediñ.-oniezh	?.nom	_	_	_	_	_	Gloss=calcul.ation
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-11	lec'hioù	lec'h.-où(PL.)	?.?	_	_	_	_	_	Gloss=lieu.x
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+11	lec'hioù	lec'h.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=lieu.x
 12	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
 13	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
-14	an	art	?	_	_	_	_	_	Gloss=le
+14	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	hent-houarn	hent	nom	_	_	_	_	_	Gloss=chemin
 16	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -55,16 +56,16 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-2	euz	eus	?	_	_	_	_	_	Gloss=de
-3	pesketerien	pesk.-er,-our	nom.?	_	_	_	_	_	Gloss=pêch.eur
-4	Treboul	[[nompropre	?	_	_	_	_	_	Gloss=Treboul
+1	Kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	euz	eus	préposition	_	_	_	_	_	Gloss=de
+3	pesketerien	pesk.-er,_-our	nom.suffixe|nom	_	_	_	_	_	Gloss=pêch.eur
+4	Treboul	[nom_propre	?	_	_	_	_	_	Gloss=Treboul
 5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	zo	COP	?	_	_	_	_	_	Gloss=est
-7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	zo	COP	verbe	_	_	_	_	_	Gloss=est
+7	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 8	zud-koz	tud	nom	_	_	_	_	_	Gloss=parent
 9	ginidig	ginidig	?	_	_	_	_	_	Gloss=natif
 10	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	mêz	mêz	?	_	_	_	_	_	Gloss=campagne
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

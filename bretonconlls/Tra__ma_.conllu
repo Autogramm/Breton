@@ -12,17 +12,17 @@
 # source = Helias (1986)
 # texttype = Ouvrages de recherche
 1	Tra	Tra	nom	_	_	_	_	_	Gloss=tant
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+5	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	oa	COP	?	_	_	_	_	_	Gloss=était
-9	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	oa	COP	verbe	_	_	_	_	_	Gloss=était
+9	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	vreur	breur	nom	_	_	_	_	_	Gloss=frère
-12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 13	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-14	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+14	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

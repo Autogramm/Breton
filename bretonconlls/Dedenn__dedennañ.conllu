@@ -1,14 +1,15 @@
 # sent_id = Denez(1993:21)__1
 # text = Ez-yaouank e oa bet dedennet gant al luc'hskeudenniñ.
 # text_fr = 'Jeune, il avait été attiré par la photographie.'
+# dialect = Standard
 # source = Denez (1993)
 # texttype = Ouvrages de recherche
-1	e	e	?	_	_	_	_	_	Gloss=R
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	e	e	verbe	_	_	_	_	_	Gloss=R
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	dedennet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-5	gant	gant	?	_	_	_	_	_	Gloss=par
-6	al	art	?	_	_	_	_	_	Gloss=le
+4	dedennet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+5	gant	gant	préposition	_	_	_	_	_	Gloss=par
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	luc'hskeudenniñ	luc'hskeudenniñ	?	_	_	_	_	_	Gloss=photographier
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,6 +19,6 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Sachet	sachañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=attir.é
-2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+1	Sachet	sachañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=attir.é
+2	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 3	.	.	PUNCT	_	_	_	_	Gloss=punct

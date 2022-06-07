@@ -1,14 +1,15 @@
 # sent_id = Drezen(1990:53)__1
 # text = Sik a ran dezhañ gwelloc'hikañ ma c'hellan.
 # text_fr = 'Je le réprime du mieux que je peux.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Sik	Sik	?	_	_	_	_	_	Gloss=réprimer
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	dezhañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	gwelloc'hikañ	gwelloc'h.gwelloc'hikañ.superlatif	?.?.adjectif	_	_	_	_	_	Gloss=mieux.DIM.le.plus
-6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 7	c'hellan	gallout	verbe	_	_	_	_	_	Gloss=peux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,8 +20,8 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	art	?	_	_	_	_	_	Gloss=le
+1	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	n	n	?	_	_	_	_	_	Gloss=?
 3	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-4	pradlenn-se	prad.lenn(N.).DEM	nom.?.?	_	_	_	_	_	Gloss=pré.lac.ci
+4	pradlenn-se	prad.lenn_(N.).DEM	nom.?.pronom	_	_	_	_	_	Gloss=pré.lac.ci
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

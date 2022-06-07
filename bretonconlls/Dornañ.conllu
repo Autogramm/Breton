@@ -7,10 +7,10 @@
 # texttype = Ouvrages de recherche
 1	mar	mar	nom	_	_	_	_	_	Gloss=si
 2	fôt	faotañ	verbe	_	_	_	_	_	Gloss=faut
-3	t'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	t'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	iac'h	iac'h	?	_	_	_	_	_	Gloss=?
 5	dorneiñ	dorneiñ	?	_	_	_	_	_	Gloss=battre
-6	men	POSS	?	_	_	_	_	_	Gloss=mon
+6	men	POSS	déterminant	_	_	_	_	_	Gloss=mon
 7	gunaic'h	gwinizh	nom	_	_	_	_	_	Gloss=blé
 8	arhoac'h	warc'hoazh	?	_	_	_	_	_	Gloss=demain
 
@@ -21,18 +21,18 @@
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
 1	Papa	Papa	?	_	_	_	_	_	Gloss=papa
-2	vie	COP	?	_	_	_	_	_	Gloss=serait
+2	vie	COP	verbe	_	_	_	_	_	Gloss=serait
 3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 5	zornañ	zornañ	?	_	_	_	_	_	Gloss=battre
 6	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=tant
-7	vie	COP	?	_	_	_	_	_	Gloss=serait
+7	vie	COP	verbe	_	_	_	_	_	Gloss=serait
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=juste
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-11	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
-12	ur	art	?	_	_	_	_	_	Gloss=un
-13	banne	banne	?	_	_	_	_	_	Gloss=verre
+9	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=juste
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+11	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+12	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+13	banne	banne	quantifieur	_	_	_	_	_	Gloss=verre
 14	lambig	lambig	?	_	_	_	_	_	Gloss=lambig
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -43,10 +43,10 @@
 # location = Saint-Yvi
 # source = German (2007)
 # texttype = Ouvrages de recherche
-1	Blam	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
-2	vè	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Blam	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=car
+2	vè	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	hè	hè	?	_	_	_	_	_	Gloss=3PL
-4	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	'	particule_o	?	_	_	_	_	_	Gloss=à
 5			PUNCT	_	_	_	_	Gloss=punct
 6	torné.	torné.	?	_	_	_	_	_	Gloss=?
 
@@ -57,12 +57,12 @@
 # location = Sarzeau
 # source = Ernault (1876-1878)
 # texttype = Ouvrages de recherche
-1	ha	hapa	?	_	_	_	_	_	Gloss=quand
+1	ha	ha_pa	?	_	_	_	_	_	Gloss=quand
 2	pi	pi	?	_	_	_	_	_	Gloss=?
-3	oe	COP	?	_	_	_	_	_	Gloss=fut
-4	anei	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+3	oe	COP	verbe	_	_	_	_	_	Gloss=fut
+4	anei	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 5	chuaic'h	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
-6	i	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	i	particule_o	?	_	_	_	_	_	Gloss=à
 7	torheiñ	torheiñ	?	_	_	_	_	_	Gloss=frapper
-8	ar-n-ou..	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+8	ar-n-ou..	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

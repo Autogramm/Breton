@@ -6,15 +6,15 @@
 # texttype = Références de corpus
 1	Treiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	an	art	?	_	_	_	_	_	Gloss=le
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 6	hep	hep	préposition	_	_	_	_	_	Gloss=sans
 7	degas	degas	verbe	_	_	_	_	_	Gloss=amener
 8	nemeur	nemeur	adverbe	_	_	_	_	_	Gloss=guère
-9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 10	gemm	gemm	?	_	_	_	_	_	Gloss=changement
-11	e	P.e	?	_	_	_	_	_	Gloss=en
+11	e	P.e	préposition	_	_	_	_	_	Gloss=en
 12	spered	spered	nom	_	_	_	_	_	Gloss=esprit
-13	Seza	nompropre	?	_	_	_	_	_	Gloss=Seza
+13	Seza	nom_propre	?	_	_	_	_	_	Gloss=Seza
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

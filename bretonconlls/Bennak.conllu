@@ -4,14 +4,14 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Eur	art	nom	_	_	_	_	_	Gloss=un
+1	Eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	marmouz	marmouz	nom	_	_	_	_	_	Gloss=singe
-3	bennag	bennag	?	_	_	_	_	_	Gloss=quelconque
-4	e-nevoa	kaout	?	_	_	_	_	_	Gloss=avait
-5	libistret	libistrañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=barbouill.é
-6	ar	art	?	_	_	_	_	_	Gloss=un
+3	bennag	bennag	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+4	e-nevoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	libistret	libistrañ.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=barbouill.é
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	goh-saout	kaoc'h	?	_	_	_	_	_	Gloss=merde
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,21 +21,21 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+1	Unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 2	mennak	mennak	?	_	_	_	_	_	Gloss=quelconque
 3	'	zo	?	_	_	_	_	_	Gloss=est
 4	zo	zo	?	_	_	_	_	_	Gloss=?
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	lopat	lopat	verbe	_	_	_	_	_	Gloss=frapper
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	nor	dor	nom	_	_	_	_	_	Gloss=porte
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 11	Kea	mont	verbe	_	_	_	_	_	Gloss=va
-12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 13	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 14	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-15	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+15	eo	COP	verbe	_	_	_	_	_	Gloss=est
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(04/2016)__1
@@ -47,25 +47,26 @@
 1	Kleo	klevout	verbe	_	_	_	_	_	Gloss=entendre
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
-5	nan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+4	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
+5	nan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 6	mennek	mennek	?	_	_	_	_	_	Gloss=quelconque
-7	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	'	particule_o	?	_	_	_	_	_	Gloss=à
 8			PUNCT	_	_	_	_	Gloss=punct
 9	tigoueho	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:132)__1
+# sent_id = Bouzec&al.(2017:132)__1
 # text = betegoud  vankfè 'n dra m neg dei.
 # text_fr = 'au cas où il lui manquerait quelque chose'
+# source = H. Gaudart (04/2016)
 1	betegoud	betegoud	?	_	_	_	_	_	Gloss=Bete-goût
-2	??	??	?	_	_	_	_	_	Gloss=e
+2	??	??	verbe	_	_	_	_	_	Gloss=e
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	vankfè	vankfè	?	_	_	_	_	_	Gloss=vankfe
 5	'	'	?	_	_	_	_	_	Gloss=un
 6	n	n	?	_	_	_	_	_	Gloss=dra
 7	dra	dra	?	_	_	_	_	_	Gloss=?
-8	m	m	quantifieur-adjectif	_	_	_	_	_	Gloss=bennak
+8	m	m	quantifieur|adjectif	_	_	_	_	_	Gloss=bennak
 9	neg	neg	?	_	_	_	_	_	Gloss=?
 10	dei	dei	?	_	_	_	_	_	Gloss=dezhi.
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -76,55 +77,40 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=1
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+2	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=1
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 6	em	kavout	verbe	_	_	_	_	_	Gloss=trouvait
 7	gave	gave	?	_	_	_	_	_	Gloss=?
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
-10	en	enur	complémenteur	_	_	_	_	_	Gloss=en
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+10	en	en_ur	complémenteur	_	_	_	_	_	Gloss=en
 11	ur	ur	?	_	_	_	_	_	Gloss=?
-12	chipal	-al	?	_	_	_	_	_	Gloss=er
+12	chipal	-al	verbe|suffixe	_	_	_	_	_	Gloss=er
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
-
-# sent_id = Willis(2013:278)__1
-# text = N'eus ket un dra bennak da welet.
-# text_fr = 'Il n'y a pas quelque chose à voir.'
-# source = Willis (2013)
-# texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=n
-2	eus	eus	?	_	_	_	_	_	Gloss=?
-3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
-6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = :§476).__1
 # text = Pe zeiz bennak e c'hellfes dont d'am gwelout, e vin laouen atav ouzh da zegemer.
 # text_fr = 'Je serai contente de t'accueillir quel que soit le jour où tu pourrais venir me voir.'
-# source = Kervella (1995:§476)
-1	Pe	wh	?	_	_	_	_	_	Gloss=quel|Morph=1
+# source = Kervella (1947:§476)
+1	Pe	wh	pronom	_	_	_	_	_	Gloss=quel|Mutation=trigger|MutationNUM=1
 2	zeiz	deiz	nom	_	_	_	_	_	Gloss=jour
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	c'hellfes	gallout	verbe	_	_	_	_	_	Gloss=pourrais
 6	dont	dont	verbe	_	_	_	_	_	Gloss=venir
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	am	POP	?	_	_	_	_	_	Gloss=me
+8	am	POP	pronom	_	_	_	_	_	Gloss=me
 9	gwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	e	e	?	_	_	_	_	_	Gloss=R
-12	vin	COP	?	_	_	_	_	_	Gloss=serai
+11	e	e	verbe	_	_	_	_	_	Gloss=R
+12	vin	COP	verbe	_	_	_	_	_	Gloss=serai
 13	laouen	laouen	adjectif	_	_	_	_	_	Gloss=content
 14	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
 15	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-16	da	POP	?	_	_	_	_	_	Gloss=te|Morph=1
+16	da	POP	pronom	_	_	_	_	_	Gloss=te|Mutation=trigger|MutationNUM=1
 17	zegemer	degemer	nom	_	_	_	_	_	Gloss=accueillir
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -133,24 +119,24 @@
 # text_fr = 'Ce petit livre, aussi anodin qu'il paraisse, est plus important que bien des grands.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Al	art	?	_	_	_	_	_	Gloss=le
-2	levrig-mañ	levr.levrig-mañ.DEM	nom.?.?	_	_	_	_	_	Gloss=livre.DIM.ci
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	levrig-mañ	levr.levrig-mañ.DEM	nom.?.pronom	_	_	_	_	_	Gloss=livre.DIM.ci
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+4	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
 5	dister	dister	adjectif	_	_	_	_	_	Gloss=anodin
-6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-8	seblant	seblant	?	_	_	_	_	_	Gloss=semble
-9	bezañ	bezan	?	_	_	_	_	_	Gloss=être
+6	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+8	seblant	seblant	verbe	_	_	_	_	_	Gloss=semble
+9	bezañ	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	zo	zo	?	_	_	_	_	_	Gloss=est
-12	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+12	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 13	talvoudusoc'h	talvoudus.-oc'h	?.?	_	_	_	_	_	Gloss=important.plus
 14	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-15	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-16	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+15	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+16	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 17	levr	levr	nom	_	_	_	_	_	Gloss=livre
-18	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+18	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:45)__1
@@ -160,7 +146,7 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Hadet	hadañ	verbe	_	_	_	_	_	Gloss=semez
-2	ur	art	?	_	_	_	_	_	Gloss=un
-3	fawen	faou.-enn	nom.nom	_	_	_	_	_	Gloss=hêtres.SG
+2	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+3	fawen	faou.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=hêtres.SG
 4	benak	benak	?	_	_	_	_	_	Gloss=quelconque
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

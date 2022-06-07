@@ -1,23 +1,26 @@
 # sent_id = Bannoù-Heol(2000:35)__1
 # text = Kit davit ur sac'h er c'harr !
 # text_fr = 'Allez chercher un sac dans la voiture !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Kit	mont	verbe	_	_	_	_	_	Gloss=allez
 2	davit	davit	postposition	_	_	_	_	_	Gloss=pour.pour
-3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	c'harr	c'harr	?	_	_	_	_	_	Gloss=5
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:236)__1
 # text = Diaesaat a ra d'ar c'hirri kerzhet.
 # text_fr = 'Le passage des voitures devient difficile.'
-# source = Herrieu (1994)
-1	Diaesaat	diaes.-aat	adjectif.verbe	_	_	_	_	_	Gloss=difficile.er
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Diaesaat	diaes.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=difficile.er
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'hirri	c'hirri.plurielinterne	?.?	_	_	_	_	_	Gloss=5.s
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	c'hirri	c'hirri.pluriel_interne	?.?	_	_	_	_	_	Gloss=5.s
 7	kerzhet	kerzhout	verbe	_	_	_	_	_	Gloss=marcher
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

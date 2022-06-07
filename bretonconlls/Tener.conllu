@@ -5,13 +5,13 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Laosket	laoskel	?	_	_	_	_	_	Gloss=laissé
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	Laosket	laoskel	verbe	_	_	_	_	_	Gloss=laissé
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vezent	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étaient
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	boaza	poazhañ	verbe	_	_	_	_	_	Gloss=cuire
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=jusqu'@à
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	vezent	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étaient
 9	tener	tener	adjectif	_	_	_	_	_	Gloss=tendre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

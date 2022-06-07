@@ -4,15 +4,15 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
-2	dostaat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par|Mutation=trigger|MutationNUM=1
+2	dostaat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 3	d'	da	préposition	_	_	_	_	_	Gloss=de
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	vizer	vizer	?	_	_	_	_	_	Gloss=1
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	tesker	deskiñ.IMP	verbe.?	_	_	_	_	_	Gloss=apprend.on
-9	ur	art	?	_	_	_	_	_	Gloss=un
-10	bochad	bochad	adverbe-quantifieur	_	_	_	_	_	Gloss=masse
-11	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	tesker	deskiñ.IMP	verbe.pronom	_	_	_	_	_	Gloss=apprend.on
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	bochad	bochad	adverbe|quantifieur	_	_	_	_	_	Gloss=masse
+11	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

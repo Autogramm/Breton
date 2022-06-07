@@ -1,8 +1,8 @@
 # sent_id = Dialecte,sourceréférencéedeladonnée__1
 # text = N'int ket aet war-raok.
 # text_fr = 'Ils n'ont pas progressé.'
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	int	COP	?	_	_	_	_	_	Gloss=sont
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	int	COP	verbe	_	_	_	_	_	Gloss=sont
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 5	war-raok	war-raok	postposition	_	_	_	_	_	Gloss=sur-avant
@@ -11,12 +11,14 @@
 # sent_id = Herrieu(1994:90)__1
 # text = Ha forzh boued n'o dez ket...
 # text_fr = 'Et ils n'ont pas beaucoup de nourriture.'
-# source = Herrieu (1994)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=beaucoup
 3	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
 5	o	o	?	_	_	_	_	_	Gloss=3PL
-6	dez	kaout	?	_	_	_	_	_	Gloss=a
+6	dez	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 7	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,75 +1,75 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Unan mennak 'zo o lopaat war an nor. Kea da welet piou eo.
 # text_fr = 'On frappe à la porte. Va voir qui c'est.'
-1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-2	mennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+2	mennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 3	'	zo	?	_	_	_	_	_	Gloss=est
-4	zo	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	zo	particule_o	?	_	_	_	_	_	Gloss=à
 5	o	o	?	_	_	_	_	_	Gloss=frapper
 6	lopaat	lopaat	?	_	_	_	_	_	Gloss=?
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	nor	dor	nom	_	_	_	_	_	Gloss=porte
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 11	Kea	mont	verbe	_	_	_	_	_	Gloss=va
-12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 13	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 14	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-15	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+15	eo	COP	verbe	_	_	_	_	_	Gloss=est
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__17
 # text = Emeur o lopaat war an nor.
 # text_fr = 'On frappe à la porte.'
-1	Emeur	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Emeur	emañ.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=est.on
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	lopaat	lopaat	?	_	_	_	_	_	Gloss=frapper
-4	war	war	?	_	_	_	_	_	Gloss=sur
-5	an	art	?	_	_	_	_	_	Gloss=le
+4	war	war	préposition	_	_	_	_	_	Gloss=sur
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	nor	dor	nom	_	_	_	_	_	Gloss=porte
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = E-kichen ez eus barbecue.
 # text_fr = 'Ils font un barbecue à côté.'
-1	E-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
-2	ez	ezeus	?	_	_	_	_	_	Gloss=est
-3	eus	eus	?	_	_	_	_	_	Gloss=?
+1	E-kichen	e-kichen	adverbe|préposition	_	_	_	_	_	Gloss=à-côté
+2	ez	ez_eus	?	_	_	_	_	_	Gloss=est
+3	eus	eus	préposition	_	_	_	_	_	Gloss=?
 4	barbecue	barbecue	?	_	_	_	_	_	Gloss=barbecue
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = E ti an amezeien ez eus (/[[*]] zo) barbecue.
 # text_fr = 'Ils font un barbecue à côté.'
-1	E	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+1	E	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	amezeien	amezeg.-ien	nom.?	_	_	_	_	_	Gloss=voisin.s
 5	ez	ez	?	_	_	_	_	_	Gloss=R
-6	eus	ezeus	?	_	_	_	_	_	Gloss=est
-7	(/[[*]]	(/[[*]]	?	_	_	_	_	_	Gloss=*
-8	zo)	zo	?	_	_	_	_	_	Gloss=est
+6	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+7	(/[[*]]	zo	?	_	_	_	_	_	Gloss=est
+8	zo)	zo)	?	_	_	_	_	_	Gloss=?
 9	barbecue	barbecue	?	_	_	_	_	_	Gloss=barbecue
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Oc'h ober barbecue emaint e-kichen.
 # text_fr = 'Ils font un barbecue à côté.'
-1	Oc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire|Morph=4
-2	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=barbecue
+1	Oc'h	particule_o	?	_	_	_	_	_	Gloss=à
+2	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=barbecue
 3	barbecue	barbecue	?	_	_	_	_	_	Gloss=?
-4	emaint	eman	?	_	_	_	_	_	Gloss=sont
-5	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+4	emaint	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
+5	e-kichen	e-kichen	adverbe|préposition	_	_	_	_	_	Gloss=à-côté
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Oc'h ober barbecue emeur e-kichen.
 # text_fr = 'On fait un barbecue à côté.'
-1	Oc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire|Morph=4
-2	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=barbecue
+1	Oc'h	particule_o	?	_	_	_	_	_	Gloss=à
+2	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=barbecue
 3	barbecue	barbecue	?	_	_	_	_	_	Gloss=?
-4	emeur	emañ.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=est.on
-5	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+4	emeur	emañ.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=est.on
+5	e-kichen	e-kichen	adverbe|préposition	_	_	_	_	_	Gloss=à-côté
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -79,27 +79,27 @@
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	bet	?	_	_	_	_	_	Gloss=été
 4	bet	bet	?	_	_	_	_	_	Gloss=?
-5	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 6	ti	ti	nom	_	_	_	_	_	Gloss=maison
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__26
 # text = Laeret oun bet.
 # text_fr = 'On m'a volée !'
-1	Laeret	laerañ	?	_	_	_	_	_	Gloss=volé
-2	oun	COP	?	_	_	_	_	_	Gloss=suis
+1	Laeret	laerañ	verbe	_	_	_	_	_	Gloss=volé
+2	oun	COP	verbe	_	_	_	_	_	Gloss=suis
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Unan bennak a neus laeret anezha.
 # text_fr = 'Quelqu'un l'a volé.'
-1	Unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-2	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+2	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
-5	laeret	laerañ	?	_	_	_	_	_	Gloss=volé
-6	anezha	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	laeret	laerañ	verbe	_	_	_	_	_	Gloss=volé
+6	anezha	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -107,19 +107,19 @@
 # text_fr = 'On a brûlé du bois ici.'
 1	Devet	deviñ	verbe	_	_	_	_	_	Gloss=brûlé
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	koad	koad	nom	_	_	_	_	_	Gloss=bois
-5	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-6	barzh	art	?	_	_	_	_	_	Gloss=le
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+4	koad	koad	nom	_	_	_	_	_	Gloss=?
+5	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+6	barzh	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	an	ti	nom	_	_	_	_	_	Gloss=maison
 8	ti-mañ.	ti-mañ.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__16
 # text = Amañ ez eus devet koad.
 # text_fr = 'On a brûlé du bois ici.'
-1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	devet	deviñ	verbe	_	_	_	_	_	Gloss=brûlé
 5	koad	koad	nom	_	_	_	_	_	Gloss=bois
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -127,27 +127,27 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = O labourat emaint en traoñ.
 # text_fr = 'Il y a les travaux en bas / on travaille en bas.'
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
-3	emaint	eman	?	_	_	_	_	_	Gloss=sont
-4	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	emaint	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
+4	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	traoñ	traoñ	nom	_	_	_	_	_	Gloss=bas
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__14
 # text = Amañ ez eus c'hoariet gant an echedoù... hag o deus ket renket nentra.
 # text_fr = 'On a joué aux échecs ici.'
-1	Amañ	Amañ	?	_	_	_	_	_	Gloss=ici
+1	Amañ	Amañ	adverbe	_	_	_	_	_	Gloss=ici
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	c'hoariet	c'hoari	?	_	_	_	_	_	Gloss=joué
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	an	art	?	_	_	_	_	_	Gloss=le
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+4	c'hoariet	c'hoariet	?	_	_	_	_	_	Gloss=?
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	echedoù..	echedoù..	?	_	_	_	_	_	Gloss=échecs
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
-9	hag	&	?	_	_	_	_	_	Gloss=et
+9	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 10	o	o	?	_	_	_	_	_	Gloss=3PL
-11	deus	kaout	?	_	_	_	_	_	Gloss=a
+11	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	renket	renket	?	_	_	_	_	_	Gloss=rangé
 14	nentra	netra	quantifieur	_	_	_	_	_	Gloss=rien
@@ -156,93 +156,92 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = ne vez ket implijet gwall.
 # text_fr = 'Il n'est pas beaucoup utilisé.'
-1	ne	ne	?	_	_	_	_	_	Gloss=ne
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	implijet	implijout.-et(Adj.)	?.?	_	_	_	_	_	Gloss=employ.é
-5	gwall	gwall	?	_	_	_	_	_	Gloss=beaucoup
+4	implijet	implijout.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=employ.é
+5	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=beaucoup
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Alies e vez beloioù dispariset.
 # text_fr = 'Il y a souvent des vols de bicyclette ici.'
 1	Alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	beloioù	belo.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=vélo.s
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	beloioù	belo.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=vélo.s
 5	dispariset	dispariset	?	_	_	_	_	_	Gloss=disparu
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Amañ e vez laeret alies ar veloioù.
 # text_fr = 'On vole souvent les vélos par ici.'
-1	Amañ	Amañ	?	_	_	_	_	_	Gloss=ici
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	laeret	laerañ	?	_	_	_	_	_	Gloss=volé
+1	Amañ	Amañ	adverbe	_	_	_	_	_	Gloss=ici
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	laeret	laerañ	verbe	_	_	_	_	_	Gloss=volé
 5	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	veloioù	veloioù	?	_	_	_	_	_	Gloss=vélos
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Da c'houde mer'nn e vehe c'hoariet foutball met va mamm ne leske ket ac'hanon da vont/c'hoari.
 # text_fr = 'On y jouait au football les après-midis, mais ma mère ne me laissait pas jouer.'
-1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-2	c'houde	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+2	c'houde	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 3	mer'	merenn	nom	_	_	_	_	_	Gloss=midi
 4	nn	nn	?	_	_	_	_	_	Gloss=?
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	vehe	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	vehe	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 7	c'hoariet	c'hoari	?	_	_	_	_	_	Gloss=joué
 8	foutball	foutball	?	_	_	_	_	_	Gloss=football
-9	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
-12	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 13	leske	leuskel	verbe	_	_	_	_	_	Gloss=laissait
 14	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-15	ac'hanon	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-16	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-17	vont/c'hoari	mont	verbe	_	_	_	_	_	Gloss=aller
-18	.	.	PUNCT	_	_	_	_	Gloss=punct
+15	ac'hanon	a	préposition	_	_	_	_	_	Gloss=P]].[[pronom_incorporé|moi]][[da|de|Mutation=trigger|MutationNUM=1
+16	da	mont	verbe	_	_	_	_	_	Gloss=aller
+17	vont/c'hoari.	vont/c'hoari.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__5
 # text = Adarre o deus kereat ar foucher!
 # text_fr = 'Ils ont encore augmenté les impôts !'
 1	Adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
 2	o	o	?	_	_	_	_	_	Gloss=3PL
-3	deus	kaout	?	_	_	_	_	_	Gloss=ont
-4	kereat	ker.-aat	adjectif.verbe	_	_	_	_	_	Gloss=cher.é
-5	ar	art	?	_	_	_	_	_	Gloss=le
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ont
+4	kereat	ker.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=cher.é
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	foucher	foucher	?	_	_	_	_	_	Gloss=impôts
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__15
 # text = Amañ ar fakteur a base da seizh eur dach ar mintin.
 # text_fr = 'Ici ils distribuent le courrier à 7h.'
-1	Amañ	Amañ	?	_	_	_	_	_	Gloss=ici
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	Amañ	Amañ	adverbe	_	_	_	_	_	Gloss=ici
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	fakteur	fakteur	?	_	_	_	_	_	Gloss=facteur
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	base	paseal	verbe	_	_	_	_	_	Gloss=passe
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	seizh	numérauxcardinaux	?	_	_	_	_	_	Gloss=sept
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	seizh	numéraux_cardinaux	?	_	_	_	_	_	Gloss=sept
 8	eur	eur	nom	_	_	_	_	_	Gloss=heure
-9	dach	deus	?	_	_	_	_	_	Gloss=de
-10	ar	art	?	_	_	_	_	_	Gloss=le
+9	dach	deus	préposition	_	_	_	_	_	Gloss=de
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	mintin	mintin	nom	_	_	_	_	_	Gloss=matin
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__30
 # text = Er Frañs, an dud a zreb melfed.
 # text_fr = En France, ils mangent des escargots.'
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	Frañs	nompropre	?	_	_	_	_	_	Gloss=France
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	Frañs	nom_propre	?	_	_	_	_	_	Gloss=France
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	zreb	debriñ	verbe	_	_	_	_	_	Gloss=mange
 8	melfed	melc'hwed	?	_	_	_	_	_	Gloss=escargots
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -250,108 +249,108 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Er Frañs, an dud a zreb melfed. / Er Frañs e vez drebet melfed.
 # text_fr = 'En France, on mange des escargots.'
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	Frañs	nompropre	?	_	_	_	_	_	Gloss=France
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	Frañs	nom_propre	?	_	_	_	_	_	Gloss=France
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	zreb	debriñ	verbe	_	_	_	_	_	Gloss=mange
 8	melfed	melfed	?	_	_	_	_	_	Gloss=escargots
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 10	/	/	?	_	_	_	_	_	Gloss=/
-11	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-12	Frañs	nompropre	?	_	_	_	_	_	Gloss=France
-13	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-14	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-15	drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+11	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+12	Frañs	nom_propre	?	_	_	_	_	_	Gloss=France
+13	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+14	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+15	drebet	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
 16	melfed	melc'hwed	?	_	_	_	_	_	Gloss=escargots
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = E lec'h all e komansont da eizh eur.
 # text_fr = 'Ailleurs, ils commencent à huit heures.'
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
-3	all	all	?	_	_	_	_	_	Gloss=autre
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	komansont	komañs	verbe	_	_	_	_	_	Gloss=commencent
 6	da	da	préposition	_	_	_	_	_	Gloss=à
-7	eizh	cardinal	?	_	_	_	_	_	Gloss=8
+7	eizh	cardinal	quantifieur|adjectif	_	_	_	_	_	Gloss=8
 8	eur	eur	nom	_	_	_	_	_	Gloss=heure
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__24
 # text = Hennezh a zo tav o klemm.
 # text_fr = 'Lui il se plaint.'
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	tav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-6	klemm	klemm	verbe	_	_	_	_	_	Gloss=(se)plaindre
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
+6	klemm	klemm	verbe	_	_	_	_	_	Gloss=(se)_plaindre
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = E Chin, ar gouel penn kentañ ar bloaz a ioa ar zuzun paset.
 # text_fr = 'En Chine, on a célébré le premier de l'an la semaine dernière.'
-1	E	P.e	?	_	_	_	_	_	Gloss=en
-2	Chin	nompropre	?	_	_	_	_	_	Gloss=Chine
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
+2	Chin	nom_propre	?	_	_	_	_	_	Gloss=Chine
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	gouel	gouel(M.)	?	_	_	_	_	_	Gloss=fête
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gouel	gouel_(M.)	?	_	_	_	_	_	Gloss=fête
 6	penn	penn	nom	_	_	_	_	_	Gloss=bout
-7	kentañ	kentañ	?	_	_	_	_	_	Gloss=premier
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	kentañ	kentañ	adjectif	_	_	_	_	_	Gloss=premier
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 10	a	a	préposition	_	_	_	_	_	Gloss=R
-11	ioa	COP	?	_	_	_	_	_	Gloss=était
-12	ar	art	?	_	_	_	_	_	Gloss=le
+11	ioa	COP	verbe	_	_	_	_	_	Gloss=était
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	zuzun	sizhun	nom	_	_	_	_	_	Gloss=semaine
-14	paset	paseal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pass.é
+14	paset	paseal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pass.é
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = an dud o deus gwelet oa meho.
 # text_fr = '...on pouvait voir qu'il était saoul.'
-1	an	art	?	_	_	_	_	_	Gloss=le
-2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
-5	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	meho	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = e veze gwelet oa meho.
 # text_fr = '...on pouvait voir qu'il était saoul.'
-1	e	e	?	_	_	_	_	_	Gloss=R
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-3	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+1	e	e	verbe	_	_	_	_	_	Gloss=R
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+3	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	meho	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = gwelet e veze oa meho.
 # text_fr = '...on pouvait voir qu'il était saoul.'
-1	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+1	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	meho	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Ar rhum a vez great gant "du sucre de canne".
 # text_fr = 'On fait le rhum avec du sucre de canne.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	rhum	rhum	?	_	_	_	_	_	Gloss=rhum
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	great	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 7	"du	"du	?	_	_	_	_	_	Gloss="du
 8	sucre	sucre	?	_	_	_	_	_	Gloss=sucre
 9	de	de	?	_	_	_	_	_	Gloss=de
@@ -361,41 +360,41 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Er bourk, an dud a lavare e oa alkolik.
 # text_fr = '...on disait dans le bourg qu'il était alcoolique.'
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	bourk	bourk	?	_	_	_	_	_	Gloss=bourg
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	bourk	bourk	nom	_	_	_	_	_	Gloss=bourg
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	lavare	lavarout	verbe	_	_	_	_	_	Gloss=disait
-8	e	e	?	_	_	_	_	_	Gloss=R
-9	oa	COP	?	_	_	_	_	_	Gloss=était
+8	e	e	verbe	_	_	_	_	_	Gloss=R
+9	oa	COP	verbe	_	_	_	_	_	Gloss=était
 10	alkolik	alkolik	?	_	_	_	_	_	Gloss=alcoolique
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = War ar journal eo skrivet e veho brao an amzer warc'hoazh.
 # text_fr = 'Ils ont dit dans le journal qu'il ferait beau.'
-1	War	war	?	_	_	_	_	_	Gloss=sur
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	War	war	préposition	_	_	_	_	_	Gloss=sur
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	journal	journal	nom	_	_	_	_	_	Gloss=journal
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	skrivet	skrivañ	verbe	_	_	_	_	_	Gloss=écrit
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	veho	COP	?	_	_	_	_	_	Gloss=sera
-8	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-9	an	art	?	_	_	_	_	_	Gloss=le
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	veho	COP	verbe	_	_	_	_	_	Gloss=sera
+8	brao	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 11	warc'hoazh	warc'hoazh	?	_	_	_	_	_	Gloss=demain
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Plougerneau, M-L. B. (04/2016)__1
+# sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Lavaret o deus  e veho brao an amzer warc'hoazh.
 # text_fr = 'Ils ont dit (dans le journal) qu'il ferait beau demain.'
 1	Lavaret	Lavaret	?	_	_	_	_	_	Gloss=Lavaret
 2	o	o	?	_	_	_	_	_	Gloss=o
-3	deus	deus	?	_	_	_	_	_	Gloss=deus
-4	e	e	préposition	_	_	_	_	_	Gloss=a
+3	deus	deus	préposition	_	_	_	_	_	Gloss=deus
+4	e	e	verbe	_	_	_	_	_	Gloss=a
 5	veho	veho	?	_	_	_	_	_	Gloss=veho
 6	brao	brao	?	_	_	_	_	_	Gloss=brao
 7	an	an	?	_	_	_	_	_	Gloss=
@@ -406,63 +405,63 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__11
 # text = N'eus nemet ur vuhez !
 # text_fr = 'On ne vit qu'une fois !'
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	ezeus	?	_	_	_	_	_	Gloss=est
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Ne vevomp nemet ur vuhez !
 # text_fr = 'On ne vit qu'une fois !'
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vevomp	bevañ	verbe	_	_	_	_	_	Gloss=vivons
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Ne vever nemet ur vuhez !
 # text_fr = 'On ne vit qu'une fois !'
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	vever	bevañ.IMP	verbe.?	_	_	_	_	_	Gloss=vit.on
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	vever	bevañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=vit.on
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__12
 # text = Ne vevomp nemet ur vuhez !
 # text_fr = 'On ne vit qu'une fois !'
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vevomp	bevañ	verbe	_	_	_	_	_	Gloss=vivons
-3	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+3	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__9
 # text = Ne rankchomp ket kondui pa vezomp meho.
 # text_fr = 'On ne devrait pas boire et conduire en même temps.'
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
 2	rankchomp	rankout	verbe	_	_	_	_	_	Gloss=devrions
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kondui	kondui	?	_	_	_	_	_	Gloss=conduire
-5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-6	vezomp	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sommes
+5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+6	vezomp	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sommes
 7	meho	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__6
 # text = Ne rankchomp ket evañ ha kondui esambles.
 # text_fr = 'On ne devrait pas boire en conduisant (et non pas 'en ayant bu').'
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
 2	rankchomp	rankout	verbe	_	_	_	_	_	Gloss=devrions
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-5	ha	&	?	_	_	_	_	_	Gloss=et
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	kondui	konduiñ	verbe	_	_	_	_	_	Gloss=conduire
 7	esambles	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -470,30 +469,30 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__3
 # text = Den ne defe evañ alkol ablamour e rankont kondui da vont d'ar gear.
 # text_fr = 'Personne ne devrait boire et conduire en même temps.'
-1	Den	nomnu	nom	_	_	_	_	_	Gloss=homme
-2	ne	ne	?	_	_	_	_	_	Gloss=ne
-3	defe	dleout	verbe	_	_	_	_	_	Gloss=devrait
-4	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-5	alkol	alkol	?	_	_	_	_	_	Gloss=alcool
-6	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
-7	e	e	?	_	_	_	_	_	Gloss=R
+1	Den	nom_nu	nom	_	_	_	_	_	Gloss=homme
+2	ne	dleout	verbe	_	_	_	_	_	Gloss=devrait
+3	defe	evañ	verbe	_	_	_	_	_	Gloss=boire
+4	evañ	evañ	verbe	_	_	_	_	_	Gloss=alcool
+5	alkol	alkol	?	_	_	_	_	_	Gloss=?
+6	ablamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=car
+7	e	e	verbe	_	_	_	_	_	Gloss=R
 8	rankont	rankout	verbe	_	_	_	_	_	Gloss=doivent
 9	kondui	kondui	?	_	_	_	_	_	Gloss=conduire
 10	da	da	préposition	_	_	_	_	_	Gloss=pour
 11	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
-13	ar	art	?	_	_	_	_	_	Gloss=le
-14	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+14	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__10
 # text = Nag a voeson ez eus evet !
 # text_fr = 'On a bu beaucoup !'
 1	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	voeson	boeson	nom	_	_	_	_	_	Gloss=boisson
 4	ez	ez	?	_	_	_	_	_	Gloss=R
-5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+5	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 6	evet	evañ	verbe	_	_	_	_	_	Gloss=bu
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -501,26 +500,26 @@
 # text = N'eo ket brao kountañ geier d'ur vamm !
 # text_fr = 'On ne devrait jamais mentir à sa maman !'
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+4	brao	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 5	kountañ	kontañ	verbe	_	_	_	_	_	Gloss=conter
 6	geier	geier	?	_	_	_	_	_	Gloss=mensonges
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	vamm	mamm	nom	_	_	_	_	_	Gloss=maman|Morph=1
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	vamm	mamm	nom	_	_	_	_	_	Gloss=maman|Mutation=target|MutationNUM=1
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__8
 # text = An dud o deus ezhomm dour evit chom beo.
 # text_fr = 'On a besoin d'eau pour survivre.'
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 9	beo	bev	adjectif	_	_	_	_	_	Gloss=vivant
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -528,8 +527,8 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__18
 # text = Petra nin gav ma evomp leazh tarzhet ?
 # text_fr = 'Qu'est-ce qui arrive si on boit du lait tourné ?'
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	nin	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	nin	en_em	?	_	_	_	_	_	Gloss=se
 3	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 5	evomp	evañ	verbe	_	_	_	_	_	Gloss=buvons
@@ -540,14 +539,14 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__21
 # text = Pa lammomp en un toull dour ez omp glepet.
 # text_fr = 'Si on saute dans une piscine, on est mouillé.'
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	lammomp	lammat	?	_	_	_	_	_	Gloss=sautons
-3	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	lammomp	lammat	verbe	_	_	_	_	_	Gloss=sautons
+3	en	P.e	préposition	_	_	_	_	_	Gloss=en
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau
 7	ez	ez	?	_	_	_	_	_	Gloss=R
-8	omp	COP	?	_	_	_	_	_	Gloss=sommes
+8	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
 9	glepet	gleb	adjectif	_	_	_	_	_	Gloss=mouillé
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -556,15 +555,15 @@
 # text_fr = 'Si on donne une mauvaise réponse, on est éliminé.'
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	respontomp	respontomp	?	_	_	_	_	_	Gloss=répondons
-3	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
-4	omp	COP	?	_	_	_	_	_	Gloss=sommes
-5	taolet	taoler	?	_	_	_	_	_	Gloss=jeté
-6	a-gostez	a-gostez	?	_	_	_	_	_	Gloss=de-côté
+3	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
+4	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
+5	taolet	taoler	verbe	_	_	_	_	_	Gloss=jeté
+6	a-gostez	a-gostez	adverbe|préposition	_	_	_	_	_	Gloss=de-côté
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 9	c'hoariomp	c'hoari	?	_	_	_	_	_	Gloss=jouons
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-11	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+11	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -572,32 +571,32 @@
 # text_fr = 'Si je donne une mauvaise réponse, je suis éliminée.'
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	respontan	respontan	?	_	_	_	_	_	Gloss=réponds
-3	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+3	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 4	ez	ez	?	_	_	_	_	_	Gloss=R
-5	oun	COP	?	_	_	_	_	_	Gloss=suis
-6	taolet	taoler	?	_	_	_	_	_	Gloss=jeté
-7	a-gostez	a-gostez	?	_	_	_	_	_	Gloss=de-côté
+5	oun	COP	verbe	_	_	_	_	_	Gloss=suis
+6	taolet	taoler	verbe	_	_	_	_	_	Gloss=jeté
+7	a-gostez	a-gostez	adverbe|préposition	_	_	_	_	_	Gloss=de-côté
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 10	c'hoarian	c'hoari	?	_	_	_	_	_	Gloss=joue
 11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-12	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+12	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__20
 # text = Pa hon eus ur friad, e rankomp evañ ur banne gwin tomm.
 # text_fr = 'Quand on a un rhume, on doit boire un verre de vin chaud.'
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	hon	hon	?	_	_	_	_	_	Gloss=1PL
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	ur	art	?	_	_	_	_	_	Gloss=un
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	friad	friad	?	_	_	_	_	_	Gloss=rhume
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R
+7	e	e	verbe	_	_	_	_	_	Gloss=R
 8	rankomp	rankout	verbe	_	_	_	_	_	Gloss=doit
 9	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-10	ur	art	?	_	_	_	_	_	Gloss=un
-11	banne	banne	?	_	_	_	_	_	Gloss=verrée
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	banne	banne	quantifieur	_	_	_	_	_	Gloss=verrée
 12	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
 13	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -605,17 +604,17 @@
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
 # text = Pa an dud o deus ur friad, eo mat evañ ur banne gwin tomm.
 # text_fr = 'Quand on a un rhume, on doit boire un verre de vin chaud.'
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
-5	deus	kaout	?	_	_	_	_	_	Gloss=ont
-6	ur	art	?	_	_	_	_	_	Gloss=un
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ont
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	friad	friad	?	_	_	_	_	_	Gloss=rhume
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-10	ur	art	?	_	_	_	_	_	Gloss=un
-11	banne	banne	?	_	_	_	_	_	Gloss=verrée
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	banne	banne	quantifieur	_	_	_	_	_	Gloss=verrée
 12	gwin	gwin	nom	_	_	_	_	_	Gloss=vin
 13	tomm	tomm	adjectif	_	_	_	_	_	Gloss=chaud
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

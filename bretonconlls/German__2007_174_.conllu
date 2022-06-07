@@ -6,9 +6,9 @@
 # source = German (2007)
 # texttype = Ouvrages de recherche
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-2	hann	Q	?	_	_	_	_	_	Gloss=si
-3	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-5	haoñ	echo	?	_	_	_	_	_	Gloss=lui
+2	hann	Q	Q	_	_	_	_	_	Gloss=si
+3	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+5	haoñ	echo	pronom	_	_	_	_	_	Gloss=lui
 6	ger	kêr	nom	_	_	_	_	_	Gloss=foyer
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

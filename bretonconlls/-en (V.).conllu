@@ -1,0 +1,15 @@
+sent_id = Gros(1984:234)__1
+text = Med ni on-oa leviet or batimant ervad da antren er porz.
+text_fr =  'Mais nous avions gouverné notre navire habilement pour entrer dans le port.'
+1	Med	met	conjonction	_	_	_	_	_	Gloss=mais
+2	ni	pfi	nom	_	_	_	_	_	Gloss=nous
+3	on-oa	kaout	verbe	_	_	_	_	_	Gloss=avait
+4	leviet	leviañ	?	_	_	_	_	_	Gloss=gouverné
+5	or	POSS	nom	_	_	_	_	_	Gloss=notre
+6	batimant	batimant	?	_	_	_	_	_	Gloss=bâtiment
+7	ervad	ervat	adjectif	_	_	_	_	_	Gloss=habilement
+8	da	da	préposition	_	_	_	_	_	Gloss=pour
+9	antren	antren	verbe	_	_	_	_	_	Gloss=entrer
+10	er	P.e.art	préposition.article	_	_	_	_	_	Gloss=en.le
+11	porz	porzh	nom	_	_	_	_	_	Gloss=port
+12	.	.	PUNCT	_	_	_	_	_	Gloss=punct

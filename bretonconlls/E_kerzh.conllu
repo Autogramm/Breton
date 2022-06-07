@@ -5,28 +5,29 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	E-kerzh	E-kerzh	préposition-complémenteur	_	_	_	_	_	Gloss=en-cours
-2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=graet
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	rastellerez	rastell.-erez	nom.?	_	_	_	_	_	Gloss=rateau.F
+1	E-kerzh	E-kerzh	complémenteur|préposition	_	_	_	_	_	Gloss=en-cours
+2	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+5	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=graet
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	rastellerez	rastell.-erez	nom.nom	_	_	_	_	_	Gloss=rateau.F
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Preder&Armor(1977:44)__1
 # text = Difloupet eo a-dre va daouarn e-kerz an emgann, moarvat.
 # text_fr = 'Il m'aura échappé des mains pendant la bataille.'
+# dialect = Standard
 # source = Preder & Armor (1977)
 # texttype = Références de corpus
-1	Difloupet	di-,dis-.[-et(Adj.)	?.?	_	_	_	_	_	Gloss=dé.é
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	a-dre	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Difloupet	di-,_dis-.[-et_(Adj.)	?.?	_	_	_	_	_	Gloss=dé.é
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	a-dre	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	daouarn	duel.dorn	?.nom	_	_	_	_	_	Gloss=deux.main
 6	e-kerz	e-kerz	préposition	_	_	_	_	_	Gloss=en-cours
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	emgann	emgann	nom	_	_	_	_	_	Gloss=combat
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	moarvat	moarvat	adverbe	_	_	_	_	_	Gloss=sans.doute

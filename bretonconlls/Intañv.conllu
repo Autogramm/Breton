@@ -5,11 +5,11 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	'	pebezh	?	_	_	_	_	_	Gloss=quel
-2	Pezh	Pezh	?	_	_	_	_	_	Gloss=?
+2	Pezh	Pezh	pronom|nom	_	_	_	_	_	Gloss=?
 3	koll-kalon	koll	verbe	_	_	_	_	_	Gloss=perte
-4	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+4	'	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 5	vit	vit	?	_	_	_	_	_	Gloss=?
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	intañv	intañv	nom	_	_	_	_	_	Gloss=veuf
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,16 +20,16 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
-3	hag	haga	?	_	_	_	_	_	Gloss=que
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	bet	bezañ	?	_	_	_	_	_	Gloss=été
-7	intañvez	-ez(F.)	?	_	_	_	_	_	Gloss=e
+3	hag	hag_a	?	_	_	_	_	_	Gloss=que]][[R|Mutation=trigger|MutationNUM=1
+4	a	a	préposition	_	_	_	_	_	Gloss=?
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	bet	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=été
+7	intañvez	-ez_(F.)	suffixe	_	_	_	_	_	Gloss=e
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
-10	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+9	he-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+10	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 11	vugel	bugel	nom	_	_	_	_	_	Gloss=enfant
-12	all	all	?	_	_	_	_	_	Gloss=autre
+12	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

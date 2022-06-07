@@ -1,12 +1,14 @@
 # sent_id = Gros(1970:148)__1
 # text = Piou a yelo da-vid ar journal?
 # text_fr = 'Qui ira chercher le journal ?'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Piou	piv	pronom	_	_	_	_	_	Gloss=qui
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	yelo	mont	verbe	_	_	_	_	_	Gloss=ira
 4	da-vid	davit	postposition	_	_	_	_	_	Gloss=a-pour
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	journal	journal	nom	_	_	_	_	_	Gloss=journal
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,12 +21,12 @@
 # texttype = Ouvrages de recherche
 1	Bémz'	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	??	??	?	_	_	_	_	_	Gloss=R|Morph=4
+3	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
-5	vê	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	vê	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	des'	degas	verbe	_	_	_	_	_	Gloss=amené
 7	t	t	?	_	_	_	_	_	Gloss=?
-8	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 9	journal	journal	nom	_	_	_	_	_	Gloss=journal
-10	dim	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	dim	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

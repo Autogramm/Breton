@@ -1,13 +1,15 @@
-# sent_id = Nicolas (2005:II.53)__1
+# sent_id = Nicolas(2005:II.53)__1
 # text = marse 'oa daouzek milion 'oa.
 # text_fr = '...peut-être que c'était douze millions (- que c'était).'
-# text_phon = ['[ marsə', 'wɛ', 'dawzɛ̃k miliõ', 'wɛ ]']
-1	marse	marse	?	_	_	_	_	_	Gloss=peut-être
+# text_phon =  marsə wɛ dawzɛ̃k miliõ wɛ  
+1	marse	marse	adverbe	_	_	_	_	_	Gloss=peut-être
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	'	'	?	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	.	.	PUNCT	_	_	_	_	Gloss=punct
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	daouzek	daouzek	?	_	_	_	_	_	Gloss=[[les_numéraux
+5	milion	milion	?	_	_	_	_	_	Gloss=cardinaux|12]]million
+6	'	'	?	_	_	_	_	_	Gloss=R
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
+8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:30)__1
 # text = Ne gredoc'h ket din marse ?
@@ -15,19 +17,20 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	gredoc'h	krediñ	verbe	_	_	_	_	_	Gloss=croirez
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-5	marse	marse	?	_	_	_	_	_	Gloss=peut-être
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	marse	marse	adverbe	_	_	_	_	_	Gloss=peut-être
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Timm (1989:367)__1
+# sent_id = Timm(1989:367)__1
 # text = Sec'het 'peus matrene.
 # text_fr = 'Peut-être que tu as soif.'
-# text_phon = ['/zehɛt', 'pøs', 'mətRɛnɛ/']
+# text_phon = /zehɛt pøs mətRɛnɛ/ 
+# source = Ar Borgn (2011)
 1	Sec'het	sec'hed	?	_	_	_	_	_	Gloss=soif
-2	'	kaout	?	_	_	_	_	_	Gloss=as
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=as
 3	peus	peus	?	_	_	_	_	_	Gloss=?
 4	matrene	matrene	?	_	_	_	_	_	Gloss=peut-être
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -40,23 +43,23 @@
 # texttype = Références de corpus
 1	Ya	Ya	interjection	_	_	_	_	_	Gloss=oui
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	marteze	marteze	?	_	_	_	_	_	Gloss=peut-être
+3	marteze	marteze	adverbe	_	_	_	_	_	Gloss=peut-être
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 6	person..	person	nom	_	_	_	_	_	Gloss=recteur
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
-8	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	martezeoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-11	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-12	vager	magañ.IMP	verbe.?	_	_	_	_	_	Gloss=nourrit.on
+8	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	martezeoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+11	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+12	vager	magañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=nourrit.on
 13	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-14	al	art	?	_	_	_	_	_	Gloss=le
+14	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	leueoù	leue	nom	_	_	_	_	_	Gloss=veaux
 16	,	,	PUNCT	_	_	_	_	Gloss=punct
-17	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+17	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 18	droc'has	troc'hañ	?	_	_	_	_	_	Gloss=coupa
-19	Filo..	nompropre	?	_	_	_	_	_	Gloss=Filo
+19	Filo..	nom_propre	?	_	_	_	_	_	Gloss=Filo
 20	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Menard&Kadored(2001:'marteze')__1
@@ -64,10 +67,10 @@
 # text_fr = 'Je n'aime pas partir sur des hypothèses.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	blij	plijout	verbe	_	_	_	_	_	Gloss=plait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-6	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-7	varteze(où)	-où(PL.)	?	_	_	_	_	_	Gloss=s
+6	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+7	varteze(où)	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s

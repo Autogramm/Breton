@@ -4,21 +4,21 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Kar	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	moe	kaout	?	_	_	_	_	_	Gloss=avais
+1	Kar	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	moe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 4	esaee	esaeañ	verbe	_	_	_	_	_	Gloss=essayer
-5	distagañ	di-,dis-.stagañ	?.verbe	_	_	_	_	_	Gloss=dé.coller
-6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-7	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
-8	ayayaille	interjection	?	_	_	_	_	_	Gloss=aïeaïeaïe!
+5	distagañ	di-,_dis-	verbe	_	_	_	_	_	Gloss=dé
+6	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+7	zreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
+8	ayayaille	interjection	interjection	_	_	_	_	_	Gloss=aïeaïeaïe_!
 9	na	na	?	_	_	_	_	_	Gloss=ça
 10	stage	stagañ	verbe	_	_	_	_	_	Gloss=collait
-11	deus	deus	?	_	_	_	_	_	Gloss=à
-12	an	art	?	_	_	_	_	_	Gloss=le
+11	deus	deus	préposition	_	_	_	_	_	Gloss=à
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	douar	douar	nom	_	_	_	_	_	Gloss=terre
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
-15	van	COP	nom	_	_	_	_	_	Gloss=étais
+15	van	COP	verbe	_	_	_	_	_	Gloss=étais
 16	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 17	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
 18	!	!	PUNCT	_	_	_	_	Gloss=punct

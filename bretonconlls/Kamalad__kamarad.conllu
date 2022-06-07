@@ -4,15 +4,15 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	eus	ezeus	?	_	_	_	_	_	Gloss=est
+1	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 2	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 3	feillet	fellout	verbe	_	_	_	_	_	Gloss=voulu
-4	deuzeu	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+4	deuzeu	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 5	mond	mont	verbe	_	_	_	_	_	Gloss=aller
 6	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-7	gand	gant	?	_	_	_	_	_	Gloss=avec
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-9	hamaraded	-ed(PL.)	?	_	_	_	_	_	Gloss=s
+7	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+9	hamaraded	-ed_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Madeg(2013:9)__1
@@ -21,8 +21,8 @@
 # dialect = Léonard
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	c'hamalad	c'hamalad	?	_	_	_	_	_	Gloss=5
-3	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
-4	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+4	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 5	?	?	PUNCT	_	_	_	_	Gloss=punct

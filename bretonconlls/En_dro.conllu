@@ -1,54 +1,60 @@
 # sent_id = Gros(1996:259)__1
 # text = Amañ en-dro d'ar Rest emañ ar parkeier toud war zinaou.
 # text_fr = 'Ici autour du Rest tous les champs sont en pente.'
-# source = Gros (1996)
-1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
-2	en-dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
+2	en-dro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
 3	d'	da	préposition	_	_	_	_	_	Gloss=de
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	Rest	Rest	?	_	_	_	_	_	Gloss=Rest
-6	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
-9	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+6	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	parkeier	park.-eier	nom.suffixe	_	_	_	_	_	Gloss=champ.s
+9	toud	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+10	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 11	zinaou	zinaou	?	_	_	_	_	_	Gloss=descente
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§346)__1
 # text = abalamour dezañ da zond en-dro
 # text_fr = 'pour pouvoir retourner'
-# source = Trépos (2001)
-1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause
-2	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
-3	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de-retour
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	abalamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=à.cause
+2	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+3	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de-retour
 
 # sent_id = traducteurCosey,Kate,Jonathan7,p.5__1
 # text = Met ' c'hell deoc'h bezan sur ne werzhin ket anezhi  en dro...
 # text_fr = 'Mais vous pouvez être sûr que je ne la revendrai pas.'
 # source = Faits de langue Cosey
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+# texttype = Références de corpus
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
 4	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
-5	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-6	bezan	bezañ	?	_	_	_	_	_	Gloss=être
+5	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	bezan	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 7	sur	sur	adverbe	_	_	_	_	_	Gloss=sûr
-8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+8	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 9	werzhin	werzhin	?	_	_	_	_	_	Gloss=vendrai
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=
 11	anezhi	ket	adverbe	_	_	_	_	_	Gloss=pas
 12			PUNCT	_	_	_	_	Gloss=punct
-13	en	en	complémenteur	_	_	_	_	_	Gloss=de-retour
+13	en	en	complémenteur	_	_	_	_	_	Gloss=?
 14	dro...	dro...	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Bouzec & al. (2017:61)__1
+# sent_id = Bouzec&al.(2017:61)__1
 # text = Yégn 'rè n-dro 'dar'.
 # text_fr = 'Il fait froid à nouveau.'
+# source = Faits de langue Cosey
 1	Yégn	Yégn	adjectif	_	_	_	_	_	Gloss=Yen
 2	'	'	préposition	_	_	_	_	_	Gloss=a
 3	rè	rè	complémenteur	_	_	_	_	_	Gloss=ra
-4	n-dro	n-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=en-dro
+4	n-dro	n-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=en-dro
 5	'	'	?	_	_	_	_	_	Gloss=(adarre).
 6	dar'	dar'	?	_	_	_	_	_	Gloss=?
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -59,54 +65,56 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/ag	&./ag.COP	?.?.?	_	_	_	_	_	Gloss=et.R.était
+1	/ag	&./ag.COP	complémenteur|conjonction.?.verbe	_	_	_	_	_	Gloss=et.R.était
 2	əfəze	əfəze	?	_	_	_	_	_	Gloss=?
 3	əndrow	əndrow	?	_	_	_	_	_	Gloss=de.retour
-4	exarmiɲ/	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	exarmiɲ/	particule_o	?	_	_	_	_	_	Gloss=à
 
 # sent_id = Denez(1993:27)__1
 # text = yezh an dud a gleven o komz en-dro din pa oan yaounank.
 # text_fr = 'la langue des gens que j'entendais parler autour de moi quand j'étais jeune'
+# dialect = Standard
 # source = Denez (1993)
 # texttype = Ouvrages de recherche
 1	yezh	yezh	nom	_	_	_	_	_	Gloss=langue
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	gleven	klevout	verbe	_	_	_	_	_	Gloss=entendais
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	komz	komz	verbe	_	_	_	_	_	Gloss=parler
-8	en-dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
-9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
-10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-11	oan	COP	nom	_	_	_	_	_	Gloss=étais
+8	en-dro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
+9	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+10	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+11	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 12	yaounank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1947:§706)__1
 # text = Dec'h da noz, goude koan, en deus Yann kaset din va levrioù en-dro betek ar gêr.
 # text_fr = 'Hier après souper, Yann est passé me ramener mes livres.'
+# dialect = Standard
 # location = Dirinon
 # source = Kervella (1947)
 # texttype = Ouvrages de recherche
 1	Dec'h	dec'h	?	_	_	_	_	_	Gloss=hier
-2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	noz	noz	nom	_	_	_	_	_	Gloss=nuit
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+5	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 6	koan	koan	nom	_	_	_	_	_	Gloss=souper
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-9	deus	kaout	?	_	_	_	_	_	Gloss=a
-10	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+9	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+10	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 11	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-12	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-13	va	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-14	levrioù	levr.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=livre.s
-15	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
-16	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-17	ar	art	?	_	_	_	_	_	Gloss=le
-18	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+12	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+13	va	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+14	levrioù	levr.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=livre.s
+15	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=?
+16	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+17	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+18	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:81)__1
@@ -116,11 +124,11 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Monet	mont	verbe	_	_	_	_	_	Gloss=aller
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 5	labour	labour	nom	_	_	_	_	_	Gloss=travail
-6	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=P
+6	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=P
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = TitredePipec(2005),HorYezh243.__1
@@ -129,12 +137,12 @@
 # source = Hor Yezh
 1	'	mont	verbe	_	_	_	_	_	Gloss=aller
 2	Monet	Monet	?	_	_	_	_	_	Gloss=?
-3	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de-retour
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	taolioù-mouezh	taol(M.)	?	_	_	_	_	_	Gloss=coups
-6	e	P.e	?	_	_	_	_	_	Gloss=en
+3	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de-retour
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	taolioù-mouezh	taol_(M.)	?	_	_	_	_	_	Gloss=coups
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
 7	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
-8	Malgeneg'	nompropre	?	_	_	_	_	_	Gloss=Malgeneg
+8	Malgeneg'	nom_propre	?	_	_	_	_	_	Gloss=Malgeneg
 9			PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:22)__1
@@ -145,30 +153,31 @@
 # source = Elégoët (1982)
 # texttype = Références de corpus
 1	Chom	chom	verbe	_	_	_	_	_	Gloss=rester
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	tachadig	tachad.tachadig	nom-adverbe.?	_	_	_	_	_	Gloss=moment.DIM
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	tachadig	tachad.tachadig	adverbe|nom.?	_	_	_	_	_	Gloss=moment.DIM
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	darze	darze	?	_	_	_	_	_	Gloss=étale
-8	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
-9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 10	pign	pignat	verbe	_	_	_	_	_	Gloss=monte
 11	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
-12	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de.retour
+12	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de.retour
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moulleg(1978:33)__1
 # text = Petra an diaoul 'zo 'vont en-dro, satordallik ?
 # text_fr = 'Bon sang ! Que se passe-t-il ?'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	an	an	?	_	_	_	_	_	Gloss=[[an_diaoul|le
 3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	zo	?	_	_	_	_	_	Gloss=?
 6	'	mont	verbe	_	_	_	_	_	Gloss=aller
 7	vont	vont	?	_	_	_	_	_	Gloss=?
-8	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=postpos.
+8	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=postpos.
 9	,	,	PUNCT	_	_	_	_	Gloss=punct

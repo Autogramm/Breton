@@ -1,9 +1,10 @@
 # sent_id = AnHere(2003:24)__1
 # text = O, Ya da ! Ya da !
 # text_fr = 'Oh ! oui, Oh ! oui, certainement !'
+# dialect = Standard
 # source = An Here (2003)
 # texttype = Références de corpus
-1	O	interjections	?	_	_	_	_	_	Gloss=Oh!
+1	O	interjections	interjection	_	_	_	_	_	Gloss=Oh_!
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
 4	da	da	préposition	_	_	_	_	_	Gloss=sûr

@@ -1,18 +1,19 @@
 # sent_id = Drezen(1990:36)__3
 # text = Panevet e oan trellet gant ar vezh em bije gwelet izeloc’h dezho.
 # text_fr = 'Si je n’avais pas été secoué de honte, j’aurais pu voir plus bas.' (que leurs épaules)
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Panevet	panevet	?	_	_	_	_	_	Gloss=si.ce.n.est
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oan	COP	nom	_	_	_	_	_	Gloss=étais
-4	trellet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-5	gant	gant	?	_	_	_	_	_	Gloss=par
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vezh	mezh	nom	_	_	_	_	_	Gloss=honte|Morph=1
+1	Panevet	panevet	complémenteur|préposition	_	_	_	_	_	Gloss=si.ce.n.est
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+4	trellet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+5	gant	gant	préposition	_	_	_	_	_	Gloss=par
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	vezh	mezh	nom	_	_	_	_	_	Gloss=honte|Mutation=target|MutationNUM=1
 8	em	em	?	_	_	_	_	_	Gloss=R
-9	bije	kaout	?	_	_	_	_	_	Gloss=aurait
-10	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+9	bije	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
+10	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 11	izeloc’h	izel.-oc'h	adjectif.?	_	_	_	_	_	Gloss=bas.plus
-12	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+12	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

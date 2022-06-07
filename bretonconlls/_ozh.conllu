@@ -1,9 +1,10 @@
 # sent_id = KeitVimpBev(1984:38)__1
 # text = Mil bennozh deoc'h !
 # text_fr = 'Merci mille fois !'
+# dialect = Standard
 # source = Keit Vimp Bev (1984)
 # texttype = Références de corpus
-1	Mil	cardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
+1	Mil	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=mille|Mutation=trigger|MutationNUM=1
 2	bennozh	bennozh	?	_	_	_	_	_	Gloss=bénédiction
-3	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	!	!	PUNCT	_	_	_	_	Gloss=punct

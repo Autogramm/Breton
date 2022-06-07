@@ -4,23 +4,23 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	sur	sur	adverbe	_	_	_	_	_	Gloss=sûr
-7	//	art	?	_	_	_	_	_	Gloss=le
+7	//	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	ar	kazh	nom	_	_	_	_	_	Gloss=chat
 9	c'hazh	c'hazh	?	_	_	_	_	_	Gloss=?
 10	//	//	?	_	_	_	_	_	Gloss=?
-11	e	e	?	_	_	_	_	_	Gloss=R
-12	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	e	e	verbe	_	_	_	_	_	Gloss=R
+12	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	labour	labour	nom	_	_	_	_	_	Gloss=travail
 15	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
-16	an	art	?	_	_	_	_	_	Gloss=le
-17	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
+16	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+17	toulloù	toull.-où_(PL.)	adjectif|nom.suffixe	_	_	_	_	_	Gloss=trou.s
 18	kuzh	kuzh	?	_	_	_	_	_	Gloss=caché
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -30,19 +30,19 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	sur	sur	adverbe	_	_	_	_	_	Gloss=sûr
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 9	labour	labour	nom	_	_	_	_	_	Gloss=travail
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Morph=5
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	c'hazh	kazh	nom	_	_	_	_	_	Gloss=chat|Mutation=target|MutationNUM=5
 12	kavout	kavout	verbe	_	_	_	_	_	Gloss=trouver
-13	an	art	?	_	_	_	_	_	Gloss=le
-14	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+14	toulloù	toull.-où_(PL.)	adjectif|nom.suffixe	_	_	_	_	_	Gloss=trou.s
 15	kuzh	kuzh	?	_	_	_	_	_	Gloss=caché
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

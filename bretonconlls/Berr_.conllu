@@ -4,10 +4,10 @@
 # location = Pleyben
 # source = ar Go (1950)
 1	dihet	dihet	?	_	_	_	_	_	Gloss=souffrant
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 4	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	verr-alan	berr	adjectif	_	_	_	_	_	Gloss=court]]-[[alan|souffle|Morph=1
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	verr-alan	berr	adjectif	_	_	_	_	_	Gloss=court]]-[[alan|souffle|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

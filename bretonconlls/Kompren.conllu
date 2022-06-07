@@ -1,15 +1,17 @@
 # sent_id = Gros(1989:'gouzoud')__2
 # text = N'oufe den kompren pegen fall eo an den-ze.
 # text_fr = 'Personne ne saurait (peut) comprendre combien cet homme est méchant.'
-# source = Gros (1989)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oufe	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=saurait
-3	den	nomnu	nom	_	_	_	_	_	Gloss=homme
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oufe	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=saurait
+3	den	nom_nu	nom	_	_	_	_	_	Gloss=homme
 4	kompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
-5	pegen	pegen	?	_	_	_	_	_	Gloss=combien
-6	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	an	art	?	_	_	_	_	_	Gloss=le
+5	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
+6	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	den-ze	den	nom	_	_	_	_	_	Gloss=homme
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,31 +21,31 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-4	ur	art	?	_	_	_	_	_	Gloss=un
+1	Mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	c'hompren	c'hompren	?	_	_	_	_	_	Gloss=5
-6	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-7	e-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+6	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+7	e-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = C'hoarzhin a rez evel pa gomprenjes un dra bennak.
 # text_fr = 'Tu ris comme si tu (y) comprenais quelque chose.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
-1	C'	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
-2	hoarzhin	hoarzhin	?	_	_	_	_	_	Gloss=?
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-5	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-7	gomprenjes	gomprenjes	?	_	_	_	_	_	Gloss=comprendrais
-8	un	art	?	_	_	_	_	_	Gloss=un
-9	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
-10	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-11	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hoarzhin	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+6	gomprenjes	gomprenjes	?	_	_	_	_	_	Gloss=comprendrais
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+8	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
+9	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:113)__1
 # text = Me ` 'gompren genoc’h.
@@ -51,11 +53,11 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	`	`	?	_	_	_	_	_	Gloss=R|Morph=1
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	`	`	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	'	'	?	_	_	_	_	_	Gloss=comprend
 4	gompren	gompren	?	_	_	_	_	_	Gloss=?
-5	genoc’h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+5	genoc’h	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:113)__1
@@ -66,7 +68,7 @@
 # texttype = Ouvrages de recherche
 1	'	'	?	_	_	_	_	_	Gloss=comprend
 2	gompren	gompren	?	_	_	_	_	_	Gloss=?
-3	deoc’h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	deoc’h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:62)__1
@@ -75,9 +77,9 @@
 # source = ar Meliner (2009)
 1	kompren	kompren	verbe	_	_	_	_	_	Gloss=comprendre
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raint	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feront
-4	d	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	'	art	?	_	_	_	_	_	Gloss=le
+3	raint	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=feront
+4	d	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	ar	ar	?	_	_	_	_	_	Gloss=?
-7	plac'hig	plac'h.-ig	?.?	_	_	_	_	_	Gloss=fille.petit
+7	plac'hig	plac'h.-ig	?.suffixe	_	_	_	_	_	Gloss=fille.petit
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,13 +4,13 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	loened	loen.-ed	nom.?	_	_	_	_	_	Gloss=bête.s
-3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	int	COP	?	_	_	_	_	_	Gloss=sont
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	int	COP	verbe	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=?
-8	sac'hadoù	sac'h.-ad.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=sac.ée.s
+6	'	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=?
+8	sac'hadoù	sac'h.-ad.-où_(PL.)	?.suffixe|nom.suffixe	_	_	_	_	_	Gloss=sac.ée.s
 9	askorn	askorn	nom	_	_	_	_	_	Gloss=os
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

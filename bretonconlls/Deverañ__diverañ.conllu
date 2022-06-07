@@ -1,34 +1,37 @@
 # sent_id = Herrieu(1994:92)__2
 # text = Setu unan, ar gwad é tiver a-zoc'htoñ.
 # text_fr = 'En voici un qui saigne.'
-# source = Herrieu (1994)
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
-6	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-7	tiver	diverañ	?	_	_	_	_	_	Gloss=couler
-8	a-zoc'htoñ	a-ziouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
+6	é	particule_o	?	_	_	_	_	_	Gloss=à
+7	tiver	diverañ	verbe	_	_	_	_	_	Gloss=couler
+8	a-zoc'htoñ	a-ziouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1947:§603)__1
 # text = Leun e voe buan al laouer gant an dour o tiverañ diwar an dôenn.
 # text_fr = 'L'auge fut vite pleine grâce à l'eau qui coulait du toit.'
+# dialect = Standard
 # source = Kervella (1947)
 # texttype = Ouvrages de recherche
-1	Leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	voe	bezañ	?	_	_	_	_	_	Gloss=fut
-4	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
-5	al	art	?	_	_	_	_	_	Gloss=le
+1	Leun	leun	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	voe	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=fut
+4	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
+5	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	laouer	laouer	?	_	_	_	_	_	Gloss=auge
-7	gant	gant	?	_	_	_	_	_	Gloss=avec
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	dour	dour	nom	_	_	_	_	_	Gloss=eau
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	tiverañ	tiverañ	?	_	_	_	_	_	Gloss=couler
 12	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
-13	an	art	?	_	_	_	_	_	Gloss=le
-14	dôenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+14	dôenn	toenn	nom	_	_	_	_	_	Gloss=toit|Mutation=target|MutationNUM=1
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

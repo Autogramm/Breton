@@ -5,16 +5,16 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	goumañsemp	komañs	verbe	_	_	_	_	_	Gloss=commencions
 3	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
 4	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goémon
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-8	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-9	ur	art	?	_	_	_	_	_	Gloss=un
-10	sizhuniad	sizhun.-iad	nom.?	_	_	_	_	_	Gloss=semain.-ée
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+8	great	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	sizhuniad	sizhun.-iad	nom.suffixe|nom	_	_	_	_	_	Gloss=semain.-ée
 11	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
 12	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goémon
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -25,11 +25,11 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Arru	arru	?	_	_	_	_	_	Gloss=arrivé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	pare-zevet	pare-	?	_	_	_	_	_	Gloss=presque|Morph=1
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	skillou	-où(PL.)	?	_	_	_	_	_	Gloss=s
+1	Arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	pare-zevet	pare-	?	_	_	_	_	_	Gloss=presque|Mutation=trigger|MutationNUM=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	skillou	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -38,9 +38,9 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	devet	devet	?	_	_	_	_	_	Gloss=brûlé
 5	koad	koad	nom	_	_	_	_	_	Gloss=bois
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -50,9 +50,9 @@
 # text_fr = 'On a brûlé du bois ici.'
 # source = Y. M. (04/2016)
 # texttype = Élicitations
-1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	devet	devet	?	_	_	_	_	_	Gloss=brûlé
 5	koad	koad	nom	_	_	_	_	_	Gloss=bois
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -69,21 +69,23 @@
 4	zo	zo	?	_	_	_	_	_	Gloss=?
 5	bet	bet	?	_	_	_	_	_	Gloss=été
 6	koad	koad	nom	_	_	_	_	_	Gloss=bois
-7	anmañ	aman	?	_	_	_	_	_	Gloss=ici
+7	anmañ	aman	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'dèvi')__1
 # text = Me am-eus bet kalondev goude kreisteiz aze pa oan er park.
 # text_fr = 'J'ai eu des brûlures d'estomac cet après-midi quand j'étais au champ.'
-# source = Gros (1989)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	bet	kaout	?	_	_	_	_	_	Gloss=eu
-3	kalondev	kalon	nom	_	_	_	_	_	Gloss=coeur|Morph=1
-4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+3	kalondev	kalon	nom	_	_	_	_	_	Gloss=coeur|Mutation=trigger|MutationNUM=1
+4	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 5	kreisteiz	kreiz.deiz	nom.nom	_	_	_	_	_	Gloss=mi.jour
-6	aze	ads	?	_	_	_	_	_	Gloss=ici
-7	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-8	oan	COP	nom	_	_	_	_	_	Gloss=étais
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
+7	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+8	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	park	park	nom	_	_	_	_	_	Gloss=champ
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -5,22 +5,22 @@
 # source = Kervella (1985)
 # texttype = Références de corpus
 1	Alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	hemañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 7	kig	kig	nom	_	_	_	_	_	Gloss=viande
 8	yar	yar	nom	_	_	_	_	_	Gloss=poulet
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-11	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-12	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+11	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+12	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 13	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
-14	bezañ	bezan	?	_	_	_	_	_	Gloss=être
+14	bezañ	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 15	__	__	?	_	_	_	_	_	Gloss=
 16	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-17	gant	gant	?	_	_	_	_	_	Gloss=avec
+17	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 18	pesked..	pesk	nom	_	_	_	_	_	Gloss=poissons
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -30,21 +30,22 @@
 # source = Elegoet (1975)
 # texttype = Ouvrages de recherche
 1	Bara	bara	nom	_	_	_	_	_	Gloss=pain
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	poa	kaout	?	_	_	_	_	_	Gloss=avait
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-5	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	poa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+5	gear	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 6	ie	ie	?	_	_	_	_	_	Gloss=aussi
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
 9	gwiniz	gwinizh	nom	_	_	_	_	_	Gloss=blé
-10	e	e	?	_	_	_	_	_	Gloss=R
-11	pehe	kaout	?	_	_	_	_	_	Gloss=aviez
+10	e	e	verbe	_	_	_	_	_	Gloss=R
+11	pehe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aviez
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:305)__1
+# sent_id = Bouzec&al.(2017:305)__1
 # text = Ma moc'h bien, mé zo 'weu !
 # text_fr = 'Si tu es petit, je le suis aussi !'
+# source = Elegoet (1975)
 1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=Ma
 2	moc'h	moc'h	?	_	_	_	_	_	Gloss=emaocxxxh
 3	bien	bien	?	_	_	_	_	_	Gloss=bihan,
@@ -63,13 +64,13 @@
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
 2	pasemãt	pasemãt	?	_	_	_	_	_	Gloss=?
-3	mi	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	mi	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	ma	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 5	mi_e_w	mezv	adjectif	_	_	_	_	_	Gloss=saoûl
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	i	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 8	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
-9	fal	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+9	fal	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 10	eẅe	eẅe	?	_	_	_	_	_	Gloss=aussi
 11	/	/	PUNCT	_	_	_	_	Gloss=punct
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -79,8 +80,8 @@
 # text_fr = 'J'étais aussi étonnée.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	me	pfi	?	_	_	_	_	_	Gloss=moi
-2	wa	COP	?	_	_	_	_	_	Gloss=était
+1	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	wa	COP	verbe	_	_	_	_	_	Gloss=était
 3	vis	vis	?	_	_	_	_	_	Gloss=aussi
 4	duɛjz	duɛjz	?	_	_	_	_	_	Gloss=étonnée
 
@@ -89,10 +90,10 @@
 # text_fr = 'En vérité, j'ai (aussi) travaillé.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	gwirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	'	kaout	?	_	_	_	_	_	Gloss=a
+4	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	meus	meus	?	_	_	_	_	_	Gloss=?
 6	??	??	?	_	_	_	_	_	Gloss=$$$
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -103,37 +104,41 @@
 12	...	...	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:158)__1
-# text = An adjudant Conan ha me a gav ivez bep a_[[1]]_ wele.
+# text = An adjudant Conan ha me a gav ivez bep a_[[1_ wele.
 # text_fr = 'L'adjudant Conan et moi trouvons aussi chacun un lit.'
-# source = Herrieu (1994)
-1	An	art	?	_	_	_	_	_	Gloss=le
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	adjudant	adjudant	?	_	_	_	_	_	Gloss=adjudant
-3	Conan	nompropre	?	_	_	_	_	_	Gloss=Conan
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	me	pfi	?	_	_	_	_	_	Gloss=moi
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	Conan	nom_propre	?	_	_	_	_	_	Gloss=Conan
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 8	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 9	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-10	a_[[1]]_	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	a_[[1_	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	wele	gwele	nom	_	_	_	_	_	Gloss=lit
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:161)__1
 # text = Honnez na oa ket eur plah vrao, na tost ivez !
 # text_fr = 'Ce n'était pas une jolie fille, ni près de l'être (elle était laide).'
-# source = Gros (1984)
-1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
 2	na	na.na	?.?	_	_	_	_	_	Gloss=ne.R
-3	oa	CP	?	_	_	_	_	_	Gloss=était
+3	oa	CP	CP	_	_	_	_	_	Gloss=était
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	eur	art	nom	_	_	_	_	_	Gloss=un
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	plah	plac'h	?	_	_	_	_	_	Gloss=fille
 7	vrao	vrao	?	_	_	_	_	_	Gloss=belle
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	na	na...na	?	_	_	_	_	_	Gloss=ni
-10	tost	tost	adjectif	_	_	_	_	_	Gloss=près
-11	ivez	ivez	adverbe	_	_	_	_	_	Gloss=non.plus
+9	na	na..._na	?	_	_	_	_	_	Gloss=ni
+10	tost	tost	adjectif	_	_	_	_	_	Gloss=non.plus
+11	ivez	ivez	adverbe	_	_	_	_	_	Gloss=?
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:14)__1
@@ -143,10 +148,10 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=y.avait
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=y.avait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	a	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	a	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	laezh	laezh	nom	_	_	_	_	_	Gloss=lait
 6	ie	ie	?	_	_	_	_	_	Gloss=aussi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -154,48 +159,53 @@
 # sent_id = LeBozec(1933:42)__1
 # text = Ni ivez, holl _ , e kosaomp.
 # text_fr = 'Nous vieillissons tous aussi.'
-# source = Le Bozec
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+4	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 5	_	_	?	_	_	_	_	_	Gloss=?
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	kosaomp	kozh.-aat	adjectif.verbe	_	_	_	_	_	Gloss=vieill.issons
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	kosaomp	kozh.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=vieill.issons
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:288)__2
 # text = Esae a raomp - ni ivez distag "Gouten tag" ag ar gwellañ.
 # text_fr = 'Nous essayons, nous aussi, de prononcer "Gouten tag" de notre mieux.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Esae	esaeañ	verbe	_	_	_	_	_	Gloss=essayer
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raomp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisons
+3	raomp	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisons
 4	-	-	PUNCT	_	_	_	_	Gloss=punct
-5	ni	echo	?	_	_	_	_	_	Gloss=nous
+5	ni	echo	pronom	_	_	_	_	_	Gloss=nous
 6	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-7	distag	distag	?	_	_	_	_	_	Gloss=prononcer
+7	distag	distag	verbe	_	_	_	_	_	Gloss=prononcer
 8	"Gouten	"Gouten	?	_	_	_	_	_	Gloss="Gouten
 9	tag"	tag"	?	_	_	_	_	_	Gloss=tag"
-10	ag	eus	?	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
+10	ag	eus	préposition	_	_	_	_	_	Gloss=de
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:30)__1
 # text = Frammet-abominabl eo. / E vab a zo frammet-mat ivez !
 # text_fr = 'Il est formidablement charpenté. / Son fils aussi est bien bâti.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Frammet-abominabl	abominabl	adjectif	_	_	_	_	_	Gloss=INT
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 4	/	/	?	_	_	_	_	_	Gloss=
-5	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	vab	mab	nom	_	_	_	_	_	Gloss=fils
 7	a	a	préposition	_	_	_	_	_	Gloss=R
-8	zo	COP	?	_	_	_	_	_	Gloss=est
-9	frammet-mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+8	zo	COP	verbe	_	_	_	_	_	Gloss=est
+9	frammet-mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -205,14 +215,14 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	un	art	?	_	_	_	_	_	Gloss=un
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	amezeg	amezeg	nom	_	_	_	_	_	Gloss=voisin
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	Job	Job	?	_	_	_	_	_	Gloss=[[nompropre|Job
+5	Job	Job	?	_	_	_	_	_	Gloss=[[nom_propre|Job
 6	Ch.	Ch.	?	_	_	_	_	_	Gloss=Ch.]]
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	un	art	?	_	_	_	_	_	Gloss=un
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	dro	dro	?	_	_	_	_	_	Gloss=fois
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
@@ -220,7 +230,7 @@
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 15	d'	da	préposition	_	_	_	_	_	Gloss=à
-16	ar	art	?	_	_	_	_	_	Gloss=le
+16	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 17	marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -230,18 +240,18 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voila
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
-4	bet	kaout	?	_	_	_	_	_	Gloss=eu
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	traou-se	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-7	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voila
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	traou-se	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+7	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+8	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 9	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 10	deus	diouzh	préposition	_	_	_	_	_	Gloss=de
 11	perzh	perzh	nom	_	_	_	_	_	Gloss=part
-12	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+12	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 13	zud	tud	nom	_	_	_	_	_	Gloss=parents
 14	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -252,21 +262,20 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Paneve	paneve	préposition-complémenteur	_	_	_	_	_	Gloss=quand.ce.n'@est
+1	Paneve	paneve	complémenteur|préposition	_	_	_	_	_	Gloss=quand.ce.n'@est
 2	se	se	pronom	_	_	_	_	_	Gloss=ça
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 5	lar	lavarout	verbe	_	_	_	_	_	Gloss=dit
-6	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	nie	kaout	?	_	_	_	_	_	Gloss=aurait
+8	nie	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	gallet	gallout	verbe	_	_	_	_	_	Gloss=pu
-11	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+11	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 12	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
-13	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
-14	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-15	.	.	PUNCT	_	_	_	_	Gloss=punct
+13	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+14	ivez.	ivez.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Lagadeg(2006:46)__1
 # text = Ma, eme Vari, me ne ouzon ket ivez.
@@ -276,12 +285,12 @@
 # texttype = Références de corpus
 1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=bah
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	eme	eme	préposition	_	_	_	_	_	Gloss=dit|Morph=1
-4	Vari	nompropre	?	_	_	_	_	_	Gloss=Mari
+3	eme	eme	préposition	_	_	_	_	_	Gloss=dit|Mutation=trigger|MutationNUM=1
+4	Vari	nom_propre	?	_	_	_	_	_	Gloss=Mari
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	me	pfi	?	_	_	_	_	_	Gloss=moi
-7	ne	ne	?	_	_	_	_	_	Gloss=ne
-8	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+6	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+7	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+8	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -292,14 +301,14 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Med	Met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+1	Med	Met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	bez	bez	?	_	_	_	_	_	Gloss=expl
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=y.a
 5	darn	darn	quantifieur	_	_	_	_	_	Gloss=certain
-6	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+6	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+7	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 8	em	em	?	_	_	_	_	_	Gloss=?
-9	laosk	laoskel	?	_	_	_	_	_	Gloss=lâcher
-10	ive	ive	?	_	_	_	_	_	Gloss=aussi
+9	laosk	laoskel	verbe	_	_	_	_	_	Gloss=lâcher
+10	ive	ive	adverbe	_	_	_	_	_	Gloss=aussi
 11	!	!	PUNCT	_	_	_	_	Gloss=punct

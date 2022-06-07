@@ -1,7 +1,9 @@
 # sent_id = Trépos(2001:104)__1
 # text = ur grehenn denn
 # text_fr = 'une côte dure'
-# source = Trépos (2001)
-1	ur	art	?	_	_	_	_	_	Gloss=un
-2	grehenn	krec'henn	?	_	_	_	_	_	Gloss=côte|Morph=1
-3	denn	tenn	?	_	_	_	_	_	Gloss=dur|Morph=1
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	grehenn	krec'henn	?	_	_	_	_	_	Gloss=côte|Mutation=target|MutationNUM=1
+3	denn	tenn	?	_	_	_	_	_	Gloss=dur|Mutation=target|MutationNUM=1

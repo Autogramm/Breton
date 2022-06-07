@@ -6,13 +6,13 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Gedal	Gedal	verbe	_	_	_	_	_	Gloss=attendre
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oe	COP	?	_	_	_	_	_	Gloss=fut
-4	ranket	rankout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=fall.u
-5	bloaveziou	bloaz.-vezh.-ioù(PL.)	nom.nom.?	_	_	_	_	_	Gloss=ann.ée.s
-6	a-raog	araok	?	_	_	_	_	_	Gloss=avant
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-8	oe	COP	?	_	_	_	_	_	Gloss=fut
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oe	COP	verbe	_	_	_	_	_	Gloss=fut
+4	ranket	rankout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=fall.u
+5	bloaveziou	bloaz.-vezh.-ioù_(PL.)	nom.suffixe|nom.suffixe	_	_	_	_	_	Gloss=ann.ée.s
+6	a-raog	araok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+8	oe	COP	verbe	_	_	_	_	_	Gloss=fut
 9	savet	sevel	verbe	_	_	_	_	_	Gloss=construit
-10	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=à.nouveau
+10	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=à.nouveau
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

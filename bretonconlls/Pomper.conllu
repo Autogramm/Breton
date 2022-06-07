@@ -5,14 +5,14 @@
 # texttype = Références de corpus
 1	a	a	préposition	_	_	_	_	_	Gloss=de
 2	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	deredet	redek	verbe	_	_	_	_	_	Gloss=accourru
 5	pomperion	-ion	?	_	_	_	_	_	Gloss=s
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	archerion	archer.-erion	nom.?	_	_	_	_	_	Gloss=polic.iers
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	sikourerion	sikour.-erion	verbe-nom.?	_	_	_	_	_	Gloss=secour.istes
-10	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	sikourerion	sikour.-erion	verbe|nom.?	_	_	_	_	_	Gloss=secour.istes
+10	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-12	seurt..	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+12	seurt..	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

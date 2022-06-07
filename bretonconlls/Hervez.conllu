@@ -4,33 +4,37 @@
 # source = Brendan Corre (12/2017)
 # texttype = Élicitations
 1	Herwe	a	préposition	_	_	_	_	_	Gloss=P
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	kollet	koll.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=perd.u
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	kollet	koll.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=perd.u
 4	lestr	lestr	nom	_	_	_	_	_	Gloss=vaisseau
-5	Kola	nompropre	?	_	_	_	_	_	Gloss=Kola
+5	Kola	nom_propre	?	_	_	_	_	_	Gloss=Kola
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:50)__1
 # text = A-hervez e oa droug ken e oa.
 # text_fr = 'Il paraît qu'il était terriblement méchant.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	A-hervez	A-hervez	adverbe	_	_	_	_	_	Gloss=selon
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=méchant
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=méchant
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:316)__1
 # text = Me a oa eet fesonet-fall, a-hervez.
 # text_fr = 'J'étais devenu pâle, paraît-il.'
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	eet	mont	verbe	_	_	_	_	_	Gloss=allé
-5	fesonet-fall	feson.-et(Adj.).fall	nom.?.adverbe-adjectif	_	_	_	_	_	Gloss=façon.é.mauvais
+5	fesonet-fall	feson.-et_(Adj.).fall	nom.verbe|suffixe.adverbe|adjectif	_	_	_	_	_	Gloss=façon.é.mauvais
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	a-hervez	a	préposition	_	_	_	_	_	Gloss=P
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

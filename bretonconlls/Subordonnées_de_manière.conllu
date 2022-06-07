@@ -1,27 +1,28 @@
 # sent_id = Drezen(1990:14)__1
 # text =  Harpet war barlenn ar prenestr,  tennañ a ra hir ar c'hrennard war e anal.
 # text_fr = 'Appuyé sur le rebord de la fenêtre, l'adolescent respire profondément.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	??	??	?	_	_	_	_	_	Gloss=[
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	Harpet	harpañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=appuy.é
-4	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+3	Harpet	harpañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=appuy.é
+4	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 5	barlenn	barlenn	nom	_	_	_	_	_	Gloss=rebord
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	??	??	?	_	_	_	_	_	Gloss=]
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 11	tennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 14	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-15	ar	art	?	_	_	_	_	_	Gloss=le
-16	c'hrennard	krennard	?	_	_	_	_	_	Gloss=adolescent|Morph=5
-17	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-18	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-19	anal	anal	?	_	_	_	_	_	Gloss=haleine
+15	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+16	c'hrennard	krennard	?	_	_	_	_	_	Gloss=adolescent|Mutation=target|MutationNUM=5
+17	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+18	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+19	anal	anal	nom	_	_	_	_	_	Gloss=haleine
 20	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§589)__1
@@ -32,11 +33,14 @@
 1	vuoc'h	buoc'h	?	_	_	_	_	_	Gloss=vache
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	uzet	uzet	?	_	_	_	_	_	Gloss=usé
-4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-5	dent	dant.plurielinterne	nom.?	_	_	_	_	_	Gloss=dent.s
+4	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+5	dent	dant.pluriel_interne	nom.?	_	_	_	_	_	Gloss=dent.s
 6	hir	hir	adjectif	_	_	_	_	_	Gloss=long
 7	??	??	?	_	_	_	_	_	Gloss=[
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
-9	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	'	particule_o	?	_	_	_	_	_	Gloss=à
 10			PUNCT	_	_	_	_	Gloss=punct
 11	krignat	krignat	?	_	_	_	_	_	Gloss=ronger
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	mogerioù..	moger.-ioù_(PL.)	verbe.suffixe	_	_	_	_	_	Gloss=mur.s
+14	.	.	PUNCT	_	_	_	_	Gloss=punct

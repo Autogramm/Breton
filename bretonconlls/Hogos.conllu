@@ -1,61 +1,63 @@
 # sent_id = Herrieu(1994:20)__1
 # text = Dre-mañ ema pavet 'gosik rac'h an hentoù.
 # text_fr = 'Par ici presque toutes les rues sont pavées.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Dre-mañ	dre	préposition	_	_	_	_	_	Gloss=par
-2	ema	COP	?	_	_	_	_	_	Gloss=est
-3	pavet	paviñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=pav.é
+2	ema	COP	verbe	_	_	_	_	_	Gloss=est
+3	pavet	paviñ.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=pav.é
 4	'	'	?	_	_	_	_	_	Gloss=presque
 5	gosik	gosik	?	_	_	_	_	_	Gloss=?
 6	rac'h	rac'h	?	_	_	_	_	_	Gloss=tout
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	hentoù	hent.-où(PL.)	nom.?	_	_	_	_	_	Gloss=route.s
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	hentoù	hent.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=route.s
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:106)__1
 # text = 'Gosik eh on-me er-maez.
 # text_fr = 'Je suis quasiment dehors.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	'	'	?	_	_	_	_	_	Gloss=presque
 2	Gosik	Gosik	?	_	_	_	_	_	Gloss=?
 3	eh	eh	?	_	_	_	_	_	Gloss=R
-4	on-me	COP	?	_	_	_	_	_	Gloss=suis
-5	er-maez	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+4	on-me	COP	verbe	_	_	_	_	_	Gloss=suis
+5	er-maez	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moyenbreton,Pa.:3742__1
 # text = hogos dez eu anez-y
 # text_fr = 'Il fait presque jour.'
-# source = Pa.
-1	hogos	hogos	adverbe-adjectif	_	_	_	_	_	Gloss=presque
+# source = Pa., Pass.(moyen breton)
+# texttype = Références de corpus
+1	hogos	hogos	adverbe|adjectif	_	_	_	_	_	Gloss=presque
 2	dez	deiz	nom	_	_	_	_	_	Gloss=jour
-3	eu	COP	?	_	_	_	_	_	Gloss=est
-4	anez-y	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+3	eu	COP	verbe	_	_	_	_	_	Gloss=est
+4	anez-y	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 
 # sent_id = Avezard-Roger(2004a:204)__1
-# text = [ goze me zo døt da vwaX ]
+# text = goze me zo døt da vwaX
 # text_fr = 'Après je suis venue au bourg.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	[	[	?	_	_	_	_	_	Gloss=après
-2	goze	goze	?	_	_	_	_	_	Gloss=?
-3	me	pfi	?	_	_	_	_	_	Gloss=moi
-4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	døt	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	vwaX	bourk	?	_	_	_	_	_	Gloss=bourg
-8	]	]	?	_	_	_	_	_	Gloss=?
+1	goze	goze	?	_	_	_	_	_	Gloss=après
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+3	zo	zo	?	_	_	_	_	_	Gloss=est
+4	døt	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+6	vwaX	bourk	nom	_	_	_	_	_	Gloss=bourg
 
 # sent_id = Avezard-Roger(2004a:448)__1
-# text = [ gusi w ãn ɛt edi ma bʁœʁ ] (probablement [... ɛd eti ...])
+# text = gusi w ãn ɛt edi ma bʁœʁ ] (probablement [... ɛd eti ...)
 # text_fr = 'Après je suis allée chez mon frère.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	[	[	?	_	_	_	_	_	Gloss=après
-2	gusi	gusi	?	_	_	_	_	_	Gloss=?
-3	w	COP	?	_	_	_	_	_	Gloss=étais
-4	ãn	mont	verbe	_	_	_	_	_	Gloss=été
-5	ɛt	ɛt	?	_	_	_	_	_	Gloss=?
-6	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-7	bʁœʁ	breur	nom	_	_	_	_	_	Gloss=frère
-8	]	]	?	_	_	_	_	_	Gloss=?
+1	gusi	gusi	?	_	_	_	_	_	Gloss=après
+2	w	COP	verbe	_	_	_	_	_	Gloss=étais
+3	ãn	mont	verbe	_	_	_	_	_	Gloss=été
+4	ɛt	ɛt	?	_	_	_	_	_	Gloss=?
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+6	bʁœʁ	breur	nom	_	_	_	_	_	Gloss=frère
+7	]	]	?	_	_	_	_	_	Gloss=?

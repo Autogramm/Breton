@@ -3,12 +3,12 @@
 # text_fr = 'A mal enfourner, on fait des pains biscornus.'
 # source = Abalain (2001)
 # texttype = Références de corpus
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	droug-ifornañ,	droug-ifornañ,	?	_	_	_	_	_	Gloss=?
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	reer	ober.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=fait.on
-5	kornek	korn.-ek(Adj.)	nom.?	_	_	_	_	_	Gloss=corn.u
-6	ar	art	?	_	_	_	_	_	Gloss=le
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	reer	ober.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=fait.on
+5	kornek	korn.-ek_(Adj.)	nom.suffixe|adjectif	_	_	_	_	_	Gloss=corn.u
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	bara	bara	nom	_	_	_	_	_	Gloss=pain
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,13 +19,13 @@
 # location = Saint Pol de Léon
 # source = Milin (1922)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	ho	ho	?	_	_	_	_	_	Gloss=2PL
-3	peus	kaout	?	_	_	_	_	_	Gloss=a
+3	peus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	drouk-c'hreat	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
-7	c'hever	kenver	?	_	_	_	_	_	Gloss=encontre
+5	drouk-c'hreat	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
+7	c'hever	kenver	préposition	_	_	_	_	_	Gloss=encontre
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:'oberevit')__1
@@ -34,29 +34,31 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Honnez	DEM	?	_	_	_	_	_	Gloss=celle.ci
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
 5	troukkomz	komz	verbe	_	_	_	_	_	Gloss=parler
 6	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
-7	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+7	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 8	benn	penn	nom	_	_	_	_	_	Gloss=tête
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-11	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-12	vezez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=es
-13	ordinal	ordinal(Adv.)	?	_	_	_	_	_	Gloss=ordinairement
-14	oh	particuleo	?	_	_	_	_	_	Gloss=à
-15	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-16	eviti	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.elle
+10	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+11	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+12	vezez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=es
+13	ordinal	ordinal_(Adv.)	adjectif	_	_	_	_	_	Gloss=ordinairement
+14	oh	particule_o	?	_	_	_	_	_	Gloss=à
+15	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+16	eviti	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=pour.elle
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:377)__1
 # text = Neuze em-eus droukkontet.
 # text_fr = 'Alors j’ai mal compté.'
-# source = Gros (1984)
-1	Neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-2	em-eus	kaout	?	_	_	_	_	_	Gloss=a
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+2	em-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	droukkontet	kontañ	verbe	_	_	_	_	_	Gloss=compté
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

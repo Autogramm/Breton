@@ -6,19 +6,19 @@
 # texttype = Ouvrages pédagogiques
 1	elestr	elestr	nom	_	_	_	_	_	Gloss=iris
 2	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
-3	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-4	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
-5	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+4	zreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
+5	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau
 
 # sent_id = 138)__1
 # text = Me zou milén mem bléu.
 # text_fr = 'J'ai les cheveux blonds'.
 # source = Guillevic & Le Goff (1986:138)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zou	zo	?	_	_	_	_	_	Gloss=est
 3	milén	milén	?	_	_	_	_	_	Gloss=jaune
-4	mem	POSS	?	_	_	_	_	_	Gloss=ma|Morph=2
+4	mem	POSS	déterminant	_	_	_	_	_	Gloss=ma|Mutation=trigger|MutationNUM=2
 5	bléu	blev	nom	_	_	_	_	_	Gloss=chevelure
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -27,11 +27,11 @@
 # text_fr = 'avec des raisins et du jaune d’œuf dans la pâte'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	rezin	rezin	nom	_	_	_	_	_	Gloss=raisins
-3	ha	&	?	_	_	_	_	_	Gloss=et
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 4	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
-5	vi	vi	?	_	_	_	_	_	Gloss=œuf
-6	mesklet	mesklañ	?	_	_	_	_	_	Gloss=mélangé
-7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	vi	vi	nom	_	_	_	_	_	Gloss=œuf
+6	mesklet	mesklañ	verbe	_	_	_	_	_	Gloss=mélangé
+7	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	toaz	toaz	nom	_	_	_	_	_	Gloss=pâte

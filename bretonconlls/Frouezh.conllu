@@ -8,10 +8,10 @@
 2	dibri	debriñ	verbe	_	_	_	_	_	Gloss=manger
 3	frouezen	singulatif	?	_	_	_	_	_	Gloss=SG
 4	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-6	ar	art	?	_	_	_	_	_	Gloss=le
+5	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	rest	rest	?	_	_	_	_	_	Gloss=reste
-8	eus	eus	?	_	_	_	_	_	Gloss=de
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	eus	eus	préposition	_	_	_	_	_	Gloss=de
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	vue	buhez	nom	_	_	_	_	_	Gloss=vie
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

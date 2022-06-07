@@ -1,10 +1,12 @@
 # sent_id = Trépos(2001:§315)__1
 # text = Lies a dra.
 # text_fr = 'mainte chose.'
+# dialect = Cornouaillais
 # location = Bigouden
-# source = Trépos (2001)
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	Lies	Lies	quantifieur	_	_	_	_	_	Gloss=mainte
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	dra	tra	nom	_	_	_	_	_	Gloss=chose
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -16,59 +18,62 @@
 # source = Giraudon (2014)
 # texttype = Ouvrages de recherche
 1	korf	korf	nom	_	_	_	_	_	Gloss=corps
-2	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+2	maro	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
-7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+6	ennañ	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.lui
+7	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 8	'	'	?	_	_	_	_	_	Gloss=R
 9			PUNCT	_	_	_	_	Gloss=punct
 10	zo	zo	?	_	_	_	_	_	Gloss=est
-11	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+11	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 12	karnel	karnel	nom	_	_	_	_	_	Gloss=ossuaire
-13	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-14	gêr-mañ	kêr	nom	_	_	_	_	_	Gloss=ville]]-[[DEM|ci|Morph=1
+13	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+14	gêr-mañ	kêr	nom	_	_	_	_	_	Gloss=ville]]-[[DEM|ci|Mutation=target|MutationNUM=1
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standarddesécoles,[L.Jade]__1
 # text = pemp lies pevar a zo kevatal da ugent.
 # text_fr = '5 X 4 = 20'
+# source = Giraudon (2014)
 1	pemp	pemp	?	_	_	_	_	_	Gloss=5
 2	lies	lies	quantifieur	_	_	_	_	_	Gloss=X
 3	pevar	pevar	?	_	_	_	_	_	Gloss=4
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	kevatal	kevatal	?	_	_	_	_	_	Gloss=égal
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	ugent	ugent	?	_	_	_	_	_	Gloss=20
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:237)__1
+# sent_id = Goyat(2012:237)__1
 # text = Liez unan zo bet paket dija.
 # text_fr = 'Plus d’un a déjà été pris.'
-# text_phon = ['/ liɛz', "'@ɛ :n", 'zo', 'be', "'@pakɛd", 'diˌʒa /']
+# text_phon = / liɛz '@ɛ :n zo be '@pakɛd diˌʒa / 
+# source = Giraudon (2014)
 1	Liez	Liez	?	_	_	_	_	_	Gloss=maint
-2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+2	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	paket	pakañ	verbe	_	_	_	_	_	Gloss=pris
 6	dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Menard (1995:§ gwelead)__1
+# sent_id = Menard(1995:§gwelead)__1
 # text = Lies mat da vintin m'o c'hav kej-mej en ur gwelead.
 # text_fr = 'Je les trouve bien souvent dans le même lit au matin.'
 # source2 =  Vannes, 1790 (MG.:202)
+# source = Giraudon (2014)
 1	Lies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-2	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	vintin	mintin	nom	_	_	_	_	_	Gloss=matin
-5	m'	pfi	?	_	_	_	_	_	Gloss=moi
-6	o	POP	?	_	_	_	_	_	Gloss=les
+5	m'	pfi	pronom	_	_	_	_	_	Gloss=moi
+6	o	POP	pronom	_	_	_	_	_	Gloss=les
 7	c'hav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 8	kej-mej	kej-mej	?	_	_	_	_	_	Gloss=mêlés
-9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-10	ur	art	?	_	_	_	_	_	Gloss=un
-11	gwelead	gwele.-ad	nom.?	_	_	_	_	_	Gloss=lit.ée
+9	en	P.e	préposition	_	_	_	_	_	Gloss=en
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	gwelead	gwele.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=lit.ée
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

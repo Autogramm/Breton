@@ -4,16 +4,16 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	Na	ne,na	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Na	ne,_na	?	_	_	_	_	_	Gloss=ne
 2	gemerit	kemer	verbe	_	_	_	_	_	Gloss=prenez
 3	két	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	aval-se	aval	nom	_	_	_	_	_	Gloss=pomme
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	greiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
 9	ez	ez	?	_	_	_	_	_	Gloss=R
-10	eus	ezeus	?	_	_	_	_	_	Gloss=est
-11	eur	art	nom	_	_	_	_	_	Gloss=un
+10	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+11	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 12	preñv	preñv	nom	_	_	_	_	_	Gloss=ver
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

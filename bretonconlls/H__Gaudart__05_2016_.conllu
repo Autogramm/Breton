@@ -5,7 +5,7 @@
 # source = H. Gaudart (05/2016)
 # texttype = Élicitations
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	uion	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	uion	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	la(r)	la(r)	complémenteur	_	_	_	_	_	Gloss=que/si
 5	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
@@ -14,28 +14,30 @@
 # sent_id = Scaër/Bannalec,H.Gaudart(05/2016)__1
 # text = Ar goarnamant ' ra espec'h ' da reiñ nebeutoc'h (zikourioù) (d'anin).
 # text_fr = 'Le gouvernement fait exprès de réduire les aides.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# source = H. Gaudart (05/2016)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	goarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
 3	'	'	?	_	_	_	_	_	Gloss=R
 4			PUNCT	_	_	_	_	Gloss=punct
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	espec'h	espec'h	?	_	_	_	_	_	Gloss=exprès
 7	'	'	?	_	_	_	_	_	Gloss=?
 8			PUNCT	_	_	_	_	Gloss=punct
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	(zikourioù)	(zikourioù)	?	_	_	_	_	_	Gloss=aides
 11	(d'	da	préposition	_	_	_	_	_	Gloss=à
-12	anin)	IMP	?	_	_	_	_	_	Gloss=on
+12	anin)	IMP	pronom	_	_	_	_	_	Gloss=on
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(05/2016)__1
 # text = Distrujet gaton holl tresadennoù ar stal.
 # text_fr = 'Il a détruit tous les dessins de l'atelier.'
-1	Distrujet	distruj.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=détru.it
-2	gaton	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-4	tresadennoù	tresañ.-adenn.-où(PL.)	verbe.nom.?	_	_	_	_	_	Gloss=dess.in.s
-5	ar	art	?	_	_	_	_	_	Gloss=le
+# source = H. Gaudart (05/2016)
+1	Distrujet	distruj.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=détru.it
+2	gaton	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+3	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+4	tresadennoù	tresañ.-adenn.-où_(PL.)	verbe.nom.suffixe	_	_	_	_	_	Gloss=dess.in.s
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	stal	stal	nom	_	_	_	_	_	Gloss=atelier
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -45,15 +47,15 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (05/2016)
 # texttype = Élicitations
-1	Brom	breman	?	_	_	_	_	_	Gloss=maintenant
-2	(ur	art	?	_	_	_	_	_	Gloss=un
+1	Brom	breman	adverbe	_	_	_	_	_	Gloss=maintenant
+2	(ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	banniel	banniel	nom	_	_	_	_	_	Gloss=drapeau
-4	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+4	bennak)	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 5	hich	hich	?	_	_	_	_	_	Gloss=flotte
-6	(ur	art	?	_	_	_	_	_	Gloss=un
+6	(ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	banniel	banniel	nom	_	_	_	_	_	Gloss=drapeau
-8	bennak)	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-9	war	war	?	_	_	_	_	_	Gloss=sur
+8	bennak)	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+9	war	war	préposition	_	_	_	_	_	Gloss=sur
 10	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 11	ti-kêr	ti	nom	_	_	_	_	_	Gloss=maison
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -64,13 +66,13 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (05/2016)
 # texttype = Élicitations
-1	War	war	?	_	_	_	_	_	Gloss=sur
+1	War	war	préposition	_	_	_	_	_	Gloss=sur
 2	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 3	ti-kêr	ti	nom	_	_	_	_	_	Gloss=maison
 4	hich	hich	?	_	_	_	_	_	Gloss=flotte
-5	ur	art	?	_	_	_	_	_	Gloss=un
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	banniel	banniel	nom	_	_	_	_	_	Gloss=drapeau
-7	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(05/2016)__1
@@ -79,20 +81,20 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (05/2016)
 # texttype = Élicitations
-1	Ken	Ken	adverbe-complémenteur	_	_	_	_	_	Gloss=[[ken,ker,
-2	pres	pres	?	_	_	_	_	_	Gloss=kel|tant]]
-3	'	'	?	_	_	_	_	_	Gloss=presse
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	warnon	war.[pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	Ken	Ken	complémenteur|adverbe	_	_	_	_	_	Gloss=[[ken,_ker,
+2	pres	pres	?	_	_	_	_	_	Gloss=kel|tant]]presse
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
+4	oa	war.[pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
+5	warnon	warnon	?	_	_	_	_	_	Gloss=?
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	guitaat	guitaat	?	_	_	_	_	_	Gloss=quitter
 8	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
 9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-10	neus	kaout	?	_	_	_	_	_	Gloss=a
-11	leset	lezel	?	_	_	_	_	_	Gloss=laissé
-12	e	POSS	?	_	_	_	_	_	Gloss=son
+10	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+11	leset	lezel	verbe	_	_	_	_	_	Gloss=laissé
+12	e	POSS	déterminant	_	_	_	_	_	Gloss=son
 13	aferioù	aferioù	?	_	_	_	_	_	Gloss=affaires
-14	war	war	?	_	_	_	_	_	Gloss=sur
-15	e	POSS	?	_	_	_	_	_	Gloss=son
+14	war	war	préposition	_	_	_	_	_	Gloss=sur
+15	e	POSS	déterminant	_	_	_	_	_	Gloss=son
 16	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

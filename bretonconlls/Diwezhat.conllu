@@ -4,7 +4,7 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	manier	manier	?	_	_	_	_	_	Gloss=assez
@@ -17,15 +17,14 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	C'	pfi	?	_	_	_	_	_	Gloss=vous
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
-4	doñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
-7	|	-oc'h	?	_	_	_	_	_	Gloss=plus
-8	$$$	$$$	?	_	_	_	_	_	Gloss=?
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-10	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
-11	(diwetoc'h)	-oc'h	?	_	_	_	_	_	Gloss=plus
-12	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+2	laro	lavarout	verbe	_	_	_	_	_	Gloss=dira
+3	doñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	pasein	paseal	verbe	_	_	_	_	_	Gloss=passerai
+6	|	-oc'h	?	_	_	_	_	_	Gloss=plus
+7	$$$	$$$	?	_	_	_	_	_	Gloss=?
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	beo	paieañ	verbe	_	_	_	_	_	Gloss=payer
+10	(diwetoc'h)	-oc'h	?	_	_	_	_	_	Gloss=plus
+11	.	.	PUNCT	_	_	_	_	Gloss=punct

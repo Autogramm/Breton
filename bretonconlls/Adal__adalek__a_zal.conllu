@@ -3,13 +3,13 @@
 # text_fr = 'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
 # source = Hor Yezh
 1	Roll	roll	?	_	_	_	_	_	Gloss=liste
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journau]].[[-aouennoù|x|Morph=5
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journau]].[[-aouennoù|x|Mutation=target|MutationNUM=5
 4	brezhonek	brezhoneg	nom	_	_	_	_	_	Gloss=breton
-5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
+5	adalek	adalek	préposition	_	_	_	_	_	Gloss=depuis
 6	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	eil	ordinal	pronom	_	_	_	_	_	Gloss=second
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	eil	ordinal	adjectif	_	_	_	_	_	Gloss=second
 9	brezel-bed	brezel	nom	_	_	_	_	_	Gloss=guerre
 
 # sent_id = Cornillet(2008:237)__1
@@ -17,36 +17,37 @@
 # text_fr = 'Il s'est enfui dès qu'il a entendu la nouvelle.'
 # source = Cornillet (2008)
 # texttype = Ouvrages de recherche
-1	adal	adal	?	_	_	_	_	_	Gloss=depuis
-2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+1	adal	adal	préposition	_	_	_	_	_	Gloss=depuis
+2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3			PUNCT	_	_	_	_	Gloss=punct
 4	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-5	deus	kaout	?	_	_	_	_	_	Gloss=a
-6	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	c'heloù	keloù	?	_	_	_	_	_	Gloss=nouvelles|Morph=5
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+6	klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	c'heloù	keloù	nom	_	_	_	_	_	Gloss=nouvelles|Mutation=target|MutationNUM=5
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	ez	ez	?	_	_	_	_	_	Gloss=R
-11	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+11	eo	COP	verbe	_	_	_	_	_	Gloss=est
 12	deredet	redek	verbe	_	_	_	_	_	Gloss=encouru
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = KeitVimpBev(1987:45)__1
 # text = Azalek amañ e ya pep hini deus e du, Yakari.
 # text_fr = 'À partir d'ici, nous allons chacun de notre côté, Yakari.'
+# dialect = Standard
 # source = Keit Vimp Bev (1987)
 # texttype = Références de corpus
-1	Azalek	Azalek	?	_	_	_	_	_	Gloss=depuis
-2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-3	e	e	?	_	_	_	_	_	Gloss=R
+1	Azalek	Azalek	préposition	_	_	_	_	_	Gloss=depuis
+2	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+3	e	e	verbe	_	_	_	_	_	Gloss=R
 4	ya	mont	verbe	_	_	_	_	_	Gloss=va
 5	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-7	deus	deus	?	_	_	_	_	_	Gloss=de
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+7	deus	deus	préposition	_	_	_	_	_	Gloss=de
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	du	tu	nom	_	_	_	_	_	Gloss=côté
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	Yakari	nompropre	?	_	_	_	_	_	Gloss=Yakari
+11	Yakari	nom_propre	?	_	_	_	_	_	Gloss=Yakari
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Crahe(2013:332)__1
@@ -56,27 +57,28 @@
 # location = Languidic
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
-1	A-zal	a-zal	?	_	_	_	_	_	Gloss=pourvu
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
-4	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	an	art	?	_	_	_	_	_	Gloss=le
+1	A-zal	a-zal	préposition	_	_	_	_	_	Gloss=pourvu
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+4	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = Adalek Karaez betek Roazhon e oa erc'h war an hent.
 # text_fr = 'La route était enneigée de Carhaix (jusqu')à Rennes.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
-1	Adalek	Adalek	?	_	_	_	_	_	Gloss=depuis
-2	Karaez	nompropre	?	_	_	_	_	_	Gloss=Carhaix
-3	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-4	Roazhon	nompropre	?	_	_	_	_	_	Gloss=Rennes
-5	e	e	?	_	_	_	_	_	Gloss=R
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Adalek	Adalek	préposition	_	_	_	_	_	Gloss=depuis
+2	Karaez	nom_propre	?	_	_	_	_	_	Gloss=Carhaix
+3	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+4	Roazhon	nom_propre	?	_	_	_	_	_	Gloss=Rennes
+5	e	e	verbe	_	_	_	_	_	Gloss=R
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	erc'h	erc'h	?	_	_	_	_	_	Gloss=neige
-8	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-9	an	art	?	_	_	_	_	_	Gloss=le
+8	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	hent	hent	nom	_	_	_	_	_	Gloss=route
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

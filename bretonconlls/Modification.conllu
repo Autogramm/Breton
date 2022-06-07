@@ -1,23 +1,26 @@
 # sent_id = Kerrien(2000:80)__1
 # text = Blejal dispar a rit.
 # text_fr = 'Vous beuglez à merveille.'
-# source = Kerrien (2000)
+# dialect = Léonard
+# source = Kerrien (1926)
+# texttype = Références de corpus
 1	Blejal	blejal	verbe	_	_	_	_	_	Gloss=beugler
-2	dispar	di-.par	?.préposition-nom	_	_	_	_	_	Gloss=sans.pareil
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+2	dispar	di-.par	?.préposition|nom	_	_	_	_	_	Gloss=sans.pareil
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Le Gléau (1973:18).__1
+# sent_id = LeGléau(1973:18).__1
 # text = Krugell gavr-Iniz a zo anezhi ur run douar.
 # text_fr = 'Le Tumulus de Gavrinis est une colline de terre.'
 # source2 = Drezen (1932:55)
+# source = Kerrien (1926)
 1	Krugell	krugell	nom	_	_	_	_	_	Gloss=tumulus
-2	gavr-Iniz	nompropre	?	_	_	_	_	_	Gloss=gavr-iniz
+2	gavr-Iniz	nom_propre	?	_	_	_	_	_	Gloss=gavr-iniz
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	zo	COP	?	_	_	_	_	_	Gloss=est
-5	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
-6	ur	art	?	_	_	_	_	_	Gloss=un
+4	zo	COP	verbe	_	_	_	_	_	Gloss=est
+5	anezhi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	run	run	nom	_	_	_	_	_	Gloss=colline
 8	douar	douar	nom	_	_	_	_	_	Gloss=terre
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

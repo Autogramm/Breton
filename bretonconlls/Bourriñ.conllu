@@ -5,16 +5,16 @@
 # location = Pleiben
 # source = Ar Gow (1961)
 # texttype = Références de corpus
-1	e	P.e	?	_	_	_	_	_	Gloss=en
+1	e	P.e	préposition	_	_	_	_	_	Gloss=en
 2	korn	korn	nom	_	_	_	_	_	Gloss=coin
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	oaled	oaled	nom	_	_	_	_	_	Gloss=foyer
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e-lec'h	P.e	?	_	_	_	_	_	Gloss=en
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	e-lec'h	P.e	préposition	_	_	_	_	_	Gloss=en
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	vourremp	vourremp	?	_	_	_	_	_	Gloss=plaisions
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-10	tommañ	tomm.-añ(V.)	adjectif.?	_	_	_	_	_	Gloss=chauff.er
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
+10	tommañ	tomm.-añ_(V.)	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=chauff.er
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = BouesselduBourg(2014:96)__1
@@ -22,15 +22,15 @@
 # text_fr = '(A ce qu'il paraît,) Langleiz aimait paître ou semer (à son gré) dans des champs différents.'
 # source = Bouessel du Bourg (2014)
 # texttype = Références de corpus
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	meur	meur	quantifieur	_	_	_	_	_	Gloss=moulte
-3	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	bark	park	nom	_	_	_	_	_	Gloss=champ
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	vourre	vourre	?	_	_	_	_	_	Gloss=plaisait
 7	Langleiz	Langleiz	?	_	_	_	_	_	Gloss=Langleiz
 8	peuriñ	peuriñ	verbe	_	_	_	_	_	Gloss=paître
-9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+9	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
 10	hadañ	hadañ	verbe	_	_	_	_	_	Gloss=semer
 11	a-hervez	a-hervez	adverbe	_	_	_	_	_	Gloss=selon
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -42,11 +42,11 @@
 # texttype = Références de corpus
 1	Dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	vourrez	vourrez	?	_	_	_	_	_	Gloss=plais
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
-7	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	memes	memes	adjectif	_	_	_	_	_	Gloss=même
 9	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
 10	!	!	PUNCT	_	_	_	_	Gloss=punct

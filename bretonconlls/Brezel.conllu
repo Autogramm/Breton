@@ -1,17 +1,18 @@
 # sent_id = LeGall(1958:'privadurez')__1
 # text = E-pad ar brezel ez eus bet privadurez ha berregez euz peb tra.
 # text_fr = 'Pendant la guerre, il y avait des privations et des restrictions sur tout.'
-# source = Le Gall (1958)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	E-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
-4	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
-5	eus	ezeus	?	_	_	_	_	_	Gloss=est
+4	ez	ez	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 6	bet	bet	?	_	_	_	_	_	Gloss=eu
 7	privadurez	-adurezh	nom	_	_	_	_	_	Gloss=ation
-8	ha	&	?	_	_	_	_	_	Gloss=et
+8	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	berregez	berr.-egezh	adjectif.nom	_	_	_	_	_	Gloss=court.sfx
-10	euz	eus	?	_	_	_	_	_	Gloss=de
+10	euz	eus	préposition	_	_	_	_	_	Gloss=de
 11	peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 12	tra	tra	nom	_	_	_	_	_	Gloss=chose
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -23,8 +24,8 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	vrezel	vrezel	?	_	_	_	_	_	Gloss=1
 4	komañset	komañs	verbe	_	_	_	_	_	Gloss=commencé
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -6,11 +6,11 @@
 # texttype = Ouvrages pédagogiques
 1	Ya	ya	interjection	_	_	_	_	_	Gloss=oui
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-4	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+3	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+4	c'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	ganet	ganet	?	_	_	_	_	_	Gloss=né
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
 8	aod	aod	nom	_	_	_	_	_	Gloss=côte
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,17 +21,17 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-2	euz	eus	?	_	_	_	_	_	Gloss=de
-3	pesketerien	pesk.-ed(PL.).-erien	nom.?.?	_	_	_	_	_	Gloss=poisson.s.eurs
-4	Treboul	nompropre	?	_	_	_	_	_	Gloss=Treboul
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	zo	COP	?	_	_	_	_	_	Gloss=est
-7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+1	Kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	euz	eus	préposition	_	_	_	_	_	Gloss=de
+3	pesketerien	pesk.-ed_(PL.).-erien	nom.suffixe.?	_	_	_	_	_	Gloss=poisson.s.eurs
+4	Treboul	nom_propre	?	_	_	_	_	_	Gloss=Treboul
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	zo	COP	verbe	_	_	_	_	_	Gloss=est
+7	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 8	zud-koz	tud	nom	_	_	_	_	_	Gloss=gens
-9	ginidig	-idig	?	_	_	_	_	_	Gloss=if
+9	ginidig	-idig	suffixe|adjectif	_	_	_	_	_	Gloss=if
 10	diwar	diwar	préposition	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	mêz	maez	nom	_	_	_	_	_	Gloss=campagne
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -41,13 +41,13 @@
 # location = Plouguiel
 # source = Laurent (1971)
 # texttype = Références de corpus
-1	Penoz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est.3SG
-3	te	pfi	?	_	_	_	_	_	Gloss=toi
-4	ar	art	?	_	_	_	_	_	Gloss=le
+1	Penoz	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=comment
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est.3SG
+3	te	pfi	pronom	_	_	_	_	_	Gloss=toi
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	mab	mab	nom	_	_	_	_	_	Gloss=fils
 6	am	am	?	_	_	_	_	_	Gloss=R
-7	boa	kaout	?	_	_	_	_	_	Gloss=avait
+7	boa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 8	ganet	ganet	?	_	_	_	_	_	Gloss=né
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -58,19 +58,19 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Eñ	pfi	?	_	_	_	_	_	Gloss=lui
+1	Eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
 4	gwashoc'h	gwasoc'h	?	_	_	_	_	_	Gloss=pire
-5	'	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
+5	'	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
 6	vit	vit	?	_	_	_	_	_	Gloss=?
-7	'	art	?	_	_	_	_	_	Gloss=le
+7	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	n	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 9	aotrou	aotrou	nom	_	_	_	_	_	Gloss=?
 10	ganet	ganet	?	_	_	_	_	_	Gloss=né
-11	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+11	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 12	ba'	ba'	?	_	_	_	_	_	Gloss=?
 13			PUNCT	_	_	_	_	Gloss=punct
-14	'	art	?	_	_	_	_	_	Gloss=un
+14	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 15	r	maner	nom	_	_	_	_	_	Gloss=manoir
 16	maner.	maner.	?	_	_	_	_	_	Gloss=?

@@ -6,14 +6,14 @@
 # source = M-L. B. (01/2016)
 # texttype = Élicitations
 1	Ki	ki	nom	_	_	_	_	_	Gloss=chien
-2	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	amezogez	amezeg	nom	_	_	_	_	_	Gloss=voisin
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	gac'hat	kaoc'h.-at	?.?	_	_	_	_	_	Gloss=merd.er
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	fleur	fleur	nom	_	_	_	_	_	Gloss=fleur
 11	bemus	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
 12	!	!	PUNCT	_	_	_	_	Gloss=punct

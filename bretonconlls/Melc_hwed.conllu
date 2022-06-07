@@ -4,12 +4,12 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	Frañs	Frañs	?	_	_	_	_	_	Gloss=France
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	zreb	debriñ	verbe	_	_	_	_	_	Gloss=mange
 8	melfed	melfed	?	_	_	_	_	_	Gloss=escargots
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -19,11 +19,11 @@
 # text_fr = 'En France on mange des escargots.'
 # source = Y. M. (04/2016)
 # texttype = Élicitations
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	Frans	Frans	?	_	_	_	_	_	Gloss=France
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	drebet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	drebet	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
 6	melc'hod	melc'hod	?	_	_	_	_	_	Gloss=escargots
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -33,10 +33,10 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	debet	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
-6	maligorn'	maligorn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=escargot.s
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	debet	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
+6	maligorn'	maligorn.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=escargot.s
 7	d.	d.	?	_	_	_	_	_	Gloss=?

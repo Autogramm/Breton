@@ -1,16 +1,18 @@
 # sent_id = Gros(1984:352)__1
 # text = Me am-oa kavet eur guzadenn bér en eur hleuz.
 # text_fr = 'J'avais trouvé une cachette de poires dans un talus.'
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	am-oa	am-oa	?	_	_	_	_	_	Gloss=R
-3	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-4	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
-5	guzadenn	kuzhat.-ad.-enn	verbe.?.nom	_	_	_	_	_	Gloss=caché.N.SG
-6	bér	per	nom	_	_	_	_	_	Gloss=poires|Morph=1
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	hleuz	kleuz	?	_	_	_	_	_	Gloss=talus|Morph=5
+3	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un|Mutation=trigger|MutationNUM=1
+5	guzadenn	kuzhat.-ad.-enn	verbe.suffixe|nom.suffixe|nom	_	_	_	_	_	Gloss=caché.N.SG
+6	bér	per	nom	_	_	_	_	_	Gloss=poires|Mutation=target|MutationNUM=1
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	hleuz	kleuz	nom	_	_	_	_	_	Gloss=talus|Mutation=target|MutationNUM=5
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = arGow(1999:18)__1
@@ -18,8 +20,8 @@
 # text_fr = 'les vols de crème.'
 # location = Pleyben
 # source = ar Gow (1999)
-1	al	art	?	_	_	_	_	_	Gloss=le
-2	laeroñsioù	laer.-où(PL.)	nom.?	_	_	_	_	_	Gloss=vol.s
+1	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	laeroñsioù	laer.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=vol.s
 3	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
 
 # sent_id = Drezen(1932:5)__1
@@ -27,17 +29,17 @@
 # text_fr = 'Il n'y avait dans la rue que moi, entre les maisons crème.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	nemedon	nemet.pronomincorporé	conjonction-adverbe-complémenteur.?	_	_	_	_	_	Gloss=seulement.moi
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	nemedon	nemet.pronom_incorporé	complémenteur|adverbe|conjonction.?	_	_	_	_	_	Gloss=seulement.moi
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	straed	straed	nom	_	_	_	_	_	Gloss=rue
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	etre	etre	préposition	_	_	_	_	_	Gloss=entre
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	tiez	ti.-e(z)(PL.)	nom.?	_	_	_	_	_	Gloss=maison.s
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	tiez	ti.-e(z)_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=maison.s
 10	liv	liv	nom	_	_	_	_	_	Gloss=couleur
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -52,6 +54,6 @@
 2	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 3	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
 4	am	am	?	_	_	_	_	_	Gloss=R
-5	eus	kaout	?	_	_	_	_	_	Gloss=ai
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+5	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir

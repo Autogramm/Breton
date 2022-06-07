@@ -4,12 +4,12 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
-1	Den	nomnu	nom	_	_	_	_	_	Gloss=humain
-2	ne	ne	?	_	_	_	_	_	Gloss=ne
-3	faotfe	faotan	?	_	_	_	_	_	Gloss=faudrait
-4	dehoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+1	Den	nom_nu	nom	_	_	_	_	_	Gloss=humain
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+3	faotfe	faotan	verbe	_	_	_	_	_	Gloss=faudrait
+4	dehoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 5	ewo	evañ	verbe	_	_	_	_	_	Gloss=boire
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 7	bleniañ	bleniañ	verbe	_	_	_	_	_	Gloss=conduire
 8	'	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
 9	sames.	sames.	?	_	_	_	_	_	Gloss=?
@@ -20,13 +20,13 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
-1	'	art	?	_	_	_	_	_	Gloss=le
-2	N	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	N	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 3	dud	dud	?	_	_	_	_	_	Gloss=?
-4	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+4	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5			PUNCT	_	_	_	_	Gloss=punct
-6	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+6	'	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=?
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 9	fur	fur	adjectif	_	_	_	_	_	Gloss=sage
 10	blenio	blenio	?	_	_	_	_	_	Gloss=conduire
@@ -38,11 +38,11 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
 2	rankchomp	rankout	verbe	_	_	_	_	_	Gloss=devrions
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kondui	konduiñ	verbe	_	_	_	_	_	Gloss=conduire
-5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-6	vezomp	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sommes
+5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+6	vezomp	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sommes
 7	meho	mezv	adjectif	_	_	_	_	_	Gloss=saoul
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

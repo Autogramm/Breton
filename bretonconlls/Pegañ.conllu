@@ -1,30 +1,33 @@
 # sent_id = (Gros1984:137)__2
 # text = An dostenn-ze, honnez a zo peg he hrohenn ouz he hein.
 # text_fr = 'Cette avare-là, celle-là a la peau collée au dos.'
-# source = Gros (1984)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	dostenn-ze	tost	adjectif	_	_	_	_	_	Gloss=près]].[[-enn|ée]]-[[DEM|là|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	dostenn-ze	tost	adjectif	_	_	_	_	_	Gloss=près]].[[-enn|ée]]-[[DEM|là|Mutation=target|MutationNUM=1
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	honnez	DEM	?	_	_	_	_	_	Gloss=celle.là
+4	honnez	DEM	pronom	_	_	_	_	_	Gloss=celle.là
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
 7	peg	peg	?	_	_	_	_	_	Gloss=collé
-8	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+8	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 9	hrohenn	kroc'hen	?	_	_	_	_	_	Gloss=peau
 10	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-11	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+11	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 12	hein	kein	nom	_	_	_	_	_	Gloss=dos
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moulleg(1978:31)__1
 # text = Diwall ! Peg mat e-barzh...
 # text_fr = 'Attention ! Cramponne-toi... '
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Diwall	Diwall	verbe	_	_	_	_	_	Gloss=[[diwall!|Attention
+1	Diwall	Diwall	verbe	_	_	_	_	_	Gloss=[[diwall_!|Attention
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Peg	Peg	?	_	_	_	_	_	Gloss=colle
-5	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-6	e-barzh..	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+5	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+6	e-barzh..	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dedans
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

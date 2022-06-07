@@ -1,11 +1,12 @@
 # sent_id = LeGall(1957:'il-')__1
 # text = Ilgostea a ra ar bern kolo.
 # text_fr = 'Le tas de paille penche légèrement.'
-# source = Le Gall (1957)
-1	Ilgostea	il-	?	_	_	_	_	_	Gloss=un.peu|Morph=1
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Ilgostea	il-	?	_	_	_	_	_	Gloss=un.peu|Mutation=trigger|MutationNUM=1
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 6	kolo	kolo	nom	_	_	_	_	_	Gloss=paille
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

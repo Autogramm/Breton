@@ -1,14 +1,15 @@
 # sent_id = Press(1986:210)__1
 # text = Int a zeuy pa roy mammig dezho arc'hant.
 # text_fr = 'Ils viendront quand maman leur donnera de l'argent.'
+# dialect = Standard
 # source = Press (1986)
 # texttype = Ouvrages de recherche
-1	Int	pfi	?	_	_	_	_	_	Gloss=eux
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Int	pfi	pronom	_	_	_	_	_	Gloss=eux
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	zeuy	dont	verbe	_	_	_	_	_	Gloss=viendra
-4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand/si|Morph=1
-5	roy	rein	?	_	_	_	_	_	Gloss=donnera
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand/si|Mutation=trigger|MutationNUM=1
+5	roy	rein	verbe	_	_	_	_	_	Gloss=donnera
 6	mammig	mammig	?	_	_	_	_	_	Gloss=maman
-7	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+7	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 8	arc'hant	arc'hant	?	_	_	_	_	_	Gloss=argent
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

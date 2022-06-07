@@ -4,33 +4,35 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	moh	moc'h	?	_	_	_	_	_	Gloss=cochons
-3	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-4	o-devoa	kaout	?	_	_	_	_	_	Gloss=avait
-5	eur	art	nom	_	_	_	_	_	Gloss=un
+3	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+4	o-devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	reun	reun	nom	_	_	_	_	_	Gloss=soies
 7	tano	tanav	adjectif	_	_	_	_	_	Gloss=fin
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-9	oa	COP	?	_	_	_	_	_	Gloss=était
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+9	oa	COP	verbe	_	_	_	_	_	Gloss=était
 10	êsoh	aes.-oc'h	adjectif.?	_	_	_	_	_	Gloss=facile.plus
-11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	werza	werza	?	_	_	_	_	_	Gloss=vendre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:391)__1
 # text = Ya, ma kav gwerz (/#gwerzidigez) d'e avalou!
 # text_fr = 'Oui, s'il trouve à vendre ses pommes (un débouché).'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Ya	Ya	interjection	_	_	_	_	_	Gloss=oui
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+3	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 4	kav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 5	gwerz	gwerz	nom	_	_	_	_	_	Gloss=vente
 6	(/#gwerzidigez)	(/#gwerzidigez)	?	_	_	_	_	_	Gloss=?
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-9	avalou	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+9	avalou	aval.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=pomme.s
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:37)__1
@@ -40,17 +42,17 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	eman	?	_	_	_	_	_	Gloss=sont
+1	'	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 2	Maint	Maint	?	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	??	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	??	particule_o	?	_	_	_	_	_	Gloss=à
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	'	'	?	_	_	_	_	_	Gloss=vendre
 8	werzhañ	werzhañ	?	_	_	_	_	_	Gloss=?
-9	'	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+9	'	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 10	nezhañ	nezhañ	?	_	_	_	_	_	Gloss=?
-11	gant	gant	?	_	_	_	_	_	Gloss=avec
+11	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 12	gouloù	gouloù	nom	_	_	_	_	_	Gloss=lumière
 13	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -60,12 +62,12 @@
 # dialect = Cornouaillais
 # source = Helias (1953)
 # texttype = Références de corpus
-1	Estr	estreget	préposition-quantifieur	_	_	_	_	_	Gloss=autre
-2	egedon	eget.pronomincorporé	complémenteur.?	_	_	_	_	_	Gloss=que.moi
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Estr	estreget	quantifieur|préposition	_	_	_	_	_	Gloss=autre
+2	egedon	eget.pronom_incorporé	complémenteur.?	_	_	_	_	_	Gloss=que.moi
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	gwerzet	gwerzet	?	_	_	_	_	_	Gloss=vendu
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	zell	sell	nom	_	_	_	_	_	Gloss=regard
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

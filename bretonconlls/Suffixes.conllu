@@ -1,19 +1,20 @@
 # sent_id = LeGall(1957:'barraoui')__1
 # text = Dond a ray an amzer, am-eus aon, da varraoui a-raog an noz.
 # text_fr = 'Je pense que le temps tournera à l'averse avant la nuit.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Dond	dont	verbe	_	_	_	_	_	Gloss=venir
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ray	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
-4	an	art	?	_	_	_	_	_	Gloss=le
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ray	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	am-eus	am-eus	?	_	_	_	_	_	Gloss=[[meusaon|je
+7	am-eus	am-eus	?	_	_	_	_	_	Gloss=[[meus_aon|je
 8	aon	aon	nom	_	_	_	_	_	Gloss=pense]]
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-11	varraoui	-où(PL.).-iñ	?.?	_	_	_	_	_	Gloss=s.er
-12	a-raog	araok	?	_	_	_	_	_	Gloss=avant
-13	an	art	?	_	_	_	_	_	Gloss=le
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+11	varraoui	-où_(PL.).-iñ	suffixe.verbe|suffixe	_	_	_	_	_	Gloss=s.er
+12	a-raog	araok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	noz	noz	nom	_	_	_	_	_	Gloss=nuit
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

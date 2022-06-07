@@ -4,12 +4,12 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	A-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=au.bout
+1	A-benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=au.bout
 2	dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	peze	kaout	?	_	_	_	_	_	Gloss=avais
-5	leun	leun	quantifieur-adjectif	_	_	_	_	_	Gloss=plein
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	peze	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
+5	leun	leun	quantifieur|adjectif	_	_	_	_	_	Gloss=plein
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	vicher	micher	nom	_	_	_	_	_	Gloss=métier
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,18 +20,18 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	'	'	?	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
 5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	'	incises	?	_	_	_	_	_	Gloss=dit-elle
 8	lar-hi,	lar-hi,	?	_	_	_	_	_	Gloss=?
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	zistrujañ	distruj	verbe	_	_	_	_	_	Gloss=détruire
-11	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-12	bourc'h	bourk	?	_	_	_	_	_	Gloss=bourg
+11	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+12	bourc'h	bourk	nom	_	_	_	_	_	Gloss=bourg
 13	Elien	Elien	?	_	_	_	_	_	Gloss=Elliant
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
 15	dija	dija	adverbe	_	_	_	_	_	Gloss=quasi
@@ -43,12 +43,12 @@
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
 1	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=des.fois
-2	viemp	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=serions
+2	viemp	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=serions
 3	pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	noz	noz	nom	_	_	_	_	_	Gloss=nuit
 6	dija	dija	adverbe	_	_	_	_	_	Gloss=presque
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	o	particule_o	?	_	_	_	_	_	Gloss=à
 8	tañsal	dañsal	verbe	_	_	_	_	_	Gloss=danser
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=des.fois

@@ -4,115 +4,99 @@
 # dialect = Léonard
 # source = M-L. B. (05/2018)
 # texttype = Élicitations
-1	Amelia	nompropre	?	_	_	_	_	_	Gloss=Amelia
+1	Amelia	nom_propre	?	_	_	_	_	_	Gloss=Amelia
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	zouchet	soñjal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pens.é
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c'huadur	krouadur	nom	_	_	_	_	_	Gloss=enfant|Morph=5
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	zouchet	soñjal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pens.é
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	c'huadur	krouadur	nom	_	_	_	_	_	Gloss=enfant|Mutation=target|MutationNUM=5
 7	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-8	neus	kaout	?	_	_	_	_	_	Gloss=a
+8	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 9	kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
-10	an	art	?	_	_	_	_	_	Gloss=le
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	alc'hwez	alc'hwez	?	_	_	_	_	_	Gloss=clef
-12	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+12	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard__1
 # text = Pamba a gar e gi.
 # text_fr = 'Pamba aime son chien.'
-1	Pamba	nompropre	?	_	_	_	_	_	Gloss=Pamba
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# source = M-L. B. (05/2018)
+1	Pamba	nom_propre	?	_	_	_	_	_	Gloss=Pamba
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gar	karout	verbe	_	_	_	_	_	Gloss=aime
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	gi	ki	nom	_	_	_	_	_	Gloss=chien
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard__1
 # text = E gi a gar Pamba.
 # text_fr = 'Son chien aime Pamba.'
-1	E	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+# source = M-L. B. (05/2018)
+1	E	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 2	gi	ki	nom	_	_	_	_	_	Gloss=chien
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	gar	karout	verbe	_	_	_	_	_	Gloss=aime
-5	Pamba	nompropre	?	_	_	_	_	_	Gloss=Pamba
+5	Pamba	nom_propre	?	_	_	_	_	_	Gloss=Pamba
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard__1
 # text = Karout a ra ki Pamba
 # text_fr = 'Il aime le chien de Pamba.'
+# source = M-L. B. (05/2018)
 1	Karout	karout	verbe	_	_	_	_	_	Gloss=aimer
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	ki	ki	nom	_	_	_	_	_	Gloss=chien
-5	Pamba	nompropre	?	_	_	_	_	_	Gloss=Pamba
+5	Pamba	nom_propre	?	_	_	_	_	_	Gloss=Pamba
 
 # sent_id = Hendrick(1990:125)__1
-# text = [ He zad ] a lavare din  [ ec'h ev Mona ].
+# text =  He zad ] a lavare din  [ ec'h ev Mona .
 # text_fr = 'Son père me disait que Mona' boit.'
 # source = Hendrick (1990)
 # texttype = Ouvrages de recherche
-1	[	[	?	_	_	_	_	_	Gloss=
-2	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-3	zad	tad	nom	_	_	_	_	_	Gloss=père
-4	]	]	?	_	_	_	_	_	Gloss=?
-5	a	a	préposition	_	_	_	_	_	Gloss=R
-6	lavare	lavarout	verbe	_	_	_	_	_	Gloss=disait
-7	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-8			PUNCT	_	_	_	_	Gloss=punct
-9	[	[	?	_	_	_	_	_	Gloss=?
-10	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
-11	ev	evañ	verbe	_	_	_	_	_	Gloss=boit
-12	Mona	Mona	?	_	_	_	_	_	Gloss=Mona
-13	].	].	?	_	_	_	_	_	Gloss=?
+1	??	??	?	_	_	_	_	_	Gloss=
+2	?	?	PUNCT	_	_	_	_	Gloss=punct
+3	He	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+4	zad	tad	nom	_	_	_	_	_	Gloss=père
+5	]	]	?	_	_	_	_	_	Gloss=?
+6	a	a	préposition	_	_	_	_	_	Gloss=R
+7	lavare	lavarout	verbe	_	_	_	_	_	Gloss=disait
+8	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+9			PUNCT	_	_	_	_	Gloss=punct
+10	[	[	?	_	_	_	_	_	Gloss=?
+11	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
+12	ev	evañ	verbe	_	_	_	_	_	Gloss=boit
+13	Mona	Mona	?	_	_	_	_	_	Gloss=Mona
+14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Hendrick(1990:124)__1
-# text = Ar verc'h [ he deus gwelet anezhañ ] a venne anavezout Per.
+# text = Ar verc'h he deus gwelet anezhañ ] a venne anavezout Per.
 # text_fr = 'La fille qui l'a vu voulait rencontrer Pierre'
 # source = Hendrick (1990)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	verc'h	merc'h	?	_	_	_	_	_	Gloss=fille|Morph=1
-3	[	[	?	_	_	_	_	_	Gloss=?
-4	anezhañ	a	préposition	_	_	_	_	_	Gloss=P.
-5	]	]	?	_	_	_	_	_	Gloss=?
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
-8	anavezout	anavezout	verbe	_	_	_	_	_	Gloss=connaître
-9	Per	nompropre	nom	_	_	_	_	_	Gloss=Pierre
-10	.	.	PUNCT	_	_	_	_	Gloss=punct
-
-# sent_id = Hendrick(1990:124)__1
-# text = Lavaret he deus [''e''] [ e oar Mona ar respont ].
-# text_fr = 'Elle a dit que Mona connaît la réponse.'
-# source = Hendrick (1990)
-# texttype = Ouvrages de recherche
-1	Lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
-2	he	he	?	_	_	_	_	_	Gloss=3SGF
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	['	['	?	_	_	_	_	_	Gloss=?
-5	'	'	?	_	_	_	_	_	Gloss=?
-6	e'	e'	?	_	_	_	_	_	Gloss=?
-7	'	'	?	_	_	_	_	_	Gloss=?
-8	]	]	?	_	_	_	_	_	Gloss=?
-9	[	[	?	_	_	_	_	_	Gloss=?
-10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-11	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-12	Mona	nompropre	?	_	_	_	_	_	Gloss=Mona
-13	ar	art	?	_	_	_	_	_	Gloss=le
-14	respont	respont	?	_	_	_	_	_	Gloss=réponse
-15	].	].	?	_	_	_	_	_	Gloss=?
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	verc'h	merc'h	?	_	_	_	_	_	Gloss=fille|Mutation=target|MutationNUM=1
+3	anezhañ	a	préposition	_	_	_	_	_	Gloss=P.
+4	]	]	?	_	_	_	_	_	Gloss=?
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
+7	anavezout	anavezout	verbe	_	_	_	_	_	Gloss=connaître
+8	Per	nom_propre	nom	_	_	_	_	_	Gloss=Pierre
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Dholuo,[http://ling.auf.net/lingBuzz/001091Cable(2010]:8)__1
 # text = Pamba ohero guoge
 # text_fr = 'Pamba aime son chien.'
-1	Pamba	nompropre	?	_	_	_	_	_	Gloss=Pamba
+# source = Hendrick (1990)
+1	Pamba	nom_propre	?	_	_	_	_	_	Gloss=Pamba
 2	ohero	ohero	?	_	_	_	_	_	Gloss=aime
 3	guoge	guoge	?	_	_	_	_	_	Gloss=chien.POSS.3SG
 
 # sent_id = Dholuo,[http://ling.auf.net/lingBuzz/001091Cable(2010]:8)__1
 # text = O-hero guog Pamba
 # text_fr = 'Il aime le chien de Pamba.'
+# source = Hendrick (1990)
 1	O-hero	O-hero	?	_	_	_	_	_	Gloss=il.aime
 2	guog	guog	?	_	_	_	_	_	Gloss=chien
 3	Pamba	Pamba	?	_	_	_	_	_	Gloss=Pamba
@@ -120,15 +104,17 @@
 # sent_id = Basque,R.Etxepare[c.p.,04.2015]__1
 # text = Pambak bere zakurra maite du.
 # text_fr = 'Pamba aime son chien.'
+# source = Hendrick (1990)
 1	Pambak	Pambak	?	_	_	_	_	_	Gloss=Pamba-ergatif
-2	bere	POSS	?	_	_	_	_	_	Gloss=son
+2	bere	POSS	déterminant	_	_	_	_	_	Gloss=son
 3	zakurra	zakurra	?	_	_	_	_	_	Gloss=chien.det.absolutif
 4	maite	maite	?	_	_	_	_	_	Gloss=aime
 
 # sent_id = Basque,R.Etxepare[c.p.,04.2015]__1
 # text = bere zakurrak Pamba maite du.
 # text_fr = 'Son chien aime Pamba.'
-1	bere	POSS	?	_	_	_	_	_	Gloss=son
+# source = Hendrick (1990)
+1	bere	POSS	déterminant	_	_	_	_	_	Gloss=son
 2	zakurrak	zakurrak	?	_	_	_	_	_	Gloss=chien.det.ergatif
 3	Pamba	Pamba	?	_	_	_	_	_	Gloss=Pamba-absolutif
 4	maite	maite	?	_	_	_	_	_	Gloss=aime
@@ -136,7 +122,8 @@
 # sent_id = Basque,R.Etxepare[c.p.,04.2015]__1
 # text = (Berak) Pamba-ren zakurra maite du.
 # text_fr = 'Il/elle aime le chien de Pamba.'
-1	(Berak)	pronomvide	?	_	_	_	_	_	Gloss=pro
+# source = Hendrick (1990)
+1	(Berak)	pronom_vide	?	_	_	_	_	_	Gloss=pro
 2	Pamba-ren	Pamba-ren	?	_	_	_	_	_	Gloss=Pamba-génitif
 3	zakurra	zakurra	?	_	_	_	_	_	Gloss=chien.det.absolutif
 4	maite	maite	?	_	_	_	_	_	Gloss=aime

@@ -4,15 +4,15 @@
 # source = Le Bozec (1933)
 # texttype = Ouvrages pédagogiques
 1	-	-	?	_	_	_	_	_	Gloss=-
-2	Pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+2	Pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=quel
 3	evn	evn	nom	_	_	_	_	_	Gloss=oiseau
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	c'hrougous	c'hrougous	?	_	_	_	_	_	Gloss=roucoule
 6			?	_	_	_	_	_	Gloss=?
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 8	-	-	?	_	_	_	_	_	Gloss=-
-9	Ar	art	?	_	_	_	_	_	Gloss=le
-10	goulm	koulm	nom	_	_	_	_	_	Gloss=pigeon|Morph=1
+9	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	goulm	koulm	nom	_	_	_	_	_	Gloss=pigeon|Mutation=target|MutationNUM=1
 
 # sent_id = Seite&Stéphan(1957:107)__1
 # text = gant an holl evned
@@ -20,21 +20,22 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-4	evned	-ed(PL.)	?	_	_	_	_	_	Gloss=x
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+4	evned	-ed_(PL.)	suffixe	_	_	_	_	_	Gloss=x
 
 # sent_id = Kervella(2002:48)__1
 # text = 'Mañ an ninig o tont !...
 # text_fr = 'Le petit oiseau va sortir !'
+# dialect = Standard
 # source = Kervella (2002)
 # texttype = Références de corpus
-1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 2	Mañ	Mañ	?	_	_	_	_	_	Gloss=?
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	ninig	ninig	?	_	_	_	_	_	Gloss=DIM
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	tont	dont	verbe	_	_	_	_	_	Gloss=venir
 7	!...	!...	?	_	_	_	_	_	Gloss=?
 
@@ -45,8 +46,8 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	Lausket	leuskel	verbe	_	_	_	_	_	Gloss=laissez
-2	en	art	complémenteur	_	_	_	_	_	Gloss=le
-3	ined	-ed(PL.)	?	_	_	_	_	_	Gloss=x
-4	de	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	dostat	tost.-aat	adjectif.verbe	_	_	_	_	_	Gloss=proch.er
+2	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	ined	-ed_(PL.)	suffixe	_	_	_	_	_	Gloss=x
+4	de	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	dostat	tost.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=proch.er
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

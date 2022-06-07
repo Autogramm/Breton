@@ -1,11 +1,13 @@
 # sent_id = (Gros1984:302)__1
 # text = Ar re-ze na vezont ket klañv kammed.
 # text_fr = 'Ceux-là ne sont jamais malades.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	na	na	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	vezont	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
 7	kammed	kammed	adverbe	_	_	_	_	_	Gloss=jamais
@@ -21,17 +23,17 @@
 1	Baling	onomatopée	?	_	_	_	_	_	Gloss=Baling
 2	Balom	onomatopée	?	_	_	_	_	_	Gloss=Balom
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
+4	Marrig	nom_propre	?	_	_	_	_	_	Gloss=Marrig
 5	zo	zo	?	_	_	_	_	_	Gloss=est
 6	klaoñv	klaoñv	?	_	_	_	_	_	Gloss=malade
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
-9	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+8	Marrig	nom_propre	?	_	_	_	_	_	Gloss=Marrig
+9	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10			PUNCT	_	_	_	_	Gloss=punct
 11	valeo	bale	verbe	_	_	_	_	_	Gloss=marchera
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
-13	Marrig	nompropre	?	_	_	_	_	_	Gloss=Marrig
-14	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+13	Marrig	nom_propre	?	_	_	_	_	_	Gloss=Marrig
+14	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 15	?	?	PUNCT	_	_	_	_	Gloss=punct
 16	bareo	pareañ	verbe	_	_	_	_	_	Gloss=guérira
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -44,9 +46,9 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Klañv	Klañv	adjectif	_	_	_	_	_	Gloss=malade
-2	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ma,	ma,	?	_	_	_	_	_	Gloss=?
-4	gwall-glañv	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
+4	gwall-glañv	gwall-	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	ziken	zoken	?	_	_	_	_	_	Gloss=même
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -57,11 +59,11 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oun	COP	?	_	_	_	_	_	Gloss=suis
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oun	COP	verbe	_	_	_	_	_	Gloss=suis
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
 5	defot	defot	préposition	_	_	_	_	_	Gloss=à.défaut.de
 6	mond	mont	verbe	_	_	_	_	_	Gloss=aller
-7	er-meaz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+7	er-meaz	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

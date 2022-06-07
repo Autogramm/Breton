@@ -1,0 +1,65 @@
+sent_id = Gros(1984:358)__4
+text = Ar paotr koz a ra laourassennoù runkunuz kenkoulz en ti evel er-mêz.
+text_fr =  'Le vieux lance de gros crachats dégoûtants, tant dans la maison que dehors.'
+1	Ar paotr	art	article	_	_	_	_	_	Gloss=le
+2	koz	kozh	adjectif	_	_	_	_	_	Gloss=vieux
+3	a ra	[[R]] [[ober|fait]]	?	_	_	_	_	_	Gloss=[[R]] [[ober|fait]]
+4	laourassennoù	-as.-enn.-où (PL.)	nom.nom.nom	_	_	_	_	_	Gloss=sfx.1.PL
+5	runkunuz	-uz	adjectif	_	_	_	_	_	Gloss=Adj
+6	kenkoulz	kenkoulz	adjectif	_	_	_	_	_	Gloss=autant
+7	en	P.e.art	préposition.article	_	_	_	_	_	Gloss=en.le
+8	ti	ti	nom	_	_	_	_	_	Gloss=maison
+9	evel	evel	préposition	_	_	_	_	_	Gloss=comme
+10	er-mêz	er-maez	préposition	_	_	_	_	_	Gloss=dehors
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = ArBorgn(2011:26)__1
+text = Pa vehe gwraet loeroù get gargouilhennoù ar baotred, ne vankahe ket james!
+text_fr =  'Si l'on faisait des chaussettes avec le gosier des hommes, il n'en manquerait jamais!' 
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand
+2	vehe	COP	copule	_	_	_	_	_	Gloss=serait
+3	gwraet	ober	verbe	_	_	_	_	_	Gloss=fait
+4	loeroù	loer.-où (PL.)	nom.nom	_	_	_	_	_	Gloss=chaussette.s
+5	get	gant	préposition	_	_	_	_	_	Gloss=avec
+6	gargouilhennoù	gargouilhennoù	?	_	_	_	_	_	Gloss=gosiers
+7	ar baotred	art.paotr.-ed (PL.)	article.nom.nom	_	_	_	_	_	Gloss=le.homme.s
+8	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+9	ne	[[ne]]_[[1]]	complémenteur	_	_	_	_	_	Gloss=[[ne]]_[[1]]
+10	vankahe	mankout	verbe	_	_	_	_	_	Gloss=manquerait
+11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+12	james	james	adverbe	_	_	_	_	_	Gloss=jamais
+13	!	!	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Riou(1941:125)__1
+text = Penevet da andouilhennoù, ne vije ket bet c'hoaz echu ar brezel.
+text_fr =  'Sans tes andouilles, la guerre ne serait pas finie.'
+1	Penevet	paneve	préposition	_	_	_	_	_	Gloss=si.ce.n'est
+2	da	da	préposition	_	_	_	_	_	Gloss=ton
+3	andouilhennoù	-où (PL.)	nom	_	_	_	_	_	Gloss=s
+4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+5	ne vije	[[ne]]_[[1]] [[COP|serait]]	?	_	_	_	_	_	Gloss=[[ne]]_[[1]] [[COP|serait]]
+6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+7	bet	bet	verbe	_	_	_	_	_	Gloss=été
+8	c'hoaz	c'hoazh	adverbe	_	_	_	_	_	Gloss=encore
+9	echu	echu	verbe	_	_	_	_	_	Gloss=fini
+10	ar brezel	art	article	_	_	_	_	_	Gloss=le
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Kervella(1947:§338)__1
+text = un nebeut koumoul = koumoulennoù = ur goumoulenn bennak
+text_fr =  'des nuages, un peu de nuages, quelque nuage.'
+1	un nebeut	art	article	_	_	_	_	_	Gloss=un
+2	koumoul	koumoul	nom	_	_	_	_	_	Gloss=nuages
+3	=	=	?	_	_	_	_	_	Gloss=
+4	koumoulennoù	koumoul	nom	_	_	_	_	_	Gloss=nuages
+5	=	=	?	_	_	_	_	_	Gloss=
+6	ur goumoulenn	art	article	_	_	_	_	_	Gloss=un
+7	bennak	bennak	adjectif	_	_	_	_	_	Gloss=quelque/quelconque
+
+sent_id = Drezen(1932:9)__1
+text = o tarlipat enezennoù diniverus
+text_fr = 'en léchouillant d'innombrables îles.'
+1	o	particule o	verbe	_	_	_	_	_	Gloss=à
+2	tarlipat	tar-.lipat	préposition.verbe	_	_	_	_	_	Gloss=pfx.lécher
+3	enezennoù	enez.nom collectif.-enn.-où (PL.)	nom.nom.nom.nom	_	_	_	_	_	Gloss=île.s.1.s
+4	diniverus	di-	nom	_	_	_	_	_	Gloss=in

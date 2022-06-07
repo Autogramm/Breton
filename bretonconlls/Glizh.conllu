@@ -1,10 +1,10 @@
-# sent_id =  citant Drezen__1
+# sent_id = citantDrezen__1
 # text = Gléb-gliz eo ar geot.
 # text_fr = 'L'herbe est trempée de rosée.'
 # source2 = Seite & Stéphan (1957:145)
 1	Gléb-gliz	gleb	adjectif	_	_	_	_	_	Gloss=mouillé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ar	art	?	_	_	_	_	_	Gloss=le
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	geot	geot	nom	_	_	_	_	_	Gloss=herbe
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -13,27 +13,29 @@
 # text_fr = 'Quand j'étais à faire paître les vaches dans les champs du Bugn.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vijen	COP	?	_	_	_	_	_	Gloss=serais
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-4	c'hlizennañ	-enn.-añ(V.)	nom.?	_	_	_	_	_	Gloss=SG.er
-5	ar	art	?	_	_	_	_	_	Gloss=le
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vijen	COP	verbe	_	_	_	_	_	Gloss=serais
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
+4	c'hlizennañ	-enn.-añ_(V.)	suffixe|nom.verbe|suffixe	_	_	_	_	_	Gloss=SG.er
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	saout	saout	nom	_	_	_	_	_	Gloss=vaches
-7	e	P.e	?	_	_	_	_	_	Gloss=en
-8	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	Bugn..	nompropre	?	_	_	_	_	_	Gloss=Bugn
+7	e	P.e	préposition	_	_	_	_	_	Gloss=en
+8	parkeier	park.-eier	nom.suffixe	_	_	_	_	_	Gloss=champ.s
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	Bugn..	nom_propre	?	_	_	_	_	_	Gloss=Bugn
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:358)__3
 # text = Glizata a raio hirio e-pad an deiz.
 # text_fr = 'Il bruinera aujourd'hui pendant la journée.'
-# source = Gros (1984)
-1	Glizata	-ad.-a	?.verbe	_	_	_	_	_	Gloss=ée.er
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Glizata	-ad.-a	suffixe|nom.verbe|suffixe	_	_	_	_	_	Gloss=ée.er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+3	raio	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
 4	hirio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
 5	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

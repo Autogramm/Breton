@@ -4,35 +4,37 @@
 # dialect = Cornouaillais
 # source = German (2007)
 # texttype = Ouvrages de recherche
-1	Ba'	P.e	?	_	_	_	_	_	Gloss=en
-2	n	art	?	_	_	_	_	_	Gloss=le
+1	Ba'	P.e	préposition	_	_	_	_	_	Gloss=en
+2	n	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-4	oan	COP	nom	_	_	_	_	_	Gloss=étais
+4	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 5	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
-6	vi	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+6	vi	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	kas	kas	verbe	_	_	_	_	_	Gloss=envoyé
-9	'	IMP	?	_	_	_	_	_	Gloss=on
+9	'	IMP	pronom	_	_	_	_	_	Gloss=on
 10	nenn	nenn	?	_	_	_	_	_	Gloss=?
-11	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-12	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-13	ar	art	?	_	_	_	_	_	Gloss=le
+11	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+12	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	skol	skol	nom	_	_	_	_	_	Gloss=école
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:176)__8
 # text = Me am-eus c'hoant da lavared penaoz ema ar wirionez gant ar skolaer !
 # text_fr = 'Moi, j'ai envie de dire que la vérité est avec l'instituteur.
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	c'hoant	kaout	?	_	_	_	_	_	Gloss=envie
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	c'hoant	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=envie
 3	da	da	préposition	_	_	_	_	_	Gloss=de
 4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	penaoz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-6	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	skolaer	-aer	?	_	_	_	_	_	Gloss=eur
+5	penaoz	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=que
+6	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Mutation=target|MutationNUM=1
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	skolaer	-aer	nom	_	_	_	_	_	Gloss=eur
 12	!	!	PUNCT	_	_	_	_	Gloss=punct

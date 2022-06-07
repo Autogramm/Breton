@@ -5,8 +5,8 @@
 # source = Ar Scao (1945)
 # texttype = Ouvrages de recherche
 1	brégo	prezeg	verbe	_	_	_	_	_	Gloss=parlerai
-2	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-3	o	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+2	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+3	o	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 4	tad	tad	nom	_	_	_	_	_	Gloss=père
 5	var	var	?	_	_	_	_	_	Gloss=sur.encore
 6	hoas.	hoas.	?	_	_	_	_	_	Gloss=?
@@ -18,12 +18,12 @@
 # location = Sarzeau
 # source = Ernault (1876-1878)
 # texttype = Ouvrages de recherche
-1	mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+1	mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	fôt	faotañ	verbe	_	_	_	_	_	Gloss=faut
-3	t'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	t'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	iac'h	iac'h	?	_	_	_	_	_	Gloss=?
 5	dorneiñ	dornañ	verbe	_	_	_	_	_	Gloss=battre
-6	men	POSS	?	_	_	_	_	_	Gloss=mon
+6	men	POSS	déterminant	_	_	_	_	_	Gloss=mon
 7	gunaic'h	gwinizh	nom	_	_	_	_	_	Gloss=blé
 8	arhoac'h	arhoac'h	?	_	_	_	_	_	Gloss=demain
 
@@ -33,11 +33,11 @@
 # dialect = Léonard
 # source = Fave (1998)
 # texttype = Ouvrages de recherche
-1	Neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-2	e	e	?	_	_	_	_	_	Gloss=R
+1	Neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	soñjas	soñjal	verbe	_	_	_	_	_	Gloss=pensa
-4	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	he-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	walc'hiñ	gwalc'hiñ	?	_	_	_	_	_	Gloss=laver
 7	warhoaz	warhoaz	?	_	_	_	_	_	Gloss=demain
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

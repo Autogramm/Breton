@@ -14,7 +14,7 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/məŋ	POSS	?	_	_	_	_	_	Gloss=mon
+1	/məŋ	POSS	déterminant	_	_	_	_	_	Gloss=mon
 2	gažd	gažd	?	_	_	_	_	_	Gloss=putain
-3	verx	merc'h	?	_	_	_	_	_	Gloss=fille|Morph=1
+3	verx	merc'h	?	_	_	_	_	_	Gloss=fille|Mutation=target|MutationNUM=1
 4	/	/	PUNCT	_	_	_	_	Gloss=punct

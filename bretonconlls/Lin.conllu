@@ -4,24 +4,26 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	gand	gant	?	_	_	_	_	_	Gloss=avec
-2	al	art	?	_	_	_	_	_	Gloss=le
+1	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	lin	lin	nom	_	_	_	_	_	Gloss=lin
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 6	plantet	plantañ	verbe	_	_	_	_	_	Gloss=planté
-7	an-unan	art	?	_	_	_	_	_	Gloss=le
-8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	an-unan	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	prajou	prad	nom	_	_	_	_	_	Gloss=champs
 
 # sent_id = Gros(1984:348)__2
 # text = Hirio ema an dennadeg lin eno.
 # text_fr = 'Aujourd'hui, a lieu l'arrachage du lin chez eux.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Hirio	hiziv	adverbe	_	_	_	_	_	Gloss=aujourd'@hui
-2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	dennadeg	tennañ	verbe	_	_	_	_	_	Gloss=tir]].[[-adeg|Morph=1
+2	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	dennadeg	tennañ	verbe	_	_	_	_	_	Gloss=tir]].[[-adeg|Mutation=target|MutationNUM=1
 5	lin	lin	nom	_	_	_	_	_	Gloss=lin
-6	eno	eno	?	_	_	_	_	_	Gloss=y
+6	eno	eno	adverbe	_	_	_	_	_	Gloss=y
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

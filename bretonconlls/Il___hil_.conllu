@@ -1,25 +1,27 @@
 # sent_id = LeGall(1957:'il-')__1
 # text = Ilgostea a ra ar bern kolo.
 # text_fr = 'Le tas de paille penche légèrement.'
-# source = Le Gall (1957)
-1	Ilgostea	Ilgostea.kostez.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=1.côté.er
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Ilgostea	Ilgostea.kostez.-añ_(V.)	?.nom.verbe|suffixe	_	_	_	_	_	Gloss=1.côté.er
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 6	kolo	kolo	nom	_	_	_	_	_	Gloss=paille
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'il-')__1
 # text = Un tammig ildrec'h a zo gant an hent.
 # text_fr = 'La route marque une petite côte.'
-# source = Le Gall (1957)
-1	Un	art	?	_	_	_	_	_	Gloss=un
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	tammig	tamm.tammig	quantifieur.?	_	_	_	_	_	Gloss=morceau.DIM
 3	ildrec'h	ildrec'h	?	_	_	_	_	_	Gloss=1
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	an	art	?	_	_	_	_	_	Gloss=le
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	hent	hent	nom	_	_	_	_	_	Gloss=route
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

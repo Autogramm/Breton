@@ -1,29 +1,31 @@
 # sent_id = Standard,Kerrain(2001)__1
 # text = N’eus netra vat en ti-mañ.
 # text_fr = 'Rien n'est bien dans cette maison.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 2	vat	vat	?	_	_	_	_	_	Gloss=1
-3	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Constantius(1900:388)__1
 # text = Na vir ket na rai vad neb a hell he ober.
 # text_fr = 'N'empêche point de faire le bien celui qui le peut.'
-# source = Constantius (1900)
-1	Na	Na	?	_	_	_	_	_	Gloss=ne|Morph=1
+# source = Constantius (1899)
+# texttype = Ouvrages pédagogiques
+1	Na	Na	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vir	mirout	verbe	_	_	_	_	_	Gloss=empêche
-3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	ket	ket	adverbe	_	_	_	_	_	Gloss=_pas
 4	na	na	?	_	_	_	_	_	Gloss=ne
-5	rai	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
+5	rai	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
 6	vad	vad	?	_	_	_	_	_	Gloss=1
-7	neb	nep	quantifieur-déterminant	_	_	_	_	_	Gloss=qui
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	neb	nep	déterminant|quantifieur	_	_	_	_	_	Gloss=qui
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 9	hell	gallout	verbe	_	_	_	_	_	Gloss=peut
-10	he	POP	?	_	_	_	_	_	Gloss=le|Morph=2
-11	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+10	he	POP	pronom	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=2
+11	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fagon&Riou(2015:'bara')__1
@@ -35,11 +37,11 @@
 1	amann	amann	nom	_	_	_	_	_	Gloss=beurre
 2	yen	yen	adjectif	_	_	_	_	_	Gloss=froid
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 5	vat	vat	?	_	_	_	_	_	Gloss=1
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	galon	kalon	nom	_	_	_	_	_	Gloss=coeur
-8	an	IMP	?	_	_	_	_	_	Gloss=on
+8	an	IMP	pronom	_	_	_	_	_	Gloss=on
 9	den.	den.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Stephens(1982:88)__1
@@ -48,12 +50,12 @@
 # source = Stephens (1982)
 # texttype = Ouvrages de recherche
 1	Gwelloc'h	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
-2	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+2	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 3	fur	fur	adjectif	_	_	_	_	_	Gloss=sage
-4	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-5	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
-6	madoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+5	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+6	madoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+7	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Konan(2017:'braz')__1
@@ -64,36 +66,38 @@
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 4	paieañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	mad	mad	?	_	_	_	_	_	Gloss=bien
-7	hag	&	?	_	_	_	_	_	Gloss=et
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	mad	mad	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+7	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër,H.Gaudart(c.p.)__1
 # text = Me 'zo o kas kaout madigoù.
 # text_fr = 'J'ai envie de bonbons.'
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+# source = Konan (2017)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
 5	kas	kas	verbe	_	_	_	_	_	Gloss=chercher
-6	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+6	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 7	madigoù	madigoù	?	_	_	_	_	_	Gloss=bonbons
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:7)__4
 # text = Ma, aet eo kuit !
 # text_fr = 'Bon le voilà parti !'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Ma	Ma!	complémenteur	_	_	_	_	_	Gloss=bon
+1	Ma	Ma_!	interjection	_	_	_	_	_	Gloss=bon
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 6	!	!	PUNCT	_	_	_	_	Gloss=punct

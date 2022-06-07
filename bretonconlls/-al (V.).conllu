@@ -1,0 +1,50 @@
+sent_id = Herri(1982:12)__1
+text = kent antreal er c'hlas
+text_fr =  'avant d'entrer en classe'
+1	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
+2	antreal	antreal	verbe	_	_	_	_	_	Gloss=entr.er
+3	er	P.e.art	préposition.article	_	_	_	_	_	Gloss=en.le
+4	c'hlas	_[[5]]classe	?	_	_	_	_	_	Gloss=_[[5]]classe
+
+sent_id = Vannetais,LeBayon(1878)__1
+text = É oen é choñjal get-n-eign me unañ...
+text_fr =  'Je songeais en moi-même.'
+1	É oen	É oen	?	_	_	_	_	_	Gloss=E oan
+2	é choñjal	é choñjal	?	_	_	_	_	_	Gloss=o soñjal
+3	get-n-eign	get-n-eign	?	_	_	_	_	_	Gloss=ganin
+4	me unañ..	me unañ..	?	_	_	_	_	_	Gloss=ma-unan...
+5	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Herri(1982:75)__1
+text = An Itron a zirollas d'e dabutal.
+text_fr =  'La patronne a commencé à l'engueuler.'
+1	An Itron	art	article	_	_	_	_	_	Gloss=le
+2	a	[[R]]_[[1]]	préposition	_	_	_	_	_	Gloss=[[R]]_[[1]]
+3	zirollas	diroll	verbe	_	_	_	_	_	Gloss=commença
+4	d'	d'	?	_	_	_	_	_	Gloss=da|de
+5	e	POP	nom	_	_	_	_	_	Gloss=le
+6	dabutal	tabutal	?	_	_	_	_	_	Gloss=engueuler
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Herri(1982:90)__1
+text = Kroget on da vlejal evel ul leue.
+text_fr =  'J'ai commencé à beugler comme un veau.'
+1	Kroget	kregiñ	verbe	_	_	_	_	_	Gloss=commencé
+2	on	COP	copule	_	_	_	_	_	Gloss=suis
+3	da	da	préposition	_	_	_	_	_	Gloss=de
+4	vlejal	blejal	verbe	_	_	_	_	_	Gloss=beugler
+5	evel	evel	préposition	_	_	_	_	_	Gloss=comme
+6	ul leue	art	article	_	_	_	_	_	Gloss=un
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = ArGow(1999:19)__1
+text = Met a-raok tamall den ebet da laerezh ho tanvez-amann....
+text_fr =  'Mais avant d'accuser quiconque de voler votre crème...' 
+1	Met a-raok	met	conjonction	_	_	_	_	_	Gloss=mais
+2	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
+3	den	nom nu	nom	_	_	_	_	_	Gloss=homme
+4	ebet	ebet	nom	_	_	_	_	_	Gloss=aucun
+5	da laerezh	da	préposition	_	_	_	_	_	Gloss=de
+6	ho	POSS	nom	_	_	_	_	_	Gloss=votre
+7	tanvez-amann...	danvez	nom	_	_	_	_	_	Gloss=matière
+8	.	.	PUNCT	_	_	_	_	_	Gloss=punct

@@ -4,16 +4,16 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 2	teue	dont	verbe	_	_	_	_	_	Gloss=venait
-3	eun	art	?	_	_	_	_	_	Gloss=un
+3	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	aneval	aneval	nom	_	_	_	_	_	Gloss=animal
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	vankoud	mankout	verbe	_	_	_	_	_	Gloss=manquer
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	ranked	rankout	verbe	_	_	_	_	_	Gloss=devait
 9	hebdale	hep.dale	préposition.nom	_	_	_	_	_	Gloss=sans.retard
 10	prena	prenañ	verbe	_	_	_	_	_	Gloss=acheter
-11	eun	art	?	_	_	_	_	_	Gloss=un
-12	all	all	?	_	_	_	_	_	Gloss=autre
+11	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+12	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

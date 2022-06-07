@@ -6,9 +6,9 @@
 # texttype = Ouvrages de recherche
 1	Emberr	Emberr	adverbe	_	_	_	_	_	Gloss=ce.soir
 2	az-po	az-po	?	_	_	_	_	_	Gloss=R
-3	eul	art	?	_	_	_	_	_	Gloss=un
+3	eul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	lard	lard	?	_	_	_	_	_	Gloss=graisse
 5	digand	digant	préposition	_	_	_	_	_	Gloss=de
-6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+6	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 7	dad	tad	nom	_	_	_	_	_	Gloss=père
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

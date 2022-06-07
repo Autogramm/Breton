@@ -1,12 +1,13 @@
 # sent_id = Kervella(2001:22)__1
 # text = 'Maint o tont war-gaout amañ.
 # text_fr = 'Ils viennent par ici.'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+1	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 2	Maint	Maint	?	_	_	_	_	_	Gloss=?
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	tont	dont	verbe	_	_	_	_	_	Gloss=venir
 5	war-gaout	war	préposition	_	_	_	_	_	Gloss=sur
-6	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+6	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

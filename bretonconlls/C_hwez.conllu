@@ -1,10 +1,12 @@
 # sent_id = Gros(1989:73)__1
 # text = Me a zo dourc'hwez toud.
 # text_fr = 'Je suis baigné de sueur.'
-# source = Gros (1989)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	dourc'hwez	dour	nom	_	_	_	_	_	Gloss=eau
-5	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+5	toud	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

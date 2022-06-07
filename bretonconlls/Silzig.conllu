@@ -3,21 +3,21 @@
 # text_fr = 'Celles-ci sont faites comme les autres saucisses sauf qu'on met la viande à plat.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	Evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	silzig	silzig	nom	_	_	_	_	_	Gloss=saucisse
-4	arall	all	?	_	_	_	_	_	Gloss=autre
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	re-mañ	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-10	salv	salv	adjectif-complémenteur	_	_	_	_	_	Gloss=sauf
-11	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-12	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-13	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	c'hig	kig	nom	_	_	_	_	_	Gloss=viande|Morph=5
-16	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+4	arall	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	re-mañ	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+10	salv	salv	complémenteur|adjectif	_	_	_	_	_	Gloss=sauf
+11	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+12	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+13	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	c'hig	kig	nom	_	_	_	_	_	Gloss=viande|Mutation=target|MutationNUM=5
+16	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 17	blad	plad	nom	_	_	_	_	_	Gloss=plat
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

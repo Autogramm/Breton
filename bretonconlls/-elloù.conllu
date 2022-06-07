@@ -1,0 +1,13 @@
+sent_id = Louis(2015:106)__1
+text = Karget eo ar fozelloù get ar glav en deus kouezhet a-c’houde dec’h.
+text_fr =  'La pluie qui est tombée depuis hier a rempli les fossés.' 
+1	Karget	kargañ	verbe	_	_	_	_	_	Gloss=chargé
+2	eo	COP	copule	_	_	_	_	_	Gloss=est
+3	ar fozelloù	art	article	_	_	_	_	_	Gloss=le
+4	get	gant	préposition	_	_	_	_	_	Gloss=avec
+5	ar glav	art	article	_	_	_	_	_	Gloss=le
+6	en deus	kaout	verbe	_	_	_	_	_	Gloss=a
+7	kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
+8	a-c’houde	a-c'houde	adverbe	_	_	_	_	_	Gloss=depuis
+9	dec’h	dec'h	adverbe	_	_	_	_	_	Gloss=hier
+10	.	.	PUNCT	_	_	_	_	_	Gloss=punct

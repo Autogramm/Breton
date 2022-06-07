@@ -9,12 +9,12 @@
 5	??	??	?	_	_	_	_	_	Gloss=]
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 7	o	o	?	_	_	_	_	_	Gloss=3PL
-8	deus	kaout	?	_	_	_	_	_	Gloss=a
+8	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 9	_	_	?	_	_	_	_	_	Gloss=
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	c'hazetennoù	kazetenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x|Morph=5
-12	eus	eus	?	_	_	_	_	_	Gloss=de
-13	Solzenitsyn	nompropre	?	_	_	_	_	_	Gloss=Soljenisyn
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	c'hazetennoù	kazetenn	nom	_	_	_	_	_	Gloss=journal]].[[-où_(PL.)|x|Mutation=target|MutationNUM=5
+12	eus	eus	préposition	_	_	_	_	_	Gloss=de
+13	Solzenitsyn	nom_propre	?	_	_	_	_	_	Gloss=Soljenisyn
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBarzhig(1976:34)__1
@@ -23,16 +23,16 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	Marteze	marteze	?	_	_	_	_	_	Gloss=peut.être
+1	Marteze	marteze	adverbe	_	_	_	_	_	Gloss=peut.être
 2	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
 4	he	he	?	_	_	_	_	_	Gloss=3SGF
 5	doa	doa	?	_	_	_	_	_	Gloss=avait
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	klasket	klasket	?	_	_	_	_	_	Gloss=cherché
-8	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
-9	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-10	war	war	?	_	_	_	_	_	Gloss=sur
-11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+8	Matriona	nom_propre	?	_	_	_	_	_	Gloss=Matriona
+9	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+10	war	war	préposition	_	_	_	_	_	Gloss=sur
+11	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 12	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=suite
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -3,20 +3,21 @@
 # text_fr = 'avec des raisins et du jaune d’œuf dans la pâte'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	rezin	rezin	nom	_	_	_	_	_	Gloss=raisins
-3	ha	&	?	_	_	_	_	_	Gloss=et
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 4	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
-5	vi	vi	?	_	_	_	_	_	Gloss=œuf
-6	mesklet	mesklañ	?	_	_	_	_	_	Gloss=mélangé
-7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	vi	vi	nom	_	_	_	_	_	Gloss=œuf
+6	mesklet	mesklañ	verbe	_	_	_	_	_	Gloss=mélangé
+7	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	toaz	toaz	nom	_	_	_	_	_	Gloss=pâte
 
 # sent_id = Standard,Kerrain(2001),Menard&Bihan(2016-)__1
 # text = lakaat an toaz e go
 # text_fr = 'faire lever la pâte'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-2	e	P.e	?	_	_	_	_	_	Gloss=en
+2	e	P.e	préposition	_	_	_	_	_	Gloss=en
 3	go	go	?	_	_	_	_	_	Gloss=pâte.levée

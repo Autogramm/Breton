@@ -1,12 +1,13 @@
 # sent_id = Denez&al.(2009:78)__1
 # text = Ha mard afemp d'ar preti ?
 # text_fr = 'Et si nous allions au restaurant ?'
+# dialect = Standard
 # source = Denez & al. (2009)
 # texttype = Ouvrages pédagogiques
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	mard	mard	?	_	_	_	_	_	Gloss=si
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	mard	mard	complémenteur	_	_	_	_	_	Gloss=si
 3	afemp	mont	verbe	_	_	_	_	_	Gloss=allions
-4	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	ar	art	?	_	_	_	_	_	Gloss=le
+4	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	preti	ti	nom	_	_	_	_	_	Gloss=maison
 7	?	?	PUNCT	_	_	_	_	Gloss=punct

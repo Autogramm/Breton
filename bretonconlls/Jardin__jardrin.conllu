@@ -1,42 +1,47 @@
 # sent_id = Léon(Plougerneau),M-L.B(10/2018)__1
 # text = E noa ket a vugale barzh ar jardin.
 # text_fr = 'Il n'y avait pas d’enfants dans le jardin.'
+# dialect = Léonard
 # location = Plougerneau
-# source = M-L.B (10/2018)
-1	E	E	?	_	_	_	_	_	Gloss=R
-2	noa	kaout	?	_	_	_	_	_	Gloss=avait
+# source = M-L. B. (10/2018)
+# texttype = Élicitations
+1	E	E	verbe	_	_	_	_	_	Gloss=R
+2	noa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	vugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
-6	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	jardin	jardin	?	_	_	_	_	_	Gloss=jardin
+4	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	vugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
+6	barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	jardin	jardin	nom	_	_	_	_	_	Gloss=jardin
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Yekel(2016:'[http://brezhonegbrovear.bzh/yezhadur.php?pajenn=goulenn_nachgoulennnac'h]')__1
 # text = Arozet e vez ar jardin.
 # text_fr = 'On arrose le jardin'
+# dialect = Trégorrois
 # location = Bégard
-# source = Yekel (2016)
+# source = Yekel, Georgelin & Ar C'hozh (2015-)
+# texttype = Ouvrages de recherche
 1	Arozet	Arozet	?	_	_	_	_	_	Gloss=arrosé
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	jardin	jardin	?	_	_	_	_	_	Gloss=jardin
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	jardin	jardin	nom	_	_	_	_	_	Gloss=jardin
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  collecté par B. Allaire, [http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.html dico parlants 2018]  __1
+# sent_id = collectéparB.Allaire,[http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.htmldicoparlants2018]__1
 # text = Ha mi zo oeïd déh ir jardreingn, heï 'laré...
 # text_fr = 'Et je suis allée hier au jardin, elle me disait... '
 # source2 =  Vannetais (Riantec), RJ.,
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	mi	pfi	?	_	_	_	_	_	Gloss=moi
+# source = Yekel, Georgelin & Ar C'hozh (2015-)
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	mi	pfi	pronom	_	_	_	_	_	Gloss=moi
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	oeïd	mont	verbe	_	_	_	_	_	Gloss=allé
 5	déh	dec'h	?	_	_	_	_	_	Gloss=hier
-6	ir	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-7	jardreingn	jardreingn	?	_	_	_	_	_	Gloss=jardin
+6	ir	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+7	jardreingn	jardreingn	nom	_	_	_	_	_	Gloss=jardin
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	heï	pfi	?	_	_	_	_	_	Gloss=elle
+9	heï	pfi	pronom	_	_	_	_	_	Gloss=elle
 10	'	lavarout	verbe	_	_	_	_	_	Gloss=disait
 11	laré...	laré...	?	_	_	_	_	_	Gloss=?

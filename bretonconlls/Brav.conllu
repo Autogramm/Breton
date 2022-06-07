@@ -5,34 +5,36 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	E-skoaz	e-skoaz	préposition-complémenteur	_	_	_	_	_	Gloss=alors.que
-2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-3	veze	COP	?	_	_	_	_	_	Gloss=était
-4	sklaer	sklaer	adverbe-adjectif	_	_	_	_	_	Gloss=clair
-5	ar	art	?	_	_	_	_	_	Gloss=le
+1	E-skoaz	e-skoaz	complémenteur|préposition	_	_	_	_	_	Gloss=alors.que
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+3	veze	COP	verbe	_	_	_	_	_	Gloss=était
+4	sklaer	sklaer	adverbe|adjectif	_	_	_	_	_	Gloss=clair
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	mor	mor	nom	_	_	_	_	_	Gloss=mer
-7	ha	&	?	_	_	_	_	_	Gloss=et
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 8	kalm	kalm	adjectif	_	_	_	_	_	Gloss=calme
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 11	weles	gwelout	verbe	_	_	_	_	_	Gloss=vois
-12	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-13	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+12	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+13	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:17)__1
 # text = yoc'hoù gwinizh paket brav ha goloet get un doenn pintet.
 # text_fr = 'des tas de blé emballés soigneusement et recouverts d'un toit sur le dessus.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	yoc'hoù	yoc'h	?	_	_	_	_	_	Gloss=tas
 2	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
 3	paket	pakañ	verbe	_	_	_	_	_	Gloss=emballé
-4	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	ha	&	?	_	_	_	_	_	Gloss=et
+4	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	goloet	goloiñ	adverbe	_	_	_	_	_	Gloss=recouvert
-7	get	gant	?	_	_	_	_	_	Gloss=avec
-8	un	art	?	_	_	_	_	_	Gloss=un
-9	doenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
+7	get	gant	préposition	_	_	_	_	_	Gloss=avec
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	doenn	toenn	nom	_	_	_	_	_	Gloss=toit|Mutation=target|MutationNUM=1
 10	pintet	pintet	?	_	_	_	_	_	Gloss=juché
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -41,12 +43,12 @@
 # text_fr = 'Tous les animaux domestiques sont pomponnés.'
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	Holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-2	al	art	?	_	_	_	_	_	Gloss=le
-3	loened-ti	loen.-ed(PL.).ti	nom.?.nom	_	_	_	_	_	Gloss=animau.x.maison
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-7	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-8	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+1	Holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	loened-ti	loen.-ed_(PL.).ti	nom.suffixe.nom	_	_	_	_	_	Gloss=animau.x.maison
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+7	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+8	dezhe	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

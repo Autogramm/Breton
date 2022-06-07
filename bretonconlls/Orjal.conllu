@@ -4,17 +4,17 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	orjalenn-mañ	-enn.DEM	nom.?	_	_	_	_	_	Gloss=SG.ci
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	vo	COP	?	_	_	_	_	_	Gloss=sera
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	orjalenn-mañ	-enn.DEM	suffixe|nom.pronom	_	_	_	_	_	Gloss=SG.ci
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 5	red	ret	?	_	_	_	_	_	Gloss=obligé
 6	disgwerañ	disgwerañ	?	_	_	_	_	_	Gloss=recuire
-7	anezi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
-8	petramant	peotramant	conjonction-complémenteur	_	_	_	_	_	Gloss=ou.bien
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	anezi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+8	petramant	peotramant	complémenteur|conjonction	_	_	_	_	_	Gloss=ou.bien
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	torro	terriñ	verbe	_	_	_	_	_	Gloss=cassera
-11	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-12	vo	COP	?	_	_	_	_	_	Gloss=sera
+11	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+12	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 13	pleget	plegañ	verbe	_	_	_	_	_	Gloss=plié
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

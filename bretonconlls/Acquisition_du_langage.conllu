@@ -1,72 +1,76 @@
 # sent_id = Gourmelon(2014:32)__1
 # text = Emañ kouezhet, an tour !
 # text_fr = 'Elle est tombée, la tour !'
-# source = Gourmelon (2014)
-1	Emañ	Emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	kouezhet	kouezhañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=tomb.é
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	Emañ	Emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	kouezhet	kouezhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tomb.é
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	tour	tour	?	_	_	_	_	_	Gloss=tour
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:32)__1
 # text = Emañ deuet, ar porc'hell !
 # text_fr = 'Il est sorti, le cochon !'
-# source = Gourmelon (2014)
-1	Emañ	Emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	Emañ	Emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	porc'hell	porc'hell	?	_	_	_	_	_	Gloss=cochon
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mermet(2006:annexeB)__1
 # text = Renkit, allez va ranger
-# text_fr = ''3 ans 6 mois, après 9 mois d'exposition à la langue''
+# text_fr = 3 ans 6 mois, après 9 mois d'exposition à la langue
 # source = Mermet (2006)
 # texttype = Ouvrages de recherche
 
 # sent_id = Mermet(2006:annexeB)__1
 # text = Chañjit
-# text_fr = ''3 ans 11 mois, après 14 mois d'exposition à la langue''
+# text_fr = 3 ans 11 mois, après 14 mois d'exposition à la langue
 # source = Mermet (2006)
 # texttype = Ouvrages de recherche
 
 # sent_id = Mermet(2006:annexeB)__1
 # text = faut rester ho plass
-# text_fr = ''3 ans 4 mois, après 1 mois d'exposition à la langue''
+# text_fr = 3 ans 4 mois, après 1 mois d'exposition à la langue
 # source = Mermet (2006)
 # texttype = Ouvrages de recherche
 
-# sent_id = Mermet (2006:annexe B)__1
+# sent_id = Mermet(2006:annexeB)__1
 # text = Nann ! tu laoskit
 # text_fr = 'Non tu laisses (ça)!' (dispute avec un autre élève à propos d'un feutre)
 # source2 =  Production enfantine (3 ans 10 mois)
+# source = Mermet (2006)
 1	Nann	nann	interjection	_	_	_	_	_	Gloss=non
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	tu	tu	nom	_	_	_	_	_	Gloss=tu
-4	laoskit	laoskel	?	_	_	_	_	_	Gloss=laissez
+4	laoskit	laoskel	verbe	_	_	_	_	_	Gloss=laissez
 
 # sent_id = Mermet(2006:annexeB)__1
 # text = On va au sport zo ?
-# text_fr = ''3 ans 6 mois, 10 mois d'exposition à la langue''
+# text_fr = 3 ans 6 mois, 10 mois d'exposition à la langue
 # source = Mermet (2006)
 # texttype = Ouvrages de recherche
 
 # sent_id = Mermet(2006:annexeB)__1
 # text = C'est maligorn bremañ
-# text_fr = ''2 ans 11 mois, 2 mois d'exposition à la langue''
+# text_fr = 2 ans 11 mois, 2 mois d'exposition à la langue
 # source = Mermet (2006)
 # texttype = Ouvrages de recherche
 1	maligorn	maligorn	nom	_	_	_	_	_	Gloss=???
 2	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=???
 
-# sent_id = Mermet (2006:annexe B)__1
+# sent_id = Mermet(2006:annexeB)__1
 # text = Michel on gouarnet ?
 # text_fr = à peu près : 'Michel je garde mon manteau ?' (demande s'il faut garder ou enlever son manteau)
 # source2 =  3 ans 11 mois, après 7 mois d'exposition à la langue
+# source = Mermet (2006)
 1	Michel	Michel	?	_	_	_	_	_	Gloss=Michel
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	gouarnet	gouarnet	?	_	_	_	_	_	Gloss=gardé
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -75,21 +79,20 @@
 # text_fr = 'On jouera à plein de choses... '
 # source = Robin (2010b)
 # texttype = Ouvrages de recherche
-1	C'	c'hoari	?	_	_	_	_	_	Gloss=joué
-2	hoariet	hoariet	?	_	_	_	_	_	Gloss=?
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	vo	COP	?	_	_	_	_	_	Gloss=sera
-5	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-6	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
-7	traoù..	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hoariet	c'hoari	?	_	_	_	_	_	Gloss=joué
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+4	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
+5	seurt	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
+6	traoù..	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Robin(2008a:3)__1
-# text = Ne c'hell ket mont...  [en place de ''Ne c'hellan ket'']
+# text = Ne c'hell ket mont...  [en place de Ne c'hellan ket
 # text_fr = 'Je ne peux pas aller/venir... '
 # source = Robin (2008a)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	mont..	mont	verbe	_	_	_	_	_	Gloss=aller
@@ -99,20 +102,16 @@
 8	[en	[en	?	_	_	_	_	_	Gloss=???
 9	place	place	?	_	_	_	_	_	Gloss=?
 10	de	de	?	_	_	_	_	_	Gloss=?
-11	'	'	?	_	_	_	_	_	Gloss=?
-12	'	'	?	_	_	_	_	_	Gloss=?
-13	Ne	Ne	?	_	_	_	_	_	Gloss=?
-14	c'hellan	c'hellan	?	_	_	_	_	_	Gloss=?
-15	ket'	ket'	?	_	_	_	_	_	Gloss=?
-16	'	'	?	_	_	_	_	_	Gloss=?
-17	]	]	?	_	_	_	_	_	Gloss=?
+11	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=?
+12	c'hellan	c'hellan	?	_	_	_	_	_	Gloss=?
+13	ket	ket	adverbe	_	_	_	_	_	Gloss=?
 
 # sent_id = Robin(2008a:2)__1
-# text = Te zo ket... [en place de ''N'out ket'']
+# text = Te zo ket... [en place de N'out ket
 # text_fr = 'Tu n'es pas..'
 # source = Robin (2008a)
 # texttype = Ouvrages de recherche
-1	Te	pfi	?	_	_	_	_	_	Gloss=toi
+1	Te	pfi	pronom	_	_	_	_	_	Gloss=toi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	ket..	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -122,15 +121,15 @@
 # text_fr = 'La fois d'après, ils iront dans les monts d'Arrée.'
 # source = Robin (2010b)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
-3	all	all	?	_	_	_	_	_	Gloss=autre
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Mutation=target|MutationNUM=1
+3	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 4	ez	ez	?	_	_	_	_	_	Gloss=R
 5	eont	mont	verbe	_	_	_	_	_	Gloss=vont
 6	da	da	préposition	_	_	_	_	_	Gloss=à
 7	??	??	?	_	_	_	_	_	Gloss=ø
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
-9	Menezhioù	Menezhioù	?	_	_	_	_	_	Gloss=[[nompropre|montagnes
+9	Menezhioù	Menezhioù	?	_	_	_	_	_	Gloss=[[nom_propre|montagnes
 10	Are	Are	?	_	_	_	_	_	Gloss=Arrée]]
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -142,24 +141,24 @@
 1	dont	dont	verbe	_	_	_	_	_	Gloss=venir
 2	da	da	préposition	_	_	_	_	_	Gloss=pour
 3	vakansi	vakansi	?	_	_	_	_	_	Gloss=vacanc.er
-4	gant-it	gant	?	_	_	_	_	_	Gloss=avec
+4	gant-it	gant	préposition	_	_	_	_	_	Gloss=avec
 5	/	/	?	_	_	_	_	_	Gloss=
 6	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-7	gant-in	gant	?	_	_	_	_	_	Gloss=avec
+7	gant-in	gant	préposition	_	_	_	_	_	Gloss=avec
 
 # sent_id = Robin(2010b:9)__1
 # text = An daou bugel a oant aet e-barzh ar mor...
 # text_fr = 'Les deux enfants étaient entrés dans l'eau.' (à la mer)
 # source = Robin (2010b)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 3	bugel	bugel	nom	_	_	_	_	_	Gloss=enfant
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oant	COP	?	_	_	_	_	_	Gloss=étaient
+5	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 6	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-7	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	e-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	mor..	mor	nom	_	_	_	_	_	Gloss=mer
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -168,13 +167,13 @@
 # text_fr = 'Peut-être que tu pourras venir aux vacances d'après.'
 # source = Robin (2010b)
 # texttype = Ouvrages de recherche
-1	Marteze	marteze	?	_	_	_	_	_	Gloss=peut-être
-2	te	pfi	?	_	_	_	_	_	Gloss=toi
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Marteze	marteze	adverbe	_	_	_	_	_	Gloss=peut-être
+2	te	pfi	pronom	_	_	_	_	_	Gloss=toi
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	c'helli	gallout	verbe	_	_	_	_	_	Gloss=pourras
 5	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	vakansoù	vakansoù	?	_	_	_	_	_	Gloss=vacances
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	tont	dont	verbe	_	_	_	_	_	Gloss=venir
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

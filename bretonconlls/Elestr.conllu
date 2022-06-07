@@ -6,7 +6,7 @@
 # texttype = Ouvrages pédagogiques
 1	elestr	elestr	nom	_	_	_	_	_	Gloss=iris
 2	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
-3	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-4	zreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
-5	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+4	zreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
+5	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau

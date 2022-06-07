@@ -1,11 +1,12 @@
 # sent_id = Drezen(1990:65)__1
 # text = taolet kuit pep mezh ganin...
 # text_fr = 'toute honte bue... '
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	taolet	taoler.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jet.é
+1	taolet	taoler.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=jet.é
 2	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 3	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 4	mezh	mezh	nom	_	_	_	_	_	Gloss=honte
-5	ganin..	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+5	ganin..	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

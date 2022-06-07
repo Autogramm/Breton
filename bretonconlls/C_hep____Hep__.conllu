@@ -1,46 +1,48 @@
 # sent_id = Kervella(2001:35)__1
 # text = Hêp ! C'hoazh unan o kouezhañ e paramouz !
 # text_fr = 'Hé ! Ici ! Encore quelqu'un dans les pommes !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
 1	Hêp	Hêp	préposition	_	_	_	_	_	Gloss=hep
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	C'	c'hoazh	?	_	_	_	_	_	Gloss=encore
-5	hoazh	hoazh	?	_	_	_	_	_	Gloss=?
-6	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-7	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=1
-8	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tomber
-9	e	P.e	?	_	_	_	_	_	Gloss=en
-10	paramouz	paramous	?	_	_	_	_	_	Gloss=pâmoison
-11	!	!	PUNCT	_	_	_	_	Gloss=punct
+4	C'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+5	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
+7	kouezhañ	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
+8	e	P.e	préposition	_	_	_	_	_	Gloss=en
+9	paramouz	paramous	?	_	_	_	_	_	Gloss=pâmoison
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2007:3)__1
 # text = C'hep ! Lagatu ! Deus buan !
 # text_fr = 'Hep ! Prunelle ! Viens vite !'
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
-1	C'	C'	préposition	_	_	_	_	_	Gloss=hep
-2	hep	hep	préposition	_	_	_	_	_	Gloss=!
+1	C'hep	C'hep	préposition	_	_	_	_	_	Gloss=hep
+2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Lagatu	nompropre	?	_	_	_	_	_	Gloss=Prunelle
+4	Lagatu	nom_propre	?	_	_	_	_	_	Gloss=Prunelle
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
-7	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+7	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002:52)__1
 # text = Hêp, c'hwi ! Taksi, n'on ket !
 # text_fr = 'Dites-donc ! Je ne fais pas le taxi, moi !'
+# dialect = Standard
 # source = Kervella (2002)
 # texttype = Références de corpus
-1	Hêp	interjection	?	_	_	_	_	_	Gloss=Hey!
+1	Hêp	interjection	interjection	_	_	_	_	_	Gloss=Hey_!
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
+3	c'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	Taksi	taksi	?	_	_	_	_	_	Gloss=taxi
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-8	on	COP	?	_	_	_	_	_	Gloss=suis
+7	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+8	on	COP	verbe	_	_	_	_	_	Gloss=suis
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	!	!	PUNCT	_	_	_	_	Gloss=punct

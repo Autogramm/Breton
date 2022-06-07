@@ -5,14 +5,14 @@
 # location = Pleyben
 # source = Ar Gow (1999)
 # texttype = Références de corpus
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 3	tamall	tamall	verbe	_	_	_	_	_	Gloss=accuser
 4	den	den	nom	_	_	_	_	_	Gloss=homme
 5	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
-8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	laerezh	laerezh	verbe	_	_	_	_	_	Gloss=voler
+8	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 9	tanvez-amann..	amann	nom	_	_	_	_	_	Gloss=beurre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,15 +22,15 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Heñv	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Heñv	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	foetas	foetañ	verbe	_	_	_	_	_	Gloss=fouetta
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	zanvez	zanvez	?	_	_	_	_	_	Gloss=matière
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	ren	ren	verbe	_	_	_	_	_	Gloss=mener
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 10	diroll	diroll	verbe	_	_	_	_	_	Gloss=dissolu
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -40,9 +40,9 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	Da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	Da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 2	vervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	vo	bezañ	?	_	_	_	_	_	Gloss=sera
-5	c'hoarzhin	P.e	?	_	_	_	_	_	Gloss=en
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	vo	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=sera
+5	c'hoarzhin	P.e	préposition	_	_	_	_	_	Gloss=en
 6	en	noz	nom	_	_	_	_	_	Gloss=nuit

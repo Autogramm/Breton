@@ -1,0 +1,11 @@
+sent_id = Guilliot(2006:1890)__1
+text = An den<sub>''i''</sub> [ a anavez [<sub>[[NP]]</sub> an dud<sub>''j''</sub> [ o deus __<sub>''j''</sub> gwelet anezhañ<sub>''i''</sub> ]]].
+text_fr =  #'L'homme que tu connais les gens qui l'ont vu.'  
+1	An den<sub>''i''</sub>	art	article	_	_	_	_	_	Gloss=le
+2	[	[	?	_	_	_	_	_	Gloss=
+3	a anavez [<sub>[[NP]]</sub>	[[R]] [[anavezout|connait]]	?	_	_	_	_	_	Gloss=[[R]] [[anavezout|connait]]
+4	an dud<sub>''j''</sub> [	art	article	_	_	_	_	_	Gloss=le
+5	o deus __<sub>''j''</sub>	kaout	verbe	_	_	_	_	_	Gloss=a
+6	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=vu
+7	anezhañ<sub>''i''</sub> ]]]	a.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=P.lui
+8	.	.	PUNCT	_	_	_	_	_	Gloss=punct

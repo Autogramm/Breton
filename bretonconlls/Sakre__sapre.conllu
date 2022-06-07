@@ -4,54 +4,57 @@
 # dialect = Vannetais
 # source = Delanoy (2010)
 # texttype = Ouvrages de recherche
-1	Serret	serriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=attrap.é
+1	Serret	serriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=attrap.é
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	des	kaout	?	_	_	_	_	_	Gloss=a
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	sapre	sapre	?	_	_	_	_	_	Gloss=sacré
-6	chulad	skudell.-ad	nom.?	_	_	_	_	_	Gloss=bol.ée
+3	des	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	sapre	sapre	adjectif	_	_	_	_	_	Gloss=sacré
+6	chulad	skudell.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=bol.ée
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Moulleg(1978:33)__1
 # text = Petra an diaoul 'zo 'vont en-dro Satordallik ?
 # text_fr = 'Bon sang ! Que se passe-t-il ?'
+# dialect = Standard
 # source = Moulleg (1978)
 # texttype = Références de corpus
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	an	an	?	_	_	_	_	_	Gloss=[[andiaoul|le
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	an	an	?	_	_	_	_	_	Gloss=[[an_diaoul|le
 3	diaoul	diaoul	nom	_	_	_	_	_	Gloss=diable]]
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	zo	?	_	_	_	_	_	Gloss=?
 6	'	mont	verbe	_	_	_	_	_	Gloss=aller
 7	vont	vont	?	_	_	_	_	_	Gloss=?
-8	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=postpos.
+8	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=postpos.
 
 # sent_id = Kervella(2001:7)__1
 # text = Sapredistak ! Mar karjen bezañ kaset ma disglavier ganin !
 # text_fr = 'Saperlipopette ! Je n'aurais pas dû sortir sans parapluie... '
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Sapredistak	interjection	?	_	_	_	_	_	Gloss=saperlipopette!
+1	Sapredistak	interjection	interjection	_	_	_	_	_	Gloss=saperlipopette_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+3	Mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 4	karjen	karout	verbe	_	_	_	_	_	Gloss=avais.aimé
-5	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-6	kaset	kas.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=envoy.é
-7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-8	disglavier	di-,dis-.glav.-er	?.nom.?	_	_	_	_	_	Gloss=para.pluie.eur
-9	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+5	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	kaset	kas.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=envoy.é
+7	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+8	disglavier	di-,_dis-.glav.-er	?.nom.?	_	_	_	_	_	Gloss=para.pluie.eur
+9	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:23)__1
 # text = Sapredistak ! P'en devoa lavaret chom mut !
 # text_fr = 'Saperlipopette ! Il avait pourtant promis de ne rien dire !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Sapredistak	interjection	?	_	_	_	_	_	Gloss=saperlipopette!
+1	Sapredistak	interjection	interjection	_	_	_	_	_	Gloss=saperlipopette_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+3	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 4	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
-5	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+5	devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 6	lavaret	lavarout	verbe	_	_	_	_	_	Gloss=dit
 7	chom	chom	verbe	_	_	_	_	_	Gloss=rester
 8	mut	mut	adjectif	_	_	_	_	_	Gloss=muet

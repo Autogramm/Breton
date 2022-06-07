@@ -4,51 +4,52 @@
 # dialect = Vannetais
 # source = Cheveau (2017)
 # texttype = Ouvrages de recherche
-1	en	art	complémenteur	_	_	_	_	_	Gloss=le
+1	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	ti	ti	nom	_	_	_	_	_	Gloss=maison
 3	men	men	?	_	_	_	_	_	Gloss=où
 4	d-	d-	?	_	_	_	_	_	Gloss=+C
-5	on	COP	?	_	_	_	_	_	Gloss=suis
+5	on	COP	verbe	_	_	_	_	_	Gloss=suis
 6	ganet	genel	verbe	_	_	_	_	_	Gloss=né
 
-# sent_id = collecté par B. Allaire, [http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.html dico parlants 2018]  __1
+# sent_id = collectéparB.Allaire,[http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.htmldicoparlants2018]__1
 # text = B'e oé ùenang e oé i labourad ne ouiañ ked i mènn...
 # text_fr = 'Il y en avait un qui travaillait je ne sais pas où... '
 # source2 =  Vannetais (Riantec), RJ.
+# source = Cheveau (2017)
 1	B'	bez'	?	_	_	_	_	_	Gloss=expl
-2	e	e	?	_	_	_	_	_	Gloss=?
-3	ùenang	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	oé	COP	?	_	_	_	_	_	Gloss=était
-6	i	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=?
+3	ùenang	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	oé	COP	verbe	_	_	_	_	_	Gloss=était
+6	i	particule_o	?	_	_	_	_	_	Gloss=à
 7	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
-8	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-9	ouiañ	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+8	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+9	ouiañ	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 10	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
 11	i	i	?	_	_	_	_	_	Gloss=où
 12	mènn...	mènn...	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Crahe(2013:277)__1
-# text = A eme e ta ? A emen eo ?   ([imɛ(n)])
+# text = A eme e ta ? A emen eo ?   ([imɛ(n))
 # text_fr = 'D'où vient-il ?' ? D'où est-il ?'
 # dialect = Vannetais
 # location = Languidic
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
-1	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	A	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 2	eme	eme	préposition	_	_	_	_	_	Gloss=où
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	ta	dont	verbe	_	_	_	_	_	Gloss=vient
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
-6	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	A	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	emen	emen	pronom	_	_	_	_	_	Gloss=où
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 10	??	??	?	_	_	_	_	_	Gloss=???
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
 12	??	??	?	_	_	_	_	_	Gloss=???
 13	?	?	PUNCT	_	_	_	_	Gloss=punct
-14	([imɛ(n)])	([imɛ(n)])	?	_	_	_	_	_	Gloss=???
+14	([imɛ(n))	([imɛ(n))	?	_	_	_	_	_	Gloss=???
 
 # sent_id = Crahe(2013:332)__1
 # text = E-lec'h ma karin. Emen m ' e karoc'h.
@@ -58,14 +59,14 @@
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
 1	E-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=en-lieu
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 3	karin	karout	verbe	_	_	_	_	_	Gloss=aimerai
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 5	Emen	Emen	pronom	_	_	_	_	_	Gloss=où
-6	m	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+6	m	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 7	'	'	?	_	_	_	_	_	Gloss=?
 8			PUNCT	_	_	_	_	Gloss=punct
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	karoc'h	karout	verbe	_	_	_	_	_	Gloss=aimerez
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -77,8 +78,8 @@
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
 1	Emen	Emen	pronom	_	_	_	_	_	Gloss=où
-2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+2	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 4	preur	breur	nom	_	_	_	_	_	Gloss=frère
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -89,7 +90,7 @@
 # location = Languidic
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
-1	Dre	dre	préposition	_	_	_	_	_	Gloss=par|Morph=1
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par|Mutation=trigger|MutationNUM=1
 2	emen	emen	pronom	_	_	_	_	_	Gloss=où
 3	monet	mont	verbe	_	_	_	_	_	Gloss=aller
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -106,26 +107,28 @@
 # location = Languidic
 # source = Crahe (2013)
 # texttype = Ouvrages de recherche
-1	A	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	A	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 2	emen	emen	pronom	_	_	_	_	_	Gloss=où
-3	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	eñv	écho	?	_	_	_	_	_	Gloss=lui
-5	daet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-6	genoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+5	daet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+6	genoc'h	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:235)__1
 # text = hag a c'houlenn gete a beban int ha d’e men eh aont.
 # text_fr = 'Et il leur demande d’où ils sont et où ils vont.'
-# source = Herrieu (1994)
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	c'houlenn	goulenn	verbe	_	_	_	_	_	Gloss=demande
-4	gete	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	gete	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	beban	peban	pronom	_	_	_	_	_	Gloss=où
-7	int	COP	?	_	_	_	_	_	Gloss=sont
-8	ha	&	?	_	_	_	_	_	Gloss=et
+7	int	COP	verbe	_	_	_	_	_	Gloss=sont
+8	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 9	d’e	da	préposition	_	_	_	_	_	Gloss=à
 10	men	men	?	_	_	_	_	_	Gloss=où
 11	eh	eh	?	_	_	_	_	_	Gloss=R

@@ -2,28 +2,30 @@
 # text = Guskemanteu hur bro ne fehé bout par dehé.
 # text_fr = 'Il ne saurait être de costumes comparables aux costumes de notre pays.'
 # source = IB.
-1	Guskemanteu	gwiskañ.-amant	?.?	_	_	_	_	_	Gloss=vêt.ement
-2	hur	POSS	?	_	_	_	_	_	Gloss=notre
+# texttype = Références de corpus
+1	Guskemanteu	gwiskañ.-amant	verbe.suffixe|nom	_	_	_	_	_	Gloss=vêt.ement
+2	hur	POSS	déterminant	_	_	_	_	_	Gloss=notre
 3	bro	bro	nom	_	_	_	_	_	Gloss=pays
-4	ne	ne	?	_	_	_	_	_	Gloss=ne
-5	fehé	COP	?	_	_	_	_	_	Gloss=serait
-6	bout	bezañ	?	_	_	_	_	_	Gloss=être
-7	par	par	préposition-nom	_	_	_	_	_	Gloss=semblable
-8	dehé	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+5	fehé	COP	verbe	_	_	_	_	_	Gloss=serait
+6	bout	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	par	par	préposition|nom	_	_	_	_	_	Gloss=semblable
+8	dehé	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:8)__1
 # text = ar peurvuia anezo hep kar na par
 # text_fr = 'la plupart d'entre eux sans attaches.'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	peurvuia	peurvuiañ	adverbe	_	_	_	_	_	Gloss=plupart
-3	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+3	anezo	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 4	hep	hep	préposition	_	_	_	_	_	Gloss=sans
 5	kar	karout	verbe	_	_	_	_	_	Gloss=aime
-6	na	na...na	?	_	_	_	_	_	Gloss=ni
-7	par	par	préposition-nom	_	_	_	_	_	Gloss=pair
+6	na	na..._na	?	_	_	_	_	_	Gloss=ni
+7	par	par	préposition|nom	_	_	_	_	_	Gloss=pair
 
 # sent_id = ArBorgn(2011:31)__1
 # text = Redek a rae par ma c'helle.
@@ -33,9 +35,9 @@
 # texttype = Ouvrages de recherche
 1	Redek	redek	verbe	_	_	_	_	_	Gloss=courir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
-4	par	par	préposition-nom	_	_	_	_	_	Gloss=comme
-5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	rae	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
+4	par	par	préposition|nom	_	_	_	_	_	Gloss=comme
+5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 6	c'helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -51,6 +53,6 @@
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	àr	war-lerc'h	?	_	_	_	_	_	Gloss=après
 6	lerc'h	lerc'h	?	_	_	_	_	_	Gloss=?
-7	c'hwi	pfi	?	_	_	_	_	_	Gloss=vous
-8	'	choaz	verbe	_	_	_	_	_	Gloss=choisirez|Morph=1
+7	c'hwi	pfi	pronom	_	_	_	_	_	Gloss=vous
+8	'	choaz	verbe	_	_	_	_	_	Gloss=choisirez|Mutation=target|MutationNUM=1
 9	choajo.	choajo.	?	_	_	_	_	_	Gloss=?

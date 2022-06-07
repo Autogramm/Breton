@@ -1,0 +1,15 @@
+sent_id = Standard,Kervella(1970)__1
+text = Ur gudenn gasaus
+text_fr =  'un problème odieux'
+1	Ur gudenn	art	article	_	_	_	_	_	Gloss=un
+2	gasaus	kas (N.)	nom	_	_	_	_	_	Gloss=haine
+
+sent_id = Gros(1989:'a-hed')__1
+text = Me a zo arru ankounahaüz all.
+text_fr =  'Je deviens oublieux au possible.'
+1	Me	pfi	nom	_	_	_	_	_	Gloss=moi
+2	a zo	[[R]]_[[1]] [[zo|est]]	?	_	_	_	_	_	Gloss=[[R]]_[[1]] [[zo|est]]
+3	arru	arruout	verbe	_	_	_	_	_	Gloss=arrivé
+4	ankounahaüz	ankounac'h	nom	_	_	_	_	_	Gloss=oubli
+5	all	all	nom	_	_	_	_	_	Gloss=autre
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct

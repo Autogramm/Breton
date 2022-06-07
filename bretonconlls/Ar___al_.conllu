@@ -1,15 +1,17 @@
 # sent_id = Herrieu(1994:100)__1
 # text = Ne arsav ket neoazh ar Jermaned a fardiñ bemnoz...
 # text_fr = 'Mais les allemands n'arrêtent pas de charger chaque nuit ... '
-# source = Herrieu (1994)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	arsav	arsav	?	_	_	_	_	_	Gloss=arrête
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	neoazh	neoazh	adverbe	_	_	_	_	_	Gloss=cependant
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	Jermaned	jermaned	nom	_	_	_	_	_	Gloss=allemands
-7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-8	fardiñ	fardañ	?	_	_	_	_	_	Gloss=charger
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	fardiñ	fardañ	verbe	_	_	_	_	_	Gloss=charger
 9	bemnoz..	pep.noz	quantifieur.nom	_	_	_	_	_	Gloss=chaque.nuit
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,23 +21,24 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	eo	COP	verbe	_	_	_	_	_	Gloss=est
 2	ardavet	ardavet.tevel	?.verbe	_	_	_	_	_	Gloss=1.tu
-3	un	art	?	_	_	_	_	_	Gloss=un
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	glav	glav	nom	_	_	_	_	_	Gloss=pluie
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:48)__1
-# text =  'ma ké mèd eun arzè noñ.   ''Cornouaillais de l'Est (Moëlan)''
+# sent_id = Bouzec&al.(2017:48)__1
+# text =  'ma ké mèd eun arzè noñ.   Cornouaillais de l'Est (Moëlan)
 # text_fr = 'Ce n'est qu'une journée de beau temps transitoire.'
+# source = Gros (1970b)
 1	??	??	?	_	_	_	_	_	Gloss=N'@
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	'	'	verbe-auxiliaire	_	_	_	_	_	Gloss=emañ
+3	'	'	verbe|auxiliaire	_	_	_	_	_	Gloss=emañ
 4	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 5	ké	ké	adverbe	_	_	_	_	_	Gloss=ket
-6	mèd	mèd	conjonction-complémenteur	_	_	_	_	_	Gloss=met
+6	mèd	mèd	complémenteur|conjonction	_	_	_	_	_	Gloss=met
 7	eun	eun	?	_	_	_	_	_	Gloss=un
 8	arzè	arzè	?	_	_	_	_	_	Gloss=arzè
 9	noñ	noñ	?	_	_	_	_	_	Gloss=anezhañ.
@@ -44,12 +47,8 @@
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
 13	??	??	?	_	_	_	_	_	Gloss=
 14	?	?	PUNCT	_	_	_	_	Gloss=punct
-15	'	'	?	_	_	_	_	_	Gloss='@'@Équivalent
-16	'	'	?	_	_	_	_	_	Gloss=standardisé'@'@
-17	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
-18	de	de	?	_	_	_	_	_	Gloss=?
-19	l'	l'	?	_	_	_	_	_	Gloss=?
-20	Est	Est	?	_	_	_	_	_	Gloss=?
-21	(Moëlan)'	(Moëlan)'	?	_	_	_	_	_	Gloss=?
-22	'	'	?	_	_	_	_	_	Gloss=?
-23			PUNCT	_	_	_	_	Gloss=punct
+15	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=Équivalent
+16	de	de	?	_	_	_	_	_	Gloss=standardisé
+17	l'	l'	?	_	_	_	_	_	Gloss=?
+18	Est	Est	?	_	_	_	_	_	Gloss=?
+19	(Moëlan)	(Moëlan)	?	_	_	_	_	_	Gloss=?

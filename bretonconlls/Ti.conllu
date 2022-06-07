@@ -4,21 +4,23 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Kê	mont	verbe	_	_	_	_	_	Gloss=va
-2	timad	tizh.mat	nom.adverbe-adjectif	_	_	_	_	_	Gloss=vitesse.bon
+2	timad	tizh.mat	nom.adverbe|adjectif	_	_	_	_	_	Gloss=vitesse.bon
 3	war	war-eeun	préposition	_	_	_	_	_	Gloss=sur-droit
 4	eon	eon	?	_	_	_	_	_	Gloss=?
-5	beteg	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusque
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-7	di	di	?	_	_	_	_	_	Gloss=maison
+5	beteg	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusque
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+7	di	di	adverbe	_	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§482)__3
 # text = an holl dïad tud
 # text_fr = 'toute la maisonnée.'
-# source = Kervella (1995)
-1	an	art	?	_	_	_	_	_	Gloss=le
-2	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout|Morph=1
-3	dïad	-ad	?	_	_	_	_	_	Gloss=née
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout|Mutation=trigger|MutationNUM=1
+3	dïad	-ad	suffixe|nom	_	_	_	_	_	Gloss=née
 4	tud	tud	nom	_	_	_	_	_	Gloss=gens
 
 # sent_id = HorYezh(1983:83)__1
@@ -27,15 +29,15 @@
 # location = Juch
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	i	pfi	?	_	_	_	_	_	Gloss=eux
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
-4	tier	-er(PL.)	?	_	_	_	_	_	Gloss=s
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	i	pfi	pronom	_	_	_	_	_	Gloss=eux
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	tier	-er_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	tier	-er(PL.)	?	_	_	_	_	_	Gloss=s
+6	tier	-er_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 7	nevez	nevez	adjectif	_	_	_	_	_	Gloss=neuf
-8	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
-9	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+8	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+9	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Berthou(1985:78)__1
@@ -43,14 +45,14 @@
 # text_fr = 'Quelques-uns, cependant, sont restés dans les maisons... '
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-8	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+8	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	tier..	tier..	?	_	_	_	_	_	Gloss=maisons
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -59,14 +61,14 @@
 # text_fr = 'Les maisons qui ont un toit ne seront pas détruites.'
 # source = Stephens (1982)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	tiez	-e(z)(PL.)	?	_	_	_	_	_	Gloss=s
-3	eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-5	zoenn	toenn	?	_	_	_	_	_	Gloss=toit
-6	warnezho	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
-7	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-8	vefont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=seront
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	tiez	-e(z)_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+3	eman	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+5	zoenn	toenn	nom	_	_	_	_	_	Gloss=toit
+6	warnezho	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
+7	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+8	vefont	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=seront
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	diskaret	diskar	verbe	_	_	_	_	_	Gloss=détruit
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -76,31 +78,33 @@
 # text_fr = 'Il n'y avait dans la rue que moi, entre les maisons crème.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	nemedon	nemet.pronomincorporé	conjonction-adverbe-complémenteur.?	_	_	_	_	_	Gloss=seulement.moi
-4	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	nemedon	nemet.pronom_incorporé	complémenteur|adverbe|conjonction.?	_	_	_	_	_	Gloss=seulement.moi
+4	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	straed	straed	nom	_	_	_	_	_	Gloss=rue
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	etre	etre	préposition	_	_	_	_	_	Gloss=entre
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	tiez	-e(z)(PL.)	?	_	_	_	_	_	Gloss=s
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	tiez	-e(z)_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 10	liv	liv	nom	_	_	_	_	_	Gloss=couleur
-11	an	art	?	_	_	_	_	_	Gloss=le
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	dienn	dienn	nom	_	_	_	_	_	Gloss=crème
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§440)__2
 # text = Bez' e kaver c'hoaz tier-soul e Breizh.
 # text_fr = 'On trouve encore des chaumières en Bretagne.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	Bez'	bez'	?	_	_	_	_	_	Gloss=bez
 2			PUNCT	_	_	_	_	Gloss=punct
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	kaver	kavout.IMP	verbe.?	_	_	_	_	_	Gloss=trouve.on
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	kaver	kavout.IMP	verbe.pronom	_	_	_	_	_	Gloss=trouve.on
 5	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
 6	tier-soul	tier-soul	?	_	_	_	_	_	Gloss=chaumières
-7	e	P.e	?	_	_	_	_	_	Gloss=en
+7	e	P.e	préposition	_	_	_	_	_	Gloss=en
 8	Breizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -109,12 +113,12 @@
 # text_fr = 'Tous les animaux domestiques sont pomponnés.'
 # source = Berthou (1985)
 # texttype = Références de corpus
-1	Holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-2	al	art	?	_	_	_	_	_	Gloss=le
-3	loened-ti	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animal.s
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-7	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-8	dezhe	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+1	Holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	loened-ti	loen.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=animal.s
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+7	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+8	dezhe	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

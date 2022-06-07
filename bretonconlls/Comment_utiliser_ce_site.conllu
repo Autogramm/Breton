@@ -1,39 +1,42 @@
 # sent_id = Drezen(1990:23)__1
 # text = Sevel a reas ar paotr e zaoulagad …
 # text_fr = 'Le garçon leva les yeux.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Sevel	sevel	verbe	_	_	_	_	_	Gloss=lever
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	zaoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=2.oeil
 6	…	…	?	_	_	_	_	_	Gloss=]
 
-# sent_id = Gros (1984:176)__1
+# sent_id = Gros(1984:176)__1
 # text = Me am-eus c'hoant da lavared penaoz ema ar wirionez gant ar skolaer!
-# text_fr = ''Français standard''
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	c'hoant	kaout	?	_	_	_	_	_	Gloss=envie
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+# text_fr = Français standard
+# source = Drezen (1990)
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	c'hoant	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=envie
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	penaoz	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-6	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	skolaer	skol.-aer	nom.?	_	_	_	_	_	Gloss=école.eur
+5	penaoz	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=que
+6	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Mutation=target|MutationNUM=1
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	skolaer	skol.-aer	nom.nom	_	_	_	_	_	Gloss=école.eur
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:627)__1
+# sent_id = Evenou(1987:627)__1
 # text = Oa komañset ar Rezistañs en em furmañ.
 # text_fr = 'La résistance avait commencé à se former.'
-# text_phon = ['[ wa kOmâsǝd', 'ǝ rEzistâs', 'nEm fòrmo ]']
-1	Oa	COP	?	_	_	_	_	_	Gloss=était
-2	komañset	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-3	ar	art	?	_	_	_	_	_	Gloss=le
+# text_phon =  wa kOmâsǝd ǝ rEzistâs nEm fòrmo  
+# source = Drezen (1990)
+1	Oa	COP	verbe	_	_	_	_	_	Gloss=était
+2	komañset	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	Rezistañs	Rezistañs	?	_	_	_	_	_	Gloss=résistance
-5	en	enem	complémenteur	_	_	_	_	_	Gloss=se
-6	em	[-o(Inf.)	?	_	_	_	_	_	Gloss=er
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
+6	em	em	?	_	_	_	_	_	Gloss=?
 7	furmañ.	furmañ.	?	_	_	_	_	_	Gloss=?

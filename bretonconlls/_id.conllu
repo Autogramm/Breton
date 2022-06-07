@@ -5,8 +5,8 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Staga	stagañ	verbe	_	_	_	_	_	Gloss=coller
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ree	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
-4	al	art	?	_	_	_	_	_	Gloss=le
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ree	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
+4	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	lehid..	lehid..	?	_	_	_	_	_	Gloss=vase
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

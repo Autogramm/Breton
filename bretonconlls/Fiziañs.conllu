@@ -5,10 +5,10 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Eur	art	nom	_	_	_	_	_	Gloss=un
-2	fiziañs	fiziañ	verbe	_	_	_	_	_	Gloss=confi]].[[-añs|ance|Morph=1
-3	vraz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grande
-4	o-doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-6	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
+1	Eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	fiziañs	fiziañ	verbe	_	_	_	_	_	Gloss=confi]].[[-añs|ance|Mutation=trigger|MutationNUM=1
+3	vraz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grande
+4	o-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	en	P.e	préposition	_	_	_	_	_	Gloss=en
+6	enni	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.elle
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

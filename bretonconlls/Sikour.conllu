@@ -5,14 +5,14 @@
 # location = Landivisiau
 # source = Y. Simon (23/03/2013)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	amzer-gwall	amzer	nom	_	_	_	_	_	Gloss=temps
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
+6	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
 7	da	da	préposition	_	_	_	_	_	Gloss=à
-8	Marie	nompropre	?	_	_	_	_	_	Gloss=Marie
+8	Marie	nom_propre	?	_	_	_	_	_	Gloss=Marie
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__2
@@ -21,25 +21,25 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Per	nompropre	nom	_	_	_	_	_	Gloss=Per
+1	Per	nom_propre	nom	_	_	_	_	_	Gloss=Per
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	kalon	kalon	nom	_	_	_	_	_	Gloss=cœur
-6	ewid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-7	Morwena	nompropre	?	_	_	_	_	_	Gloss=Morwena
+6	ewid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+7	Morwena	nom_propre	?	_	_	_	_	_	Gloss=Morwena
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	zo	zo	?	_	_	_	_	_	Gloss=est
-10	ur	art	?	_	_	_	_	_	Gloss=un
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 11	pot	paotr	nom	_	_	_	_	_	Gloss=gars
 12	a	a	préposition	_	_	_	_	_	Gloss=R
-13	gar	karout	verbe	_	_	_	_	_	Gloss=aime|Morph=1
+13	gar	karout	verbe	_	_	_	_	_	Gloss=aime|Mutation=target|MutationNUM=1
 14	chikour	chikour	?	_	_	_	_	_	Gloss=aider
-15	an	art	?	_	_	_	_	_	Gloss=le
-16	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+15	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+16	oll	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__16
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__17
 # text = Espec'h ' ra ar goarnamant da reiñ nebeutoc'h  zikourioù d'anin.
 # text_fr = 'Le gouvernement fait exprès de réduire les aides.'
 # dialect = Cornouaillais
@@ -48,17 +48,17 @@
 1	Espec'h	espres	adverbe	_	_	_	_	_	Gloss=exprès
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	ar	art	?	_	_	_	_	_	Gloss=le
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	goarnamant	gouarnamant	nom	_	_	_	_	_	Gloss=gouvernement
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	reiñ	rein	verbe	_	_	_	_	_	Gloss=donner
 9	nebeutoc'h	nebeut.-oc'h	quantifieur.?	_	_	_	_	_	Gloss=peu.plus
-10	??	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	??	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	?	?	PUNCT	_	_	_	_	Gloss=punct
-12	zikourioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
+12	zikourioù	-ioù_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 13	d'	da	préposition	_	_	_	_	_	Gloss=à
-14	anin	IMP	?	_	_	_	_	_	Gloss=on
+14	anin	IMP	pronom	_	_	_	_	_	Gloss=on
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Drezen(1943)__1
@@ -68,15 +68,15 @@
 # texttype = Références de corpus
 1	a	a	préposition	_	_	_	_	_	Gloss=de
 2	dre-holl	dre-holl	adverbe	_	_	_	_	_	Gloss=partout
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	pomperion	pomper.-ion	nom.?	_	_	_	_	_	Gloss=pompier.s
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	archerion	archer.-erion	nom.?	_	_	_	_	_	Gloss=polic.iers
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
 8	sikourerion	-erion	?	_	_	_	_	_	Gloss=istes
-9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 10	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-11	seurt..	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
+11	seurt..	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Helias(1986),Merser(2009)__1
@@ -85,13 +85,13 @@
 # source = Helias (1986)
 # texttype = Ouvrages de recherche
 1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
-2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 3	zikour	zikour	?	_	_	_	_	_	Gloss=aider
-4	ahanon	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	ahanon	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	zougen	dougen	verbe	_	_	_	_	_	Gloss=porter
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	dra-mañ	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	dra-mañ	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trégorrois,Gros(1970b)__1
@@ -101,25 +101,26 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
-2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 3	zikour	zikour	?	_	_	_	_	_	Gloss=aider
-4	ahanon	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	ahanon	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	zougen	dougen	verbe	_	_	_	_	_	Gloss=porter
-7	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+7	hemañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Kerrain(2001)__1
 # text = Daoust piv a c’hallfe sikour ac'hanon.
 # text_fr = 'Je me demande qui pourrait m'aider'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
 2	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	c’hallfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
-5	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aider
-6	ac'hanon	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+5	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aider
+6	ac'hanon	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2009:41)__1
@@ -128,21 +129,23 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Sikour	Sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-2	ac'hanon	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-3	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+1	Sikour	Sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+2	ac'hanon	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
+3	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 4	dennañ	tennañ	verbe	_	_	_	_	_	Gloss=tirer
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	bount	bount	?	_	_	_	_	_	Gloss=bouchon
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeDû(2012:'aider')__1
 # text = jitour ɑ̃õ .
 # text_fr = 'Aide-moi.'
+# dialect = Trégorrois
 # location = Plougrescant
-# source = Le Dû (2012)
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
 1	jitour	jitour	?	_	_	_	_	_	Gloss=aide
-2	ɑ̃õ	a.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+2	ɑ̃õ	a.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=P.moi
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Dialectal,Menard&Kadored(2001)__1
@@ -150,15 +153,15 @@
 # text_fr = 'Ils étaient toujours prêts à nous aider.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-se	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
 6	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-8	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aider
-9	ganimp	gant.Pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.nous
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aider
+9	ganimp	gant.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=avec.nous
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1944:108)__1
@@ -167,14 +170,14 @@
 # dialect = Cornouaillais
 # source = Riou (1944)
 # texttype = Références de corpus
-1	Sikour	Sikour	verbe-nom	_	_	_	_	_	Gloss=aide
+1	Sikour	Sikour	verbe|nom	_	_	_	_	_	Gloss=aide
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Sikour	Sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-4	din	da.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	Sikour	Sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+4	din	da.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.moi
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	Beuzet	beuziñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=noy.é
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	vin	COP	?	_	_	_	_	_	Gloss=serai
+6	Beuzet	beuziñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=noy.é
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	vin	COP	verbe	_	_	_	_	_	Gloss=serai
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = "rare",Menard&Kadored(2001)__1
@@ -183,8 +186,8 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Klask	klask	verbe	_	_	_	_	_	Gloss=chercher
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	reot	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
-4	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aider
-5	dezhañ	da.Pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	reot	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
+4	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aider
+5	dezhañ	da.Pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.lui
 6	?	?	PUNCT	_	_	_	_	Gloss=punct

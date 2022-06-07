@@ -1,13 +1,14 @@
 # sent_id = LeBozec(1933:85)__1
 # text = An naer he deus debret ar glesker.
 # text_fr = 'Le serpent a mangé la grenouille.'
-# source = Le Bozec
-1	An	art	?	_	_	_	_	_	Gloss=le
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	naer	naer	nom	_	_	_	_	_	Gloss=serpent
 3	he	he	?	_	_	_	_	_	Gloss=3SGF
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
-5	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
-6	ar	art	?	_	_	_	_	_	Gloss=le
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	debret	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,12 +19,12 @@
 # texttype = Références de corpus
 1	Tanfoeltr	foeltr	?	_	_	_	_	_	Gloss=feu.foudre
 2	glesker	glesker	nom	_	_	_	_	_	Gloss=grenouille
-3	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+3	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 4	buhez	buhez	nom	_	_	_	_	_	Gloss=vie
-5	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 6	am	am	?	_	_	_	_	_	Gloss=R
-7	boa	kaout	?	_	_	_	_	_	Gloss=avait
-8	tanvaet	tañvañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=goût.é
-9	evel	evel-just	adverbe	_	_	_	_	_	Gloss=commejuste
-10	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=?
+7	boa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+8	tanvaet	tañvañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=goût.é
+9	evel	evel-just	adverbe	_	_	_	_	_	Gloss=comme_juste
+10	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=?
 11	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -8,8 +8,8 @@
 1	Medisin	Medisin	nom	_	_	_	_	_	Gloss=médecin
 2	ebed	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	en-defe	kaout	?	_	_	_	_	_	Gloss=aurait
+4	en-defe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+6	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 7	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

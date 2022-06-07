@@ -1,16 +1,18 @@
 # sent_id = LeClerc(1986:§249)__1
 # text = me am eus gwelet eun den hag a deue d'in.
 # text_fr = 'J'ai vu un homme qui venait vers moi.'
-# source = Le Clerc (1986)
-1	me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Le Clerc (1908)
+# texttype = Ouvrages de recherche
+1	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	am	am	?	_	_	_	_	_	Gloss=R
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-5	eun	art	?	_	_	_	_	_	Gloss=un
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+5	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	den	den	nom	_	_	_	_	_	Gloss=homme
-7	hag	haga	?	_	_	_	_	_	Gloss=que
+7	hag	hag_a	?	_	_	_	_	_	Gloss=que
 8	a	a	préposition	_	_	_	_	_	Gloss=?
-9	deue	dont	verbe	_	_	_	_	_	Gloss=venait|Morph=1
+9	deue	dont	verbe	_	_	_	_	_	Gloss=venait|Mutation=target|MutationNUM=1
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	in	pronomincorporé	?	_	_	_	_	_	Gloss=moi
+11	in	pronom_incorporé	?	_	_	_	_	_	Gloss=moi
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

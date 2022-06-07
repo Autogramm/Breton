@@ -3,13 +3,13 @@
 # text_fr = 'Mon cousin et moi étions en chemise.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	c'henderv	kenderv	nom	_	_	_	_	_	Gloss=cousin
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	me	pfi	?	_	_	_	_	_	Gloss=moi
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	yoa	COP	?	_	_	_	_	_	Gloss=était
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	hor	POSS	?	_	_	_	_	_	Gloss=notre
-9	rochedoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	yoa	COP	verbe	_	_	_	_	_	Gloss=était
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+9	rochedoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

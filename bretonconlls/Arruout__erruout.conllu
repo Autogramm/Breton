@@ -3,11 +3,11 @@
 # text_fr = 'Jean vient d'arriver.'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
-1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesser
-5	erruout	erruout	?	_	_	_	_	_	Gloss=arriver
+5	erruout	erruout	verbe	_	_	_	_	_	Gloss=arriver
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Konan(2017:31)__1
@@ -17,12 +17,12 @@
 # location = Perros-guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	arri	arri	?	_	_	_	_	_	Gloss=arrivé
 4	aog	aog	?	_	_	_	_	_	Gloss=roui
-5	gant	gant	?	_	_	_	_	_	Gloss=avec
-6	hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+5	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+6	hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1966:12)__1
@@ -31,10 +31,10 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Para	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+1	Para	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 2	arri	arri	?	_	_	_	_	_	Gloss=arrive
-3	ganit	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
-4	ahe	aze	?	_	_	_	_	_	Gloss=là
+3	ganit	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.toi
+4	ahe	aze	adverbe	_	_	_	_	_	Gloss=là
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = AnDiberder(2000:101)__1
@@ -43,15 +43,15 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	naùvet	cardinaux.-vet	?.nom	_	_	_	_	_	Gloss=9.ième
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	naùvet	cardinaux.-vet	quantifieur|adjectif.suffixe|nom	_	_	_	_	_	Gloss=9.ième
 3	di	deiz	nom	_	_	_	_	_	Gloss=jour
-4	chte	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-5	ma	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	hei	pfi	?	_	_	_	_	_	Gloss=elle
+4	chte	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+5	ma	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	hei	pfi	pronom	_	_	_	_	_	Gloss=elle
 7	ariù	ariù	?	_	_	_	_	_	Gloss=arrivé
-8	ar	war	?	_	_	_	_	_	Gloss=sur
-9	un	art	?	_	_	_	_	_	Gloss=un
+8	ar	war	préposition	_	_	_	_	_	Gloss=sur
+9	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 10	aod	aod	nom	_	_	_	_	_	Gloss=côte
 11	ihuél	uhel	adjectif	_	_	_	_	_	Gloss=haut
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -63,10 +63,10 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
-2	Ne	Ne	?	_	_	_	_	_	Gloss=?
+2	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=?
 3	lakã	lakaat	verbe	_	_	_	_	_	Gloss=mets
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	i	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 7	eriẅ	eriẅ	?	_	_	_	_	_	Gloss=arrivé
 8	/	/	PUNCT	_	_	_	_	Gloss=punct
@@ -76,40 +76,43 @@
 # text_fr = 'Vous voilà !'
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
-1	Erru	Erru	?	_	_	_	_	_	Gloss=arrivé
-2	oah	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=étiez
+1	Erru	Erru	verbe	_	_	_	_	_	Gloss=arrivé
+2	oah	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=étiez
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:12)__1
 # text = Arru ez eus eur bezeliad kafe em zas.
 # text_fr = 'Ma tasse finit par contenir une pleine jatte de café.'
-# source = Gros (1984)
-1	Arru	Arru	?	_	_	_	_	_	Gloss=arrivé
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Arru	Arru	verbe	_	_	_	_	_	Gloss=arrivé
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	COP	?	_	_	_	_	_	Gloss=y.a
-4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	bezeliad	bezel.-iad	?.?	_	_	_	_	_	Gloss=jatt.ée
+3	eus	COP	verbe	_	_	_	_	_	Gloss=y.a
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	bezeliad	bezel.-iad	?.suffixe|nom	_	_	_	_	_	Gloss=jatt.ée
 6	kafe	kafe	nom	_	_	_	_	_	Gloss=café
-7	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
-8	zas	tas(N.)	?	_	_	_	_	_	Gloss=tasse
+7	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
+8	zas	tas_(N.)	?	_	_	_	_	_	Gloss=tasse
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:9)__1
 # text = Erru  poent serriñ dor an iliz ! eme egile.
 # text_fr = 'L'autre dit: Il est temps de fermer la porte de l'église !
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Erru	Erru	?	_	_	_	_	_	Gloss=arrivé
-2	??	COP	?	_	_	_	_	_	Gloss=est
+1	Erru	Erru	verbe	_	_	_	_	_	Gloss=arrivé
+2	??	COP	verbe	_	_	_	_	_	Gloss=est
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	poent	poent	nom	_	_	_	_	_	Gloss=moment
 5	serriñ	serriñ	verbe	_	_	_	_	_	Gloss=fermer
 6	dor	dor	nom	_	_	_	_	_	Gloss=porte
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	iliz	iliz	nom	_	_	_	_	_	Gloss=église
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 10	eme	eme	préposition	_	_	_	_	_	Gloss=dit
-11	egile	egile	?	_	_	_	_	_	Gloss=l'@autre
+11	egile	egile	pronom	_	_	_	_	_	Gloss=l'@autre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ternes(1970:301)__1
@@ -118,10 +121,10 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	mə	pfi	?	_	_	_	_	_	Gloss=moi
-2	mbwa	kaout	?	_	_	_	_	_	Gloss=avais
+1	mə	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	mbwa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 3	če	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ti:xed	tizhout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=touch.é
+4	ti:xed	tizhout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=touch.é
 5	a:ry	a:ry	?	_	_	_	_	_	Gloss=arriver
 
 # sent_id = ArBorgn(2011:24)__1
@@ -130,13 +133,13 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	feson	feson	nom	_	_	_	_	_	Gloss=façon
 3	mand	ma	complémenteur	_	_	_	_	_	Gloss=que
-4	eo	bezan	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	arru	arru	?	_	_	_	_	_	Gloss=arrivé
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+4	eo	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Skragn(2002:21)__1
@@ -150,14 +153,14 @@
 3	e-noa	e-noa	?	_	_	_	_	_	Gloss=R
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	disklêriet	diskleriañ	verbe	_	_	_	_	_	Gloss=dit
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	den-ze	den	nom	_	_	_	_	_	Gloss=homme
-8	ar	pezh	?	_	_	_	_	_	Gloss=arpezh
-9	pezh	pezh	?	_	_	_	_	_	Gloss=?
+8	ar	pezh	pronom|nom	_	_	_	_	_	Gloss=ar_pezh
+9	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=?
 10	a	a	préposition	_	_	_	_	_	Gloss=R
-11	oa	COP	?	_	_	_	_	_	Gloss=était
-12	erruet	erruet	?	_	_	_	_	_	Gloss=arrivé
-13	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.moi
+11	oa	COP	verbe	_	_	_	_	_	Gloss=était
+12	erruet	erruet	verbe	_	_	_	_	_	Gloss=arrivé
+13	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:127)__1
@@ -167,16 +170,15 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	C'	pfi	?	_	_	_	_	_	Gloss=tu
-2	hwi	hwi	?	_	_	_	_	_	Gloss=?
-3	'	arruout	?	_	_	_	_	_	Gloss=arriveras
-4	arruo	arruo	?	_	_	_	_	_	Gloss=?
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-6	serriñ	serriñ	verbe	_	_	_	_	_	Gloss=ramasser
-7	un	art	?	_	_	_	_	_	Gloss=un
-8	arum	arum	?	_	_	_	_	_	Gloss=rhume
-9	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-10	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwi	pfi	pronom	_	_	_	_	_	Gloss=tu
+2	'	arruout	verbe	_	_	_	_	_	Gloss=arriveras
+3	arruo	arruo	?	_	_	_	_	_	Gloss=?
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	serriñ	serriñ	verbe	_	_	_	_	_	Gloss=ramasser
+6	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	arum	arum	?	_	_	_	_	_	Gloss=rhume
+8	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:69)__1
 # text = Arru eo kozh chaoser ar velin.
@@ -184,28 +186,30 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Arru	Arru	?	_	_	_	_	_	Gloss=arrivé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Arru	Arru	verbe	_	_	_	_	_	Gloss=arrivé
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 4	chaoser	chaoser	?	_	_	_	_	_	Gloss=chaussée
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	velin	milin	nom	_	_	_	_	_	Gloss=moulin|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	velin	milin	nom	_	_	_	_	_	Gloss=moulin|Mutation=target|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'distoka')__1
 # text = Ha goude, pa vez arru distoket al lapined e varvont.
 # text_fr = 'Et après, quand les lapins commencent à grandir, ils meurent.'
-# source = Gros (1989)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	arru	arru	?	_	_	_	_	_	Gloss=arrivé
+4	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
 7	distoket	distoket	?	_	_	_	_	_	Gloss=démarré
-8	al	art	?	_	_	_	_	_	Gloss=le
+8	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	lapined	lapined.-ed	?.?	_	_	_	_	_	Gloss=lapin.s
-10	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+10	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 11	varvont	mervel	verbe	_	_	_	_	_	Gloss=meurent
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -215,19 +219,19 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Arru	Arru	?	_	_	_	_	_	Gloss=arrivé
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	toud	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	Arru	Arru	verbe	_	_	_	_	_	Gloss=arrivé
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	toud	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 6	livet-fall	livañ	verbe	_	_	_	_	_	Gloss=peint
-7	a-benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+7	a-benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=quand
 8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-9	oa	COP	?	_	_	_	_	_	Gloss=était
+9	oa	COP	verbe	_	_	_	_	_	Gloss=était
 10	fin	fin	?	_	_	_	_	_	Gloss=fin
 11	d'	da	préposition	_	_	_	_	_	Gloss=de
-12	an	art	?	_	_	_	_	_	Gloss=le
-13	traou	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	traou	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trégorrois,Hewitt(2001)__1
@@ -235,10 +239,10 @@
 # text_fr = 'Je l'ai souvent vu.'
 # source = Hewitt (2001)
 # texttype = Ouvrages de recherche
-1	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+1	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	aï	aï	?	_	_	_	_	_	Gloss=arrivé
-4	gweled	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+4	gweled	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 5	alîes	alies	adverbe	_	_	_	_	_	Gloss=souvent
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -250,10 +254,10 @@
 1	(Alies	(Alies	?	_	_	_	_	_	Gloss=souvent
 2	/	/	?	_	_	_	_	_	Gloss=/
 3	Aï)	Aï)	?	_	_	_	_	_	Gloss=arrivé
-4	meus	kaout	?	_	_	_	_	_	Gloss=ai
+4	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 5	(aï)	(aï)	?	_	_	_	_	_	Gloss=arrivé
 6	gweled	gwelout	verbe	_	_	_	_	_	Gloss=vu
-7	aneañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+7	aneañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 8	(alîes)	alies	adverbe	_	_	_	_	_	Gloss=souvent
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -266,27 +270,27 @@
 2	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
 3	ped	pet	pronom	_	_	_	_	_	Gloss=combien
 4	gwej	gwech	nom	_	_	_	_	_	Gloss=fois
-5	meus	kaout	?	_	_	_	_	_	Gloss=ai
+5	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 6	aï	aï	?	_	_	_	_	_	Gloss=arrivé
 7	bed	bet	nom	_	_	_	_	_	Gloss=été
-8	gweled	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-9	aneañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+8	gweled	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+9	aneañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:12)__1
-# text = Ar paotr-se n'eo k'arru mat anezhoñ. ([netʃaru...])
+# text = Ar paotr-se n'eo k'arru mat anezhoñ. ([netʃaru...)
 # text_fr = 'Ce gars-là, il n'est pas bien mûr.'
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	paotr-se	paotr	nom	_	_	_	_	_	Gloss=gars
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	k'	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	arru	arru	?	_	_	_	_	_	Gloss=arrivé
-7	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-8	anezhoñ	eus.pronomincorporé	?.?	_	_	_	_	_	Gloss=P.lui
+6	arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
+7	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+8	anezhoñ	eus.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1966:15)__1
@@ -295,31 +299,33 @@
 # dialect = Trégorrois
 # source = Gros (1966)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	'	'	?	_	_	_	_	_	Gloss=1SG
-3	m	kaout	?	_	_	_	_	_	Gloss=a
-4	eus	eus	?	_	_	_	_	_	Gloss=?
+3	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	eus	eus	préposition	_	_	_	_	_	Gloss=?
 5	arri	arri	?	_	_	_	_	_	Gloss=arrivé
 6	poan	poan	nom	_	_	_	_	_	Gloss=douleur
 7	'	penn	nom	_	_	_	_	_	Gloss=tête
 8	penn	penn	nom	_	_	_	_	_	Gloss=?
-9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	daoulin	duel.glin	?.nom	_	_	_	_	_	Gloss=deux.genou
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'bannah')__1
 # text = He gwaz a oa arru da zantoud e vannah.
 # text_fr = 'Son mari commençait à être éméché.'
-# source = Gros (1989)
-1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-2	gwaz	gwaz	?	_	_	_	_	_	Gloss=mari
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	He	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+2	gwaz	gwaz	nom	_	_	_	_	_	Gloss=mari
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	arru	arru	?	_	_	_	_	_	Gloss=arrivé
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	arru	arru	verbe	_	_	_	_	_	Gloss=arrivé
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	zantoud	santout	verbe	_	_	_	_	_	Gloss=sentir
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-9	vannah	banne	?	_	_	_	_	_	Gloss=verre
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+9	vannah	banne	quantifieur	_	_	_	_	_	Gloss=verre
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lozac'h(2012-:'den')__1
@@ -327,8 +333,8 @@
 # text_fr = 'On réussit par le travail.'
 # location = Berrien
 # source = Lozach (2012-)
-1	Ga	gant	?	_	_	_	_	_	Gloss=avec
+1	Ga	gant	préposition	_	_	_	_	_	Gloss=avec
 2	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
-3	erru	erru	?	_	_	_	_	_	Gloss=arrive
-4	an	IMP	?	_	_	_	_	_	Gloss=on
+3	erru	erru	verbe	_	_	_	_	_	Gloss=arrive
+4	an	IMP	pronom	_	_	_	_	_	Gloss=on
 5	nen.	nen.	?	_	_	_	_	_	Gloss=?

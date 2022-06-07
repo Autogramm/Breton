@@ -1,27 +1,27 @@
 # sent_id = Dictonultra-local(Locronan),A-M.Louboutin(10/2021)__2
 # text = Tud Plogon zo tut droch a lar ar c’harrdi deus a loch hag un ibil deus ar broch.
-# text_fr = 'Les gens de Plogonnec sont ridicules, ils disent ''ar c'harrdi'' pour la remise et ''un ibil'' pour l'agrafe.'
+# text_fr = 'Les gens de Plogonnec sont ridicules, ils disent ar c'harrdi pour la remise et un ibil pour l'agrafe.'
 # dialect = Cornouaillais
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
 1	Tud	tud	nom	_	_	_	_	_	Gloss=gens
-2	Plogon	nompropre	?	_	_	_	_	_	Gloss=Plogonnec
+2	Plogon	nom_propre	?	_	_	_	_	_	Gloss=Plogonnec
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	tut	tud	nom	_	_	_	_	_	Gloss=gens
 5	droch	droch	adjectif	_	_	_	_	_	Gloss=ridicule
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	lar	lavarout	verbe	_	_	_	_	_	Gloss=dit
-8	ar	art	?	_	_	_	_	_	Gloss=un
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	c’harrdi	c’harrdi	?	_	_	_	_	_	Gloss=5
-10	deus	deus	?	_	_	_	_	_	Gloss=de
-11	a	art	préposition	_	_	_	_	_	Gloss=le
+10	deus	deus	préposition	_	_	_	_	_	Gloss=de
+11	a	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	loch	loch	?	_	_	_	_	_	Gloss=remise
-13	hag	&	?	_	_	_	_	_	Gloss=et
-14	un	art	?	_	_	_	_	_	Gloss=un
+13	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+14	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 15	ibil	ibil	nom	_	_	_	_	_	Gloss="ibil"
-16	deus	deus	?	_	_	_	_	_	Gloss=de
-17	ar	art	?	_	_	_	_	_	Gloss=le
+16	deus	deus	préposition	_	_	_	_	_	Gloss=de
+17	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 18	broch	broch	?	_	_	_	_	_	Gloss=broche
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -32,9 +32,9 @@
 # location = Plougrescant
 # source = Le Dû (2012a)
 # texttype = Ouvrages de recherche
-1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	vhiwfé-ked	fiñval	verbe	_	_	_	_	_	Gloss=bougerait
-4	en	art	complémenteur	_	_	_	_	_	Gloss=le
+4	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	ibiļ	ibiļ	?	_	_	_	_	_	Gloss=cheville
 6	/	/	PUNCT	_	_	_	_	Gloss=punct

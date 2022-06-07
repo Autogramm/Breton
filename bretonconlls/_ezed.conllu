@@ -4,21 +4,21 @@
 # dialect = Léonard
 # source = Perrot (1912)
 # texttype = Références de corpus
-1	He	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+1	He	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 2	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
-3	ne	ne	?	_	_	_	_	_	Gloss=ne
-4	oant	COP	?	_	_	_	_	_	Gloss=étaient
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+4	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-7	henvel	heñvel	?	_	_	_	_	_	Gloss=pareil
+7	henvel	heñvel	adjectif	_	_	_	_	_	Gloss=pareil
 8	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 11	a	a	préposition	_	_	_	_	_	Gloss=R
-12	weler	gwelout.IMP	verbe.?	_	_	_	_	_	Gloss=voit.on
-13	gant	gant	?	_	_	_	_	_	Gloss=avec
-14	itronezed	itron.-ez(F.).[-ed(PL.).itronezed	?.?.?.?	_	_	_	_	_	Gloss=dame.F.s.1
-15	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grande
-16	an	art	?	_	_	_	_	_	Gloss=le
+12	weler	gwelout.IMP	verbe.pronom	_	_	_	_	_	Gloss=voit.on
+13	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+14	itronezed	itron.-ez_(F.).[-ed_(PL.)	nom.suffixe.?	_	_	_	_	_	Gloss=dame.F.s
+15	vras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grande
+16	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 17	douar-man	douar	nom	_	_	_	_	_	Gloss=terre
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

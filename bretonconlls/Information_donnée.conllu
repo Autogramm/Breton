@@ -5,12 +5,12 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-se	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 5	___	___	?	_	_	_	_	_	Gloss=?
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-7	taol	taoler	?	_	_	_	_	_	Gloss=jeter
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
+7	taol	taoler	verbe	_	_	_	_	_	Gloss=jeter
 8	foenn	foenn	nom	_	_	_	_	_	Gloss=foin
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

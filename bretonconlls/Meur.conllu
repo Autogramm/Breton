@@ -5,20 +5,21 @@
 # location = Cléder
 # source = Seite (1998)
 # texttype = Références de corpus
-1	e-keit	e-keit	préposition-complémenteur	_	_	_	_	_	Gloss=pendant
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+1	e-keit	e-keit	complémenteur|préposition	_	_	_	_	_	Gloss=pendant
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 4	save	sevel	verbe	_	_	_	_	_	Gloss=construisait
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	roue-meur	roue	nom	_	_	_	_	_	Gloss=roi
 7	kastell	kastell	nom	_	_	_	_	_	Gloss=château
-8	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-9	Versaillez	nompropre	?	_	_	_	_	_	Gloss=Versailles
+8	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+9	Versaillez	nom_propre	?	_	_	_	_	_	Gloss=Versailles
 
 # sent_id = Trégorrois,Duval,'[https://www.anjela.org/oberenn/kelted/?lang=bzKelted]'1978.__1
 # text = Hon Hunvre zo ken meur !
 # text_fr = 'Notre Rêve est si grand !'
-1	Hon	POSS	?	_	_	_	_	_	Gloss=notre
+# source = Seite (1998)
+1	Hon	POSS	déterminant	_	_	_	_	_	Gloss=notre
 2	Hunvre	hunvre	verbe	_	_	_	_	_	Gloss=Rêve
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	meur	meur	quantifieur	_	_	_	_	_	Gloss=grand
@@ -30,24 +31,25 @@
 # location = Pleyben
 # source = Ar Floch (1950)
 1	Meur	Meur	quantifieur	_	_	_	_	_	Gloss=maintes
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	wech	gwech	nom	_	_	_	_	_	Gloss=fois
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	kement-all..	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	kement-all..	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:137)__1
 # text = N'eus ket bet kavet meur a gêriadenn...
 # text_fr = 'Plus d'un village n'a pas été trouvé... '
-# source = Gourmelon (2014)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	E	?	_	_	_	_	_	Gloss=est
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	E	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+5	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
 6	meur	meur	quantifieur	_	_	_	_	_	Gloss=maintes
-7	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	gêriadenn..	kêr.-iadenn	nom.nom	_	_	_	_	_	Gloss=vill.age
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -59,10 +61,10 @@
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
 1	Goloet	goloiñ	adverbe	_	_	_	_	_	Gloss=couvert
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	veze	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	veze	COP	verbe	_	_	_	_	_	Gloss=était
 4	meur	meur	quantifieur	_	_	_	_	_	Gloss=maint
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	wezh	gwech	nom	_	_	_	_	_	Gloss=fois
-7	ho	POSS	?	_	_	_	_	_	Gloss=vos|Morph=3
+7	ho	POSS	déterminant	_	_	_	_	_	Gloss=vos|Mutation=trigger|MutationNUM=3
 8	penn	penn	nom	_	_	_	_	_	Gloss=tête

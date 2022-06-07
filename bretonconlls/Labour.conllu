@@ -4,15 +4,15 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Sellout	sellout	verbe	_	_	_	_	_	Gloss=regarder
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 4	dre	dre	préposition	_	_	_	_	_	Gloss=par
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	prenestr	prenestr	nom	_	_	_	_	_	Gloss=fenêtre
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	sko	skeiñ	verbe	_	_	_	_	_	Gloss=frappe
 9	war-eeun	war-eeun	préposition	_	_	_	_	_	Gloss=directement
-10	el	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	el	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 11	labouradeg	labouradeg	?	_	_	_	_	_	Gloss=usine
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,11 +22,11 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	mergl	mergl	nom	_	_	_	_	_	Gloss=rouille
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zebr	debriñ	verbe	_	_	_	_	_	Gloss=mange
-5	eur	art	nom	_	_	_	_	_	Gloss=le
+5	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	benveg	benveg	nom	_	_	_	_	_	Gloss=outil
 7	houarn	houarn	nom	_	_	_	_	_	Gloss=fer
 8	dilabour	di-	?	_	_	_	_	_	Gloss=dé-

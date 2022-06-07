@@ -4,19 +4,20 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	c'hast	gast	nom	_	_	_	_	_	Gloss=pute|Morph=1
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	an	art	?	_	_	_	_	_	Gloss=le
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	c'hast	gast	nom	_	_	_	_	_	Gloss=pute|Mutation=target|MutationNUM=1
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	APA	APA	?	_	_	_	_	_	Gloss=APA
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = SkolanEmsav(1977:6)__1
 # text = Alkool ar c'hast.
 # text_fr = 'Foutu alcool.'
+# dialect = Standard
 # source = Skol an Emsav (1977)
 # texttype = Références de corpus
 1	Alkool	alkool	?	_	_	_	_	_	Gloss=alcool
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'hast	gast	nom	_	_	_	_	_	Gloss=pute|Morph=1
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	c'hast	gast	nom	_	_	_	_	_	Gloss=pute|Mutation=target|MutationNUM=1
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

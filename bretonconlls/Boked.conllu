@@ -4,8 +4,8 @@
 # dialect = Léonard
 # source = Fave (1998)
 # texttype = Ouvrages de recherche
-1	Eur	art	nom	_	_	_	_	_	Gloss=un
+1	Eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	boked	boked	nom	_	_	_	_	_	Gloss=bouquet
-3	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	c'hwez	c'hwezh	?	_	_	_	_	_	Gloss=odeur
-5	vad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bonne|Morph=1
+5	vad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bonne|Mutation=target|MutationNUM=1

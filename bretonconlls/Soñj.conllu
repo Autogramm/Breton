@@ -4,27 +4,29 @@
 # location = Arradon
 # source = Audic (2011)
 # texttype = Ouvrages de recherche
-1	M'	pfi	?	_	_	_	_	_	Gloss=moi
-2	eus	kaout	?	_	_	_	_	_	Gloss=a
+1	M'	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	soñj	soñj	nom	_	_	_	_	_	Gloss=souvenir
 5	pegement	pegement	pronom	_	_	_	_	_	Gloss=combien
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	dud	tud	nom	_	_	_	_	_	Gloss=gens
-8	oant	COP	?	_	_	_	_	_	Gloss=étaient
+8	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 9	ind	écho	?	_	_	_	_	_	Gloss=eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = (Gros1984:137)__4
 # text = Ar hizier, ar re-ze a zalh soñj.
 # text_fr = 'Les chats, ceux-là se souviennent.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[plurielinterne|s|Morph=5
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hizier	kazh	nom	_	_	_	_	_	Gloss=chat]].[[pluriel_interne|s|Mutation=target|MutationNUM=5
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	zalh	delc'her	?	_	_	_	_	_	Gloss=garde
 8	soñj	soñj	nom	_	_	_	_	_	Gloss=souvenir
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

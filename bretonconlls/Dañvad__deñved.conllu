@@ -4,15 +4,15 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	disklavenn	dis-.glav.-enn	?.nom.nom	_	_	_	_	_	Gloss=dé.pluie.eur
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	disklavenn	dis-.glav.-enn	?.nom.suffixe|nom	_	_	_	_	_	Gloss=dé.pluie.eur
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	meur	meur	quantifieur	_	_	_	_	_	Gloss=plus
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=un
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=un
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	zo	zo	?	_	_	_	_	_	Gloss=est
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 11	patati	patati	?	_	_	_	_	_	Gloss="patati"
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -20,13 +20,14 @@
 # sent_id = Kervella(2001:47)__1
 # text = Ma ! Pelec'h e oamp ganti ?
 # text_fr = 'Bon, revenons à nos moutons !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=[[ma!|Bon
+1	Ma	Ma	complémenteur	_	_	_	_	_	Gloss=[[ma_!|Bon
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Pelec'h	pelec'h	?	_	_	_	_	_	Gloss=où
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	oamp	COP	?	_	_	_	_	_	Gloss=étions
-7	ganti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	oamp	COP	verbe	_	_	_	_	_	Gloss=étions
+7	ganti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 8	?	?	PUNCT	_	_	_	_	Gloss=punct

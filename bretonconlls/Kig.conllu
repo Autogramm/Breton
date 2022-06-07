@@ -4,15 +4,18 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	pesked	pesk.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=poisson.s
-3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	deuet	dont.[-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-6	veza	beza	?	_	_	_	_	_	Gloss=être
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	hig	hig	?	_	_	_	_	_	Gloss=5
-9	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	pesked	pesk.-ed_(PL.).zo	nom.suffixe.?	_	_	_	_	_	Gloss=poisson.s.est
+3	zo	dont.[-et_(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+4	deuet	deuet	?	_	_	_	_	_	Gloss=?
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+6	veza	beza	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+7	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=[[ken,_ker,
+8	ker	ker	adjectif	_	_	_	_	_	Gloss=cher
+9	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	hig	hig	?	_	_	_	_	_	Gloss=5
+12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1985:120)__1
 # text = Alies e vez graet hemañ gant kig yar...
@@ -21,11 +24,11 @@
 # source = Kervella (1985)
 # texttype = Références de corpus
 1	Alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	hemañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	hemañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 7	kig	kig	nom	_	_	_	_	_	Gloss=viande
 8	yar..	yar	nom	_	_	_	_	_	Gloss=poulet
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -37,41 +40,42 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Un	art	?	_	_	_	_	_	Gloss=un
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 3	kig	kig	nom	_	_	_	_	_	Gloss=viande
 4	moc'h	moc'h	?	_	_	_	_	_	Gloss=cochons
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	lakeat	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	lakeat	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+7	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	dour	dour	nom	_	_	_	_	_	Gloss=eau
-9	un	art	?	_	_	_	_	_	Gloss=un
-10	tachad	tachad	nom-adverbe	_	_	_	_	_	Gloss=moment
-11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	tachad	tachad	adverbe|nom	_	_	_	_	_	Gloss=moment
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	zizallañ	di-	?	_	_	_	_	_	Gloss=dé
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:45)__1
 # text = Ar breur Arturo a oa an tan en e gig, en e wad, en e benn.
 # text_fr = 'Le frère Arturo avait le feu dans la chair, dans le sang, dans la tête.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	breur	breur	nom	_	_	_	_	_	Gloss=frère
 3	Arturo	Arturo	?	_	_	_	_	_	Gloss=Arturo
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	an	art	?	_	_	_	_	_	Gloss=le
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	tan	tan	nom	_	_	_	_	_	Gloss=feu
-8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	en	P.e	préposition	_	_	_	_	_	Gloss=en
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	gig	gig	?	_	_	_	_	_	Gloss=chair
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	en	P.e	préposition	_	_	_	_	_	Gloss=en
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	wad	gwad	nom	_	_	_	_	_	Gloss=sang
 15	,	,	PUNCT	_	_	_	_	Gloss=punct
-16	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-17	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+16	en	P.e	préposition	_	_	_	_	_	Gloss=en
+17	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 18	benn	penn	nom	_	_	_	_	_	Gloss=tête
 19	.	.	PUNCT	_	_	_	_	Gloss=punct

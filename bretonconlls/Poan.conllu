@@ -1,15 +1,17 @@
 # sent_id = Gros(1984:522)__1
 # text = Poan ar re all a zo skañv da zougen.
 # text_fr = 'La peine des autres est légère (facile) à endurer.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Poan	Poan	nom	_	_	_	_	_	Gloss=peine
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-4	all	all	?	_	_	_	_	_	Gloss=autre
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+4	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
 7	skañv	skañv	adjectif	_	_	_	_	_	Gloss=léger
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	zougen	dougen	verbe	_	_	_	_	_	Gloss=porter
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,16 +22,16 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Doc'h	doc'h	?	_	_	_	_	_	Gloss=à
-2	en	POP	complémenteur	_	_	_	_	_	Gloss=le
+2	en	POP	pronom	_	_	_	_	_	Gloss=le
 3	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-4	a	hapa	préposition	_	_	_	_	_	Gloss=quand
+4	a	ha_pa	préposition	_	_	_	_	_	Gloss=quand
 5	pa	pa	complémenteur	_	_	_	_	_	Gloss=?
 6	red	redek	verbe	_	_	_	_	_	Gloss=court
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	poania	poania	?	_	_	_	_	_	Gloss=peine
-10	ur	art	?	_	_	_	_	_	Gloss=un
-11	bochad	bochad	adverbe-quantifieur	_	_	_	_	_	Gloss=masse
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+11	bochad	bochad	adverbe|quantifieur	_	_	_	_	_	Gloss=masse
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Doujet(2016:6)__1
@@ -38,10 +40,10 @@
 # dialect = Vannetais
 # source = Doujet (2016)
 # texttype = Ouvrages de recherche
-1	Mar	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+1	Mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 2	fal	fellout	verbe	_	_	_	_	_	Gloss=plaît
-3	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-4	oh	pronomincorporé	?	_	_	_	_	_	Gloss=vous
+3	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+4	oh	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
 5	dastum	dastum	verbe	_	_	_	_	_	Gloss=récolter
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	kemeret	kemer	verbe	_	_	_	_	_	Gloss=prenez
@@ -55,23 +57,24 @@
 # source = Thibault (1914)
 # texttype = Ouvrages de recherche
 1	pasemant	pasemant	préposition	_	_	_	_	_	Gloss=pas.seulement
-2	te	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-3	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	te	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+3	me	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 4	fwoen	fwoen	?	_	_	_	_	_	Gloss=peine
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGall(1957:'digeina')__1
 # text = Poan am-eus o tigeina goude beza chomet stouet keid-all.
 # text_fr = 'J'ai de la peine à me relever après être resté tellement penché.'
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Poan	Poan	nom	_	_	_	_	_	Gloss=peine
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	tigeina	di-.kein.-añ(V.)	?.nom.?	_	_	_	_	_	Gloss=dés.dos.er
-4	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-5	beza	bezañ	?	_	_	_	_	_	Gloss=être
-6	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-7	stouet	stouiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pench.é
-8	keid-all	keit	préposition-complémenteur-adjectif	_	_	_	_	_	Gloss=si.loin
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
+3	tigeina	di-.kein.-añ_(V.)	?.nom.verbe|suffixe	_	_	_	_	_	Gloss=dés.dos.er
+4	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+5	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+7	stouet	stouiñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pench.é
+8	keid-all	keit	complémenteur|adjectif|préposition	_	_	_	_	_	Gloss=si.loin
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fave(1998:132)__1
@@ -82,12 +85,12 @@
 # texttype = Ouvrages de recherche
 1	Poan	Poan	nom	_	_	_	_	_	Gloss=peine
 2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	kredi	krediñ	verbe	_	_	_	_	_	Gloss=croire
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	vefen	COP	?	_	_	_	_	_	Gloss=serais
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	vefen	COP	verbe	_	_	_	_	_	Gloss=serais
 7	pare	pare	adjectif	_	_	_	_	_	Gloss=guéri
-8	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+8	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:6)__6
@@ -97,15 +100,15 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	ziweza	diwezhat	adverbe	_	_	_	_	_	Gloss=tard]].[[superlatif|le.plus|Morph=1
-4	o-deveze	kaout	?	_	_	_	_	_	Gloss=avait
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	ziweza	diwezhat	adverbe	_	_	_	_	_	Gloss=tard]].[[superlatif|le.plus|Mutation=target|MutationNUM=1
+4	o-deveze	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	poan	poan	nom	_	_	_	_	_	Gloss=peine
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	kavoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
-8	eur	art	nom	_	_	_	_	_	Gloss=un
-9	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Morph=1
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	gador	kador	nom	_	_	_	_	_	Gloss=chaise|Mutation=target|MutationNUM=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:41)__3
@@ -116,11 +119,11 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	boan	boan	?	_	_	_	_	_	Gloss=peine
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-5	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
-6	eur	art	?	_	_	_	_	_	Gloss=un|Morph=1
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
+5	kaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+6	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un|Mutation=trigger|MutationNUM=1
 7	vaouez..	maouez	nom	_	_	_	_	_	Gloss=femme
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -129,17 +132,17 @@
 # text_fr = 'J'avais eu mille peines à me loger pour la nuit... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
+1	Mil	numéraux_cardinaux	?	_	_	_	_	_	Gloss=mille
 2	boan	boan	?	_	_	_	_	_	Gloss=peine
 3	em	em	?	_	_	_	_	_	Gloss=1SG
-4	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-7	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
-8	ur	art	?	_	_	_	_	_	Gloss=un
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
+7	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	gwele	gwele	nom	_	_	_	_	_	Gloss=lit
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-11	an	art	?	_	_	_	_	_	Gloss=le
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	noz..	noz	nom	_	_	_	_	_	Gloss=nuit
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -148,9 +151,9 @@
 # text_fr = 'Oh, ça n’a pas été difficile.'
 # source = Blanchard (2016)
 # texttype = Ouvrages de recherche
-1	O	interjection	?	_	_	_	_	_	Gloss=oh
+1	O	interjection	interjection	_	_	_	_	_	Gloss=oh
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	memp	kaout	?	_	_	_	_	_	Gloss=avons
+3	memp	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avons
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
 6	boan	boan	?	_	_	_	_	_	Gloss=peine
@@ -159,12 +162,13 @@
 # sent_id = LeGall(1958:'poan')__1
 # text = N'ema ket poan da vond.
 # text_fr = 'Il ne veut pas (y) aller.'
-# source = Le Gall (1958)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	poan	poan	nom	_	_	_	_	_	Gloss=peine
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -175,28 +179,29 @@
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	hini	hini	nom-pronom	_	_	_	_	_	Gloss=N
-2	eus	eus	?	_	_	_	_	_	Gloss=de
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	famil	familh	nom	_	_	_	_	_	Gloss=famille
-5	al	all	?	_	_	_	_	_	Gloss=autre
-6	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	hint	COP	?	_	_	_	_	_	Gloss=sont
+1	hini	hini	pronom|nom	_	_	_	_	_	Gloss=N
+2	eus	eus	préposition	_	_	_	_	_	Gloss=de
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	famil	familh	nom	_	_	_	_	_	Gloss=famille_
+5	al	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+6	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	hint	COP	verbe	_	_	_	_	_	Gloss=sont
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	é	P.e	?	_	_	_	_	_	Gloss=en
+9	é	P.e	préposition	_	_	_	_	_	Gloss=en
 10	poan	poan	nom	_	_	_	_	_	Gloss=peine
-11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 12	choum	chom	verbe	_	_	_	_	_	Gloss=rester
-13	ébars	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+13	ébars	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dedans
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Trégorrois, Hewitt (2001)__1
+# sent_id = Trégorrois,Hewitt(2001)__1
 # text = Ne veffe ked ar boan...
 # text_fr = (et non pas [[*]] 'Ce ne serait pas la peine... ')
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	veffe	COP	?	_	_	_	_	_	Gloss=serait
+# source = Burel (2012)
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	veffe	COP	verbe	_	_	_	_	_	Gloss=serait
 3	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	boan..	boan..	?	_	_	_	_	_	Gloss=1
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -207,18 +212,19 @@
 # texttype = Ouvrages de recherche
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 2	boan	boan	?	_	_	_	_	_	Gloss=peine
-3	kaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+3	kaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 4	aon	aon	nom	_	_	_	_	_	Gloss=peur
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	kwa	kwa	?	_	_	_	_	_	Gloss=quoi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  Vannetais (Riantec), RJ., collecté par B. Allaire, [http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.html dico parlants 2018]  __1
+# sent_id = Vannetais(Riantec),RJ.,collectéparB.Allaire,[http://dico.parlant.breton.free.fr/Riantec/b-allaire-riantec-rj-0001-a-0068.htmldicoparlants2018]__1
 # text = 'D e ǧ' er boén dehé-ind a hadein...
 # text_fr = 'Ça ne vaut pas la peine qu'ils sèment.'
+# source = Blanchard (2016)
 1	'	'	?	_	_	_	_	_	Gloss=N'@
 2	D	D	?	_	_	_	_	_	Gloss=?
-3	e	e	verbe-auxiliaire	_	_	_	_	_	Gloss=eo
+3	e	e	verbe	_	_	_	_	_	Gloss=eo
 4	ǧ'	ǧ'	adverbe	_	_	_	_	_	Gloss=ket
 5			PUNCT	_	_	_	_	Gloss=punct
 6	er	er	?	_	_	_	_	_	Gloss=ar

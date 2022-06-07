@@ -5,12 +5,12 @@
 # source = A. M. (04/2016b)
 # texttype = Élicitations
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	hag	Q	?	_	_	_	_	_	Gloss=si
+4	hag	Q	Q	_	_	_	_	_	Gloss=si
 5	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-6	noa	kaout	?	_	_	_	_	_	Gloss=avait
+6	noa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 7	choa	choa	?	_	_	_	_	_	Gloss=joie
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	ganañ	kanañ	verbe	_	_	_	_	_	Gloss=chanter
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

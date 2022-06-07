@@ -3,9 +3,9 @@
 # text_fr = 'quand pénétrera dans l'eau profonde... '
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=4
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=4
 2	teuy	dont	verbe	_	_	_	_	_	Gloss=viendra
-3	ban	e-barzh.art	préposition-postposition.?	_	_	_	_	_	Gloss=dans.le
+3	ban	e-barzh.art	préposition|postposition.déterminant|quantifieur	_	_	_	_	_	Gloss=dans.le
 4	dour	dour	nom	_	_	_	_	_	Gloss=eau
 5	don..	don..	?	_	_	_	_	_	Gloss=profond
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -16,14 +16,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Don	Don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
-2	'	kaout	?	_	_	_	_	_	Gloss=avez
+1	Don	Don	adverbe|adjectif	_	_	_	_	_	Gloss=profond
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	peus	peus	?	_	_	_	_	_	Gloss=?
-4	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-5	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+5	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 6	piz	biz	nom	_	_	_	_	_	Gloss=doigt
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-8	hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
+8	hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 9	lagad	lagad	nom	_	_	_	_	_	Gloss=oeil
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -36,8 +36,8 @@
 1	Nend	Nend	?	_	_	_	_	_	Gloss=ne
 2	an	mont	verbe	_	_	_	_	_	Gloss=vais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	don	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
-5	àr	war	?	_	_	_	_	_	Gloss=sur
-6	ar	art	?	_	_	_	_	_	Gloss=le
+4	don	don	adverbe|adjectif	_	_	_	_	_	Gloss=profond
+5	àr	war	préposition	_	_	_	_	_	Gloss=sur
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	pesked	pesk	nom	_	_	_	_	_	Gloss=poissons
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

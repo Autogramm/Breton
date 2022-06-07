@@ -3,16 +3,16 @@
 # text_fr = 'Je dois me procurer l'oiseau d'or, dit-il.'
 # location = Pleyben
 # source = Ar Floch (1950)
-1	Al	art	?	_	_	_	_	_	Gloss=le
-2	labous	labous	?	_	_	_	_	_	Gloss=oiseau
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	labous	labous	nom	_	_	_	_	_	Gloss=oiseau
 3	pleuñv	pleuñv	?	_	_	_	_	_	Gloss=plumage
 4	aour	aour	nom	_	_	_	_	_	Gloss=or
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-8	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+8	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	emezañ..	eme.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=dit.il
+10	emezañ..	eme.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=dit.il
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1950:157)__6
@@ -20,34 +20,36 @@
 # text_fr = 'Mais il en pousse chaque mois de nouvelles sur ce plumage.' (des plumes)
 # location = Pleyben
 # source = Ar Floch (1950)
-1	Hogen	hogen	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=mais
+1	Hogen	hogen	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=mais
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	pleuñv-se	DEM	?	_	_	_	_	_	Gloss=ci
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	pleuñv-se	DEM	pronom	_	_	_	_	_	Gloss=ci
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	gresk	kreskiñ	verbe	_	_	_	_	_	Gloss=croît
-7	bep	bep	?	_	_	_	_	_	Gloss=chaque
-8	miz	miz	?	_	_	_	_	_	Gloss=mois
-9	re	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+7	bep	bep	quantifieur	_	_	_	_	_	Gloss=chaque
+8	miz	miz	nom	_	_	_	_	_	Gloss=mois
+9	re	hini	pronom|nom	_	_	_	_	_	Gloss=celui
 10	nevez	nevez	adjectif	_	_	_	_	_	Gloss=nouveau
-11	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+11	warnañ	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Inisan(1930:11)__1
 # text = N'eo ket pluet a-walc'h da laboused; n'eus nemet marbleo warnezo.
 # text_fr = 'Tes oiseaux n'ont pas assez le plumage, ils n'ont qu'un duvet.'
-# source = Inisan (1930)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# dialect = Léonard
+# source = Inisan (1878b)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	pluet	pluet	?	_	_	_	_	_	Gloss=emplumé
 5	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
-6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-7	laboused	labous	?	_	_	_	_	_	Gloss=oiseaux
+6	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+7	laboused	labous	nom	_	_	_	_	_	Gloss=oiseaux
 8	;	;	PUNCT	_	_	_	_	Gloss=punct
-9	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-10	eus	E	?	_	_	_	_	_	Gloss=est
-11	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+9	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+10	eus	E	verbe	_	_	_	_	_	Gloss=est
+11	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
 12	marbleo	mar-.blev	?.nom	_	_	_	_	_	Gloss=pfx.chevelure
-13	warnezo	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.eux
+13	warnezo	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.eux
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

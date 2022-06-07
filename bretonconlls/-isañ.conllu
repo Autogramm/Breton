@@ -1,0 +1,16 @@
+sent_id = Haute-Cornouaille(Plouyé)__1
+text = evid 'n-om reünissañ.
+text_fr =  'pour se réunir.'
+1	evid	evit	préposition	_	_	_	_	_	Gloss=pour
+2	'n-om	en em	verbe	_	_	_	_	_	Gloss=se
+3	reünissañ	reünissañ	?	_	_	_	_	_	Gloss=réunir
+4	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Haute-Cornouaille(Plouyé),KazetennarMenez1981,audiosur[http://brezhoneg-digor.blogspot.fr/2010/07/kleub-ba-plouie.htmlbrezhonegdigor]__1
+text = Ar mêr neus fournisset ar lokal.
+text_fr =  'Le maire a fourni le local.'
+1	Ar mêr	art	article	_	_	_	_	_	Gloss=le
+2	neus	kaout	verbe	_	_	_	_	_	Gloss=a
+3	fournisset	fournisset	?	_	_	_	_	_	Gloss=fournit
+4	ar lokal	art	article	_	_	_	_	_	Gloss=le
+5	.	.	PUNCT	_	_	_	_	_	Gloss=punct

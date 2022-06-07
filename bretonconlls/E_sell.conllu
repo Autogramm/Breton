@@ -1,12 +1,14 @@
 # sent_id = Gros(1984:317)__1
 # text = Deh e oan e-sell da vezañ eet.
 # text_fr = 'Hier je comptais y aller.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Deh	dec'h	?	_	_	_	_	_	Gloss=hier
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oan	COP	nom	_	_	_	_	_	Gloss=étais
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 4	e-sell	P.e	préposition	_	_	_	_	_	Gloss=en
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-6	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+6	vezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 7	eet	mont	verbe	_	_	_	_	_	Gloss=allé
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

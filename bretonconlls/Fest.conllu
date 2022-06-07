@@ -7,15 +7,15 @@
 1	Farsusoc'h	farsus.-oc'h	adjectif.?	_	_	_	_	_	Gloss=drôle.plus
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	'	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	'	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=quand
 6	benn	benn	?	_	_	_	_	_	Gloss=?
-7	??	??	?	_	_	_	_	_	Gloss=R|Morph=4
+7	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 9	teu	dont	verbe	_	_	_	_	_	Gloss=vient
-10	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+10	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
 11	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
-13	ar	art	?	_	_	_	_	_	Gloss=le
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	fest	fest	nom	_	_	_	_	_	Gloss=fête
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

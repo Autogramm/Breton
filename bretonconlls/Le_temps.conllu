@@ -1,16 +1,16 @@
 # sent_id = 'Monpèreserarestéboireunverreaveclevoisin.'__1
 # text = Chomet e vo ma zad da evañ ur banne gant an amezeg.
 # text_fr = Heinecke (2001]]:82)
-1	Chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
-4	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+4	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	zad	tad	nom	_	_	_	_	_	Gloss=père
-6	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 7	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	banne	banne	?	_	_	_	_	_	Gloss=verre
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	an	art	?	_	_	_	_	_	Gloss=le
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	banne	banne	quantifieur	_	_	_	_	_	Gloss=verre
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	amezeg	amezeg	nom	_	_	_	_	_	Gloss=voisin
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

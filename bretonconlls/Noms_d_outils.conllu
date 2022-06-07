@@ -4,16 +4,16 @@
 # dialect = Trégorrois
 # source = Gros (1974)
 # texttype = Ouvrages de recherche
-1	E	P.e	?	_	_	_	_	_	Gloss=à
+1	E	P.e	préposition	_	_	_	_	_	Gloss=à
 2	kernebleh	kêr.nep-.lec'h	nom.quantifieur.?	_	_	_	_	_	Gloss=ker.nul.lieu
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	yod	yod	nom	_	_	_	_	_	Gloss=bouillie
-7	gant	gant	?	_	_	_	_	_	Gloss=avec
-8	ur	art	?	_	_	_	_	_	Gloss=un
+7	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	sklisenn	sklisenn	?	_	_	_	_	_	Gloss=palette
-10	grampouez	krampouezh	nom	_	_	_	_	_	Gloss=crêpes|Morph=1
+10	grampouez	krampouezh	nom	_	_	_	_	_	Gloss=crêpes|Mutation=target|MutationNUM=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Briant-Cadiou(1998:191)__1
@@ -22,14 +22,14 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
-2	waz	gwaz	?	_	_	_	_	_	Gloss=homme
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
+2	waz	gwaz	nom	_	_	_	_	_	Gloss=homme
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
-5	beza	bezañ	?	_	_	_	_	_	Gloss=être
-6	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
-8	gand	gant	?	_	_	_	_	_	Gloss=avec
-9	an	art	?	_	_	_	_	_	Gloss=le
+8	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	ostill-ze	ostilh	nom	_	_	_	_	_	Gloss=outil
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

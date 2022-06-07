@@ -5,12 +5,12 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Tec'het	tec'hout	?	_	_	_	_	_	Gloss=enfui
-2	'	kaout	?	_	_	_	_	_	Gloss=a
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	neus	neus	?	_	_	_	_	_	Gloss=?
 4	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
 5	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	eontroù-kordenn	eontr.-où(PL.)	nom.?	_	_	_	_	_	Gloss=oncle.s
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	eontroù-kordenn	eontr.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=oncle.s
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1932:6)__1
@@ -18,38 +18,40 @@
 # text_fr = 'Il avait devant lui une tasse de café.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	Un	art	?	_	_	_	_	_	Gloss=un
-2	tasad	-ad	?	_	_	_	_	_	Gloss=ée
+1	Un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	tasad	-ad	suffixe|nom	_	_	_	_	_	Gloss=ée
 3	kafe	kafe	nom	_	_	_	_	_	Gloss=café
 4	du	du	adjectif	_	_	_	_	_	Gloss=noir
 5	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-6	doa	kaout	?	_	_	_	_	_	Gloss=avait
-7	dirazañ	pronomincorporé	?	_	_	_	_	_	Gloss=lui
+6	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+7	dirazañ	pronom_incorporé	?	_	_	_	_	_	Gloss=lui
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGléau(1973:41)__1
 # text = Pa reot meuleudi un all bennak dirazo, emaint raktal ankeniet.
 # text_fr = 'Ils sont tout se suite inquiets quand sont chantées devant eux les louanges de quelque autre.'
 # source = KAV.
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	reot	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
+# texttype = Références de corpus
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	reot	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
 3	meuleudi	meuleudi	nom	_	_	_	_	_	Gloss=louanges
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	all	all	?	_	_	_	_	_	Gloss=autre
-6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-7	dirazo	pronomincorporé	?	_	_	_	_	_	Gloss=eux
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+6	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+7	dirazo	pronom_incorporé	?	_	_	_	_	_	Gloss=eux
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	emaint	COP	?	_	_	_	_	_	Gloss=sont
+9	emaint	COP	verbe	_	_	_	_	_	Gloss=sont
 10	raktal	raktal	adverbe	_	_	_	_	_	Gloss=de.suite
 11	ankeniet	ankeniet	?	_	_	_	_	_	Gloss=inquiet
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:34)__1
+# sent_id = Nicolas(2005:34)__1
 # text = emañ dirak-din  emañ diragzimp
 # text_fr = 'Il/elle est devant moi, Il/elle est devant nous.'
-# text_phon = ['[ ma', 'diraktaɲ ]', ',', '[ ma', 'diragzɛm ]']
-1	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=se.trouve
-2	dirak-din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-3	??	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=se.trouve
+# text_phon =  ma diraktaɲ ] , [ ma diragzɛm  
+# source = KAV.
+1	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=se.trouve
+2	dirak-din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	??	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=se.trouve
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
-5	emañ	pronomincorporé	verbe-auxiliaire	_	_	_	_	_	Gloss=nous
+5	emañ	pronom_incorporé	verbe|auxiliaire	_	_	_	_	_	Gloss=nous

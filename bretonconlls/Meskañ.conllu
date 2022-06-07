@@ -6,19 +6,19 @@
 1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=Q
 2	hag	hag-eñ	complémenteur	_	_	_	_	_	Gloss=que
 3	eñ	eñ	?	_	_	_	_	_	Gloss=?
-4	e	e	?	_	_	_	_	_	Gloss=R
+4	e	e	verbe	_	_	_	_	_	Gloss=R
 5	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 8	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
 9	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 10	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	veskañ	veskañ	?	_	_	_	_	_	Gloss=battre
-13	ar	art	?	_	_	_	_	_	Gloss=le
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	ribot	ribot	?	_	_	_	_	_	Gloss=ribot
 15	hep	hep	préposition	_	_	_	_	_	Gloss=sans
-16	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+16	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 17	amann	amann	nom	_	_	_	_	_	Gloss=beurre
 18	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -27,11 +27,11 @@
 # text_fr = 'avec des raisins et du jaune d’œuf dans la pâte'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	rezin	rezin	nom	_	_	_	_	_	Gloss=raisins
-3	ha	&	?	_	_	_	_	_	Gloss=et
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 4	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune
-5	vi	vi,u	?	_	_	_	_	_	Gloss=œuf
+5	vi	vi,_u	nom	_	_	_	_	_	Gloss=œuf
 6	mesklet	mesklet	?	_	_	_	_	_	Gloss=mélangé
-7	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 8	toaz	toaz	nom	_	_	_	_	_	Gloss=pâte

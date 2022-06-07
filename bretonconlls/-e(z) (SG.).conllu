@@ -1,0 +1,10 @@
+sent_id = ArMerser(2009:§'rayonner')__1
+text = E zremm a bar warni al levenez.
+text_fr =  'Son visage rayonne de bonheur.'
+1	E	POSS	nom	_	_	_	_	_	Gloss=son
+2	zremm	dremm	nom	_	_	_	_	_	Gloss=visage
+3	a	[[R]]_[[1]]	préposition	_	_	_	_	_	Gloss=[[R]]_[[1]]
+4	bar	parañ	verbe	_	_	_	_	_	Gloss=brille
+5	warni	war.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=sur.elle
+6	al levenez	art	article	_	_	_	_	_	Gloss=le
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct

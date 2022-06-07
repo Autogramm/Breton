@@ -6,25 +6,26 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Etre	etre	préposition	_	_	_	_	_	Gloss=entre
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	werzherien	gwerzhañ	verbe	_	_	_	_	_	Gloss=vend]].[[-erien|eurs|Morph=1
-4	hag	&	?	_	_	_	_	_	Gloss=et
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	brenerien	prenañ	verbe	_	_	_	_	_	Gloss=achet]].[[-erien|eurs|Morph=1
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	werzherien	gwerzhañ	verbe	_	_	_	_	_	Gloss=vend]].[[-erien|eurs|Mutation=target|MutationNUM=1
+4	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	brenerien	prenañ	verbe	_	_	_	_	_	Gloss=achet]].[[-erien|eurs|Mutation=target|MutationNUM=1
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 9	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
 10	kreñv	kreñv	adjectif	_	_	_	_	_	Gloss=fort
 11	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:356)__1
+# sent_id = Bouzec&al.(2017:356)__1
 # text = Sar tisplant 'r wruienn, meus chanch't re greñoñ...
 # text_fr = 'En arrachant une racine, j'ai tiré trop fort... '
-1	Sar	Sar	?	_	_	_	_	_	Gloss=E-ser
+# source = Briant-Cadiou (1998)
+1	Sar	Sar	préposition	_	_	_	_	_	Gloss=E-ser
 2	tisplant	tisplant	?	_	_	_	_	_	Gloss=displantañ
 3	'	'	?	_	_	_	_	_	Gloss=ur
-4	r	r	?	_	_	_	_	_	Gloss=wrizienn,
+4	r	r	particules verbale	_	_	_	_	_	Gloss=wrizienn,
 5	wruienn,	wruienn,	?	_	_	_	_	_	Gloss=?
 6	chanch'	chanch'	?	_	_	_	_	_	Gloss=sachet
 7	t	t	?	_	_	_	_	_	Gloss=?

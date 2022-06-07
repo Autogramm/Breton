@@ -1,13 +1,15 @@
 # sent_id = Gros(1989:'abuzi')__1
 # text = Daoust peleh eo abuzet ar falz-se ?
 # text_fr = 'Je me demande où est restée cette faucille-là ? '
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
 2	peleh	pelec'h	?	_	_	_	_	_	Gloss=où
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	abuzet	abuziñ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=occup.é
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	falz-se	DEM	?	_	_	_	_	_	Gloss=là
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	abuzet	abuziñ.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=occup.é
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	falz-se	DEM	pronom	_	_	_	_	_	Gloss=là
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:38)__1
@@ -19,16 +21,16 @@
 # texttype = Ouvrages de recherche
 1	Kamm	kamm	adjectif	_	_	_	_	_	Gloss=courbe
 2	giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
-3	'	art	?	_	_	_	_	_	Gloss=un
+3	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4			PUNCT	_	_	_	_	Gloss=punct
 5	falz	falz	nom	_	_	_	_	_	Gloss=faux
-6	ha	&	?	_	_	_	_	_	Gloss=et
-7	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
-9	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 10	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-12	'	art	?	_	_	_	_	_	Gloss=un
+12	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 13			PUNCT	_	_	_	_	Gloss=punct
 14	falz	falz	nom	_	_	_	_	_	Gloss=faux
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

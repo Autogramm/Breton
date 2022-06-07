@@ -5,8 +5,8 @@
 # source = Lozach (2014)
 1	Douar-gretel	douar	nom	_	_	_	_	_	Gloss=terre
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	un	art	?	_	_	_	_	_	Gloss=un
-4	tammig	tamm.DIM	quantifieur.?	_	_	_	_	_	Gloss=morceau.petit
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+4	tammig	tamm.DIM	quantifieur.DIM	_	_	_	_	_	Gloss=morceau.petit
 5	kras	kras	?	_	_	_	_	_	Gloss=séché
 6	his-se	giz	nom	_	_	_	_	_	Gloss=façon
 
@@ -19,27 +19,28 @@
 # texttype = Ouvrages de recherche
 1	Gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	a-walh	awalc'h	?	_	_	_	_	_	Gloss=assez
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	rez	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-5	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	rez	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+5	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
 6	gleb	gleb	adjectif	_	_	_	_	_	Gloss=mouillé
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	an	art	?	_	_	_	_	_	Gloss=le
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	ti-mañ	ti	nom	_	_	_	_	_	Gloss=maison
-10	hag-eñ	hageñ	complémenteur	_	_	_	_	_	Gloss=alors.que
-11	pegen	pegen	?	_	_	_	_	_	Gloss=combien
+10	hag-eñ	hag_eñ	complémenteur	_	_	_	_	_	Gloss=alors.que
+11	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
 12	kraz	kraz	adjectif	_	_	_	_	_	Gloss=sec
-13	an	art	?	_	_	_	_	_	Gloss=le
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:30)__4
 # text = ur gouelec’h krin ha kras
 # text_fr = 'un désert aride et desséché'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	ur	art	?	_	_	_	_	_	Gloss=un
+1	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	gouelec’h	gouelec’h	?	_	_	_	_	_	Gloss=désert
 3	krin	krin	?	_	_	_	_	_	Gloss=aride
-4	ha	&	?	_	_	_	_	_	Gloss=et
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 5	kras	kras	?	_	_	_	_	_	Gloss=desséché

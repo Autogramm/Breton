@@ -1,16 +1,17 @@
 # sent_id = Kervella(2001:11)__1
 # text = Ma Doue ! Gwir eo !... Diverc'hiet on ... !
 # text_fr = 'Mon Dieu ! C'est vrai ! ... Ah ! Je respire !... '
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	Gwir	gwir	adjectif|nom	_	_	_	_	_	Gloss=vrai
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	!...	!...	?	_	_	_	_	_	Gloss=?
-7	Diverc'hiet	di-,dis-	?	_	_	_	_	_	Gloss=dé|Morph=1
-8	on	COP	?	_	_	_	_	_	Gloss=suis
+7	Diverc'hiet	di-,_dis-.Diverc'hiet.bec'h.[-et_(Adj.)	?.?.?.?	_	_	_	_	_	Gloss=dé.1.charge.é
+8	on	COP	verbe	_	_	_	_	_	Gloss=suis
 9	...	...	PUNCT	_	_	_	_	Gloss=punct
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,14 +20,14 @@
 # text_fr = 'Nous avons toujours aimé Dieu.'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Ni	pfi	?	_	_	_	_	_	Gloss=nous
+1	Ni	pfi	pronom	_	_	_	_	_	Gloss=nous
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	n	kaout	?	_	_	_	_	_	Gloss=a
-4	eus	eus	?	_	_	_	_	_	Gloss=?
+3	n	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	eus	eus	préposition	_	_	_	_	_	Gloss=?
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	karet	karout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=aim.é
+6	karet	karout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=aim.é
 7	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 10	Doue	Doue	nom	_	_	_	_	_	Gloss=Dieu
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -34,17 +35,18 @@
 # sent_id = Kervella(2001:35)__1
 # text = En an' Doue ! Komzit 'ta, ma flac'h !
 # text_fr = 'Au nom du ciel ! Parlez, ma fille !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	En	P.e	complémenteur	_	_	_	_	_	Gloss=en
+1	En	P.e	préposition	_	_	_	_	_	Gloss=en
 2	an'	anv	nom	_	_	_	_	_	Gloss=nom
 3			PUNCT	_	_	_	_	Gloss=punct
 4	Doue	Doue	nom	_	_	_	_	_	Gloss=?
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Komzit	komz	verbe	_	_	_	_	_	Gloss=parlez
-7	'	eta	?	_	_	_	_	_	Gloss=donc!
+7	'	eta	conjonction	_	_	_	_	_	Gloss=donc_!
 8	ta,	ta,	?	_	_	_	_	_	Gloss=?
-9	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	flac'h	plac'h	?	_	_	_	_	_	Gloss=fille
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -55,10 +57,10 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	yezh	yezh	nom	_	_	_	_	_	Gloss=langue
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	veze	COP	?	_	_	_	_	_	Gloss=était
-5	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+4	veze	COP	verbe	_	_	_	_	_	Gloss=était
+5	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 6	bemdez-doue	bemdez	adverbe	_	_	_	_	_	Gloss=chaque.jour
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

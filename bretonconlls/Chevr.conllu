@@ -1,15 +1,17 @@
 # sent_id = Gros(1989:'divalo')__1
 # text = Eun toullad chevr evel-se da lein na vez ket divalo.
 # text_fr = 'Quelques crevettes comme cela au déjeuner, ce n'est pas mauvais.'
-# source = Gros (1989)
-1	Eun	art	?	_	_	_	_	_	Gloss=un
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	toullad	toullad	quantifieur	_	_	_	_	_	Gloss=poignée
 3	chevr	chevr	nom	_	_	_	_	_	Gloss=crevettes
-4	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-5	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+5	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	lein	lein	nom	_	_	_	_	_	Gloss=déjeuner
-7	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Morph=1
-8	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+7	na	na	?	_	_	_	_	_	Gloss=ne]].[[R|Mutation=trigger|MutationNUM=1
+8	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	divalo	divalav	adjectif	_	_	_	_	_	Gloss=laid
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -20,12 +22,12 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
-3	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-4	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-5	ar	art	?	_	_	_	_	_	Gloss=le
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
+3	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+4	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	chifretez	chifretez	?	_	_	_	_	_	Gloss=crevettes
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	yañtao	yantav	?	_	_	_	_	_	Gloss=du.moins
+8	yañtao	yantav	adverbe	_	_	_	_	_	Gloss=du.moins
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

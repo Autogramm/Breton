@@ -2,8 +2,8 @@
 # text = Bet on e neblec'h.
 # text_fr = 'Je suis allé.e nulle part'
 1	Bet	bet	?	_	_	_	_	_	Gloss=été
-2	on	COP	?	_	_	_	_	_	Gloss=suis
-3	e	P.e	?	_	_	_	_	_	Gloss=P
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
+3	e	P.e	préposition	_	_	_	_	_	Gloss=P
 4	neblec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -11,6 +11,6 @@
 # text = Neblec'h e tebran.
 # text_fr = 'Nulle part je ne mange'
 1	Neblec'h	Neblec'h	?	_	_	_	_	_	Gloss=NEG.lieu
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	tebran	debriñ	verbe	_	_	_	_	_	Gloss=mange
 4	.	.	PUNCT	_	_	_	_	Gloss=punct

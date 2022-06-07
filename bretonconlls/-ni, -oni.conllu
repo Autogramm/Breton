@@ -1,0 +1,32 @@
+sent_id = LeGarrec(1901:116)__1
+text = Kê, lousdoni ar foeltr!
+text_fr =  'Va, saleté du diable!'
+1	Kê	mont	verbe	_	_	_	_	_	Gloss=va
+2	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+3	lousdoni	lous.-oni	adjectif.nom	_	_	_	_	_	Gloss=sal.eté
+4	ar foeltr	art	article	_	_	_	_	_	Gloss=le
+5	!	!	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = ArMeliner(2009:107)__1
+text = he dorn rouzet d'ar seizh amzer ha kuilhet d'ar gozhoni.
+text_fr = '[sa] main brunie par le vent et le soleil, et ridée par la vieillesse.'
+1	he	POSS	nom	_	_	_	_	_	Gloss=son
+2	dorn	dorn	nom	_	_	_	_	_	Gloss=main
+3	rouzet	rouzet	?	_	_	_	_	_	Gloss=roussie
+4	d'	d'	?	_	_	_	_	_	Gloss=da|par
+5	ar	art	article	_	_	_	_	_	Gloss=le
+6	seizh amzer	les numéraux cardinaux	adjectif	_	_	_	_	_	Gloss=sept
+7	ha kuilhet	&	conjonction	_	_	_	_	_	Gloss=et
+8	d'	d'	?	_	_	_	_	_	Gloss=da|par
+9	ar	art	article	_	_	_	_	_	Gloss=le
+10	gozhoni	kozh.-oni	adjectif.nom	_	_	_	_	_	Gloss=viel.lesse
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Vallée(1980:XVIII)__1
+text = kemerout c'houervoni ouz c'houevderiou ar vuhez
+text_fr =  'contracter de l'amertume (dans l'âme) contre les amertumes (des choses) de la vie.'
+1	kemerout	kemer.-out	verbe.verbe	_	_	_	_	_	Gloss=prend.re
+2	c'houervoni	c'hwerv	adjectif	_	_	_	_	_	Gloss=amer
+3	ouz	ouzh	préposition	_	_	_	_	_	Gloss=contre
+4	c'houevderiou	c'hwerv	adjectif	_	_	_	_	_	Gloss=amer
+5	ar vuhez	art	article	_	_	_	_	_	Gloss=le

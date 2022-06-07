@@ -1,26 +1,28 @@
 # sent_id = LeGall(1957:'depegn')__1
 # text = Depegn eo pellaad ar zahadou id diouz ar voger ...
 # text_fr = 'Il est nécessaire d'éloigner les sacs de blé du mur ... '
-# source = Le Gall (1957)
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
 1	Depegn	depegn	?	_	_	_	_	_	Gloss=nécessaire
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	pellaad	pell.-aat	adjectif.verbe	_	_	_	_	_	Gloss=loin.-er
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	zahadou	sac'h.-ad.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=sac.ée.s
-6	id	id	?	_	_	_	_	_	Gloss=blé
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	pellaad	pell.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=loin.-er
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	zahadou	sac'h.-ad.-où_(PL.)	?.suffixe|nom.suffixe	_	_	_	_	_	Gloss=sac.ée.s
+6	id	id	?	_	_	_	_	_	Gloss=?
 7	diouz	diouzh	préposition	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	voger	moger	verbe	_	_	_	_	_	Gloss=mur|Morph=1
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	voger	moger	verbe	_	_	_	_	_	Gloss=mur|Mutation=target|MutationNUM=1
 10	...	...	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:259)__1
+# sent_id = Bouzec&al.(2017:259)__1
 # text =  Posupl 'vê id, 'vê trèt't.
 # text_fr = 'Même si c'est du blé, ils le traitent.'
+# source = Le Gall (1957-58)
 1	??	??	?	_	_	_	_	_	Gloss=Na
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	'	'	verbe-auxiliaire	_	_	_	_	_	Gloss=vez
+3	'	'	verbe|auxiliaire	_	_	_	_	_	Gloss=vez
 4	vê	vê	?	_	_	_	_	_	Gloss=?
-5	'	'	verbe-auxiliaire	_	_	_	_	_	Gloss=vez
+5	'	'	verbe|auxiliaire	_	_	_	_	_	Gloss=vez
 6	vê	vê	?	_	_	_	_	_	Gloss=?
 7	trèt'	trèt'	?	_	_	_	_	_	Gloss=tretet.
 8	t.	t.	?	_	_	_	_	_	Gloss=?
@@ -30,19 +32,19 @@
 # text_fr = 'Les céréales ne peuvent pas mûrir à cause du mauvais temps'.
 # source = A-M. Louboutin (09/2015a)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	ed	ed	nom	_	_	_	_	_	Gloss=céréales
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
 4			PUNCT	_	_	_	_	Gloss=punct
 5	int	int	?	_	_	_	_	_	Gloss=?
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 7	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	have	have	?	_	_	_	_	_	Gloss=mûrir
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	an	art	?	_	_	_	_	_	Gloss=le
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	have	have	verbe|auxiliaire	_	_	_	_	_	Gloss=mûrir
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-13	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+13	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Stephens(1982:105)__1
@@ -53,10 +55,10 @@
 1	Debriñ	debriñ	verbe	_	_	_	_	_	Gloss=manger
 2	krampouezh	krampouezh	nom	_	_	_	_	_	Gloss=galettes
 3	ed-du	du	adjectif	_	_	_	_	_	Gloss=noir
-4	ne	ne	?	_	_	_	_	_	Gloss=ne
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+7	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ernault(1876-1878:233)__2
@@ -66,12 +68,12 @@
 # location = Sarzeau
 # source = Ernault (1876-1878)
 # texttype = Ouvrages de recherche
-1	mar	ma(r)	nom	_	_	_	_	_	Gloss=si
+1	mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	fôt	faotañ	verbe	_	_	_	_	_	Gloss=faut
-3	t'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	t'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	iac'h	iac'h	?	_	_	_	_	_	Gloss=?
 5	dorneiñ	dornañ	verbe	_	_	_	_	_	Gloss=battre
-6	men	POSS	?	_	_	_	_	_	Gloss=mon
+6	men	POSS	déterminant	_	_	_	_	_	Gloss=mon
 7	gunaic'h	gwinizh	nom	_	_	_	_	_	Gloss=blé
 8	arhoac'h	warc'hoazh	?	_	_	_	_	_	Gloss=demain
 
@@ -82,17 +84,17 @@
 # location = Sarzeau
 # source = Ernault (1876-1878)
 # texttype = Ouvrages de recherche
-1	huei	pfi	?	_	_	_	_	_	Gloss=vous
+1	huei	pfi	pronom	_	_	_	_	_	Gloss=vous
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zou	zo	?	_	_	_	_	_	Gloss=est
 4	kaust	kaoz	nom	_	_	_	_	_	Gloss=cause
 5	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 6	em	em	?	_	_	_	_	_	Gloss=1SG
-7	ës	kaout	?	_	_	_	_	_	Gloss=a
-8	lakeit	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-9	men	POSS	?	_	_	_	_	_	Gloss=mon
+7	ës	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+8	lakeit	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+9	men	POSS	déterminant	_	_	_	_	_	Gloss=mon
 10	ghunaic'h	gwinizh	nom	_	_	_	_	_	Gloss=blé
-11	ar	war	?	_	_	_	_	_	Gloss=sur
-12	äl	art	?	_	_	_	_	_	Gloss=le
+11	ar	war	préposition	_	_	_	_	_	Gloss=sur
+12	äl	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	lair..	leur	?	_	_	_	_	_	Gloss=aire
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

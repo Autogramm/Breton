@@ -3,33 +3,35 @@
 # text_fr = 'Si on ne tourne pas les pages avec grande attention, elles tombent en poussière.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kemeret	kemer	verbe	_	_	_	_	_	Gloss=pris
 5	evezh	evezh	nom	_	_	_	_	_	Gloss=attention
-6	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	treiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-10	kouezhont	kouezhañ	?	_	_	_	_	_	Gloss=tombent
-11	e	P.e	?	_	_	_	_	_	Gloss=en
-12	poultrenn	poultrenn	?	_	_	_	_	_	Gloss=poussière
-13	.	.	PUNCT	_	_	_	_	Gloss=punct
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	pajennoù	pajenn.-où_(PL.)	?.suffixe	_	_	_	_	_	Gloss=page.s
+11	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+12	kouezhont	kouezhañ	verbe	_	_	_	_	_	Gloss=tombent
+13	e	P.e	préposition	_	_	_	_	_	Gloss=en
+14	poultrenn	poultrenn	?	_	_	_	_	_	Gloss=poussière
+15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = HorYezh(1983:75-76)__3
 # text = An dud a ouie dont tout da di Mémère neuze.
-# text_fr = 'Les gens venaient alors tous chez ''Mémère''.'
+# text_fr = 'Les gens venaient alors tous chez Mémère.'
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
 1	a	a	préposition	_	_	_	_	_	Gloss=R
-2	ouie	Auxiliairegouzout	?	_	_	_	_	_	Gloss=AUX
+2	ouie	Auxiliaire_gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=AUX
 3	dont	dont	verbe	_	_	_	_	_	Gloss=venir
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	di	ti	nom	_	_	_	_	_	Gloss=maison
-6	Mémère	nompropre	?	_	_	_	_	_	Gloss=Mémère
-7	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+6	Mémère	nom_propre	?	_	_	_	_	_	Gloss=Mémère
+7	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:102)__1
@@ -38,5 +40,5 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2

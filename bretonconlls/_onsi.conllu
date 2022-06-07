@@ -3,11 +3,11 @@
 # text_fr = 'Il y a beaucoup de vols de vélos par ici.'
 # source = Y. M. (04/2016)
 # texttype = Élicitations
-1	Amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 2	ez	ez	?	_	_	_	_	_	Gloss=R
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
-4	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+4	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 5	a	a	préposition	_	_	_	_	_	Gloss=de
-6	laeronsi	laerañ	?	_	_	_	_	_	Gloss=vol
-7	veloioù	belo	nom	_	_	_	_	_	Gloss=vélo]].[[-ioù(PL.)|s|Morph=1
+6	laeronsi	laerañ	verbe	_	_	_	_	_	Gloss=vol
+7	veloioù	belo	nom	_	_	_	_	_	Gloss=vélo]].[[-ioù_(PL.)|s|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

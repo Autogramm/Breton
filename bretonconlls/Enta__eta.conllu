@@ -1,15 +1,16 @@
 # sent_id = Herrieu(1994:45)__2
 # text = C'hoazh e redo ar gwad enta.
 # text_fr = 'Le sang coulera donc encore.'
-# source = Herrieu (1994)
-1	C'	c'hoazh	?	_	_	_	_	_	Gloss=encore
-2	hoazh	hoazh	?	_	_	_	_	_	Gloss=?
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	redo	redek	verbe	_	_	_	_	_	Gloss=courra
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
-7	enta	enta	?	_	_	_	_	_	Gloss=donc
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	C'hoazh	c'hoazh	?	_	_	_	_	_	Gloss=encore
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	redo	redek	verbe	_	_	_	_	_	Gloss=courra
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gwad	gwad	nom	_	_	_	_	_	Gloss=sang
+6	enta	enta	conjonction	_	_	_	_	_	Gloss=donc
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:39)__1
 # text = Disoursi en dehe bevet enta...
@@ -17,7 +18,7 @@
 # source = ar Meliner (2009)
 1	Disoursi	di-.sourci	?.nom	_	_	_	_	_	Gloss=sans.souci
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	dehe	kaout	?	_	_	_	_	_	Gloss=aurait
+3	dehe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 4	bevet	bevañ	verbe	_	_	_	_	_	Gloss=vécu
 5	enta..	enta..	?	_	_	_	_	_	Gloss=donc
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -31,34 +32,35 @@
 # texttype = Références de corpus
 1	Eclati	Eclati	?	_	_	_	_	_	Gloss=éclater
 2	â	â	?	_	_	_	_	_	Gloss=R
-3	réas-ta	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	ar	art	?	_	_	_	_	_	Gloss=le
+3	réas-ta	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	révolution	révolution	?	_	_	_	_	_	Gloss=révolution
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	partial	partial	verbe	_	_	_	_	_	Gloss=partir
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	voa	COP	?	_	_	_	_	_	Gloss=était
+9	voa	COP	verbe	_	_	_	_	_	Gloss=était
 10	rét	ret	?	_	_	_	_	_	Gloss=obligé
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,Kerrain(2001)__10
 # text = N'ouzon ket piv eo, gant se n'hallin ket kontañ e vuhez dit.
 # text_fr = 'Je ne sais pas qui c'est, donc je ne peux pas te raconter sa vie.'
+# dialect = Standard
 # source = Kerrain (2001)
 # texttype = Ouvrages pédagogiques
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	gant	gant	?	_	_	_	_	_	Gloss=avec
+7	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 8	se	se	pronom	_	_	_	_	_	Gloss=?
-9	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 10	hallin	gallout	verbe	_	_	_	_	_	Gloss=pourrais
 11	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 12	kontañ	kontañ	verbe	_	_	_	_	_	Gloss=conter
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	vuhez	buhez	nom	_	_	_	_	_	Gloss=vie
-15	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+15	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

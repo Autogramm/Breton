@@ -5,13 +5,13 @@
 # location = Cléder
 # source = Seite (1985)
 # texttype = Références de corpus
-1	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
-2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	veze	COP	?	_	_	_	_	_	Gloss=était
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	genaouajou	genoù.-ach,-aj.[-où(PL.)	nom.?.?	_	_	_	_	_	Gloss=bouche.ée.s
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+1	Ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=tant
+2	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	veze	COP	verbe	_	_	_	_	_	Gloss=était
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	genaouajou	genoù.-ach,_-aj.[-où_(PL.)	nom.suffixe|nom.?	_	_	_	_	_	Gloss=bouche.ée.s
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	venne	mennout	verbe	_	_	_	_	_	Gloss=voulait
 9	tourlonka..	lonkañ	verbe	_	_	_	_	_	Gloss=avaler
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -23,19 +23,19 @@
 # source = Al Lay (1925)
 # texttype = Références de corpus
 1	E-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
-2	tôler	taoler	?	_	_	_	_	_	Gloss=jeter
+2	tôler	taoler	verbe	_	_	_	_	_	Gloss=jeter
 3	evez	evezh	nom	_	_	_	_	_	Gloss=attention
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-7	vihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+7	vihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit|Mutation=target|MutationNUM=1
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
 10	ez	mont	verbe	_	_	_	_	_	Gloss=vas
-11	gante	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
-12	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+11	gante	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
+12	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 13	redek	redek	verbe	_	_	_	_	_	Gloss=courir
 14	,	,	PUNCT	_	_	_	_	Gloss=punct
-15	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+15	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 16	dourvarc'hat	dourvarc'hat	?	_	_	_	_	_	Gloss=vagabonger
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

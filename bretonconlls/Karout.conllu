@@ -1,17 +1,19 @@
 # sent_id = Herrieu(1994:288)__1
 # text = Respont a ran dezhoñ e karan gwell frankiz eget argant.
 # text_fr = 'Je lui réponds que je préfère la liberté à l'argent.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Respont	Respont	?	_	_	_	_	_	Gloss=répondre
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	karan	karan	?	_	_	_	_	_	Gloss=aime
-7	gwell	gwell	?	_	_	_	_	_	Gloss=mieux
+7	gwell	gwell	adjectif	_	_	_	_	_	Gloss=mieux
 8	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 9	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-10	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
+10	argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:65)__1
@@ -24,33 +26,35 @@
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	ya	ya	interjection	_	_	_	_	_	Gloss=oui
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+5	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 6	geroc'h	geroc'h	?	_	_	_	_	_	Gloss=voudrez
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:8)__1
 # text = ar peurvuia anezo hep kar na par
 # text_fr = 'la plupart d'entre eux sans attaches'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	ar	art	?	_	_	_	_	_	Gloss=le
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	peurvuia	peurvuiañ	adverbe	_	_	_	_	_	Gloss=plupart
-3	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+3	anezo	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 4	hep	hep	préposition	_	_	_	_	_	Gloss=sans
-5	kar	kar	?	_	_	_	_	_	Gloss=aime.N
-6	na	na...na	?	_	_	_	_	_	Gloss=ni
-7	par	par	préposition-nom	_	_	_	_	_	Gloss=pair
+5	kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=aime.N
+6	na	na..._na	?	_	_	_	_	_	Gloss=ni
+7	par	par	préposition|nom	_	_	_	_	_	Gloss=pair
 
-# sent_id = Goyat (2012:276)__2
+# sent_id = Goyat(2012:276)__2
 # text = Ma kar eñ beza tommet an dour…
 # text_fr = 'S'il avait voulu faire chauffer l’eau… '
-# text_phon = ['/ma', 'kar', 'ˌheãw', 'be', "'@tomɛd", 'ãn ˌdu:r/']
+# text_phon = /ma kar ˌheãw be '@tomɛd ãn ˌdu:r/ 
+# source = Riou (1941)
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-2	kar	kar	?	_	_	_	_	_	Gloss=aime
-3	eñ	pfi	?	_	_	_	_	_	Gloss=lui
-4	beza	bezan	?	_	_	_	_	_	Gloss=être
-5	tommet	tomm.-et(Adj.)	adjectif.?	_	_	_	_	_	Gloss=chauff.é
-6	an	art	?	_	_	_	_	_	Gloss=le
+2	kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=aime
+3	eñ	pfi	pronom	_	_	_	_	_	Gloss=lui
+4	beza	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+5	tommet	tomm.-et_(Adj.)	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=chauff.é
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	dour…	dour	nom	_	_	_	_	_	Gloss=eau
 
 # sent_id = Bouzeg(1986:36)__1
@@ -60,11 +64,11 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Kar	Kar	?	_	_	_	_	_	Gloss=aime
-2	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
-3	boût	bezan	?	_	_	_	_	_	Gloss=être
+1	Kar	Kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=aime
+2	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+3	boût	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:143)__1
@@ -73,14 +77,14 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Kar	Kar	?	_	_	_	_	_	Gloss=aime
-2	doc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-3	bou'	bezañ	?	_	_	_	_	_	Gloss=être
+1	Kar	Kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=aime
+2	doc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	bou'	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4			PUNCT	_	_	_	_	Gloss=punct
 5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	digouét	degouezhout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=arriv.é
-7	dég	numérauxcardinaux	?	_	_	_	_	_	Gloss=dix
-8	mun'	munut(N.)	?	_	_	_	_	_	Gloss=minute
+6	digouét	degouezhout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=arriv.é
+7	dég	numéraux_cardinaux	?	_	_	_	_	_	Gloss=dix
+8	mun'	munut_(N.)	?	_	_	_	_	_	Gloss=minute
 9	t	t	?	_	_	_	_	_	Gloss=?
 10	so..	zo	?	_	_	_	_	_	Gloss=y.a
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

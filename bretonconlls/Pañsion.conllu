@@ -5,17 +5,17 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	aet	mont	verbe	_	_	_	_	_	Gloss=allé
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	Gemper	nompropre	?	_	_	_	_	_	Gloss=Kemper
-6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	ur	art	?	_	_	_	_	_	Gloss=un
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	Gemper	nom_propre	?	_	_	_	_	_	Gloss=Kemper
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	skol	skol	nom	_	_	_	_	_	Gloss=école
 9	uheloc'h	uhel.-oc'h	adjectif.?	_	_	_	_	_	Gloss=haut.plus
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	e	P.e	?	_	_	_	_	_	Gloss=en
+11	e	P.e	préposition	_	_	_	_	_	Gloss=en
 12	pañsion	pañsion	nom	_	_	_	_	_	Gloss=pension
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,10 +25,10 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
-5	ur	art	?	_	_	_	_	_	Gloss=un
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	mell	mell	nom	_	_	_	_	_	Gloss=grand
 7	pañsion	pañsion	nom	_	_	_	_	_	Gloss=pension

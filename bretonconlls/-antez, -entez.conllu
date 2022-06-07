@@ -1,0 +1,24 @@
+sent_id = Drezen(1932:14)__1
+text = Douarneneziz o deus anv da vezañ distag-meurbet o c'halon ouzh ar baourentez.
+text_fr =  'Les douarnenistes sont réputés prodigues.' 
+1	Douarneneziz	nom propre.-iz (PL.)	nom.nom	_	_	_	_	_	Gloss=douarnen.istes
+2	o deus	kaout	verbe	_	_	_	_	_	Gloss=a
+3	anv	anv	nom	_	_	_	_	_	Gloss=nom
+4	da	da	préposition	_	_	_	_	_	Gloss=de
+5	vezañ	bezañ	verbe	_	_	_	_	_	Gloss=être
+6	distag-meurbet	di-.distag.meurbet	nom.verbe.nom	_	_	_	_	_	Gloss=dé.attaché.très
+7	o	POSS	nom	_	_	_	_	_	Gloss=leur
+8	c'halon	kalon	nom	_	_	_	_	_	Gloss=cœur
+9	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=de
+10	ar baourentez	art.paour.-entez	article.adjectif.nom	_	_	_	_	_	Gloss=le.pauvr.eté
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = LeGarrec(1901:12)__1
+text = ar pez an oa kavet da waz karantezus
+text_fr =  'ce qu'avait imaginé ton affectueux mari'
+1	ar pez	ar pezh	nom	_	_	_	_	_	Gloss=ce que
+2	an oa	kaout	verbe	_	_	_	_	_	Gloss=avait
+3	kavet	kavout	verbe	_	_	_	_	_	Gloss=trouvé
+4	da	POSS	nom	_	_	_	_	_	Gloss=ton
+5	waz	gwaz	nom	_	_	_	_	_	Gloss=mari
+6	karantezus	karout	verbe	_	_	_	_	_	Gloss=aim

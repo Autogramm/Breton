@@ -5,14 +5,14 @@
 # location = Landivisiau
 # source = Y. Simon (23/03/2013)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	darvoud..	darvoud	nom	_	_	_	_	_	Gloss=évènement
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	degaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	kudennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-7	'	e-touesk	?	_	_	_	_	_	Gloss=parmi
+6	kudennoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+7	'	e-touesk	préposition	_	_	_	_	_	Gloss=parmi
 8	touesk	touesk	?	_	_	_	_	_	Gloss=?
-9	an	art	?	_	_	_	_	_	Gloss=le
-10	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

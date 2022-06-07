@@ -1,16 +1,17 @@
 # sent_id = ArMeliner(2009:107)__1
 # text = Ur skudell ` ruz a zo geti en he dorn ...
 # text_fr = 'Elle tient une écuelle rouge à la main... '
-# source = Ar Meliner (2009)
-1	Ur	art	?	_	_	_	_	_	Gloss=un
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	skudell	skudell	nom	_	_	_	_	_	Gloss=écuelle
 3	`	`	?	_	_	_	_	_	Gloss=?
 4	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	geti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
-8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+7	geti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
+8	en	P.e	préposition	_	_	_	_	_	Gloss=en
+9	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 10	dorn	dorn	nom	_	_	_	_	_	Gloss=main
 11	...	...	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,8 +23,8 @@
 # texttype = Ouvrages de recherche
 1	Serret	serriñ	verbe	_	_	_	_	_	Gloss=attraper
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	des	kaout	?	_	_	_	_	_	Gloss=a
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	sapre	sapre	?	_	_	_	_	_	Gloss=sacré
+3	des	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	sapre	sapre	adjectif	_	_	_	_	_	Gloss=sacré
 6	chulad	chulad	?	_	_	_	_	_	Gloss=bordée
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

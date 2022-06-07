@@ -1,23 +1,23 @@
 # sent_id = Riou(1941:7)__3
 # text = En e zourn e luc'he eur gontell.
 # text_fr = 'Dans sa main luisait un couteau.'
-1	En	P.e	complémenteur	_	_	_	_	_	Gloss=en
-2	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	En	P.e	préposition	_	_	_	_	_	Gloss=en
+2	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 3	zourn	dorn	nom	_	_	_	_	_	Gloss=main
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	luc'he	luc'hañ	?	_	_	_	_	_	Gloss=luisait
-6	eur	art	nom	_	_	_	_	_	Gloss=un
-7	gontell	kontell	nom	_	_	_	_	_	Gloss=couteau|Morph=1
+6	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	gontell	kontell	nom	_	_	_	_	_	Gloss=couteau|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lothey,Riou(1941:111)__1
 # text = hag hi, n'hen c'hare ket.
 # text_fr = 'Et elle, elle ne l'aimait pas.' (lui)
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	hi	pfi	?	_	_	_	_	_	Gloss=elle
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	hi	pfi	pronom	_	_	_	_	_	Gloss=elle
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	hen	POP	?	_	_	_	_	_	Gloss=le
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	hen	POP	pronom	_	_	_	_	_	Gloss=le
 6	c'hare	karout	verbe	_	_	_	_	_	Gloss=aimait
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

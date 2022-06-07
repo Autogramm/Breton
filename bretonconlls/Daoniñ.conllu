@@ -6,19 +6,20 @@
 # texttype = Élicitations
 1	Ze	se	pronom	_	_	_	_	_	Gloss=ça
 2	zo	zo	?	_	_	_	_	_	Gloss=est
-3	vall	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mal|Morph=1
-4	daonet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-6	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+3	vall	gwall-	adverbe|nom	_	_	_	_	_	Gloss=mal|Mutation=trigger|MutationNUM=1
+4	daonet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+5	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+6	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 7	voral	voral	?	_	_	_	_	_	Gloss=moral
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:27)__1
 # text = e-barzh ar seier daonet-se
 # text_fr = 'dans ces fameux sacs'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
-1	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	seier	sac'h.plurielinterne	?.?	_	_	_	_	_	Gloss=sac.s
-4	daonet-se	-et(Adj.).DEM	?.?	_	_	_	_	_	Gloss=é.là
+1	e-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	seier	sac'h.pluriel_interne	?.?	_	_	_	_	_	Gloss=sac.s
+4	daonet-se	-et_(Adj.).DEM	verbe|suffixe.pronom	_	_	_	_	_	Gloss=é.là

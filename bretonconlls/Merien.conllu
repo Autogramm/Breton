@@ -1,16 +1,17 @@
 # sent_id = LeBozec(1933:95)__1
 # text = Ar merien hag ar gwesped o deus kignet an aval.
 # text_fr = 'Les fourmis et les guêpes ont rongé la pomme.'
-# source = Le Bozec
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	merien	merien	nom	_	_	_	_	_	Gloss=fourmis
-3	hag	&	?	_	_	_	_	_	Gloss=et
-4	ar	art	?	_	_	_	_	_	Gloss=le
+3	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	gwesped	gwesped	nom	_	_	_	_	_	Gloss=guêpes
 6	o	o	?	_	_	_	_	_	Gloss=3PL
-7	deus	kaout	?	_	_	_	_	_	Gloss=ont
+7	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ont
 8	kignet	kignat	verbe	_	_	_	_	_	Gloss=rongé
-9	an	art	?	_	_	_	_	_	Gloss=le
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	aval	aval	nom	_	_	_	_	_	Gloss=pomme
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,12 +21,12 @@
 # source = Ernault (1879-1880)
 # texttype = Ouvrages de recherche
 1	Krigi	kregiñ	verbe	_	_	_	_	_	Gloss=crocher
-2	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	'	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 3	ra	ra	complémenteur	_	_	_	_	_	Gloss=?
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=vert|Morph=5
-6	'	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-7	n	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	c'hlas	glas	adjectif	_	_	_	_	_	Gloss=vert|Mutation=target|MutationNUM=5
+6	'	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+7	n	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 8	em	em	?	_	_	_	_	_	Gloss=?
 9	gar	gar	nom	_	_	_	_	_	Gloss=jambe
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,48 +1,51 @@
 # sent_id = Kervella(2001:41)__1
 # text = Ur gaouenn ! Bastik ! Pebezh korfad aon !
 # text_fr = 'Une chouette ! Mon Dieu ! Ce qu'elle m'a effrayé !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	gaouenn	kaouenn	nom	_	_	_	_	_	Gloss=chouette|Morph=1
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	gaouenn	kaouenn	nom	_	_	_	_	_	Gloss=chouette|Mutation=target|MutationNUM=1
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Bastik	Bastik	?	_	_	_	_	_	Gloss=[[interjection|MonDieu
+4	Bastik	Bastik	?	_	_	_	_	_	Gloss=[[interjection|Mon_Dieu
 5			?	_	_	_	_	_	Gloss=!]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	Pebezh	pebezh	?	_	_	_	_	_	Gloss=quel
-8	korfad	korf.-ad	nom.?	_	_	_	_	_	Gloss=corps.ée
+8	korfad	korf.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=corps.ée
 9	aon	aon	nom	_	_	_	_	_	Gloss=peur
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:35)__1
 # text = An nor-dall ! Bastik ! Deomp da welet, Milou !
 # text_fr = 'La porte d'entrée !! Ah ça ! Viens Milou ! Allons voir !... '
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	nor-dall	dor	nom	_	_	_	_	_	Gloss=porte
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Bastik	Bastik	?	_	_	_	_	_	Gloss=[[interjection|Ahça
+4	Bastik	Bastik	?	_	_	_	_	_	Gloss=[[interjection|Ah_ça
 5			?	_	_	_	_	_	Gloss=!]]
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 7	Deomp	mont	verbe	_	_	_	_	_	Gloss=allons
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 9	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	Milou	nompropre	?	_	_	_	_	_	Gloss=Milou
+11	Milou	nom_propre	?	_	_	_	_	_	Gloss=Milou
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:57)__1
 # text = Met... Met... Bastik... Petra ' virje ?
 # text_fr = 'Mais ! Mais ! Au fait ! Pourquoi pas ?'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Met..	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+1	Met..	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	.	.	PUNCT	_	_	_	_	Gloss=punct
-3	Met..	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+3	Met..	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
-5	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-6	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+5	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+6	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7			PUNCT	_	_	_	_	Gloss=punct
 8	virje	mirout	verbe	_	_	_	_	_	Gloss=empêcherait
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -50,37 +53,40 @@
 # sent_id = Kervella(2002b:4)__1
 # text = Bastik !, Alc'hwez ar grizilhonoù !
 # text_fr = 'Sapristi ! La clef des menottes !' (en les découvrant)
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
-1	Bastik	interjection	?	_	_	_	_	_	Gloss=Sapristi!
+1	Bastik	interjection	interjection	_	_	_	_	_	Gloss=Sapristi_!
 2	!,	!,	?	_	_	_	_	_	Gloss=?
 3	Alc'hwez	alc'hwez	?	_	_	_	_	_	Gloss=clef
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	grizilhonoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	grizilhonoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:42)__1
 # text = Bastik ! Setu ar pezh am eus ezhomm !
 # text_fr = 'Sapristi ! Voilà mon affaire !'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
-1	Bastik	interjection	?	_	_	_	_	_	Gloss=Sapristi!
+1	Bastik	interjection	interjection	_	_	_	_	_	Gloss=Sapristi_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
-3	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-4	ar	arpezh	?	_	_	_	_	_	Gloss=ce.que
-5	pezh	pezh	?	_	_	_	_	_	Gloss=?
+3	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+4	ar	ar_pezh	?	_	_	_	_	_	Gloss=ce.que
+5	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=?
 6	am	am	?	_	_	_	_	_	Gloss=R
-7	eus	kaout	?	_	_	_	_	_	Gloss=a
+7	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 8	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002:3)__1
 # text = Eus Shanghai ?... Bastik !
 # text_fr = 'De Shangaï ?... Diable !'
+# dialect = Standard
 # source = Kervella (2002)
 # texttype = Références de corpus
-1	Eus	eus	?	_	_	_	_	_	Gloss=de
-2	Shanghai	nompropre	?	_	_	_	_	_	Gloss=Shangaï
+1	Eus	eus	préposition	_	_	_	_	_	Gloss=de
+2	Shanghai	nom_propre	?	_	_	_	_	_	Gloss=Shangaï
 3	?...	?...	?	_	_	_	_	_	Gloss=?
-4	Bastik	interjection	?	_	_	_	_	_	Gloss=Diable!
+4	Bastik	interjection	interjection	_	_	_	_	_	Gloss=Diable_!
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

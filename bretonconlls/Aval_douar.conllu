@@ -4,12 +4,12 @@
 # location = Laz
 # source = Lozach (2014)
 1	Loa(r)iet	loar	nom	_	_	_	_	_	Gloss=lune
-2	é	COP	?	_	_	_	_	_	Gloss=est
-3	un	art	?	_	_	_	_	_	Gloss=un
+2	é	COP	verbe	_	_	_	_	_	Gloss=est
+3	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	aldouarenn	aldouarenn	?	_	_	_	_	_	Gloss=patate
-5	deut	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+5	deut	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 6	glas	glas	adjectif	_	_	_	_	_	Gloss=vert
-7	ga'	gant	?	_	_	_	_	_	Gloss=avec
-8	r	art	?	_	_	_	_	_	Gloss=le
+7	ga'	gant	préposition	_	_	_	_	_	Gloss=avec
+8	r	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	loar	loar	nom	_	_	_	_	_	Gloss=lune
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

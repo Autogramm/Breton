@@ -3,7 +3,7 @@
 # text_fr = 'une chevelure blonde... '
 # location = Bodilis
 # source = Ar Floch (1922)
-1	eur	art	nom	_	_	_	_	_	Gloss=un
+1	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	bleo	blev	nom	_	_	_	_	_	Gloss=chevelure
 3	bloundin..	bloundin..	?	_	_	_	_	_	Gloss=blond
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -14,8 +14,8 @@
 # dialect = Léonard
 # source = Fave (1998)
 # texttype = Ouvrages de recherche
-1	eur	art	nom	_	_	_	_	_	Gloss=un
-2	paotrig	paotr.-ig	nom.?	_	_	_	_	_	Gloss=gars.DIM
-3	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+1	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	paotrig	paotr.-ig	nom.suffixe	_	_	_	_	_	Gloss=gars.DIM
+3	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	bleo	blev	nom	_	_	_	_	_	Gloss=chevelure
 5	melen	melen	adjectif	_	_	_	_	_	Gloss=jaune

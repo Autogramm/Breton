@@ -1,12 +1,12 @@
-# sent_id = Louis (2015:224)__1
+# sent_id = Louis(2015:224)__1
 # text = En droug-sé hi lakas de houzanv pautmat.
 # text_fr = 'Ce mal lui causa bien des souffrances.'
 # source2 =  Vannetais, Larboulet (1907)
-1	En	art	complémenteur	_	_	_	_	_	Gloss=le
-2	droug-sé	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
-3	hi	POP	?	_	_	_	_	_	Gloss=la
+1	En	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	droug-sé	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
+3	hi	POP	pronom	_	_	_	_	_	Gloss=la
 4	lakas	lakaat	verbe	_	_	_	_	_	Gloss=mit
-5	de	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	de	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	houzanv	gouzañv	verbe	_	_	_	_	_	Gloss=endurer
-7	pautmat	pautmat	?	_	_	_	_	_	Gloss=beaucoup
+7	pautmat	pautmat	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

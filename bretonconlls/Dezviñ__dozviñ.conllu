@@ -4,13 +4,13 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	Goût	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	ouzer	gouzout.IMP	verbe-auxiliaire.?	_	_	_	_	_	Gloss=savait.on
+1	Goût	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	ouzer	gouzout.IMP	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=savait.on
 4	pedavare	pevare	?	_	_	_	_	_	Gloss=quand
-5	deve	kaout	?	_	_	_	_	_	Gloss=avait
-6	diavet	-et(Adj.)	?	_	_	_	_	_	Gloss=u
-7	ar	art	?	_	_	_	_	_	Gloss=le
+5	deve	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+6	diavet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=u
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	yar	yar	nom	_	_	_	_	_	Gloss=poule
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,13 +21,13 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	aztov	aztov	?	_	_	_	_	_	Gloss=oeuf.factice
-5	out	COP	?	_	_	_	_	_	Gloss=es
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+5	out	COP	verbe	_	_	_	_	_	Gloss=es
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	barzh	barzh	?	_	_	_	_	_	Gloss=?
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	neizh	neizh	nom	_	_	_	_	_	Gloss=nid
 10	?	?	PUNCT	_	_	_	_	Gloss=punct

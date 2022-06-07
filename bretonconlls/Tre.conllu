@@ -4,19 +4,19 @@
 # dialect = Cornouaillais
 # source = Denez (1984)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	merc'hed	merc'h.-ed	?.?	_	_	_	_	_	Gloss=femme.s
-3	Treboull	nompropre	?	_	_	_	_	_	Gloss=Tréboul
-4	noe	kaout	?	_	_	_	_	_	Gloss=avait
+3	Treboull	nom_propre	?	_	_	_	_	_	Gloss=Tréboul
+4	noe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tt.à.fait
-7	ar	art	?	_	_	_	_	_	Gloss=le
+6	tre	tre	adverbe|adjectif	_	_	_	_	_	Gloss=tt.à.fait
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	memes	memes	adjectif	_	_	_	_	_	Gloss=même
-9	taol	taol(M.)	?	_	_	_	_	_	Gloss=coup
-10	dorn	dorn	nom	_	_	_	_	_	Gloss=main
-11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	taol	taol_(M.)	?	_	_	_	_	_	Gloss=coup
+10	dorn	dorn	nom	_	_	_	_	_	Gloss=?
+11	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 12	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-13	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+13	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 14	c'hoef	koef	nom	_	_	_	_	_	Gloss=coiffe
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,29 +25,31 @@
 # text_fr = 'Quand Pat fait son entrée'
 # source = Derrien (1980)
 # texttype = Références de corpus
-1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	zegouez	degouezhout	verbe	_	_	_	_	_	Gloss=arrive
-3	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=dedans
-4	Pat	nompropre	?	_	_	_	_	_	Gloss=Pat
+3	tre	tre	adverbe|adjectif	_	_	_	_	_	Gloss=dedans
+4	Pat	nom_propre	?	_	_	_	_	_	Gloss=Pat
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:218)__1
 # text = Gwelet e vez diàrnezhi ar c’hornad-bro a-bezh, tre beta kornad al linennoù
 # text_fr = 'On voit de sur elle (la colline) le coin de pays en entier, jusqu’au coin de la ligne de front.'
-# source = Herrieu (1994)
-1	Gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	diàrnezhi	diwar.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.sur.elle
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	c’hornad-bro	korn	nom	_	_	_	_	_	Gloss=coin]]-[[bro|pays|Morph=5
-7	a-bezh	a-bezh	quantifieur-adjectif	_	_	_	_	_	Gloss=en.entier
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	diàrnezhi	diwar.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.sur.elle
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	c’hornad-bro	korn	nom	_	_	_	_	_	Gloss=coin]]-[[bro|pays|Mutation=target|MutationNUM=5
+7	a-bezh	a-bezh	quantifieur|adjectif	_	_	_	_	_	Gloss=en.entier
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	tre	tre	adverbe-adjectif	_	_	_	_	_	Gloss=tout-à-fait
-10	beta	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu’à
+9	tre	tre	adverbe|adjectif	_	_	_	_	_	Gloss=tout-à-fait
+10	beta	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu’à
 11	kornad	korn	nom	_	_	_	_	_	Gloss=coin
-12	al	art	?	_	_	_	_	_	Gloss=le
-13	linennoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+12	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	linennoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 
 # sent_id = ArScao(1945:'affable')__1
 # text = Rei ar ger-zé zo tud trei.
@@ -55,9 +57,9 @@
 # dialect = Cornouaillais
 # source = Ar Scao (1945)
 # texttype = Ouvrages de recherche
-1	Rei	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	ger-zé	kêr	nom	_	_	_	_	_	Gloss=village]]-[[DEM|là|Morph=1
+1	Rei	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	ger-zé	kêr	nom	_	_	_	_	_	Gloss=village]]-[[DEM|là|Mutation=target|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	tud	tud	nom	_	_	_	_	_	Gloss=gens
 6	trei	trei	?	_	_	_	_	_	Gloss=affable

@@ -1,18 +1,18 @@
 # sent_id = KazetennArvro,mai1904__1
 # text = Mar 'd eo gwir kement-se, eo red d'an holl anzao ...
 # text_fr = 'Si cela est vrai, on doit avouer que... '
-1	Mar	mard	nom	_	_	_	_	_	Gloss=si
+1	Mar	mard	complémenteur	_	_	_	_	_	Gloss=si
 2	'	'	?	_	_	_	_	_	Gloss=?
 3	d	d	?	_	_	_	_	_	Gloss=?
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
-6	kement-se	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
+5	gwir	gwir	adjectif|nom	_	_	_	_	_	Gloss=vrai
+6	kement-se	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
 9	red	ret	?	_	_	_	_	_	Gloss=obligé
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	an	art	?	_	_	_	_	_	Gloss=le
-12	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 13	anzao	anzao	?	_	_	_	_	_	Gloss=avouer
 14	...	...	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,7 +22,7 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	M'	pfi	?	_	_	_	_	_	Gloss=moi
+1	M'	pfi	pronom	_	_	_	_	_	Gloss=moi
 2			PUNCT	_	_	_	_	Gloss=punct
 3	henn	POP	pronom	_	_	_	_	_	Gloss=le
 4	anzava	anzava	?	_	_	_	_	_	Gloss=avoue

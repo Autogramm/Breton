@@ -1,19 +1,21 @@
 # sent_id = Léon(SaintPoldeLéon),Milin(1924)__1
 # text = N’eus forzh ! eme an ozac'h; gwelet a rankan hag ez eo gwir.
 # text_fr = 'Qu'importe ! dit l'homme; Je dois voir si c'est vrai.'
+# dialect = Léonard
 # location = Saint Pol de Léon
-# source = Milin (1924)
+# source = Milin (1922)
+# texttype = Références de corpus
 1	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=importance
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	eme	eme	préposition	_	_	_	_	_	Gloss=dit
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	ozac'h	ozac'h	?	_	_	_	_	_	Gloss=vieux
 6	;	;	PUNCT	_	_	_	_	Gloss=punct
 7	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 9	rankan	rankout	verbe	_	_	_	_	_	Gloss=dois
-10	hag	Q	?	_	_	_	_	_	Gloss=si
+10	hag	Q	Q	_	_	_	_	_	Gloss=si
 11	ez	ez	?	_	_	_	_	_	Gloss=R
-12	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-13	gwir	gwir	nom-adjectif	_	_	_	_	_	Gloss=vrai
+12	eo	COP	verbe	_	_	_	_	_	Gloss=est
+13	gwir	gwir	adjectif|nom	_	_	_	_	_	Gloss=vrai
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

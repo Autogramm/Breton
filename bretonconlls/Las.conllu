@@ -1,10 +1,11 @@
 # sent_id = LeBozec(1933:66)__1
 # text = Eman o tilasa e votou-lêr...
 # text_fr = 'Il délace ses souliers... '
-# source = Le Bozec
-1	Eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	tilasa	di-,dis-.[-añ(V.)	?.?	_	_	_	_	_	Gloss=dé.er
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	votou-lêr..	botez.-où(PL.).ler	nom.?.nom	_	_	_	_	_	Gloss=soulier.s.cuir
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Eman	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
+3	tilasa	di-,_dis-.[-añ_(V.)	?.?	_	_	_	_	_	Gloss=dé.er
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	votou-lêr..	botez.-où_(PL.).ler	nom.suffixe.nom	_	_	_	_	_	Gloss=soulier.s.cuir
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

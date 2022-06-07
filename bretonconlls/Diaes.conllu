@@ -5,32 +5,33 @@
 # source = Y. M. (04/2016b)
 # texttype = Élicitations
 1	A-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
 5	d'	da	préposition	_	_	_	_	_	Gloss=de
-6	en	enem	complémenteur	_	_	_	_	_	Gloss=se
-7	em	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-8	lakaat	aes	adjectif	_	_	_	_	_	Gloss=aise/facile
+6	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
+7	em	aes	adjectif	_	_	_	_	_	Gloss=aise/facile
+8	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=?
 9	eas.	eas.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Hemon(1975:§70,a)__1
 # text = Neuze ne rafac'h fors e-bed pe hen a vez eaz pe ziez ho toare.
 # text_fr = 'Vous ne feriez alors aucun cas de la facilité ou de la difficulté de votre position.'
 # source = JKS.
-1	Neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=neuze
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	rafac'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feriez
+# texttype = Références de corpus
+1	Neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=neuze
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	rafac'h	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=feriez
 4	fors	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-5	e-bed	P.e	?	_	_	_	_	_	Gloss=en
-6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+5	e-bed	P.e	préposition	_	_	_	_	_	Gloss=en
+6	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 7	hen	hen	?	_	_	_	_	_	Gloss=3SG
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 10	eaz	aes	adjectif	_	_	_	_	_	Gloss=facile
-11	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+11	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 12	ziez	ziez	?	_	_	_	_	_	Gloss=difficile
-13	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+13	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 14	toare	doare	nom	_	_	_	_	_	Gloss=façon
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -42,34 +43,36 @@
 # source = Miossec (1994)
 # texttype = Références de corpus
 1	dre	dre	préposition	_	_	_	_	_	Gloss=par
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	gwenojennou	gwenojenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=chemin.s
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	gwenojennou	gwenojenn.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=chemin.s
 4	diêsa	superlatif	adjectif	_	_	_	_	_	Gloss=le.plus
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-8	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+8	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 9	a	a	préposition	_	_	_	_	_	Gloss=R
-10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+10	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 11	blijont	plijout	verbe	_	_	_	_	_	Gloss=plaisent
-12	na	na...na...	?	_	_	_	_	_	Gloss=ni
-13	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-14	ar	art	?	_	_	_	_	_	Gloss=le
+12	na	na...na...	complémenteur|conjonction	_	_	_	_	_	Gloss=ni
+13	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	valtouterien	valtouterien	?	_	_	_	_	_	Gloss=1
 16	,	,	PUNCT	_	_	_	_	Gloss=punct
-17	na	na...na...	?	_	_	_	_	_	Gloss=ni
-18	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-19	ar	art	?	_	_	_	_	_	Gloss=le
-20	zoudarded..	soudard	nom	_	_	_	_	_	Gloss=soldat]].[[-ed(PL.)|s|Morph=1
+17	na	na...na...	complémenteur|conjonction	_	_	_	_	_	Gloss=ni
+18	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+19	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+20	zoudarded..	soudard	nom	_	_	_	_	_	Gloss=soldat]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 21	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:236)__1
 # text = Diaesaat a ra d’ar c'hirri kerzhet.
 # text_fr = 'Ça rend difficile le passage des voitures.'
-# source = Herrieu (1994)
-1	Diaesaat	-aat	verbe	_	_	_	_	_	Gloss=er
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Diaesaat	-aat	verbe|suffixe	_	_	_	_	_	Gloss=er
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	c'hirri	c'hirri	?	_	_	_	_	_	Gloss=5
 5	kerzhet	kerzhout	verbe	_	_	_	_	_	Gloss=marcher
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -80,9 +83,9 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	Lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	bet	bet	?	_	_	_	_	_	Gloss=été
 4	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-5	geti	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+5	geti	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

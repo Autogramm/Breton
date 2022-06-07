@@ -3,17 +3,17 @@
 # text_fr = 'J'avais eu mille peines à me loger pour la nuit... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Mil	numérauxcardinaux	?	_	_	_	_	_	Gloss=mille|Morph=1
+1	Mil	numéraux_cardinaux	?	_	_	_	_	_	Gloss=mille
 2	boan	poan	nom	_	_	_	_	_	Gloss=peine
 3	em	em	?	_	_	_	_	_	Gloss=1SG
-4	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	bet	bet	?	_	_	_	_	_	Gloss=eu
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-7	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
-8	ur	art	?	_	_	_	_	_	Gloss=un
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
+7	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	gwele	gwele	nom	_	_	_	_	_	Gloss=lit
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-11	an	art	?	_	_	_	_	_	Gloss=le
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	noz..	noz	nom	_	_	_	_	_	Gloss=nuit
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -23,29 +23,30 @@
 # location = Plaudren
 # source = Quéré (2011)
 # texttype = Ouvrages de recherche
-1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	klañ	klañv	adjectif	_	_	_	_	_	Gloss=malade
-4	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 5	chom	chom	verbe	_	_	_	_	_	Gloss=reste
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 8	gulé	gulé	?	_	_	_	_	_	Gloss=lit
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:12)__1
 # text = Treiñ ha distreiñ a ra ar paotr dindan e zilhad-gwele.
 # text_fr = 'Le garçon se tourne et se retourne dans ses draps.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Treiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
-2	ha	&	?	_	_	_	_	_	Gloss=et
-3	distreiñ	Xdi-X.treiñ	?.verbe	_	_	_	_	_	Gloss=dé.tourner
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+3	distreiñ	X_di-X	verbe	_	_	_	_	_	Gloss=dé
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	ar	art	?	_	_	_	_	_	Gloss=le
+5	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	paotr	paotr	nom	_	_	_	_	_	Gloss=garçon
 8	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	zilhad-gwele	dilhad	nom	_	_	_	_	_	Gloss=linge
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

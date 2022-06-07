@@ -4,13 +4,13 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
-2	vintin	mintin	nom	_	_	_	_	_	Gloss=matin|Morph=1
-3	e	e	?	_	_	_	_	_	Gloss=R
+2	vintin	mintin	nom	_	_	_	_	_	Gloss=matin|Mutation=target|MutationNUM=1
+3	e	e	verbe	_	_	_	_	_	Gloss=R
 4	yaen	mont	verbe	_	_	_	_	_	Gloss=allai
-5	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-6	ar	art	?	_	_	_	_	_	Gloss=le
+5	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	skol	skol	nom	_	_	_	_	_	Gloss=école
-8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+8	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 9	diagent..	diagent..	?	_	_	_	_	_	Gloss=avant
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,14 +19,14 @@
 # text_fr = 'Elle ne peut plus m'aimer comme autrefois.'
 # source = Langleiz (1943)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	c’hell	gallout	verbe	_	_	_	_	_	Gloss=peut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
-5	va	POP	?	_	_	_	_	_	Gloss=me|Morph=2
+5	va	POP	pronom	_	_	_	_	_	Gloss=me|Mutation=trigger|MutationNUM=2
 6	c’harout	karout	verbe	_	_	_	_	_	Gloss=aimer
-7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-8	agent	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+8	agent	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Burel(2012:204)__1
@@ -36,14 +36,14 @@
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	al	art	?	_	_	_	_	_	Gloss=le
-2	laouénédigues	laouen.-idigezh	adjectif.?	_	_	_	_	_	Gloss=allègr.esse
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	voa	COP	?	_	_	_	_	_	Gloss=avait
+1	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	laouénédigues	laouen.-idigezh	adjectif.suffixe|nom	_	_	_	_	_	Gloss=allègr.esse
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	voa	COP	verbe	_	_	_	_	_	Gloss=avait
 5	diaguent	diaguent	?	_	_	_	_	_	Gloss=avant
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	voa	COP	?	_	_	_	_	_	Gloss=avait
-8	troét	treiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tourn.é
-9	é	P.e	?	_	_	_	_	_	Gloss=en
-10	tristidigues..	trist.-idigezh	adjectif.?	_	_	_	_	_	Gloss=trist.esse
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	voa	COP	verbe	_	_	_	_	_	Gloss=avait
+8	troét	treiñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tourn.é
+9	é	P.e	préposition	_	_	_	_	_	Gloss=en
+10	tristidigues..	trist.-idigezh	adjectif.suffixe|nom	_	_	_	_	_	Gloss=trist.esse
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

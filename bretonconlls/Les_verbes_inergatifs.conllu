@@ -1,32 +1,35 @@
 # sent_id = Kervella(1993:110)__1
 # text = Mennet e oa d'ober d'ar vugale c'hoarzhin.
 # text_fr = 'C'était destiné à faire rire les enfants.'
+# dialect = Standard
 # location = Dirinon
 # source = Kervella (1993)
 # texttype = Références de corpus
 1	Mennet	mennout	verbe	_	_	_	_	_	Gloss=destiné
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ober	structurescausatives	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	ober	structures_causatives	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 6	d'	da	préposition	_	_	_	_	_	Gloss=à
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 9	c'hoarzhin	c'hoarzhin	?	_	_	_	_	_	Gloss=rire
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§216)__1
 # text = Dañset e vo. Dañsal a vo graet.
 # text_fr = 'On dansera.'
-# source = Kervella (1995)
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
 1	Dañset	dañsal	verbe	_	_	_	_	_	Gloss=dansé
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 5	Dañsal	dañsal	verbe	_	_	_	_	_	Gloss=Danser
 6	a	a	préposition	_	_	_	_	_	Gloss=R
-7	vo	COP	?	_	_	_	_	_	Gloss=sera
-8	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+7	vo	COP	verbe	_	_	_	_	_	Gloss=sera
+8	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§443).__1
@@ -34,10 +37,9 @@
 # text_fr = 'On a beaucoup ri.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	C'	c'hoarzhin.-et(Adj.)	?.?	_	_	_	_	_	Gloss=r.i
-2	hoarzhet	hoarzhet	?	_	_	_	_	_	Gloss=?
-3	ez	ez	?	_	_	_	_	_	Gloss=R
-4	eus	ezeus	?	_	_	_	_	_	Gloss=est
-5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	maread	maread	quantifieur	_	_	_	_	_	Gloss=beaucoup
-7	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hoarzhet	c'hoarzhin.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=r.i
+2	ez	ez	?	_	_	_	_	_	Gloss=R
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
+4	bet	bet	?	_	_	_	_	_	Gloss=été
+5	maread	maread	quantifieur	_	_	_	_	_	Gloss=beaucoup
+6	.	.	PUNCT	_	_	_	_	Gloss=punct

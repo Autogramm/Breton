@@ -6,6 +6,6 @@
 # texttype = Élicitations
 1	uhel	uhel	adjectif	_	_	_	_	_	Gloss=haut
 2	awalc'h	awalc'h	?	_	_	_	_	_	Gloss=assez
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 4	memestra..	memestra	adverbe	_	_	_	_	_	Gloss=tout.de.même
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

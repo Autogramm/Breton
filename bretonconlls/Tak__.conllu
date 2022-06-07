@@ -7,12 +7,12 @@
 1	Tak	Tak	?	_	_	_	_	_	Gloss=Pan
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=tant
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+4	Ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=tant
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	chome	chom	verbe	_	_	_	_	_	Gloss=restait
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vaz	bazh	nom	_	_	_	_	_	Gloss=bâton|Morph=1
-9	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vaz	bazh	nom	_	_	_	_	_	Gloss=bâton|Mutation=target|MutationNUM=1
+9	en	P.e	préposition	_	_	_	_	_	Gloss=en
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	benn	penn	nom	_	_	_	_	_	Gloss=tête
 12	!	!	PUNCT	_	_	_	_	Gloss=punct

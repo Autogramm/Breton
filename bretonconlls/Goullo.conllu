@@ -4,15 +4,15 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	daoust	daoust	complémenteur	_	_	_	_	_	Gloss=malgré
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=troué
-7	hor	POSS	?	_	_	_	_	_	Gloss=notre
-8	godelloù	godell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=poche.s
+6	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=troué
+7	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+8	godelloù	godell.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=poche.s
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	goullo	goullo	adjectif	_	_	_	_	_	Gloss=vide
-11	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-12	oant	COP	?	_	_	_	_	_	Gloss=étaient
+11	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+12	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

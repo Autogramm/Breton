@@ -1,25 +1,29 @@
 # sent_id = Gros(1984:527)__1
 # text = An arhant a zo berr o lost.
 # text_fr = 'L'argent file vite.'
-# source = Gros (1984)
-1	An	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	arhant	arc'hant	?	_	_	_	_	_	Gloss=argent
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	berr	berr	adjectif	_	_	_	_	_	Gloss=court
-6	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+6	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 7	lost	lost	nom	_	_	_	_	_	Gloss=queue
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:35)__1
 # text = Berraad a raont o zennerezh.
 # text_fr = 'Ils raccourcissent leurs tirs.'
-# source = Herrieu (1994)
-1	Berraad	-aat	verbe	_	_	_	_	_	Gloss=er
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Berraad	-aat	verbe|suffixe	_	_	_	_	_	Gloss=er
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	raont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
-4	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-5	zennerezh	tennañ.-erezh	verbe.?	_	_	_	_	_	Gloss=tir.activité
+3	raont	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=font
+4	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+5	zennerezh	tennañ.-erezh	verbe.nom	_	_	_	_	_	Gloss=tir.activité
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(2014:'alan')__1
@@ -28,36 +32,37 @@
 # dialect = Trégorrois
 # source = Gros (2014)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	berr-alan	alan	?	_	_	_	_	_	Gloss=souffle
-5	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	an	art	?	_	_	_	_	_	Gloss=le
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	berr-alan	alan	nom	_	_	_	_	_	Gloss=souffle
+5	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	hik	hik	?	_	_	_	_	_	Gloss=hoquet
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(1974:121)__1
 # text = Ar marc'hadour roñseed, hag a oar e vicher koulskoude, a chomas berr da laerezh anezhañ.
 # text_fr = 'Le marchand de chevaux, qui connait pourtant son métier, n'a pu le voler.'
+# dialect = Standard
 # source = Press (1986)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	marc'hadour	marc'had.-our	?.?	_	_	_	_	_	Gloss=march.and
-3	roñseed	roñse.-ed(PL.)	?.?	_	_	_	_	_	Gloss=cheval.x
+3	roñseed	roñse.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=cheval.x
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	hag	haga	?	_	_	_	_	_	Gloss=que
+5	hag	hag_a	?	_	_	_	_	_	Gloss=que
 6	a	a	préposition	_	_	_	_	_	Gloss=?
-7	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	vicher	micher	nom	_	_	_	_	_	Gloss=métier
 10	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 13	chomas	chom	verbe	_	_	_	_	_	Gloss=resta
 14	berr	berr	adjectif	_	_	_	_	_	Gloss=court
-15	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-16	laerezh	laerezh	?	_	_	_	_	_	Gloss=voler
-17	anezhañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+15	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+16	laerezh	laerezh	verbe	_	_	_	_	_	Gloss=voler
+17	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

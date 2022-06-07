@@ -1,0 +1,15 @@
+sent_id = Luzel(1868:258)__1
+text = Penemet ma'z oc'h-c'hwi kañveriez, Me am boa graet deoc'h ur garlantez.
+text_fr =  'Sinon que vous êtes en deuil, je vous aurais fait une guirlande.' 
+source = Luzel (1868)
+1	Penemet	Penemet	complémenteur	_	_	_	_	_	Gloss=sinon
+2	ma'z	ma	complémenteur	_	_	_	_	_	Gloss=que
+3	oc'h-c'hwi	COP	COP	_	_	_	_	_	Gloss=êtes
+4	kañveriez	kañv	?	_	_	_	_	_	Gloss=deuil
+5	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+6	Me	pfi	?	_	_	_	_	_	Gloss=moi
+7	am boa	[[R]].1SG [[kaout|avait]]	?	_	_	_	_	_	Gloss=[[R]].1SG [[kaout|avait]]
+8	graet	ober	auxiliaire-verbe-verbe	_	_	_	_	_	Gloss=fait
+9	deoc'h	da.pronom incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+10	ur garlantez	art	?	_	_	_	_	_	Gloss=un
+11	.	.	PUNCT	_	_	_	_	_	Gloss=punct

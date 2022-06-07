@@ -6,13 +6,13 @@
 # source = Elégoët (1982)
 # texttype = Références de corpus
 1	Merket	Merket	?	_	_	_	_	_	Gloss=marqué
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	warnañ	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
 4	peur	peur	?	_	_	_	_	_	Gloss=quand
-5	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ar	art	?	_	_	_	_	_	Gloss=le
+5	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	mor	mor	nom	_	_	_	_	_	Gloss=mer
-8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-10	brasañ..	bras.superlatif	adverbe-adjectif.adjectif	_	_	_	_	_	Gloss=grand.le.plus
+8	en	P.e	préposition	_	_	_	_	_	Gloss=en
+9	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+10	brasañ..	bras.superlatif	adverbe|adjectif.adjectif	_	_	_	_	_	Gloss=grand.le.plus
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,23 +1,24 @@
 # sent_id = LeBozec(1933:82)__2
 # text = Ar chatal, dalc'het e pad an deiz er c'hreier, a vez laosket en o frankiz.
 # text_fr = 'Les bestiaux, tout le jour retenus dans la crèche, vont errer librement.'
-# source = Le Bozec
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# source = Le Bozec (1933)
+# texttype = Ouvrages pédagogiques
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	chatal	chatal	nom	_	_	_	_	_	Gloss=bétail
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	dalc'het	derc'hel	?	_	_	_	_	_	Gloss=gardé
-5	e	e	?	_	_	_	_	_	Gloss=pendant
+5	e	e	verbe	_	_	_	_	_	Gloss=pendant
 6	pad	pad	?	_	_	_	_	_	Gloss=?
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	c'hreier	c'hreier	?	_	_	_	_	_	Gloss=5
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-13	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-14	laosket	laoskel	?	_	_	_	_	_	Gloss=laissé
-15	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-16	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+13	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+14	laosket	laoskel	verbe	_	_	_	_	_	Gloss=laissé
+15	en	P.e	préposition	_	_	_	_	_	Gloss=en
+16	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 17	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,16 +27,16 @@
 # text_fr = 'On racontait ceci depuis longtemps : ce pays était pauvre.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	E	E	?	_	_	_	_	_	Gloss=pendant
+1	E	E	verbe	_	_	_	_	_	Gloss=pendant
 2	pad	pad	?	_	_	_	_	_	Gloss=?
 3	pell	pell	adjectif	_	_	_	_	_	Gloss=long
 4	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 7	kontet	kontañ	verbe	_	_	_	_	_	Gloss=conté
-8	kement-mañ:	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=ceci
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vro-se	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|ci|Morph=1
+8	kement-mañ:	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=ceci
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	vro-se	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|ci|Mutation=target|MutationNUM=1
 11	zo	zo	?	_	_	_	_	_	Gloss=est
 12	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -48,10 +49,10 @@
 # texttype = Ouvrages de recherche
 1	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-3	oamp	COP	?	_	_	_	_	_	Gloss=étions
-4	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	oamp	COP	verbe	_	_	_	_	_	Gloss=étions
+4	é	particule_o	?	_	_	_	_	_	Gloss=à
 5	kontiñ	kontañ	verbe	_	_	_	_	_	Gloss=compter
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 
 # sent_id = Merser(2011:57)__1
 # text = e-pad na oa ket e Brest.
@@ -60,8 +61,8 @@
 # texttype = Ouvrages de recherche
 1	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
 2	na	na	?	_	_	_	_	_	Gloss=que.ne
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	e	P.e	?	_	_	_	_	_	Gloss=à
-6	Brest	nompropre	?	_	_	_	_	_	Gloss=Brest
+5	e	P.e	préposition	_	_	_	_	_	Gloss=à
+6	Brest	nom_propre	?	_	_	_	_	_	Gloss=Brest
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

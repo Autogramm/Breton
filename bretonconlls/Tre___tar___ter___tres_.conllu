@@ -4,8 +4,8 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Taol	teuler	?	_	_	_	_	_	Gloss=jette
-2	pled	pled	nom-postposition	_	_	_	_	_	Gloss=intérêt
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+1	Taol	teuler	verbe	_	_	_	_	_	Gloss=jette
+2	pled	pled	postposition|nom	_	_	_	_	_	Gloss=intérêt
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	tarlonkfes	lonkañ	verbe	_	_	_	_	_	Gloss=avaler
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

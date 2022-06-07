@@ -5,18 +5,18 @@
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	meus	kaout	?	_	_	_	_	_	Gloss=a
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 3	esayet	esayet	?	_	_	_	_	_	Gloss=essayé
 4	renket	renket	?	_	_	_	_	_	Gloss=réparer
-5	a	art	préposition	_	_	_	_	_	Gloss=le
+5	a	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	mikseur	mikseur	?	_	_	_	_	_	Gloss=mixeur
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=pmais
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=pmais
 8	pag	pa	complémenteur	_	_	_	_	_	Gloss=quand
-9	e	e	?	_	_	_	_	_	Gloss=R
+9	e	e	verbe	_	_	_	_	_	Gloss=R
 10	vanchan	vanchan	?	_	_	_	_	_	Gloss=branche
-11	nehoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-12	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-13	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+11	nehoñ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+13	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 14	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

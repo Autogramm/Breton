@@ -4,11 +4,11 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Kê	mont	verbe	_	_	_	_	_	Gloss=va
-2	timad	tizh.mat	nom.adverbe-adjectif	_	_	_	_	_	Gloss=vitesse.bon
-3	war	war	?	_	_	_	_	_	Gloss=sur-droit
+2	timad	tizh.mat	nom.adverbe|adjectif	_	_	_	_	_	Gloss=vitesse.bon
+3	war	war	préposition	_	_	_	_	_	Gloss=sur-droit
 4	eon	eon	?	_	_	_	_	_	Gloss=?
-5	beteg	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusque
-6	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	beteg	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusque
+6	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 7	di	ti	nom	_	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,12 +19,12 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	kaout	?	_	_	_	_	_	Gloss=2.a
+1	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=2.a
 2	Peus	Peus	?	_	_	_	_	_	Gloss=?
-3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-4	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+3	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=que
+4	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	'	art	?	_	_	_	_	_	Gloss=le
-8	n	eeun	adverbe-adjectif	_	_	_	_	_	Gloss=droit
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	n	eeun	adverbe|adjectif	_	_	_	_	_	Gloss=droit
 9	eeun.	eeun.	?	_	_	_	_	_	Gloss=?

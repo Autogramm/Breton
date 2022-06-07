@@ -1,0 +1,31 @@
+sent_id = ArBorgn(2011:65)__1
+text = Dre forzh labourat, e tay da benn.
+text_fr =  'À force de travailler, il réussira.'
+1	Dre	dre	préposition	_	_	_	_	_	Gloss=par
+2	forzh	forzh	adverbe	_	_	_	_	_	Gloss=force
+3	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
+4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+5	e	[[R]]_[[4]]	copule	_	_	_	_	_	Gloss=[[R]]_[[4]]
+6	tay	dont	verbe	_	_	_	_	_	Gloss=viendra
+7	da	da	préposition	_	_	_	_	_	Gloss=à
+8	benn	penn	nom	_	_	_	_	_	Gloss=tête
+9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Gros(1984:484)__1
+text = Ema o turlutad aze gand eur goz souflez
+text_fr = 'Il est là en train de s'amuser avec un vieux soufflet.' 
+1	Ema	ema	verbe	_	_	_	_	_	Gloss=est
+2	o	particule o	verbe	_	_	_	_	_	Gloss=à
+3	turlutad	turlutad	?	_	_	_	_	_	Gloss=bricoler
+4	aze	ads	adverbe	_	_	_	_	_	Gloss=là
+5	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+6	eur	art	article	_	_	_	_	_	Gloss=un
+7	goz	_[[1]][[kozh|vieille]]	nom	_	_	_	_	_	Gloss=_[[1]][[kozh|vieille]]
+8	souflez	souflez	?	_	_	_	_	_	Gloss=soufflet
+
+sent_id = Vannetais,LeBayon(1878)__1
+text = É tañ a gowessat.
+text_fr =  'Je viens de me confesser.' 
+1	É tañ	[[R]]_[[4]] [[dont|viens]]	?	_	_	_	_	_	Gloss=[[R]]_[[4]] [[dont|viens]]
+2	a gowessat	a	préposition	_	_	_	_	_	Gloss=de
+3	.	.	PUNCT	_	_	_	_	_	Gloss=punct

@@ -1,14 +1,15 @@
 # sent_id = Press(1986:186)__2
 # text = Setu an dorgenn ma savas-hi he zi warni.
 # text_fr = 'Voici la colline sur laquelle elle a construit sa maison.'
+# dialect = Standard
 # source = Press (1986)
 # texttype = Ouvrages de recherche
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	an	art	?	_	_	_	_	_	Gloss=le
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	dorgenn	dorgenn	?	_	_	_	_	_	Gloss=1
-4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+4	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 5	savas-hi	sevel	verbe	_	_	_	_	_	Gloss=monta
-6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 7	zi	ti	nom	_	_	_	_	_	Gloss=maison
-8	warni	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.elle
+8	warni	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.elle
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,12 +1,14 @@
 # sent_id = Gros(1984:484)__1
 # text = Ema o turlutad aze gand eur goz souflez
 # text_fr = 'Il est là en train de s'amuser avec un vieux soufflet.'
-# source = Gros (1984)
-1	Ema	ema	?	_	_	_	_	_	Gloss=est
-2	aze	ads	?	_	_	_	_	_	Gloss=là
-3	gand	gant	?	_	_	_	_	_	Gloss=avec
-4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	goz	kozh-	adjectif	_	_	_	_	_	Gloss=vieux|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ema	ema	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	aze	ads	adverbe|suffixe	_	_	_	_	_	Gloss=là
+3	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	goz	kozh-	adjectif	_	_	_	_	_	Gloss=vieux|Mutation=target|MutationNUM=1
 6	souflez	souflez	?	_	_	_	_	_	Gloss=soufflet
 
 # sent_id = Elégoët(1982:25)__1
@@ -16,11 +18,11 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+1	Kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 2	tanavo'	tanav.-oc'h	adjectif.?	_	_	_	_	_	Gloss=épais.plus
 3	h	h	?	_	_	_	_	_	Gloss=?
 4	bezhin	bezhin	nom	_	_	_	_	_	Gloss=algues
-5	int	COP	?	_	_	_	_	_	Gloss=sont
+5	int	COP	verbe	_	_	_	_	_	Gloss=sont
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Menard&Kadored(2001:§kement-mañ)__1
@@ -32,12 +34,12 @@
 2	pad	pad	?	_	_	_	_	_	Gloss=?
 3	pell	pell	adjectif	_	_	_	_	_	Gloss=long
 4	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-7	kontet	kontañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=cont.é
-8	kement-mañ:	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=ceci
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	vro-se	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|ci|Morph=1
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+7	kontet	kontañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=cont.é
+8	kement-mañ:	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=ceci
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	vro-se	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|ci|Mutation=target|MutationNUM=1
 11	zo	zo	?	_	_	_	_	_	Gloss=est
 12	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -48,14 +50,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ul	art	?	_	_	_	_	_	Gloss=un
+1	Ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	labour	labour	nom	_	_	_	_	_	Gloss=travail
-3	àr	war	?	_	_	_	_	_	Gloss=sur
-4	hir	hir-	adjectif	_	_	_	_	_	Gloss=long|Morph=1
+3	àr	war	préposition	_	_	_	_	_	Gloss=sur
+4	hir	hir-	adjectif	_	_	_	_	_	Gloss=long|Mutation=trigger|MutationNUM=1
 5	dermen	termen	?	_	_	_	_	_	Gloss=terme
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	hani	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+8	eo	COP	verbe	_	_	_	_	_	Gloss=est
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:107)__1
@@ -63,10 +65,10 @@
 # text_fr = 'Bonne chance à vous, mes chers amis !'
 # source = ar Meliner (2009)
 1	Boneur	boneur	nom	_	_	_	_	_	Gloss=chance
-2	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bonne|Morph=1
-3	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+2	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bonne|Mutation=target|MutationNUM=1
+3	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	c'heiz	kaezh	adjectif	_	_	_	_	_	Gloss=cher
 7	tud	tud	nom	_	_	_	_	_	Gloss=gens
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -78,11 +80,11 @@
 # texttype = Ouvrages de recherche
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
 2	gwasad	-at	?	_	_	_	_	_	Gloss=!
-3	pez	pezh	?	_	_	_	_	_	Gloss=morceau
-4	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
+3	pez	pezh	pronom|nom	_	_	_	_	_	Gloss=morceau
+4	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+7	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 8	loer	loer	nom	_	_	_	_	_	Gloss=chaussette
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -93,26 +95,28 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	wetur	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
-2	vrav	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-3	met	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+1	wetur	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau|Mutation=target|MutationNUM=1
+2	vrav	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+3	met	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 4	bihan	ya	interjection	_	_	_	_	_	Gloss=oui
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	ur	hini	nom-pronom	_	_	_	_	_	Gloss=celle
+6	ur	hini	pronom|nom	_	_	_	_	_	Gloss=celle
 7	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Kervella(1995:§500)__1
 # text = Dour e-leizh a oa kouezhet e-pad ar goañvezh-se.
 # text_fr = 'Il avait beaucoup plu cet hiver-là.'
-# source = Kervella (1995)
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
 1	Dour	dour	nom	_	_	_	_	_	Gloss=eau
-2	e-leizh	e-leizh	adverbe-quantifieur	_	_	_	_	_	Gloss=beaucoup
+2	e-leizh	e-leizh	adverbe|quantifieur	_	_	_	_	_	Gloss=beaucoup
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	oa	E	?	_	_	_	_	_	Gloss=y.avait
-5	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+4	oa	E	verbe	_	_	_	_	_	Gloss=y.avait
+5	kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
 6	e-pad	e-pad	préposition	_	_	_	_	_	Gloss=pendant
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	goañvezh-se	goañv.-vezh.DEM	nom.nom.?	_	_	_	_	_	Gloss=hiver.ée.ci
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	goañvezh-se	goañv.-vezh.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=hiver.ée.ci
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bijer(2007:392),citédansRezac(2009)__1
@@ -124,10 +128,10 @@
 1	Biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
 3	he	he	?	_	_	_	_	_	Gloss=3SGF
-4	doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	Naig	nompropre	?	_	_	_	_	_	Gloss=Naig
-6	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-7	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+4	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	Naig	nom_propre	?	_	_	_	_	_	Gloss=Naig
+6	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+7	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 8	bag	bag	nom	_	_	_	_	_	Gloss=bateau
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -136,30 +140,32 @@
 # text_fr = 'C'était trop de travail pour une seule personne.'
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
-1	Re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
-2	vras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+1	Re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
+2	vras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 3	labour	labour	nom	_	_	_	_	_	Gloss=travail
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-7	un	art	?	_	_	_	_	_	Gloss=un
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	den	den	nom	_	_	_	_	_	Gloss=homme
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§512)__1
 # text = Melloù glavennoù dibaot en em flastras war groc'hen ar paotr yaouank evel drajoù
 # text_fr = 'De grosses gouttes isolées s'écrasèrent sur la peau du jeune homme comme des dragées.'
-# source = Kervella (1995)
-1	Melloù	mell.-où(PL.)	nom.?	_	_	_	_	_	Gloss=grosse.s
-2	glavennoù	glav.-enn.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=pluie.SG.s
-3	dibaot	dibaot	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=isolé
-4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Melloù	mell.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=grosse.s
+2	glavennoù	glav.-enn.-où_(PL.)	nom.suffixe|nom.suffixe	_	_	_	_	_	Gloss=pluie.SG.s
+3	dibaot	dibaot	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=isolé
+4	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 5	em	flastrañ	verbe	_	_	_	_	_	Gloss=écrasa
 6	flastras	flastras	?	_	_	_	_	_	Gloss=?
-7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+7	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 8	groc'hen	kroc'hen	?	_	_	_	_	_	Gloss=peau
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
 11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
-12	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-13	drajoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
+12	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+13	drajoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s

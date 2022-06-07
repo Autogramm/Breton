@@ -3,19 +3,19 @@
 # text_fr = 'Au café Kervréhan les gens s'étaient mis ce jour-là à parler éducation.'
 # source = Jaffre (1986)
 # texttype = Références de corpus
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	tāvarn	tāvarn	?	_	_	_	_	_	Gloss=café
-3	Kervrehan	nompropre	?	_	_	_	_	_	Gloss=Kervrehan
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	degouezhet	degouezhout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=arriv.é
-7	an	art	?	_	_	_	_	_	Gloss=le
+3	Kervrehan	nom_propre	?	_	_	_	_	_	Gloss=Kervrehan
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	degouezhet	degouezhout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=arriv.é
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	deiz-se	deiz	nom	_	_	_	_	_	Gloss=jour
-9	get	gant	?	_	_	_	_	_	Gloss=avec
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-12	komzal	komz.-al(V.)	verbe.?	_	_	_	_	_	Gloss=parl.er
-13	ag	eus,a(g)	?	_	_	_	_	_	Gloss=de
-14	an	art	?	_	_	_	_	_	Gloss=le
-15	deskamant	deskiñ.-amant	verbe.?	_	_	_	_	_	Gloss=éduc.ation
+9	get	gant	préposition	_	_	_	_	_	Gloss=avec
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+12	komzal	komz.-al_(V.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=parl.er
+13	ag	eus,_a(g)	?	_	_	_	_	_	Gloss=de
+14	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	deskamant	deskiñ.-amant	verbe.suffixe|nom	_	_	_	_	_	Gloss=éduc.ation
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

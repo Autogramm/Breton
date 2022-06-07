@@ -4,14 +4,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Hennañ	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Hennañ	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	manier	manier	?	_	_	_	_	_	Gloss=presque
-4	burlu	burlu	?	_	_	_	_	_	Gloss=pompette
+4	burlu	burlu	nom	_	_	_	_	_	Gloss=pompette
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	un	art	?	_	_	_	_	_	Gloss=un
+6	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	toullad	toullad	quantifieur	_	_	_	_	_	Gloss=trou.contenant
-8	getoñ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
+8	getoñ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:27)__9
@@ -33,7 +33,7 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	manier	manier	?	_	_	_	_	_	Gloss=assez
@@ -43,12 +43,13 @@
 # sent_id = Scaër/Bannalec,HuguetteGaudart(c.p.2020)__1
 # text = Bez' 'm eus ur manniel droug-penn.
 # text_fr = 'J'ai un peu mal à la tête.'
+# source = Ar Borgn (2011)
 1	Bez'	Bez'	?	_	_	_	_	_	Gloss=expl
 2			PUNCT	_	_	_	_	Gloss=punct
 3	'	'	?	_	_	_	_	_	Gloss=R
-4	m	kaout	?	_	_	_	_	_	Gloss=a
-5	eus	eus	?	_	_	_	_	_	Gloss=?
-6	ur	art	?	_	_	_	_	_	Gloss=un
+4	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	eus	eus	préposition	_	_	_	_	_	Gloss=?
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	manniel	manniel	?	_	_	_	_	_	Gloss=petit
-8	droug-penn	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+8	droug-penn	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

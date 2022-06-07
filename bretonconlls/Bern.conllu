@@ -1,41 +1,39 @@
 # sent_id = Chalm(2008:D4)__1
 # text = O selaou an dud en doa desket ur bern traoù.
 # text_fr = 'Il avait appris un tas de choses en écoutant les gens.'
+# dialect = Standard
 # source = Chalm (2008)
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	selaou	selaou	verbe	_	_	_	_	_	Gloss=écouter
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 5	en	en	complémenteur	_	_	_	_	_	Gloss=R
-6	doa	kaout	?	_	_	_	_	_	Gloss=avait
+6	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 7	desket	deskiñ	verbe	_	_	_	_	_	Gloss=appris
-8	ur	art	?	_	_	_	_	_	Gloss=un
-9	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
-10	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
+8	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
+10	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:104)__1
-# text = Neuche berniou aèl.  ''Cornouaillais (Riec)''
+# text = Neuche berniou aèl.  Cornouaillais (Riec)
 # text_fr = 'Il n'y a pas beaucoup de vent.'
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Neuche	Neuche	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Neuche	Neuche	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	berniou	berniou	?	_	_	_	_	_	Gloss=beaucoup
 3	aèl	avel	nom	_	_	_	_	_	Gloss=vent
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 5	??	??	?	_	_	_	_	_	Gloss=???
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
-7	'	'	?	_	_	_	_	_	Gloss=???
-8	'	'	?	_	_	_	_	_	Gloss=?
-9	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
-10	(Riec)'	(Riec)'	?	_	_	_	_	_	Gloss=?
-11	'	'	?	_	_	_	_	_	Gloss=?
-12			PUNCT	_	_	_	_	Gloss=punct
+7	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=???
+8	(Riec)	(Riec)	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Bouzec & al. (2017:260)__1
-# text = 'n dud oar bernio ha divernio foenn da lak noñ da zerc'hé.   ''Cornouaillais de l'est maritime''
+# sent_id = Bouzec&al.(2017:260)__1
+# text = 'n dud oar bernio ha divernio foenn da lak noñ da zerc'hé.   Cornouaillais de l'est maritime
 # text_fr = 'Pour les faire sécher [...] les faneurs font et défont les tas de foin.'
+# source = Bouzec & al. (2017)
 1	'	'	?	_	_	_	_	_	Gloss=an
 2	n	n	?	_	_	_	_	_	Gloss=dud
 3	dud	dud	préposition	_	_	_	_	_	Gloss=a
@@ -54,46 +52,44 @@
 16	?	?	PUNCT	_	_	_	_	Gloss=punct
 17	??	??	?	_	_	_	_	_	Gloss=
 18	?	?	PUNCT	_	_	_	_	Gloss=punct
-19	'	'	?	_	_	_	_	_	Gloss='@'@Équivalent
-20	'	'	?	_	_	_	_	_	Gloss=standardisé'@'@
-21	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=?
-22	de	de	?	_	_	_	_	_	Gloss=?
-23	l'	l'	?	_	_	_	_	_	Gloss=?
-24	est	est	?	_	_	_	_	_	Gloss=?
-25	maritime'	maritime'	?	_	_	_	_	_	Gloss=?
-26	'	'	?	_	_	_	_	_	Gloss=?
-27			PUNCT	_	_	_	_	Gloss=punct
+19	Cornouaillais	Cornouaillais	?	_	_	_	_	_	Gloss=Équivalent
+20	de	de	?	_	_	_	_	_	Gloss=standardisé
+21	l'	l'	?	_	_	_	_	_	Gloss=?
+22	est	est	?	_	_	_	_	_	Gloss=?
+23	maritime	maritime	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Le Dû (2012:41)__1
+# sent_id = LeDû(2012:41)__1
 # text = Ar bern labour-se 'zo ezhomm tud d'ober anezho.
 # text_fr = 'Ce tas de travail, il y a besoin de personnel pour le faire.'
-# text_phon = ['E bèrn', 'labour-zé', 'zó ém', 'tut', "t'@ober", 'nê.']
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+# text_phon = E bèrn labour-zé zó ém tut t'@ober nê. 
+# source = Bouzec & al. (2017)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 3	labour-se	labour	nom	_	_	_	_	_	Gloss=travail
 4	'	zo	?	_	_	_	_	_	Gloss=est
 5	zo	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 6	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=?
 7	tud	tud	nom	_	_	_	_	_	Gloss=gens
 8	d'	da	préposition	_	_	_	_	_	Gloss=pour
-9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-10	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+10	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Standard,[http://www.alliamm.com/AlLiamm]360,p.115__1
 # text = Keleier all a zo [ ur bern ø ] gant P. Cherel dreist-holl.
 # text_fr = 'Il y a un tas d'autres nouvelles, surtout par P. Cherel.'
-1	Keleier	keleier	?	_	_	_	_	_	Gloss=nouvelles
-2	all	all	?	_	_	_	_	_	Gloss=autre
+# source = Bouzec & al. (2017)
+1	Keleier	keleier	nom	_	_	_	_	_	Gloss=nouvelles
+2	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	zo	E	?	_	_	_	_	_	Gloss=y.a
-5	[	art	?	_	_	_	_	_	Gloss=un
-6	ur	ur	?	_	_	_	_	_	Gloss=tas
-7	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=?
+4	zo	E	verbe	_	_	_	_	_	Gloss=y.a
+5	[	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+6	ur	ur	verbe	_	_	_	_	_	Gloss=tas
+7	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=?
 8	ø	ø	?	_	_	_	_	_	Gloss=
 9	]	]	?	_	_	_	_	_	Gloss=?
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	P	P	?	_	_	_	_	_	Gloss=P.
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	P	P	P.	_	_	_	_	_	Gloss=P.
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 13	Cherel	Cherel	?	_	_	_	_	_	Gloss=Cherel
 14	dreist-holl	dreist	préposition	_	_	_	_	_	Gloss=sur
@@ -108,24 +104,26 @@
 # texttype = Ouvrages de recherche
 1	Nann	nann	interjection	_	_	_	_	_	Gloss=non
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	amañ	amañ	?	_	_	_	_	_	Gloss=ici
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+3	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+7	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:12)__1
 # text = Me a gavo kant war ar bern da choaz.
 # text_fr = 'J'en trouverai cent sur le tas à choisir.'
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gavo	kavout	verbe	_	_	_	_	_	Gloss=trouvera
-4	war	war	?	_	_	_	_	_	Gloss=sur
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	war	war	préposition	_	_	_	_	_	Gloss=sur
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	choaz	choaz	verbe	_	_	_	_	_	Gloss=choisir
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -134,13 +132,13 @@
 # text_fr = 'J'ai appris mon métier sur le tas.'
 # source = Blanchard (2016)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	am	am	?	_	_	_	_	_	Gloss=1SG
-3	meus	kaout	?	_	_	_	_	_	Gloss=a
+3	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	desket	deskiñ	verbe	_	_	_	_	_	Gloss=appris
-5	va	POSS	?	_	_	_	_	_	Gloss=moon|Morph=1
+5	va	POSS	déterminant	_	_	_	_	_	Gloss=moon|Mutation=trigger|MutationNUM=1
 6	micher	micher	nom	_	_	_	_	_	Gloss=métier
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

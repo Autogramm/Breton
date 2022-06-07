@@ -1,16 +1,18 @@
 # sent_id = Gros(1984:143)__1
 # text = Ne dalv ket ar boan dit klask pemp troad d'ar maout.
 # text_fr = 'Ce n'est pas la peine que tu cherches midi à quatorze heures.'
-# source = Gros (1984)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	dalv	talvezout	verbe	_	_	_	_	_	Gloss=vaut
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	boan	poan	nom	_	_	_	_	_	Gloss=peine|Morph=1
-6	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	boan	poan	nom	_	_	_	_	_	Gloss=peine|Mutation=target|MutationNUM=1
+6	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 7	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
 8	troad	troad	nom	_	_	_	_	_	Gloss=patte
 9	d'	da	préposition	_	_	_	_	_	Gloss=à
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	maout	maout	nom	_	_	_	_	_	Gloss=bélier
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

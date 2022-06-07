@@ -7,11 +7,11 @@
 1	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.œil
 2	mo'	mo'	?	_	_	_	_	_	Gloss=mode
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ka'	gant	?	_	_	_	_	_	Gloss=avec
+4	ka'	gant	préposition	_	_	_	_	_	Gloss=avec
 5			PUNCT	_	_	_	_	Gloss=punct
-6	'	art	?	_	_	_	_	_	Gloss=un
-7	r	r	?	_	_	_	_	_	Gloss=?
-8	c'houl-taro	kole	nom	_	_	_	_	_	Gloss=taureau]]-[[tarv|taureau|Morph=5
+6	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	r	r	particules verbale	_	_	_	_	_	Gloss=?
+8	c'houl-taro	kole	nom	_	_	_	_	_	Gloss=taureau]]-[[tarv|taureau|Mutation=target|MutationNUM=5
 
 # sent_id = Bouzec&al.(2017:309)__1
 # text = daoulagad mo' / 'gis ka' 'r c'houl-taro
@@ -25,8 +25,8 @@
 4	/	/	PUNCT	_	_	_	_	Gloss=punct
 5	'	'	?	_	_	_	_	_	Gloss=?
 6	gis	gis	?	_	_	_	_	_	Gloss=?
-7	ka'	gant	?	_	_	_	_	_	Gloss=avec
+7	ka'	gant	préposition	_	_	_	_	_	Gloss=avec
 8			PUNCT	_	_	_	_	Gloss=punct
-9	'	art	?	_	_	_	_	_	Gloss=un
-10	r	kole	nom	_	_	_	_	_	Gloss=taureau]]-[[tarv|taureau|Morph=5
+9	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	r	kole	nom	_	_	_	_	_	Gloss=taureau]]-[[tarv|taureau|Mutation=target|MutationNUM=5
 11	c'houl-taro	c'houl-taro	?	_	_	_	_	_	Gloss=?

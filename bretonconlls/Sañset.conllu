@@ -5,13 +5,13 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	gourlan	Gour-.lanv	?.nom	_	_	_	_	_	Gloss=haut.flux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	ziskenn	diskenn	verbe	_	_	_	_	_	Gloss=descend
 5	divreoc'h	divreoc'h.-oc'h	?.?	_	_	_	_	_	Gloss=vite.plus
 6	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	pign	pignat	verbe	_	_	_	_	_	Gloss=monte
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	sañset	sañset	adverbe	_	_	_	_	_	Gloss=censé

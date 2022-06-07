@@ -1,34 +1,36 @@
 # sent_id = Gourmelon(2014:118)__1
 # text = E-skeud mont da brenañ an dilhad-se ez in da welet Hélène.
 # text_fr = 'En allant faire des courses, j'en profiterai pour aller voir Hélène.'
-# source = Gourmelon (2014)
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
 1	E-skeud	P.e	préposition	_	_	_	_	_	Gloss=en
 2	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-3	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+3	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 4	brenañ	prenañ	verbe	_	_	_	_	_	Gloss=acheter
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	dilhad-se	dilhad	nom	_	_	_	_	_	Gloss=habits
-7	ez	ez	?	_	_	_	_	_	Gloss=R|Morph=4
+7	ez	ez	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	in	mont	verbe	_	_	_	_	_	Gloss=irai
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	welet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-11	Hélène	nompropre	?	_	_	_	_	_	Gloss=Hélène
+11	Hélène	nom_propre	?	_	_	_	_	_	Gloss=Hélène
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gourmelon(2014:118)__1
 # text = E-skeud labourat e ti Jestin e oa aet pelloc'h gant e studi.
 # text_fr = 'En travaillant chez Jestin, il avait poursuivi ses études.'
-# source = Gourmelon (2014)
+# source = Gerven (2014)
+# texttype = Ouvrages pédagogiques
 1	E-skeud	P.e	préposition	_	_	_	_	_	Gloss=en
 2	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
-3	e	P.e	?	_	_	_	_	_	Gloss=en
+3	e	P.e	préposition	_	_	_	_	_	Gloss=en
 4	ti	ti	nom	_	_	_	_	_	Gloss=maison
-5	Jestin	nompropre	?	_	_	_	_	_	Gloss=Jestin
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-7	oa	COP	?	_	_	_	_	_	Gloss=était
+5	Jestin	nom_propre	?	_	_	_	_	_	Gloss=Jestin
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
 8	aet	mont	verbe	_	_	_	_	_	Gloss=allé
 9	pelloc'h	pell.-oc'h	adjectif.?	_	_	_	_	_	Gloss=loin.plus
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	studi	studiañ	verbe	_	_	_	_	_	Gloss=étude
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

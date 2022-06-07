@@ -1,13 +1,14 @@
 # sent_id = Riou(1941:7)__2
 # text = Ehana a ri pelloc'h dispac'ha ha termi ?
 # text_fr = 'Tu vas t'arrêter à la fin de t'agiter et de geindre ?'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Ehana	ehanañ	?	_	_	_	_	_	Gloss=cesser
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
+1	Ehana	ehanañ	verbe	_	_	_	_	_	Gloss=cesser
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ri	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=feras
 4	pelloc'h	pelloc'h	?	_	_	_	_	_	Gloss=finalement
 5	dispac'ha	dispac'hañ	?	_	_	_	_	_	Gloss=agiter
-6	ha	&	?	_	_	_	_	_	Gloss=et
+6	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 7	termi	termi	?	_	_	_	_	_	Gloss=geindre
 8	?	?	PUNCT	_	_	_	_	Gloss=punct

@@ -3,12 +3,12 @@
 # text_fr = 'Le mobilier ne reste pas dans sa cave.'
 # source = M. Lincoln (05/2014)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	arrebeuri	arrebeuri	nom	_	_	_	_	_	Gloss=mobilier
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	chom	chom	verbe	_	_	_	_	_	Gloss=reste
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-7	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+7	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	c'hav	c'hav	?	_	_	_	_	_	Gloss=cave
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

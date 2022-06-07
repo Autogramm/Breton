@@ -5,24 +5,25 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	kalm	kalm	adjectif	_	_	_	_	_	Gloss=calme
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	e	e	?	_	_	_	_	_	Gloss=R
+5	e	e	verbe	_	_	_	_	_	Gloss=R
 6	rankez	rankout	verbe	_	_	_	_	_	Gloss=dois
-7	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	sachañ	sachañ	verbe	_	_	_	_	_	Gloss=tirer
-10	war	war	?	_	_	_	_	_	Gloss=sur
-11	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+10	war	war	préposition	_	_	_	_	_	Gloss=sur
+11	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 12	roeñv	roeñv	nom	_	_	_	_	_	Gloss=rame
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:236)__3
+# sent_id = Bouzec&al.(2017:236)__3
 # text = Blam  vo had't péz perchoù.
 # text_fr = 'Cette année on sèmera des haricots à rames.'
-1	??	??	?	_	_	_	_	_	Gloss=e
+# source = Elégoët (1982)
+1	??	??	verbe	_	_	_	_	_	Gloss=e
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	vo	vo	?	_	_	_	_	_	Gloss=vo
 4	had'	had'	?	_	_	_	_	_	Gloss=hadet

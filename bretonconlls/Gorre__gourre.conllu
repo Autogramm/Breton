@@ -4,23 +4,23 @@
 # dialect = Léonard
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Aze	aze	?	_	_	_	_	_	Gloss=là
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oas	COP	?	_	_	_	_	_	Gloss=étais
+1	Aze	aze	adverbe	_	_	_	_	_	Gloss=là
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oas	COP	verbe	_	_	_	_	_	Gloss=étais
 4	sur	sur	adverbe	_	_	_	_	_	Gloss=sur
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	peogwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	garreg	karreg	nom	_	_	_	_	_	Gloss=rochers|Morph=1
-9	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-10	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	garreg	karreg	nom	_	_	_	_	_	Gloss=rochers|Mutation=target|MutationNUM=1
+9	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	mor	mor	nom	_	_	_	_	_	Gloss=mer
 12	;	;	PUNCT	_	_	_	_	Gloss=punct
-13	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-14	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+13	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+14	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 15	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 16	james	james	adverbe	_	_	_	_	_	Gloss=jamais
-17	goloet	golo	adverbe-adjectif	_	_	_	_	_	Gloss=couvert
+17	goloet	golo	adverbe|adjectif	_	_	_	_	_	Gloss=couvert
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:91)__1
@@ -30,14 +30,14 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-2	eun	art	?	_	_	_	_	_	Gloss=un
+2	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	den	den	nom	_	_	_	_	_	Gloss=homme
 4	foeltr	foeltr	?	_	_	_	_	_	Gloss=foudre
 5	perz	perzh	nom	_	_	_	_	_	Gloss=partie
-6	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 7	ean	ean	?	_	_	_	_	_	Gloss=?
-8	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-9	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
+8	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+9	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
 10	c'hourre	c'hourre	?	_	_	_	_	_	Gloss=dessus
 
 # sent_id = LeGarrec(1901:14)__1
@@ -46,14 +46,14 @@
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901)
 # texttype = Références de corpus
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
 2	tigwe	degouezhout	verbe	_	_	_	_	_	Gloss=arrive
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	ec'h	pronomincorporé	?	_	_	_	_	_	Gloss=vous
+4	ec'h	pronom_incorporé	?	_	_	_	_	_	Gloss=vous
 5	skuiza	skuizh.-añ	adjectif.?	_	_	_	_	_	Gloss=fatigu.er
-6	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-7	war	war	?	_	_	_	_	_	Gloss=sur
-8	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+6	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
+8	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 9	kourre	kourre	?	_	_	_	_	_	Gloss=dessus
 
 # sent_id = LeGarrec(1901:24,25)__1
@@ -63,13 +63,13 @@
 # texttype = Références de corpus
 1	'	arabat	?	_	_	_	_	_	Gloss=interdit
 2	Rabad	Rabad	?	_	_	_	_	_	Gloss=?
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	Bastien	nompropre	?	_	_	_	_	_	Gloss=Bastien
+5	Bastien	nom_propre	?	_	_	_	_	_	Gloss=Bastien
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	heul	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
 8	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-11	gourre	gourre	?	_	_	_	_	_	Gloss=dessus
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+11	gourre	gourre	nom	_	_	_	_	_	Gloss=dessus
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

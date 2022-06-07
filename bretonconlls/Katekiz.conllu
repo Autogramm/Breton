@@ -3,9 +3,9 @@
 # text_fr = 'J'avais appris mon catéchisme ...'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	c'hatekiz	c'hatekiz	?	_	_	_	_	_	Gloss=catéchisme
 3	em	em	?	_	_	_	_	_	Gloss=R
-4	oa	kaout	?	_	_	_	_	_	Gloss=avait
+4	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	desket..	deskiñ	verbe	_	_	_	_	_	Gloss=appris
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -7,14 +7,14 @@
 # texttype = Ouvrages de recherche
 1	Degas'	Degas'	?	_	_	_	_	_	Gloss=apportez
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
-4	harz-glav	herzel	?	_	_	_	_	_	Gloss=stoppe
-5	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+3	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
+4	harz-glav	herzel	verbe	_	_	_	_	_	Gloss=stoppe
+5	ganeoc'h	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 6	betegoût	betegout	complémenteur	_	_	_	_	_	Gloss=au.cas.où
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	barrad	barr.-ad	nom.?	_	_	_	_	_	Gloss=avers.ée
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	barrad	barr.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=avers.ée
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Kerlouan/Lesneven),A.M.(05/2016)__1
@@ -25,12 +25,12 @@
 # source = A. M. (05/2016)
 # texttype = Élicitations
 1	Tristan	Tristan	?	_	_	_	_	_	Gloss=Tristan
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	zegas	zegas	?	_	_	_	_	_	Gloss=apporte
 4	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	ur	art	?	_	_	_	_	_	Gloss=un
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	foto	foto	?	_	_	_	_	_	Gloss=photo
-7	deuhoutañ	deus.ouzh.pronomincorporé	?.préposition.?	_	_	_	_	_	Gloss=de.de.lui
+7	deuhoutañ	deus.ouzh.pronom_incorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.lui
 8	...	...	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ouessant,Gouedig(1982)__1
@@ -40,28 +40,29 @@
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
 1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-3	a-doa	kaout	?	_	_	_	_	_	Gloss=avait
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+3	a-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 4	deset	deset	?	_	_	_	_	_	Gloss=emmené
-5	ganteu	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+5	ganteu	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 6	peb	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-7	a	a	préposition	_	_	_	_	_	Gloss=a|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=a|Mutation=trigger|MutationNUM=1
 8	damm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-9	euz	eus	?	_	_	_	_	_	Gloss=de
-10	an	art	?	_	_	_	_	_	Gloss=le
-11	doriou	dor.-ioù(PL.)	nom.?	_	_	_	_	_	Gloss=porte.s
-12	e	P.e	?	_	_	_	_	_	Gloss=en
+9	euz	eus	préposition	_	_	_	_	_	Gloss=de
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	doriou	dor.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=porte.s
+12	e	P.e	préposition	_	_	_	_	_	Gloss=en
 13	souvenir	souvenir	?	_	_	_	_	_	Gloss=souvenir
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:132)__1
+# sent_id = Bouzec&al.(2017:132)__1
 # text = Bémz't  vê des't ma journal dim.
 # text_fr = 'Tous les jours, on me livre mon journal.'
+# source = Gouedig (1982)
 1	Bémz'	Bémz'	adverbe	_	_	_	_	_	Gloss=Bemdez
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	??	??	?	_	_	_	_	_	Gloss=e
+3	??	??	verbe	_	_	_	_	_	Gloss=e
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
-5	vê	vê	verbe-auxiliaire	_	_	_	_	_	Gloss=vez
+5	vê	vê	verbe|auxiliaire	_	_	_	_	_	Gloss=vez
 6	des'	des'	?	_	_	_	_	_	Gloss=digaset
 7	t	t	?	_	_	_	_	_	Gloss=?
 8	ma	ma	complémenteur	_	_	_	_	_	Gloss=ma
@@ -76,13 +77,13 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Keuz	keuz	nom	_	_	_	_	_	Gloss=regret
-2	am-eus	kaout	?	_	_	_	_	_	Gloss=a
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	veza	bezañ	?	_	_	_	_	_	Gloss=être
+2	am-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	veza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 5	degaset	degaset	?	_	_	_	_	_	Gloss=emporté
-6	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-7	eur	art	nom	_	_	_	_	_	Gloss=un
+6	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+7	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	zah	sac'h	?	_	_	_	_	_	Gloss=sac
-9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
-10	vian	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
+10	vian	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,62 +1,65 @@
 # sent_id = Bannoù-Heol(2000:4)__1
 # text = Oc'hola ! un toullad gwenan 'zo amañ !.
 # text_fr = 'Hopala ! Il y a plein d'abeilles ici !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Oc'hola	Oc'hola	?	_	_	_	_	_	Gloss=Hopala
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	un	art	?	_	_	_	_	_	Gloss=un
-5	toullad	toull.-ad	nom-adjectif.?	_	_	_	_	_	Gloss=trou.ée
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	toullad	toull.-ad	adjectif|nom.suffixe|nom	_	_	_	_	_	Gloss=trou.ée
 6	gwenan	gwenan	nom	_	_	_	_	_	Gloss=abeilles
 7	'	zo	?	_	_	_	_	_	Gloss=est
 8	zo	zo	?	_	_	_	_	_	Gloss=?
-9	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+9	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 10	!.	!.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Kervella(2006:30)__1
 # text = Oc'hola 'vat paotred ! N'eo ket tout chom aze da dreiñ ar c'hazh dre e lost !
 # text_fr = 'Eh les mecs ! C'est pas le tout de se les rouler !'
+# dialect = Standard
 # source = Kervella (2006)
 # texttype = Références de corpus
-1	Oc'hola	interjection	?	_	_	_	_	_	Gloss=Hopala!
+1	Oc'hola	interjection	interjection	_	_	_	_	_	Gloss=Hopala_!
 2	'	avat	adverbe	_	_	_	_	_	Gloss=!
 3	vat	vat	?	_	_	_	_	_	Gloss=?
-4	paotred	paotr.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=gars.s
+4	paotred	paotr.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=gars.s
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
-6	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
+9	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
 10	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-11	aze	aze	?	_	_	_	_	_	Gloss=là
-12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	aze	aze	adverbe	_	_	_	_	_	Gloss=là
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 13	dreiñ	treiñ	verbe	_	_	_	_	_	Gloss=tourner
 14	dre	dre	préposition	_	_	_	_	_	Gloss=par
-15	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+15	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 16	lost	lost	nom	_	_	_	_	_	Gloss=queue
 17	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2001:25)__2
 # text = 'C'hola 'vat !, Klakenned eo ar baotred-se !
 # text_fr = 'Oh ! la la ! Ça bavarde comme des pies, ces hommes !'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	'	interjection	?	_	_	_	_	_	Gloss=Ohlala!
-2	C'	C'	?	_	_	_	_	_	Gloss=?
-3	hola	hola	?	_	_	_	_	_	Gloss=?
-4	'	'	?	_	_	_	_	_	Gloss=?
-5	vat	vat	?	_	_	_	_	_	Gloss=?
-6	!,	!,	?	_	_	_	_	_	Gloss=?
-7	Klakenned	klakenn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=bavard.s
-8	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	baotred-se	paotr.-ed(PL.).DEM	nom.?.?	_	_	_	_	_	Gloss=gars.s.là
-11	!	!	PUNCT	_	_	_	_	Gloss=punct
+1	'	interjection	interjection	_	_	_	_	_	Gloss=Ohlala_!
+2	C'hola	C'hola	?	_	_	_	_	_	Gloss=?
+3	'	'	?	_	_	_	_	_	Gloss=?
+4	vat	vat	?	_	_	_	_	_	Gloss=?
+5	!,	!,	?	_	_	_	_	_	Gloss=?
+6	Klakenned	klakenn.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=bavard.s
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	baotred-se	paotr.-ed_(PL.).DEM	nom.suffixe.pronom	_	_	_	_	_	Gloss=gars.s.là
+10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002:2)__1
 # text = Oc'hola !, Biskoazh iskisoc'h...
 # text_fr = 'Oh ! Oh ! Voilà qui est troublant... '
+# dialect = Standard
 # source = Kervella (2002)
 # texttype = Références de corpus
 1	Biskoazh	biskoazh	adverbe	_	_	_	_	_	Gloss=jamais
@@ -66,12 +69,13 @@
 # sent_id = Kervella(2002:40)__1
 # text = Oc'hola !... Petra zo er seier-se ?
 # text_fr = 'Un instant ! Qu'y-a-t-il dans ces sacs ?'
+# dialect = Standard
 # source = Kervella (2002)
 # texttype = Références de corpus
-1	Oc'hola	interjection	?	_	_	_	_	_	Gloss=Hey!
+1	Oc'hola	interjection	interjection	_	_	_	_	_	Gloss=Hey_!
 2	!...	!...	?	_	_	_	_	_	Gloss=?
-3	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
+3	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-6	seier-se	sac'h.-ier.DEM	?.?.?	_	_	_	_	_	Gloss=sac.s.ci
+5	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+6	seier-se	sac'h.-ier.DEM	?.suffixe.pronom	_	_	_	_	_	Gloss=sac.s.ci
 7	?	?	PUNCT	_	_	_	_	Gloss=punct

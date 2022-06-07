@@ -1,12 +1,14 @@
 # sent_id = Gros(1984:358)__2
 # text = Me am-eus choukatet behiou keuneud euz ar hoad-ze !
 # text_fr = 'J'en ai transporté des fardeaux de bois depuis ce bois-là !'
-# source = Gros (1984)
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
-2	choukatet	-ad.-et(Adj.)	?.?	_	_	_	_	_	Gloss=N.é
-3	behiou	bec'h.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=charge.s
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	choukatet	-ad.-et_(Adj.)	suffixe|nom.verbe|suffixe	_	_	_	_	_	Gloss=N.é
+3	behiou	bec'h.-ioù_(PL.)	?.suffixe	_	_	_	_	_	Gloss=charge.s
 4	keuneud	keneud	nom	_	_	_	_	_	Gloss=petit.bois
-5	euz	eus	?	_	_	_	_	_	Gloss=de
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	hoad-ze	koad	nom	_	_	_	_	_	Gloss=bois]]-[[DEM|là|Morph=5
+5	euz	eus	préposition	_	_	_	_	_	Gloss=de
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	hoad-ze	koad	nom	_	_	_	_	_	Gloss=bois]]-[[DEM|là|Mutation=target|MutationNUM=5
 8	!	!	PUNCT	_	_	_	_	Gloss=punct

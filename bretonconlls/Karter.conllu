@@ -4,28 +4,29 @@
 # source = Merser (2009)
 # texttype = Ouvrages de recherche
 1	Furchet	furchal	verbe	_	_	_	_	_	Gloss=cherché
-2	piz	pizh	adverbe-quantifieur	_	_	_	_	_	Gloss=fin
-3	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	piz	pizh	adverbe|quantifieur	_	_	_	_	_	Gloss=fin
+3	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	harter	harter	?	_	_	_	_	_	Gloss=5
-7	gant	gant	?	_	_	_	_	_	Gloss=par
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	gant	gant	préposition	_	_	_	_	_	Gloss=par
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	bolised	bolised	?	_	_	_	_	_	Gloss=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Monfort(2007:42)__1
 # text = Diouzh o c'hlevet emañ pellgomzer nemetañ ar c'harter gante !
 # text_fr = 'À les entendre il n'y a qu'eux qui ont le téléphone dans tout le quartier !'
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
 1	Diouzh	diouzh	préposition	_	_	_	_	_	Gloss=à
-2	o	particuleo	?	_	_	_	_	_	Gloss=les|Morph=2
+2	o	particule_o	?	_	_	_	_	_	Gloss=les
 3	c'hlevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
-4	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	pellgomzer	pell	adjectif	_	_	_	_	_	Gloss=loin|Morph=1
-6	nemetañ	nemet.superlatif	conjonction-adverbe-complémenteur.adjectif	_	_	_	_	_	Gloss=seulement.le.plus
-7	ar	art	?	_	_	_	_	_	Gloss=le
+4	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+5	pellgomzer	pell	adjectif	_	_	_	_	_	Gloss=loin|Mutation=trigger|MutationNUM=1
+6	nemetañ	nemet.superlatif	complémenteur|adverbe|conjonction.adjectif	_	_	_	_	_	Gloss=seulement.le.plus
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	c'harter	c'harter	?	_	_	_	_	_	Gloss=5
-9	gante	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+9	gante	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 10	!	!	PUNCT	_	_	_	_	Gloss=punct

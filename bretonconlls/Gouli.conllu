@@ -6,11 +6,11 @@
 # texttype = Références de corpus
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
 2	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-3	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+3	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	?	?	PUNCT	_	_	_	_	Gloss=punct
 5	hallfe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
-6	iac'hât	yac'h.-aat	?.verbe	_	_	_	_	_	Gloss=guér.ir
-7	gouliou	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	vuhe	buhez	nom	_	_	_	_	_	Gloss=vie|Morph=1
+6	iac'hât	yac'h.-aat	?.verbe|suffixe	_	_	_	_	_	Gloss=guér.ir
+7	gouliou	-ioù_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	vuhe	buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 10	?	?	PUNCT	_	_	_	_	Gloss=punct

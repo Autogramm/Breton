@@ -4,14 +4,14 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Don	don	adverbe-adjectif	_	_	_	_	_	Gloss=profond
-2	'	kaout	?	_	_	_	_	_	Gloss=avez
+1	Don	don	adverbe|adjectif	_	_	_	_	_	Gloss=profond
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avez
 3	peus	peus	?	_	_	_	_	_	Gloss=?
-4	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-5	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+4	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+5	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 6	piz	piz	nom	_	_	_	_	_	Gloss=doigt
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-8	hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
+8	hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 9	lagad	lagad	nom	_	_	_	_	_	Gloss=oeil
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,17 +22,17 @@
 # location = Riec
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-2	bizier	-ier	?	_	_	_	_	_	Gloss=s
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+2	bizier	-ier	suffixe	_	_	_	_	_	Gloss=s
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	uz'	uz'	?	_	_	_	_	_	Gloss=usé
 5	t	t	?	_	_	_	_	_	Gloss=?
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
 7	forz	forzh	quantifieur	_	_	_	_	_	Gloss=force
-8	gob'	gober	?	_	_	_	_	_	Gloss=faire
-9	r	r	?	_	_	_	_	_	Gloss=?
-10	pikurio	pikur.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=piqure.s
-11	dè	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+8	gob'	gober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+9	r	r	particules verbale	_	_	_	_	_	Gloss=?
+10	pikurio	pikur.-ioù_(PL.)	?.suffixe	_	_	_	_	_	Gloss=piqure.s
+11	dè	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Scaër/Bannalec,H.Gaudart(03/2017)__1
@@ -42,18 +42,18 @@
 # source = H. Gaudart (03/2017)
 # texttype = Élicitations
 1	Be(t)	bet	?	_	_	_	_	_	Gloss=eu
-2	meus	kaout	?	_	_	_	_	_	Gloss=ai
+2	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	bet	bet	?	_	_	_	_	_	Gloss=eu
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	bizaoù	bizaoù	?	_	_	_	_	_	Gloss=bague
-6	(e)ma	kaout	?	_	_	_	_	_	Gloss=avais
+6	(e)ma	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 7			PUNCT	_	_	_	_	Gloss=punct
 8	bet	bet	?	_	_	_	_	_	Gloss=?
 9	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-11	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
-12	ui	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-13	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+11	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+12	ui	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+13	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 14	bla	bloaz	nom	_	_	_	_	_	Gloss=anniversaire
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -63,6 +63,6 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	meudad	meud.-ad	nom.?	_	_	_	_	_	Gloss=pouce.ée
-3	lagoud-jistr	sistr	?	_	_	_	_	_	Gloss=cidre
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	meudad	meud.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=pouce.ée
+3	lagoud-jistr	sistr	nom	_	_	_	_	_	Gloss=cidre

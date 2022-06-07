@@ -5,10 +5,10 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Red	ret	?	_	_	_	_	_	Gloss=obligé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	komañs	komañs	verbe	_	_	_	_	_	Gloss=commencer
 4	kent	kent	adverbe	_	_	_	_	_	Gloss=avant
-5	achu	achu	?	_	_	_	_	_	Gloss=finir
+5	achu	achu	verbe	_	_	_	_	_	Gloss=finir
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__2
@@ -17,19 +17,19 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Hoc'h	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+1	Hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 2	kamalad	kamalad	?	_	_	_	_	_	Gloss=ami
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	klemm	klemm	verbe	_	_	_	_	_	Gloss=plaindre
-8	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	ablamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=car
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	koumañs	koumañs	?	_	_	_	_	_	Gloss=commence
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	labour	labour	nom	_	_	_	_	_	Gloss=travail
-13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 14	8e	8e	?	_	_	_	_	_	Gloss=8H
 15	hanter	hanter	quantifieur	_	_	_	_	_	Gloss=demi
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -41,13 +41,13 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+1	Pa	Pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 2	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-5	great	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	ur	art	?	_	_	_	_	_	Gloss=un
-7	sizhuniad	sizhun.-iad	nom.?	_	_	_	_	_	Gloss=semain.-ée
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+5	great	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	sizhuniad	sizhun.-iad	nom.suffixe|nom	_	_	_	_	_	Gloss=semain.-ée
 8	deviñ	deviñ	verbe	_	_	_	_	_	Gloss=brûler
 9	bezhin	bezhin	nom	_	_	_	_	_	Gloss=goemon
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -58,9 +58,11 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Emaoun	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Emaoun	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	pakañ	pakañ	verbe	_	_	_	_	_	Gloss=attraper
+4	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Fave(1989:121)__1
 # text = evid ar baotred o-deus komañset o studiou diwezad.
@@ -68,45 +70,46 @@
 # dialect = Léonard
 # source = Fave (1989)
 # texttype = Références de corpus
-1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed(PL.)|s|Morph=1
-4	o-deus	kaout	?	_	_	_	_	_	Gloss=ont
+1	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	baotred	paotr	nom	_	_	_	_	_	Gloss=homme]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
+4	o-deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ont
 5	komañset	komañset	?	_	_	_	_	_	Gloss=commencé
-6	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-7	studiou	studi.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=étude.s
+6	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+7	studiou	studi.-ioù_(PL.)	?.suffixe	_	_	_	_	_	Gloss=étude.s
 8	diwezad	diwezhat	adverbe	_	_	_	_	_	Gloss=tard
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plouyé,Lozac'h[07/09/2012],[http://brezhoneg-digor.blogspot.fr/2010/11/bazh-ar-vamm-gozh-ha-heni-ar-gwas.htmlbrezhonegdigor]__1
 # text = hag ar vamm-gozh lar oa komañs da ve skuizh.
 # text_fr = 'Et la grand-mère dit qu'elle commençait à fatiguer.'
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	vamm-gozh	mamm	nom	_	_	_	_	_	Gloss=mère]]-_[[1]]_[[kozh|vieille|Morph=1
+# source = Fave (1989)
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	vamm-gozh	mamm	nom	_	_	_	_	_	Gloss=mère]]-_[[1]]_[[kozh|vieille|Mutation=target|MutationNUM=1
 4	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	komañs	komañs	verbe	_	_	_	_	_	Gloss=commencé
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	ve	beza	?	_	_	_	_	_	Gloss=être
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	ve	beza	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 9	skuizh	skuizh	adjectif	_	_	_	_	_	Gloss=fatigué
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:92)__1
-# text = Setu an dud zo bet komañset da daoler war ar gwinizh [...].
+# text = Setu an dud zo bet komañset da daoler war ar gwinizh [....
 # text_fr = 'Donc les gens ont commencé à mettre (de l'engrais) sur le blé.'
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=donc
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=donc
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	bet	bet	?	_	_	_	_	_	Gloss=été
 6	komañset	komañset	?	_	_	_	_	_	Gloss=commencé
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	daoler	taoler	?	_	_	_	_	_	Gloss=mettre
-9	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-10	ar	art	?	_	_	_	_	_	Gloss=le
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	daoler	taoler	verbe	_	_	_	_	_	Gloss=mettre
+9	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
-12	[...].	[...].	?	_	_	_	_	_	Gloss=?
+12	[....	[....	?	_	_	_	_	_	Gloss=?

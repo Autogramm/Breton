@@ -5,11 +5,11 @@
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
 1	Nag	Nag	?	_	_	_	_	_	Gloss=que
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	c'hoarzh	C'hoarzhin	?	_	_	_	_	_	Gloss=rire
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ganto	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	ganto	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Stephens(1990:163)__3
@@ -18,11 +18,11 @@
 # source = Stephens (1990)
 # texttype = Ouvrages de recherche
 1	Hag	Hag	?	_	_	_	_	_	Gloss=que
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-3	lizherou	lizher.-où(PL.)	nom.?	_	_	_	_	_	Gloss=lettre.s
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	lenne	lenn(V.)	?	_	_	_	_	_	Gloss=lisait
-6	Lenaig	nompropre	?	_	_	_	_	_	Gloss=Lenaig
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+3	lizherou	lizher.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=lettre.s
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	lenne	lenn_(V.)	?	_	_	_	_	_	Gloss=lisait
+6	Lenaig	nom_propre	?	_	_	_	_	_	Gloss=Lenaig
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:7)__7
@@ -32,11 +32,11 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Nag	Nag	?	_	_	_	_	_	Gloss=que
-2	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	wez	gwez	nom	_	_	_	_	_	Gloss=arbres
-4	pilet	pilañ	?	_	_	_	_	_	Gloss=abattu
+4	pilet	pilañ	verbe	_	_	_	_	_	Gloss=abattu
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	avel	avel	nom	_	_	_	_	_	Gloss=vent
 8	foll	foll	adjectif	_	_	_	_	_	Gloss=fou
 9	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -48,20 +48,20 @@
 # location = JMh
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	E	P.e	?	_	_	_	_	_	Gloss=en
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	goûg	gouzoug	nom	_	_	_	_	_	Gloss=gorge
-4	ha	&	?	_	_	_	_	_	Gloss=et
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 5	rac’h	rac'h	?	_	_	_	_	_	Gloss=tout
 6	'	'	?	_	_	_	_	_	Gloss=1SG
-7	m	kaout	?	_	_	_	_	_	Gloss=a
-8	eus	kaout	?	_	_	_	_	_	Gloss=eu
-9	bet	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+7	m	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+8	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+9	bet	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 10	unan.	unan.	?	_	_	_	_	_	Gloss=?
 11	O	O	?	_	_	_	_	_	Gloss=Oh
 12	!	!	PUNCT	_	_	_	_	Gloss=punct
 13	Na	Na	?	_	_	_	_	_	Gloss=que
-14	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+14	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:532)__1
@@ -70,10 +70,10 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	Nag	Nag	?	_	_	_	_	_	Gloss=que
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	kavan	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -84,8 +84,8 @@
 # source = Croq (1908)
 # texttype = Références de corpus
 1	Nag	Nag	?	_	_	_	_	_	Gloss=que
-2	hen	pfi	?	_	_	_	_	_	Gloss=lui
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	hen	pfi	pronom	_	_	_	_	_	Gloss=lui
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	diod	diod	?	_	_	_	_	_	Gloss=idiot
 6	koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
@@ -99,7 +99,7 @@
 # texttype = Références de corpus
 1	Na	Na	?	_	_	_	_	_	Gloss=que
 2	garfe	karout	verbe	_	_	_	_	_	Gloss=aimerais
-3	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+3	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 4	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -109,9 +109,9 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	Nag	Nag	?	_	_	_	_	_	Gloss=que
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	hent	hent	nom	_	_	_	_	_	Gloss=route
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -122,48 +122,49 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	pemoc'h	pemoc'h	?	_	_	_	_	_	Gloss=cochon
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	nag	nag	?	_	_	_	_	_	Gloss=bien.que
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
-7	un	art	?	_	_	_	_	_	Gloss=un
-8	toull	toull	nom-adjectif	_	_	_	_	_	Gloss=trou
-9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-10	'	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	rae	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+8	toull	toull	adjectif|nom	_	_	_	_	_	Gloss=trou
+9	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+10	'	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 11	rae	rae	?	_	_	_	_	_	Gloss=?
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-13	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+13	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 14	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-15	anezhoñ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+15	anezhoñ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Ternes (1970:325)__1
+# sent_id = Ternes(1970:325)__1
 # text = Nag e vefent bet er mor
 # text_fr = 'bien qu'ils eussent été en mer'
-# text_phon = ['/nag', 'əfəXen', 'ped', 'e-r', 'mour /']
+# text_phon = /nag əfəXen ped e-r mour / 
+# source = Louis (2015)
 1	Nag	Nag	?	_	_	_	_	_	Gloss=bien.que
-2	e	e.COP	?.?	_	_	_	_	_	Gloss=R.seraient
+2	e	e.COP	verbe.verbe	_	_	_	_	_	Gloss=R.seraient
 3	vefent	vefent	?	_	_	_	_	_	Gloss=?
 4	bet	mont	verbe	_	_	_	_	_	Gloss=bet
-5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 6	mor	mor	nom	_	_	_	_	_	Gloss=mer
 
-# sent_id = Ternes (1970:326)__1
+# sent_id = Ternes(1970:326)__1
 # text = Ar vugale a zeue atav, na veze ket bet kalz argant.
 # text_fr = 'Les enfants venaient tout de même, bien qu'il n'y eût pas beucoup d'argent.'
-# text_phon = ['/ərvyga:le ze ta:w,', 'na vəXeče be', 'kalz argãt /']
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	zeue	dont	verbe	_	_	_	_	_	Gloss=venait
-5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	na	na	?	_	_	_	_	_	Gloss=bien.que
-8	veze	COP.ket	?.adverbe	_	_	_	_	_	Gloss=était.pas
-9	ket	bet	adverbe	_	_	_	_	_	Gloss=eu
-10	bet	bet	?	_	_	_	_	_	Gloss=?
-11	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
-12	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
-13	.	.	PUNCT	_	_	_	_	Gloss=punct
+# text_phon = /ərvyga:le ze ta:w, na vəXeče be kalz argãt / 
+# source = Louis (2015)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s]][[R]]_[[1|Mutation=target|MutationNUM=1
+3	a	dont	verbe	_	_	_	_	_	Gloss=venait
+4	zeue	atav	adverbe	_	_	_	_	_	Gloss=toujours
+5	atav,	atav,	?	_	_	_	_	_	Gloss=?
+6	na	na	?	_	_	_	_	_	Gloss=bien.que
+7	veze	COP.ket	verbe.adverbe	_	_	_	_	_	Gloss=était.pas
+8	ket	bet	adverbe	_	_	_	_	_	Gloss=eu
+9	bet	bet	?	_	_	_	_	_	Gloss=?
+10	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
+11	argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
+12	.	.	PUNCT	_	_	_	_	Gloss=punct

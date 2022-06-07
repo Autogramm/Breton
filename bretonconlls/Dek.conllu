@@ -4,8 +4,8 @@
 # dialect = Vannetais
 # source = Ternes (1970)
 # texttype = Ouvrages de recherche
-1	/dek-to:l	taol(F.)	?	_	_	_	_	_	Gloss=table
+1	/dek-to:l	taol_(F.)	?	_	_	_	_	_	Gloss=table
 2			?	_	_	_	_	_	Gloss=
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	deg-əno:t	art.aod	?.nom	_	_	_	_	_	Gloss=le.côte
+4	deg-əno:t	art.aod	déterminant|quantifieur.nom	_	_	_	_	_	Gloss=le.côte
 5	/	/	PUNCT	_	_	_	_	Gloss=punct

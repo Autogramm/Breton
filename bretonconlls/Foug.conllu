@@ -1,19 +1,19 @@
 # sent_id = Léon(Plougerneau),M-L.B.(05/2016)__1
-# text = [[nom propre|Anna]] a yoa foug en enni o fichañ al loa...
+# text = nom propre|Anna]] a yoa foug en enni o fichañ al loa...
 # text_fr = 'Anna a fièrement brandi la cuillère... '
 # dialect = Léonard
 # location = Plougerneau
 # source = M-L. B. (05/2016)
 # texttype = Élicitations
-1	[[nom	nompropre	?	_	_	_	_	_	Gloss=Anna
+1	nom	nom_propre	nom	_	_	_	_	_	Gloss=Anna
 2	propre|Anna]]	propre|Anna]]	?	_	_	_	_	_	Gloss=?
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	yoa	COP	?	_	_	_	_	_	Gloss=était
+4	yoa	COP	verbe	_	_	_	_	_	Gloss=était
 5	foug	foug	nom	_	_	_	_	_	Gloss=fierté
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-7	enni	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.elle
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
+7	enni	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.elle
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	fichañ	fichañ	verbe	_	_	_	_	_	Gloss=brandir
-10	al	art	?	_	_	_	_	_	Gloss=le
+10	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	loa..	loa	nom	_	_	_	_	_	Gloss=cuillère
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

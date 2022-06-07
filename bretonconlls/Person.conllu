@@ -2,11 +2,11 @@
 # text = Ma ferson a lâre din tuchantik...
 # text_fr = 'Mon recteur me disait tout à l'heure ... '
 # source = ar Meliner (2009)
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	ferson	ferson	?	_	_	_	_	_	Gloss=recteur
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	lâre	lavarout	verbe	_	_	_	_	_	Gloss=disait
-5	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 6	tuchantik..	tuchant.tuchantik..	adverbe.?	_	_	_	_	_	Gloss=tout.à.l'@heure.DIM
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -15,15 +15,15 @@
 # text_fr = 'le recteur qui m'a fait faire mes Pâques.'
 # location = Pleyben
 # source = Ar Floch (1950)
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	aotrou	aotrou	nom	_	_	_	_	_	Gloss=monsieur
 3	person	person	nom	_	_	_	_	_	Gloss=recteur
 4	en	en	complémenteur	_	_	_	_	_	Gloss=R
-5	deus	kaout	?	_	_	_	_	_	Gloss=a
-6	va	POP	?	_	_	_	_	_	Gloss=me|Morph=2
-7	lakaet	structurescausatives	?	_	_	_	_	_	Gloss=mis
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+6	va	POP	pronom	_	_	_	_	_	Gloss=me|Mutation=trigger|MutationNUM=2
+7	lakaet	structures_causatives	?	_	_	_	_	_	Gloss=mis
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	faskou	faskou	?	_	_	_	_	_	Gloss=Pâques
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

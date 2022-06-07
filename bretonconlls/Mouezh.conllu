@@ -7,16 +7,16 @@
 1	Pegours	pegoulz	?	_	_	_	_	_	Gloss=quand
 2	en	en	complémenteur	_	_	_	_	_	Gloss=que
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	goarnemant	goarnemant	?	_	_	_	_	_	Gloss=gouvernement
-6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-7	Frans	nompropre	?	_	_	_	_	_	Gloss=France
+6	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+7	Frans	nom_propre	?	_	_	_	_	_	Gloss=France
 8	sauet	sevel	verbe	_	_	_	_	_	Gloss=monté
-9	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+9	é	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	voéh	voéh	?	_	_	_	_	_	Gloss=voix
-11	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	du	tu	nom	_	_	_	_	_	Gloss=côté
-13	geté	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+13	geté	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 14	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = titredePipec(2005),HorYezh243.__1
@@ -24,8 +24,8 @@
 # text_fr = 'le fonctionnement des accentuations dans le breton de Malgenec'
 # source = Hor Yezh
 1	Monet	mont	verbe	_	_	_	_	_	Gloss=aller
-2	en-dro	en-dro	préposition-postposition-adverbe	_	_	_	_	_	Gloss=de-retour
-3	an	art	?	_	_	_	_	_	Gloss=le
-4	taolioù-mouezh	taol(M.)	?	_	_	_	_	_	Gloss=coups
-5	e	P.e	?	_	_	_	_	_	Gloss=en
+2	en-dro	en-dro	adverbe|préposition|postposition	_	_	_	_	_	Gloss=de-retour
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	taolioù-mouezh	taol_(M.)	?	_	_	_	_	_	Gloss=coups
+5	e	P.e	préposition	_	_	_	_	_	Gloss=en
 6	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton

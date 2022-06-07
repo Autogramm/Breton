@@ -4,10 +4,10 @@
 # dialect = Léonard
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Hiniennou	hini.-enn.-où(PL.)	nom-pronom.nom.?	_	_	_	_	_	Gloss=N.SG.PL
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Hiniennou	hini.-enn.-où_(PL.)	pronom|nom.suffixe|nom.suffixe	_	_	_	_	_	Gloss=N.SG.PL
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	werze	gwerzhañ	verbe	_	_	_	_	_	Gloss=vendait
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
-5	pakadou	pakad.-où(PL.)	nom.?	_	_	_	_	_	Gloss=paquet.s
+5	pakadou	pakad.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=paquet.s
 6	chalotez..	chalotez..	?	_	_	_	_	_	Gloss=échalotes
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

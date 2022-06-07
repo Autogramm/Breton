@@ -4,14 +4,14 @@
 # dialect = Trégorrois
 # source = Juluen (1935)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	paotred	paotr	nom	_	_	_	_	_	Gloss=gars
-3	o	POSS	?	_	_	_	_	_	Gloss=leur
+3	o	POSS	déterminant	_	_	_	_	_	Gloss=leur
 4	ognon	ognon	nom	_	_	_	_	_	Gloss=oignons
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	komz	komz	verbe	_	_	_	_	_	Gloss=parler
 7	brezoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
 8	gwasa	gwashañ	adjectif	_	_	_	_	_	Gloss=pire
-9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+9	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 10	c'hallent..	gallout	verbe	_	_	_	_	_	Gloss=pouvaient
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

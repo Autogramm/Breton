@@ -4,8 +4,8 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	heñv	pfi	?	_	_	_	_	_	Gloss=lui
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	heñv	pfi	pronom	_	_	_	_	_	Gloss=lui
 3	monet	mont	verbe	_	_	_	_	_	Gloss=aller
 4	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
 5	kentizh	kentizh	adverbe	_	_	_	_	_	Gloss=aussi.vite
@@ -18,7 +18,7 @@
 # location = Moëlan
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Yoñ	pfi	?	_	_	_	_	_	Gloss=lui
+1	Yoñ	pfi	pronom	_	_	_	_	_	Gloss=lui
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	waet	mont	verbe	_	_	_	_	_	Gloss=allé
 4	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
@@ -28,20 +28,21 @@
 # sent_id = ArMeliner(2009:136)__2
 # text = Kentizh an holl ober èlti hag em lakaet da respont d'o zro.
 # text_fr = 'Et tous, aussitôt, de  faire comme elle et de se mettre à répondre à leur tour.'
-# source = Ar Meliner (2009)
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
 1	Kentizh	Kentizh	adverbe	_	_	_	_	_	Gloss=aussi.vite
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-5	èlti	evel.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=comme.elle
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+5	èlti	evel.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=comme.elle
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	em	en_em	?	_	_	_	_	_	Gloss=se
 8	lakaet	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 10	respont	respont	?	_	_	_	_	_	Gloss=répondre
-11	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-12	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-13	zro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+11	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+12	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+13	zro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guyot-Jomard(1863:1)__1
@@ -50,10 +51,10 @@
 # dialect = Vannetais
 # source = Guyot-Jomard (1863)
 # texttype = Références de corpus
-1	èl	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
+1	èl	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
 2	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
 3	hun	hun	nom	_	_	_	_	_	Gloss=?
-4	nès	kaout	?	_	_	_	_	_	Gloss=a
+4	nès	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	gellet	gallout	verbe	_	_	_	_	_	Gloss=pu
 6	kerhet..	kerzhout	verbe	_	_	_	_	_	Gloss=marcher
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -63,9 +64,9 @@
 # text_fr = 'Aussi vite, il serait mort.' (à peu de chose près)
 # location = Saint-Yvi
 # source = German (2007:174)
-1	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
-2	vé	COP	?	_	_	_	_	_	Gloss=serait
+1	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
+2	vé	COP	verbe	_	_	_	_	_	Gloss=serait
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	maro	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
-5	haoñ	pfi	?	_	_	_	_	_	Gloss=il
+4	maro	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
+5	haoñ	pfi	pronom	_	_	_	_	_	Gloss=il
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

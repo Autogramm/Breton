@@ -3,24 +3,25 @@
 # text_fr = 'Ça m'est égal.'
 # source = Merser (1963)
 # texttype = Ouvrages de recherche
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	vern	vern	?	_	_	_	_	_	Gloss=importe
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:47)__1
+# sent_id = Bouzec&al.(2017:47)__1
 # text =  'verna ket pesort amz'r fall zo.
 # text_fr = '... quel que soit le temps.'
-1	??	??	?	_	_	_	_	_	Gloss=Ne
+# source = Merser (1963)
+1	??	??	complémenteur	_	_	_	_	_	Gloss=Ne
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	'	'	?	_	_	_	_	_	Gloss=vern
 4	verna	verna	?	_	_	_	_	_	Gloss=?
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=?
 6	pesort	pesort	?	_	_	_	_	_	Gloss=peseurt
 7	amz'	amz'	nom	_	_	_	_	_	Gloss=amzer
-8	r	r	?	_	_	_	_	_	Gloss=?
-9	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=fall
+8	r	r	particules verbale	_	_	_	_	_	Gloss=?
+9	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=fall
 10	zo	zo	?	_	_	_	_	_	Gloss=zo.
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -30,17 +31,17 @@
 # dialect = Vannetais
 # source = Châtelier (2016)
 # texttype = Ouvrages de recherche
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	bernein	bernein	?	_	_	_	_	_	Gloss=importer
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	hra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	hra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	beban	peban	pronom	_	_	_	_	_	Gloss=où
-7	é	é	?	_	_	_	_	_	Gloss=R|Morph=4
+7	é	é	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	ta	dont	verbe	_	_	_	_	_	Gloss=vient
-9	en	art	complémenteur	_	_	_	_	_	Gloss=le
+9	en	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	deur	dour	nom	_	_	_	_	_	Gloss=eau
-11	mar	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-12	vé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-13	mat..	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
+11	mar	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+12	vé	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+13	mat..	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -5,12 +5,15 @@
 # texttype = Ouvrages de recherche
 1	Pedin	pediñ	verbe	_	_	_	_	_	Gloss=inviter
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
 5	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
-6	Lenaig	nompropre	?	_	_	_	_	_	Gloss=Lenaig
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	Lenaig	nom_propre	?	_	_	_	_	_	Gloss=Lenaig
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	respont	respont	?	_	_	_	_	_	Gloss=répondre
+9	anezhañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+10	/*anezhi	a.[pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Hendrick(1990:123)__1
 # text = Skrivañ a reont dezho.
@@ -19,8 +22,8 @@
 # texttype = Ouvrages de recherche
 1	Skrivañ	skrivañ	verbe	_	_	_	_	_	Gloss=écrire
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reont	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=font
-4	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+3	reont	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=font
+4	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:35)__1
@@ -29,5 +32,5 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	lez-he-gwintañ	lezel	?	_	_	_	_	_	Gloss=laisse
+1	lez-he-gwintañ	lezel	verbe	_	_	_	_	_	Gloss=laisse
 2	.	.	PUNCT	_	_	_	_	Gloss=punct

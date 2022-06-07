@@ -1,15 +1,17 @@
 # sent_id = Gros(1984:490)__1
 # text = Ar paotr-koz-se a zo boufon ouz ar vugale.
 # text_fr = 'Ce vieux-là est brutal envers les enfants.'
-# source = Gros (1984)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	paotr-koz-se	paotr	nom	_	_	_	_	_	Gloss=gars
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	boufon	boufon	adjectif	_	_	_	_	_	Gloss=violent
 6	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970b:§'loen')__1
@@ -18,12 +20,12 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Eul	art	?	_	_	_	_	_	Gloss=un
+1	Eul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	loen	loen	nom	_	_	_	_	_	Gloss=animal
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	veza	bezañ	?	_	_	_	_	_	Gloss=être
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	veza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 8	boufonet	boufonet	?	_	_	_	_	_	Gloss=maltraité
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

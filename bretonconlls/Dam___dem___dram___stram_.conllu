@@ -5,12 +5,12 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+1	Klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
 2	em	em	?	_	_	_	_	_	Gloss=R
-3	boa	kaout	?	_	_	_	_	_	Gloss=avait
-4	un	art	?	_	_	_	_	_	Gloss=un
+3	boa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	dam-c'her	dam-c'her	?	_	_	_	_	_	Gloss=1
-6	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+6	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMerser(2009:95,96)__1
@@ -32,15 +32,15 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Eun	art	?	_	_	_	_	_	Gloss=un
+1	Eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 3	ti	ti	nom	_	_	_	_	_	Gloss=maison
-4	he-doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	he-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	feurmi	feurmiñ	?	_	_	_	_	_	Gloss=louer
-8	demdost	tost	adjectif	_	_	_	_	_	Gloss=près|Morph=1
-9	d'	art	?	_	_	_	_	_	Gloss=le|Morph=1
+8	demdost	tost	adjectif	_	_	_	_	_	Gloss=près|Mutation=target|MutationNUM=1
+9	d'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le|Mutation=target|MutationNUM=1
 10	ar	mor	nom	_	_	_	_	_	Gloss=mer
 11	mor.	mor.	?	_	_	_	_	_	Gloss=?
 
@@ -50,16 +50,16 @@
 # dialect = Cornouaillais
 # source = Goyat (2012)
 # texttype = Ouvrages de recherche
-1	Mez	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
-3	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+1	Mez	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+3	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
 4	demdost	demdost.tost	?.adjectif	_	_	_	_	_	Gloss=1.près
-5	pea	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	pea	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	houl	goulenn	verbe	_	_	_	_	_	Gloss=demande
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-10	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+10	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:85)__1
@@ -67,26 +67,27 @@
 # text_fr = 'dans un manoir près de Morlaix'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-2	ur	art	?	_	_	_	_	_	Gloss=un
+1	en	P.e	préposition	_	_	_	_	_	Gloss=en
+2	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	maner	maner	nom	_	_	_	_	_	Gloss=manoir
 4	damdost	damdost.tost	?.adjectif	_	_	_	_	_	Gloss=1.près
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	Vontroulez	Vontroulez	?	_	_	_	_	_	Gloss=Morlaix
 
 # sent_id = Drezen(1990:12)__2
 # text = Damverzout a ra bremañ ar c'housker furmoù all...
 # text_fr = 'Le rêveur commence à remarquer d'autres formes... '
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Damverzout	Damverzout.merzout	?.?	_	_	_	_	_	Gloss=1.remarquer
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 4	bremañ	breman	adverbe	_	_	_	_	_	Gloss=maintenant
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	c'housker	c'housker	?	_	_	_	_	_	Gloss=5
 7	furmoù	furm	?	_	_	_	_	_	Gloss=forme
-8	all..	all	?	_	_	_	_	_	Gloss=autre
+8	all..	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:VI)__1
@@ -96,21 +97,22 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Stramwelet	Stramwelet.gwelout.-et(Adj.)	?.verbe.?	_	_	_	_	_	Gloss=1.v.u
-2	'	kaout	?	_	_	_	_	_	Gloss=ai
+1	Stramwelet	Stramwelet.gwelout.-et_(Adj.)	?.verbe.verbe|suffixe	_	_	_	_	_	Gloss=1.v.u
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	meus	meus	?	_	_	_	_	_	Gloss=?
-4	ur	art	?	_	_	_	_	_	Gloss=un
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	glazer	glazard	nom	_	_	_	_	_	Gloss=lézard
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:407)__1
+# sent_id = Bouzec&al.(2017:407)__1
 # text =  'ra ké mè stramwelo noñ
 # text_fr = 'Il ne fait que voir flou. Il voit flou.'
-1	??	??	?	_	_	_	_	_	Gloss=Ne
+# source = Bouzeg (1986)
+1	??	??	complémenteur	_	_	_	_	_	Gloss=Ne
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	'	'	complémenteur	_	_	_	_	_	Gloss=ra
 4	ra	ra	complémenteur	_	_	_	_	_	Gloss=ket
-5	ké	ké	conjonction-complémenteur	_	_	_	_	_	Gloss=met
+5	ké	ké	complémenteur|conjonction	_	_	_	_	_	Gloss=met
 6	mè	mè	?	_	_	_	_	_	Gloss=?
 7	stramwelo	stramwelo	?	_	_	_	_	_	Gloss=damwelout
 8	noñ	noñ	?	_	_	_	_	_	Gloss=anezhañ.
@@ -159,33 +161,37 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	re-se	re	adverbe	_	_	_	_	_	Gloss=ceux
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	zo	zo	?	_	_	_	_	_	Gloss=est
-5	dam-eveldomp	dam-eveldomp.evel.pronomincorporé	?.préposition-complémenteur.?	_	_	_	_	_	Gloss=1.comme.nous
+5	dam-eveldomp	dam-eveldomp.evel.pronom_incorporé	?.complémenteur|préposition.?	_	_	_	_	_	Gloss=1.comme.nous
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:372)__1
 # text = Ma he-devoa klevet eun damhér bennag…
 # text_fr = 'Si elle avait entendu un demi-mot (la moindre parole).'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-2	he-devoa	kaout	?	_	_	_	_	_	Gloss=avait
-3	klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
-4	eun	art	?	_	_	_	_	_	Gloss=un
+2	he-devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+3	klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
+4	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	damhér	damhér	?	_	_	_	_	_	Gloss=pfx.mot
-6	bennag…	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+6	bennag…	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 
 # sent_id = Gros(1984:371)__1
 # text = Ma horvenn a zo en damliou gant homañ.
 # text_fr = 'Mon corsage a presque la même couleur que celui-ci [celle-ci].'
-# source = Gros (1984)
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	horvenn	horvenn	?	_	_	_	_	_	Gloss=corsage
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	en	en	complémenteur	_	_	_	_	_	Gloss=?
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	homañ	DEM	?	_	_	_	_	_	Gloss=celle.ci
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	homañ	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

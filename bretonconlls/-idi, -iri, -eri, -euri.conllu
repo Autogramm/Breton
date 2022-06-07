@@ -1,0 +1,23 @@
+sent_id = Seite&Stéphan(1957:145),citantDrezen__1
+text = kerz da ober géd, du-hont, a-dreñv puñs ar vereuri.
+text_fr = '... va faire le guet, là-bas, derrière le puits de la métairie.'
+1	kerz	kerzhout	verbe	_	_	_	_	_	Gloss=marche
+2	da ober	da	préposition	_	_	_	_	_	Gloss=de
+3	géd	géd	?	_	_	_	_	_	Gloss=guet
+4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+5	du-hont	tu	nom	_	_	_	_	_	Gloss=côté
+6	,	,	PUNCT	_	_	_	_	_	Gloss=punct
+7	a-dreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
+8	puñs	puñs	nom	_	_	_	_	_	Gloss=puis
+9	ar vereuri	art	article	_	_	_	_	_	Gloss=le
+10	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Abalain(2001:43)__1
+text = En givijeri an ejened a zo buoc'hed.
+text_fr =  'Dans les tanneries, les bœufs sont des vaches'
+1	En	P.e.art	préposition.article	_	_	_	_	_	Gloss=dans.le
+2	givijeri	givijeri	?	_	_	_	_	_	Gloss=tannerie
+3	an ejened	art.ejen.-ed (PL.)	article.nom.nom	_	_	_	_	_	Gloss=le.bœuf.s
+4	a zo	[[R]] [[zo|est]]	?	_	_	_	_	_	Gloss=[[R]] [[zo|est]]
+5	buoc'hed	buoc'h.-ed (PL.)	nom.nom	_	_	_	_	_	Gloss=vache.s
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct

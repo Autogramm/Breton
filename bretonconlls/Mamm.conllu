@@ -4,18 +4,18 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-4	evned	evn.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=oiseau.x
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+4	evned	evn.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=oiseau.x
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	bravoc'h	brav.-oc'h	adverbe-adjectif.?	_	_	_	_	_	Gloss=beau.plus
-7	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	an	art	?	_	_	_	_	_	Gloss=le
+6	bravoc'h	brav.-oc'h	adverbe|adjectif.?	_	_	_	_	_	Gloss=beau.plus
+7	eo	COP	verbe	_	_	_	_	_	Gloss=est
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	tad	tad	nom	_	_	_	_	_	Gloss=père
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
 12	egéd	eget	complémenteur	_	_	_	_	_	Gloss=que
-13	ar	art	?	_	_	_	_	_	Gloss=le
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	vamm..	vamm..	?	_	_	_	_	_	Gloss=1
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

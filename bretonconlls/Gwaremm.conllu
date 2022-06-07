@@ -4,13 +4,13 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Degouezhout	degouezhout	verbe	_	_	_	_	_	Gloss=arriver
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	eure	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	eure	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 4	hepdale	hepdale	adverbe	_	_	_	_	_	Gloss=bientôt
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	tri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
-7	all	all	?	_	_	_	_	_	Gloss=autre
-8	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	tri	numéraux_cardinaux	?	_	_	_	_	_	Gloss=trois
+7	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
+8	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 9	gwaremm	gwaremm	nom	_	_	_	_	_	Gloss=garenne
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,15 +19,15 @@
 # text_fr = 'Et je courrus vite-fait pieds-nus à la garenne.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
-3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	an	art	?	_	_	_	_	_	Gloss=le
-5	daoulamm	numérauxcardinaux.lammat	?.?	_	_	_	_	_	Gloss=deux.saut
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	daoulamm	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	diarc'henn-klapez	di-	?	_	_	_	_	_	Gloss=sans
-8	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	ar	art	?	_	_	_	_	_	Gloss=le
+8	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	waremm	waremm	?	_	_	_	_	_	Gloss=1
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -38,15 +38,15 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Al	art	?	_	_	_	_	_	Gloss=le
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	lann	lann	nom	_	_	_	_	_	Gloss=lande
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	veze	COP	?	_	_	_	_	_	Gloss=était
-5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-6	gwaremmeier	-eier	?	_	_	_	_	_	Gloss=s
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	meinekañ	mein.-ek(Adj.).superlatif	?.?.adjectif	_	_	_	_	_	Gloss=caillout.eux.le.plus
-9	parkeier	park.-eier	nom.?	_	_	_	_	_	Gloss=champ.s
-10	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-11	oa	COP	?	_	_	_	_	_	Gloss=était
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	veze	COP	verbe	_	_	_	_	_	Gloss=était
+5	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+6	gwaremmeier	-eier	suffixe	_	_	_	_	_	Gloss=s
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	meinekañ	mein.-ek_(Adj.).superlatif	nom.suffixe|adjectif.adjectif	_	_	_	_	_	Gloss=caillout.eux.le.plus
+9	parkeier	park.-eier	nom.suffixe	_	_	_	_	_	Gloss=champ.s
+10	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+11	oa	COP	verbe	_	_	_	_	_	Gloss=était
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

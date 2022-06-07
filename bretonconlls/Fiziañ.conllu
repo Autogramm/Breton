@@ -1,11 +1,12 @@
 # sent_id = Monfort(2006:13)__1
 # text = Disfizius eo an den-mañ, Olalaa !
 # text_fr = 'Il est méfiant, celui-ci, J'te dis pas !'
+# dialect = Standard
 # source = Monfort (2006)
 # texttype = Références de corpus
-1	Disfizius	di-,dis-.-us	?.?	_	_	_	_	_	Gloss=dé.ant
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	an	art	?	_	_	_	_	_	Gloss=le
+1	Disfizius	di-,_dis-.-us	?.suffixe|adjectif	_	_	_	_	_	Gloss=dé.ant
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	den-mañ	den	nom	_	_	_	_	_	Gloss=homme
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	Olalaa	Olalaa	?	_	_	_	_	_	Gloss=Ohlala

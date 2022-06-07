@@ -4,28 +4,29 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-3	'	kaout	?	_	_	_	_	_	Gloss=avait
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+3	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 4	n-oa	n-oa	?	_	_	_	_	_	Gloss=?
 5	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 6	milin	milin	nom	_	_	_	_	_	Gloss=moulin
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	gase	kas	verbe	_	_	_	_	_	Gloss=envoyait
-9	sahadou	sac'h.-ad.-où(PL.)	?.?.?	_	_	_	_	_	Gloss=sac.ée.s
-10	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	sahadou	sac'h.-ad.-où_(PL.)	?.suffixe|nom.suffixe	_	_	_	_	_	Gloss=sac.ée.s
+10	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 11	vala	malañ	verbe	_	_	_	_	_	Gloss=moudre
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:581)__1
+# sent_id = Evenou(1987:581)__1
 # text = Petra e v-malec'h gant ar vilin-se ?
 # text_fr = 'Qu'est-ce qu'on moud avec ce moulin ?'
-# text_phon = ['[ petra', '(ə)_[[4]]_', 'fa:lEx', 'ga', 'vil-sən ]']
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	v-malec'h	malañ.IMP	verbe.?	_	_	_	_	_	Gloss=moud.2PL
-4	gant	gant	?	_	_	_	_	_	Gloss=avec
-5	ar	art	?	_	_	_	_	_	Gloss=le
+# text_phon =  petra (ə)_[[4]]_ fa:lEx ga vil-sən  
+# source = Gouedig (1982)
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	v-malec'h	malañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=moud.2PL
+4	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	vilin-se	vilin-se	?	_	_	_	_	_	Gloss=1
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,10 +36,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Arru	arruout	?	_	_	_	_	_	Gloss=arrivé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Arru	arruout	verbe	_	_	_	_	_	Gloss=arrivé
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	kozh	kozh	adjectif	_	_	_	_	_	Gloss=vieux
 4	chaoser	chaoser	?	_	_	_	_	_	Gloss=chaussée
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	velin	velin	?	_	_	_	_	_	Gloss=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

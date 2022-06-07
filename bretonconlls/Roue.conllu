@@ -3,15 +3,15 @@
 # text_fr = 'Mon père me fera roi à sa suite.'
 # location = Pleyben
 # source = Ar Floch (1950)
-1	Va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	zad	tad	nom	_	_	_	_	_	Gloss=père
 3	a	a	préposition	_	_	_	_	_	Gloss=R
 4	lakay	lakaat	verbe	_	_	_	_	_	Gloss=mettra
-5	ac'hanoun	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	ac'hanoun	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	roue	roue	nom	_	_	_	_	_	Gloss=roi
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 10	lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=suite
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -22,26 +22,27 @@
 # source = Ar Scao (1945)
 # texttype = Ouvrages de recherche
 1	Distruj	distruj	verbe	_	_	_	_	_	Gloss=destruction
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	sclavaj	sklavaj	nom	_	_	_	_	_	Gloss=esclavage
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	glié	dleout	verbe	_	_	_	_	_	Gloss=aurait.dû
-6	béa	bezañ	?	_	_	_	_	_	Gloss=être
+6	béa	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 7	bét	bet	?	_	_	_	_	_	Gloss=été
-8	gréet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	rouéet	-ed(PL.)	?	_	_	_	_	_	Gloss=s
+8	gréet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	rouéet	-ed_(PL.)	suffixe	_	_	_	_	_	Gloss=s
 12	catolik	catolik	?	_	_	_	_	_	Gloss=catholique
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Widmer (2017:234)__1
+# sent_id = Widmer(2017:234)__1
 # text = rouanez en vn hent hos-em-caffas.
 # text_fr = 'Les rois étaient en route.' (vers Bethléem)
 # source2 =  Moyen breton (1650), Nl. 428
-1	rouanez	-e(z)(PL.)	?	_	_	_	_	_	Gloss=s
-2	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-3	vn	art	?	_	_	_	_	_	Gloss=un
+# source = Ar Scao (1945)
+1	rouanez	-e(z)_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+2	en	P.e	préposition	_	_	_	_	_	Gloss=en
+3	vn	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	hent	hent	nom	_	_	_	_	_	Gloss=route
-5	hos-em-caffas	enem	?	_	_	_	_	_	Gloss=se
+5	hos-em-caffas	en_em	?	_	_	_	_	_	Gloss=se
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

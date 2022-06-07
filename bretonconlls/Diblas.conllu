@@ -5,12 +5,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	O	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-2	herent	kerent	?	_	_	_	_	_	Gloss=parents
-3	o-deus	kaout	?	_	_	_	_	_	Gloss=a
-4	sikouret	sikour	verbe-nom	_	_	_	_	_	Gloss=aidé
-5	anezo	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+1	O	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+2	herent	kerent	nom	_	_	_	_	_	Gloss=parents
+3	o-deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	sikouret	sikour	verbe|nom	_	_	_	_	_	Gloss=aidé
+5	anezo	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	ziblas	ziblas	?	_	_	_	_	_	Gloss=déplacer
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -20,11 +20,11 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=étais
-4	just	just	adverbe-adjectif	_	_	_	_	_	Gloss=juste
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	oa	COP	verbe	_	_	_	_	_	Gloss=étais
+4	just	just	adverbe|adjectif	_	_	_	_	_	Gloss=juste
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	tiblas	tiblas	?	_	_	_	_	_	Gloss=déplacer
 7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 8	du-se	tu	nom	_	_	_	_	_	Gloss=côté

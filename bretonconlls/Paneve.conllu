@@ -4,19 +4,19 @@
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Paneve	Paneve	préposition-complémenteur	_	_	_	_	_	Gloss=si.ce.n'@est
+1	Paneve	Paneve	complémenteur|préposition	_	_	_	_	_	Gloss=si.ce.n'@est
 2	se	se	pronom	_	_	_	_	_	Gloss=ça
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	me	pfi	?	_	_	_	_	_	Gloss=moi
+4	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 5	lar	lavarout	verbe	_	_	_	_	_	Gloss=dit
-6	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	nie	kaout	?	_	_	_	_	_	Gloss=aurait
+8	nie	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	gallet	gallout	verbe	_	_	_	_	_	Gloss=pu
-11	kaout	kaout	?	_	_	_	_	_	Gloss=avoir
+11	kaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 12	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
-13	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+13	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 14	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,21 +26,22 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	Panevefe-ze	Panevefe-ze.Panevefe-ze.COP.ze	?.?.?.?	_	_	_	_	_	Gloss=pa.ne.serait.ça
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	hi	pfi	?	_	_	_	_	_	Gloss=elle
+1	Panevefe-ze	Panevefe-ze.Panevefe-ze.COP.ze	?.?.verbe.?	_	_	_	_	_	Gloss=pa.ne.serait.ça
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	hi	pfi	pronom	_	_	_	_	_	Gloss=elle
 5	beuzet	beuziñ	verbe	_	_	_	_	_	Gloss=noyé
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:125)__1
 # text = Peneveto e vijemp bet semplet...
 # text_fr = 'Sans elles (tes andouilles) on se serait évanouis... '
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Peneveto	pronomincorporé	?	_	_	_	_	_	Gloss=eux
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vijemp	COP	?	_	_	_	_	_	Gloss=serions
+1	Peneveto	pronom_incorporé	?	_	_	_	_	_	Gloss=eux
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vijemp	COP	verbe	_	_	_	_	_	Gloss=serions
 4	bet	bet	?	_	_	_	_	_	Gloss=été
 5	semplet..	semplañ	verbe	_	_	_	_	_	Gloss=évanouis
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -48,23 +49,25 @@
 # sent_id = Herrieu(1994:§14)__1
 # text = Keneve d'an dilhad soudard, e vehe kredet eh eus pardon pep sul e bourc'h Plañvour.
 # text_fr = 'Si ce n'était les habits militaires, on croirait qu'il y a chaque dimanche un pardon à Planvour.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Keneve	keneve	préposition	_	_	_	_	_	Gloss=si.ce.n'@est
 2	d'	da	préposition	_	_	_	_	_	Gloss=de
-3	an	art	?	_	_	_	_	_	Gloss=le
+3	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
 5	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	vehe	COP	?	_	_	_	_	_	Gloss=serait
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	vehe	COP	verbe	_	_	_	_	_	Gloss=serait
 9	kredet	krediñ	verbe	_	_	_	_	_	Gloss=cru
 10	eh	eh	?	_	_	_	_	_	Gloss=R
-11	eus	E	?	_	_	_	_	_	Gloss=y.a
+11	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 12	pardon	pardon	nom	_	_	_	_	_	Gloss=pardon
 13	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-14	sul	sul	?	_	_	_	_	_	Gloss=dimanche
-15	e	P.e	?	_	_	_	_	_	Gloss=en
-16	bourc'h	bourk	?	_	_	_	_	_	Gloss=bourg
+14	sul	sul	nom	_	_	_	_	_	Gloss=dimanche
+15	e	P.e	préposition	_	_	_	_	_	Gloss=en
+16	bourc'h	bourk	nom	_	_	_	_	_	Gloss=bourg
 17	Plañvour	Plañvour	?	_	_	_	_	_	Gloss=Planvour
 18	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -77,9 +80,9 @@
 1	/	/	PUNCT	_	_	_	_	Gloss=punct
 2	čenekoŋ	čenekoŋ	?	_	_	_	_	_	Gloss=?
 3	(penekoŋ)	(penekoŋ)	?	_	_	_	_	_	Gloss=?
-4	fəxen	COP	?	_	_	_	_	_	Gloss=serais
-5	pe	bet	conjonction-complémenteur	_	_	_	_	_	Gloss=été
-6	marw	marv	nom-adjectif	_	_	_	_	_	Gloss=mort
+4	fəxen	COP	verbe	_	_	_	_	_	Gloss=serais
+5	pe	bet	complémenteur|conjonction	_	_	_	_	_	Gloss=été
+6	marw	marv	adjectif|nom	_	_	_	_	_	Gloss=mort
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:30)__4
@@ -89,16 +92,16 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Panese	Panese	?	_	_	_	_	_	Gloss=si.ce.n'@est
-2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+1	Panese	Panese	complémenteur|préposition	_	_	_	_	_	Gloss=si.ce.n'@est
+2	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 3	breur	breur	nom	_	_	_	_	_	Gloss=frère
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	'	COP	?	_	_	_	_	_	Gloss=serait
+5	'	COP	verbe	_	_	_	_	_	Gloss=serait
 6	vefe	vefe	?	_	_	_	_	_	Gloss=?
 7	bet	bet	?	_	_	_	_	_	Gloss=été
 8	dimezet	dimeziñ	verbe	_	_	_	_	_	Gloss=marié
 9	Chan	Chan	?	_	_	_	_	_	Gloss=Chan
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 11	Jos	Jos	?	_	_	_	_	_	Gloss=Jos
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -108,15 +111,15 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+4	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	panefe	panefe	?	_	_	_	_	_	Gloss=si.ce.n'@est
-7	un	art	?	_	_	_	_	_	Gloss=un
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	tammig	tamm.tammig	quantifieur.?	_	_	_	_	_	Gloss=morceau.DIM
-9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
+9	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
 10	bounner	pounner	adjectif	_	_	_	_	_	Gloss=lourd
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -127,44 +130,47 @@
 # source = A. M. (05/2016)
 # texttype = Élicitations
 1	Pennefe	Pennefe	?	_	_	_	_	_	Gloss=si.ce.n'@est
-2	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	an	an	?	_	_	_	_	_	Gloss=?
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	veche	COP	?	_	_	_	_	_	Gloss=serait
-6	gwall-domm	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	veche	COP	verbe	_	_	_	_	_	Gloss=serait
+6	gwall-domm	gwall-	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Riou(1941:125)__1
 # text = Penevet da andouilhennoù, ne vije ket bet c'hoaz echu ar brezel.
 # text_fr = 'Sans tes andouilles, la guerre ne serait pas finie.'
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
 1	Penevet	Penevet	?	_	_	_	_	_	Gloss=si.ce.n'@est
-2	da	da	préposition	_	_	_	_	_	Gloss=ton|Morph=1
-3	andouilhennoù	andouilh.-enn.-où(PL.)	?.nom.?	_	_	_	_	_	Gloss=andouill.e.s
+2	da	da	préposition	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+3	andouilhennoù	andouilh.-enn.-où_(PL.)	?.suffixe|nom.suffixe	_	_	_	_	_	Gloss=andouill.e.s
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-6	vije	COP	?	_	_	_	_	_	Gloss=serait
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+6	vije	COP	verbe	_	_	_	_	_	Gloss=serait
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	bet	bet	?	_	_	_	_	_	Gloss=été
 9	c'hoaz	c'hoazh	?	_	_	_	_	_	Gloss=encore
-10	echu	echu	?	_	_	_	_	_	Gloss=fini
-11	ar	art	?	_	_	_	_	_	Gloss=le
+10	echu	echu	verbe	_	_	_	_	_	Gloss=fini
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:28)__3
 # text = Paneved ma oa arruet ma breur e oan bet mouget.
 # text_fr = 'Sans l'arrivée de mon frère, j'aurais été étouffé.'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Paneved	Paneved	?	_	_	_	_	_	Gloss=quand.ce.n'@est
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	arruet	arru	?	_	_	_	_	_	Gloss=arrivé
-5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	arruet	arru	verbe	_	_	_	_	_	Gloss=arrivé
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	breur	breur	nom	_	_	_	_	_	Gloss=frère
-7	e	e	?	_	_	_	_	_	Gloss=R
-8	oan	COP	nom	_	_	_	_	_	Gloss=étais
+7	e	e	verbe	_	_	_	_	_	Gloss=R
+8	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 9	bet	bet	?	_	_	_	_	_	Gloss=été
 10	mouget	mougañ	verbe	_	_	_	_	_	Gloss=étouffé
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -172,19 +178,20 @@
 # sent_id = Drezen(1990:36)__2
 # text = Panevet _ e oan trellet gant ar vezh em bije gwelet izeloc’h dezho.
 # text_fr = 'Si je n’avais pas été secoué de honte, j’aurais pu voir plus bas.' (que leurs épaules)
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Panevet	panevet	?	_	_	_	_	_	Gloss=si.ce.n.est
+1	Panevet	panevet	complémenteur|préposition	_	_	_	_	_	Gloss=si.ce.n.est
 2	_	_	?	_	_	_	_	_	Gloss=_
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	oan	COP	nom	_	_	_	_	_	Gloss=étais
-5	trellet	trelliñ,trellañ	?	_	_	_	_	_	Gloss=secoué
-6	gant	gant	?	_	_	_	_	_	Gloss=par
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vezh	mezh	nom	_	_	_	_	_	Gloss=honte|Morph=1
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+5	trellet	trelliñ,_trellañ	?	_	_	_	_	_	Gloss=secoué
+6	gant	gant	préposition	_	_	_	_	_	Gloss=par
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vezh	mezh	nom	_	_	_	_	_	Gloss=honte|Mutation=target|MutationNUM=1
 9	em	em	?	_	_	_	_	_	Gloss=R
-10	bije	kaout	?	_	_	_	_	_	Gloss=aurait
-11	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
+10	bije	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurait
+11	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
 12	izeloc’h	izel.-oc'h	adjectif.?	_	_	_	_	_	Gloss=bas.plus
-13	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+13	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

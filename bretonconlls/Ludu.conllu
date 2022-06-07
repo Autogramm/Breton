@@ -4,20 +4,20 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
-2	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-3	vro	bro	nom	_	_	_	_	_	Gloss=pays|Morph=1
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
+2	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+3	vro	bro	nom	_	_	_	_	_	Gloss=pays|Mutation=target|MutationNUM=1
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
 6	sañset	sañset	adverbe	_	_	_	_	_	Gloss=censé
-7	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+7	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 8	hag	hag	?	_	_	_	_	_	Gloss=C
 9	a	a	préposition	_	_	_	_	_	Gloss=R
 10	lakae	lakaat	verbe	_	_	_	_	_	Gloss=mettait
 11	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 12	a	a	préposition	_	_	_	_	_	Gloss=de
 13	ludu	ludu	nom	_	_	_	_	_	Gloss=cendre
-14	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=que
-15	ar	art	?	_	_	_	_	_	Gloss=le
-16	re	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-17	all..."	all	?	_	_	_	_	_	Gloss=autre
+14	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=que
+15	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+16	re	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+17	all..."	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre

@@ -3,19 +3,19 @@
 # text_fr = 'Je me demande qui le lui fera maintenant.'
 # source = Cornillet (2008)
 # texttype = Ouvrages de recherche
-1	C'	C'	?	_	_	_	_	_	Gloss=Q
-2	hwistim	hwistim	?	_	_	_	_	_	Gloss=?
-3	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	raio	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
-6	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
-7	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-8	.	.	PUNCT	_	_	_	_	Gloss=punct
+1	C'hwistim	C'hwistim	?	_	_	_	_	_	Gloss=Q
+2	piv	piv	pronom	_	_	_	_	_	Gloss=qui
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	raio	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
+5	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
+7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Le Clerc (1986:205)__1
+# sent_id = LeClerc(1986:205)__1
 # text = Daoust  hag-eñ ec'h i da Bariz ?
 # text_fr = 'Est-ce que tu iras à Paris ?'
-1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=C'@hwistim
+# source = Cornillet (2008)
+1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=Cxxxhwistim
 2	??	??	?	_	_	_	_	_	Gloss=
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
 4	hag-eñ	hag-eñ	complémenteur	_	_	_	_	_	Gloss=hag-eñ
@@ -26,10 +26,11 @@
 9			?	_	_	_	_	_	Gloss=?
 10	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Le Clerc (1986:205)__1
+# sent_id = LeClerc(1986:205)__1
 # text = Daoust hag(-eñ) ec'h i da Bariz ?
 # text_fr = 'Est-ce que tu iras à Paris ?'
-1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=C'@hwistim
+# source = Cornillet (2008)
+1	Daoust	Daoust	complémenteur	_	_	_	_	_	Gloss=Cxxxhwistim
 2	hag(-eñ)	hag(-eñ)	?	_	_	_	_	_	Gloss=(hag(-eñ))
 3	ec'h	ec'h	?	_	_	_	_	_	Gloss=ecxxxh
 4	i	i	?	_	_	_	_	_	Gloss=i

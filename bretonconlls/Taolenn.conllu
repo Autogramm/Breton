@@ -1,19 +1,21 @@
 # sent_id = Herrieu(1994:24)__1
 # text = Taolenn ha blaz braouac'hus ne vo ket tu da hani ac'hanomp ankouaat ken ...
 # text_fr = 'Un tableau et une odeur effarants qu'aucun de nous n'oubliera ... '
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Taolenn	Taolenn	nom	_	_	_	_	_	Gloss=tableau
-2	ha	&	?	_	_	_	_	_	Gloss=et
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	blaz	blaz	nom	_	_	_	_	_	Gloss=odeur
 4	braouac'hus	braouac'hus	?	_	_	_	_	_	Gloss=effarant
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-6	vo	COP	?	_	_	_	_	_	Gloss=sera
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+6	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	tu	tu	nom	_	_	_	_	_	Gloss=moyen
-9	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-10	hani	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-11	ac'hanomp	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
+9	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+10	hani	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+11	ac'hanomp	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.nous
 12	ankouaat	ankounac'haat	?	_	_	_	_	_	Gloss=oublier
-13	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+13	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 14	..	..	?	_	_	_	_	_	Gloss=...
 15	.	.	PUNCT	_	_	_	_	Gloss=punct

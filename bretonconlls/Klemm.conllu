@@ -4,11 +4,11 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	tav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-5	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+5	o	particule_o	?	_	_	_	_	_	Gloss=à
 6	klemm	klemm	verbe	_	_	_	_	_	Gloss=se.plaindre
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,15 +18,15 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	me	pfi	?	_	_	_	_	_	Gloss=moi
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	gleve	klevout	verbe	_	_	_	_	_	Gloss=entendait
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 5	klemmadennou	-adenn	nom	_	_	_	_	_	Gloss=es
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-8	loened	loen.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=animal.s
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+7	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+8	loened	loen.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=animal.s
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	hirvoudi	hirvoudiñ	verbe	_	_	_	_	_	Gloss=gémir
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -36,19 +36,19 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Hoc'h	POSS	?	_	_	_	_	_	Gloss=votre
+1	Hoc'h	POSS	déterminant	_	_	_	_	_	Gloss=votre
 2	kamalad	kamalad	?	_	_	_	_	_	Gloss=ami
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 5	atav	atav	adverbe	_	_	_	_	_	Gloss=toujours
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	klemm	klemm	verbe	_	_	_	_	_	Gloss=plaindre
-8	ablamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	ablamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=car
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	koumañs	komañs	verbe	_	_	_	_	_	Gloss=commence
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	labour	labour	nom	_	_	_	_	_	Gloss=travail
-13	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+13	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 14	8e	8e	?	_	_	_	_	_	Gloss=8H
 15	hanter	hanter	quantifieur	_	_	_	_	_	Gloss=demi
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -56,15 +56,17 @@
 # sent_id = Herrieu(1994:62)__1
 # text = Rac'h en em glemmont start ema re hir ar brezel.
 # text_fr = 'Tous se plaignent fortement que la guerre est trop longue.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Rac'h	rac'h	?	_	_	_	_	_	Gloss=tous
-2	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+2	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 3	em	em	?	_	_	_	_	_	Gloss=plaignent
 4	glemmont	glemmont	?	_	_	_	_	_	Gloss=?
 5	start	start	adjectif	_	_	_	_	_	Gloss=durement
-6	ema	COP	?	_	_	_	_	_	Gloss=est
-7	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
+6	ema	COP	verbe	_	_	_	_	_	Gloss=est
+7	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
 8	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	brezel	brezel	nom	_	_	_	_	_	Gloss=guerre
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

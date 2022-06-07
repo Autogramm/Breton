@@ -5,13 +5,13 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	oll	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	oll	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
 6	diês	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	gwer	gwer	adjectif	_	_	_	_	_	Gloss=verre
 9	da	da	préposition	_	_	_	_	_	Gloss=1
 10	deuzi	deuzi	?	_	_	_	_	_	Gloss=fondre
@@ -24,13 +24,13 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	Prest	prest	adverbe	_	_	_	_	_	Gloss=prêt
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oan	COP	nom	_	_	_	_	_	Gloss=étais
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oan	COP	verbe	_	_	_	_	_	Gloss=étais
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	fonta	fontañ	?	_	_	_	_	_	Gloss=fondre
-6	gand	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vez	mezh	nom	_	_	_	_	_	Gloss=honte|Morph=1
+6	gand	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vez	mezh	nom	_	_	_	_	_	Gloss=honte|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:69)__4
@@ -39,10 +39,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	da	da	préposition	_	_	_	_	_	Gloss=de
-3	fardiñ	fardiñ	?	_	_	_	_	_	Gloss=fondre
-4	àrnin	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.moi
+3	fardiñ	fardiñ	verbe	_	_	_	_	_	Gloss=fondre
+4	àrnin	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.moi
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	fachet	fachet	?	_	_	_	_	_	Gloss=fâché
 7	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge

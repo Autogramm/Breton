@@ -4,29 +4,29 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Antronoz	Antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	eured,	eured,	?	_	_	_	_	_	Gloss=noce
 4	`	`	?	_	_	_	_	_	Gloss=?
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 7	bried	pried	nom	_	_	_	_	_	Gloss=époux
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	deuas	dont	verbe	_	_	_	_	_	Gloss=venir
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-13	Vodiliz…	nompropre	?	_	_	_	_	_	Gloss=Bodilis
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+13	Vodiliz…	nom_propre	?	_	_	_	_	_	Gloss=Bodilis
 
 # sent_id = ArFloc'h(1985:114)__1
 # text = Setu antronoz vintin ha me en hent...
 # text_fr = 'Et me voila donc en route le lendemain matin ... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
-3	vintin	mintin	nom	_	_	_	_	_	Gloss=matin|Morph=1
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	me	pfi	?	_	_	_	_	_	Gloss=moi
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	vintin	mintin	nom	_	_	_	_	_	Gloss=matin|Mutation=target|MutationNUM=1
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	hent..	hent	nom	_	_	_	_	_	Gloss=route
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

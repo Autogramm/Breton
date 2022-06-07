@@ -1,10 +1,12 @@
 # sent_id = Gros(1984:149)__1
 # text = Warlene he-devoa bet eun disparti.
 # text_fr = 'L'année dernière, elle avait fait une fausse couche.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Warlene	Warlene	adverbe	_	_	_	_	_	Gloss=année.dernière
-2	he-devoa	kaout	?	_	_	_	_	_	Gloss=avait
-3	bet	kaout	?	_	_	_	_	_	Gloss=eu
-4	eun	art	?	_	_	_	_	_	Gloss=un
-5	disparti	di-,dis-.partial	?.verbe	_	_	_	_	_	Gloss=dé.parti
+2	he-devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+3	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+4	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	disparti	di-,_dis-	?	_	_	_	_	_	Gloss=dé
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

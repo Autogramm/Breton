@@ -5,12 +5,12 @@
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Amelia	nompropre	?	_	_	_	_	_	Gloss=Amélia
+1	Amelia	nom_propre	?	_	_	_	_	_	Gloss=Amélia
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	rae	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+3	rae	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 4	batous	batous	nom	_	_	_	_	_	Gloss=patouille
-5	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusque
-6	ahe	aze	?	_	_	_	_	_	Gloss=là
+5	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusque
+6	ahe	aze	adverbe	_	_	_	_	_	Gloss=là
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:305)__1
@@ -20,7 +20,7 @@
 # location = Bannalec
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-2	tous	e-touez	?	_	_	_	_	_	Gloss=parmi
-3	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	ba	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+2	tous	e-touez	préposition	_	_	_	_	_	Gloss=parmi
+3	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 4	plouz	plouz	nom	_	_	_	_	_	Gloss=paille

@@ -1,20 +1,22 @@
 # sent_id = Léon,Milin(1924)__2
 # text = Ra vezo ama e-lec'h hon ti taouarc'h-ni eur maner eus ar re gaera...
 # text_fr = 'Que soit ici, à la place de notre maison de tourbe à nous, un manoir des plus beaux... '
-# source = Milin (1924)
+# dialect = Léonard
+# source = Milin (1922)
+# texttype = Références de corpus
 1	Ra	Ra	complémenteur	_	_	_	_	_	Gloss=1
-2	vezo	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sera
-3	ama	amañ	?	_	_	_	_	_	Gloss=ici
+2	vezo	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sera
+3	ama	amañ	adverbe	_	_	_	_	_	Gloss=ici
 4	e-lec'h	e-lec'h	?	_	_	_	_	_	Gloss=au.lieu
-5	hon	POSS	?	_	_	_	_	_	Gloss=notre
+5	hon	POSS	déterminant	_	_	_	_	_	Gloss=notre
 6	ti	ti	nom	_	_	_	_	_	Gloss=maison
-7	taouarc'h-ni	echo	?	_	_	_	_	_	Gloss=nous
-8	eur	art	nom	_	_	_	_	_	Gloss=un
+7	taouarc'h-ni	echo	pronom	_	_	_	_	_	Gloss=nous
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	maner	maner	nom	_	_	_	_	_	Gloss=manoir
-10	eus	eus	?	_	_	_	_	_	Gloss=de
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-13	gaera..	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau]].[[superlatif|le.plus|Morph=1
+10	eus	eus	préposition	_	_	_	_	_	Gloss=de
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+13	gaera..	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau]].[[superlatif|le.plus|Mutation=target|MutationNUM=1
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeBayon(1878:9)__1

@@ -8,14 +8,14 @@
 1	Goul	goulenn	verbe	_	_	_	_	_	Gloss=demander
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-5	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-6	c'huizin	kuizin	?	_	_	_	_	_	Gloss=cuisine|Morph=5
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+5	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+6	c'huizin	kuizin	?	_	_	_	_	_	Gloss=cuisine|Mutation=target|MutationNUM=5
 7	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
 8	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 9	zo	zo	?	_	_	_	_	_	Gloss=est
 10	bet	bet	?	_	_	_	_	_	Gloss=été
 11	fichet	fichet	?	_	_	_	_	_	Gloss=décoré
 12	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
-13	gato	gato	?	_	_	_	_	_	Gloss=gâteau
+13	gato	gato	nom	_	_	_	_	_	Gloss=gâteau
 14	.	.	PUNCT	_	_	_	_	Gloss=punct

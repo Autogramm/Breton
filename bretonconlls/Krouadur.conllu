@@ -6,30 +6,31 @@
 # texttype = Élicitations
 1	Pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 2	zonch	soñjal	verbe	_	_	_	_	_	Gloss=pense
-3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 4	vamm	mamm	nom	_	_	_	_	_	Gloss=mère
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celle
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celle
 9	gwella	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:256)__1
+# sent_id = Avezard-Roger(2004a:256)__1
 # text = [[nom propre|Yann]] a zo (ur) c'hrouadur hag a labour mat er skol.
 # text_fr = 'Yann est un enfant qui travaille bien à l'école.'
-# text_phon = ['[ jan œzo', 'Xɔwadu_ʁ_', 'aga labur mad', 'ɛrskul ]']
-1	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
-2	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=R
-3	a	zo	préposition	_	_	_	_	_	Gloss=est
-4	zo	art	?	_	_	_	_	_	Gloss=un
+# text_phon =  jan œzo Xɔwadu_ʁ_ aga labur mad ɛrskul  
+# source = M-L. B. (05/2018)
+1	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
+2	propre|Yann]]	zo	?	_	_	_	_	_	Gloss=est
+3	a	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+4	zo	zo	?	_	_	_	_	_	Gloss=?
 5	(ur)	(ur)	?	_	_	_	_	_	Gloss=?
 6	c'hrouadur	c'hrouadur	?	_	_	_	_	_	Gloss=enfant
-7	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+7	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 9	labour	labourat	verbe	_	_	_	_	_	Gloss=travaille
-10	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-11	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+10	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+11	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 12	skol	skol	nom	_	_	_	_	_	Gloss=école
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -37,15 +38,16 @@
 # text = Klanù mat e vehè bet eit bouchennein erhat ur hroèdur.
 # text_fr = 'Elle aurait été bien embêtée pour emmailloter correctement un enfant.'
 # source = DHKN.
+# texttype = Références de corpus
 1	Klanù	klañv	adjectif	_	_	_	_	_	Gloss=malade
-2	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	vehè	COP	?	_	_	_	_	_	Gloss=serait
+2	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	vehè	COP	verbe	_	_	_	_	_	Gloss=serait
 5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	eit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+6	eit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	bouchennein	bouchennein	?	_	_	_	_	_	Gloss=emmailloter
-8	erhat	ervat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-9	ur	art	?	_	_	_	_	_	Gloss=un
+8	erhat	ervat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 10	hroèdur	hroèdur	?	_	_	_	_	_	Gloss=5
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -55,15 +57,15 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	ruz	ruz	adjectif	_	_	_	_	_	Gloss=rouge
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 3	feskennoù	feskennoù	?	_	_	_	_	_	Gloss=fesses
-4	ur	art	?	_	_	_	_	_	Gloss=un
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	c'houadur	c'houadur	?	_	_	_	_	_	Gloss=5
-6	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-7	tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
-8	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	ruzell	ruz.-ell	adjectif.nom	_	_	_	_	_	Gloss=rouge.ole
+6	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+7	tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
+8	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	ruzell	ruz.-ell	adjectif.suffixe|nom	_	_	_	_	_	Gloss=rouge.ole
 
 # sent_id = Mathelier(2017:35)__1
 # text = Piv  hounes me c'hrwadur ker ?
@@ -72,12 +74,12 @@
 # source = Mathelier (2017)
 # texttype = Ouvrages de recherche
 1	Piv	piv	pronom	_	_	_	_	_	Gloss=qui
-2	??	COP	?	_	_	_	_	_	Gloss=est
+2	??	COP	verbe	_	_	_	_	_	Gloss=est
 3	?	?	PUNCT	_	_	_	_	Gloss=punct
-4	hounes	DEM	?	_	_	_	_	_	Gloss=celle.ci
-5	me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+4	hounes	DEM	pronom	_	_	_	_	_	Gloss=celle.ci
+5	me	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	c'hrwadur	c'hrwadur	?	_	_	_	_	_	Gloss=enfant
-7	ker	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=cher
+7	ker	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=cher
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kergoat(1976:97)__1
@@ -87,22 +89,22 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Petram'	peotramant	conjonction-complémenteur	_	_	_	_	_	Gloss=autrement
+1	Petram'	peotramant	complémenteur|conjonction	_	_	_	_	_	Gloss=autrement
 2			PUNCT	_	_	_	_	Gloss=punct
-3	ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-4	oa	E	?	_	_	_	_	_	Gloss=était
-5	ur	art	?	_	_	_	_	_	Gloss=un
+3	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+4	oa	E	verbe	_	_	_	_	_	Gloss=était
+5	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	mous	mous	?	_	_	_	_	_	Gloss=garçon
-7	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+7	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-10	ur	art	?	_	_	_	_	_	Gloss=un
+9	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 11	c'hrouadur	c'hrouadur	?	_	_	_	_	_	Gloss=5
-12	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+12	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	henn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 15	a	a	préposition	_	_	_	_	_	Gloss=R
 16	yae	mont	verbe	_	_	_	_	_	Gloss=allait
-17	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+17	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 18	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
 19	.	.	PUNCT	_	_	_	_	Gloss=punct

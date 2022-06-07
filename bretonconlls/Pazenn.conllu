@@ -3,41 +3,43 @@
 # text_fr = 'Il ne pouvait pas monter les cent-onze marches qui menaient à la gare... '
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	gouest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	sevel	sevel	verbe	_	_	_	_	_	Gloss=monter
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	c'hant-unnek	kant	?	_	_	_	_	_	Gloss=cent]]-[[unnek|onze|Morph=5
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	c'hant-unnek	kant	quantifieur|adjectif	_	_	_	_	_	Gloss=cent]]-[[unnek|onze|Mutation=target|MutationNUM=5
 9	pazenn	pazenn	nom	_	_	_	_	_	Gloss=marche
-10	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+10	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 11	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
-13	ar	art	?	_	_	_	_	_	Gloss=le
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	gar..	gar..	?	_	_	_	_	_	Gloss=gare
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Trépos(2001:§384)__3
 # text = Manket em-eus eur bazenn, e | seurt doare m' em-eus diskennet gwall vuan ar skeul.
 # text_fr = 'J'ai manqué une marche, de sorte que j'ai descendu bien vite l'échelle.'
-# source = Trépos (2001)
+# dialect = Cornouaillais
+# source = Trépos (1968)
+# texttype = Ouvrages de recherche
 1	Manket	mankout	verbe	_	_	_	_	_	Gloss=manqué
-2	em-eus	kaout	?	_	_	_	_	_	Gloss=a
-3	eur	art	nom	_	_	_	_	_	Gloss=un
+2	em-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+3	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 4	bazenn	bazenn	?	_	_	_	_	_	Gloss=1
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	|	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=sorte
-8	seurt	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=?
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	|	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=sorte
+8	seurt	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=?
 9	doare	doare	nom	_	_	_	_	_	Gloss=façon
 10	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
 11			PUNCT	_	_	_	_	Gloss=punct
-12	em-eus	kaout	?	_	_	_	_	_	Gloss=a
-13	diskennet	diskenn.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=descend.u
-14	gwall	gwall-	nom-adverbe	_	_	_	_	_	Gloss=très|Morph=1
-15	vuan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
-16	ar	art	?	_	_	_	_	_	Gloss=le
+12	em-eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+13	diskennet	diskenn.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=descend.u
+14	gwall	gwall-	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
+15	vuan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
+16	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 17	skeul	skeul	nom	_	_	_	_	_	Gloss=échelle
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

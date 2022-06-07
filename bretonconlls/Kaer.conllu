@@ -2,37 +2,34 @@
 # text = Ha hi da wiskiñ he dilhad kaer.
 # text_fr = 'Elle revêt ses beaux habits.'
 # source = ar Meliner (2009)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	hi	pfi	?	_	_	_	_	_	Gloss=elle
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	wiskiñ	gwiskañ	?	_	_	_	_	_	Gloss=vêtir
-5	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	hi	pfi	pronom	_	_	_	_	_	Gloss=elle
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	wiskiñ	gwiskañ	verbe	_	_	_	_	_	Gloss=vêtir
+5	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 6	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
-7	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+7	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Ternes (1970:322)__1
-# text = Ret eo ma vo kaer evit sec'hiñ an dilhad.  ''Équivalent standardisé''
+# sent_id = Ternes(1970:322)__1
+# text = Ret eo ma vo kaer evit sec'hiñ an dilhad.  Équivalent standardisé
 # text_fr = 'Il faut qu'il fasse beau pour sécher le linge.'
-# text_phon = ['/red-o', 'mə-fo', 'ka:r', 'y-seXed', 'əndijat']
+# text_phon = /red-o mə-fo ka:r y-seXed əndijat 
+# source = ar Meliner (2009)
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=?
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=?
 3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 4	vo	vo	?	_	_	_	_	_	Gloss=?
-5	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-6	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+5	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+6	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 7	sec'hiñ	sec'hiñ	?	_	_	_	_	_	Gloss=?
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	dilhad	dilhad	nom	_	_	_	_	_	Gloss=habits
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 11	??	??	?	_	_	_	_	_	Gloss=???
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
-13	'	'	?	_	_	_	_	_	Gloss=???
-14	'	'	?	_	_	_	_	_	Gloss=?
-15	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=?
-16	standardisé'	standardisé'	?	_	_	_	_	_	Gloss=?
-17	'	'	?	_	_	_	_	_	Gloss=?
-18			PUNCT	_	_	_	_	Gloss=punct
+13	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=???
+14	standardisé	standardisé	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Cornouaillais(Locronan),A-M.Louboutin(02/2022)__1
 # text = Kar ma moe esaee...
@@ -40,25 +37,26 @@
 # location = Locronan
 # source = A-M. Louboutin (02/2022)
 # texttype = Élicitations
-1	Kar	Kar	?	_	_	_	_	_	Gloss=beau
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	moe	kaout	?	_	_	_	_	_	Gloss=avais
+1	Kar	Kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=beau
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	moe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avais
 4	esaee..	esaeañ	verbe	_	_	_	_	_	Gloss=essayer
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:35)__1
 # text = Fourlichou, hi ivez, a spias a-benn-kaer Leich.
 # text_fr = 'Fourlichou, elle aussi, aperçut tout de suite Leich.'
-# source = Ar Meliner (2009)
-1	Fourlichou	nompropre	?	_	_	_	_	_	Gloss=Fourlichou
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	Fourlichou	nom_propre	?	_	_	_	_	_	Gloss=Fourlichou
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	hi	pfi	?	_	_	_	_	_	Gloss=elle
+3	hi	pfi	pronom	_	_	_	_	_	Gloss=elle
 4	ivez	ivez	adverbe	_	_	_	_	_	Gloss=aussi
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7	spias	spial	?	_	_	_	_	_	Gloss=aperçut
-8	a-benn-kaer	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=tout.de.suite
-9	Leich	nompropre	?	_	_	_	_	_	Gloss=Leich
+8	a-benn-kaer	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=tout.de.suite
+9	Leich	nom_propre	?	_	_	_	_	_	Gloss=Leich
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = German(2007:177)__1
@@ -69,102 +67,112 @@
 # source = German (2007)
 # texttype = Ouvrages de recherche
 1	bégur	peogwir	complémenteur	_	_	_	_	_	Gloss=puisque
-2	reent	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisaient
+2	reent	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisaient
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	nintra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 5	e-bet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-6	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	zibi	debriñ	verbe	_	_	_	_	_	Gloss=manger
-9	nè	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	nè	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:84)__1
 # text = N'eo ket forzh kaer anezhi...
 # text_fr = 'Elle n'est pas très belle... '
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	forzh	forzh	quantifieur	_	_	_	_	_	Gloss=très
-5	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-6	anezhi..	A.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+5	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+6	anezhi..	A.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1933:58)__1
 # text = Bet e oa ar vleunienn-se kaer gwechall; bremañ, avat, edo bras-disec'het...
 # text_fr = 'Cette fleur avait été belle autrefois ; elle était cependant maintenant complètement desséchée.'
+# dialect = Standard
 # source = Kervella (1993)
 # texttype = Références de corpus
 1	Bet	bet	?	_	_	_	_	_	Gloss=été
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	vleunienn-se	bleuñ.-enn.DEM	?.nom.?	_	_	_	_	_	Gloss=fleur.SG.ci
-6	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	vleunienn-se	bleuñ.-enn.DEM	nom.suffixe|nom.pronom	_	_	_	_	_	Gloss=fleur.SG.ci
+6	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 7	gwechall	gwechall	adverbe	_	_	_	_	_	Gloss=autrefois
 8	;	;	PUNCT	_	_	_	_	Gloss=punct
 9	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
 11	avat	avat	adverbe	_	_	_	_	_	Gloss=cependant
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
-13	edo	COP	?	_	_	_	_	_	Gloss=était
+13	edo	COP	verbe	_	_	_	_	_	Gloss=était
 14	bras-disec'het..	bras-.di-.sec'hiñ	adjectif.?.?	_	_	_	_	_	Gloss=grand.des.séché
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaer')__1
 # text = Sell aze pegen kaer kroaz eo honnez.
 # text_fr = 'Regarde cela, quelle belle croix.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	Sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
-2	aze	aze	?	_	_	_	_	_	Gloss=ici
-3	pegen	pegen	?	_	_	_	_	_	Gloss=combien
-4	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+2	aze	aze	adverbe	_	_	_	_	_	Gloss=ici
+3	pegen	pegen	complémenteur	_	_	_	_	_	Gloss=combien
+4	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 5	kroaz	kroaz	nom	_	_	_	_	_	Gloss=croix
-6	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-7	honnez	DEM	?	_	_	_	_	_	Gloss=celle-ci
+6	eo	COP	verbe	_	_	_	_	_	Gloss=est
+7	honnez	DEM	pronom	_	_	_	_	_	Gloss=celle-ci
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaoz')__1
 # text = Hola ! Kaoz kaer a zo etrezoh !
 # text_fr = 'Hola ! Vous êtes en grande conversation !'
-# source = Gros (1989)
-1	Hola	interjection	?	_	_	_	_	_	Gloss=Hola!
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hola	interjection	interjection	_	_	_	_	_	Gloss=Hola_!
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	Kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
-4	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	zo	zo	?	_	_	_	_	_	Gloss=est
-7	etrezoh	etre.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=entre.vous
+7	etrezoh	etre.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=entre.vous
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaer')__1
 # text = N'anavezan ket (kaer) anezañ (kaer).
 # text_fr = 'Je ne le connais pas très bien.'
-# source = Gros (1989)
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	anavezan	anavezout	verbe	_	_	_	_	_	Gloss=connais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	(kaer)	(kaer)	?	_	_	_	_	_	Gloss=beaucoup
-5	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+5	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
 6	(kaer)	(kaer)	?	_	_	_	_	_	Gloss=beaucoup
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = McKenna (1978:170)__1
+# sent_id = McKenna(1978:170)__1
 # text =  ouia ket en den kaer petra e rei an amzer
 # text_fr = 'On ne sait pas très bien ce que le temps donnera.'
-# text_phon = ['', '/hwiatš', "ndeiŋ'@", 'kèr', 'pïta', '', 'reï', 'namzir /']
+# text_phon =  /hwiatš ndeiŋ'@ kèr pïta  reï namzir / 
+# source = Gros (1970b)
 1	??	??	?	_	_	_	_	_	Gloss=ne
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	ouia	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+3	ouia	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	en	IMP	complémenteur	_	_	_	_	_	Gloss=l'@homme
+5	en	IMP	pronom	_	_	_	_	_	Gloss=l'@homme
 6	den	den	nom	_	_	_	_	_	Gloss=?
-7	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beaucoup
-8	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
-10	rei	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fera
-11	an	art	?	_	_	_	_	_	Gloss=le
+7	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beaucoup
+8	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+10	rei	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fera
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
 
 # sent_id = Bouzec&al.(2017:103)__3
@@ -174,16 +182,16 @@
 # location = Moëlan
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
-3	'	COP	?	_	_	_	_	_	Gloss=était
+3	'	COP	verbe	_	_	_	_	_	Gloss=était
 4	oa	oa	?	_	_	_	_	_	Gloss=?
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	bet	bet	?	_	_	_	_	_	Gloss=été
 7	kaerig	kaerig	?	_	_	_	_	_	Gloss=beaucoup
-8	aolou	aval.-où(PL.)	nom.?	_	_	_	_	_	Gloss=pomme.s
-9	ba'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-10	r	art	?	_	_	_	_	_	Gloss=le
+8	aolou	aval.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=pomme.s
+9	ba'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+10	r	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	gwé	gwez	nom	_	_	_	_	_	Gloss=arbres
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -193,9 +201,9 @@
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ouzon	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+2	ouzon	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	gwall	gwall	?	_	_	_	_	_	Gloss=très|Morph=1
+4	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
 5	gaer	gaer	?	_	_	_	_	_	Gloss=beaucoup
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -206,25 +214,25 @@
 # location = Saint Pol de Léon
 # source = Milin (1922)
 # texttype = Références de corpus
-1	Kaer	Kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+1	Kaer	Kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 2	he	he	?	_	_	_	_	_	Gloss=3SGF
-3	devoa	kaout	?	_	_	_	_	_	Gloss=avait
+3	devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 4	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
 5	lakaat	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 7	marc'h	marc'h	?	_	_	_	_	_	Gloss=cheval
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 9	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-10	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+10	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
-12	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-13	rea	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisait
+12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+13	rea	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisait
 14	pep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 15	kammed	kammed	adverbe	_	_	_	_	_	Gloss=pas
-16	nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=que
-17	koueza	kouezhañ	?	_	_	_	_	_	Gloss=tomber
-18	war	war	?	_	_	_	_	_	Gloss=sur
-19	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+16	nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=que
+17	koueza	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
+18	war	war	préposition	_	_	_	_	_	Gloss=sur
+19	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 20	benn	penn	nom	_	_	_	_	_	Gloss=tête
 21	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -232,17 +240,18 @@
 # text = Kaer e-neus goulenn, den 'zo evid lavared netra dezan.
 # text_fr = 'Il a beau demander, personne ne peut rien lui dire.'
 # location = Banaleg
-1	Kaer	Kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+# source = Milin (1922)
+1	Kaer	Kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 2	e-neus	e-neus	?	_	_	_	_	_	Gloss=R
 3	goulenn	goulenn	verbe	_	_	_	_	_	Gloss=demander
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	den	nomnu	nom	_	_	_	_	_	Gloss=personne
+5	den	nom_nu	nom	_	_	_	_	_	Gloss=personne
 6	'	zo	?	_	_	_	_	_	Gloss=est
 7	zo	zo	?	_	_	_	_	_	Gloss=?
-8	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 9	lavared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 10	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
-11	dezan	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+11	dezan	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:1)__1
@@ -251,10 +260,10 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	Kaer	Kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+1	Kaer	Kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 2	gortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
 3	am	am	?	_	_	_	_	_	Gloss=R
-4	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Croq(1908:49)__1
@@ -263,8 +272,8 @@
 # dialect = Cornouaillais
 # source = Croq (1908)
 # texttype = Références de corpus
-1	ha	&	?	_	_	_	_	_	Gloss=et
-2	kaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
+1	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	kaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
 3	pell	pell	adjectif	_	_	_	_	_	Gloss=loin
 4	zo	zo	?	_	_	_	_	_	Gloss=est
 5	!	!	PUNCT	_	_	_	_	Gloss=punct

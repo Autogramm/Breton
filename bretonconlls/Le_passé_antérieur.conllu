@@ -1,15 +1,16 @@
 # sent_id = Press(1986:228)__1
 # text = Ur wech m' en devoe lazhet e eontr.
 # text_fr = 'Une fois qu'il eut tué son oncle'
+# dialect = Standard
 # source = Press (1986)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Morph=1
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	wech	gwech	nom	_	_	_	_	_	Gloss=fois|Mutation=target|MutationNUM=1
 3	m'	ma	complémenteur	_	_	_	_	_	Gloss=que
 4			PUNCT	_	_	_	_	Gloss=punct
 5	en	en	complémenteur	_	_	_	_	_	Gloss=R
-6	devoe	kaout	?	_	_	_	_	_	Gloss=eut
-7	lazhet	lazhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tu.é
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+6	devoe	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eut
+7	lazhet	lazhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tu.é
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	eontr	eontr	nom	_	_	_	_	_	Gloss=oncle
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

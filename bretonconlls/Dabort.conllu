@@ -5,15 +5,15 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Daouzek	numérauxcardinaux	?	_	_	_	_	_	Gloss=douze
+1	Daouzek	numéraux_cardinaux	?	_	_	_	_	_	Gloss=douze
 2	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	tri-ugent	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	tri-ugent	numéraux_cardinaux	?	_	_	_	_	_	Gloss=trois
 5	am	am	?	_	_	_	_	_	Gloss=R
-6	bo	kaout	?	_	_	_	_	_	Gloss=aura
+6	bo	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aura
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	unnek	numérauxcardinaux	?	_	_	_	_	_	Gloss=onze
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	unnek	numéraux_cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=onze
 10	dabord	dabord	?	_	_	_	_	_	Gloss=bientôt
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -26,12 +26,12 @@
 1	Dabord	Dabord	?	_	_	_	_	_	Gloss=bientôt
 2	ez	ez	?	_	_	_	_	_	Gloss=R
 3	in	mont	verbe	_	_	_	_	_	Gloss=irai
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	winkal	gwinkal	verbe	_	_	_	_	_	Gloss=ruer
 6	e-giz	e-giz	préposition	_	_	_	_	_	Gloss=comme
-7	ur	art	?	_	_	_	_	_	Gloss=un
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	bouch	bouch	nom	_	_	_	_	_	Gloss=poulain
-9	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
+9	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:30)__1
@@ -41,23 +41,23 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+4	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	pa'	pa	complémenteur	_	_	_	_	_	Gloss=quand
 7	z	mont	verbe	_	_	_	_	_	Gloss=ira
 8	ay	ay	?	_	_	_	_	_	Gloss=?
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture|Morph=5
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	c'harr	karr	nom	_	_	_	_	_	Gloss=voiture|Mutation=target|MutationNUM=5
 11	kuites	kuit	postposition	_	_	_	_	_	Gloss=parti
 12	dabord	dabord	?	_	_	_	_	_	Gloss=bientôt
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
 14	da	da	préposition	_	_	_	_	_	Gloss=pour
 15	avañs	avañs	?	_	_	_	_	_	Gloss=avancer
-16	ar	art	?	_	_	_	_	_	Gloss=le
-17	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Morph=1
+16	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+17	vag	bag	nom	_	_	_	_	_	Gloss=bateau|Mutation=target|MutationNUM=1
 18	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
 19	war	war-laez	adverbe	_	_	_	_	_	Gloss=sur-haut
 20	laez.	laez.	?	_	_	_	_	_	Gloss=?

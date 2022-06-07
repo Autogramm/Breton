@@ -1,14 +1,15 @@
 # sent_id = Riou(1941:28)__1
 # text = Lez ar chas da redek ar c'had.
 # text_fr = 'Laisse les chiens faire courir le lièvre.' ('Laisse tomber')
+# dialect = Standard
 # source = Riou (1941)
 # texttype = Références de corpus
-1	Lez	lezel	?	_	_	_	_	_	Gloss=laisse
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	Lez	lezel	verbe	_	_	_	_	_	Gloss=laisse
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	chas	chas	nom	_	_	_	_	_	Gloss=chiens
-4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 5	redek	redek	verbe	_	_	_	_	_	Gloss=courir
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	c'had	c'had	?	_	_	_	_	_	Gloss=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,21 +19,22 @@
 # location = Bulien
 # source = Stephens (1982)
 # texttype = Ouvrages de recherche
-1	Ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	c'hi	ki	nom	_	_	_	_	_	Gloss=chien
 3	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	gedon	gedon	?	_	_	_	_	_	Gloss=lièvres
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Timm (1987a:265)__1
+# sent_id = Timm(1987a:265)__1
 # text = Dec'h oa tapet teir c'had ganin.
 # text_fr = 'Hier j'ai attrapé trois lapins.'
-# text_phon = ["/'@de:R", 'wa', "'@tapɛt", "'@tejɛR", 'hat', "'@ganῖ/"]
+# text_phon = /'@de:R wa '@tapɛt '@tejɛR hat '@ganῖ/ 
+# source = Stephens (1982)
 1	Dec'h	dec'h	?	_	_	_	_	_	Gloss=hier
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	tapet	tapout	?	_	_	_	_	_	Gloss=attrapé
-4	teir	cardinaux	?	_	_	_	_	_	Gloss=trois|Morph=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	tapet	tapout	verbe	_	_	_	_	_	Gloss=attrapé
+4	teir	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=trois|Mutation=trigger|MutationNUM=1
 5	c'had	c'had	nom	_	_	_	_	_	Gloss=lapin
-6	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+6	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

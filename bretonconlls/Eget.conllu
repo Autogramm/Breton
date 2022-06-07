@@ -4,18 +4,18 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	an	art	?	_	_	_	_	_	Gloss=le
+1	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-3	fall	fall	adverbe-adjectif	_	_	_	_	_	Gloss=mauvais
+3	fall	fall	adverbe|adjectif	_	_	_	_	_	Gloss=mauvais
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	teu	dont	verbe	_	_	_	_	_	Gloss=vient
-6	war	war	?	_	_	_	_	_	Gloss=sur
-7	om	POSS	?	_	_	_	_	_	Gloss=notre
+6	war	war	préposition	_	_	_	_	_	Gloss=sur
+7	om	POSS	déterminant	_	_	_	_	_	Gloss=notre
 8	kein	kein	nom	_	_	_	_	_	Gloss=dos
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	muioh	muioc'h	?	_	_	_	_	_	Gloss=plus
 11	neged	neged	?	_	_	_	_	_	Gloss=que
-12	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+12	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 13	douar-braz	douar	nom	_	_	_	_	_	Gloss=terre
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,12 +25,12 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	hag	C.ha(g)	?	_	_	_	_	_	Gloss=que
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	hag	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	abriet	abri.-et(Adj.)	?.?	_	_	_	_	_	Gloss=abrit.é
+4	abriet	abri.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=abrit.é
 5	muioh	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	negedom-ni..	pronomincorporé.écho	?.?	_	_	_	_	_	Gloss=nous.nous
+6	negedom-ni..	pronom_incorporé.écho	?.?	_	_	_	_	_	Gloss=nous.nous
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Ouessant,Gouedig(1982)__1
@@ -39,14 +39,14 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	Molenez	nompropre	?	_	_	_	_	_	Gloss=Molène
+1	Molenez	nom_propre	?	_	_	_	_	_	Gloss=Molène
 2	zo	zo	?	_	_	_	_	_	Gloss=est
 3	muioh	muioc'h	?	_	_	_	_	_	Gloss=plus
-4	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+4	en	P.e	préposition	_	_	_	_	_	Gloss=en
 5	abri	abri	?	_	_	_	_	_	Gloss=abri
-6	euz	eus	?	_	_	_	_	_	Gloss=de
+6	euz	eus	préposition	_	_	_	_	_	Gloss=de
 7	a	a	préposition	_	_	_	_	_	Gloss=de
-8	Eusa	nompropre	?	_	_	_	_	_	Gloss=Ouessant
+8	Eusa	nom_propre	?	_	_	_	_	_	Gloss=Ouessant
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lagadeg(2006:49)__1
@@ -58,8 +58,8 @@
 # texttype = Références de corpus
 1	gwelloh	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 2	eged	eged	?	_	_	_	_	_	Gloss=que
-3	hounnez	DEM	?	_	_	_	_	_	Gloss=celle.là
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	hounnez	DEM	pronom	_	_	_	_	_	Gloss=celle.là
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 5	kavo	kavout	verbe	_	_	_	_	_	Gloss=trouvera
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	poseve	poseve	complémenteur	_	_	_	_	_	Gloss=je.souhaite
@@ -68,32 +68,35 @@
 # sent_id = BuhezarZent,[http://marikavel.fr/documents/buhez-ar-zent/baz-232.htmp.236]__1
 # text = Goest omp d'ober muioc'h a vad eget ne zonjomp.
 # text_fr = 'Nous sommes capables de faire plus de bien que nous (ne) le pensons.'
+# source = Lagadeg (2006)
 1	Goest	gouest	adjectif	_	_	_	_	_	Gloss=capable
-2	omp	COP	?	_	_	_	_	_	Gloss=sommes
-3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	omp	COP	verbe	_	_	_	_	_	Gloss=sommes
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 5	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-7	vad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+7	vad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
 8	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-9	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-10	zonjomp	sonjal	?	_	_	_	_	_	Gloss=pensons
+9	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+10	zonjomp	sonjal	verbe	_	_	_	_	_	Gloss=pensons
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:288)__1
 # text = Respont a ran dezhoñ e karan gwell frankiz eget argant.
 # text_fr = 'Je lui réponds que je préfère la liberté à l'argent.'
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Respont	Respont	?	_	_	_	_	_	Gloss=répondre
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	dezhoñ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	dezhoñ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	karan	karout	verbe	_	_	_	_	_	Gloss=aime
-7	gwell	gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+7	gwell	gwelloc'h	adjectif	_	_	_	_	_	Gloss=mieux
 8	frankiz	frankiz	nom	_	_	_	_	_	Gloss=liberté
 9	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
-10	argant	arc'hant	?	_	_	_	_	_	Gloss=argent
+10	argant	arc'hant	nom	_	_	_	_	_	Gloss=argent
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1997:§200)__1
@@ -109,7 +112,7 @@
 6	/	/	PUNCT	_	_	_	_	Gloss=punct
 7	*[[evel]]/	*[[evel]]/	?	_	_	_	_	_	Gloss=?
 8	*[[eget]])	*[[eget]])	?	_	_	_	_	_	Gloss=?
-9	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	fuel	fuel	?	_	_	_	_	_	Gloss=fuel
 
 # sent_id = LaVillemarqué(1839:chantXXVI)__1
@@ -118,11 +121,11 @@
 # source = La Villemarqué (1839)
 # texttype = Références de corpus
 1	didammet	di-.tamm.-et	?.quantifieur.?	_	_	_	_	_	Gloss=dé.morceau.é
-2	ann	art	?	_	_	_	_	_	Gloss=le
+2	ann	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	harnez	harnez	?	_	_	_	_	_	Gloss=armure
 4	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 5	pillennou	pillennou	?	_	_	_	_	_	Gloss=haillons
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	paourkez	paour-kaezh	adjectif	_	_	_	_	_	Gloss=pauvre
 
 # sent_id = LaVillemarqué(1839:chantXXVI)__1
@@ -133,6 +136,6 @@
 1	rust	rust	?	_	_	_	_	_	Gloss=sauvage
 2	eget	eget	complémenteur	_	_	_	_	_	Gloss=que
 3	mouez	mouezh	nom	_	_	_	_	_	Gloss=voix
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	mor	mor	nom	_	_	_	_	_	Gloss=mer
-6	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+6	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand

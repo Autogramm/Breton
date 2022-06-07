@@ -4,12 +4,12 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+1	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	'	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	gava	gava	?	_	_	_	_	_	Gloss=?
 5	berpet	bepred	adverbe	_	_	_	_	_	Gloss=toujours
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	lâret	lavarout	verbe	_	_	_	_	_	Gloss=dire
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,18 +19,18 @@
 # dialect = Léonard
 # source = Milin (1922)
 # texttype = Références de corpus
-1	Goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+1	Goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	c'helloc'h	gallout	verbe	_	_	_	_	_	Gloss=pouvez
 4	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-5	ha	&	?	_	_	_	_	_	Gloss=et
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	klevet	klevout	verbe	_	_	_	_	_	Gloss=entendre
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	evel	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	evel	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 10	glevjoun	klevout	verbe	_	_	_	_	_	Gloss=entendis
-11	hag	&	?	_	_	_	_	_	Gloss=et
-12	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+11	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+12	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 13	weljoun	gwelout	verbe	_	_	_	_	_	Gloss=vis
 14	dec'h	dec'h	?	_	_	_	_	_	Gloss=hier
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -38,62 +38,68 @@
 # sent_id = Herrieu(1994:85)__1
 # text = An trouz ne barra ket doc'hin neoazh a gousket.
 # text_fr = 'Mais le bruit ne m'empêche pas de dormir.'
-# source = Herrieu (1994)
-1	An	art	?	_	_	_	_	_	Gloss=le
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	trouz	trouz	nom	_	_	_	_	_	Gloss=bruit
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	barra	parrañ	verbe	_	_	_	_	_	Gloss=empêche
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	doc'hin	diouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+6	doc'hin	diouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
 7	neoazh	neoazh	adverbe	_	_	_	_	_	Gloss=cependant
-8	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	gousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:32)  __1
+# sent_id = Nicolas(2005:32)__1
 # text = me 'gred ur sort m'e c'hellehe donet
 # text_fr = 'Je pense quand même qu'il pourrait venir.'
-# text_phon = ['mø', 'grǝdusort', 'mi', 'hɛlè', 'do:nɛt']
-1	me	pfi	?	_	_	_	_	_	Gloss=moi
+# text_phon = mø grǝdusort mi hɛlè do:nɛt 
+# source = Herrieu (1974)
+1	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	'	'	?	_	_	_	_	_	Gloss=R
 3	gred	krediñ	verbe	_	_	_	_	_	Gloss=pense
-4	ur	seurt	préposition-nom-quantifieur-adjectif	_	_	_	_	_	Gloss=quand.même
-5	sort	sort	?	_	_	_	_	_	Gloss=?
-6	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-7	e	e	?	_	_	_	_	_	Gloss=?
+4	ur	seurt	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=quand.même
+5	sort	sort	quantifieur|adjectif|nom|préposition	_	_	_	_	_	Gloss=?
+6	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+7	e	e	verbe	_	_	_	_	_	Gloss=?
 8	c'hellehe	gallout	verbe	_	_	_	_	_	Gloss=pourrait
 9	donet	dont	verbe	_	_	_	_	_	Gloss=venir
 
 # sent_id = ArMeliner(2009:98)__1
 # text = Ha me d'he c'hlask, al loenig paour, he gronnet em danter.
 # text_fr = 'Et j'ai couru la chercher, la pauvre bête, je l'ai enveloppée dans mon tablier.'
-# source = Ar Meliner (2009)
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 3	d'	da	préposition	_	_	_	_	_	Gloss=de
-4	he	POP	?	_	_	_	_	_	Gloss=la|Morph=2
+4	he	POP	pronom	_	_	_	_	_	Gloss=la|Mutation=trigger|MutationNUM=2
 5	c'hlask	klask	verbe	_	_	_	_	_	Gloss=chercher
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	al	art	?	_	_	_	_	_	Gloss=le
-8	loenig	loen.-ig	nom.?	_	_	_	_	_	Gloss=animal.petit
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	loenig	loen.-ig	nom.suffixe	_	_	_	_	_	Gloss=animal.petit
 9	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	he	POP	?	_	_	_	_	_	Gloss=la|Morph=2
+11	he	POP	pronom	_	_	_	_	_	Gloss=la|Mutation=trigger|MutationNUM=2
 12	gronnet	gronnañ	verbe	_	_	_	_	_	Gloss=envelopper
-13	em	P.e	?	_	_	_	_	_	Gloss=en]].[[POSS|mon|Morph=2
+13	em	P.e	préposition	_	_	_	_	_	Gloss=en]].[[POSS|mon|Mutation=trigger|MutationNUM=2
 14	danter	danter	nom	_	_	_	_	_	Gloss=tablier
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__1
 # text = Ar vugale o deus kredet gwelet ar vaouez.
 # text_fr = 'Les enfants ont cru voir la femme.'
-# source = M-L.B (10/2018)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+# dialect = Léonard
+# source = M-L. B. (10/2018)
+# texttype = Élicitations
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 3	o	o	?	_	_	_	_	_	Gloss=3PL
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	kredet	krediñ	verbe	_	_	_	_	_	Gloss=cru
 6	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

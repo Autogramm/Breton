@@ -5,20 +5,22 @@
 # texttype = Références de corpus
 1	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
 2	kerc'hat	kerc'hat	?	_	_	_	_	_	Gloss=chercher
-3	Ar	art	?	_	_	_	_	_	Gloss=le
-4	Prad	nompropre	nom	_	_	_	_	_	Gloss=Prat
-5	aman	amañ	?	_	_	_	_	_	Gloss=ici
+3	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	Prad	nom_propre	nom	_	_	_	_	_	Gloss=Prat
+5	aman	amañ	adverbe	_	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'gwall')__3
 # text = Eno e oa eur gwall gerc'had dour.
 # text_fr = 'Là, il était fatiguant d'aller chercher de l'eau.'
-# source = Gros (1989)
-1	Eno	eno	?	_	_	_	_	_	Gloss=là
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oa	COP	?	_	_	_	_	_	Gloss=était
-4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	gwall	gwall	?	_	_	_	_	_	Gloss=malheur|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Eno	eno	adverbe	_	_	_	_	_	Gloss=là
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=malheur|Mutation=trigger|MutationNUM=1
 6	gerc'had	gerc'had	?	_	_	_	_	_	Gloss=chercher
 7	dour	dour	nom	_	_	_	_	_	Gloss=eau
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

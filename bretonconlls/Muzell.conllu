@@ -3,13 +3,13 @@
 # text_fr = 'Ça m'est venu aux lèvres sans que j'y prenne garde.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	Tarzhet	tarzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=explos.é
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	war	war	?	_	_	_	_	_	Gloss=sur
-4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Tarzhet	tarzhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=explos.é
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	war	war	préposition	_	_	_	_	_	Gloss=sur
+4	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	muzell	muzell	nom	_	_	_	_	_	Gloss=lèvre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	hep	hep	préposition	_	_	_	_	_	Gloss=sans
-8	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	gouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+9	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

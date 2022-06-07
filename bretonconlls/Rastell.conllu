@@ -5,13 +5,13 @@
 # location = Plogonnec
 # source = Kergoat (1976)
 # texttype = Ouvrages de recherche
-1	Honn	DEM	?	_	_	_	_	_	Gloss=celui.ci
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	ar	art	?	_	_	_	_	_	Gloss=le
+1	Honn	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	rastell	rastell	nom	_	_	_	_	_	Gloss=râteau
 5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	ar	art	?	_	_	_	_	_	Gloss=le
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	foenn	foenn	nom	_	_	_	_	_	Gloss=foin
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
 10	koa	kwa	?	_	_	_	_	_	Gloss=quoi
@@ -24,12 +24,12 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	E-kerzh	E-kerzh	préposition-complémenteur	_	_	_	_	_	Gloss=en.cours
-2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-3	e	e	?	_	_	_	_	_	Gloss=R
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
-5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	rastellerez	-erez	?	_	_	_	_	_	Gloss=F
+1	E-kerzh	E-kerzh	complémenteur|préposition	_	_	_	_	_	Gloss=en.cours
+2	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+3	e	e	verbe	_	_	_	_	_	Gloss=R
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
+5	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	rastellerez	-erez	nom	_	_	_	_	_	Gloss=F
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

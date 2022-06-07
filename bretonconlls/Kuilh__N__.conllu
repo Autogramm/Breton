@@ -1,16 +1,17 @@
 # sent_id = ArMeliner(2009:107)__1
 # text = he dorn rouzet d'ar seizh amzer ha kuilhet d'ar gozhoni.
 # text_fr = '[sa] main brunie par le vent et le soleil, et ridée par la vieillesse.'
-# source = Ar Meliner (2009)
-1	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 2	dorn	dorn	nom	_	_	_	_	_	Gloss=main
-3	rouzet	rouz.-et(Adj.)	?.?	_	_	_	_	_	Gloss=rouss.i
+3	rouzet	rouz.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=rouss.i
 4	d'	da	préposition	_	_	_	_	_	Gloss=par
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	amzer	amzer	nom	_	_	_	_	_	Gloss=temps
-7	ha	&	?	_	_	_	_	_	Gloss=et
-8	kuilhet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	kuilhet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
 9	d'	da	préposition	_	_	_	_	_	Gloss=par
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	gozhoni	kozh	adjectif	_	_	_	_	_	Gloss=viel]].[[-oni|lesse|Morph=1
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	gozhoni	kozh	adjectif	_	_	_	_	_	Gloss=viel]].[[-oni|lesse|Mutation=target|MutationNUM=1
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

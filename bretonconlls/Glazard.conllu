@@ -5,9 +5,9 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Stramwelet	stram-	?	_	_	_	_	_	Gloss=quasi|Morph=1
-2	'	kaout	?	_	_	_	_	_	Gloss=ai
+1	Stramwelet	stram-	?	_	_	_	_	_	Gloss=quasi|Mutation=trigger|MutationNUM=1
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=ai
 3	meus	meus	?	_	_	_	_	_	Gloss=?
-4	ur	art	?	_	_	_	_	_	Gloss=un
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	glazer	glazer	?	_	_	_	_	_	Gloss=lézard
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

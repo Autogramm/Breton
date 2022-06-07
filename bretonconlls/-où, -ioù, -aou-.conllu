@@ -1,0 +1,40 @@
+sent_id = AnDiberder(2000:104)__1
+text = I kreiz en di i oé tout gouleu alumet.
+text_fr =  'Toutes (les) lumières étaient allumées en plein jour.'
+1	I kreiz	e-kreiz	préposition	_	_	_	_	_	Gloss=en-milieu
+2	en di	art	article	_	_	_	_	_	Gloss=le
+3	i oé tout	[[R]] [[COP|était]] [[tout]]	?	_	_	_	_	_	Gloss=[[R]] [[COP|était]] [[tout]]
+4	gouleu	gouloù.-où (PL.)	nom.nom	_	_	_	_	_	Gloss=lumière.s
+5	alumet	alumet	?	_	_	_	_	_	Gloss=allumé
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Briant-Cadiou(1998:6)__1
+text = evid dont da bourmen war an aotchoù.
+text_fr = 'pour venir se promener sur les côtes'
+1	evid	evit	préposition	_	_	_	_	_	Gloss=pour
+2	dont	dont	verbe	_	_	_	_	_	Gloss=venir
+3	da	da	préposition	_	_	_	_	_	Gloss=pour
+4	bourmen	pourmen	verbe	_	_	_	_	_	Gloss=promener
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	an	art	article	_	_	_	_	_	Gloss=le
+7	aotchoù	aod	nom	_	_	_	_	_	Gloss=côte
+8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Seite(1998:44)__1
+text = eur mell gwezenn glas-kaol he deliou.
+text_fr =  'Un grand arbres aux feuilles vert-chou'
+1	eur	art	article	_	_	_	_	_	Gloss=un
+2	mell	mell	nom	_	_	_	_	_	Gloss=grand
+3	gwezenn	gwez.-enn	nom.nom	_	_	_	_	_	Gloss=arbres.1
+4	glas-kaol	glas	adjectif	_	_	_	_	_	Gloss=vert
+5	he	POSS	nom	_	_	_	_	_	Gloss=son
+6	deliou	del	nom	_	_	_	_	_	Gloss=feuilles
+7	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Elégoët(1982:18)__1
+text = evit ramañs ar gourlañioù...
+text_fr = 'pour ramasser le goémon d'épave...' 
+1	evit	evit	préposition	_	_	_	_	_	Gloss=pour
+2	ramañs	ramañs	?	_	_	_	_	_	Gloss=ramasser
+3	ar gourlañioù..	art.gour-.lanv	article.adjectif.nom	_	_	_	_	_	Gloss=le.haut-.flux
+4	.	.	PUNCT	_	_	_	_	_	Gloss=punct

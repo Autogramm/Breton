@@ -5,9 +5,9 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	a	a	préposition	_	_	_	_	_	Gloss=R
-2	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+2	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 3	hualet	hualet	?	_	_	_	_	_	Gloss=entravé
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-5	dreid	troad.plurielinterne	nom.?	_	_	_	_	_	Gloss=pied.s
-6	a-groaz	a	préposition	_	_	_	_	_	Gloss=en|Morph=1
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+5	dreid	troad.pluriel_interne	nom.?	_	_	_	_	_	Gloss=pied.s
+6	a-groaz	a	préposition	_	_	_	_	_	Gloss=en|Mutation=trigger|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

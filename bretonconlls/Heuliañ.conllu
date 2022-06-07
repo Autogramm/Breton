@@ -4,15 +4,15 @@
 # source = Herri (1982)
 # texttype = Références de corpus
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	pouezañ	pouezañ	verbe	_	_	_	_	_	Gloss=peser
-5	war	war	?	_	_	_	_	_	Gloss=sur
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	droadikell	troad	nom	_	_	_	_	_	Gloss=pied]].[[-ikell|sfx|Morph=1
-8	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+5	war	war	préposition	_	_	_	_	_	Gloss=sur
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	droadikell	troad	nom	_	_	_	_	_	Gloss=pied]].[[-ikell|sfx|Mutation=target|MutationNUM=1
+8	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 9	heuliañ	heuliañ	verbe	_	_	_	_	_	Gloss=suivre
-10	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+10	anezhi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1922:347)__1
@@ -20,16 +20,16 @@
 # text_fr = 'Monique suivit ses parents à l'Aber.'
 # location = Bodilis
 # source = Ar Floch (1922)
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
-2	Mónig	nompropre	?	_	_	_	_	_	Gloss=Monique
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
+2	Mónig	nom_propre	?	_	_	_	_	_	Gloss=Monique
 3	ha	ha(g)	?	_	_	_	_	_	Gloss=et
-4	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 5	heul	heul	?	_	_	_	_	_	Gloss=suivre
-6	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 7	zud	tud	nom	_	_	_	_	_	Gloss=parents
-8	d'	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-9	an	art	?	_	_	_	_	_	Gloss=le
-10	Aber	nompropre	?	_	_	_	_	_	Gloss=Aber
+8	d'	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	Aber	nom_propre	?	_	_	_	_	_	Gloss=Aber
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:12)__1
@@ -39,19 +39,19 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Heullian	Heullian	?	_	_	_	_	_	Gloss=suivre
-2	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+2	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 3	am	am	?	_	_	_	_	_	Gloss=1SG
-4	euz	kaout	?	_	_	_	_	_	Gloss=a
-5	graet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-7	ar	ar	?	_	_	_	_	_	Gloss=[[arpezh|ce
+4	euz	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+5	graet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=seulement
+7	ar	ar	?	_	_	_	_	_	Gloss=[[ar_pezh|ce
 8	pez	pez	?	_	_	_	_	_	Gloss=que]]
 9	an	an	?	_	_	_	_	_	Gloss=3SGM
-10	oa	kaout	?	_	_	_	_	_	Gloss=avait
-11	kavet	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
-12	da	POSS	?	_	_	_	_	_	Gloss=ton|Morph=1
-13	waz	gwaz	?	_	_	_	_	_	Gloss=mari
-14	karantezus	karantez.-us(Adj.)	nom.?	_	_	_	_	_	Gloss=amour.eux
+10	oa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+11	kavet	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
+12	da	POSS	déterminant	_	_	_	_	_	Gloss=ton|Mutation=trigger|MutationNUM=1
+13	waz	gwaz	nom	_	_	_	_	_	Gloss=mari
+14	karantezus	karantez.-us_(Adj.)	nom.suffixe|adjectif	_	_	_	_	_	Gloss=amour.eux
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Guéméné-sur-scorff,McKenna(1978)__1
@@ -60,10 +60,10 @@
 # dialect = Vannetais
 # source = McKenna (1978)
 # texttype = Ouvrages de recherche
-1	Me	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Me	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 2	hi	ki	nom	_	_	_	_	_	Gloss=chien
 3	helia	helia	?	_	_	_	_	_	Gloss=suit
-4	ahanein	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
+4	ahanein	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.moi
 5	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:II)__1
@@ -72,21 +72,21 @@
 # dialect = Cornouaillais
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	bern	bern	nom-quantifieur	_	_	_	_	_	Gloss=tas
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	bern	bern	quantifieur|nom	_	_	_	_	_	Gloss=tas
 3	tud	tud	nom	_	_	_	_	_	Gloss=gens
-4	'	COP	?	_	_	_	_	_	Gloss=sera
+4	'	COP	verbe	_	_	_	_	_	Gloss=sera
 5	vo	vo	?	_	_	_	_	_	Gloss=?
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	ba	ba	?	_	_	_	_	_	Gloss=?
-8	'	art	?	_	_	_	_	_	Gloss=le
+8	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	n	eured	nom	_	_	_	_	_	Gloss=mariage
 10	eured,	eured,	?	_	_	_	_	_	Gloss=?
 11	[...]	[...]	?	_	_	_	_	_	Gloss=
-12	ha	&	?	_	_	_	_	_	Gloss=et
-13	tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-14	'	'	?	_	_	_	_	_	Gloss=R|Morph=4
+12	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+13	tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+14	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 15	teuint	dont	verbe	_	_	_	_	_	Gloss=viendront
-16	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+16	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 17	heul	heul	?	_	_	_	_	_	Gloss=suivre
 18	.	.	PUNCT	_	_	_	_	Gloss=punct

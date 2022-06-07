@@ -3,12 +3,12 @@
 # text_fr = 'Les tiges ne durent pas un an'.
 # source = A-M. Louboutin (09/2015a)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	c'horz	korz	nom	_	_	_	_	_	Gloss=tiges|Morph=5
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'horz	korz	nom	_	_	_	_	_	Gloss=tiges|Mutation=target|MutationNUM=5
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	badont	badont	?	_	_	_	_	_	Gloss=durent
-5	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-6	ur	art	?	_	_	_	_	_	Gloss=un
+5	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=que
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -17,18 +17,18 @@
 # text_fr = 'Malheureusement, c'était trop beau pour durer jusqu'à la fin de l'éternité.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Siwazh	siwazh	interjection-adverbe	_	_	_	_	_	Gloss=malheureusement
+1	Siwazh	siwazh	adverbe|interjection	_	_	_	_	_	Gloss=malheureusement
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
-4	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-6	oa	COP	?	_	_	_	_	_	Gloss=était
-7	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
+4	gaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
+7	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 8	padout	padout	verbe	_	_	_	_	_	Gloss=durer
-9	betek	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu.à
+9	betek	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu.à
 10	fin	fin	?	_	_	_	_	_	Gloss=fin
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	beurbadelezh	peur-	?	_	_	_	_	_	Gloss=complet|Morph=1
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	beurbadelezh	peur-	?	_	_	_	_	_	Gloss=complet|Mutation=trigger|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzec&al.(2017:123)__1
@@ -38,16 +38,16 @@
 # location = Clohars-Carnoët
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	'	art	?	_	_	_	_	_	Gloss=le
-2	N	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Morph=1
+1	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	N	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci|Mutation=target|MutationNUM=1
 3	dreu-s	dreu-s	?	_	_	_	_	_	Gloss=?
-4	'	COP	?	_	_	_	_	_	Gloss=était
+4	'	COP	verbe	_	_	_	_	_	Gloss=était
 5	oa	oa	?	_	_	_	_	_	Gloss=?
-6	pad'	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+6	pad'	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
 7	t	t	?	_	_	_	_	_	Gloss=?
 8	duran'	duran'	?	_	_	_	_	_	Gloss=durant
 9			PUNCT	_	_	_	_	Gloss=punct
-10	teir	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+10	teir	numéraux_cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=trois
 11	eur	eur	nom	_	_	_	_	_	Gloss=heure
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -56,14 +56,14 @@
 # text_fr = 'Pour certains ils n'ont pas duré trois semaines.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	Evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	lod	lod	quantifieur	_	_	_	_	_	Gloss=certain
-3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	o	o	?	_	_	_	_	_	Gloss=3PL
-5	deus	kaout	?	_	_	_	_	_	Gloss=a
+5	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	padet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-8	teir	cardinaux	?	_	_	_	_	_	Gloss=trois
+7	padet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+8	teir	cardinaux	quantifieur|adjectif	_	_	_	_	_	Gloss=trois
 9	sizhun	sizhun	nom	_	_	_	_	_	Gloss=semaine
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -75,7 +75,7 @@
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
 1	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 4	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=selon
 5	pad	pad	?	_	_	_	_	_	Gloss=durée

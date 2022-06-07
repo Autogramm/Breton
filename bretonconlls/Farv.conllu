@@ -4,37 +4,39 @@
 # dialect = Cornouaillais
 # source = Skragn (2002)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
 3	atao	atav	adverbe	_	_	_	_	_	Gloss=toujours
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6	huñvree	hunvreal	verbe	_	_	_	_	_	Gloss=rêvait
-7	en	enur	?	_	_	_	_	_	Gloss=en|Morph=1
+7	en	en_ur	complémenteur	_	_	_	_	_	Gloss=en
 8	eur	eur	nom	_	_	_	_	_	Gloss=?
-9	en	pronomreflexif	complémenteur	_	_	_	_	_	Gloss=se
+9	en	pronom_reflexif	complémenteur	_	_	_	_	_	Gloss=se
 10	em	em	?	_	_	_	_	_	Gloss=?
 11	lakaad	lakaat	verbe	_	_	_	_	_	Gloss=mettre
-12	e	P.e	?	_	_	_	_	_	Gloss=en
+12	e	P.e	préposition	_	_	_	_	_	Gloss=en
 13	stad	stad	nom	_	_	_	_	_	Gloss=état
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	baotred	paotr	nom	_	_	_	_	_	Gloss=gars]].[[-ed(PL.)|s|Morph=1
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	baotred	paotr	nom	_	_	_	_	_	Gloss=gars]].[[-ed_(PL.)|s|Mutation=target|MutationNUM=1
 16	faro	faro	adjectif	_	_	_	_	_	Gloss=fier
 17	...	...	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Timm(1995:8)__1
 # text = Tregont vloaz a-raok e oa anezhi ur gaer a blac'h faro.
 # text_fr = 'Trente ans plus tôt, elle était un fier beau brin de fille.'
-# source = Abeozen (1986)
-1	Tregont	numérauxcardinaux	?	_	_	_	_	_	Gloss=trente|Morph=1
+# dialect = Léonard
+# source = Abeozen (1969)
+# texttype = Références de corpus
+1	Tregont	numéraux_cardinaux	?	_	_	_	_	_	Gloss=trente
 2	vloaz	bloaz	nom	_	_	_	_	_	Gloss=an
-3	a-raok	araok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	anezhi	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
-7	ur	art	?	_	_	_	_	_	Gloss=un
-8	gaer	kaer	adverbe-adjectif	_	_	_	_	_	Gloss=beau|Morph=1
-9	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	a-raok	araok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	anezhi	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.elle
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+8	gaer	kaer	adverbe|adjectif	_	_	_	_	_	Gloss=beau|Mutation=target|MutationNUM=1
+9	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 10	blac'h	plac'h	?	_	_	_	_	_	Gloss=fille
 11	faro	faro	?	_	_	_	_	_	Gloss=fièr
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -9,8 +9,8 @@
 2	glaw	glav	nom	_	_	_	_	_	Gloss=pluie
 3	zo	zo	?	_	_	_	_	_	Gloss=est
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-6	'	art	?	_	_	_	_	_	Gloss=le
+5	ba	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+6	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7			PUNCT	_	_	_	_	Gloss=punct
 8	noz	noz	nom	_	_	_	_	_	Gloss=nuit
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -21,18 +21,18 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
-2	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-4	veze	COP	?	_	_	_	_	_	Gloss=était
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+4	veze	COP	verbe	_	_	_	_	_	Gloss=était
 5	noz	noz	nom	_	_	_	_	_	Gloss=nuit
-6	o	dont	verbe	_	_	_	_	_	Gloss=venir|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	tont	tont	?	_	_	_	_	_	Gloss=?
 8	d'	da	préposition	_	_	_	_	_	Gloss=à
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
-11	de	deus	?	_	_	_	_	_	Gloss=de
-12	ar	art	?	_	_	_	_	_	Gloss=le
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
+11	de	deus	préposition	_	_	_	_	_	Gloss=de
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	marc'had	marc'had	?	_	_	_	_	_	Gloss=marché
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -44,20 +44,20 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Aet	mont	verbe	_	_	_	_	_	Gloss=allé
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	hi	écho	?	_	_	_	_	_	Gloss=elle
 4	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
 6	dre	dre	préposition	_	_	_	_	_	Gloss=par
-7	'	art	?	_	_	_	_	_	Gloss=le
+7	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	n	abeg	?	_	_	_	_	_	Gloss=raison
 9	ab'	ab'	?	_	_	_	_	_	Gloss=?
 10	g	g	?	_	_	_	_	_	Gloss=?
-11	'	COP	?	_	_	_	_	_	Gloss=était
+11	'	COP	verbe	_	_	_	_	_	Gloss=était
 12	oa	oa	?	_	_	_	_	_	Gloss=?
-13	'	art	?	_	_	_	_	_	Gloss=le
+13	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	n	n	?	_	_	_	_	_	Gloss=nuit
 15	noz	noz	nom	_	_	_	_	_	Gloss=?
-16	'	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+16	'	particule_o	?	_	_	_	_	_	Gloss=à
 17			PUNCT	_	_	_	_	Gloss=punct
 18	tont.	tont.	?	_	_	_	_	_	Gloss=?

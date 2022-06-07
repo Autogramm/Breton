@@ -7,25 +7,27 @@
 # texttype = Références de corpus
 1	Eclati	Eclati	?	_	_	_	_	_	Gloss=éclater
 2	â	â	?	_	_	_	_	_	Gloss=R
-3	réas-ta	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
-4	ar	art	?	_	_	_	_	_	Gloss=le
+3	réas-ta	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	révolution	révolution	?	_	_	_	_	_	Gloss=révolution
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	partial	partial	verbe	_	_	_	_	_	Gloss=partir
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	voa	COP	?	_	_	_	_	_	Gloss=était
+9	voa	COP	verbe	_	_	_	_	_	Gloss=était
 10	rét	ret	?	_	_	_	_	_	Gloss=obligé
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:149)__1
 # text = Warlene he-devoa bet eun disparti.
 # text_fr = 'L'année dernière, elle avait fait une fausse couche.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Warlene	warlene	adverbe	_	_	_	_	_	Gloss=an.passé
-2	he-devoa	kaout	?	_	_	_	_	_	Gloss=avait
-3	bet	kaout	?	_	_	_	_	_	Gloss=eu
-4	eun	art	?	_	_	_	_	_	Gloss=un
-5	disparti	di-,dis-	?	_	_	_	_	_	Gloss=dé
+2	he-devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+3	bet	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=eu
+4	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	disparti	di-,_dis-	?	_	_	_	_	_	Gloss=dé
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:79).__6
@@ -34,13 +36,13 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-4	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+4	er	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 5	maez,	maez,	?	_	_	_	_	_	Gloss=?
 6	partiet	partiet	?	_	_	_	_	_	Gloss=parti
-7	al	art	?	_	_	_	_	_	Gloss=le
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	loan	loen	nom	_	_	_	_	_	Gloss=bête
 9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

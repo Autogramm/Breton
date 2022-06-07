@@ -3,16 +3,16 @@
 # text_fr = 'L'oseille n'est pas un poison (pour les humains).'
 # source = A-M. Louboutin (09/2015a)
 # texttype = Élicitations
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	trichin	trichin	nom	_	_	_	_	_	Gloss=oseille
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	int	COP	?	_	_	_	_	_	Gloss=sont
+4	int	COP	verbe	_	_	_	_	_	Gloss=sont
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	un	art	?	_	_	_	_	_	Gloss=un
+6	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	ampoezenn	ampoezenn	?	_	_	_	_	_	Gloss=poison
-8	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+8	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 9	yec'hed	yec'hed	?	_	_	_	_	_	Gloss=santé
-10	an	IMP	?	_	_	_	_	_	Gloss=on
+10	an	IMP	pronom	_	_	_	_	_	Gloss=on
 11	den.	den.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Briant-Cadiou(1998:25)__1
@@ -24,13 +24,13 @@
 # texttype = Références de corpus
 1	gwreg	gwreg	nom	_	_	_	_	_	Gloss=femme
 2	tiegez	ti	nom	_	_	_	_	_	Gloss=maison
-3	Koadkilie	nompropre	?	_	_	_	_	_	Gloss=Koadkilie
+3	Koadkilie	nom_propre	?	_	_	_	_	_	Gloss=Koadkilie
 4	[…]	[…]	?	_	_	_	_	_	Gloss=?
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 10	yehed	yehed	?	_	_	_	_	_	Gloss=santé
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -41,14 +41,14 @@
 # source = Seite (1975)
 # texttype = Ouvrages pédagogiques
 1	Piv	piv	pronom	_	_	_	_	_	Gloss=qui
-2	bennag	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+2	bennag	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	goll	koll	verbe	_	_	_	_	_	Gloss=perd
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 6	yehed	yehed	?	_	_	_	_	_	Gloss=santé
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
 9	paouez	paouez	verbe	_	_	_	_	_	Gloss=cesser
-10	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 11	labourad	labourat	verbe	_	_	_	_	_	Gloss=travailler
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

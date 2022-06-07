@@ -5,11 +5,11 @@
 # texttype = Ouvrages de recherche
 1	Petore	Petore	?	_	_	_	_	_	Gloss=quel
 2	paotred	paotr	nom	_	_	_	_	_	Gloss=gars
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 4	soñj	soñjal	verbe	_	_	_	_	_	Gloss=pense
-5	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	lenne	lenn(V.)	?	_	_	_	_	_	Gloss=lisait
-8	al	art	?	_	_	_	_	_	Gloss=le
-9	levrioù	levr.-où(PL.)	nom.?	_	_	_	_	_	Gloss=livre.s
+5	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	lenne	lenn_(V.)	?	_	_	_	_	_	Gloss=lisait
+8	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	levrioù	levr.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=livre.s
 10	?	?	PUNCT	_	_	_	_	Gloss=punct

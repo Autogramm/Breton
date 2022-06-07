@@ -1,27 +1,29 @@
 # sent_id = Bannoù-Heol(2000:19)__1
 # text = Daoñ ! Chom trankil 'ta !
 # text_fr = 'Doux Jésus ! Reste donc tranquille !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
-1	Daoñ	Daoñ	?	_	_	_	_	_	Gloss=[[Daoñ!|Damné
+1	Daoñ	Daoñ	?	_	_	_	_	_	Gloss=[[Daoñ_!|Damné
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Chom	chom	verbe	_	_	_	_	_	Gloss=reste
 5	trankil	trankil	?	_	_	_	_	_	Gloss=tranquille
-6	'	eta	?	_	_	_	_	_	Gloss=donc
+6	'	eta	conjonction	_	_	_	_	_	Gloss=donc
 7	ta	ta	?	_	_	_	_	_	Gloss=?
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Biguet(2017:48)__1
 # text = Daonet ! Petra ' c'hoarvez ?
 # text_fr = 'Diable ! Que se passe-t-il ?'
+# dialect = Standard
 # source = Biguet (2017)
 # texttype = Références de corpus
-1	Daonet	Daonet	?	_	_	_	_	_	Gloss=[[Daonet!|Damné
+1	Daonet	Daonet	?	_	_	_	_	_	Gloss=[[Daonet_!|Damné
 2			?	_	_	_	_	_	Gloss=!]]
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-5	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+4	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+5	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 6			PUNCT	_	_	_	_	Gloss=punct
 7	c'hoarvez	c'hoarvezout	?	_	_	_	_	_	Gloss=arrive
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
@@ -29,31 +31,33 @@
 # sent_id = Monfort(2007:15)__1
 # text = Ddaammmd ! Ret 'dit bannañ un dra bennak ouzh e benn ...
 # text_fr = 'Hggnnn ! 'Faut qu'j'lui balance quelque chose à la figure !'
+# dialect = Standard
 # source = Monfort (2007)
 # texttype = Références de corpus
 1	Ddaammmd	Ddaammmd	?	_	_	_	_	_	Gloss=Damné
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Ret	ret	?	_	_	_	_	_	Gloss=obligé
-5	'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+5	'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 6	dit	dit	?	_	_	_	_	_	Gloss=?
 7	bannañ	bannañ	?	_	_	_	_	_	Gloss=balancer
-8	un	art	?	_	_	_	_	_	Gloss=un
-9	dra	tra	nom	_	_	_	_	_	Gloss=chose|Morph=1
-10	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	dra	tra	nom	_	_	_	_	_	Gloss=chose|Mutation=target|MutationNUM=1
+10	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 11	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-12	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 13	benn	penn	nom	_	_	_	_	_	Gloss=tête
 14	...	...	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(2002b:59)__1
 # text = Daonet vo ! Ar polis !
 # text_fr = 'Trahison ! La police  !'
+# dialect = Standard
 # source = Kervella (2002b)
 # texttype = Références de corpus
 1	Daonet	Daonet	?	_	_	_	_	_	Gloss=damné
-2	vo	COP	?	_	_	_	_	_	Gloss=sera
+2	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Ar	art	?	_	_	_	_	_	Gloss=le
+4	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	polis	polis	?	_	_	_	_	_	Gloss=police
 6	!	!	PUNCT	_	_	_	_	Gloss=punct

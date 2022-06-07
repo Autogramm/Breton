@@ -1,0 +1,9 @@
+sent_id = Léon(Lesneven/Kerlouan),A.M.(05/2016)__3
+text = pep skotenn zo bet dekoret gant un apprenti bennak.
+text_fr = 'Chaque gâteau a été décoré par un apprenti.' 
+1	pep	pep	nom	_	_	_	_	_	Gloss=chaque
+2	skotenn	skotenn	?	_	_	_	_	_	Gloss=gâteau
+3	zo bet dekoret	zo	verbe	_	_	_	_	_	Gloss=est
+4	gant un	gant	préposition	_	_	_	_	_	Gloss=avec
+5	apprenti bennak	bennak	adjectif	_	_	_	_	_	Gloss=quelconque
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct

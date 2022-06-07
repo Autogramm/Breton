@@ -5,15 +5,15 @@
 # location = Locronan
 # source = A-M. Louboutin (10/2021)
 # texttype = Élicitations
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	velan	gwelout	verbe	_	_	_	_	_	Gloss=vois
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
-5	an	art	?	_	_	_	_	_	Gloss=le
+4	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	den	den	nom	_	_	_	_	_	Gloss=homme
 7	graet	reiñ	verbe	_	_	_	_	_	Gloss=donné
-8	dezhon	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+8	dezhon	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 9	alho	alc'hwez	?	_	_	_	_	_	Gloss=clef
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	sakriti	sakriti	?	_	_	_	_	_	Gloss=sacristie
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

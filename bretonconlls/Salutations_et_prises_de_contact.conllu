@@ -6,11 +6,11 @@
 # texttype = Ouvrages pédagogiques
 1	Ahanta	Ahanta	?	_	_	_	_	_	Gloss=interjection
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	Kaou	nompropre	?	_	_	_	_	_	Gloss=Kaou
+3	Kaou	nom_propre	?	_	_	_	_	_	Gloss=Kaou
 4	!	!	PUNCT	_	_	_	_	Gloss=punct
 5	Mond	mont	verbe	_	_	_	_	_	Gloss=aller
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-8	mad	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bien
-9	ganéz	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.toi
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+8	mad	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bien
+9	ganéz	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.toi
 10	?	?	PUNCT	_	_	_	_	Gloss=punct

@@ -6,8 +6,8 @@
 1	Pas	Pas	?	_	_	_	_	_	Gloss=pas
 2	lared	lavarout	verbe	_	_	_	_	_	Gloss=dire
 3	gir	ger	nom	_	_	_	_	_	Gloss=mot
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-5	henn'	DEM	?	_	_	_	_	_	Gloss=celui-ci
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+5	henn'	DEM	pronom	_	_	_	_	_	Gloss=celui-ci
 6	zh	zh	?	_	_	_	_	_	Gloss=?
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,54 +19,57 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	Pas	Pas	?	_	_	_	_	_	Gloss=NEG
-2	gober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+2	gober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 3	van	van	nom	_	_	_	_	_	Gloss=semblant
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	netaat	naet.-aat	adjectif.verbe	_	_	_	_	_	Gloss=net.oyer
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	netaat	naet.-aat	adjectif.verbe|suffixe	_	_	_	_	_	Gloss=net.oyer
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Chalm(2008:E6)__1
 # text = Lavar dezho pas ober trouz.
 # text_fr = 'Dis-leur de ne pas faire de bruit.'
+# dialect = Standard
 # source = Chalm (2008)
 1	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
-2	dezho	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
+2	dezho	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.eux
 3	pas	pas	?	_	_	_	_	_	Gloss=pas
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 5	trouz	trouz	nom	_	_	_	_	_	Gloss=bruit
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Chalm(2008:E8)__1
 # text = pas diouzhtu / met pas re / pas er skol
 # text_fr = 'pas tout de suite / mais pas trop / pas à l'école.'
+# dialect = Standard
 # source = Chalm (2008)
 1	pas	pas	?	_	_	_	_	_	Gloss=pas
 2	diouzhtu	diouzhtu	adverbe	_	_	_	_	_	Gloss=de.suite
 3	/	/	PUNCT	_	_	_	_	Gloss=punct
-4	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+4	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 5	pas	pas	?	_	_	_	_	_	Gloss=pas
 6	re	re	adverbe	_	_	_	_	_	Gloss=trop
 7	/	/	PUNCT	_	_	_	_	Gloss=punct
 8	pas	pas	?	_	_	_	_	_	Gloss=pas
-9	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+9	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	skol	skol	nom	_	_	_	_	_	Gloss=école
 
 # sent_id = Kervella(2001:57)__1
 # text = Met... Met... Bastik... Petra ' virje ?
 # text_fr = 'Mais ! Mais ! Au fait ! Pourquoi pas ?'
+# dialect = Standard
 # source = Kervella (2001)
 # texttype = Références de corpus
-1	Met..	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+1	Met..	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 2	.	.	PUNCT	_	_	_	_	Gloss=punct
-3	Met..	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+3	Met..	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
-5	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-6	'	'	?	_	_	_	_	_	Gloss=R|Morph=1
+5	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+6	'	'	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 7			PUNCT	_	_	_	_	Gloss=punct
 8	virje	mirout	verbe	_	_	_	_	_	Gloss=empêcherait
 9	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__21
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__22
 # text = Pas lar geier ka me 'oar ar wirionez.
 # text_fr = 'Ne mentez pas car je connais la vérité.'
 # dialect = Cornouaillais
@@ -74,11 +77,11 @@
 # texttype = Élicitations
 1	Pas	Pas	?	_	_	_	_	_	Gloss=pas
 2	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
-3	geier	gaou.plurielinterne	nom.?	_	_	_	_	_	Gloss=mensonge.s
-4	ka	kar	?	_	_	_	_	_	Gloss=car
-5	me	pfi	?	_	_	_	_	_	Gloss=moi
-6	'	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sais
+3	geier	gaou.pluriel_interne	nom.?	_	_	_	_	_	Gloss=mensonge.s
+4	ka	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+5	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+6	'	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sais
 7	oar	oar	?	_	_	_	_	_	Gloss=?
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Morph=1
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	wirionez	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Mutation=target|MutationNUM=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

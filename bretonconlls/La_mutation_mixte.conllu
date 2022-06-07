@@ -5,107 +5,106 @@
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
 1	É	É	?	_	_	_	_	_	Gloss=R
-2	oen	eman	?	_	_	_	_	_	Gloss=étais
-3	é	particuleo	?	_	_	_	_	_	Gloss=à
+2	oen	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=étais
+3	é	particule_o	?	_	_	_	_	_	Gloss=à
 4	choñjal	soñjal	verbe	_	_	_	_	_	Gloss=penser
-5	get-n-eign	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-6	me	POSS	?	_	_	_	_	_	Gloss=mon
-7	unañ	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
+5	get-n-eign	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+6	me	POSS	déterminant	_	_	_	_	_	Gloss=mon
+7	unañ	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:576)__2
+# sent_id = Evenou(1987:576)__2
 # text = Veze dav dezhañ lavarout evit peseurt rezon 'veze-eñ o v-bale d'an eur-se.
 # text_fr = 'Il devait dire pour quelle raison il se promenait à cette heure.'
-# text_phon = ['[ wize', 'dòw dô', 'la:', 'wi pəsə se:zOn', 'wizehô (o) falə', 'de nə:r-sə   ]']
-1	Veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+# text_phon =  wize dòw dô la: wi pəsə se:zOn wizehô (o) falə de nə:r-sə    
+# source = Le Bayon (1878)
+1	Veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 2	dav	dav	adjectif	_	_	_	_	_	Gloss=devoir
 3	dezhañ	da	préposition	_	_	_	_	_	Gloss=à
 4	lavarout	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-6	peseurt	wh	?	_	_	_	_	_	Gloss=quelle.sorte
+5	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+6	peseurt	wh	pronom	_	_	_	_	_	Gloss=quelle.sorte
 7	rezon	rezon	?	_	_	_	_	_	Gloss=raison
-8	'	vez.echo	verbe-auxiliaire.?	_	_	_	_	_	Gloss=était.3SGM
-9	veze-eñ	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	'	vez.echo	verbe|auxiliaire.pronom	_	_	_	_	_	Gloss=était.3SGM
+9	veze-eñ	particule_o	?	_	_	_	_	_	Gloss=à
 10	o	bale	verbe	_	_	_	_	_	Gloss=marcher
 11	v-bale	v-bale	?	_	_	_	_	_	Gloss=?
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
-13	an	art	?	_	_	_	_	_	Gloss=le
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	eur-se	eur	nom	_	_	_	_	_	Gloss=heure
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Koadig (2010:83)__1
-# text = o vale, o vreinañ ''Équivalent Standard''
+# sent_id = Koadig(2010:83)__1
+# text = o vale, o vreinañ Équivalent Standard
 # text_fr = 'en train de marcher, pourrir.'
-# text_phon = ["'@ falé,", "'@ freynañ", "'@'@Goelo'@'@"]
-1	o	bale	verbe	_	_	_	_	_	Gloss=marcher|Morph=4
+# text_phon = '@ falé, '@ freynañ Goelo 
+# source = Le Bayon (1878)
+1	o	particule_o	?	_	_	_	_	_	Gloss=à
 2	vale,	vale,	?	_	_	_	_	_	Gloss=?
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
 4	vreinañ	vreinañ	?	_	_	_	_	_	Gloss=?
-5	'	'	?	_	_	_	_	_	Gloss=
-6	'	'	?	_	_	_	_	_	Gloss=?
-7	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=?
-8	Standard'	Standard'	?	_	_	_	_	_	Gloss=?
-9	'	'	?	_	_	_	_	_	Gloss=?
-10			PUNCT	_	_	_	_	Gloss=punct
+5	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=
+6	Standard	Standard	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Evenou (1987:581)__1
+# sent_id = Evenou(1987:581)__1
 # text = Petra e valec'h gant ar vilin-se ?
 # text_fr = 'Qu'est-ce qu'on moud avec ce moulin ?'
-# text_phon = ['[ petra', '(ə)', 'fa:lEx', 'ga', 'vil-sən ]']
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	valec'h	malañ.IMP	verbe.?	_	_	_	_	_	Gloss=moud.ez
-4	gant	gant	?	_	_	_	_	_	Gloss=avec
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vilin-se	milin	nom	_	_	_	_	_	Gloss=moulin]]-[[DEM|là|Morph=1
+# text_phon =  petra (ə) fa:lEx ga vil-sən  
+# source = Le Bayon (1878)
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	valec'h	malañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=moud.ez
+4	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	vilin-se	milin	nom	_	_	_	_	_	Gloss=moulin]]-[[DEM|là|Mutation=target|MutationNUM=1
 7	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:304)__1
+# sent_id = Goyat(2012:304)__1
 # text = Emaint o vond da houl ganti...
 # text_fr = 'Ils/elles vont le lui demander.'
-# text_phon = ['/maɲ', 'ˌ', 'fon', 'da', 'ˌhul', "'@ɡati/"]
-1	Emaint	eman	?	_	_	_	_	_	Gloss=sont
-2	o	particuleo	?	_	_	_	_	_	Gloss=à
+# text_phon = /maɲ ˌ fon da ˌhul '@ɡati/ 
+# source = Le Bayon (1878)
+1	Emaint	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	vond	mont	verbe	_	_	_	_	_	Gloss=aller
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	houl	goulenn	verbe	_	_	_	_	_	Gloss=demander
-6	ganti..	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.elle
+6	ganti..	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.elle
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Koadig (2010:83)__1
-# text = o vont, /  e varve an dud ''Équivalent Standard''
+# sent_id = Koadig(2010:83)__1
+# text = o vont, /  e varve an dud Équivalent Standard
 # text_fr = 'en allant' / '... les gens mouraient.'
-# text_phon = ["'@", 'foñnt,', '/', '...', "'@ farvè", 'ën dut.', "'@'@Goëlo'@'@"]
-1	o	particuleo	?	_	_	_	_	_	Gloss=à
+# text_phon = '@ foñnt, / ... '@ farvè ën dut. Goëlo 
+# source = Le Bayon (1878)
+1	o	particule_o	?	_	_	_	_	_	Gloss=à
 2	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	/	/	?	_	_	_	_	_	Gloss=
 5	??	??	?	_	_	_	_	_	Gloss=
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
-7	e	e	?	_	_	_	_	_	Gloss=R
+7	e	e	verbe	_	_	_	_	_	Gloss=R
 8	varve	mervel	verbe	_	_	_	_	_	Gloss=mourait
-9	an	art	?	_	_	_	_	_	Gloss=le
-10	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
-11	'	'	?	_	_	_	_	_	Gloss=
-12	'	'	?	_	_	_	_	_	Gloss=?
-13	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=?
-14	Standard'	Standard'	?	_	_	_	_	_	Gloss=?
-15	'	'	?	_	_	_	_	_	Gloss=?
-16			PUNCT	_	_	_	_	Gloss=punct
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
+11	Équivalent	Équivalent	?	_	_	_	_	_	Gloss=
+12	Standard	Standard	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Bouzec & al. (2017:12)__1
+# sent_id = Bouzec&al.(2017:12)__1
 # text = 'ma-hi 'nheuñal.
 # text_fr = 'Elle nage.'
+# source = Le Bayon (1878)
 1	'	'	?	_	_	_	_	_	Gloss=Emañ-hi
 2	ma-hi	ma-hi	?	_	_	_	_	_	Gloss=o
 3	'	'	?	_	_	_	_	_	Gloss=neuial.
 4	nheuñal.	nheuñal.	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Bouzec & al. (2017:47)__2
+# sent_id = Bouzec&al.(2017:47)__2
 # text = Bet ê bét yoñ ' lhabour' ba didan 'n amz'r.
 # text_fr = 'Il a travaillé sous les intempéries.'
+# source = Le Bayon (1878)
 1	Bet	Bet	?	_	_	_	_	_	Gloss=Bet
-2	ê	ê	verbe-auxiliaire	_	_	_	_	_	Gloss=eo
+2	ê	ê	verbe|auxiliaire	_	_	_	_	_	Gloss=eo
 3	bét	bét	?	_	_	_	_	_	Gloss=bet
 4	yoñ	yoñ	?	_	_	_	_	_	Gloss=
 5	'	'	?	_	_	_	_	_	Gloss=o

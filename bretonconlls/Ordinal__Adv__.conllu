@@ -1,27 +1,31 @@
 # sent_id = Gros(1989:'brao')__1
 # text = N'eo ket brao beza ordinal euz ar gêr.
 # text_fr = 'Il n'est pas convenable d'être toujours absent de chez soi.'
-# source = Gros (1989)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	brao	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	beza	bezañ	?	_	_	_	_	_	Gloss=être
-6	ordinal	ordinal	?	_	_	_	_	_	Gloss=toujours
-7	euz	eus	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Morph=1
+4	brao	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+6	ordinal	ordinal	adjectif	_	_	_	_	_	Gloss=toujours
+7	euz	eus	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	gêr	kêr	nom	_	_	_	_	_	Gloss=foyer|Mutation=target|MutationNUM=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1970:157)__3
 # text = Penegwir me a veze mezo dezo ordinal.
 # text_fr = 'Puisque j'étais toujours ivre, selon eux.'
-# source = Gros (1970)
-1	Penegwir	penegwir	?	_	_	_	_	_	Gloss=puisque
-2	me	pfi	?	_	_	_	_	_	Gloss=moi
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
+1	Penegwir	penegwir	complémenteur	_	_	_	_	_	Gloss=puisque
+2	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+4	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 5	mezo	mezv	adjectif	_	_	_	_	_	Gloss=saoul
-6	dezo	pronomincorporé	?	_	_	_	_	_	Gloss=eux
-7	ordinal	ordinal	?	_	_	_	_	_	Gloss=ordinairement
+6	dezo	pronom_incorporé	?	_	_	_	_	_	Gloss=eux
+7	ordinal	ordinal	adjectif	_	_	_	_	_	Gloss=ordinairement
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

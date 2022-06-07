@@ -1,26 +1,28 @@
 # sent_id = Bannoù-Heol(2000:36)__1
 # text = Ouaou ! Nag a stered !
 # text_fr = 'Whahou ! Il y a tellement d'étoiles !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Ouaou	Ouaou	?	_	_	_	_	_	Gloss=Whahou
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
 4	Nag	na(g)	complémenteur	_	_	_	_	_	Gloss=que
-5	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 6	stered	stered	nom	_	_	_	_	_	Gloss=étoiles
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bannoù-Heol(2000:14)__1
 # text = Ouow ! Cheñchet eo hor paotr-lizheroù !
 # text_fr = 'Whow ! Voilà notre postier bien changé !'
+# dialect = Standard
 # source = Bannoù-Heol (2000)
 # texttype = Références de corpus
 1	Ouow	Ouow	?	_	_	_	_	_	Gloss=Whow
 2			?	_	_	_	_	_	Gloss=!
 3	!	!	PUNCT	_	_	_	_	Gloss=punct
-4	Cheñchet	cheñch.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=chang.é
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	hor	POSS	?	_	_	_	_	_	Gloss=notre
-7	paotr-lizheroù	paotr.lizher.-où(PL.)	nom.nom.?	_	_	_	_	_	Gloss=gars.lettre.s
+4	Cheñchet	cheñch.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=chang.é
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
+6	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre
+7	paotr-lizheroù	paotr.lizher.-où_(PL.)	nom.nom.suffixe	_	_	_	_	_	Gloss=gars.lettre.s
 8	!	!	PUNCT	_	_	_	_	Gloss=punct

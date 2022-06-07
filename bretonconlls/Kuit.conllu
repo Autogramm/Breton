@@ -5,10 +5,10 @@
 # source = Seite (1975)
 # texttype = Ouvrages pédagogiques
 1	Poent	poent	nom	_	_	_	_	_	Gloss=temps
-2	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-5	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+2	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+5	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 6	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 7	kuit	kuit	postposition	_	_	_	_	_	Gloss=particule
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -16,16 +16,18 @@
 # sent_id = Herrieu(1994:157)__1
 # text = Ar peoc'h, siwazh ! en deus hor c'huitaet !
 # text_fr = 'La paix, malheureusement, nous a quittés !'
-# source = Herrieu (1994)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	siwazh	siwazh	interjection-adverbe	_	_	_	_	_	Gloss=malheureusement
+4	siwazh	siwazh	adverbe|interjection	_	_	_	_	_	Gloss=malheureusement
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
-7	deus	kaout	?	_	_	_	_	_	Gloss=a
-8	hor	POP	?	_	_	_	_	_	Gloss=nous
-9	c'huitaet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+7	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+8	hor	POP	pronom	_	_	_	_	_	Gloss=nous
+9	c'huitaet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:79).__6
@@ -34,13 +36,13 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-4	er	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
+1	P'	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+4	er	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
 5	maez,	maez,	?	_	_	_	_	_	Gloss=?
 6	partiet	partial	verbe	_	_	_	_	_	Gloss=parti
-7	al	art	?	_	_	_	_	_	Gloss=le
+7	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	loan	loen	nom	_	_	_	_	_	Gloss=bête
 9	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -51,37 +53,39 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	Chte	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	Chte	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	oeid	mont	verbe	_	_	_	_	_	Gloss=allé
-3	er	art	?	_	_	_	_	_	Gloss=le
+3	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	siren	siren	?	_	_	_	_	_	Gloss=sirène
 5	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
-6	te	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+6	te	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	greisnouz	kreiz.noz	nom.nom	_	_	_	_	_	Gloss=milieu.nuit
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:74)__1
 # text = Ma ne vijen ket redet kuit…
 # text_fr = 'Si je ne m'étais pas enfui... '
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
-1	Ma	ma(r)	?	_	_	_	_	_	Gloss=si|Morph=4
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	vijen	COP	?	_	_	_	_	_	Gloss=étais
+1	Ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si|Mutation=trigger|MutationNUM=4
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	vijen	COP	verbe	_	_	_	_	_	Gloss=étais
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 5	redet	redek	verbe	_	_	_	_	_	Gloss=couru
 6	kuit…	postpositions	postposition	_	_	_	_	_	Gloss=parti
 
-# sent_id = Evenou (1987:575)__4
+# sent_id = Evenou(1987:575)__4
 # text = Int a ouie pegiz (e)c'h oa-eñ bet deuet kuit.
 # text_fr = 'Eux savaient comment il était parti.'
-# text_phon = ['[he', 'wije', 'pig̈is', "wa'@'@hô'@'@ be", 'daj c̈wiT]']
-1	Int	pfi	?	_	_	_	_	_	Gloss=eux
+# text_phon = he wije pig̈is wahô be daj c̈wiT 
+# source = Drezen (1990)
+1	Int	pfi	pronom	_	_	_	_	_	Gloss=eux
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+3	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
 4	pegiz	pegiz	complémenteur	_	_	_	_	_	Gloss=comment
 5	(e)c'h	(e)c'h	?	_	_	_	_	_	Gloss=R
-6	oa-eñ	COP	?	_	_	_	_	_	Gloss=était
+6	oa-eñ	COP	verbe	_	_	_	_	_	Gloss=était
 7	bet	bet	?	_	_	_	_	_	Gloss=ptc
 8	deuet	deuet	?	_	_	_	_	_	Gloss=venu
 9	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
@@ -93,15 +97,15 @@
 # dialect = Léonard
 # source = Y. M. (04/2016b)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-se	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-se	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	houie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-5	penaos	penaos	adverbe-complémenteur	_	_	_	_	_	Gloss=comment
-6	edo	COP	?	_	_	_	_	_	Gloss=était
+4	houie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+5	penaos	penaos	adverbe|complémenteur	_	_	_	_	_	Gloss=comment
+6	edo	COP	verbe	_	_	_	_	_	Gloss=était
 7	eat	mont	verbe	_	_	_	_	_	Gloss=allé
 8	/[[*]]	/[[*]]	?	_	_	_	_	_	Gloss=/
-9	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
+9	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
 10	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -111,16 +115,16 @@
 # dialect = Cornouaillais
 # source = Fagon & Riou (2015)
 # texttype = Ouvrages de recherche
-1	ar	art	?	_	_	_	_	_	Gloss=le
-2	c'helien	kelien	nom	_	_	_	_	_	Gloss=mouche]].[[nomcollectif|s|Morph=5
-3	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-4	tigori	digeriñ	?	_	_	_	_	_	Gloss=ouvrir
-5	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	c'helien	kelien	nom	_	_	_	_	_	Gloss=mouche]].[[nom_collectif|s|Mutation=target|MutationNUM=5
+3	o	particule_o	?	_	_	_	_	_	Gloss=à
+4	tigori	digeriñ	verbe	_	_	_	_	_	Gloss=ouvrir
+5	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 6	askellou	askellou	?	_	_	_	_	_	Gloss=ailes
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 9	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-10	e	P.e	?	_	_	_	_	_	Gloss=en
+10	e	P.e	préposition	_	_	_	_	_	Gloss=en
 11	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -130,25 +134,25 @@
 # dialect = Cornouaillais
 # source = Kersulec (2016)
 # texttype = Ouvrages de recherche
-1	Marg	ma(r)	?	_	_	_	_	_	Gloss=si
-2	edot	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=es
-3	é	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-4	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+1	Marg	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
+2	edot	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=es
+3	é	particule_o	?	_	_	_	_	_	Gloss=à
+4	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 5	tan	tan	nom	_	_	_	_	_	Gloss=feu
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-8	on	art	?	_	_	_	_	_	Gloss=un
+7	en	P.e	préposition	_	_	_	_	_	Gloss=en
+8	on	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	oaled	oaled	nom	_	_	_	_	_	Gloss=foyer
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	e	e	?	_	_	_	_	_	Gloss=R
+11	e	e	verbe	_	_	_	_	_	Gloss=R
 12	eallez	gallout	verbe	_	_	_	_	_	Gloss=peux
 13	tenna	tennañ	verbe	_	_	_	_	_	Gloss=tirer
-14	ar	art	?	_	_	_	_	_	Gloss=le
-15	c'hoad	koad	nom	_	_	_	_	_	Gloss=bois|Morph=5
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+15	c'hoad	koad	nom	_	_	_	_	_	Gloss=bois|Mutation=target|MutationNUM=5
 16	e-kuit	e-kuit	?	_	_	_	_	_	Gloss=parti
-17	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+17	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 18	gouzia	gouzia	?	_	_	_	_	_	Gloss=baisser
-19	an	art	?	_	_	_	_	_	Gloss=le
+19	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 20	tan	tan	nom	_	_	_	_	_	Gloss=feu
 21	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -158,25 +162,26 @@
 # dialect = Cornouaillais
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+1	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 2	Ba'	Ba'	?	_	_	_	_	_	Gloss=?
 3			PUNCT	_	_	_	_	Gloss=punct
 4	"kuit"	"kuit"	?	_	_	_	_	_	Gloss="kuit"
 5	n'	n'	?	_	_	_	_	_	Gloss=ne
-6	eus	E	?	_	_	_	_	_	Gloss=y.a
+6	eus	E	verbe	_	_	_	_	_	Gloss=y.a
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 8	boued	boued	nom	_	_	_	_	_	Gloss=nourriture
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Favereau (1984:438)__1
+# sent_id = Favereau(1984:438)__1
 # text = ha 'na evet an dour kuit !
 # text_fr = '... et il avait bu toute l'eau !'
 # source2 =  Poullaouen, locuteur né vers 1910
-1	ha	&	?	_	_	_	_	_	Gloss=et
-2	'	kaout	?	_	_	_	_	_	Gloss=avait
+# source = Bouzeg (1986)
+1	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 3	na	na	?	_	_	_	_	_	Gloss=?
 4	evet	evañ	verbe	_	_	_	_	_	Gloss=bu
-5	an	art	?	_	_	_	_	_	Gloss=le
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	dour	dour	nom	_	_	_	_	_	Gloss=eau
 7	kuit	kuit	postposition	_	_	_	_	_	Gloss=parti
 8	!	!	PUNCT	_	_	_	_	Gloss=punct

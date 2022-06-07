@@ -2,25 +2,27 @@
 # text = Do meleudy bede à steret
 # text_fr = '[pour] vous louer jusqu’aux étoiles'
 # source = EFP
+# texttype = Références de corpus
 1	meleudy	meuleudiñ	?	_	_	_	_	_	Gloss=louer
-2	bede	betek	préposition-complémenteur	_	_	_	_	_	Gloss=jusqu'@à
-3	à	art	?	_	_	_	_	_	Gloss=le
+2	bede	betek	complémenteur|préposition	_	_	_	_	_	Gloss=jusqu'@à
+3	à	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	steret	steret	?	_	_	_	_	_	Gloss=étoiles
 
-# sent_id = Le Berre & Le Dû (1999:38)__1
+# sent_id = LeBerre&LeDû(1999:38)__1
 # text = N'ema ked ar momed da chom da gousked barz liñseliou sant Per!
 # text_fr = > 'Il fait trop froid pour dormir à la belle étoile.'
+# source = EFP
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	ema	COP	?	_	_	_	_	_	Gloss=est
+2	ema	COP	verbe	_	_	_	_	_	Gloss=est
 3	ked	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	ar	art	?	_	_	_	_	_	Gloss=le
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	momed	momed	?	_	_	_	_	_	Gloss=moment
-6	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 9	gousked	kousk	verbe	_	_	_	_	_	Gloss=dormir
-10	barz	P.e	?	_	_	_	_	_	Gloss=en
-11	liñseliou	liñsel.-ioù(PL.)	?.?	_	_	_	_	_	Gloss=drap.s
+10	barz	P.e	préposition	_	_	_	_	_	Gloss=en
+11	liñseliou	liñsel.-ioù_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=drap.s
 12	sant	sant	nom	_	_	_	_	_	Gloss=saint
 13	Per	Per	nom	_	_	_	_	_	Gloss=Pierre
 14	!	!	PUNCT	_	_	_	_	Gloss=punct

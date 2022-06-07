@@ -1,57 +1,60 @@
 # sent_id = Drezen(1990:70)__1
 # text = Dav eo debriñ, a-dra-sur ; maget e rank ar c'horf bezañ.
 # text_fr = 'Il faut manger, bien sûr, le corps doit être nourri.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Dav	Dav	adjectif	_	_	_	_	_	Gloss=obligé
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	debriñ	debriñ	verbe	_	_	_	_	_	Gloss=manger
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	a-dra-sur	a-dra-sur	adverbe	_	_	_	_	_	Gloss=à-chose-sur
 6	;	;	PUNCT	_	_	_	_	Gloss=punct
-7	maget	magañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=nourr.i
-8	e	e	?	_	_	_	_	_	Gloss=R
+7	maget	magañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=nourr.i
+8	e	e	verbe	_	_	_	_	_	Gloss=R
 9	rank	rankout	verbe	_	_	_	_	_	Gloss=doit
-10	ar	art	?	_	_	_	_	_	Gloss=le
-11	c'horf	korf	nom	_	_	_	_	_	Gloss=corps|Morph=5
-12	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	c'horf	korf	nom	_	_	_	_	_	Gloss=corps|Mutation=target|MutationNUM=5
+12	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Evenou (1987:576)__2
+# sent_id = Evenou(1987:576)__2
 # text = Veze dav dezhañ lavarout evit peseurt rezon 'veze-eñ o v-bale d'an eur-se.
 # text_fr = 'Il devait dire pour quelle raison il se promenait à cette heure.'
-# text_phon = ['[ wize', 'dòw', 'dô', 'la:', 'wi', 'pəsə', 'se:zOn', 'wizehô', '(o) falə', 'de n', 'ə:r-sə   ]']
-1	Veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+# text_phon =  wize dòw dô la: wi pəsə se:zOn wizehô (o) falə de n ə:r-sə    
+# source = Drezen (1990)
+1	Veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 2	dav	dav	adjectif	_	_	_	_	_	Gloss=dû
-3	dezhañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+3	dezhañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 4	lavarout	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-6	peseurt	wh	?	_	_	_	_	_	Gloss=quelle.sorte
+5	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+6	peseurt	wh	pronom	_	_	_	_	_	Gloss=quelle.sorte
 7	rezon	rezon	?	_	_	_	_	_	Gloss=raison
-8	'	vez.écho	verbe-auxiliaire.?	_	_	_	_	_	Gloss=était.lui
+8	'	vez.écho	verbe|auxiliaire.?	_	_	_	_	_	Gloss=était.lui
 9	veze-eñ	veze-eñ	?	_	_	_	_	_	Gloss=?
-10	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+10	o	particule_o	?	_	_	_	_	_	Gloss=à
 11	v-bale	bale	verbe	_	_	_	_	_	Gloss=marcher
 12	d'	da	préposition	_	_	_	_	_	Gloss=à
-13	an	art	?	_	_	_	_	_	Gloss=le
+13	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	eur-se	eur	nom	_	_	_	_	_	Gloss=heure
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Burel (2012:38)__1
-# text = Dav eo deomp en em gonsoliñ kar rannañ a raimp hor c'halon. ''Équivalent standardisé''
+# sent_id = Burel(2012:38)__1
+# text = Dav eo deomp en em gonsoliñ kar rannañ a raimp hor c'halon. Équivalent standardisé
 # text_fr = 'Nous devons nous consoler parce que nos cœurs finiront par se briser.'
-# text_phon = ['Da êo', 'déomp', 'èném', 'gonsoli,', 'kar ranna', 'â réïmp', 'or cxxxhalon.']
+# text_phon = Da êo déomp èném gonsoli, kar ranna â réïmp or cxxxhalon. 
+# source = Drezen (1990)
 1	Dav	Dav	adjectif	_	_	_	_	_	Gloss=dû
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	deomp	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
-4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	deomp	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.nous
+4	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 5	em	em	?	_	_	_	_	_	Gloss=?
 6	gonsoliñ	gonsoliñ	?	_	_	_	_	_	Gloss=consoler
-7	kar	kar	?	_	_	_	_	_	Gloss=car
+7	kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 8	rannañ	rannañ	verbe	_	_	_	_	_	Gloss=diviser
 9	a	a	préposition	_	_	_	_	_	Gloss=R
-10	raimp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferons
-11	hor	POSS	?	_	_	_	_	_	Gloss=notre|Morph=5
+10	raimp	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferons
+11	hor	POSS	déterminant	_	_	_	_	_	Gloss=notre|Mutation=trigger|MutationNUM=5
 12	c'halon	kalon	nom	_	_	_	_	_	Gloss=cœur
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -61,21 +64,22 @@
 # source = Drezen (1932)
 # texttype = Références de corpus
 1	Da	Da	préposition	_	_	_	_	_	Gloss=dû
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-4	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
-5	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-6	Naoned	nompropre	?	_	_	_	_	_	Gloss=Nantes
-7	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+5	en	P.e	préposition	_	_	_	_	_	Gloss=en
+6	Naoned	nom_propre	?	_	_	_	_	_	Gloss=Nantes
+7	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 8	kreisteiz	kreiz.deiz	nom.nom	_	_	_	_	_	Gloss=mi.jour
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id =  [http://pagesperso-orange.fr/rbg/dastest/ transcription de l'enregistrement] par Mona Bouzeg__1
+# sent_id = [http://pagesperso-orange.fr/rbg/dastest/transcriptiondel'enregistrement]parMonaBouzeg__1
 # text = Ne oa ket dav  lârout lar' oa flaer.
 # text_fr = 'Fallait pas dire qu'il sentait mauvais.'
 # source2 =  Coray, Pêr Bras en 1977
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+# source = Drezen (1932)
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	dav	dav	adjectif	_	_	_	_	_	Gloss=dû
 5	??	??	?	_	_	_	_	_	Gloss=[
@@ -83,7 +87,7 @@
 7	lârout	lavarout	verbe	_	_	_	_	_	Gloss=dire
 8	lar'	la(r)	complémenteur	_	_	_	_	_	Gloss=que
 9			PUNCT	_	_	_	_	Gloss=punct
-10	oa	COP	?	_	_	_	_	_	Gloss=était
+10	oa	COP	verbe	_	_	_	_	_	Gloss=était
 
 # sent_id = Bouzec&al.(2017:23)__1
 # text = 'ma daw gortoz
@@ -91,7 +95,7 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 3	daw	daw	?	_	_	_	_	_	Gloss=dû
 4	gortoz	gortoz	verbe	_	_	_	_	_	Gloss=attendre
@@ -103,19 +107,19 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	Benn	a-benn	préposition-complémenteur	_	_	_	_	_	Gloss=quand
-2	po	kaout	?	_	_	_	_	_	Gloss=auras
-3	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
+1	Benn	a-benn	complémenteur|préposition	_	_	_	_	_	Gloss=quand
+2	po	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=auras
+3	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
 4	kein	kein	nom	_	_	_	_	_	Gloss=dos
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	'	COP	?	_	_	_	_	_	Gloss=sera
+6	'	COP	verbe	_	_	_	_	_	Gloss=sera
 7			PUNCT	_	_	_	_	Gloss=punct
 8	vo	vo	?	_	_	_	_	_	Gloss=?
 9	dav	dav	adjectif	_	_	_	_	_	Gloss=dû
-10	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+10	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-12	ho	POSS	?	_	_	_	_	_	Gloss=vos|Morph=3
-13	kourvo	gourvez.-où(PL.)	nom.?	_	_	_	_	_	Gloss=allongé.s
+12	ho	POSS	déterminant	_	_	_	_	_	Gloss=vos|Mutation=trigger|MutationNUM=3
+13	kourvo	gourvez.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=allongé.s
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Thibault(1914:191)__1
@@ -126,25 +130,26 @@
 # texttype = Ouvrages de recherche
 1	pasemant	pasemant	préposition	_	_	_	_	_	Gloss=pas.seulement
 2	mi	ma	complémenteur	_	_	_	_	_	Gloss=que
-3	hon	COP	?	_	_	_	_	_	Gloss=suis
+3	hon	COP	verbe	_	_	_	_	_	Gloss=suis
 4	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
-5	i	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+5	i	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 6	ma	dav	adjectif	_	_	_	_	_	Gloss=ø
-7	tein	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
+7	tein	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.moi
 8	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Goyat (2012:276)__1
+# sent_id = Goyat(2012:276)__1
 # text = Ne oa ket dezañ beza greet an dra-ze.
 # text_fr = 'Il n'aurait pas dû faire cela.'
-# text_phon = ['', '/va', 'ke', "'@dɛ", 'be', 'ˌɡɥɛd', "ãn '@dra hɛ/"]
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne
-2	oa	COP	?	_	_	_	_	_	Gloss=était
-3	dezañ	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
-4	beza	bezañ	?	_	_	_	_	_	Gloss=être
-5	greet	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	dra-ze	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Morph=1
+# text_phon =  /va ke '@dɛ be ˌɡɥɛd ãn '@dra hɛ/ 
+# source = Thibault (1914)
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
+3	dezañ	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+4	beza	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+5	greet	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	dra-ze	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|là|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArFloc'h(1985:142)__1
@@ -152,14 +157,14 @@
 # text_fr = 'Si mon animal doit mourir, il mourra... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Ma'	ma(r)	?	_	_	_	_	_	Gloss=si
+1	Ma'	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 2	z	z	?	_	_	_	_	_	Gloss=?
-3	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-4	am	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+3	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+4	am	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	loen	loen	nom	_	_	_	_	_	Gloss=animal
 6	mervel	mervel	verbe	_	_	_	_	_	Gloss=mourir
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+8	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 9	varvo..	mervel	verbe	_	_	_	_	_	Gloss=mourra
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -167,23 +172,25 @@
 # text = Diouzh an oberoù eo barn an dud.
 # text_fr = Il faut juger les gens par leurs actes.'
 # source = KAV.
+# texttype = Références de corpus
 1	Diouzh	diouzh	préposition	_	_	_	_	_	Gloss=selon
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	oberoù	ober.-où(PL.)	verbe-auxiliaire.?	_	_	_	_	_	Gloss=acte.s
-4	barn	barn	?	_	_	_	_	_	Gloss=juger
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	oberoù	ober.-où_(PL.)	verbe|auxiliaire.suffixe	_	_	_	_	_	Gloss=acte.s
+4	barn	barn	verbe	_	_	_	_	_	Gloss=juger
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeGléau(1973:42)__2
 # text = Neket er goañv eo mont da glask bleuñv.
 # text_fr = 'Ce n'est pas en hiver qu'il faut chercher des fleurs.'
 # source = BAL.
-1	Neket	Neket.COP.ket	?.?.adverbe	_	_	_	_	_	Gloss=ne.est.pas
-2	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+# texttype = Références de corpus
+1	Neket	Neket.COP.ket	?.verbe.adverbe	_	_	_	_	_	Gloss=ne.est.pas
+2	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 3	goañv	goañv	nom	_	_	_	_	_	Gloss=hiver
 4	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-5	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 6	glask	klask	verbe	_	_	_	_	_	Gloss=chercher
 7	bleuñv	bleuñ	nom	_	_	_	_	_	Gloss=fleurs
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -194,13 +201,13 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	dav	dav	adjectif	_	_	_	_	_	Gloss=obligé
-5	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-6	bezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	bezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 7	nec'het	nec'het	?	_	_	_	_	_	Gloss=inquiet
-8	gant	gant	?	_	_	_	_	_	Gloss=par
-9	an	art	?	_	_	_	_	_	Gloss=le
+8	gant	gant	préposition	_	_	_	_	_	Gloss=par
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	istor-se	istor	nom	_	_	_	_	_	Gloss=histoire
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

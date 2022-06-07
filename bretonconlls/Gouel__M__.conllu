@@ -4,24 +4,25 @@
 # source = Menard & Kadored (2001)
 # texttype = Ouvrages de recherche
 1	Dereat	dereat	adjectif	_	_	_	_	_	Gloss=convenable
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	ma	ma(r)	?	_	_	_	_	_	Gloss=que|Morph=4
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 4	teufec'h	dont	verbe	_	_	_	_	_	Gloss=veniez
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	ar	art	?	_	_	_	_	_	Gloss=le
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	gouel	gouel	?	_	_	_	_	_	Gloss=fête
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:452)__2
+# sent_id = Avezard-Roger(2004a:452)__2
 # text = evit un deiz-ha-bloaz peotramant evit ur gouel
 # text_fr = 'pour un anniversaire ou pour une fête'
-# text_phon = ['[ vid', 'u deabla', 'petʁam', 'evid', 'u  gwil ]']
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-2	un	art	?	_	_	_	_	_	Gloss=un
+# text_phon =  vid u deabla petʁam evid u  gwil  
+# source = Menard & Kadored (2001)
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+2	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 3	deiz-ha-bloaz	deiz	nom	_	_	_	_	_	Gloss=jour
-4	peotramant	peotramant	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-5	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
-6	ur	art	?	_	_	_	_	_	Gloss=un
+4	peotramant	peotramant	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
+5	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 7	gouel	gouel	?	_	_	_	_	_	Gloss=fête
 
 # sent_id = Seite(1998:22)__1
@@ -30,16 +31,16 @@
 # dialect = Léonard
 # source = Seite (1998)
 # texttype = Références de corpus
-1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
+1	Amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	war	war	?	_	_	_	_	_	Gloss=sur
+3	war	war	préposition	_	_	_	_	_	Gloss=sur
 4	gern	gern	?	_	_	_	_	_	Gloss=hauteur
 5	Menez-Hom	Menez-Hom	?	_	_	_	_	_	Gloss=Menez
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	eur	art	nom	_	_	_	_	_	Gloss=un
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	gouél	gouél	?	_	_	_	_	_	Gloss=fête
-10	braz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+10	braz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 11	,	,	PUNCT	_	_	_	_	Gloss=punct
 12	bep	pep	quantifieur	_	_	_	_	_	Gloss=chaque
 13	ploaz	bloaz	nom	_	_	_	_	_	Gloss=an

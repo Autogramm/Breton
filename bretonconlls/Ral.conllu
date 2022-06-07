@@ -5,18 +5,18 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Miz	miz	?	_	_	_	_	_	Gloss=mois
-2	mae	miz	?	_	_	_	_	_	Gloss=mai
-3	ha	&	?	_	_	_	_	_	Gloss=et
-4	miz	miz	?	_	_	_	_	_	Gloss=mois
-5	Even	even	?	_	_	_	_	_	Gloss=juin
+1	Miz	miz	nom	_	_	_	_	_	Gloss=mois
+2	mae	miz	nom	_	_	_	_	_	Gloss=mai
+3	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+4	miz	miz	nom	_	_	_	_	_	Gloss=mois
+5	Even	even	nom	_	_	_	_	_	Gloss=juin
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ral	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rare
+7	ral	ral	adverbe|adjectif	_	_	_	_	_	Gloss=rare
 8	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 10	reverdioù	reverdioù	?	_	_	_	_	_	Gloss=marées
-11	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
-12	kement	kement	quantifieur-déterminant	_	_	_	_	_	Gloss=autant
+11	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
+12	kement	kement	déterminant|quantifieur	_	_	_	_	_	Gloss=autant
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lozac'h(2014:'dañjer')__1
@@ -25,16 +25,16 @@
 # location = Cleden
 # source = Lozach (2014)
 1	Rar	Rar	?	_	_	_	_	_	Gloss=rare
-2	é	COP	?	_	_	_	_	_	Gloss=est
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	beïsanted	beïsanted.-ed(PL.)	?.?	_	_	_	_	_	Gloss=1.s
+2	é	COP	verbe	_	_	_	_	_	Gloss=est
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	beïsanted	beïsanted.-ed_(PL.)	?.suffixe	_	_	_	_	_	Gloss=1.s
 5	lar	la(r)	complémenteur	_	_	_	_	_	Gloss=que
 6	lakègn	lakaat	verbe	_	_	_	_	_	Gloss=mettaient
-7	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+7	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 8	saout	saout	nom	_	_	_	_	_	Gloss=vaches
-9	war	war	?	_	_	_	_	_	Gloss=sur
-10	'	art	?	_	_	_	_	_	Gloss=le
-11	r	r	?	_	_	_	_	_	Gloss=?
+9	war	war	préposition	_	_	_	_	_	Gloss=sur
+10	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+11	r	r	particules verbale	_	_	_	_	_	Gloss=?
 12	melchen-glas	melchon	nom	_	_	_	_	_	Gloss=trèfle
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -45,14 +45,14 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'hoefoù	koef	nom	_	_	_	_	_	Gloss=coiffe]].[[-où(PL.)|s|Morph=5
-4	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	c'hoefoù	koef	nom	_	_	_	_	_	Gloss=coiffe]].[[-où_(PL.)|s|Mutation=target|MutationNUM=5
+4	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	vezent	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étaient
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	lakeat	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-8	ral	ral	adverbe-adjectif	_	_	_	_	_	Gloss=rarement
-9	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+7	lakeat	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+8	ral	ral	adverbe|adjectif	_	_	_	_	_	Gloss=rarement
+9	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 10	hañv	hañv	nom	_	_	_	_	_	Gloss=été
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,13 +1,15 @@
 # sent_id = Gros(1984:360)__4
 # text = Bremañ e vez lakaet nebeud a irvin doureg.
 # text_fr = 'Maintenant on cultive peu de navets aqueux (blancs).'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
 5	nebeud	nebeut	quantifieur	_	_	_	_	_	Gloss=peu
-6	a	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	irvin	irvin	nom	_	_	_	_	_	Gloss=navets
-8	doureg	dour.-ek	nom.?	_	_	_	_	_	Gloss=aqu.eux
+8	doureg	dour.-ek	nom.suffixe|adjectif	_	_	_	_	_	Gloss=aqu.eux
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

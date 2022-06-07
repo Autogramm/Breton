@@ -1,10 +1,10 @@
 # sent_id = Riec,MonaBouzeg,c.p.(01/2009)__1
 # text = An nen ne oar ket bepred.
 # text_fr = 'On ne sait pas toujours.'
-1	An	IMP	?	_	_	_	_	_	Gloss=on
+1	An	IMP	pronom	_	_	_	_	_	Gloss=on
 2	nen	nen	?	_	_	_	_	_	Gloss=?
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	oar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	oar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	bepred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -12,30 +12,34 @@
 # sent_id = (Gros1984:29)__1
 # text = An hini e-neus c'hoant da vezañ brevet 'n-eus ken dond er-mêz ganin-me !
 # text_fr = 'Celui qui veut être broyé n'a qu'à venir dehors avec moi !'
-# source = Gros (1984)
-1	An	art	?	_	_	_	_	_	Gloss=le
-2	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
-3	e-neus	kaout	?	_	_	_	_	_	Gloss=a
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
+3	e-neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	c'hoant	c'hoant	?	_	_	_	_	_	Gloss=envie
-5	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-6	vezañ	bezañ	?	_	_	_	_	_	Gloss=être
+5	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+6	vezañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 7	brevet	brevet	?	_	_	_	_	_	Gloss=broyé
-8	'	'	?	_	_	_	_	_	Gloss=ne|Morph=1
-9	n-eus	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=que
-10	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=?
+8	'	'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+9	n-eus	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=que
+10	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=?
 11	dond	dont	verbe	_	_	_	_	_	Gloss=venir
-12	er-mêz	er-maez	préposition-postposition	_	_	_	_	_	Gloss=dehors
-13	ganin-me	gant.pronomincorporé.écho	?.?.?	_	_	_	_	_	Gloss=avec.moi.moi
+12	er-mêz	er-maez	préposition|postposition	_	_	_	_	_	Gloss=dehors
+13	ganin-me	gant.pronom_incorporé.écho	préposition.?.?	_	_	_	_	_	Gloss=avec.moi.moi
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kerrien(2000:18)__1
 # text = N'eus ken arne !
 # text_fr = 'Il n'y a plus d'orage !'
+# dialect = Léonard
 # location = St Thégonnec
-# source = Kerrien (2000)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	E	?	_	_	_	_	_	Gloss=y.a
-3	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=plus
+# source = Kerrien (1926)
+# texttype = Références de corpus
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	E	verbe	_	_	_	_	_	Gloss=y.a
+3	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=plus
 4	arne	arnev	nom	_	_	_	_	_	Gloss=orage
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -44,9 +48,9 @@
 # text_fr = 'Pour que Yann n'oublie pas.'
 # source = Tallerman (1997)
 # texttype = Ouvrages de recherche
-1	abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=à.cause.de
+1	abalamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=à.cause.de
 2	da	da	préposition	_	_	_	_	_	Gloss=de
-3	Yann	nompropre	?	_	_	_	_	_	Gloss=Yann
+3	Yann	nom_propre	?	_	_	_	_	_	Gloss=Yann
 4	nompas	nompas	?	_	_	_	_	_	Gloss=NEG
 5	ankouaad..	ankounac'haat	?	_	_	_	_	_	Gloss=oublier
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

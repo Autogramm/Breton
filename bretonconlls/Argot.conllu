@@ -4,9 +4,9 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	Emaoun	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=suis
-2	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Emaoun	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=suis
+2	o	particule_o	?	_	_	_	_	_	Gloss=à
 3	komañs	komañs	verbe	_	_	_	_	_	Gloss=commencer
 4	pakañ	pakañ	verbe	_	_	_	_	_	Gloss=attraper
-5	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+5	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,29 +1,30 @@
-# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__4
+# sent_id = Scaër/Bannalec,H.Gaudart(04/2016b)__5
 # text = Benn 'vez prenet un azen e vez dav gober war e dro, mallestoupen !
 # text_fr = 'Quand on achète un âne on s'en occupe, sacrebleu!'
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=acheté
+1	'	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=acheté
 3	prenet	prenet	?	_	_	_	_	_	Gloss=?
-4	un	art	?	_	_	_	_	_	Gloss=un
+4	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 5	azen	azen	nom	_	_	_	_	_	Gloss=âne
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 8	dav	dav	adjectif	_	_	_	_	_	Gloss=obligé
-9	gober	gober	?	_	_	_	_	_	Gloss=faire
-10	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-12	dro	tro	préposition-nom	_	_	_	_	_	Gloss=tour
+9	gober	gober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+10	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+12	dro	tro	préposition|nom	_	_	_	_	_	Gloss=tour
 13	,	,	PUNCT	_	_	_	_	Gloss=punct
-14	mallestoupen	mallestoupen	?	_	_	_	_	_	Gloss=sacrebleu
+14	mallestoupen	mallestoupen	interjection	_	_	_	_	_	Gloss=sacrebleu
 15	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Borsley&al.(2007:12)__1
 # text = Gwnaeth Elin brynu torth o fara.
 # text_fr = 'Elin a acheté une miche da pain.'
-# source = Borsley & al. (2007)
+# source = Borsley, Tallerman & Willis (2007)
+# texttype = Ouvrages de recherche
 1	Gwnaeth	Gwnaeth	?	_	_	_	_	_	Gloss=fit
 2	Elin	Elin	?	_	_	_	_	_	Gloss=Elin
 3	brynu	brynu	?	_	_	_	_	_	Gloss=acheter

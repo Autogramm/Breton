@@ -1,15 +1,15 @@
 # sent_id = Proverbe__1
 # text = Barner a zidamall torfed  'zo e-unan en em varned.
 # text_fr = 'Celui qui juge se juge lui-même.'
-1	Barner	barnañ.-er,-our	verbe.?	_	_	_	_	_	Gloss=jug.eur
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Barner	barnañ.-er,_-our	verbe.suffixe|nom	_	_	_	_	_	Gloss=jug.eur
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 3	torfed	torfed	nom	_	_	_	_	_	Gloss=méfait
-4	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+4	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
 6	'	zo	?	_	_	_	_	_	Gloss=est
 7	zo	zo	?	_	_	_	_	_	Gloss=?
-8	e-unan	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+8	e-unan	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	en	en	complémenteur	_	_	_	_	_	Gloss=1
 10	em	em	?	_	_	_	_	_	Gloss=?
-11	varned	barnañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=jug.é
+11	varned	barnañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=jug.é
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

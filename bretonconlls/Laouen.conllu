@@ -5,16 +5,16 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	oe	COP	?	_	_	_	_	_	Gloss=fut
-3	digaset	degas.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=envoy.é
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	helou-ze	keloù	?	_	_	_	_	_	Gloss=nouvelles]]-[[DEM|là|Morph=5
-6	dezi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	oe	COP	verbe	_	_	_	_	_	Gloss=fut
+3	digaset	degas.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=envoy.é
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	helou-ze	keloù	nom	_	_	_	_	_	Gloss=nouvelles]]-[[DEM|là|Mutation=target|MutationNUM=5
+6	dezi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	homañ	DEM	?	_	_	_	_	_	Gloss=celle-là
-9	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-10	oe	COP	?	_	_	_	_	_	Gloss=fut
+8	homañ	DEM	pronom	_	_	_	_	_	Gloss=celle-là
+9	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+10	oe	COP	verbe	_	_	_	_	_	Gloss=fut
 11	laouen	laouen	adjectif	_	_	_	_	_	Gloss=content
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -24,16 +24,16 @@
 # dialect = Trégorrois
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	vefen	COP	?	_	_	_	_	_	Gloss=serais
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	vefen	COP	verbe	_	_	_	_	_	Gloss=serais
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	drouklaouen	droug-	?	_	_	_	_	_	Gloss=mé
+4	drouklaouen	droug-	adjectif	_	_	_	_	_	Gloss=mé
 5	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-6	ho	POP	?	_	_	_	_	_	Gloss=vous|Morph=3
+6	ho	POP	pronom	_	_	_	_	_	Gloss=vous|Mutation=trigger|MutationNUM=3
 7	kwelout	gwelout	verbe	_	_	_	_	_	Gloss=voir
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-10	ennañ	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.lui
+10	ennañ	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.lui
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Burel(2012:204)__1
@@ -43,31 +43,31 @@
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	al	art	?	_	_	_	_	_	Gloss=le
-2	laouénédigues	-edigezh,-idigezh	?	_	_	_	_	_	Gloss=sfx
-3	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-4	voa	COP	?	_	_	_	_	_	Gloss=avait
+1	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	laouénédigues	-edigezh,_-idigezh	suffixe|nom	_	_	_	_	_	Gloss=sfx
+3	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	voa	COP	verbe	_	_	_	_	_	Gloss=avait
 5	diaguent	diagent	adverbe	_	_	_	_	_	Gloss=avant
-6	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-7	voa	COP	?	_	_	_	_	_	Gloss=avait
-8	troét	treiñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=tourn.é
-9	é	P.e	?	_	_	_	_	_	Gloss=en
-10	tristidigues..	trist.-edigezh,-idigezh	adjectif.?	_	_	_	_	_	Gloss=trist.esse
+6	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+7	voa	COP	verbe	_	_	_	_	_	Gloss=avait
+8	troét	treiñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=tourn.é
+9	é	P.e	préposition	_	_	_	_	_	Gloss=en
+10	tristidigues..	trist.-edigezh,_-idigezh	adjectif.suffixe|nom	_	_	_	_	_	Gloss=trist.esse
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Léon(Plougerneau),M-L.B.(02/2016)__1
-# text = Laouen e vez ar gouel pa deu [[nom propre|Yann]].
+# text = Laouen e vez ar gouel pa deu [[nom propre|Yann.
 # text_fr = 'La fête est joyeuse quand Yann vient.'
 # dialect = Léonard
 # location = Plougerneau
 # source = M-L. B. (02/2016)
 # texttype = Élicitations
 1	Laouen	Laouen	adjectif	_	_	_	_	_	Gloss=joyeux
-2	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-3	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	gouel	gouel(M.)	?	_	_	_	_	_	Gloss=fête
-6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
+2	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gouel	gouel_(M.)	?	_	_	_	_	_	Gloss=fête
+6	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
 7	deu	dont	verbe	_	_	_	_	_	Gloss=vient
-8	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
-9	propre|Yann]].	propre|Yann]].	?	_	_	_	_	_	Gloss=?
+8	[[nom	nom_propre	?	_	_	_	_	_	Gloss=Yann
+9	propre|Yann.	propre|Yann.	?	_	_	_	_	_	Gloss=?

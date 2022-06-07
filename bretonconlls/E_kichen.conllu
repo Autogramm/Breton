@@ -2,11 +2,11 @@
 # text = Lakait ho troadig e-kichen va hini.
 # text_fr = 'Mettez votre petit peton près du mien.'
 1	Lakait	lakaat	verbe	_	_	_	_	_	Gloss=mettez
-2	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
-3	troadig	troad.DIM	nom.?	_	_	_	_	_	Gloss=pied.petit
-4	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=près
-5	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-6	hini	hini	nom-pronom	_	_	_	_	_	Gloss=celui
+2	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
+3	troadig	troad.DIM	nom.DIM	_	_	_	_	_	Gloss=pied.petit
+4	e-kichen	e-kichen	adverbe|préposition	_	_	_	_	_	Gloss=près
+5	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+6	hini	hini	pronom|nom	_	_	_	_	_	Gloss=celui
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Giraudon(2014:17)__1
@@ -17,16 +17,16 @@
 # source = Giraudon (2014)
 # texttype = Ouvrages de recherche
 1	Kichen	Kichen	?	_	_	_	_	_	Gloss=côté
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-4	all	all	?	_	_	_	_	_	Gloss=autre
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+4	all	all	quantifieur|adjectif	_	_	_	_	_	Gloss=autre
 5	a	a	préposition	_	_	_	_	_	Gloss=R
 6	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
 7	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 8	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-9	ha	&	?	_	_	_	_	_	Gloss=et
+9	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 10	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-11	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+11	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 12	geneuta	keneud.-eta	nom.verbe	_	_	_	_	_	Gloss=bois.chercher
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,16 +35,16 @@
 # text_fr = 'Dans le parc à côté, ils jouent au foot l’après-midi.'
 # source = Y. M. (04/2016)
 # texttype = Élicitations
-1	E-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	E-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	park	park	nom	_	_	_	_	_	Gloss=parc
-4	e-kichen	e-kichen	préposition-adverbe	_	_	_	_	_	Gloss=à-côté
+4	e-kichen	e-kichen	adverbe|préposition	_	_	_	_	_	Gloss=à-côté
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	e	e	?	_	_	_	_	_	Gloss=R
-7	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-8	c'hoariet	c'hoari.-et(Adj.)	?.?	_	_	_	_	_	Gloss=jou.é
+6	e	e	verbe	_	_	_	_	_	Gloss=R
+7	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+8	c'hoariet	c'hoari.-et_(Adj.)	?.verbe|suffixe	_	_	_	_	_	Gloss=jou.é
 9	foot	foot	?	_	_	_	_	_	Gloss=foot
-10	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=après
+10	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=après
 11	lein	lein	nom	_	_	_	_	_	Gloss=midi
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -54,20 +54,21 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016)
 # texttype = Élicitations
-1	n	art	?	_	_	_	_	_	Gloss=le
+1	n	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	'	den	nom	_	_	_	_	_	Gloss=homme
 3	den	den	nom	_	_	_	_	_	Gloss=?
 4	'	e-tal	préposition	_	_	_	_	_	Gloss=auprès
 5	tal-kichen	tal-kichen	?	_	_	_	_	_	Gloss=?
 
-# sent_id = Timm (1987a:284)__1
+# sent_id = Timm(1987a:284)__1
 # text = Deus 'barzh tal ma gichen.
 # text_fr = 'Viens à côté de moi'
-# text_phon = ["/'@døz", 'ba', "talme'@giʃɛn/"]
+# text_phon = /'@døz ba talme'@giʃɛn/ 
+# source = H. Gaudart (04/2016)
 1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
-2	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+2	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 3	barzh	barzh	?	_	_	_	_	_	Gloss=?
 4	tal	tal	nom	_	_	_	_	_	Gloss=face
-5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=1
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=1
 6	gichen	gichen	?	_	_	_	_	_	Gloss=côté
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

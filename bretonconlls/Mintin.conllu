@@ -3,54 +3,56 @@
 # text_fr = 'Et me voila donc en route le lendemain matin... '
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Setu	setu	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=voici
+1	Setu	setu	adverbe|complémenteur|conjonction	_	_	_	_	_	Gloss=voici
 2	antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
 3	vintin	vintin	?	_	_	_	_	_	Gloss=1
-4	ha	&	?	_	_	_	_	_	Gloss=et
-5	me	pfi	?	_	_	_	_	_	Gloss=moi
-6	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+5	me	pfi	pronom	_	_	_	_	_	Gloss=moi
+6	en	P.e	préposition	_	_	_	_	_	Gloss=en
 7	hent..	hent	nom	_	_	_	_	_	Gloss=route
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = McKenna (1976-8:74)__1
+# sent_id = McKenna(1976-8:74)__1
 # text = Mitin-ma eh on sauet ekours.
 # text_fr = 'Ce matin, je me suis levée tôt.'
-# text_phon = ["['@mῖ_n_timɑ", 'h_ə_won', "'@zavét", "é'@kurs / '@é-kurs  ]"]
-1	Mitin-ma	DEM	?	_	_	_	_	_	Gloss=là
-2	eh	eh	?	_	_	_	_	_	Gloss=R|Morph=4
-3	on	COP	?	_	_	_	_	_	Gloss=suis
-4	sauet	sevel.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=lev.é
-5	ekours	e-kours	?	_	_	_	_	_	Gloss=en.temps
+# text_phon = '@mῖ_n_timɑ h_ə_won '@zavét é'@kurs / '@é-kurs   
+# source = Ar Floch (1985)
+1	Mitin-ma	DEM	pronom	_	_	_	_	_	Gloss=là
+2	eh	eh	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+3	on	COP	verbe	_	_	_	_	_	Gloss=suis
+4	sauet	sevel.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=lev.é
+5	ekours	e-kours	préposition	_	_	_	_	_	Gloss=en.temps
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:434)__1
+# sent_id = Avezard-Roger(2004a:434)__1
 # text = Gant piv e peus komzet ar mintin-mañ?
 # text_fr = 'À qui as-tu parlé ce matin ?'
-# text_phon = ['[ gã  pij', 'epøs kõmzɛt', 'aʁ mintin mã ]']
-1	Gant	gant	?	_	_	_	_	_	Gloss=avec
+# text_phon =  gã  pij epøs kõmzɛt aʁ mintin mã  
+# source = Ar Floch (1985)
+1	Gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-3	e	e	?	_	_	_	_	_	Gloss=2
-4	peus	kaout	?	_	_	_	_	_	Gloss=avoir
+3	e	e	verbe	_	_	_	_	_	Gloss=2
+4	peus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 5	komzet	komz	verbe	_	_	_	_	_	Gloss=parlé
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	mintin-mañ	DEM	?	_	_	_	_	_	Gloss=ci
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	mintin-mañ	DEM	pronom	_	_	_	_	_	Gloss=ci
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:232)__1
-# text = [[nom propre|Yann]] en doa kouezhet en droug ar mintin-mañ.
+# text = nom propre|Yann]] en doa kouezhet en droug ar mintin-mañ.
 # text_fr = 'Yann a fait une crise d’épilepsie ce matin.'
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	[[nom	nompropre	?	_	_	_	_	_	Gloss=Yann
+1	nom	nom_propre	nom	_	_	_	_	_	Gloss=Yann
 2	propre|Yann]]	propre|Yann]]	?	_	_	_	_	_	Gloss=?
 3	en	en	complémenteur	_	_	_	_	_	Gloss=3SG
-4	doa	kaout	?	_	_	_	_	_	Gloss=avait
-5	kouezhet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-7	droug	droug	nom-adjectif	_	_	_	_	_	Gloss=mal
-8	ar	art	?	_	_	_	_	_	Gloss=le
-9	mintin-mañ	DEM	?	_	_	_	_	_	Gloss=là
+4	doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+5	kouezhet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+7	droug	droug	adjectif|nom	_	_	_	_	_	Gloss=mal
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	mintin-mañ	DEM	pronom	_	_	_	_	_	Gloss=là
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__15
@@ -59,15 +61,15 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Amañ	Amañ	?	_	_	_	_	_	Gloss=ici
-2	ar	art	?	_	_	_	_	_	Gloss=le
+1	Amañ	Amañ	adverbe	_	_	_	_	_	Gloss=ici
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	fakteur	fakteur	?	_	_	_	_	_	Gloss=facteur
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	base	paseal	verbe	_	_	_	_	_	Gloss=passe
 6	da	da	préposition	_	_	_	_	_	Gloss=à
-7	seizh	numérauxcardinaux	?	_	_	_	_	_	Gloss=sept
+7	seizh	numéraux_cardinaux	?	_	_	_	_	_	Gloss=sept
 8	eur	eur	nom	_	_	_	_	_	Gloss=heure
 9	dach	dac'h	?	_	_	_	_	_	Gloss=de
-10	ar	art	?	_	_	_	_	_	Gloss=le
+10	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	mintin	mintin	nom	_	_	_	_	_	Gloss=matin
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

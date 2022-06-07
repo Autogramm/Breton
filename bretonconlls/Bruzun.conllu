@@ -5,11 +5,11 @@
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
-2	em-eus	em-eus	?	_	_	_	_	_	Gloss=R|Morph=4
+2	em-eus	em-eus	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	debret	debriñ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=mang.é
-5	eun	art	?	_	_	_	_	_	Gloss=une
+4	debret	debriñ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=mang.é
+5	eun	art	déterminant|quantifieur	_	_	_	_	_	Gloss=une
 6	elvenn	elvenn	?	_	_	_	_	_	Gloss=miette
-7	abaoe	abaoe	préposition-adverbe	_	_	_	_	_	Gloss=depuis
+7	abaoe	abaoe	adverbe|préposition	_	_	_	_	_	Gloss=depuis
 8	deh	dec'h	?	_	_	_	_	_	Gloss=hier
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,171 +1,171 @@
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Sikour en deus digaset Dorothée da Mari
 # text_fr = 'Dorothée a envoyé de l'aide à Marie.'
-1	Sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
+1	Sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-5	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	Mari	nompropre	?	_	_	_	_	_	Gloss=Marie
+5	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	Mari	nom_propre	?	_	_	_	_	_	Gloss=Marie
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An darvoud en deus digaset sikour da Vari.
 # text_fr = 'La catastrophe a envoyé de l'aide à Marie.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	darvoud	darvoud	nom	_	_	_	_	_	Gloss=évènement
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	Vari	nompropre	?	_	_	_	_	_	Gloss=Marie
+6	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	Vari	nom_propre	?	_	_	_	_	_	Gloss=Marie
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An amzer-gwall en deus digaset <a...> sikour da Mari.
 # text_fr = 'La tempête a envoyé de l'aide à Marie.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	amzer-gwall	amzer	nom	_	_	_	_	_	Gloss=temps
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
 6	<a...>	<a...>	?	_	_	_	_	_	Gloss=?
-7	sikour	sikour	verbe-nom	_	_	_	_	_	Gloss=aide
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	Mari	nompropre	?	_	_	_	_	_	Gloss=Marie
+7	sikour	sikour	verbe|nom	_	_	_	_	_	Gloss=aide
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	Mari	nom_propre	?	_	_	_	_	_	Gloss=Marie
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An darvoud... deus degaset kudennoù d'an dud (/'touesk an dud).
 # text_fr = 'La catastrophe a envoyé des problèmes aux gens.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	darvoud..	darvoud	nom	_	_	_	_	_	Gloss=évènement
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	degaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	kudennoù	kudenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=problème.s
-7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	kudennoù	kudenn.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=problème.s
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 10	(/'	(/'	?	_	_	_	_	_	Gloss=/
-11	touesk	e-touez	?	_	_	_	_	_	Gloss=parmi
-12	an	art	?	_	_	_	_	_	Gloss=le
-13	dud)	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+11	touesk	e-touez	préposition	_	_	_	_	_	Gloss=parmi
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	dud)	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An darvoud an deus degaset kudennoù d'an dud.
 # text_fr = 'La tempête a envoyé des problèmes aux gens.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	darvoud	darvoud	nom	_	_	_	_	_	Gloss=évènement
 3	an	an	?	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	degaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	kudennoù	kudenn.-où(PL.)	nom.?	_	_	_	_	_	Gloss=problème.s
-7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+6	kudennoù	kudenn.-où_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=problème.s
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Ar vroudig a neus kaset Dorothée d'he eontr.
 # text_fr = 'La fée a renvoyé Dorothée à son oncle.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	vroudig	vroudig	?	_	_	_	_	_	Gloss=1
-3	a	kaout	?	_	_	_	_	_	Gloss=a
+3	a	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	neus	neus	?	_	_	_	_	_	Gloss=?
 5	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-6	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+6	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 9	eontr	eontr	nom	_	_	_	_	_	Gloss=oncle
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Ar gwall-zarvoud a neus digaset Dorothée d'he eontred.
 # text_fr = 'L'accident a renvoyé Dorothée à ses oncles.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gwall-zarvoud	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	gwall-zarvoud	gwall-	adverbe|nom	_	_	_	_	_	Gloss=mauvais|Mutation=trigger|MutationNUM=1
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	neus	kaout	?	_	_	_	_	_	Gloss=a
+4	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	digaset	degas	verbe	_	_	_	_	_	Gloss=amené
-6	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-7	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-9	eontred	eontr.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=oncle.s
+6	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+7	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+9	eontred	eontr.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=oncle.s
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An avel neus kaset Dorothée d'he eontr.
 # text_fr = 'Le vent a renvoyé Dorothée à son oncle.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	avel	avel	nom	_	_	_	_	_	Gloss=vent
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-5	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-6	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+5	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+6	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 8	eontr	eontr	nom	_	_	_	_	_	Gloss=oncle
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Ar sorserez neus kaset Dorothée da Vro Oz.
 # text_fr = 'La sorcière a envoyé Dorothée au pays d'Oz.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	sorserez	sorserez	?	_	_	_	_	_	Gloss=sorcière
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-5	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	Vro	bro	nom	_	_	_	_	_	Gloss=pays
-8	Oz	nompropre	?	_	_	_	_	_	Gloss=Oz
+8	Oz	nom_propre	?	_	_	_	_	_	Gloss=Oz
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Al laouenidigezh neus kaset Dorothée da Vro Oz.
 # text_fr = 'La joie a envoyé Dorothée au pays d'Oz.'
-1	Al	art	?	_	_	_	_	_	Gloss=le
+1	Al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	laouenidigezh	laouenidigezh	?	_	_	_	_	_	Gloss=joie
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-5	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	Vro	bro	nom	_	_	_	_	_	Gloss=pays
-8	Oz	nompropre	?	_	_	_	_	_	Gloss=Oz
+8	Oz	nom_propre	?	_	_	_	_	_	Gloss=Oz
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = An avel neus kaset Dorothée da Vro Oz.
 # text_fr = 'Le vent a envoyé Dorothée au pays d'Oz.'
-1	An	art	?	_	_	_	_	_	Gloss=le
+1	An	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	avel	avel	nom	_	_	_	_	_	Gloss=vent
-3	neus	kaout	?	_	_	_	_	_	Gloss=a
+3	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 4	kaset	kas	verbe	_	_	_	_	_	Gloss=envoyé
-5	Dorothée	nompropre	?	_	_	_	_	_	Gloss=Dorothée
-6	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+5	Dorothée	nom_propre	?	_	_	_	_	_	Gloss=Dorothée
+6	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 7	Vro	bro	nom	_	_	_	_	_	Gloss=pays
-8	Oz	nompropre	?	_	_	_	_	_	Gloss=Oz
+8	Oz	nom_propre	?	_	_	_	_	_	Gloss=Oz
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
 # text = Ar sonerezh neus degaset ur... un aergelc'h { mat / plijus } d'ar gouel.
 # text_fr = 'La musique a donné une atmosphère très agréable à la fête.'
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	sonerezh	sonerezh	?	_	_	_	_	_	Gloss=musique
 3	neus	neus	?	_	_	_	_	_	Gloss=3SGM.a
-4	degaset	degas.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=envoy.é
-5	ur..	art	?	_	_	_	_	_	Gloss=un
+4	degaset	degas.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=envoy.é
+5	ur..	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
-7	un	art	?	_	_	_	_	_	Gloss=un
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	aergelc'h	aergelc'h	?	_	_	_	_	_	Gloss=ambiance
-9	{	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bon
-10	mat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=/
+9	{	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bon
+10	mat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=/
 11	/	/	PUNCT	_	_	_	_	Gloss=punct
 12	plijus	plijus	?	_	_	_	_	_	Gloss=?
 13	}	}	?	_	_	_	_	_	Gloss=?
-14	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-15	ar	art	?	_	_	_	_	_	Gloss=le
+14	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+15	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 16	gouel	gouel	?	_	_	_	_	_	Gloss=fête
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -174,12 +174,12 @@
 # text_fr = 'Angela a donné un livre à Sylvie.'
 1	Roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	Angela	nompropre	?	_	_	_	_	_	Gloss=Angela
-5	ul	art	?	_	_	_	_	_	Gloss=un
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	Angela	nom_propre	?	_	_	_	_	_	Gloss=Angela
+5	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	levr	levr	nom	_	_	_	_	_	Gloss=livre
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-8	Sylvie	nompropre	?	_	_	_	_	_	Gloss=Sylvie
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+8	Sylvie	nom_propre	?	_	_	_	_	_	Gloss=Sylvie
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Landivisiau,Y.Simon[23/03/2013]__1
@@ -187,10 +187,10 @@
 # text_fr = 'Angela a donné un livre à la Bretagne.'
 1	Roet	reiñ	verbe	_	_	_	_	_	Gloss=donné
 2	en	en	complémenteur	_	_	_	_	_	Gloss=R
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	Angela	nompropre	?	_	_	_	_	_	Gloss=Angela
-5	ul	art	?	_	_	_	_	_	Gloss=un
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	Angela	nom_propre	?	_	_	_	_	_	Gloss=Angela
+5	ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	levr	levr	nom	_	_	_	_	_	Gloss=livre
-7	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 8	Vreizh	Breizh	nom	_	_	_	_	_	Gloss=Bretagne
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,14 +1,16 @@
 # sent_id = Gros(1970:chap.II)__6
 # text = Diouzh ma hoazez n'on kap da vann.
 # text_fr = '(Quand je suis) assis je ne peux rien (faire).'
-# source = Gros (1970)
+# dialect = Trégorrois
+# source = Gros (1966)
+# texttype = Ouvrages de recherche
 1	Diouzh	diouzh	préposition	_	_	_	_	_	Gloss=à
-2	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+2	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 3	hoazez	koazez	nom	_	_	_	_	_	Gloss=assise
 4	n'	n'	?	_	_	_	_	_	Gloss=ne
-5	on	COP	?	_	_	_	_	_	Gloss=suis
-6	kap	kap	?	_	_	_	_	_	Gloss=capable
-7	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+5	on	COP	verbe	_	_	_	_	_	Gloss=suis
+6	kap	kap	adjectif	_	_	_	_	_	Gloss=capable
+7	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 8	vann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -17,7 +19,7 @@
 # text_fr = 'Je ne suis plus capable.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	mɔ̃	COP	?	_	_	_	_	_	Gloss=suis
+1	mɔ̃	COP	verbe	_	_	_	_	_	Gloss=suis
 2	m	m	?	_	_	_	_	_	Gloss=?
 3	ke	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kapt	kapt	?	_	_	_	_	_	Gloss=capable
@@ -29,16 +31,16 @@
 # dialect = Léonard
 # source = Gouedig (1982)
 # texttype = Ouvrages de recherche
-1	N'	N'	?	_	_	_	_	_	Gloss=na|Morph=1
-2	on	COP	?	_	_	_	_	_	Gloss=suis
+1	N'	N'	?	_	_	_	_	_	Gloss=na|Mutation=trigger|MutationNUM=1
+2	on	COP	verbe	_	_	_	_	_	Gloss=suis
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kapab	kapab	?	_	_	_	_	_	Gloss=capable
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	krena	krenañ	verbe-adverbe	_	_	_	_	_	Gloss=trembler
-7	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
-8	on	POSS	?	_	_	_	_	_	Gloss=notre
+6	krena	krenañ	verbe|adverbe	_	_	_	_	_	Gloss=trembler
+7	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
+8	on	POSS	déterminant	_	_	_	_	_	Gloss=notre
 9	divesker	duel.gar	?.nom	_	_	_	_	_	Gloss=deux.F.jambe
-10	niennon	dindan.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=sous.moi
+10	niennon	dindan.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sous.moi
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Menard(1995:§geizoù)__1
@@ -46,15 +48,15 @@
 # text_fr = 'Je serais bien capable de faire l'amour avec elle.'
 # source = Menard (1995)
 # texttype = Ouvrages de recherche
-1	Kapap	Kapap	?	_	_	_	_	_	Gloss=capable
+1	Kapap	Kapap	adjectif	_	_	_	_	_	Gloss=capable
 2	a-walc'h	a-walc'h	?	_	_	_	_	_	Gloss=assez
 3	'	'	?	_	_	_	_	_	Gloss=R
-4	vijen	COP	?	_	_	_	_	_	Gloss=serais
+4	vijen	COP	verbe	_	_	_	_	_	Gloss=serais
 5	d'	da	préposition	_	_	_	_	_	Gloss=de
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	tammoù	tamm.-où(PL.)	quantifieur.?	_	_	_	_	_	Gloss=morceau.x
-8	geizoù	-où(PL.)	?	_	_	_	_	_	Gloss=s
-9	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+7	tammoù	tamm.-où_(PL.)	quantifieur.suffixe	_	_	_	_	_	Gloss=morceau.x
+8	geizoù	-où_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+9	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Mellouet&Pennec(2004:160)__1
@@ -63,101 +65,103 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Tout	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vezont	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=sont
+1	Tout	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vezont	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
 4	krevet	krevet	?	_	_	_	_	_	Gloss=crevés
-5	oc'h	particuleo	?	_	_	_	_	_	Gloss=à
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
+5	oc'h	particule_o	?	_	_	_	_	_	Gloss=à
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
 7	bourjinerezh	bourjinerezh	?	_	_	_	_	_	Gloss=bêtise
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+9	o	particule_o	?	_	_	_	_	_	Gloss=à
 10	klask	klask	verbe	_	_	_	_	_	Gloss=chercher
 11	gwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 12	piv	piv	pronom	_	_	_	_	_	Gloss=qui
-13	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-14	ar	art	?	_	_	_	_	_	Gloss=le
+13	eo	COP	verbe	_	_	_	_	_	Gloss=est
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	c'hapaplañ	c'hapaplañ.superlatif	?.adjectif	_	_	_	_	_	Gloss=5.le.plus
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = HorYezh(1983:72)__1
-# text = Me m'eus paseet alies du-se met n'on ket kap ''mui'' [ da vont ].
+# text = Me m'eus paseet alies du-se met n'on ket kap mui [ da vont .
 # text_fr = 'J'y suis souvent passé mais je ne peux plus y aller.'
 # location = Tréboul
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	m'	m'	?	_	_	_	_	_	Gloss=1SG
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	paseet	paseal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pass.é
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	paseet	paseal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pass.é
 5	alies	alies	adverbe	_	_	_	_	_	Gloss=souvent
-6	du-se	ads	?	_	_	_	_	_	Gloss=chezeux/là-bas
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-8	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-9	on	COP	?	_	_	_	_	_	Gloss=suis
+6	du-se	ads	adverbe|suffixe	_	_	_	_	_	Gloss=chez_eux/là-bas
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+8	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+9	on	COP	verbe	_	_	_	_	_	Gloss=suis
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-11	kap	kap	?	_	_	_	_	_	Gloss=capable
-12	'	mui	adverbe	_	_	_	_	_	Gloss=plus
-13	'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-14	mui'	mont	verbe	_	_	_	_	_	Gloss=aller
-15	'	'	?	_	_	_	_	_	Gloss=?
-16			PUNCT	_	_	_	_	Gloss=punct
-17	[	[	?	_	_	_	_	_	Gloss=?
-18	da	da	préposition	_	_	_	_	_	Gloss=?
-19	vont	vont	?	_	_	_	_	_	Gloss=?
-20	].	].	?	_	_	_	_	_	Gloss=?
+11	kap	kap	adjectif	_	_	_	_	_	Gloss=capable
+12	mui	mui	adverbe	_	_	_	_	_	Gloss=plus
+13	[	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+14	da	mont	verbe	_	_	_	_	_	Gloss=aller
+15	vont	vont	?	_	_	_	_	_	Gloss=?
+16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kap')__1
 # text = Kap da dremen hep butun ne oa ket.
 # text_fr = 'Il ne pouvait pas se passer de tabac.'
-# source = Gros (1989)
-1	Kap	Kap	?	_	_	_	_	_	Gloss=capable
-2	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Kap	Kap	adjectif	_	_	_	_	_	Gloss=capable
+2	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 3	dremen	tremen	verbe	_	_	_	_	_	Gloss=passer
 4	hep	hep	préposition	_	_	_	_	_	Gloss=sans
 5	butun	butun	nom	_	_	_	_	_	Gloss=tabac
-6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	oa	COP	?	_	_	_	_	_	Gloss=était
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Timm (1987a:268)__1
+# sent_id = Timm(1987a:268)__1
 # text = Kap eo dezhi.
 # text_fr = 'Elle est capable, compétente.'
-# text_phon = ["/'@kap", 'e', 'dej/']
-1	Kap	Kap	?	_	_	_	_	_	Gloss=capable
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+# text_phon = /'@kap e dej/ 
+# source = Gros (1970b)
+1	Kap	Kap	adjectif	_	_	_	_	_	Gloss=capable
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 4	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Avezard-Roger (2004a:337)__1
+# sent_id = Avezard-Roger(2004a:337)__1
 # text = Kap ken ha ma c'hellomp e tec'homp da welout anezho.
 # text_fr = 'Dès que nous pourrons, nous irons les voir.'
-# text_phon = ['[ kap', 'ken', 'a ma', 'hɛlõmp', 'e', 'tehɔmp', 'da', 'velut', 'anezo ]']
-1	Kap	Kap	?	_	_	_	_	_	Gloss=capable
-2	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+# text_phon =  kap ken a ma hɛlõmp e tehɔmp da velut anezo  
+# source = Gros (1970b)
+1	Kap	Kap	adjectif	_	_	_	_	_	Gloss=capable
+2	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 4	c'hellomp	gallout	verbe	_	_	_	_	_	Gloss=pouvons
-5	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+5	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 6	tec'homp	tec'hout	?	_	_	_	_	_	Gloss=partons
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	welout	gwelout	verbe	_	_	_	_	_	Gloss=voir
-9	anezho	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
+9	anezho	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.eux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'abil')__3
 # text = Amañ n'eus ket kap den ebet da gaoud mann.
 # text_fr = 'Ici personne ne peut rien avoir.'
-# source = Gros (1989)
-1	Amañ	ads	?	_	_	_	_	_	Gloss=ici
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
 2	n'	n'	?	_	_	_	_	_	Gloss=ne
-3	eus	ezeus	?	_	_	_	_	_	Gloss=est
+3	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	kap	kap	?	_	_	_	_	_	Gloss=capable
+5	kap	kap	adjectif	_	_	_	_	_	Gloss=capable
 6	den	den	nom	_	_	_	_	_	Gloss=personne
 7	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-8	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-9	gaoud	kaout	?	_	_	_	_	_	Gloss=avoir
+8	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+9	gaoud	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 10	mann	mann	quantifieur	_	_	_	_	_	Gloss=zéro
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -166,20 +170,20 @@
 # text_fr = 'Cette gamine tient de toi, sûr, tu ne peux pas la renier.'
 # source = Ar Barzhig (1988)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	plac'hig-se	plac'h.plac'hig-se.DEM	?.?.?	_	_	_	_	_	Gloss=fille.DIM.là
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	plac'hig-se	plac'h.plac'hig-se.DEM	?.?.pronom	_	_	_	_	_	Gloss=fille.DIM.là
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	diwarnout	diwar.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=d'@après.toi
+4	diwarnout	diwar.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=d'@après.toi
 5	'	avat	adverbe	_	_	_	_	_	Gloss=mais
 6	vat	vat	?	_	_	_	_	_	Gloss=?
-7	te	pfi	?	_	_	_	_	_	Gloss=toi
+7	te	pfi	pronom	_	_	_	_	_	Gloss=toi
 8	n'	n'	?	_	_	_	_	_	Gloss=ne
-9	out	COP	?	_	_	_	_	_	Gloss=es
+9	out	COP	verbe	_	_	_	_	_	Gloss=es
 10	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-11	kap	kap	?	_	_	_	_	_	Gloss=cap
-12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+11	kap	kap	adjectif	_	_	_	_	_	Gloss=cap
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	nac'h	nac'hañ	?	_	_	_	_	_	Gloss=nier
-14	honnezh	DEM	?	_	_	_	_	_	Gloss=celle.là
+14	honnezh	DEM	pronom	_	_	_	_	_	Gloss=celle.là
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Favereau(1984:357)__1
@@ -188,8 +192,8 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	kapad	kapad	?	_	_	_	_	_	Gloss=capable
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	houmañ	DEM	?	_	_	_	_	_	Gloss=celle.là
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	goue(z)o	kouezhañ	?	_	_	_	_	_	Gloss=tomber
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	houmañ	DEM	pronom	_	_	_	_	_	Gloss=celle.là
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	goue(z)o	kouezhañ	verbe	_	_	_	_	_	Gloss=tomber
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

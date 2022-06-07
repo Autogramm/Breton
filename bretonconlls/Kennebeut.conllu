@@ -3,14 +3,14 @@
 # text_fr = 'Les vers de terre ne lisent pas le breton, ni le français non plus.'
 # source = A-M. Louboutin (09/2015b)
 # texttype = Élicitations
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	burug	buzhug	nom	_	_	_	_	_	Gloss=vers.de.terre
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	lennont	lenn(V.)	?	_	_	_	_	_	Gloss=lisent
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	lennont	lenn_(V.)	?	_	_	_	_	_	Gloss=lisent
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	brezhoneg	brezhoneg	nom	_	_	_	_	_	Gloss=breton
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	na	na...na	?	_	_	_	_	_	Gloss=ni
+8	na	na..._na	?	_	_	_	_	_	Gloss=ni
 9	galleg	galleg	nom	_	_	_	_	_	Gloss=français
 10	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -19,13 +19,14 @@
 # text = Eno kennebeut ne oa lec'h ebet da lojañ.
 # text_fr = 'Là non plus il n'y avait nulle part où loger.'
 # source = TBKA.
-1	Eno	eno	?	_	_	_	_	_	Gloss=y
+# texttype = Références de corpus
+1	Eno	eno	adverbe	_	_	_	_	_	Gloss=y
 2	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-4	oa	COP	?	_	_	_	_	_	Gloss=était
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
 5	lec'h	lec'h	?	_	_	_	_	_	Gloss=lieu
 6	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-7	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 8	lojañ	lojañ	?	_	_	_	_	_	Gloss=loger
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -36,34 +37,36 @@
 # location = Cléder
 # source = Seite (1985)
 # texttype = Références de corpus
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eus	ezeus	?	_	_	_	_	_	Gloss=est
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eus	ez_eus	préposition	_	_	_	_	_	Gloss=est
 3	kennebeud	kennebeud	?	_	_	_	_	_	Gloss=non.plus
-4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
+4	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
 5	poltred	poltred	?	_	_	_	_	_	Gloss=portrait
 6	e-bèd	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-7	war	war	?	_	_	_	_	_	Gloss=sur|Morph=1
-8	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	war	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
+8	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 9	lerh	war-lerc'h	?	_	_	_	_	_	Gloss=suite
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArC’hog(1983:10)__1
-# text = Youenn,[...] ne  oa ket kennebeut kalz pounneroc’h pouez an aour en e yalc’h louedet.
+# text = Youenn,...] ne  oa ket kennebeut kalz pounneroc’h pouez an aour en e yalc’h louedet.
 # text_fr = 'L'or ne pesait pas non plus beaucoup plus lourd dans la bourse grise de Youenn.'
-# source = Crocq (1924)
-1	Youenn,[...]	Youenn,[...]	?	_	_	_	_	_	Gloss=Youenn
-2	ne	ne	?	_	_	_	_	_	Gloss=ne
+# dialect = Cornouaillais
+# source = Crocq (1910)
+# texttype = Références de corpus
+1	Youenn,...]	Youenn,...]	?	_	_	_	_	_	Gloss=Youenn
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
 3			PUNCT	_	_	_	_	Gloss=punct
 4	oa	oa	?	_	_	_	_	_	Gloss=?
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	kennebeut	kennebeut	adverbe	_	_	_	_	_	Gloss=non.plus
-7	kalz	kalz	quantifieur-adverbe-déterminant	_	_	_	_	_	Gloss=beaucoup
+7	kalz	kalz	adverbe|déterminant|quantifieur	_	_	_	_	_	Gloss=beaucoup
 8	pounneroc’h	pounner.-oc'h	adjectif.?	_	_	_	_	_	Gloss=lourd.plus
 9	pouez	pouez	nom	_	_	_	_	_	Gloss=poids
-10	an	art	?	_	_	_	_	_	Gloss=le
+10	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 11	aour	aour	nom	_	_	_	_	_	Gloss=or
-12	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-13	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+12	en	P.e	préposition	_	_	_	_	_	Gloss=en
+13	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 14	yalc’h	yalc’h	?	_	_	_	_	_	Gloss=bourse
-15	louedet	louedañ	?	_	_	_	_	_	Gloss=grisé
+15	louedet	louedañ	verbe	_	_	_	_	_	Gloss=grisé
 16	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -1,17 +1,19 @@
 # sent_id = Herrieu(1994:17)__2
 # text = yoc'hoù gwinizh paket brav ha goloet get un doenn pintet.
 # text_fr = 'des tas de blé emballés soigneusement et recouverts d'un toit sur le dessus.'
-# source = Herrieu (1994)
-1	yoc'hoù	yoc'hoù	?	_	_	_	_	_	Gloss=tas
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	yoc'hoù	yoc'hoù	verbe	_	_	_	_	_	Gloss=tas
 2	gwinizh	gwinizh	nom	_	_	_	_	_	Gloss=blé
-3	paket	pakañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=emball.é
-4	brav	brav	adverbe-adjectif	_	_	_	_	_	Gloss=beau
-5	ha	&	?	_	_	_	_	_	Gloss=et
-6	goloet	goloiñ.-et(Adj.)	adverbe.?	_	_	_	_	_	Gloss=recouv.ert
-7	get	gant	?	_	_	_	_	_	Gloss=avec
-8	un	art	?	_	_	_	_	_	Gloss=un
-9	doenn	toenn	?	_	_	_	_	_	Gloss=toit|Morph=1
-10	pintet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
+3	paket	pakañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=emball.é
+4	brav	brav	adverbe|adjectif	_	_	_	_	_	Gloss=beau
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+6	goloet	goloiñ.-et_(Adj.)	adverbe.verbe|suffixe	_	_	_	_	_	Gloss=recouv.ert
+7	get	gant	préposition	_	_	_	_	_	Gloss=avec
+8	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+9	doenn	toenn	nom	_	_	_	_	_	Gloss=toit|Mutation=target|MutationNUM=1
+10	pintet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Louis(2015:128)__1
@@ -21,67 +23,73 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
-3	traoù	traoù	nom-pronom	_	_	_	_	_	Gloss=choses
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	yoc’h	yoc’h	verbe	_	_	_	_	_	Gloss=tas
+3	traoù	traoù	pronom|nom	_	_	_	_	_	Gloss=choses
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	c'hell	gallout	verbe	_	_	_	_	_	Gloss=peut
 6	donet	dont	verbe	_	_	_	_	_	Gloss=venir
-7	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+7	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 8	barzh	barzh	?	_	_	_	_	_	Gloss=?
-9	e	P.e	?	_	_	_	_	_	Gloss=en
+9	e	P.e	préposition	_	_	_	_	_	Gloss=en
 10	korv	korf	nom	_	_	_	_	_	Gloss=corps
-11	an	art	?	_	_	_	_	_	Gloss=le
-12	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+11	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:92)__1
 # text = Kizhier a zo chomet amañ ur yoc'h.
 # text_fr = 'Ici, il est resté des tas de chats.'
-# source = Herrieu (1994)
-1	Kizhier	kazh.plurielinterne	nom.?	_	_	_	_	_	Gloss=chat.s
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Kizhier	kazh.pluriel_interne	nom.?	_	_	_	_	_	Gloss=chat.s
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	zo	zo	?	_	_	_	_	_	Gloss=est
-4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-5	amañ	ads	?	_	_	_	_	_	Gloss=ici
-6	ur	art	?	_	_	_	_	_	Gloss=un
-7	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
+4	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+5	amañ	ads	adverbe|suffixe	_	_	_	_	_	Gloss=ici
+6	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+7	yoc'h	yoc'h	verbe	_	_	_	_	_	Gloss=tas
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:140)__1
 # text = Ur yoc'h toulloù a zo bet flastret get hon tennoù.
 # text_fr = 'Nos tirs ont détruit beaucoup de trous [tranchées].'
-# source = Herrieu (1994)
-1	Ur	art	?	_	_	_	_	_	Gloss=un
-2	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
-3	toulloù	toull.-où(PL.)	nom-adjectif.?	_	_	_	_	_	Gloss=trou.s
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+2	yoc'h	yoc'h	verbe	_	_	_	_	_	Gloss=tas
+3	toulloù	toull.-où_(PL.)	adjectif|nom.suffixe	_	_	_	_	_	Gloss=trou.s
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	zo	COP	?	_	_	_	_	_	Gloss=est
+5	zo	COP	verbe	_	_	_	_	_	Gloss=est
 6	bet	bet	?	_	_	_	_	_	Gloss=été
 7	flastret	flastrañ	verbe	_	_	_	_	_	Gloss=détruit
-8	get	gant	?	_	_	_	_	_	Gloss=avec
-9	hon	POSS	?	_	_	_	_	_	Gloss=notre
-10	tennoù	tennañ.-où(PL.)	verbe.?	_	_	_	_	_	Gloss=tir.s
+8	get	gant	préposition	_	_	_	_	_	Gloss=avec
+9	hon	POSS	déterminant	_	_	_	_	_	Gloss=notre
+10	tennoù	tennañ.-où_(PL.)	verbe.suffixe	_	_	_	_	_	Gloss=tir.s
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:15)__1
-# text = Er garioù bras, e welomp ur yoc'h intronezed, gwisket e gwenn [...].
+# text = Er garioù bras, e welomp ur yoc'h intronezed, gwisket e gwenn [....
 # text_fr = 'Dans les grandes gares, nous voyons beaucoup de femmes, habillées de blanc [...].'
-# source = Herrieu (1994)
-1	Er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
-2	garioù	-ioù(PL.)	?	_	_	_	_	_	Gloss=s
-3	bras	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
+2	garioù	-ioù_(PL.)	suffixe	_	_	_	_	_	Gloss=s
+3	bras	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	e	e	?	_	_	_	_	_	Gloss=R
+5	e	e	verbe	_	_	_	_	_	Gloss=R
 6	welomp	gwelout	verbe	_	_	_	_	_	Gloss=voyons
-7	ur	art	?	_	_	_	_	_	Gloss=un
-8	yoc'h	yoc'h	?	_	_	_	_	_	Gloss=tas
-9	intronezed	itron.-ezed	?.?	_	_	_	_	_	Gloss=dame.s
+7	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+8	yoc'h	yoc'h	verbe	_	_	_	_	_	Gloss=tas
+9	intronezed	itron.-ezed	nom.?	_	_	_	_	_	Gloss=dame.s
 10	,	,	PUNCT	_	_	_	_	Gloss=punct
-11	gwisket	gwiskañ.-et(Adj.)	?.?	_	_	_	_	_	Gloss=habill.é
-12	e	P.e	?	_	_	_	_	_	Gloss=en
+11	gwisket	gwiskañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=habill.é
+12	e	P.e	préposition	_	_	_	_	_	Gloss=en
 13	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
-14	[...].	[...].	?	_	_	_	_	_	Gloss=?
+14	[....	[....	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Louis(2015:131)__1
 # text = Hag amañ memp, bout 'h eus ur yoc’h ha 'deus berranal.
@@ -90,19 +98,19 @@
 # location = JMh
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	amañ	amañ	?	_	_	_	_	_	Gloss=ici
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	amañ	amañ	adverbe	_	_	_	_	_	Gloss=ici
 3	memp	memes	adjectif	_	_	_	_	_	Gloss=même
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	bout	bez'	?	_	_	_	_	_	Gloss=expl
+5	bout	bez'	verbe|auxiliaire	_	_	_	_	_	Gloss=expl
 6	'	'	?	_	_	_	_	_	Gloss=R
-7	h	E	?	_	_	_	_	_	Gloss=y.a
-8	eus	eus	?	_	_	_	_	_	Gloss=?
-9	ur	art	?	_	_	_	_	_	Gloss=un
-10	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
-11	ha	C.ha(g)	?	_	_	_	_	_	Gloss=que
+7	h	E	verbe	_	_	_	_	_	Gloss=y.a
+8	eus	eus	préposition	_	_	_	_	_	Gloss=?
+9	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+10	yoc’h	yoc’h	verbe	_	_	_	_	_	Gloss=tas
+11	ha	C.ha(g)	complémenteur	_	_	_	_	_	Gloss=que
 12	'	'	?	_	_	_	_	_	Gloss=3
-13	deus	kaout	?	_	_	_	_	_	Gloss=a
+13	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 14	berranal	berr-	adjectif	_	_	_	_	_	Gloss=court
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -112,14 +120,14 @@
 # dialect = Vannetais
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Gouzañvet	gouzañv.Gouzañvet	verbe.?	_	_	_	_	_	Gloss=endur.-et(Adj.)-é
+1	Gouzañvet	gouzañv.Gouzañvet	verbe.?	_	_	_	_	_	Gloss=endur.-et_(Adj.)-é
 2	am	am	?	_	_	_	_	_	Gloss=1SG
-3	eus	kaout	?	_	_	_	_	_	Gloss=a
-4	ur	art	?	_	_	_	_	_	Gloss=un
-5	yoc’h	yoc’h	?	_	_	_	_	_	Gloss=tas
-6	get	gant	?	_	_	_	_	_	Gloss=avec
-7	ar	art	?	_	_	_	_	_	Gloss=le
-8	c’hleñved-se	kleñved	nom	_	_	_	_	_	Gloss=maladie]]-[[DEM|ci|Morph=5
+3	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	yoc’h	yoc’h	verbe	_	_	_	_	_	Gloss=tas
+6	get	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	c’hleñved-se	kleñved	nom	_	_	_	_	_	Gloss=maladie]]-[[DEM|ci|Mutation=target|MutationNUM=5
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Quéré(2011:119)__1
@@ -129,12 +137,12 @@
 # source = Quéré (2011)
 # texttype = Ouvrages de recherche
 1	Arlerh	war-lerc'h	?	_	_	_	_	_	Gloss=après
-2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-3	nes	kaout	adjectif	_	_	_	_	_	Gloss=a
-4	dornet	dornañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=batt.u
+2	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+3	nes	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	dornet	dornañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=batt.u
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	ni	pfi	?	_	_	_	_	_	Gloss=nous
-7	??	??	?	_	_	_	_	_	Gloss=R|Morph=1
+6	ni	pfi	pronom	_	_	_	_	_	Gloss=nous
+7	??	??	?	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 9	zèbé	debriñ	verbe	_	_	_	_	_	Gloss=mangeait
 10	ioh	ioh	?	_	_	_	_	_	Gloss=tous
@@ -144,6 +152,7 @@
 # sent_id = Basque,Etxeberria(2012:95)__1
 # text = Soldadu-ek (pila bat) astakeria (pila bat) egin zituzten.
 # text_fr = 'Les soldats ont fait beaucoup d'actes stupides.'
+# source = Quéré (2011)
 1	Soldadu-ek	Soldadu-ek	?	_	_	_	_	_	Gloss=soldat-D.PL.ERG
 2	(pila	(pila	?	_	_	_	_	_	Gloss=(tas
 3	bat)	bat)	?	_	_	_	_	_	Gloss=un)

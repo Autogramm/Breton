@@ -1,0 +1,48 @@
+sent_id = Herrieu(1994:153)__1
+text = Amzer truek a ra deomp...
+text_fr =  'Il (nous) fait un temps pitoyable.'
+1	Amzer	Amzer	adverbe	_	_	_	_	_	Gloss=temps
+2	truek	truez	nom	_	_	_	_	_	Gloss=pitoy
+3	a ra	[[R]] [[ober|fait]]	?	_	_	_	_	_	Gloss=[[R]] [[ober|fait]]
+4	deomp..	da.pronom incorporé	préposition.nom	_	_	_	_	_	Gloss=à.nous
+5	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Burel(2012:198)__1
+text = ...dar récévour guinaouoc-sé.
+text_fr = '... à cet imbécile de receveur.' 
+1	...dar récévour	da.art	préposition.article	_	_	_	_	_	Gloss=pour.le
+2	guinaouoc-sé	DEM	nom	_	_	_	_	_	Gloss=ci
+3	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = Trépos(2001:§385)__1
+text = Ne chomfes ket eno ha pa vefes kaloneg.
+text_fr =  'Tu n'y resterais pas, même si tu étais courageux.'
+1	Ne chomfes	[[ne]]_[[1]] [[chom|resterais]]	?	_	_	_	_	_	Gloss=[[ne]]_[[1]] [[chom|resterais]]
+2	ket eno	ket	adverbe	_	_	_	_	_	Gloss=pas
+3	ha pa	ha pa	complémenteur	_	_	_	_	_	Gloss=même.si
+4	vefes	COP	copule	_	_	_	_	_	Gloss=serais
+5	kaloneg	kalon	nom	_	_	_	_	_	Gloss=courag
+6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
+
+sent_id = titredeArC'hog(1983)dansHorYezh148-149:3-14.__1
+text = 'Notennoù gramadeg a-ziwar skridoù Ivon Krog'
+text_fr =  'Notes de grammaire sur les écrits d'Ivon Krog.' 
+1	'Notennoù gramadeg	-où (PL.)	nom	_	_	_	_	_	Gloss=s
+2	a-ziwar	a-ziwar	préposition	_	_	_	_	_	Gloss=sur
+3	skridoù Ivon Krog'	-où (PL.)	nom	_	_	_	_	_	Gloss=s
+
+sent_id = Vallée(1980:XXI)__1
+text = bleo rodellet bleo rodellek
+text_fr =  'cheveux bouclés artificiellement vs. 'naturellement'
+1	bleo	blev	nom	_	_	_	_	_	Gloss=cheveux
+2	rodellet	rodellet	?	_	_	_	_	_	Gloss=bouclé
+3	bleo	blev	nom	_	_	_	_	_	Gloss=cheveux
+4	rodellek	rodellek	?	_	_	_	_	_	Gloss=bouclé
+
+sent_id = Vallée(1980:XXI)__1
+text = eun dén prederiet eun dén prederiek
+text_fr =  'une personne soucieuse, préoccupée passagèrement', vs. 'habituellement'
+1	eun dén	art	article	_	_	_	_	_	Gloss=un
+2	prederiet	prederiet	?	_	_	_	_	_	Gloss=pensée.sfx
+3	eun dén	art	article	_	_	_	_	_	Gloss=un
+4	prederiek	prederiek	?	_	_	_	_	_	Gloss=pensée.Adj.

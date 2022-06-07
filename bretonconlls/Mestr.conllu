@@ -4,17 +4,17 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Mestr	Mestr	nom	_	_	_	_	_	Gloss=maître
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	tiegezh	ti	nom	_	_	_	_	_	Gloss=maison
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-5	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
-6	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-7	oa	COP	?	_	_	_	_	_	Gloss=était
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+5	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
+6	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 10	zad	tad	nom	_	_	_	_	_	Gloss=père
 11	a-wel	a-wel	préposition	_	_	_	_	_	Gloss=en-vue
-12	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+12	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 13	c'hellout	gallout	verbe	_	_	_	_	_	Gloss=pouvoir
 14	paeañ	paieañ	verbe	_	_	_	_	_	Gloss=payer
 15	...	...	PUNCT	_	_	_	_	Gloss=punct
@@ -22,13 +22,14 @@
 # sent_id = Kervella(1933:76)__1
 # text = Hor mistri o deus en em ziskouezet dreist (...)
 # text_fr = 'Nos maîtres se sont montrés très efficaces.'
+# dialect = Standard
 # source = Kervella (1993)
 # texttype = Références de corpus
-1	Hor	POSS	?	_	_	_	_	_	Gloss=nos
-2	mistri	plurielinterne	?	_	_	_	_	_	Gloss=s
-3	o	kaout	?	_	_	_	_	_	Gloss=3PLa
-4	deus	deus	?	_	_	_	_	_	Gloss=?
-5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+1	Hor	POSS	déterminant	_	_	_	_	_	Gloss=nos
+2	mistri	pluriel_interne	?	_	_	_	_	_	Gloss=s
+3	o	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=3PL_a
+4	deus	deus	préposition	_	_	_	_	_	Gloss=?
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 6	em	em	?	_	_	_	_	_	Gloss=?
 7	ziskouezet	diskouez	verbe	_	_	_	_	_	Gloss=montré
 8	dreist	dreist	préposition	_	_	_	_	_	Gloss=super
@@ -37,15 +38,16 @@
 # sent_id = Drezen(1990:40)__1
 # text = Biken […] n'em bezo aotre digant an Tad-mestr.
 # text_fr = 'Je n'aurai jamais l'autorisation du maître.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Biken	biken	adverbe	_	_	_	_	_	Gloss=jamais
 2	[…]	[…]	?	_	_	_	_	_	Gloss=
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
 4	em	em	?	_	_	_	_	_	Gloss=R
-5	bezo	kaout	?	_	_	_	_	_	Gloss=aurai
+5	bezo	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aurai
 6	aotre	aotree	nom	_	_	_	_	_	Gloss=autorisation
 7	digant	digant	préposition	_	_	_	_	_	Gloss=de
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	Tad-mestr	tad	nom	_	_	_	_	_	Gloss=père
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

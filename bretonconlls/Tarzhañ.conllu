@@ -5,14 +5,14 @@
 # location = cantique
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Pe	peseurt,pezh	conjonction-complémenteur	_	_	_	_	_	Gloss=quel
+1	Pe	peseurt,_pezh	complémenteur|conjonction	_	_	_	_	_	Gloss=quel
 2	kalon	kalon	nom	_	_	_	_	_	Gloss=cœur
-3	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	darzho	darzho	?	_	_	_	_	_	Gloss=fendra
-5	get	gant	?	_	_	_	_	_	Gloss=avec
+5	get	gant	préposition	_	_	_	_	_	Gloss=avec
 6	chif	chif	?	_	_	_	_	_	Gloss=affliction
-7	ha	&	?	_	_	_	_	_	Gloss=et
-8	get	gant	?	_	_	_	_	_	Gloss=avec
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+8	get	gant	préposition	_	_	_	_	_	Gloss=avec
 9	glac'har	glac'har	?	_	_	_	_	_	Gloss=chagrin
 10	!	!	PUNCT	_	_	_	_	Gloss=punct
 
@@ -21,18 +21,18 @@
 # text_fr = 'En 1986 explosait un réacteur de la centrale nucléaire de Tchernobyl, en Ukraine.'
 # source = Bottineau (2010b)
 # texttype = Ouvrages de recherche
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	1986	1986	?	_	_	_	_	_	Gloss=1986
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	tarzhas	tarzhas	?	_	_	_	_	_	Gloss=explosa
-5	un	art	?	_	_	_	_	_	Gloss=un
+5	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 6	dazloc'her	daz-	?	_	_	_	_	_	Gloss=multi
-7	e	P.e	?	_	_	_	_	_	Gloss=en
-8	kreizenn	kreiz.-enn	nom.nom	_	_	_	_	_	Gloss=centre.SG
+7	e	P.e	préposition	_	_	_	_	_	Gloss=en
+8	kreizenn	kreiz.-enn	nom.suffixe|nom	_	_	_	_	_	Gloss=centre.SG
 9	nukleel	nukleel	?	_	_	_	_	_	Gloss=nucléaire
-10	Tchernobyl	nompropre	?	_	_	_	_	_	Gloss=Tchernobyl
-11	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-12	Ukrania	nompropre	?	_	_	_	_	_	Gloss=Ukraine
+10	Tchernobyl	nom_propre	?	_	_	_	_	_	Gloss=Tchernobyl
+11	en	P.e	préposition	_	_	_	_	_	Gloss=en
+12	Ukrania	nom_propre	?	_	_	_	_	_	Gloss=Ukraine
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1932:11)__2
@@ -40,13 +40,13 @@
 # text_fr = 'Ça m'est venu aux lèvres sans que j'y prenne garde.'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	Tarzhet	-et(Adj.)	?	_	_	_	_	_	Gloss=é
-2	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	war	war	?	_	_	_	_	_	Gloss=sur
-4	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+1	Tarzhet	-et_(Adj.)	verbe|suffixe	_	_	_	_	_	Gloss=é
+2	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+3	war	war	préposition	_	_	_	_	_	Gloss=sur
+4	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 5	muzell	muzell	nom	_	_	_	_	_	Gloss=lèvre
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
 7	hep	hep	préposition	_	_	_	_	_	Gloss=sans
-8	gouzout	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savoir
-9	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+8	gouzout	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savoir
+9	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

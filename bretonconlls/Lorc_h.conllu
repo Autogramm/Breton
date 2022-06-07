@@ -3,14 +3,14 @@
 # text_fr = 'J'étais sacrément fier d'aller jouer au petit soldat.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	Ul	art	?	_	_	_	_	_	Gloss=un
+1	Ul	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 2	lastez	lastez-	nom	_	_	_	_	_	Gloss=sapré
 3	lorc'h	lorc'h	?	_	_	_	_	_	Gloss=fierté
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	ennon	P.e.pronomincorporé	?.?	_	_	_	_	_	Gloss=en.moi
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	ennon	P.e.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=en.moi
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-8	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+8	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 9	c'hoari	c'hoari	?	_	_	_	_	_	Gloss=jouer
 10	soudardig	soudard.soudardig	nom.?	_	_	_	_	_	Gloss=soldat.DIM
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -22,11 +22,11 @@
 # source = Bodiou-Stephens (12/2021)
 # texttype = Élicitations
 1	Arabat	arabat	?	_	_	_	_	_	Gloss=faut.pas
-2	dec’h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-3	beañ	bezañ	?	_	_	_	_	_	Gloss=être
-4	re	re	adverbe	_	_	_	_	_	Gloss=trop|Morph=1
-5	lorc’hus	-us	?	_	_	_	_	_	Gloss=eux
-6	gant	gant	?	_	_	_	_	_	Gloss=avec
-7	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+2	dec’h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+3	beañ	bezañ	verbe|auxiliaire	_	_	_	_	_	Gloss=être
+4	re	re	adverbe	_	_	_	_	_	Gloss=trop|Mutation=trigger|MutationNUM=1
+5	lorc’hus	-us	suffixe|adjectif	_	_	_	_	_	Gloss=eux
+6	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+7	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 8	gonit..	gounit	verbe	_	_	_	_	_	Gloss=gain
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

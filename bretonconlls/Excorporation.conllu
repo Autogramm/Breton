@@ -3,13 +3,13 @@
 # text_fr = 'Il ne devient pas plus beau en vieillissant.'
 # location = Bodilis
 # source = Ar Floch (1985)
-1	N'	N'	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	N'	N'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	bravaat	brav.-aat	adverbe-adjectif.verbe	_	_	_	_	_	Gloss=beau.ir
-5	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-6	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	bravaat	brav.-aat	adverbe|adjectif.verbe|suffixe	_	_	_	_	_	Gloss=beau.ir
+5	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+6	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 7	dre	dre	préposition	_	_	_	_	_	Gloss=par
-8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+8	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 9	kosha	kozh	adjectif	_	_	_	_	_	Gloss=vieil
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

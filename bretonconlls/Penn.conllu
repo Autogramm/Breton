@@ -12,13 +12,13 @@
 # text_fr = 'liste des journaux bretons depuis la fin de la seconde guerre mondiale'
 # source = Hor Yezh
 1	Roll	roll	?	_	_	_	_	_	Gloss=liste
-2	ar	art	?	_	_	_	_	_	Gloss=le
-3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où(PL.)|x|Morph=5
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	c'helaouennoù	kelaouenn	nom	_	_	_	_	_	Gloss=journal]].[[-où_(PL.)|x|Mutation=target|MutationNUM=5
 4	brezhonek	brezhonek	?	_	_	_	_	_	Gloss=breton
-5	adalek	adalek	?	_	_	_	_	_	Gloss=depuis
+5	adalek	adalek	préposition	_	_	_	_	_	Gloss=depuis
 6	dibenn	dibenn	?	_	_	_	_	_	Gloss=fin
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	eil	ordinal	pronom	_	_	_	_	_	Gloss=second
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	eil	ordinal	adjectif	_	_	_	_	_	Gloss=second
 9	brezel-bed	brezel	nom	_	_	_	_	_	Gloss=guerre
 
 # sent_id = Léon(Plougerneau),M-L.B.(04/2016)__1
@@ -28,20 +28,20 @@
 # location = Plougerneau
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	E	P.e	?	_	_	_	_	_	Gloss=en
+1	E	P.e	préposition	_	_	_	_	_	Gloss=en
 2	Chin	Chin	?	_	_	_	_	_	Gloss=Chine
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ar	art	?	_	_	_	_	_	Gloss=le
-5	gouel	Gouel(M.)	?	_	_	_	_	_	Gloss=fête
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+5	gouel	Gouel_(M.)	nom	_	_	_	_	_	Gloss=fête
 6	penn	penn	nom	_	_	_	_	_	Gloss=tête
-7	kentañ	kentañ	?	_	_	_	_	_	Gloss=premier
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	kentañ	kentañ	adjectif	_	_	_	_	_	Gloss=premier
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 10	a	a	préposition	_	_	_	_	_	Gloss=R
-11	ioa	COP	?	_	_	_	_	_	Gloss=était
-12	ar	art	?	_	_	_	_	_	Gloss=le
+11	ioa	COP	verbe	_	_	_	_	_	Gloss=était
+12	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	zuzun	sizhun	nom	_	_	_	_	_	Gloss=semaine
-14	paset	paseal.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pass.é
+14	paset	paseal.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pass.é
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Konan(2017:'diruskañ')__1
@@ -50,16 +50,16 @@
 # dialect = Trégorrois
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	paotr	paotr	nom	_	_	_	_	_	Gloss=gars
-3	bihan	bihan	adverbe-quantifieur-adjectif	_	_	_	_	_	Gloss=petit
-4	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-5	kouezhañ	kouezhañ	?	_	_	_	_	_	Gloss=tombé
+3	bihan	bihan	adverbe|quantifieur|adjectif	_	_	_	_	_	Gloss=petit
+4	o	particule_o	?	_	_	_	_	_	Gloss=à
+5	kouezhañ	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
 6	en	en	complémenteur	_	_	_	_	_	Gloss=R
-7	devoa	kaout	?	_	_	_	_	_	Gloss=avait
-8	dirusket	di-,dis-.rusk.[-et(Adj.)	?.nom.?	_	_	_	_	_	Gloss=dé.écorc.é
+7	devoa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
+8	dirusket	di-,_dis-.rusk.[-et_(Adj.)	?.nom.?	_	_	_	_	_	Gloss=dé.écorc.é
 9	penn	penn	nom	_	_	_	_	_	Gloss=tête
-10	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	c'hlin	glin	nom	_	_	_	_	_	Gloss=genou
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -68,9 +68,9 @@
 # text_fr = 'Il a trouvé le moyen.'
 # source = Roudaut (1872)
 # texttype = Ouvrages de recherche
-1	caved	kavout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+1	caved	kavout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=trouv.é
 2	en	en	complémenteur	_	_	_	_	_	Gloss=3SGM
-3	deus	kaout	?	_	_	_	_	_	Gloss=a
-4	ar	art	?	_	_	_	_	_	Gloss=le
+3	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	penn	penn	nom	_	_	_	_	_	Gloss=moyen
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

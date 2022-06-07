@@ -5,26 +5,26 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Abalamour	abalamour	préposition-complémenteur	_	_	_	_	_	Gloss=car
-2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-3	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+1	Abalamour	abalamour	complémenteur|préposition	_	_	_	_	_	Gloss=car
+2	pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+3	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 4	mareoù	mareoù	?	_	_	_	_	_	Gloss=marées
 5	,	,	PUNCT	_	_	_	_	Gloss=punct
-6	aze	aze	?	_	_	_	_	_	Gloss=là
-7	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-8	oa	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+6	aze	aze	adverbe	_	_	_	_	_	Gloss=là
+7	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+8	oa	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	aes	aes	adjectif	_	_	_	_	_	Gloss=facile
 11	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=des.fois
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
 13	dac'h	dac'h	?	_	_	_	_	_	Gloss=selon
-14	ar	art	?	_	_	_	_	_	Gloss=le
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	roud-avel	roud	nom	_	_	_	_	_	Gloss=trace
-16	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-17	veze	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=était
+16	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+17	veze	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=était
 18	,	,	PUNCT	_	_	_	_	Gloss=punct
 19	pakat	pakat	?	_	_	_	_	_	Gloss=atteindre
-20	an	art	?	_	_	_	_	_	Gloss=le
+20	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 21	enez	enez	nom	_	_	_	_	_	Gloss=île
 22	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,20 +35,20 @@
 # location = Plouider
 # source = Burel (2012)
 # texttype = Références de corpus
-1	Ho	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-2	zri	numérauxcardinaux	?	_	_	_	_	_	Gloss=trois
+1	Ho	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+2	zri	numéraux_cardinaux	?	_	_	_	_	_	Gloss=trois
 3	hé	hé	?	_	_	_	_	_	Gloss=R
-4	lamchont	lammat	?	_	_	_	_	_	Gloss=sautèrent
-5	varnézan	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+4	lamchont	lammat	verbe	_	_	_	_	_	Gloss=sautèrent
+5	varnézan	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 8	pakas	pakas	?	_	_	_	_	_	Gloss=attrapa
-9	digant'	digant.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+9	digant'	digant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 10	ho	ho	?	_	_	_	_	_	Gloss=?
-11	eur	art	nom	_	_	_	_	_	Gloss=un
+11	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 12	roustat	roustat	?	_	_	_	_	_	Gloss=râclée
-13	eus	eus	?	_	_	_	_	_	Gloss=de
-14	ar	art	?	_	_	_	_	_	Gloss=le
+13	eus	eus	préposition	_	_	_	_	_	Gloss=de
+14	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	goassa	gwashañ	adjectif	_	_	_	_	_	Gloss=pire
 16	tout..	tout..	?	_	_	_	_	_	Gloss=tout
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

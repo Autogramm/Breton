@@ -5,13 +5,13 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
-3	ziweza	diwezhat	adverbe	_	_	_	_	_	Gloss=tard]].[[superlatif|le.plus|Morph=1
-4	o-deveze	kaout	?	_	_	_	_	_	Gloss=avait
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
+3	ziweza	diwezhat	adverbe	_	_	_	_	_	Gloss=tard]].[[superlatif|le.plus|Mutation=target|MutationNUM=1
+4	o-deveze	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	poan	poan	nom	_	_	_	_	_	Gloss=peine
-6	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+6	o	particule_o	?	_	_	_	_	_	Gloss=à
 7	kavoud	kavout	verbe	_	_	_	_	_	Gloss=trouver
-8	eur	art	nom	_	_	_	_	_	Gloss=un
+8	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 9	gador	gador	?	_	_	_	_	_	Gloss=1
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

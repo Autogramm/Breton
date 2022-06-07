@@ -1,22 +1,24 @@
 # sent_id = Gros(1989:'digarez')__1
 # text = War zigarez ma oa kousket e ranke lezel anezañ eno hep na tamm na takenn ?
 # text_fr = 'Sous prétexte qu'il dormait, fallait-il qu'il le laissât là sans boire ni manger.'
-# source = Gros (1989)
-1	War	war	?	_	_	_	_	_	Gloss=sur|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	War	war	préposition	_	_	_	_	_	Gloss=sur|Mutation=trigger|MutationNUM=1
 2	zigarez	zigarez	?	_	_	_	_	_	Gloss=excuse
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	oa	COP	?	_	_	_	_	_	Gloss=était
-5	kousket	kousket	?	_	_	_	_	_	Gloss=endormi
-6	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	oa	COP	verbe	_	_	_	_	_	Gloss=était
+5	kousket	kousket	verbe	_	_	_	_	_	Gloss=endormi
+6	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 7	ranke	rankout	verbe	_	_	_	_	_	Gloss=devait
-8	lezel	lezel	?	_	_	_	_	_	Gloss=laisser
-9	anezañ	a.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
-10	eno	eno	?	_	_	_	_	_	Gloss=là
+8	lezel	lezel	verbe	_	_	_	_	_	Gloss=laisser
+9	anezañ	a.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=P.lui
+10	eno	eno	adverbe	_	_	_	_	_	Gloss=là
 11	hep	hep	préposition	_	_	_	_	_	Gloss=sans
-12	na	na...na	?	_	_	_	_	_	Gloss=ni
-13	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
-14	na	na...na	?	_	_	_	_	_	Gloss=ni
-15	takenn	minimiseur	nom	_	_	_	_	_	Gloss=goutte
+12	na	na..._na	?	_	_	_	_	_	Gloss=ni
+13	tamm	tamm	quantifieur	_	_	_	_	_	Gloss=?
+14	na	na..._na	?	_	_	_	_	_	Gloss=ni
+15	takenn	takenn	nom	_	_	_	_	_	Gloss=?
 16	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Bouzeg(1986:29)__7
@@ -26,14 +28,14 @@
 # location = Riec
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
-1	'	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	'	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	deuet	dont.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=ven.u
-5	'	Résomption_du_sujet_'à_la_Cornouaillaise'.pronomincorporé	?.?	_	_	_	_	_	Gloss=P.elle
+4	deuet	dont.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=ven.u
+5	'	Résomption_du_sujet_'à_la_Cornouaillaise'.pronom_incorporé	?.?	_	_	_	_	_	Gloss=P.elle
 6	nezhi,	nezhi,	?	_	_	_	_	_	Gloss=?
-7	digar	digar	?	_	_	_	_	_	Gloss=prétexte
-8	'	E	?	_	_	_	_	_	Gloss=y.avait
+7	digar	digar	nom	_	_	_	_	_	Gloss=prétexte
+8	'	E	verbe	_	_	_	_	_	Gloss=y.avait
 9	oa	oa	?	_	_	_	_	_	Gloss=?
 10	bet	bet	?	_	_	_	_	_	Gloss=eu
 11	rial	riell	nom	_	_	_	_	_	Gloss=verglas
@@ -43,22 +45,23 @@
 # sent_id = Standard,Kervella(2013)__1
 # text = Ho tigarez, eme Mammig, met dav eo d'ar paotrig mont abred da gousket.
 # text_fr = 'Excusez-moi, dit maman, mais le petit doit se coucher tôt.'
+# dialect = Standard
 # source = Kervella (2013)
 # texttype = Références de corpus
-1	Ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+1	Ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 2	tigarez	tigarez	?	_	_	_	_	_	Gloss=excuse
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	eme	eme	préposition	_	_	_	_	_	Gloss=dit
 5	Mammig	mamm.Mammig	nom.?	_	_	_	_	_	Gloss=maman.DIM
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+7	met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 8	dav	dav	adjectif	_	_	_	_	_	Gloss=dev(oir)
-9	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-10	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-11	ar	art	?	_	_	_	_	_	Gloss=le
+9	eo	COP	verbe	_	_	_	_	_	Gloss=est
+10	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	paotrig	paotr.paotrig	nom.?	_	_	_	_	_	Gloss=gars.DIM
 13	mont	mont	verbe	_	_	_	_	_	Gloss=aller
-14	abred	abred	adverbe-adjectif	_	_	_	_	_	Gloss=tôt
-15	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+14	abred	abred	adverbe|adjectif	_	_	_	_	_	Gloss=tôt
+15	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 16	gousket	kousk	verbe	_	_	_	_	_	Gloss=dormir
 17	.	.	PUNCT	_	_	_	_	Gloss=punct

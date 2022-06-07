@@ -5,26 +5,27 @@
 # location = Jo Sergent
 # source = Louis (2015)
 # texttype = Ouvrages de recherche
-1	Kar	kar	?	_	_	_	_	_	Gloss=car
+1	Kar	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
 2	a-vihanoc'h	a-vihanoc'h	?	_	_	_	_	_	Gloss=sinon
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 4	krog	kregiñ	verbe	_	_	_	_	_	Gloss=croche
-5	ar	art	?	_	_	_	_	_	Gloss=le
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	c'hleñved	c'hleñved	?	_	_	_	_	_	Gloss=5
-7	a-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dedans
+7	a-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dedans
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Louis (2015:156)__1
+# sent_id = Louis(2015:156)__1
 # text = Ne oé ket kroget er hlinùed én hon.
 # text_fr = 'Il n’avait pas attrapé la maladie.'
 # source2 = Larboulet 1907)
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-2	oé	COP	?	_	_	_	_	_	Gloss=était
+# source = Louis (2015)
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+2	oé	COP	verbe	_	_	_	_	_	Gloss=était
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	kroget	kregiñ	verbe	_	_	_	_	_	Gloss=croché
-5	er	art	?	_	_	_	_	_	Gloss=le
+5	er	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	hlinùed	hlinùed	?	_	_	_	_	_	Gloss=5
-7	én	P.e	?	_	_	_	_	_	Gloss=en
+7	én	P.e	préposition	_	_	_	_	_	Gloss=en
 8	hon	hon	?	_	_	_	_	_	Gloss=lui
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -35,12 +36,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	oan	COP	nom	_	_	_	_	_	Gloss=étais
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 3	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
-4	eur	art	nom	_	_	_	_	_	Gloss=un
-5	wall-gleñved	gwall-	nom-adverbe	_	_	_	_	_	Gloss=mauvais|Morph=1
-6	e-touez	e-touez	?	_	_	_	_	_	Gloss=parmi
-7	an	art	?	_	_	_	_	_	Gloss=le
-8	dud..	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+4	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+5	wall-gleñved	gwall-	adverbe|nom	_	_	_	_	_	Gloss=mauvais|Mutation=trigger|MutationNUM=1
+6	e-touez	e-touez	préposition	_	_	_	_	_	Gloss=parmi
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+8	dud..	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 9	.	.	PUNCT	_	_	_	_	Gloss=punct

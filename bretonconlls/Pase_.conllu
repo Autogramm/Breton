@@ -1,10 +1,10 @@
-# sent_id = Fave (1998:135)__1
+# sent_id = Fave(1998:135)__1
 # text = A: - Fichet e oa ar plac'h nevez?
 # text_fr = 'La mariée était bien habillée ? Oh non ! Pas "bien habillée" ! Plus que ça.'
 1	A:	A:	?	_	_	_	_	_	Gloss=
 2	-	-	PUNCT	_	_	_	_	Gloss=punct
 3	Fichet	Fichet	?	_	_	_	_	_	Gloss=?
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	oa	COP	?	_	_	_	_	_	Gloss=était
-6	ar	art	?	_	_	_	_	_	Gloss=le
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	oa	COP	verbe	_	_	_	_	_	Gloss=était
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille

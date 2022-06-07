@@ -6,11 +6,11 @@
 # texttype = Ouvrages de recherche
 1	Bez'	bez'	?	_	_	_	_	_	Gloss=expl
 2			PUNCT	_	_	_	_	Gloss=punct
-3	oa	COP	?	_	_	_	_	_	Gloss=était
+3	oa	COP	verbe	_	_	_	_	_	Gloss=était
 4	tud	tud	nom	_	_	_	_	_	Gloss=gens
 5	pinvidikoh	pinvidik.-oc'h	adjectif.?	_	_	_	_	_	Gloss=riche.plus
-6	hag	&	?	_	_	_	_	_	Gloss=et
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+6	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	labourent	labourat	verbe	_	_	_	_	_	Gloss=travaillaient
 9	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -18,14 +18,16 @@
 # sent_id = Herrieu(1994:86)__2
 # text = Holl an dudigoù-mañ a vev diàr goust ar soudard.
 # text_fr = 'Toutes ces petites gens vivent sur le compte du soldat.'
-# source = Herrieu (1994)
-1	Holl	holl	adverbe-quantifieur	_	_	_	_	_	Gloss=tout
-2	an	art	?	_	_	_	_	_	Gloss=le
-3	dudigoù-mañ	dudigoù-mañ.dudigoù-mañ.DEM	?.?.?	_	_	_	_	_	Gloss=1.DIM.ci
-4	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	Holl	holl	adverbe|quantifieur	_	_	_	_	_	Gloss=tout
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+3	dudigoù-mañ	dudigoù-mañ.dudigoù-mañ.DEM	?.?.pronom	_	_	_	_	_	Gloss=1.DIM.ci
+4	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 5	vev	bevañ	verbe	_	_	_	_	_	Gloss=vit
-6	diàr	diwar	préposition	_	_	_	_	_	Gloss=de|Morph=1
+6	diàr	diwar	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 7	goust	koust	?	_	_	_	_	_	Gloss=coût
-8	ar	art	?	_	_	_	_	_	Gloss=le
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	soudard	soudard	nom	_	_	_	_	_	Gloss=soldat
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

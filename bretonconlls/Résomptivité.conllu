@@ -1,0 +1,13 @@
+sent_id = Croq(1908:19)__1
+text = Mez an neb en deus c'hoant e gwirionez d'o dizoloï,
+text_fr =  'Mais à celui qui veut les découvrir, je conseille de suivre la soupe (argent).'
+dialect = Cornouaillais
+source = Croq (1908)
+texttype = Références de corpus
+1	Mez	met	complémenteur-conjonction	_	_	_	_	_	Gloss=mais
+2	an neb	art	?	_	_	_	_	_	Gloss=le
+3	en deus	[[R]].3SGM [[kaout|a]]	?	_	_	_	_	_	Gloss=[[R]].3SGM [[kaout|a]]
+4	c'hoant	c'hoant	nom	_	_	_	_	_	Gloss=envie
+5	e gwirionez	P.e	?	_	_	_	_	_	Gloss=en
+6	d'o dizoloï	da	préposition	_	_	_	_	_	Gloss=de
+7	,	,	PUNCT	_	_	_	_	_	Gloss=punct

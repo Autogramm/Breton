@@ -2,12 +2,12 @@
 # text = Matriona ne ouie nac'h ouzh den.
 # text_fr = 'Matriona ne savait dire "non" à personne.'
 # source = ar Barzhig (1976)
-1	Matriona	nompropre	?	_	_	_	_	_	Gloss=Matriona
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	ouie	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=savait
+1	Matriona	nom_propre	?	_	_	_	_	_	Gloss=Matriona
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	ouie	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=savait
 4	nac'h	nac'h	?	_	_	_	_	_	Gloss=refuser
 5	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
-6	den	nomnu	nom	_	_	_	_	_	Gloss=personne
+6	den	nom_nu	nom	_	_	_	_	_	Gloss=personne
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = arGo(1950:7)__2
@@ -17,11 +17,11 @@
 # source = ar Go (1950)
 1	rankas	rankout	verbe	_	_	_	_	_	Gloss=dût
 2	nac'h	nac'h	?	_	_	_	_	_	Gloss=refuser
-3	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+3	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 4	vicher	micher	nom	_	_	_	_	_	Gloss=métier
-5	kelenner	kelenn.-er,-our	?.?	_	_	_	_	_	Gloss=enseign.ant
+5	kelenner	kelenn.-er,_-our	verbe.suffixe|nom	_	_	_	_	_	Gloss=enseign.ant
 6	e-doug	e-doug	préposition	_	_	_	_	_	Gloss=pendant
-7	ar	art	?	_	_	_	_	_	Gloss=le
+7	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	bloaz	bloaz	nom	_	_	_	_	_	Gloss=an
 9	1908	1908	?	_	_	_	_	_	Gloss=1908
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

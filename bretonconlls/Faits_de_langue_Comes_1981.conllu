@@ -3,14 +3,14 @@
 # text_fr = 'On dirait que la chouette lui parle.'
 1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
-4	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-5	eman	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	gaouenn	kaouenn	nom	_	_	_	_	_	Gloss=chouette|Morph=1
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+3	rafe	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferait
+4	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+5	eman	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	gaouenn	kaouenn	nom	_	_	_	_	_	Gloss=chouette|Mutation=target|MutationNUM=1
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	kaozeal	kaozeal	verbe	_	_	_	_	_	Gloss=parler
-10	dezhi	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
+10	dezhi	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Comes(1981:27)__1
@@ -18,32 +18,32 @@
 # text_fr = 'On dirait qu'il n'a pas souffert.'
 1	Laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
 2	'	'	?	_	_	_	_	_	Gloss=R
-3	rafe	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=ferait
-4	an	IMP	?	_	_	_	_	_	Gloss=on
+3	rafe	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=ferait
+4	an	IMP	pronom	_	_	_	_	_	Gloss=on
 5	nen	nen	?	_	_	_	_	_	Gloss=?
 6	'	'	?	_	_	_	_	_	Gloss=ne
 7	neus	neus	préposition	_	_	_	_	_	Gloss=a
 8	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-9	gouzanvet	gouzañv.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=souff.ert
+9	gouzanvet	gouzañv.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=souff.ert
 10	anezhan	a	préposition	_	_	_	_	_	Gloss=P
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Comes(1981:33)__1
 # text = Kezeg ! O nann ! Bez 'meus dija ur fordellad deus outo!
 # text_fr = 'Des chevaux ! Ah non ! J'en ai déjà une palanquée.'
-1	Kezeg	kezeg	?	_	_	_	_	_	Gloss=chevaux
+1	Kezeg	kezeg	nom	_	_	_	_	_	Gloss=chevaux
 2	!	!	PUNCT	_	_	_	_	Gloss=punct
 3	O	O	?	_	_	_	_	_	Gloss=Ah
 4	nann	nann	interjection	_	_	_	_	_	Gloss=non
 5	!	!	PUNCT	_	_	_	_	Gloss=punct
 6	Bez	Bez	?	_	_	_	_	_	Gloss=Expl
-7	'	'	?	_	_	_	_	_	Gloss=R
+7	'	'	particules verbale	_	_	_	_	_	Gloss=R
 8	meus	meus	?	_	_	_	_	_	Gloss=ai.1SG
 9	dija	dija	adverbe	_	_	_	_	_	Gloss=déjà
-10	ur	art	?	_	_	_	_	_	Gloss=un
+10	ur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 11	fordellad	fordellad	?	_	_	_	_	_	Gloss=?
-12	deus	deus	?	_	_	_	_	_	Gloss=de
-13	outo	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
+12	deus	deus	préposition	_	_	_	_	_	Gloss=de
+13	outo	ouzh.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=de.eux
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Comes(1981:48)__1
@@ -51,8 +51,8 @@
 # text_fr = 'Je n'ai pas chanté, moi !'
 1	N'	N'	?	_	_	_	_	_	Gloss=ne
 2	em	em	?	_	_	_	_	_	Gloss=1SG.ai
-3	eus	eus	?	_	_	_	_	_	Gloss=?
+3	eus	eus	préposition	_	_	_	_	_	Gloss=?
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	kanet	kanañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=chant.é
+5	kanet	kanañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=chant.é
 6	ac'hanon	a	préposition	_	_	_	_	_	Gloss=P
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

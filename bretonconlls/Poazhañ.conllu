@@ -3,13 +3,13 @@
 # text_fr = 'pour cuire les poissons que nous aurons attrapés.'
 # location = Pleyben
 # source = ar Gow (1999)
-1	evit	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evit	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	poazhañ	poazhañ	verbe	_	_	_	_	_	Gloss=cuire
-3	ar	art	?	_	_	_	_	_	Gloss=le
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 4	pesked	pesk	nom	_	_	_	_	_	Gloss=poissons
 5	[...]	[...]	?	_	_	_	_	_	Gloss=?
 6	hor	hor	?	_	_	_	_	_	Gloss=1PL
-7	bezo	kaout	?	_	_	_	_	_	Gloss=aura
+7	bezo	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=aura
 8	paket	pakañ	verbe	_	_	_	_	_	Gloss=attrapé
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -18,12 +18,12 @@
 # text_fr = 'Ça vous brûle la gueule.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Poa'	-añ(V.)	?	_	_	_	_	_	Gloss=re
+1	Poa'	-añ_(V.)	verbe|suffixe	_	_	_	_	_	Gloss=re
 2	hañ	hañ	?	_	_	_	_	_	Gloss=?
 3	'	'	?	_	_	_	_	_	Gloss=R
-4	ra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fait
+4	ra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fait
 5	beg	beg	nom	_	_	_	_	_	Gloss=bouche
-6	'	IMP	?	_	_	_	_	_	Gloss=on
+6	'	IMP	pronom	_	_	_	_	_	Gloss=on
 7	n	n	?	_	_	_	_	_	Gloss=?
 8	nen.	nen.	?	_	_	_	_	_	Gloss=?
 
@@ -34,14 +34,14 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vezent	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=étaient
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vezent	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=étaient
 3	poaz-mat	poazh	adjectif	_	_	_	_	_	Gloss=cuit
-4	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-5	staged	stagañ.IMP	verbe.?	_	_	_	_	_	Gloss=commençait.on
+4	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+5	staged	stagañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=commençait.on
 6	da	da	préposition	_	_	_	_	_	Gloss=à
-7	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-8	ar	art	?	_	_	_	_	_	Gloss=le
+7	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	gwadigennou	gwadigennou	?	_	_	_	_	_	Gloss=saucisses
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -50,19 +50,19 @@
 # text_fr = 'J’ai vu mettre dans le pâté jusqu’à la couenne mal cuite ou à moitié cuite.'
 # source = Blanchard (2016)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	am	am	?	_	_	_	_	_	Gloss=1SG
-3	meus	kaout	?	_	_	_	_	_	Gloss=a
-4	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-5	boulboazet	boull-	adjectif	_	_	_	_	_	Gloss=mal|Morph=1
-6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
-7	hanter	hanter-	?	_	_	_	_	_	Gloss=moitié|Morph=1
+3	meus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+4	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+5	boulboazet	boull-	adjectif	_	_	_	_	_	Gloss=mal|Mutation=trigger|MutationNUM=1
+6	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
+7	hanter	hanter-	?	_	_	_	_	_	Gloss=moitié|Mutation=trigger|MutationNUM=1
 8	boazet	boazet	?	_	_	_	_	_	Gloss=?
-9	an	art	?	_	_	_	_	_	Gloss=le
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	donenn	donenn	?	_	_	_	_	_	Gloss=couenne
-11	lakaet	lakaat.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=m.is
-12	e-barzh	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-13	ar	art	?	_	_	_	_	_	Gloss=le
+11	lakaet	lakaat.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=m.is
+12	e-barzh	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+13	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 14	paste	paste	?	_	_	_	_	_	Gloss=pâté
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -73,7 +73,7 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	evid	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+1	evid	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 2	poaza	poaza	?	_	_	_	_	_	Gloss=cuire
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	gwadegennou	gwad.gwadegennou.-enn.-où(PL.)	nom.?.nom.?	_	_	_	_	_	Gloss=sang.DIM.SG.PL
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	gwadegennou	gwad.gwadegennou.-enn.-où_(PL.)	nom.?.suffixe|nom.suffixe	_	_	_	_	_	Gloss=sang.DIM.SG.PL

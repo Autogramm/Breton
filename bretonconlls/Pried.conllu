@@ -4,15 +4,15 @@
 # location = Bodilis
 # source = Ar Floch (1985)
 1	Antronoz	antronoz	adverbe	_	_	_	_	_	Gloss=lendemain
-2	an	art	?	_	_	_	_	_	Gloss=le
+2	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	eured	eured	nom	_	_	_	_	_	Gloss=noces
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	an	art	?	_	_	_	_	_	Gloss=le
-6	daou	numérauxcardinaux	?	_	_	_	_	_	Gloss=deux|Morph=1
+5	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	daou	numéraux_cardinaux	?	_	_	_	_	_	Gloss=deux
 7	bried	bried	?	_	_	_	_	_	Gloss=époux
 8	a	a	préposition	_	_	_	_	_	Gloss=R
 9	deuas	dont	verbe	_	_	_	_	_	Gloss=venir
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	chom	chom	verbe	_	_	_	_	_	Gloss=rester
-12	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-13	Vodiliz…	nompropre	?	_	_	_	_	_	Gloss=Bodilis
+12	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+13	Vodiliz…	nom_propre	?	_	_	_	_	_	Gloss=Bodilis

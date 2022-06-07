@@ -5,15 +5,15 @@
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
 1	Kerz	kerzhout	verbe	_	_	_	_	_	Gloss=va
-2	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+2	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 3	bourmen	pourmen	verbe	_	_	_	_	_	Gloss=promener
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
 5	marmouz	marmouz	nom	_	_	_	_	_	Gloss=singe
 6	,	,	PUNCT	_	_	_	_	Gloss=punct
-7	ha	&	?	_	_	_	_	_	Gloss=et
+7	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 8	chom	chom	verbe	_	_	_	_	_	Gloss=reste
 9	peoc'h	peoc'h	?	_	_	_	_	_	Gloss=paix
-10	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+10	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArBorgn(2011:57)__1
@@ -22,10 +22,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Ema	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-2	ec'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-3	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-4	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+1	Ema	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+2	ec'h	particule_o	?	_	_	_	_	_	Gloss=à
+3	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+4	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 5	damm	tamm	quantifieur	_	_	_	_	_	Gloss=morceau
 6	marmouz	marmouz	nom	_	_	_	_	_	Gloss=singe
 7	!	!	PUNCT	_	_	_	_	Gloss=punct

@@ -1,7 +1,9 @@
 # sent_id = Kervella(1995:§513)__1
 # text = brizh  vrezhoneg
 # text_fr = 'breton argotique ou état détérioré de la langue'
-# source = Kervella (1995)
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
 1	brizh	brizh	adjectif	_	_	_	_	_	Gloss=1
 2			PUNCT	_	_	_	_	Gloss=punct
 3	vrezhoneg	vrezhoneg	?	_	_	_	_	_	Gloss=?
@@ -12,8 +14,8 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re-ze	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re-ze	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
 4	klev	klevout	verbe	_	_	_	_	_	Gloss=écoute
 5	,	,	PUNCT	_	_	_	_	Gloss=punct

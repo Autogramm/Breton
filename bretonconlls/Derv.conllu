@@ -1,16 +1,17 @@
 # sent_id = L'Hôpital-Camfrout,LeGall(1958)__2
 # text = Ar verklenn wenn a zo kouet war deliou an dero yaouank.
 # text_fr = 'Les feuillages des jeunes chênes ont attrapé l'oïdium.'
-# source = Le Gall (1958)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	verklenn	mergl	nom	_	_	_	_	_	Gloss=rouille]].[[-enn|SG|Morph=1
-3	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc|Morph=1
+# source = Le Gall (1957-58)
+# texttype = Ouvrages de recherche
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	verklenn	mergl	nom	_	_	_	_	_	Gloss=rouille]].[[-enn|SG|Mutation=target|MutationNUM=1
+3	wenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc|Mutation=target|MutationNUM=1
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	kouet	kouezhañ	?	_	_	_	_	_	Gloss=tombé
-7	war	war	?	_	_	_	_	_	Gloss=sur
+6	kouet	kouezhañ	verbe	_	_	_	_	_	Gloss=tombé
+7	war	war	préposition	_	_	_	_	_	Gloss=sur
 8	deliou	del.-où	nom.?	_	_	_	_	_	Gloss=feuillage.s
-9	an	art	?	_	_	_	_	_	Gloss=le
+9	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 10	dero	dero	?	_	_	_	_	_	Gloss=chênes
 11	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
 12	.	.	PUNCT	_	_	_	_	Gloss=punct

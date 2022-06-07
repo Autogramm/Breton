@@ -3,14 +3,14 @@
 # text_fr = 'Pourvu qu'elle ne me laisse pas en plan avec mes statuettes !'
 # source = Drezen (1932)
 # texttype = Références de corpus
-1	gand	gantma	?	_	_	_	_	_	Gloss=pourvu.que|Morph=4
+1	gand	gant_ma	?	_	_	_	_	_	Gloss=pourvu.que
 2	ma	ma	complémenteur	_	_	_	_	_	Gloss=?
 3	n'	n'	?	_	_	_	_	_	Gloss=ne
-4	am	POP	?	_	_	_	_	_	Gloss=me
-5	lezo	lezel	?	_	_	_	_	_	Gloss=laissera
+4	am	POP	pronom	_	_	_	_	_	Gloss=me
+5	lezo	lezel	verbe	_	_	_	_	_	Gloss=laissera
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	a-istribilh	a-istribilh	?	_	_	_	_	_	Gloss=en.plan
-8	gant	gant	?	_	_	_	_	_	Gloss=avec
-9	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-10	boulomoùigoù	-où(PL.).boulomoùigoù	?.?	_	_	_	_	_	Gloss=s.DIM
+7	a-istribilh	a-istribilh	préposition	_	_	_	_	_	Gloss=en.plan
+8	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+9	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+10	boulomoùigoù	-où_(PL.).boulomoùigoù	suffixe.?	_	_	_	_	_	Gloss=s.DIM
 11	.	.	PUNCT	_	_	_	_	Gloss=punct

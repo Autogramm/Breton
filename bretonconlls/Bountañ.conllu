@@ -1,30 +1,34 @@
 # sent_id = (Gros1984:78)__1
 # text = Boutañ ha chachañ a reent an eil war egile diouz o gwasañ.
 # text_fr = 'Ils poussaient et tiraient l'un sur l'autre de toutes leurs forces.'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Boutañ	Boutañ	?	_	_	_	_	_	Gloss=pousser
-2	ha	&	?	_	_	_	_	_	Gloss=et
+2	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 3	chachañ	sachañ	verbe	_	_	_	_	_	Gloss=tirer
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	reent	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisaient
-6	an	art	?	_	_	_	_	_	Gloss=le
-7	eil	pronomréciproque	pronom	_	_	_	_	_	Gloss=second
-8	war	war	?	_	_	_	_	_	Gloss=sur
-9	egile	egile	?	_	_	_	_	_	Gloss=autre
+5	reent	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisaient
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	eil	pronom_réciproque	pronom	_	_	_	_	_	Gloss=second
+8	war	war	préposition	_	_	_	_	_	Gloss=sur
+9	egile	egile	pronom	_	_	_	_	_	Gloss=autre
 10	diouz	diouzh	préposition	_	_	_	_	_	Gloss=de
-11	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+11	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 12	gwasañ	gwashañ	adjectif	_	_	_	_	_	Gloss=pire
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kaoz')__1
 # text = na houllan ket beza boutet e kaoz.
 # text_fr = '... je ne veux pas être mêlé à des cancans.'
-# source = Gros (1989)
-1	na	na	?	_	_	_	_	_	Gloss=ne|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	na	na	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	houllan	goulenn	verbe	_	_	_	_	_	Gloss=demande
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-4	beza	bezan	?	_	_	_	_	_	Gloss=être
+4	beza	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 5	boutet	boutet	?	_	_	_	_	_	Gloss=poussé
-6	e	P.e	?	_	_	_	_	_	Gloss=en
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
 7	kaoz	kaoz	nom	_	_	_	_	_	Gloss=conversation
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

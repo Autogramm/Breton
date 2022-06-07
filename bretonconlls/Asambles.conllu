@@ -5,17 +5,17 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Bet	Bezañpréverbal	?	_	_	_	_	_	Gloss=être
-2	e	COP	?	_	_	_	_	_	Gloss=est
+1	Bet	Bezañ_préverbal	?	_	_	_	_	_	Gloss=être
+2	e	COP	verbe	_	_	_	_	_	Gloss=est
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	e	e	?	_	_	_	_	_	Gloss=R
-5	reamp	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faisions
-6	ar	art	?	_	_	_	_	_	Gloss=le|Morph=5
+4	e	e	verbe	_	_	_	_	_	Gloss=R
+5	reamp	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faisions
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le|Mutation=trigger|MutationNUM=5
 7	c'hourrie	c'hourrie	?	_	_	_	_	_	Gloss=courrier
 8	asamblez	asamblez	?	_	_	_	_	_	Gloss=ensemble
-9	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+9	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 10	gerc'hat	kerc'hat	?	_	_	_	_	_	Gloss=chercher
-11	ar	art	?	_	_	_	_	_	Gloss=le
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 12	ravitailhamant	ravitailhamant	?	_	_	_	_	_	Gloss=ravitaillement
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -28,24 +28,25 @@
 1	Djwelet	gwelout	verbe	_	_	_	_	_	Gloss=voir
 2	'	'	?	_	_	_	_	_	Gloss=R
 3			PUNCT	_	_	_	_	Gloss=punct
-4	rit	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
+4	rit	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
 5	en	en	complémenteur	_	_	_	_	_	Gloss=|
-6	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+6	em	en_em	?	_	_	_	_	_	Gloss=se
 7	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
-8	an	art	?	_	_	_	_	_	Gloss=le
-9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Morph=1
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+9	dud	tud	nom	_	_	_	_	_	Gloss=gens|Mutation=target|MutationNUM=1
 10	asames	asames	?	_	_	_	_	_	Gloss=ensemble
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Bouzec & al. (2017:109)__1
+# sent_id = Bouzec&al.(2017:109)__1
 # text = Skleit 'vi Joz, oa dàet i rweig 'sam'z genom.
 # text_fr = 'En plus de Jos, sa femme est venue avec nous.'
-1	Skleit	Skleit	préposition-quantifieur	_	_	_	_	_	Gloss=Estreget
+# source = H. Gaudart (04/2016b)
+1	Skleit	Skleit	quantifieur|préposition	_	_	_	_	_	Gloss=Estreget
 2	'	'	?	_	_	_	_	_	Gloss=
-3	vi	vi	?	_	_	_	_	_	Gloss=?
+3	vi	vi	nom	_	_	_	_	_	Gloss=?
 4	oa	oa	?	_	_	_	_	_	Gloss=oa
 5	dàet	dàet	?	_	_	_	_	_	Gloss=deuet
-6	i	i	?	_	_	_	_	_	Gloss=e
+6	i	i	verbe	_	_	_	_	_	Gloss=e
 7	rweig	rweig	?	_	_	_	_	_	Gloss=wreg
 8	'	'	?	_	_	_	_	_	Gloss=asamblez
 9	sam'	sam'	?	_	_	_	_	_	Gloss=?
@@ -53,10 +54,11 @@
 11	genom	genom	?	_	_	_	_	_	Gloss=ganeomp.
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Timm (1987a:268)__1
+# sent_id = Timm(1987a:268)__1
 # text = Ni 'zo papred samis.
 # text_fr = 'Nous sommes tout le temps ensemble.'
-# text_phon = ['/ni', 'zo', "pa'@pRet", "'@samis/"]
+# text_phon = /ni zo pa'@pRet '@samis/ 
+# source = H. Gaudart (04/2016b)
 1	'	zo	?	_	_	_	_	_	Gloss=est
 2	zo	zo	?	_	_	_	_	_	Gloss=?
 3	papred	bepred	adverbe	_	_	_	_	_	Gloss=toujours
@@ -69,14 +71,14 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	Mi	pfi	?	_	_	_	_	_	Gloss=moi
-2	vé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Mi	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	vé	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	koutant	kontant	adjectif	_	_	_	_	_	Gloss=contant
 4	mounet	mont	verbe	_	_	_	_	_	Gloss=aller
-5	te	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+5	te	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	naan	neuial	verbe	_	_	_	_	_	Gloss=nager
 7	asamp	asamp	?	_	_	_	_	_	Gloss=ensemble
-8	kenoh	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+8	kenoh	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = AnDiberder(2000:95)__1
@@ -85,14 +87,14 @@
 # dialect = Vannetais
 # source = An Diberder (2000)
 # texttype = Références de corpus
-1	Mi	pfi	?	_	_	_	_	_	Gloss=moi
-2	vé	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Mi	pfi	pronom	_	_	_	_	_	Gloss=moi
+2	vé	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	koutant	kontant	adjectif	_	_	_	_	_	Gloss=contant
 4	mounet	mont	verbe	_	_	_	_	_	Gloss=aller
-5	te	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
+5	te	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
 6	naan	neuial	verbe	_	_	_	_	_	Gloss=nager
 7	asamp	asamp	?	_	_	_	_	_	Gloss=ensemble
-8	kenoh	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+8	kenoh	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:8)__1
@@ -102,17 +104,17 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Peus	kaout	?	_	_	_	_	_	Gloss=as
-2	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=que
+1	Peus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=as
+2	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=que
 3	afer	afer	nom	_	_	_	_	_	Gloss=affaire
 4	gwelet:	gwelout	verbe	_	_	_	_	_	Gloss=voir
-5	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	zad-me	tad	nom	_	_	_	_	_	Gloss=père
-7	oa	COP	?	_	_	_	_	_	Gloss=était
+7	oa	COP	verbe	_	_	_	_	_	Gloss=était
 8	bet	bet	?	_	_	_	_	_	Gloss=été
 9	asamblez	asamblez	?	_	_	_	_	_	Gloss=ensemble
-10	gant	gant	?	_	_	_	_	_	Gloss=avec
-11	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+11	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 12	dad	tad	nom	_	_	_	_	_	Gloss=père
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -123,14 +125,14 @@
 # source = Ar Floch (1985)
 1	Koulskoude	koulskoude	conjonction	_	_	_	_	_	Gloss=cependant
 2	,	,	PUNCT	_	_	_	_	Gloss=punct
-3	e	e	?	_	_	_	_	_	Gloss=R|Morph=1
-4	oan	COP	nom	_	_	_	_	_	Gloss=étais
+3	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+4	oan	COP	verbe	_	_	_	_	_	Gloss=étais
 5	bet	bet	?	_	_	_	_	_	Gloss=été
-6	e	P.e	?	_	_	_	_	_	Gloss=en
-7	Landi	nompropre	?	_	_	_	_	_	Gloss=Landi
+6	e	P.e	préposition	_	_	_	_	_	Gloss=en
+7	Landi	nom_propre	?	_	_	_	_	_	Gloss=Landi
 8	asambles	asambles	adverbe	_	_	_	_	_	Gloss=ensemble
-9	gant	gant	?	_	_	_	_	_	Gloss=avec
-10	va	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+9	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+10	va	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 11	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -140,11 +142,11 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	rankchomp	rankout	verbe	_	_	_	_	_	Gloss=devrions
 3	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	evañ	evañ	verbe	_	_	_	_	_	Gloss=boire
-5	ha	&	?	_	_	_	_	_	Gloss=et
+5	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 6	kondui	konduiñ	verbe	_	_	_	_	_	Gloss=conduire
 7	esambles	esambles	?	_	_	_	_	_	Gloss=ensemble
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -155,8 +157,8 @@
 # dialect = Léonard
 # source = Seite & Stéphan (1957)
 # texttype = Ouvrages pédagogiques
-1	a-gevred	a	préposition	_	_	_	_	_	Gloss=de|Morph=1
-2	gant	gant	?	_	_	_	_	_	Gloss=avec
-3	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
-4	mignoned	mignon.-ed(PL.)	nom.?	_	_	_	_	_	Gloss=ami.s
+1	a-gevred	a	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+2	gant	gant	préposition	_	_	_	_	_	Gloss=avec
+3	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
+4	mignoned	mignon.-ed_(PL.)	nom.suffixe	_	_	_	_	_	Gloss=ami.s
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

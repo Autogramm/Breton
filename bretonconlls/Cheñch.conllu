@@ -5,8 +5,8 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+1	Pa	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 3	ezhomm	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 4	a-wechoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
 5	cheñch	cheñch	verbe	_	_	_	_	_	Gloss=changer

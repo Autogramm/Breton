@@ -3,10 +3,10 @@
 # text_fr = 'Bonne chance à vous, mes chers amis !'
 # source = ar Meliner (2009)
 1	Boneur	Boneur	nom	_	_	_	_	_	Gloss=chance
-2	vat	mat	adverbe-adjectif	_	_	_	_	_	Gloss=bonne|Morph=1
-3	deoc'h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+2	vat	mat	adverbe|adjectif	_	_	_	_	_	Gloss=bonne|Mutation=target|MutationNUM=1
+3	deoc'h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	ma	POSS	?	_	_	_	_	_	Gloss=mon|Morph=2
+5	ma	POSS	déterminant	_	_	_	_	_	Gloss=mon|Mutation=trigger|MutationNUM=2
 6	c'heiz	kaezh	adjectif	_	_	_	_	_	Gloss=cher
 7	tud	tud	nom	_	_	_	_	_	Gloss=gens
 8	!	!	PUNCT	_	_	_	_	Gloss=punct

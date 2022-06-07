@@ -1,40 +1,41 @@
 # sent_id = Kerrien(2000:8)__1
 # text = Dianket oun, ha seul vui  e valean, seul vui  ec'h en em ruzan, seul vuioc'h  e tiankan.
 # text_fr = 'Je suis égaré, et plus je marche plus je rampe, d'autant plus je m'égare.'
-# source = Kerrien (2000)
+# dialect = Léonard
+# source = Kerrien (1926)
+# texttype = Références de corpus
 1	Dianket	Dianket	?	_	_	_	_	_	Gloss=égaré
-2	oun	COP	?	_	_	_	_	_	Gloss=suis
+2	oun	COP	verbe	_	_	_	_	_	Gloss=suis
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	ha	&	?	_	_	_	_	_	Gloss=et
+4	ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 5	seul	seul	quantifieur	_	_	_	_	_	Gloss=1
-6	vui	vui	?	_	_	_	_	_	Gloss=vui'@'@
+6	vui	vui	?	_	_	_	_	_	Gloss=vui
 7	??	??	?	_	_	_	_	_	Gloss=IP
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
-9	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+9	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 10	seul	seul	quantifieur	_	_	_	_	_	Gloss=1
-11	vui	vui	?	_	_	_	_	_	Gloss=vui'@'@
+11	vui	vui	?	_	_	_	_	_	Gloss=vui
 12	??	??	?	_	_	_	_	_	Gloss=IP
 13	?	?	PUNCT	_	_	_	_	Gloss=punct
 14	ec'h	ec'h	?	_	_	_	_	_	Gloss=R
-15	en	enem	complémenteur	_	_	_	_	_	Gloss=se
-16	em	em	?	_	_	_	_	_	Gloss=rampe
-17	ruzan	ruzan	?	_	_	_	_	_	Gloss=]
-18	,	,	PUNCT	_	_	_	_	Gloss=punct
-19	seul	seul	quantifieur	_	_	_	_	_	Gloss='@'@seul
-20	vuioc'h	-oc'h	?	_	_	_	_	_	Gloss=le.plus
-21	??	??	?	_	_	_	_	_	Gloss=IP
-22	?	?	PUNCT	_	_	_	_	Gloss=punct
-23	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+15	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
+16	em	em	?	_	_	_	_	_	Gloss=]
+17	ruzan,	ruzan,	?	_	_	_	_	_	Gloss=?
+18	seul	seul	quantifieur	_	_	_	_	_	Gloss=seul
+19	vuioc'h	-oc'h	?	_	_	_	_	_	Gloss=le.plus
+20	??	??	?	_	_	_	_	_	Gloss=IP
+21	?	?	PUNCT	_	_	_	_	Gloss=punct
+22	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 
 # sent_id = DeRostrenen(1738:167)__1
 # text = Seul vuy, seul vell .
 # text_fr = 'Plus il y en aura, mieux ce sera.'
 # source = de Rostrenen (1738)
-1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
+1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
 2	vuy	mui	adverbe	_	_	_	_	_	Gloss=plus
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
-5	vell	gwell,gwelloc'h	?	_	_	_	_	_	Gloss=mieux
+4	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
+5	vell	gwell,_gwelloc'h	?	_	_	_	_	_	Gloss=mieux
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:27)__2
@@ -44,21 +45,21 @@
 # location = Plougerneau
 # source = Elégoët (1982)
 # texttype = Références de corpus
-1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
+1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
 2	vui	mui	adverbe	_	_	_	_	_	Gloss=plus
-3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
-4	vezo	COP	?	_	_	_	_	_	Gloss=sera
+3	ma	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
+4	vezo	COP	verbe	_	_	_	_	_	Gloss=sera
 5	hir	hir	adjectif	_	_	_	_	_	Gloss=long
 6	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
-7	an	art	?	_	_	_	_	_	Gloss=le
+7	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 8	adreñv	a-dreñv	préposition	_	_	_	_	_	Gloss=derrière
 9	,	,	PUNCT	_	_	_	_	Gloss=punct
-10	en	en.kaout	complémenteur.?	_	_	_	_	_	Gloss=R.a
-11	eus	eus	?	_	_	_	_	_	Gloss=?
+10	en	en.kaout	complémenteur.verbe|auxiliaire	_	_	_	_	_	Gloss=R.a
+11	eus	eus	préposition	_	_	_	_	_	Gloss=?
 12	muioc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
-13	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+13	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 14	zalc'h	derc'hel	?	_	_	_	_	_	Gloss=garde
-15	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+15	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 16	mor	mor	nom	_	_	_	_	_	Gloss=mer
 17	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -68,24 +69,26 @@
 # dialect = Trégorrois
 # source = Gros (1970b)
 # texttype = Ouvrages de recherche
-1	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+1	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 2	prenez	prenañ	verbe	_	_	_	_	_	Gloss=achètes
-3	a-vraz	a	préposition	_	_	_	_	_	Gloss=en|Morph=1
+3	a-vraz	a	préposition	_	_	_	_	_	Gloss=en|Mutation=trigger|MutationNUM=1
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
+5	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
 6	nebeutoh	nebeut.-oc'h	quantifieur.?	_	_	_	_	_	Gloss=peu.plus
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
 8	koust	koustañ	?	_	_	_	_	_	Gloss=coute
-9	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+9	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = (Gros1984:326)__1
 # text = Seul dostoh, seul dommoh.
 # text_fr = 'Plus on est près, plus on a chaud.'
-# source = Gros (1984)
-1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
+1	Seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
 2	dostoh	tost.-oc'h	adjectif.?	_	_	_	_	_	Gloss=près.plus
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Morph=1
+4	seul	seul	quantifieur	_	_	_	_	_	Gloss=chaque|Mutation=trigger|MutationNUM=1
 5	dommoh	tomm.-oc'h	adjectif.?	_	_	_	_	_	Gloss=chaud.plus
 6	.	.	PUNCT	_	_	_	_	Gloss=punct

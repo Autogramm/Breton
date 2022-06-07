@@ -4,10 +4,10 @@
 # source = Drezen (1943)
 # texttype = Références de corpus
 1	Peur	Peur	?	_	_	_	_	_	Gloss=quand
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	vo	COP	?	_	_	_	_	_	Gloss=sera
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	vo	COP	verbe	_	_	_	_	_	Gloss=sera
 4	klemmet	klemm	verbe	_	_	_	_	_	Gloss=plaint
-5	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=alors
+5	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=alors
 6	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Elégoët(1982:22)__2
@@ -18,31 +18,33 @@
 # source = Elégoët (1982)
 # texttype = Références de corpus
 1	Merket	merkañ	verbe	_	_	_	_	_	Gloss=marqué
-2	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-3	warnañ	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.lui
+2	eo	COP	verbe	_	_	_	_	_	Gloss=est
+3	warnañ	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.lui
 4	peur	peur	?	_	_	_	_	_	Gloss=quand
-5	emañ	emañ	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	ar	art	?	_	_	_	_	_	Gloss=le
+5	emañ	emañ	verbe|auxiliaire	_	_	_	_	_	Gloss=est
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	mor	mor	nom	_	_	_	_	_	Gloss=mer
-8	en	P.e	complémenteur	_	_	_	_	_	Gloss=en
-9	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-10	brasañ..	bras.superlatif	adverbe-adjectif.adjectif	_	_	_	_	_	Gloss=grand.le.plus
+8	en	P.e	préposition	_	_	_	_	_	Gloss=en
+9	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+10	brasañ..	bras.superlatif	adverbe|adjectif.adjectif	_	_	_	_	_	Gloss=grand.le.plus
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Plougerneau,M-L.B(10/2018)__46
 # text = Ar gwaz a hoar peur ar vugale o deus gwelet ar vaouez.
 # text_fr = 'L'homme sait quand les enfants ont vu la femme.'
-# source = M-L.B (10/2018)
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	gwaz	gwaz	?	_	_	_	_	_	Gloss=homme
+# dialect = Léonard
+# source = M-L. B. (10/2018)
+# texttype = Élicitations
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	gwaz	gwaz	nom	_	_	_	_	_	Gloss=homme
 3	a	a	préposition	_	_	_	_	_	Gloss=R
-4	hoar	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=sait
+4	hoar	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=sait
 5	peur	peur	?	_	_	_	_	_	Gloss=quand
-6	ar	art	?	_	_	_	_	_	Gloss=le
-7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[plurielinterne|s|Morph=1
+6	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+7	vugale	bugel	nom	_	_	_	_	_	Gloss=enfant]].[[pluriel_interne|s|Mutation=target|MutationNUM=1
 8	o	o	?	_	_	_	_	_	Gloss=3PL
-9	deus	kaout	?	_	_	_	_	_	Gloss=a
-10	gwelet	gwelout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=v.u
-11	ar	art	?	_	_	_	_	_	Gloss=le
-12	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Morph=1
+9	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+10	gwelet	gwelout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=v.u
+11	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+12	vaouez	maouez	nom	_	_	_	_	_	Gloss=femme|Mutation=target|MutationNUM=1
 13	.	.	PUNCT	_	_	_	_	Gloss=punct

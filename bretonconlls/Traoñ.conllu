@@ -6,10 +6,10 @@
 # texttype = Élicitations
 1	Labour'	labourat	verbe	_	_	_	_	_	Gloss=travaillé
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	'	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+3	'	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 4			PUNCT	_	_	_	_	Gloss=punct
-5	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=?
-6	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+5	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=?
+6	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	traoñ	traoñ	nom	_	_	_	_	_	Gloss=bas
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -19,29 +19,31 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	O	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	O	particule_o	?	_	_	_	_	_	Gloss=à
 2	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
-3	emaint	eman	?	_	_	_	_	_	Gloss=sont
-4	en	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+3	emaint	eman	verbe|auxiliaire	_	_	_	_	_	Gloss=sont
+4	en	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 5	traoñ	traoñ	nom	_	_	_	_	_	Gloss=bas
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1984:483)__1
 # text = Daoust piou eo al lañchore a zo o vond du-mañ d'an traoñ ?
 # text_fr = 'Je me demande qui est cette mollasse (cet endormi) qui descend par ici ?'
-# source = Gros (1984)
+# dialect = Trégorrois
+# source = Gros (1974)
+# texttype = Ouvrages de recherche
 1	Daoust	daoust	complémenteur	_	_	_	_	_	Gloss=à.savoir
 2	piou	piv	pronom	_	_	_	_	_	Gloss=qui
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	al	art	?	_	_	_	_	_	Gloss=le
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	lañchore	lañchore	?	_	_	_	_	_	Gloss=endormi
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	zo	zo	?	_	_	_	_	_	Gloss=est
-8	o	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+8	o	particule_o	?	_	_	_	_	_	Gloss=à
 9	vond	mont	verbe	_	_	_	_	_	Gloss=aller
 10	du-mañ	tu	nom	_	_	_	_	_	Gloss=côté
 11	d'	da	préposition	_	_	_	_	_	Gloss=à
-12	an	art	?	_	_	_	_	_	Gloss=le
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 13	traoñ	traoñ	nom	_	_	_	_	_	Gloss=bas
 14	?	?	PUNCT	_	_	_	_	Gloss=punct
 
@@ -51,19 +53,19 @@
 # source = Drezen (1932)
 # texttype = Références de corpus
 1	Tevel	tevel	verbe	_	_	_	_	_	Gloss=taire
-2	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
-3	reas	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fit
+2	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
+3	reas	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fit
 4	war-dro	war-dro	préposition	_	_	_	_	_	Gloss=autour
 5	kreiz	kreiz	nom	_	_	_	_	_	Gloss=milieu
-6	an	art	?	_	_	_	_	_	Gloss=le
+6	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	deiz	deiz	nom	_	_	_	_	_	Gloss=jour
-8	an	art	?	_	_	_	_	_	Gloss=le
+8	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	avel	avel	nom	_	_	_	_	_	Gloss=vent
 10	gor	gor	adjectif	_	_	_	_	_	Gloss=ardent
 11	a	a	préposition	_	_	_	_	_	Gloss=R
 12	c'hwezhe	c'hwezhiñ	?	_	_	_	_	_	Gloss=soufflait
 13	diouzh	diouzh	préposition	_	_	_	_	_	Gloss=de
-14	an	art	?	_	_	_	_	_	Gloss=le
+14	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 15	traoñ	traoñ	nom	_	_	_	_	_	Gloss=vallée
 16	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -73,19 +75,19 @@
 # dialect = Cornouaillais
 # source = Bouzec & al. (2017)
 # texttype = Ouvrages de recherche
-1	Ba	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-2	n	art	?	_	_	_	_	_	Gloss=un
-3	deun	don	adverbe-adjectif	_	_	_	_	_	Gloss=fond
-4	m	art	?	_	_	_	_	_	Gloss=le
+1	Ba	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+2	n	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+3	deun	don	adverbe|adjectif	_	_	_	_	_	Gloss=fond
+4	m	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	prad	prad	nom	_	_	_	_	_	Gloss=pré
-6	oa	COP	?	_	_	_	_	_	Gloss=était
-7	un	art	?	_	_	_	_	_	Gloss=un
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
+7	un	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 8	takad	takad	?	_	_	_	_	_	Gloss=endroit
 9	lerc'h	e-lerc'h	?	_	_	_	_	_	Gloss=où
-10	'	COP	?	_	_	_	_	_	Gloss=était
+10	'	COP	verbe	_	_	_	_	_	Gloss=était
 11	oa	oa	?	_	_	_	_	_	Gloss=?
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-13	'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+13	'	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 14	mè'	mè'	?	_	_	_	_	_	Gloss=?
 15			PUNCT	_	_	_	_	Gloss=punct
 16	boull'	boull'	?	_	_	_	_	_	Gloss=boue
@@ -96,9 +98,9 @@
 # text_fr = 'plié en deux (d'un bout à l'autre)'
 # source = Hor Yezh (1983)
 # texttype = Références de corpus
-1	gourbleget	gour-	?	_	_	_	_	_	Gloss=très|Morph=1
-2	eus	eus	?	_	_	_	_	_	Gloss=de
+1	gourbleget	gour-	?	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
+2	eus	eus	préposition	_	_	_	_	_	Gloss=de
 3	penn	penn	nom	_	_	_	_	_	Gloss=tête
-4	traoñv	traoñv	?	_	_	_	_	_	Gloss=bas
+4	traoñv	traoñv	nom	_	_	_	_	_	Gloss=bas
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	egile	egile	?	_	_	_	_	_	Gloss=autre
+6	egile	egile	pronom	_	_	_	_	_	Gloss=autre

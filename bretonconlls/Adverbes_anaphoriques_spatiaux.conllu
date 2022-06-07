@@ -5,13 +5,13 @@
 # location = Kaouenneg
 # source = Ar Barzhig (1976)
 # texttype = Références de corpus
-1	Met	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
-2	al	art	?	_	_	_	_	_	Gloss=le
+1	Met	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	labour	labour	nom	_	_	_	_	_	Gloss=travail
-4	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
-5	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-6	eno	eno	?	_	_	_	_	_	Gloss=là
-7	heñvel	heñvel	?	_	_	_	_	_	Gloss=pareil
+4	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+5	eo	COP	verbe	_	_	_	_	_	Gloss=est
+6	eno	eno	adverbe	_	_	_	_	_	Gloss=là
+7	heñvel	heñvel	adjectif	_	_	_	_	_	Gloss=pareil
 8	ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à
 9	netra	netra	quantifieur	_	_	_	_	_	Gloss=rien
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -19,12 +19,14 @@
 # sent_id = Kervella(1995:§436)__1
 # text = O-unan-penn e oant chomet eno.
 # text_fr = 'Elles y étaient restés seules.'
-# source = Kervella (1995)
-1	O-unan-penn	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-2	e	e	?	_	_	_	_	_	Gloss=R
-3	oant	COP	?	_	_	_	_	_	Gloss=étaient
-4	chomet	chom.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=rest.é
-5	eno	eno	?	_	_	_	_	_	Gloss=y
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	O-unan-penn	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+2	e	e	verbe	_	_	_	_	_	Gloss=R
+3	oant	COP	verbe	_	_	_	_	_	Gloss=étaient
+4	chomet	chom.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=rest.é
+5	eno	eno	adverbe	_	_	_	_	_	Gloss=y
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger(2004a:140)__1
@@ -32,14 +34,14 @@
 # text_fr = 'Quand elles étaient aux champs, leurs yeux étaient clairs.'
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	pe	pa	complémenteur	_	_	_	_	_	Gloss=quand|Morph=1
-2	vɛn	COP	?	_	_	_	_	_	Gloss=étais
-3	eo	eo	verbe-auxiliaire	_	_	_	_	_	Gloss=là
-4	ebaz	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
-5	a_ʁ_	art	?	_	_	_	_	_	Gloss=le
+1	pe	pa	complémenteur	_	_	_	_	_	Gloss=quand|Mutation=trigger|MutationNUM=1
+2	vɛn	COP	verbe	_	_	_	_	_	Gloss=étais
+3	eo	eo	verbe|auxiliaire	_	_	_	_	_	Gloss=là
+4	ebaz	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
+5	a_ʁ_	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 6	paʁk	paʁk	?	_	_	_	_	_	Gloss=parc
-7	sklɛʁ	sklaer	adverbe-adjectif	_	_	_	_	_	Gloss=clair
-8	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+7	sklɛʁ	sklaer	adverbe|adjectif	_	_	_	_	_	Gloss=clair
+8	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 9	lagad	lagad	nom	_	_	_	_	_	Gloss=œil
 
 # sent_id = Favereau(1984:438)__1
@@ -47,32 +49,33 @@
 # text_fr = 'Tu n'auras qu'à regarder, il y a là un gros bloc de rochers.'
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	'	kaout	?	_	_	_	_	_	Gloss=auras
+1	'	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=auras
 2	Po	Po	?	_	_	_	_	_	Gloss=?
 3	ke'	ket	adverbe	_	_	_	_	_	Gloss=pas
 4			PUNCT	_	_	_	_	Gloss=punct
-5	me'	met	conjonction-complémenteur	_	_	_	_	_	Gloss=mais
+5	me'	met	complémenteur|conjonction	_	_	_	_	_	Gloss=mais
 6			PUNCT	_	_	_	_	Gloss=punct
 7	selled	sellout	verbe	_	_	_	_	_	Gloss=voir
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
 9	ene	ene	nom	_	_	_	_	_	Gloss=y
-10	zo	COP	?	_	_	_	_	_	Gloss=est
-11	or	art	?	_	_	_	_	_	Gloss=un
-12	pezh	pezh	?	_	_	_	_	_	Gloss=gros
+10	zo	COP	verbe	_	_	_	_	_	Gloss=est
+11	or	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
+12	pezh	pezh	pronom|nom	_	_	_	_	_	Gloss=gros
 13	blokad	blokad	?	_	_	_	_	_	Gloss=bloc
-14	re(h)ier	roc'h.plurielinterne	?.?	_	_	_	_	_	Gloss=rocher.s
+14	re(h)ier	roc'h.pluriel_interne	?.?	_	_	_	_	_	Gloss=rocher.s
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Drezen(1990:42)__1
 # text = Dont a ri di ganin.
 # text_fr = 'Tu y viendras avec moi.'
+# dialect = Standard
 # source = Drezen (1990)
 # texttype = Références de corpus
 1	Dont	dont	verbe	_	_	_	_	_	Gloss=venir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ri	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feras
-4	di	di	?	_	_	_	_	_	Gloss=y
-5	ganin	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
+3	ri	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=feras
+4	di	di	adverbe	_	_	_	_	_	Gloss=y
+5	ganin	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Madeg(2013:9)__1
@@ -83,10 +86,10 @@
 # texttype = Ouvrages de recherche
 1	Anv	anv	nom	_	_	_	_	_	Gloss=nom
 2	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-3	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+3	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 5	vont	mont	verbe	_	_	_	_	_	Gloss=aller
-6	di	di	?	_	_	_	_	_	Gloss=y
+6	di	di	adverbe	_	_	_	_	_	Gloss=y
 7	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Perrot(1912:139)__1
@@ -97,11 +100,11 @@
 # texttype = Références de corpus
 1	ki	ki	nom	_	_	_	_	_	Gloss=chien
 2	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
-3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4			PUNCT	_	_	_	_	Gloss=punct
 5	helle	gallout	verbe	_	_	_	_	_	Gloss=pouvait
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	d'	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+7	d'	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 8	ezan	ezan	?	_	_	_	_	_	Gloss=?
 9	dont	dont	verbe	_	_	_	_	_	Gloss=venir
 10	ac'hane	ac'hann	?	_	_	_	_	_	Gloss=de.là
@@ -117,46 +120,51 @@
 1	Deus	dont	verbe	_	_	_	_	_	Gloss=viens
 2	ahalese	ahalese	?	_	_	_	_	_	Gloss=de.là
 3	.	.	PUNCT	_	_	_	_	Gloss=punct
-4	Ne	Ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 5	welez	gwelout	verbe	_	_	_	_	_	Gloss=vois
 6	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-7	e	e	?	_	_	_	_	_	Gloss=R|Morph=4
-8	tenner	tennañ.IMP	verbe.?	_	_	_	_	_	Gloss=tire.on
-9	warnout	war.pronomincorporé	?.?	_	_	_	_	_	Gloss=sur.toi
+7	e	e	verbe	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=4
+8	tenner	tennañ.IMP	verbe.pronom	_	_	_	_	_	Gloss=tire.on
+9	warnout	war.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=sur.toi
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Kervella(1995:§253<sup>bis</sup>)__1
 # text = Gra d'ar c'hi-se mont kuit alese, 'ta !
 # text_fr = 'Fais donc partir ce chien de là !'
-# source = Kervella (1995)
-1	Gra	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-2	d'	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-3	ar	art	?	_	_	_	_	_	Gloss=le
-4	c'hi-se	ki	nom	_	_	_	_	_	Gloss=chien]]-[[DEM|là|Morph=5
+# dialect = Standard
+# source = Kervella (1947)
+# texttype = Ouvrages de recherche
+1	Gra	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+2	d'	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+3	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+4	c'hi-se	ki	nom	_	_	_	_	_	Gloss=chien]]-[[DEM|là|Mutation=target|MutationNUM=5
 5	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 6	kuit	postpositions	postposition	_	_	_	_	_	Gloss=parti
-7	alese	alese	?	_	_	_	_	_	Gloss=de.là
+7	alese	alese	adverbe	_	_	_	_	_	Gloss=de.là
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	'	eta	?	_	_	_	_	_	Gloss=donc
+9	'	eta	conjonction	_	_	_	_	_	Gloss=donc
 10	ta	ta	?	_	_	_	_	_	Gloss=?
 11	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = LeDû(2012:97)__1
 # text =  Voujés-ke lésé  !
 # text_fr = 'Bouge pas de là !'
+# dialect = Trégorrois
 # location = Plougrescant
-# source = Le Dû (2012)
-1	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+# source = Le Dû (2012a)
+# texttype = Ouvrages de recherche
+1	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 2	?	?	PUNCT	_	_	_	_	Gloss=punct
 3	Voujés-ke	ket	adverbe	_	_	_	_	_	Gloss=pas
 4	lésé	lésé	?	_	_	_	_	_	Gloss=de.là
 5			PUNCT	_	_	_	_	Gloss=punct
 6	!	!	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Cheveau & Kersulec (2012-évolutif:Laz,'eñ')__1
+# sent_id = Cheveau&Kersulec(2012-évolutif:Laz,'eñ')__1
 # text = Me zo eus alemañ mes eñ zo (d)eus a zu-se.
 # text_fr = 'Moi je suis d'ici,… mais lui il est de là.'
-# text_phon = ['[mɛ̃', 'zo', 'daˈlɛm', 'mɛ', 'ˈhɛ̃ã̯', 'zo', 'da', 'zy]']
+# text_phon = mɛ̃ zo daˈlɛm mɛ ˈhɛ̃ã̯ zo da zy 
+# source = Le Dû (2012a)
 1	mes	mes	?	_	_	_	_	_	Gloss=???
 2	eñ	eñ	?	_	_	_	_	_	Gloss=???
 3	zo	zo	?	_	_	_	_	_	Gloss=???
@@ -172,10 +180,10 @@
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
 1	Arabat	arabat	?	_	_	_	_	_	Gloss=interdit
-2	dit	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
+2	dit	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.toi
 3	mont	mont	verbe	_	_	_	_	_	Gloss=aller
 4	,	,	PUNCT	_	_	_	_	Gloss=punct
-5	e	P.e	?	_	_	_	_	_	Gloss=en
+5	e	P.e	préposition	_	_	_	_	_	Gloss=en
 6	mod	mod	préposition	_	_	_	_	_	Gloss=façon
 7	ebet	ebet	quantifieur	_	_	_	_	_	Gloss=aucun
 8	!	!	PUNCT	_	_	_	_	Gloss=punct
@@ -187,23 +195,24 @@
 # source = Madeg (2013)
 # texttype = Ouvrages de recherche
 1	Kuit	kuit	postposition	_	_	_	_	_	Gloss=quitte
-2	din	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
-3	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
+2	din	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.moi
+3	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
 4	vont	mont	verbe	_	_	_	_	_	Gloss=aller
 5	adarre	adarre	adverbe	_	_	_	_	_	Gloss=encore
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Nicolas (2005:22)__1
+# sent_id = Nicolas(2005:22)__1
 # text = Ar gwellañ eo m'eh ahec'h a-raok ahanemañ.
 # text_fr = 'Le mieux c'est que vous partiez.'
-# text_phon = ['[ ər ɟɥelãnø', 'mi hehɛχ', 'arɔk ahanəma ]']
-1	Ar	art	?	_	_	_	_	_	Gloss=le
+# text_phon =  ər ɟɥelãnø mi hehɛχ arɔk ahanəma  
+# source = Madeg (2013)
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
-3	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-4	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Morph=4
+3	eo	COP	verbe	_	_	_	_	_	Gloss=est
+4	m'	ma	complémenteur	_	_	_	_	_	Gloss=que|Mutation=trigger|MutationNUM=4
 5	eh	eh	?	_	_	_	_	_	Gloss=R
 6	ahec'h	mont	verbe	_	_	_	_	_	Gloss=alliez
-7	a-raok	a-raok	préposition-postposition-adverbe	_	_	_	_	_	Gloss=avant
+7	a-raok	a-raok	adverbe|préposition|postposition	_	_	_	_	_	Gloss=avant
 8	ahanemañ	ahanemañ	?	_	_	_	_	_	Gloss=y
 9	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -214,7 +223,7 @@
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
 1	Lemel	lemel	verbe	_	_	_	_	_	Gloss=enlever
-2	ar	art	?	_	_	_	_	_	Gloss=le
+2	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	fagn	fagn	?	_	_	_	_	_	Gloss=broussaille
 4	ac'hanemañ	ac'hanemañ	?	_	_	_	_	_	Gloss=y
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

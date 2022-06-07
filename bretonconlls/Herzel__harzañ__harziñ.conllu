@@ -3,16 +3,16 @@
 # text_fr = 'On ne s'arrête pas de travailler parce qu'on parle ou chante.'
 # source = Herri (1982)
 # texttype = Références de corpus
-1	Ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à|Morph=4
+1	Ouzh	ouzh	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=4
 2	komz	komz	verbe	_	_	_	_	_	Gloss=parler
-3	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou
+3	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou
 4	kanañ	kanañ	verbe	_	_	_	_	_	Gloss=chanter
-5	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+5	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 6	harz	harz	préposition	_	_	_	_	_	Gloss=stoppe
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	an	IMP	?	_	_	_	_	_	Gloss=on
+8	an	IMP	pronom	_	_	_	_	_	Gloss=on
 9	den	den	nom	_	_	_	_	_	Gloss=?
-10	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+10	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 11	labourat	labourat	verbe	_	_	_	_	_	Gloss=travailler
 12	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -25,45 +25,47 @@
 # texttype = Ouvrages de recherche
 1	Degas'	degas	verbe	_	_	_	_	_	Gloss=apportez
 2	t	t	?	_	_	_	_	_	Gloss=?
-3	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+3	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 4	harz-glav	glav	nom	_	_	_	_	_	Gloss=pluie
-5	ganeoc'h	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.vous
+5	ganeoc'h	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.vous
 6	betegoût	betegout	complémenteur	_	_	_	_	_	Gloss=au.cas.où
 7	ma	ma	complémenteur	_	_	_	_	_	Gloss=que
 8	teuio	dont	verbe	_	_	_	_	_	Gloss=viendra
-9	ar	art	?	_	_	_	_	_	Gloss=le
-10	barrad	barr.-ad	nom.?	_	_	_	_	_	Gloss=avers.ée
+9	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	barrad	barr.-ad	nom.suffixe|nom	_	_	_	_	_	Gloss=avers.ée
 11	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:175)__1
 # text = hag int o-daou d'en herzel ag ar Baradoez.
 # text_fr = '... et ils le chassent (Mathurin) hors du paradis.'
 # source = ar Meliner (2009)
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	int	pfi	?	_	_	_	_	_	Gloss=eux
-3	o-daou	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
-4	d'	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	en	POP	complémenteur	_	_	_	_	_	Gloss=le
-6	herzel	herzel	?	_	_	_	_	_	Gloss=chasser
-7	ag	eus	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	int	pfi	pronom	_	_	_	_	_	Gloss=eux
+3	o-daou	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
+4	d'	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	en	POP	pronom	_	_	_	_	_	Gloss=le
+6	herzel	herzel	verbe	_	_	_	_	_	Gloss=chasser
+7	ag	eus	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	Baradoez	baradoz	nom	_	_	_	_	_	Gloss=paradis
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:306)__1
 # text = Donet a ran da benn a vorgousket, rak ne harzan ket mui…
 # text_fr = 'Je parviens à m'endormir à peu près car je n'en peux plus... '
-# source = Herrieu (1994)
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
 1	Donet	dont	verbe	_	_	_	_	_	Gloss=venir
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	ran	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=fais
-4	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
+3	ran	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=fais
+4	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 5	benn	penn	nom	_	_	_	_	_	Gloss=bout
-6	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
-7	vorgousket	mor	nom	_	_	_	_	_	Gloss=pfx|Morph=1
+6	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+7	vorgousket	mor	nom	_	_	_	_	_	Gloss=pfx|Mutation=trigger|MutationNUM=1
 8	,	,	PUNCT	_	_	_	_	Gloss=punct
-9	rak	kar	?	_	_	_	_	_	Gloss=car
-10	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
+9	rak	kar	complémenteur|préposition|conjonction	_	_	_	_	_	Gloss=car
+10	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 11	harzan	harzan	?	_	_	_	_	_	Gloss=supporte
 12	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 13	mui…	mui	adverbe	_	_	_	_	_	Gloss=plus
@@ -71,9 +73,10 @@
 # sent_id = Bzh5(2007:24).__1
 # text = Harz al laeron !
 # text_fr = 'Au voleur !'
+# dialect = Standard
 # source = Bzh5 (2007)
 # texttype = Références de corpus
-1	Harz	harzañ	préposition	_	_	_	_	_	Gloss=arrêtez
-2	al	art	?	_	_	_	_	_	Gloss=le
+1	Harz	harzañ	verbe	_	_	_	_	_	Gloss=arrêtez
+2	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 3	laeron	laer.-on	nom.?	_	_	_	_	_	Gloss=vol.eur
 4	!	!	PUNCT	_	_	_	_	Gloss=punct

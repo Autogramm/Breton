@@ -3,11 +3,11 @@
 # text_fr = 'Je me suis plue partout.'
 # source = Favereau (1997)
 # texttype = Ouvrages de recherche
-1	Me	pfi	?	_	_	_	_	_	Gloss=moi
+1	Me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
 4	bet	bet	?	_	_	_	_	_	Gloss=été
-5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 6	em	em	?	_	_	_	_	_	Gloss=?
 7	blijet	plijout	verbe	_	_	_	_	_	Gloss=plu
 8	partout	partout	adverbe	_	_	_	_	_	Gloss=partout
@@ -21,11 +21,11 @@
 # texttype = Élicitations
 1	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 2	diaes	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-3	vi	evit	préposition-complémenteur	_	_	_	_	_	Gloss=pour
+3	vi	evit	complémenteur|préposition	_	_	_	_	_	Gloss=pour
 4	laret	lavarout	verbe	_	_	_	_	_	Gloss=dire
-5	deoc’h	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
-6	oa	COP	?	_	_	_	_	_	Gloss=était
-7	ken	ken	adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
+5	deoc’h	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.vous
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
+7	ken	ken	complémenteur|adverbe	_	_	_	_	_	Gloss=seulement
 8	glu	glud	nom	_	_	_	_	_	Gloss=glu
 9	partout	partout	adverbe	_	_	_	_	_	Gloss=partout
 10	!	!	PUNCT	_	_	_	_	Gloss=punct

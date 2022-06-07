@@ -1,16 +1,17 @@
 # sent_id = ArMeliner(2009:40)__1
 # text = gant aon mah ouiahe Annaig en en deus ouelet.
 # text_fr = 'de peur que la petite Anna ne sache qu'il a pleuré.'
-# source = Ar Meliner (2009)
-1	gant	gant	?	_	_	_	_	_	Gloss=avec
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	gant	gant	préposition	_	_	_	_	_	Gloss=avec
 2	aon	aon	nom	_	_	_	_	_	Gloss=peur
 3	mah	ma	complémenteur	_	_	_	_	_	Gloss=que
-4	ouiahe	gouzout	verbe-auxiliaire	_	_	_	_	_	Gloss=saurait
-5	Annaig	nompropre.-ig	?.?	_	_	_	_	_	Gloss=Anna.DIM
+4	ouiahe	gouzout	verbe|auxiliaire	_	_	_	_	_	Gloss=saurait
+5	Annaig	nom_propre	?	_	_	_	_	_	Gloss=Anna
 6	en	en	complémenteur	_	_	_	_	_	Gloss=que
 7	en	en	complémenteur	_	_	_	_	_	Gloss=R
-8	deus	kaout	?	_	_	_	_	_	Gloss=a
-9	ouelet	gouelañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=pleur.é
+8	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
+9	ouelet	gouelañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=pleur.é
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1974:30/05/1918)__1
@@ -22,40 +23,41 @@
 1	Pegours	pegoulz	?	_	_	_	_	_	Gloss=quand
 2	en	en	complémenteur	_	_	_	_	_	Gloss=que
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	goarnemant	goarnemant	?	_	_	_	_	_	Gloss=gouvernement
-6	er	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+6	er	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 7	`	`	?	_	_	_	_	_	Gloss=?
-8	Frans	nompropre	?	_	_	_	_	_	Gloss=France
+8	Frans	nom_propre	?	_	_	_	_	_	Gloss=France
 9	sauet	sevel	verbe	_	_	_	_	_	Gloss=monté
-10	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+10	é	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 11	voéh	mouezh	nom	_	_	_	_	_	Gloss=voix
-12	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+12	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 13	du	tu	nom	_	_	_	_	_	Gloss=côté
-14	geté	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+14	geté	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 15	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:64)__1
 # text = hag e lâr d'ar vestrez a sell doc'hti get truez, en he deus naon he mamm.
 # text_fr = '...et elle dit à la patronne qui la regarde avec pitié que sa mère a faim.'
-# source = Ar Meliner (2009)
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez(féminin)|ne|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez_(féminin)|ne|Mutation=target|MutationNUM=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
-9	doc'hti	doc'h.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.elle
-10	get	gant	?	_	_	_	_	_	Gloss=avec
+9	doc'hti	doc'h.pronom_incorporé	?.?	_	_	_	_	_	Gloss=à.elle
+10	get	gant	préposition	_	_	_	_	_	Gloss=avec
 11	truez	truez	nom	_	_	_	_	_	Gloss=pitié
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
 13	en	en	complémenteur	_	_	_	_	_	Gloss=que
 14	he	he	?	_	_	_	_	_	Gloss=R
-15	deus	kaout	?	_	_	_	_	_	Gloss=a
+15	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 16	naon	naon	nom	_	_	_	_	_	Gloss=faim
-17	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+17	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 18	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -65,19 +67,20 @@
 # dialect = Vannetais
 # source = Le Bayon (1878)
 # texttype = Ouvrages de recherche
-1	Haval	hañval	?	_	_	_	_	_	Gloss=sembler
-2	guet-n-eign	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.moi
-3	kleuañ	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
+1	Haval	hañval	verbe	_	_	_	_	_	Gloss=sembler
+2	guet-n-eign	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.moi
+3	kleuañ	particule_o	?	_	_	_	_	_	Gloss=à
 
 # sent_id = Breton1623,Qu.:41,cf.110,1.7,11.__1
 # text = Livirit dezan en é trugarecan.
 # text_fr = 'Dites-lui que je le remercie'
-# source = Qu.
+# source = Quiquer de Roscoff (1626)(moyen breton)
+# texttype = Ouvrages pédagogiques
 1	Livirit	lavarout	verbe	_	_	_	_	_	Gloss=dites
-2	dezan	da.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
+2	dezan	da.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=à.lui
 3	en	en	complémenteur	_	_	_	_	_	Gloss=que
-4	é	POP	?	_	_	_	_	_	Gloss=le
-5	trugarecan	trugarez	nom-interjection	_	_	_	_	_	Gloss=remercie
+4	é	POP	pronom	_	_	_	_	_	Gloss=le
+5	trugarecan	trugarez	interjection|nom	_	_	_	_	_	Gloss=remercie
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1974:30/05/1918)__1
@@ -89,35 +92,31 @@
 1	Pegours	pegoulz	?	_	_	_	_	_	Gloss=quand
 2	en	en	complémenteur	_	_	_	_	_	Gloss=que
 3	en	en	complémenteur	_	_	_	_	_	Gloss=R
-4	deus	kaout	?	_	_	_	_	_	Gloss=a
+4	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	goarnemant	goarnemant	?	_	_	_	_	_	Gloss=gouvernement
 6	sauet	sevel	verbe	_	_	_	_	_	Gloss=monté
-7	é	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
+7	é	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
 8	voéh	mouezh	nom	_	_	_	_	_	Gloss=voix
-9	a	a	préposition	_	_	_	_	_	Gloss=à|Morph=1
+9	a	a	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
 10	du	tu	nom	_	_	_	_	_	Gloss=côté
-11	geté	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.eux
+11	geté	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.eux
 12	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1974:47)__1
-# text = Ha kentizh arruet en o ''lakaer'' da c'houarn pontoù…
+# text = Ha kentizh arruet en o lakaer da c'houarn pontoù…
 # text_fr = 'Et sitôt arrivés on les met à garder des ponts.'
 # dialect = Vannetais
 # source = Herrieu (1974)
 # texttype = Références de corpus
-1	Ha	&	?	_	_	_	_	_	Gloss=et
+1	Ha	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
 2	kentizh	kentizh	adverbe	_	_	_	_	_	Gloss=sitôt
-3	arruet	arru	?	_	_	_	_	_	Gloss=arrivé
+3	arruet	arru	verbe	_	_	_	_	_	Gloss=arrivé
 4	en	en	complémenteur	_	_	_	_	_	Gloss=R
-5	o	POP	?	_	_	_	_	_	Gloss=les|Morph=2
-6	'	lakaat.IMP	verbe.?	_	_	_	_	_	Gloss=mettre.on
-7	'	'	?	_	_	_	_	_	Gloss=?
-8	lakaer'	lakaer'	?	_	_	_	_	_	Gloss=?
-9	'	'	?	_	_	_	_	_	Gloss=?
-10			PUNCT	_	_	_	_	Gloss=punct
-11	da	da	préposition	_	_	_	_	_	Gloss=pour|Morph=1
-12	c'houarn	c'houarn	?	_	_	_	_	_	Gloss=garder
-13	pontoù…	pontoù…	?	_	_	_	_	_	Gloss=pont
+5	o	POP	pronom	_	_	_	_	_	Gloss=les|Mutation=trigger|MutationNUM=2
+6	lakaer	lakaat.IMP	verbe.pronom	_	_	_	_	_	Gloss=mettre.on
+7	da	da	préposition	_	_	_	_	_	Gloss=pour|Mutation=trigger|MutationNUM=1
+8	c'houarn	c'houarn	?	_	_	_	_	_	Gloss=garder
+9	pontoù…	pontoù…	?	_	_	_	_	_	Gloss=pont
 
 # sent_id = LeBesco(2005:76)__1
 # text = Ar vuoh n'hall ket en he bout leue.
@@ -125,38 +124,39 @@
 # location = Belle-Île-en-mer
 # source = Le Besco (2005)
 # texttype = Ouvrages de recherche
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	vuoh	buoc'h	?	_	_	_	_	_	Gloss=vache|Morph=1
-3	n'	n'	?	_	_	_	_	_	Gloss=ne|Morph=1
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	vuoh	buoc'h	?	_	_	_	_	_	Gloss=vache|Mutation=target|MutationNUM=1
+3	n'	n'	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 4	hall	gallout	verbe	_	_	_	_	_	Gloss=peut
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
 6	en	en	complémenteur	_	_	_	_	_	Gloss=R
 7	he	he	?	_	_	_	_	_	Gloss=3SGF
-8	bout	kaout	?	_	_	_	_	_	Gloss=avoir
+8	bout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
 9	leue	leue	nom	_	_	_	_	_	Gloss=veau
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArMeliner(2009:64)__2
 # text = hag e lâr d'ar vestrez a sell doc'hti get truez, en he deus naon he mamm.
 # text_fr = '...et elle dit à la patronne qui la regarde avec pitié que sa mère a faim.'
-# source = Ar Meliner (2009)
-1	hag	&	?	_	_	_	_	_	Gloss=et
-2	e	e	?	_	_	_	_	_	Gloss=R
+# source = Le Melinaire (1938)
+# texttype = Références de corpus
+1	hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	e	e	verbe	_	_	_	_	_	Gloss=R
 3	lâr	lavarout	verbe	_	_	_	_	_	Gloss=dit
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez(féminin)|ne|Morph=1
-7	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	vestrez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez_(féminin)|ne|Mutation=target|MutationNUM=1
+7	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 8	sell	sellout	verbe	_	_	_	_	_	Gloss=regarde
-9	doc'hti	doc'h.pronomincorporé	?.?	_	_	_	_	_	Gloss=à.elle
-10	get	gant	?	_	_	_	_	_	Gloss=avec
+9	doc'hti	doc'h.pronom_incorporé	?.?	_	_	_	_	_	Gloss=à.elle
+10	get	gant	préposition	_	_	_	_	_	Gloss=avec
 11	truez	truez	nom	_	_	_	_	_	Gloss=pitié
 12	,	,	PUNCT	_	_	_	_	Gloss=punct
 13	en	en	complémenteur	_	_	_	_	_	Gloss=?
 14	he	he	?	_	_	_	_	_	Gloss=R
-15	deus	kaout	?	_	_	_	_	_	Gloss=a
+15	deus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 16	naon	naon	nom	_	_	_	_	_	Gloss=faim
-17	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+17	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 18	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -166,23 +166,23 @@
 # dialect = Léonard
 # source = Y. M. (04/2016b)
 # texttype = Élicitations
-1	Hi	pfi	?	_	_	_	_	_	Gloss=elle
+1	Hi	pfi	pronom	_	_	_	_	_	Gloss=elle
 2	a	a	préposition	_	_	_	_	_	Gloss=R
 3	lavare	lavarout	verbe	_	_	_	_	_	Gloss=disait
 4	d'	da	préposition	_	_	_	_	_	Gloss=à
-5	ar	art	?	_	_	_	_	_	Gloss=le
-6	batronez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez(féminin)|ne|Morph=1
+5	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+6	batronez	mestr	nom	_	_	_	_	_	Gloss=patron]].[[-ez_(féminin)|ne|Mutation=target|MutationNUM=1
 7	a	a	préposition	_	_	_	_	_	Gloss=R
 8	zo	sellout	verbe	_	_	_	_	_	Gloss=regarde
-9	o	ouzh.pronomincorporé	préposition.?	_	_	_	_	_	Gloss=à.elle
-10	sellet	gant	?	_	_	_	_	_	Gloss=avec
-11	outi	truez	nom	_	_	_	_	_	Gloss=pitié
-12	gant	gant	?	_	_	_	_	_	Gloss=?
+9	o	ouzh.pronom_incorporé.gant	préposition.?.préposition	_	_	_	_	_	Gloss=à.elle.avec
+10	sellet	truez	nom	_	_	_	_	_	Gloss=pitié
+11	outi	outi	?	_	_	_	_	_	Gloss=?
+12	gant	gant	préposition	_	_	_	_	_	Gloss=?
 13	truez	truez	nom	_	_	_	_	_	Gloss=?
 14	en	en	complémenteur	_	_	_	_	_	Gloss=R
-15	neus	kaout	?	_	_	_	_	_	Gloss=a
+15	neus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 16	naon	naon	nom	_	_	_	_	_	Gloss=faim
-17	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
+17	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
 18	mamm	mamm	nom	_	_	_	_	_	Gloss=mère
 19	.	.	PUNCT	_	_	_	_	Gloss=punct
 20	??	??	?	_	_	_	_	_	Gloss=???
@@ -190,30 +190,33 @@
 22	??	??	?	_	_	_	_	_	Gloss=???
 23	?	?	PUNCT	_	_	_	_	Gloss=punct
 
-# sent_id = Hemon (1975:§70,a)__1
+# sent_id = Hemon(1975:§70,a)__1
 # text = neuze ne rafac'h fors e-bed pe hen a vez eaz pe ziez ho toare.
 # text_fr = 'Vous ne feriez alors aucun cas de la facilité ou de la difficulté de votre position.'
 # source2 =  JKS.:110, Vannetais 1862
-1	neuze	neuze	conjonction-adverbe	_	_	_	_	_	Gloss=neuze
-2	ne	ne	?	_	_	_	_	_	Gloss=ne|Morph=1
-3	rafac'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=feriez
+# source = Y. M. (04/2016b)
+1	neuze	neuze	adverbe|conjonction	_	_	_	_	_	Gloss=neuze
+2	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
+3	rafac'h	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=feriez
 4	fors	forzh	quantifieur	_	_	_	_	_	Gloss=cas
-5	e-bed	P.e	?	_	_	_	_	_	Gloss=en
-6	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+5	e-bed	P.e	préposition	_	_	_	_	_	Gloss=en
+6	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 7	hen	hen	?	_	_	_	_	_	Gloss=3SG
 8	a	a	préposition	_	_	_	_	_	Gloss=R
-9	vez	vez	verbe-auxiliaire	_	_	_	_	_	Gloss=est
+9	vez	vez	verbe|auxiliaire	_	_	_	_	_	Gloss=est
 10	eaz	aes	adjectif	_	_	_	_	_	Gloss=facile
-11	pe	pe	conjonction-complémenteur	_	_	_	_	_	Gloss=ou|Morph=1
+11	pe	pe	complémenteur|conjonction	_	_	_	_	_	Gloss=ou|Mutation=trigger|MutationNUM=1
 12	ziez	diaes	adjectif	_	_	_	_	_	Gloss=difficile
-13	ho	POSS	?	_	_	_	_	_	Gloss=votre|Morph=3
+13	ho	POSS	déterminant	_	_	_	_	_	Gloss=votre|Mutation=trigger|MutationNUM=3
 14	toare	doare	nom	_	_	_	_	_	Gloss=façon
 15	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Herrieu(1994:76)__1
 # text = ar Mestr en he deus nac'het…
 # text_fr = 'le Maître qui l'a refusée… '
-# source = Herrieu (1994)
-1	ar	art	?	_	_	_	_	_	Gloss=le
+# dialect = Vannetais
+# source = Herrieu (1974)
+# texttype = Références de corpus
+1	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 2	Mestr	mestr	nom	_	_	_	_	_	Gloss=Maître
 3	nac'het…	nac'hañ	?	_	_	_	_	_	Gloss=refusé

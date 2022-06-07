@@ -6,12 +6,12 @@
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
 1	Kredabl	Kredabl	?	_	_	_	_	_	Gloss=croyable
-2	o	POSS	?	_	_	_	_	_	Gloss=leur|Morph=2
+2	o	POSS	déterminant	_	_	_	_	_	Gloss=leur|Mutation=trigger|MutationNUM=2
 3	fae	pae	nom	_	_	_	_	_	Gloss=paie
-4	??	??	?	_	_	_	_	_	Gloss=ne|Morph=1
+4	??	??	?	_	_	_	_	_	Gloss=ne|Mutation=trigger|MutationNUM=1
 5	?	?	PUNCT	_	_	_	_	Gloss=punct
-6	oa	COP	?	_	_	_	_	_	Gloss=était
+6	oa	COP	verbe	_	_	_	_	_	Gloss=était
 7	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-8	gwall	gwall	?	_	_	_	_	_	Gloss=très|Morph=1
-9	vraz	bras	adverbe-adjectif	_	_	_	_	_	Gloss=grand
+8	gwall	gwall	adverbe|nom	_	_	_	_	_	Gloss=très|Mutation=trigger|MutationNUM=1
+9	vraz	bras	adverbe|adjectif	_	_	_	_	_	Gloss=grand
 10	.	.	PUNCT	_	_	_	_	Gloss=punct

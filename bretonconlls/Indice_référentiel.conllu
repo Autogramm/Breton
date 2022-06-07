@@ -4,10 +4,10 @@
 # dialect = Vannetais
 # source = Ar Borgn (2011)
 # texttype = Ouvrages de recherche
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.là
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.là
 2	'	zo	?	_	_	_	_	_	Gloss=est
 3	zo	zo	?	_	_	_	_	_	Gloss=?
 4	hir	hir	adjectif	_	_	_	_	_	Gloss=long
-5	e	POSS	?	_	_	_	_	_	Gloss=son|Morph=1
-6	anal	anal	?	_	_	_	_	_	Gloss=souffle
+5	e	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=1
+6	anal	anal	nom	_	_	_	_	_	Gloss=souffle
 7	.	.	PUNCT	_	_	_	_	Gloss=punct

@@ -4,16 +4,16 @@
 # dialect = Léonard
 # source = Kervella (2009)
 # texttype = Ouvrages pédagogiques
-1	En	P.e.art	?.?	_	_	_	_	_	Gloss=en.le
+1	En	P.e.art	préposition.déterminant|quantifieur	_	_	_	_	_	Gloss=en.le
 2	noz	noz	nom	_	_	_	_	_	Gloss=nuit
 3	em	em	?	_	_	_	_	_	Gloss=1SG
-4	eus	kaout	?	_	_	_	_	_	Gloss=a
+4	eus	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=a
 5	aon	aon	nom	_	_	_	_	_	Gloss=peur
 6	.	.	PUNCT	_	_	_	_	Gloss=punct
 7	Forzh	forzh	quantifieur	_	_	_	_	_	Gloss=importe
-8	petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-9	en	enem	complémenteur	_	_	_	_	_	Gloss=se
-10	em	kavout	verbe	_	_	_	_	_	Gloss=passerait
+8	petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+9	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
+10	em	em	?	_	_	_	_	_	Gloss=?
 11	gavfe.	gavfe.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Plougerneau,M-L.B.(04/2016)__1
@@ -22,13 +22,13 @@
 # dialect = Léonard
 # source = M-L. B. (04/2016)
 # texttype = Élicitations
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	nin	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	nin	en_em	?	_	_	_	_	_	Gloss=se
 3	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 5	evomp	evañ	verbe	_	_	_	_	_	Gloss=buvons
 6	leazh	laezh	nom	_	_	_	_	_	Gloss=lait
-7	tarzhet	tarzhañ.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=explos.é
+7	tarzhet	tarzhañ.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=explos.é
 8	?	?	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Lesneven/Kerlouan,Y.M.(04/2016)__1
@@ -36,8 +36,8 @@
 # text_fr = 'Qu'est-ce qui arrive si on boit du lait tourné ?'
 # source = Y. M. (04/2016)
 # texttype = Élicitations
-1	Petra	petra	pronom-complémenteur	_	_	_	_	_	Gloss=quoi
-2	in	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+1	Petra	petra	complémenteur|pronom	_	_	_	_	_	Gloss=quoi
+2	in	en_em	?	_	_	_	_	_	Gloss=se
 3	gavo	kavout	verbe	_	_	_	_	_	Gloss=trouve
 4	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 5	ever	evañ	verbe	_	_	_	_	_	Gloss=buvons
@@ -53,11 +53,11 @@
 # texttype = Élicitations
 1	Klevout	klevout	verbe	_	_	_	_	_	Gloss=entendre
 2	a	a	préposition	_	_	_	_	_	Gloss=R
-3	reoc'h	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faites
-4	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-5	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
-6	oc'h	particuleo	?	_	_	_	_	_	Gloss=à|Morph=4
-7	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+3	reoc'h	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faites
+4	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+5	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
+6	oc'h	particule_o	?	_	_	_	_	_	Gloss=à
+7	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 8	en	kavout	verbe	_	_	_	_	_	Gloss=trouver
 9	gaout.	gaout.	?	_	_	_	_	_	Gloss=?
 
@@ -67,29 +67,31 @@
 # dialect = Léonard
 # source = Riou (1995)
 # texttype = Références de corpus
-1	Klevet	klevout.-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=entend.u
+1	Klevet	klevout.-et_(Adj.)	verbe.verbe|suffixe	_	_	_	_	_	Gloss=entend.u
 2	am-eus	am-eus	?	_	_	_	_	_	Gloss=R
 3	,	,	PUNCT	_	_	_	_	Gloss=punct
-4	an	art	?	_	_	_	_	_	Gloss=le
+4	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 5	hen-mañ-hen	hen-mañ-hen	?	_	_	_	_	_	Gloss=DEM
 6	a	a	préposition	_	_	_	_	_	Gloss=R
 7	zo	zo	?	_	_	_	_	_	Gloss=est
-8	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
-9	em	kavout.[-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+8	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
+9	em	kavout.[-et_(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 10	gavet	gavet	?	_	_	_	_	_	Gloss=?
-11	gantañ	gant.pronomincorporé	?.?	_	_	_	_	_	Gloss=avec.lui
-12	an	art	?	_	_	_	_	_	Gloss=le
-13	dra-mañ-tra	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci]]-[[tra|chose|Morph=1
+11	gantañ	gant.pronom_incorporé	préposition.?	_	_	_	_	_	Gloss=avec.lui
+12	an	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+13	dra-mañ-tra	tra	nom	_	_	_	_	_	Gloss=chose]]-[[DEM|ci]]-[[tra|chose|Mutation=target|MutationNUM=1
 14	!	!	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Gros(1989:'kavoud')__1
 # text = Hag evel-se int en em gavet pinvidig.
 # text_fr = 'Et c'est ainsi qu'ils sont devenus riches.'
-# source = Gros (1989)
-1	Hag	&	?	_	_	_	_	_	Gloss=et
-2	evel-se	evel	préposition-complémenteur	_	_	_	_	_	Gloss=comme
-3	int	COP	?	_	_	_	_	_	Gloss=sont
-4	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+# dialect = Trégorrois
+# source = Gros (1970b)
+# texttype = Ouvrages de recherche
+1	Hag	&	complémenteur|conjonction	_	_	_	_	_	Gloss=et
+2	evel-se	evel	complémenteur|préposition	_	_	_	_	_	Gloss=comme
+3	int	COP	verbe	_	_	_	_	_	Gloss=sont
+4	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 5	em	kavout	verbe	_	_	_	_	_	Gloss=trouver
 6	gavet	gavet	?	_	_	_	_	_	Gloss=?
 7	pinvidig	pinvidik	adjectif	_	_	_	_	_	Gloss=riche
@@ -102,15 +104,15 @@
 # source = Bouzeg (1986)
 # texttype = Ouvrages de recherche
 1	'	'	?	_	_	_	_	_	Gloss=ne
-2	N	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+2	N	en_em	N	_	_	_	_	_	Gloss=se
 3	em	em	?	_	_	_	_	_	Gloss=?
 4	gaven	gaven	?	_	_	_	_	_	Gloss=trouvais
 5	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-6	'	e-barzh	préposition-postposition	_	_	_	_	_	Gloss=dans
+6	'	e-barzh	préposition|postposition	_	_	_	_	_	Gloss=dans
 7	ba'	ba'	?	_	_	_	_	_	Gloss=?
 8			PUNCT	_	_	_	_	Gloss=punct
-9	'	art	?	_	_	_	_	_	Gloss=le
-10	r	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|là|Morph=1
+9	'	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+10	r	bro	nom	_	_	_	_	_	Gloss=pays]]-[[DEM|là|Mutation=target|MutationNUM=1
 11	vro-se.	vro-se.	?	_	_	_	_	_	Gloss=?
 
 # sent_id = Mellouet&Pennec(2004:77)__1
@@ -119,16 +121,16 @@
 # dialect = Léonard
 # source = Mellouet & Pennec (2004)
 # texttype = Références de corpus
-1	Nemet	nemet	conjonction-adverbe-complémenteur	_	_	_	_	_	Gloss=seulement
-2	unan	unan	pronom-quantifieur	_	_	_	_	_	Gloss=un
-3	bennak	bennak	quantifieur-adjectif	_	_	_	_	_	Gloss=quelconque
+1	Nemet	nemet	complémenteur|adverbe|conjonction	_	_	_	_	_	Gloss=seulement
+2	unan	unan	pronom|quantifieur	_	_	_	_	_	Gloss=un
+3	bennak	bennak	quantifieur|adjectif	_	_	_	_	_	Gloss=quelconque
 4	a	a	préposition	_	_	_	_	_	Gloss=R
-5	en	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+5	en	en_em	complémenteur	_	_	_	_	_	Gloss=se
 6	em	kavout	verbe	_	_	_	_	_	Gloss=trouvait
 7	gave	gave	?	_	_	_	_	_	Gloss=?
-8	da	da	préposition	_	_	_	_	_	Gloss=à|Morph=1
-9	gaout	kaout	?	_	_	_	_	_	Gloss=avoir
-10	en	enur	complémenteur	_	_	_	_	_	Gloss=en
+8	da	da	préposition	_	_	_	_	_	Gloss=à|Mutation=trigger|MutationNUM=1
+9	gaout	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avoir
+10	en	en_ur	complémenteur	_	_	_	_	_	Gloss=en
 11	ur	ur	?	_	_	_	_	_	Gloss=?
 12	chipal	chipal	?	_	_	_	_	_	Gloss=chiper
 13	.	.	PUNCT	_	_	_	_	Gloss=punct
@@ -141,12 +143,12 @@
 # texttype = Élicitations
 1	A-wichoù	a-wechoù	adverbe	_	_	_	_	_	Gloss=parfois
 2	ner	ner	?	_	_	_	_	_	Gloss=ne
-3	gaver	kavout.IMP	verbe.?	_	_	_	_	_	Gloss=trouve.on
+3	gaver	kavout.IMP	verbe.pronom	_	_	_	_	_	Gloss=trouve.on
 4	ket	ket	adverbe	_	_	_	_	_	Gloss=pas
-5	goude	goude	préposition-adverbe-complémenteur	_	_	_	_	_	Gloss=malgré
-6	ober	ober	verbe-auxiliaire	_	_	_	_	_	Gloss=faire
-7	eus	eus	?	_	_	_	_	_	Gloss=de
-8	ar	art	?	_	_	_	_	_	Gloss=le
+5	goude	goude	adverbe|complémenteur|préposition	_	_	_	_	_	Gloss=malgré
+6	ober	ober	verbe|auxiliaire	_	_	_	_	_	Gloss=faire
+7	eus	eus	préposition	_	_	_	_	_	Gloss=de
+8	ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 9	gwellañ	gwellañ	adjectif	_	_	_	_	_	Gloss=mieux
 10	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -157,11 +159,11 @@
 # location = Perros-Guirrec
 # source = Konan (2017)
 # texttype = Ouvrages de recherche
-1	En	enem	?	_	_	_	_	_	Gloss=se|Morph=1
-2	em	kavout.[-et(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
+1	En	en_em	complémenteur	_	_	_	_	_	Gloss=se
+2	em	kavout.[-et_(Adj.)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 3	gavet	gavet	?	_	_	_	_	_	Gloss=?
-4	eo	COP	verbe-auxiliaire	_	_	_	_	_	Gloss=est
-5	buan	buan	adverbe-adjectif	_	_	_	_	_	Gloss=vite
+4	eo	COP	verbe	_	_	_	_	_	Gloss=est
+5	buan	buan	adverbe|adjectif	_	_	_	_	_	Gloss=vite
 6	awalc'h	awalc'h	?	_	_	_	_	_	Gloss=assez
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
@@ -171,8 +173,8 @@
 # dialect = Cornouaillais
 # source = H. Gaudart (04/2016b)
 # texttype = Élicitations
-1	Hennezh	DEM	?	_	_	_	_	_	Gloss=celui.ci
+1	Hennezh	DEM	pronom	_	_	_	_	_	Gloss=celui.ci
 2	en	en	complémenteur	_	_	_	_	_	Gloss=|
-3	em	enem	?	_	_	_	_	_	Gloss=se|Morph=1
+3	em	en_em	?	_	_	_	_	_	Gloss=se
 4	gav	kavout	verbe	_	_	_	_	_	Gloss=trouve
 5	.	.	PUNCT	_	_	_	_	Gloss=punct

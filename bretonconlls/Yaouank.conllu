@@ -5,12 +5,12 @@
 # location = Plouzane
 # source = Briant-Cadiou (1998)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	re	hini	nom-pronom	_	_	_	_	_	Gloss=ceux
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	re	hini	pronom|nom	_	_	_	_	_	Gloss=ceux
 3	yaouank	yaouank	adjectif	_	_	_	_	_	Gloss=jeune
-4	o-doa	kaout	?	_	_	_	_	_	Gloss=avait
+4	o-doa	kaout	verbe|auxiliaire	_	_	_	_	_	Gloss=avait
 5	avi	avi	?	_	_	_	_	_	Gloss=envie
-6	ouzouto	ouzh.ouzh.pronomincorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.eux
+6	ouzouto	ouzh.ouzh.pronom_incorporé	préposition.préposition.?	_	_	_	_	_	Gloss=de.de.eux
 7	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = ArGow(1999:18)__1
@@ -21,24 +21,25 @@
 # source = Ar Gow (1999)
 # texttype = Références de corpus
 1	d'	da	préposition	_	_	_	_	_	Gloss=à
-2	he	POSS	?	_	_	_	_	_	Gloss=son|Morph=2
-3	bugale	bugel.plurielinterne	nom.?	_	_	_	_	_	Gloss=enfant.s
+2	he	POSS	déterminant	_	_	_	_	_	Gloss=son|Mutation=trigger|MutationNUM=2
+3	bugale	bugel.pluriel_interne	nom.?	_	_	_	_	_	Gloss=enfant.s
 4	a	a	préposition	_	_	_	_	_	Gloss=R
 5	zo	zo	?	_	_	_	_	_	Gloss=est
-6	holl	tout	adverbe-quantifieur	_	_	_	_	_	Gloss=tous
+6	holl	tout	adverbe|quantifieur	_	_	_	_	_	Gloss=tous
 7	yaouank-flamm..	yaouank-flamm..	?	_	_	_	_	_	Gloss=INT
 8	.	.	PUNCT	_	_	_	_	Gloss=punct
 
 # sent_id = Denez(1993:21)__1
 # text = Ez-yaouank e oa bet dedennet gant al luc'hskeudenniñ.
 # text_fr = 'Jeune, il avait été attiré par la photographie.'
+# dialect = Standard
 # source = Denez (1993)
 # texttype = Ouvrages de recherche
-1	e	e	?	_	_	_	_	_	Gloss=R
-2	oa	COP	?	_	_	_	_	_	Gloss=était
+1	e	e	verbe	_	_	_	_	_	Gloss=R
+2	oa	COP	verbe	_	_	_	_	_	Gloss=était
 3	bet	bet	?	_	_	_	_	_	Gloss=été
-4	dedennet	dedenn	?	_	_	_	_	_	Gloss=attiré
-5	gant	gant	?	_	_	_	_	_	Gloss=par
-6	al	art	?	_	_	_	_	_	Gloss=le
+4	dedennet	dedenn	verbe	_	_	_	_	_	Gloss=attiré
+5	gant	gant	préposition	_	_	_	_	_	Gloss=par
+6	al	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
 7	luc'hskeudenniñ	luc'hskeudenniñ	?	_	_	_	_	_	Gloss=photographier
 8	.	.	PUNCT	_	_	_	_	Gloss=punct

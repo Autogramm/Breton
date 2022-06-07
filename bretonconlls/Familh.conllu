@@ -5,17 +5,17 @@
 # location = Lesneven
 # source = Burel (2012)
 # texttype = Références de corpus
-1	Ar	art	?	_	_	_	_	_	Gloss=le
-2	réma	hini.DEM	nom-pronom.?	_	_	_	_	_	Gloss=ceux.ci
-3	évito	evit.pronomincorporé	préposition-complémenteur.?	_	_	_	_	_	Gloss=pour.eux
-4	da	da	préposition	_	_	_	_	_	Gloss=de|Morph=1
-5	véza	bezan	?	_	_	_	_	_	Gloss=être
+1	Ar	art	déterminant|quantifieur	_	_	_	_	_	Gloss=le
+2	réma	hini.DEM	pronom|nom.pronom	_	_	_	_	_	Gloss=ceux.ci
+3	évito	evit.pronom_incorporé	complémenteur|préposition.?	_	_	_	_	_	Gloss=pour.eux
+4	da	da	préposition	_	_	_	_	_	Gloss=de|Mutation=trigger|MutationNUM=1
+5	véza	bezan	verbe|auxiliaire	_	_	_	_	_	Gloss=être
 6	paour	paour	adjectif	_	_	_	_	_	Gloss=pauvre
 7	,	,	PUNCT	_	_	_	_	Gloss=punct
-8	a	a	préposition	_	_	_	_	_	Gloss=R|Morph=1
+8	a	a	préposition	_	_	_	_	_	Gloss=R|Mutation=trigger|MutationNUM=1
 9	ziskenné	diskenn	verbe	_	_	_	_	_	Gloss=descendait
-10	eus	eus	?	_	_	_	_	_	Gloss=de
-11	eur	art	nom	_	_	_	_	_	Gloss=un
+10	eus	eus	préposition	_	_	_	_	_	Gloss=de
+11	eur	art	déterminant|quantifieur	_	_	_	_	_	Gloss=un
 12	famill	famill	?	_	_	_	_	_	Gloss=famille
-13	énorabl	enor.-abl	nom.?	_	_	_	_	_	Gloss=honor.able
+13	énorabl	enor.-abl	nom.suffixe|adjectif	_	_	_	_	_	Gloss=honor.able
 14	.	.	PUNCT	_	_	_	_	Gloss=punct
