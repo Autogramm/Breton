@@ -22,12 +22,12 @@
 # texttype = Ouvrages de recherche
 1	'Po	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=auras
 2	ke'	ket	?	_	_	_	_	_	Gloss=pas
-3	me'	met	conjonction/complémenteur	_	_	_	_	_	Gloss=mais
+3	me'	met	complémenteur/conjonction	_	_	_	_	_	Gloss=mais
 4	selled	sellout	verbe	_	_	_	_	_	Gloss=voir
 5	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 6	ene	ene	adverbe	_	_	_	_	_	Gloss=y
 7	zo	COP	COP	_	_	_	_	_	Gloss=est
-8	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+8	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 9	pezh	pezh	?	_	_	_	_	_	Gloss=gros
 10	blokad	blokad	?	_	_	_	_	_	Gloss=bloc
 11	rehier	roc'h.pluriel_interne	?.pluriel	_	_	_	_	_	Gloss=rocher.s
@@ -42,7 +42,7 @@
 # texttype = Références de corpus
 1	'	'	Modaux	_	_	_	_	_	Gloss=défendu
 2	Rabad	Rabad	Modaux	_	_	_	_	_	Gloss=?
-3	eo	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+3	eo	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 5	Bastien	Bastien	nom_propre	_	_	_	_	_	Gloss=Bastien
 6	,	,	PUNCT	_	_	_	_	_	Gloss=punct
@@ -60,15 +60,15 @@
 # location = Poullaouen
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	'Vi'	evit	complémenteur/préposition	_	_	_	_	_	Gloss=pour
+1	'Vi'	evit	préposition/complémenteur	_	_	_	_	_	Gloss=pour
 2	bi'	bezañ	verbe/auxiliaire	_	_	_	_	_	Gloss=être
 3	kuit	kuit	complémenteur	_	_	_	_	_	Gloss=quitte
 4	ta	da	préposition	_	_	_	_	_	Gloss=de
 5	weled	gwelout	verbe	_	_	_	_	_	Gloss=voir
-6	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+6	ar	art	article défini	_	_	_	_	_	Gloss=le
 7	viser	mizer	nom	_	_	_	_	_	Gloss=misère|1 target
-8	hag	&	conjonction/complémenteur	_	_	_	_	_	Gloss=et
-9	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+8	hag	&	complémenteur/conjonction	_	_	_	_	_	Gloss=et
+9	ar	art	article défini	_	_	_	_	_	Gloss=le
 10	baourente(z)	#entez	nom/suffixe	_	_	_	_	_	Gloss=eté
 11	dindan	dindan	préposition	_	_	_	_	_	Gloss=sous
 12	o	POSS	POSS	_	_	_	_	_	Gloss=leur
@@ -86,7 +86,7 @@
 3	ven	ven		_	_	_	_	_	Gloss=?
 4	ki	ki	nom	_	_	_	_	_	Gloss=chien
 5	war-lerc'h	war-lerc'h	?	_	_	_	_	_	Gloss=après
-6	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+6	ar	art	article défini	_	_	_	_	_	Gloss=le
 7	c'had	gad	nom	_	_	_	_	_	Gloss=lièvre|Mutation=target|MutationNUM=1
 8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -135,23 +135,23 @@
 # location = Plouyé
 # source = Lozac'h (2012-2020)
 1	Aet	mont.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=all.é
-2	oain	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=étais
+2	oain	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=étais
 3	da	da	préposition	_	_	_	_	_	Gloss=pour
 4	gerc'had	kerc'hat	?	_	_	_	_	_	Gloss=chercher
-5	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+5	ar	art	article défini	_	_	_	_	_	Gloss=le
 6	saout	saout	nom	_	_	_	_	_	Gloss=vaches
 7	d'	da	préposition	_	_	_	_	_	Gloss=à
-8	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+8	ar	art	article défini	_	_	_	_	_	Gloss=le
 9	gêr	kêr	nom	_	_	_	_	_	Gloss=maison|Mutation=target|MutationNUM=1
 10	,	,	PUNCT	_	_	_	_	_	Gloss=punct
-11	mes	met	conjonction/complémenteur	_	_	_	_	_	Gloss=mais
+11	mes	met	complémenteur/conjonction	_	_	_	_	_	Gloss=mais
 12	ne	ne	complémenteur	_	_	_	_	_	Gloss=ne
-13	oa	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+13	oa	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 14	nekon	nekon	indéfini/quantifieur	_	_	_	_	_	Gloss=aucun
 15	e-bed	ebet	indéfini/quantifieur	_	_	_	_	_	Gloss=aucun
 16	kin	ken	indéfini/quantifieur	_	_	_	_	_	Gloss=plus
-17	ba'	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
-18	r	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+17	ba'	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
+18	r	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 19	park	park	nom	_	_	_	_	_	Gloss=parc
 20	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -162,12 +162,12 @@
 # location = Poullaouen
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	An	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	An	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 2	dud	tud	nom	_	_	_	_	_	Gloss=gens|1 target
 3	'	'	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
 4	larae	lavarout	verbe	_	_	_	_	_	Gloss=disait
 5	dehi	da.pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.elle
-6	peneus	penaos	complémenteur/adverbe/interrogatif	_	_	_	_	_	Gloss=que
+6	peneus	penaos	complémenteur/interrogatif/adverbe	_	_	_	_	_	Gloss=que
 7	"ah	interjection	interjection	_	_	_	_	_	Gloss=ah
 8	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 9	rin	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=ferai.je
@@ -182,11 +182,11 @@
 # dialect = Breton central
 # location = Plouyé
 # source =   Spered Ar Yezh (2002)
-1	An	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	An	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 2	dud	tud	nom	_	_	_	_	_	Gloss=gens|1 target
 3	o	o	verbe/auxiliaire	_	_	_	_	_	Gloss=3PL
 4	doa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avait
-5	ur	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+5	ur	art	article indéfini	_	_	_	_	_	Gloss=un
 6	sell	sell	nom	_	_	_	_	_	Gloss=regard
 7	stard	start	adjectif	_	_	_	_	_	Gloss=dur
 8	,	,	PUNCT	_	_	_	_	_	Gloss=punct
@@ -200,7 +200,7 @@
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901)
 # texttype = Références de corpus
-1	Anez	Anez	adverbe/préposition	_	_	_	_	_	Gloss=sans
+1	Anez	Anez	préposition/adverbe	_	_	_	_	_	Gloss=sans
 2	am	am.am	?.?	_	_	_	_	_	Gloss=R.1SG
 3	oa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avait
 4	true	truez	nom	_	_	_	_	_	Gloss=pitié
@@ -217,11 +217,11 @@
 # dialect = Breton central
 # location = Plouyé
 # source =   Kazetenn ar Menez (1981)
-1	Ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	Ar	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 2	mêr	maer	?	_	_	_	_	_	Gloss=maire
 3	neus	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=a
-4	fournisset	fournisset.-et_(Adj)	verbe/finale.?	_	_	_	_	_	Gloss=fourn.i
-5	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+4	fournisset	fournisset.-et_(Adj)	finale/verbe.?	_	_	_	_	_	Gloss=fourn.i
+5	ar	art	article défini	_	_	_	_	_	Gloss=le
 6	lokal	lokal	?	_	_	_	_	_	Gloss=local
 7	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -246,12 +246,12 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Daoust	daoust	complémenteur/interrogatif	_	_	_	_	_	Gloss=à.savoir
-2	piou	piv	pronom/interrogatif	_	_	_	_	_	Gloss=qui
+2	piou	piv	interrogatif/pronom	_	_	_	_	_	Gloss=qui
 3	hallfe	hallfe	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
 4	iac'hât	gallout	modaux/verbe	_	_	_	_	_	Gloss=pourrait
 5	gouliou	yac'h.gouliou	?.?	_	_	_	_	_	Gloss=guér.ir
-6	ar	gouli.-ioù_(PL)	nom.?	_	_	_	_	_	Gloss=blessure.s
-7	vuhe	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+6	ar	gouli.-ioù_(PL)	article défini	_	_	_	_	_	Gloss=blessure.s
+7	vuhe	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 8		buhez	nom	_	_	_	_	_	Gloss=vie|Mutation=target|MutationNUM=1
 9	?	?	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -297,7 +297,7 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	Deus	deus	préposition	_	_	_	_	_	Gloss=selon
-2	al	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+2	al	art	article défini	_	_	_	_	_	Gloss=le
 3	loar	loar	nom	_	_	_	_	_	Gloss=lune
 4	'	'	[[R]]_[[4]]	_	_	_	_	_	Gloss=R
 5	hadoñ	hadañ	verbe	_	_	_	_	_	Gloss=sème
@@ -317,7 +317,7 @@
 3	welan	gwelout	verbe	_	_	_	_	_	Gloss=vois
 4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 5	aman	ads	adverbe/suffixe	_	_	_	_	_	Gloss=ici
-6	oa	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+6	oa	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 7	den	den	nom	_	_	_	_	_	Gloss=personne
 8	ouz	ouzh	préposition	_	_	_	_	_	Gloss=à
 9	va	POP	POP	_	_	_	_	_	Gloss=me
@@ -332,7 +332,7 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-2	eun	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+2	eun	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 3	den	den	nom	_	_	_	_	_	Gloss=personne
 4	foeltr	foeltr	particules de discour	_	_	_	_	_	Gloss=foudre
 5	perz	perzh	nom	_	_	_	_	_	Gloss=partie
@@ -382,11 +382,11 @@
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901)
 # texttype = Références de corpus
-1	Eun	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	Eun	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	den	den	nom	_	_	_	_	_	Gloss=personne
-3	karantezuz	karantez.-us	nom.suffixe/adjectif	_	_	_	_	_	Gloss=amour.ant
-4	sort	seurt	complémenteur/préposition	_	_	_	_	_	Gloss=comme
-5	eo	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+3	karantezuz	karantez.-us	nom.adjectif/suffixe	_	_	_	_	_	Gloss=amour.ant
+4	sort	seurt	préposition/complémenteur	_	_	_	_	_	Gloss=comme
+5	eo	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 6	Fanch	Fanch	nom_propre	_	_	_	_	_	Gloss=Fanch
 7	em	POSS	POSS	_	_	_	_	_	Gloss=mon
 8	c'hever	e-keñver	préposition	_	_	_	_	_	Gloss=endroit
@@ -443,13 +443,13 @@
 # location = Poher
 # source = Favereau 1997)
 1	Gwas	gwaz	nom	_	_	_	_	_	Gloss=homme
-2	pe	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
+2	pe	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
 3	diwas	gwaz	nom	_	_	_	_	_	Gloss=homme
 4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
-5	an	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+5	an	art	article défini	_	_	_	_	_	Gloss=le
 6	dra-s'	tra	?	_	_	_	_	_	Gloss=chose-DEM|là|1 target
-7	so	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
-8	memes	memes	adjectif/particules de discour	_	_	_	_	_	Gloss=même
+7	so	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
+8	memes	memes	particules de discour/adjectif	_	_	_	_	_	Gloss=même
 9	mod	mod	préposition	_	_	_	_	_	Gloss=mode
 10	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -460,9 +460,9 @@
 # location = Poullaouen
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	Hag	&	conjonction/complémenteur	_	_	_	_	_	Gloss=et
+1	Hag	&	complémenteur/conjonction	_	_	_	_	_	Gloss=et
 2	echuet	echu.-et_(Adj)	?.?	_	_	_	_	_	Gloss=fin.i
-3	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	ar	art	article défini	_	_	_	_	_	Gloss=le
 4	rimodell	rimodell	?	_	_	_	_	_	Gloss=histoire
 5	…	…	PUNCT	_	_	_	_	_	Gloss=punct
 6	Achuet	echu.-et_(Adj)	?.?	_	_	_	_	_	Gloss=fin.i
@@ -502,14 +502,14 @@
 6	graet	graet	1SG	_	_	_	_	_	Gloss=1SG
 7	ken	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=a
 8	__	ober.-et_(Adj)	verbe/auxiliaire.?	_	_	_	_	_	Gloss=fa.it
-9	ar	ken	?	_	_	_	_	_	Gloss=seulement
+9	ar	ken	article défini	_	_	_	_	_	Gloss=seulement
 10	pez	ar_pezh	?	_	_	_	_	_	Gloss=ce_que
-11	an	an.an	?.?	_	_	_	_	_	Gloss=R.3SGM
+11	an	an.an	article défini	_	_	_	_	_	Gloss=R.3SGM
 12	oa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avait
 13	kavet	kavout.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 14	da	POSS	POSS	_	_	_	_	_	Gloss=ton
 15	waz	gwaz	nom	_	_	_	_	_	Gloss=mari
-16	karantezus	karantez.-us	nom.suffixe/adjectif	_	_	_	_	_	Gloss=amour.eux
+16	karantezus	karantez.-us	nom.adjectif/suffixe	_	_	_	_	_	Gloss=amour.eux
 17	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
 # sent_id = LeGarrec(1901:12)__1
@@ -525,9 +525,9 @@
 4	euz	euz	préposition	_	_	_	_	_	Gloss=1SG
 5	graet	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=a
 6	ken	ober.-et_(Adj)	verbe/auxiliaire.?	_	_	_	_	_	Gloss=fa.it
-7	ar	ken	?	_	_	_	_	_	Gloss=seulement
+7	ar	ken	article défini	_	_	_	_	_	Gloss=seulement
 8	pez	ar_pezh	?	_	_	_	_	_	Gloss=ce_que
-9	an	an	3SGM	_	_	_	_	_	Gloss=3SGM
+9	an	an	article défini	_	_	_	_	_	Gloss=3SGM
 10	oa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avait
 11	kavet	kavout.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 12	da	POSS	POSS	_	_	_	_	_	Gloss=ton
@@ -545,7 +545,7 @@
 2	zh	zh	?	_	_	_	_	_	Gloss=?
 3	oa	COP	COP	_	_	_	_	_	Gloss=était
 4	be'	bet	?	_	_	_	_	_	Gloss=été
-5	targasha	particule_o	nom/préfixe	_	_	_	_	_	Gloss=à
+5	targasha	particule_o	préfixe/nom	_	_	_	_	_	Gloss=à
 6		kazh	nom	_	_	_	_	_	Gloss=chat
 7	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -557,7 +557,7 @@
 # source =   Solliec (2015)
 1	zeske	deskiñ	verbe	_	_	_	_	_	Gloss=apprenait
 2	'	e	préposition	_	_	_	_	_	Gloss=en
-3	lec'h	lec'h	complémenteur/préposition	_	_	_	_	_	Gloss=?
+3	lec'h	lec'h	préposition/complémenteur	_	_	_	_	_	Gloss=?
 4	reen	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=faisais
 5	ket	ket	?	_	_	_	_	_	Gloss=pas
 6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
@@ -599,9 +599,9 @@
 1	Klevet	Klevet.-et_(Adj)	?.?	_	_	_	_	_	Gloss=entend.u
 2	'm	'm	1SG	_	_	_	_	_	Gloss=1SG
 3	'oa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avais
-4	peneus	penaos	complémenteur/adverbe/interrogatif	_	_	_	_	_	Gloss=que
+4	peneus	penaos	complémenteur/interrogatif/adverbe	_	_	_	_	_	Gloss=que
 5	'	'	[[R]]	_	_	_	_	_	Gloss=R
-6	oa	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+6	oa	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 7	klañv	klañv	adjectif	_	_	_	_	_	Gloss=malade
 8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -618,7 +618,7 @@
 4	la	la	complémenteur	_	_	_	_	_	Gloss=que
 5	out	COP	COP	_	_	_	_	_	Gloss=es
 6	gwasket	gwaskañ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=oppress.é
-7	on	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+7	on	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 8	tamm	tamm	?	_	_	_	_	_	Gloss=morceau
 9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -629,13 +629,13 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	Koulz	kenkoulz	complémenteur/adjectif	_	_	_	_	_	Gloss=autant
-2	oa	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+2	oa	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 3	d'	da	préposition	_	_	_	_	_	Gloss=à
-4	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+4	ar	art	article défini	_	_	_	_	_	Gloss=le
 5	bobl	pobl	nom	_	_	_	_	_	Gloss=peuple|1 target
 6	gweled	gwelout	verbe	_	_	_	_	_	Gloss=voir
 7	bleizi	bleiz.-i_(PL)	nom.pluriel/suffixe	_	_	_	_	_	Gloss=loup.s
-8	ba	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
+8	ba	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
 9	o	POSS	POSS	_	_	_	_	_	Gloss=leur
 10	blass	plas	nom	_	_	_	_	_	Gloss=place
 11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
@@ -651,7 +651,7 @@
 2	timad	tizh.mat	nom.?	_	_	_	_	_	Gloss=vitesse.bon
 3	war	war-eeun	préposition	_	_	_	_	_	Gloss=sur-droit
 4	eon	eon	?	_	_	_	_	_	Gloss=?
-5	beteg	betek	complémenteur/préposition	_	_	_	_	_	Gloss=jusque
+5	beteg	betek	préposition/complémenteur	_	_	_	_	_	Gloss=jusque
 6	e	POSS	POSS	_	_	_	_	_	Gloss=son
 7	di	di	nom	_	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
@@ -666,7 +666,7 @@
 1	Kê	mont	verbe	_	_	_	_	_	Gloss=va
 2	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 3	lousdoni	lous.-oni	adjectif.nom/suffixe	_	_	_	_	_	Gloss=sal.eté
-4	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+4	ar	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 5	foeltr	foeltr	?	_	_	_	_	_	Gloss=foudre
 6	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -680,7 +680,7 @@
 2	'	'	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
 3	ri	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=feras
 4	pe(a)draig	tra	indéfini/nom	_	_	_	_	_	Gloss=chose
-5	bar	bar-bar.art	?-?.déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=e--barzh|dans.le
+5	bar	bar-bar.art	?-?.indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=e--barzh|dans.le
 6	soubenn	soubenn	nom	_	_	_	_	_	Gloss=soupe
 7	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -693,7 +693,7 @@
 1	Lak'	lakaat	verbe	_	_	_	_	_	Gloss=mets
 2	'neoñ	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.lui
 3	beke	beke	complémenteur	_	_	_	_	_	Gloss=puisque
-4		emañ	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=êtes
+4		emañ	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=êtes
 5	'	'	?	_	_	_	_	_	Gloss=?
 6	moc'h	moc'h	pronom	_	_	_	_	_	Gloss=?
 7	'	particule_o	?	_	_	_	_	_	Gloss=à
@@ -709,7 +709,7 @@
 1	Lak'	lakaat	verbe	_	_	_	_	_	Gloss=mets
 2	'neoñ	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.lui
 3	beke	beke	complémenteur	_	_	_	_	_	Gloss=puisque
-4	'moc'h	emañ	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=êtes
+4	'moc'h	emañ	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=êtes
 5	'	particule_o	?	_	_	_	_	_	Gloss=à
 6	sell'	sellout	verbe	_	_	_	_	_	Gloss=regarder
 7	!	!	PUNCT	_	_	_	_	_	Gloss=punct
@@ -723,7 +723,7 @@
 # texttype = Références de corpus
 1	Lavar	lavarout	verbe	_	_	_	_	_	Gloss=dis
 2	kerc'hat	kerc'hat	verbe	_	_	_	_	_	Gloss=chercher
-3	Ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	Ar	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 4	Prad	Prat	nom_propre	_	_	_	_	_	Gloss=Prat
 5	aman	amañ	adverbe	_	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
@@ -746,7 +746,7 @@
 10	ma	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avais
 11	laket	lakaat.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=m.is
 12	'han'h	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.vous
-13	ba	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
+13	ba	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
 14	ma	POSS	POSS	_	_	_	_	_	Gloss=mon
 15	goetur	goetur	nom	_	_	_	_	_	Gloss=voiture
 16	'mestra	memestra	adverbe	_	_	_	_	_	Gloss=quand.même
@@ -800,7 +800,7 @@
 3	'	soñjal	verbe	_	_	_	_	_	Gloss=pense
 4	m'	m'	?	_	_	_	_	_	Gloss=ne
 5	on	on	?	_	_	_	_	_	Gloss=?
-6	ke	emañ	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=suis
+6	ke	emañ	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=suis
 7	mat	ket	?	_	_	_	_	_	Gloss=pas
 8		mat	pronom	_	_	_	_	_	Gloss=bien
 9	'	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.moi
@@ -818,7 +818,7 @@
 3	'	soñjal	verbe	_	_	_	_	_	Gloss=pense
 4	m'	m'	?	_	_	_	_	_	Gloss=?
 5	on	on	pronom	_	_	_	_	_	Gloss=?
-6	ke	emañ	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=suis
+6	ke	emañ	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=suis
 7	mat	ket	?	_	_	_	_	_	Gloss=pas
 8		mat	pronom	_	_	_	_	_	Gloss=bien
 9	'	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.moi
@@ -866,7 +866,7 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	N'	N'	N'	_	_	_	_	_	Gloss=ne
-2	eo	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=?
+2	eo	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=?
 3	ket	COP	COP	_	_	_	_	_	Gloss=est
 4	bet	ket	?	_	_	_	_	_	Gloss=pas
 5	toullgofet	bet		_	_	_	_	_	Gloss=été
@@ -882,9 +882,9 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Nag	na(g)	complémenteur/exclamatif	_	_	_	_	_	Gloss=ni
-2	èn	e.art	verbe/copule.déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=en.le
+2	èn	e.art	copule/verbe.indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=en.le
 3	oabr	oabl	nom	_	_	_	_	_	Gloss=ciel
-4	koumouluz	koumoul.-uz	nom.suffixe/adjectif	_	_	_	_	_	Gloss=nuag.eux
+4	koumouluz	koumoul.-uz	nom.adjectif/suffixe	_	_	_	_	_	Gloss=nuag.eux
 5	heol	heol	nom	_	_	_	_	_	Gloss=soleil
 6	ebet	ebet	indéfini/quantifieur	_	_	_	_	_	Gloss=aucun
 7	o	particule_o	?	_	_	_	_	_	Gloss=à
@@ -898,15 +898,15 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	Ne	Ne	complémenteur	_	_	_	_	_	Gloss=ne
-2	visae	vez	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+2	visae	vez	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 3	ket	ket	?	_	_	_	_	_	Gloss=pas
 4	e'	ezhomm	nom	_	_	_	_	_	Gloss=besoin
 5	mm	mm	?	_	_	_	_	_	Gloss=?
 6	da	da	préposition	_	_	_	_	_	Gloss=de
 7	daol	teurel	verbe	_	_	_	_	_	Gloss=jeter
 8	evezh	evezh	nom	_	_	_	_	_	Gloss=attention
-9	pi	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
-10	plet	pled	postposition/nom	_	_	_	_	_	Gloss=cas
+9	pi	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
+10	plet	pled	nom/postposition	_	_	_	_	_	Gloss=cas
 11	tehe	da.pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.eux
 12	!	!	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -919,9 +919,9 @@
 # texttype = Références de corpus
 1	Pardonit	pardoniñ	verbe	_	_	_	_	_	Gloss=pardonnez
 2	d'	da	préposition	_	_	_	_	_	Gloss=à
-3	eun	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+3	eun	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 4	ever	evañ.-er	verbe.?	_	_	_	_	_	Gloss=buv.eur
-5	an	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+5	an	art	article défini	_	_	_	_	_	Gloss=le
 6	divaloerez	divalav.divaloerez	adjectif.finale/nom	_	_	_	_	_	Gloss=laid.action
 7	n'	n'	3SG	_	_	_	_	_	Gloss=3SG
 8	euz	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=a
@@ -954,13 +954,13 @@
 # texttype = Grammaires
 1	Pell	pell	adjectif	_	_	_	_	_	Gloss=loin
 2	'	'	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
-3	oa	eo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=était
+3	oa	eo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=était
 4	'	'	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
 5	glevemp	klevout	verbe	_	_	_	_	_	Gloss=entendions
 6	'nezhoñ	a.pronom_incorporé	particule_verbale.pronom	_	_	_	_	_	Gloss=P.lui
 7	'	particule_o	?	_	_	_	_	_	Gloss=à
 8	hediñ	hed.-iñ	nom.verbe/suffixe	_	_	_	_	_	Gloss=long.er
-9	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+9	ar	art	article défini	_	_	_	_	_	Gloss=le
 10	wazh	wazh	nom	_	_	_	_	_	Gloss=1
 11	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -970,9 +970,9 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	Piw	piv	pronom/interrogatif	_	_	_	_	_	Gloss=qui
+1	Piw	piv	interrogatif/pronom	_	_	_	_	_	Gloss=qui
 2	e'	COP	COP	_	_	_	_	_	Gloss=est
-3	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	ar	art	article défini	_	_	_	_	_	Gloss=le
 4	zac'had	sac'h.-ad	?.nom/suffixe	_	_	_	_	_	Gloss=sach.ée
 5	brenn	brenn	?	_	_	_	_	_	Gloss=son
 6	,	,	PUNCT	_	_	_	_	_	Gloss=punct
@@ -1005,7 +1005,7 @@
 2	vichen	COP	COP	_	_	_	_	_	Gloss=serais
 3	aet	mont.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=all.é
 4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
-5	pet'	petra	complémenteur/exclamatif/pronom/interrogatif	_	_	_	_	_	Gloss=quoi
+5	pet'	petra	complémenteur/interrogatif/pronom/exclamatif	_	_	_	_	_	Gloss=quoi
 6	a	a	particule_verbale	_	_	_	_	_	Gloss=?
 7	mije	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=aurais
 8	gwelet	gwelout.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=v.u
@@ -1035,7 +1035,7 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	Traou	traoù	nom/pronom	_	_	_	_	_	Gloss=choses
-2	an	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+2	an	art	article défini	_	_	_	_	_	Gloss=le
 3	ti	ti	nom	_	_	_	_	_	Gloss=maison
 4	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 5	pere	pere.hini	pronom.?	_	_	_	_	_	Gloss=quel.ceux
@@ -1047,7 +1047,7 @@
 11	am	am	1SG	_	_	_	_	_	Gloss=1SG
 12	euz	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=a
 13	lezet	lezel.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=laiss.é
-14	ebarz	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dedans
+14	ebarz	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dedans
 15	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
 # sent_id = Avezard-Roger(2004a:337)__1
@@ -1056,7 +1056,7 @@
 # dialect = Breton central
 # location = Duault
 # source =   Avezard-Roger (2004a)
-1	a	&	conjonction/complémenteur	_	_	_	_	_	Gloss=et
+1	a	&	complémenteur/conjonction	_	_	_	_	_	Gloss=et
 2	pju	pa	complémenteur	_	_	_	_	_	Gloss=quand
 3	wɑ̃n	COP	COP	_	_	_	_	_	Gloss=étais
 4	e_t_	mont.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=all.é
@@ -1071,12 +1071,12 @@
 # location = Poullaouen
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	an	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	an	art	article défini	_	_	_	_	_	Gloss=le
 2	dud	tud	nom	_	_	_	_	_	Gloss=gens|1 target
 3	'	'	[[R]]	_	_	_	_	_	Gloss=R
 4	larae	lavarout	verbe	_	_	_	_	_	Gloss=disait
 5	dehi	da.pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.elle
-6	peneus	penaos	complémenteur/adverbe/interrogatif	_	_	_	_	_	Gloss=que
+6	peneus	penaos	complémenteur/interrogatif/adverbe	_	_	_	_	_	Gloss=que
 7	"ah	interjection	interjection	_	_	_	_	_	Gloss=ah
 8	,	,	PUNCT	_	_	_	_	_	Gloss=punct
 9	rin	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=ferai
@@ -1091,7 +1091,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	ar	art	article défini	_	_	_	_	_	Gloss=le
 2	chô	jav	nom	_	_	_	_	_	Gloss=cheval
 3	gwenn	gwenn	adjectif	_	_	_	_	_	Gloss=blanc
 4	tri	tri	?	_	_	_	_	_	Gloss=1
@@ -1105,10 +1105,10 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	ar	art	article défini	_	_	_	_	_	Gloss=le
 2	joent(r)ell	joent(r)ell.-ell	?.nom/suffixe	_	_	_	_	_	Gloss=joint.outil
-3	pi	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
-4	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	pi	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
+4	ar	art	article défini	_	_	_	_	_	Gloss=le
 5	souvantrierenn	souvantrierenn.-enn	.nom/suffixe	_	_	_	_	_	Gloss=souventrière.SG
 
 # sent_id = Favereau(1984:370)__1
@@ -1117,7 +1117,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	ar	art	article défini	_	_	_	_	_	Gloss=le
 2	lutun	lutun	nom	_	_	_	_	_	Gloss=lutin
 3	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.œil
 4	paper	paper	nom	_	_	_	_	_	Gloss=papier
@@ -1131,7 +1131,7 @@
 # texttype = Références de corpus
 1	ar	ar_pezh	?	_	_	_	_	_	Gloss=ce_que
 2	pez	pez	?	_	_	_	_	_	Gloss=?
-3	an	an	3SGM	_	_	_	_	_	Gloss=3SGM
+3	an	an	article défini	_	_	_	_	_	Gloss=3SGM
 4	oa	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=avait
 5	kavet	kavout.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=trouv.é
 6	da	POSS	POSS	_	_	_	_	_	Gloss=ton
@@ -1144,16 +1144,16 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	ar	art	article défini	_	_	_	_	_	Gloss=le
 2	walenn	walenn	nom	_	_	_	_	_	Gloss=1
 3	pehini	pehini-pehini.hini	pronom-pronom.?	_	_	_	_	_	Gloss=pe--|quel.ceux
 4	reit	reiñ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=donn.é
 5	tit	da.pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.toi
 6	bremañ	bremañ	adverbe	_	_	_	_	_	Gloss=maintenant
-7	zo	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+7	zo	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 8	seizh	cardinal	quantifieur/adjectif	_	_	_	_	_	Gloss=sept
 9	'la	bloaz	nom	_	_	_	_	_	Gloss=an
-10	so	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+10	so	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 
 # sent_id = Avezard-Roger(2004a:248)__1
 # text = baʁ gyzin e 'zebʁajn baʁ ]
@@ -1162,9 +1162,9 @@
 # location = Duault
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
-1	baʁ	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
-2	gyzin	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
-3	e	e	verbe/copule	_	_	_	_	_	Gloss=1
+1	baʁ	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
+2	gyzin	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
+3	e	e	copule/verbe	_	_	_	_	_	Gloss=1
 4	'zebʁajn	'zebʁajn	[[R]]_[[1]]	_	_	_	_	_	Gloss=R
 5	baʁ	debriñ	verbe	_	_	_	_	_	Gloss=mangent
 6	]	bara	nom	_	_	_	_	_	Gloss=pain
@@ -1202,7 +1202,7 @@
 3	deuz	deuz.ouzh.pronom_incorporé	préposition.préposition.pronom	_	_	_	_	_	Gloss=de.de.moi
 4	ouzon	ouzon	préposition	_	_	_	_	_	Gloss=?
 5	trubuill	trubuill	?	_	_	_	_	_	Gloss=rubuilh|anxiété
-6	hag	&	conjonction/complémenteur	_	_	_	_	_	Gloss=et
+6	hag	&	complémenteur/conjonction	_	_	_	_	_	Gloss=et
 7	enkrezo	enkrez.-où_(PL)	nom.?	_	_	_	_	_	Gloss=angoisse.s
 8	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1214,9 +1214,9 @@
 # texttype = Ouvrages de recherche
 1	daou	cardinal	quantifieur/adjectif	_	_	_	_	_	Gloss=deux
 2	chô	jav	nom	_	_	_	_	_	Gloss=cheval
-3	skoa(z)-ha-skoa(z)	skoa(z)-ha-skoa(z)-&-skoa(z)-ha-skoa(z)	nom-conjonction/complémenteur-nom	_	_	_	_	_	Gloss=épaule-et--épaule
-4	pi	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
-5	kost-ha-kostez	kostez-&-kostez	nom-conjonction/complémenteur-nom	_	_	_	_	_	Gloss=côte-et-côte
+3	skoa(z)-ha-skoa(z)	skoa(z)-ha-skoa(z)-&-skoa(z)-ha-skoa(z)	nom-complémenteur/conjonction-nom	_	_	_	_	_	Gloss=épaule-et--épaule
+4	pi	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
+5	kost-ha-kostez	kostez-&-kostez	nom-complémenteur/conjonction-nom	_	_	_	_	_	Gloss=côte-et-côte
 
 # sent_id = Favereau(1984:359)__1
 # text = daou chô skoa-ha-skoa pi kost-ha-kost
@@ -1226,9 +1226,9 @@
 # texttype = Ouvrages de recherche
 1	daou	cardinal	quantifieur/adjectif	_	_	_	_	_	Gloss=deux
 2	chô	jav	nom	_	_	_	_	_	Gloss=cheval
-3	skoa-ha-skoa	skoaz-&-skoaz	nom-conjonction/complémenteur-nom	_	_	_	_	_	Gloss=épaule-et-épaule
-4	pi	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
-5	kost-ha-kost	kostez-&-kostez	nom-conjonction/complémenteur-nom	_	_	_	_	_	Gloss=côte-et-côte
+3	skoa-ha-skoa	skoaz-&-skoaz	nom-complémenteur/conjonction-nom	_	_	_	_	_	Gloss=épaule-et-épaule
+4	pi	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
+5	kost-ha-kost	kostez-&-kostez	nom-complémenteur/conjonction-nom	_	_	_	_	_	Gloss=côte-et-côte
 
 # sent_id = LeGarrec(1901:91)__1
 # text = dirak eun den foeltr perz d'ean war da c'hourre
@@ -1238,7 +1238,7 @@
 # source = Le Garrec (1901)
 # texttype = Références de corpus
 1	dirak	dirak	préposition	_	_	_	_	_	Gloss=devant
-2	eun	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+2	eun	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 3	den	den	nom	_	_	_	_	_	Gloss=personne
 4	foeltr	foeltr	?	_	_	_	_	_	Gloss=foudre
 5	perz	perzh	nom	_	_	_	_	_	Gloss=partie
@@ -1255,7 +1255,7 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	diw	diw	quantifieur/adjectif	_	_	_	_	_	Gloss=deux_♀_
-2	pe	pe	conjonction/complémenteur	_	_	_	_	_	Gloss=ou
+2	pe	pe	complémenteur/conjonction	_	_	_	_	_	Gloss=ou
 3	deir	deir	quantifieur/adjectif	_	_	_	_	_	Gloss=trois_♀_
 4	rae	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=faisait
 
@@ -1267,7 +1267,7 @@
 # source =   Landré (1981)
 1	domaj	domaj	nom	_	_	_	_	_	Gloss=dommage
 2	é	COP	COP	_	_	_	_	_	Gloss=est
-3	vé	vez	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+3	vé	vez	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 4	ket	ket	?	_	_	_	_	_	Gloss=pas
 5	favoriset	favorisañ.-et_(Adj)	?.?	_	_	_	_	_	Gloss=favoris.é
 6	.	.	PUNCT	_	_	_	_	_	Gloss=punct
@@ -1281,7 +1281,7 @@
 # texttype = Ouvrages de recherche
 1	en-istribilh	en-istribilh-istribilh	préfixe-préposition	_	_	_	_	_	Gloss=en-suspens
 2	doc'h	doc'h	?	_	_	_	_	_	Gloss=de
-3	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	ar	art	article défini	_	_	_	_	_	Gloss=le
 4	skeul	skeul	nom	_	_	_	_	_	Gloss=échelle
 5	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1291,9 +1291,9 @@
 # dialect = Breton central
 # location = Plouyé
 # source =   Kazetenn ar Menez (1981)
-1	evid	evit	complémenteur/préposition	_	_	_	_	_	Gloss=pour
+1	evid	evit	préposition/complémenteur	_	_	_	_	_	Gloss=pour
 2	'n-om	en_em	pronom	_	_	_	_	_	Gloss=se
-3	reünissañ	reünissañ	verbe/finale	_	_	_	_	_	Gloss=réunir
+3	reünissañ	reünissañ	finale/verbe	_	_	_	_	_	Gloss=réunir
 4	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
 # sent_id = Wmffre(1998:56)__1
@@ -1306,10 +1306,10 @@
 2	ke	ket	complémenteur	_	_	_	_	_	Gloss=pas
 3	la:ɤ	lavarout	verbe	_	_	_	_	_	Gloss=dire
 4	gɛj_ə_ɤ	gɛj_ə_ɤ	nom	_	_	_	_	_	Gloss=mensonges
-5	kaɤ	rak	conjonction/complémenteur/préposition	_	_	_	_	_	Gloss=car
+5	kaɤ	rak	préposition/complémenteur/conjonction	_	_	_	_	_	Gloss=car
 6	gud	gouzout	verbe/auxiliaire	_	_	_	_	_	Gloss=savoir
 7	ɤã	ober	verbe/auxiliaire	_	_	_	_	_	Gloss=fais
-8	a_ɤ_	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+8	a_ɤ_	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 9	veɤjõn_ə_	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Mutation=target|MutationNUM=1
 10	]	]	?	_	_	_	_	_	Gloss=?
 
@@ -1319,8 +1319,8 @@
 # dialect = Breton central
 # location = Plouyé
 # source =   Lozac'h (2012-)
-1	hag	&	conjonction/complémenteur	_	_	_	_	_	Gloss=et
-2	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+1	hag	&	complémenteur/conjonction	_	_	_	_	_	Gloss=et
+2	ar	art	article défini	_	_	_	_	_	Gloss=le
 3	vamm-gozh	mamm	nom	_	_	_	_	_	Gloss=mère-_1_kozh|vieille|1 target
 4	lar	lavarout	verbe	_	_	_	_	_	Gloss=dire
 5	oa	COP	COP	_	_	_	_	_	Gloss=était
@@ -1343,9 +1343,9 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	i-heun	unan	indéfini/quantifieur/particules de discour/pronom	_	_	_	_	_	Gloss=un
-2	'vel	evel	complémenteur/préposition	_	_	_	_	_	Gloss=comme
-3	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	i-heun	unan	indéfini/pronom/quantifieur/particules de discour	_	_	_	_	_	Gloss=un
+2	'vel	evel	préposition/complémenteur	_	_	_	_	_	Gloss=comme
+3	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 4	c'hi	ki	nom	_	_	_	_	_	Gloss=chien|5 target
 
 # sent_id = Favereau(1984:357)__1
@@ -1385,9 +1385,9 @@
 1	ken	ken	?	_	_	_	_	_	Gloss=aussi
 2	koant	koant	adjectif	_	_	_	_	_	Gloss=beau
 3	'	e-giz	préposition	_	_	_	_	_	Gloss=comme
-4	giz	giz	complémenteur/préposition	_	_	_	_	_	Gloss=?
+4	giz	giz	préposition/complémenteur	_	_	_	_	_	Gloss=?
 5	d'	da	préposition	_	_	_	_	_	Gloss=à
-6	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+6	ar	art	article défini	_	_	_	_	_	Gloss=le
 7	rozenn	rozenn	?	_	_	_	_	_	Gloss=rose
 8	gaera	gaera	?	_	_	_	_	_	Gloss=.plus
 
@@ -1400,9 +1400,9 @@
 # texttype = Grammaires
 1	ken	ken	?	_	_	_	_	_	Gloss=aussi
 2	koant	koant	adjectif	_	_	_	_	_	Gloss=beau
-3	'	'	complémenteur/préposition	_	_	_	_	_	Gloss=comme
-4	vel	vel	complémenteur/préposition	_	_	_	_	_	Gloss=?
-5	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	'	'	préposition/complémenteur	_	_	_	_	_	Gloss=comme
+4	vel	vel	préposition/complémenteur	_	_	_	_	_	Gloss=?
+5	ar	art	article défini	_	_	_	_	_	Gloss=le
 6	rozenn	rozenn	?	_	_	_	_	_	Gloss=rose
 7	gaera	gaera	?	_	_	_	_	_	Gloss=.plus
 
@@ -1423,7 +1423,7 @@
 8	vel	vel	complémenteur	_	_	_	_	_	Gloss=?
 9	}	}	?	_	_	_	_	_	Gloss=?
 10	d'	da	préposition	_	_	_	_	_	Gloss=à
-11	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+11	ar	art	article défini	_	_	_	_	_	Gloss=le
 12	rozenn	rozenn	?	_	_	_	_	_	Gloss=rose
 13	gaera	gaera	?	_	_	_	_	_	Gloss=.plus
 
@@ -1434,14 +1434,14 @@
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
 1	la	la(r)	complémenteur	_	_	_	_	_	Gloss=que
-2	'n	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+2	'n	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 3	heni	heni	indéfini/nom/pronom	_	_	_	_	_	Gloss=celui
 4	'nihe	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=aurait
 5	ràet	reiñ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=donn.é
-6	on	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+6	on	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 7	dra	tra	?	_	_	_	_	_	Gloss=chose|1 target
 8	d'	da	préposition	_	_	_	_	_	Gloss=pour
-9	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+9	ar	art	article défini	_	_	_	_	_	Gloss=le
 10	zant	sant	nom	_	_	_	_	_	Gloss=saint
 11	nihe	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=aurait
 12	bet	kaout	verbe/auxiliaire	_	_	_	_	_	Gloss=eu
@@ -1474,7 +1474,7 @@
 # texttype = Ouvrages de recherche
 1	me	pfi	pronom	_	_	_	_	_	Gloss=moi
 2	wa	COP	COP	_	_	_	_	_	Gloss=était
-3	vis	vis	adverbe/particules de discour	_	_	_	_	_	Gloss=aussi
+3	vis	vis	particules de discour/adverbe	_	_	_	_	_	Gloss=aussi
 4	duɛjz	duɛjz	?	_	_	_	_	_	Gloss=étonnée
 
 # sent_id = Wmffre(1998:57)__1
@@ -1494,10 +1494,10 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	med	met	conjonction/complémenteur	_	_	_	_	_	Gloss=mais
+1	med	met	complémenteur/conjonction	_	_	_	_	_	Gloss=mais
 2	ma	ma(r)	complémenteur	_	_	_	_	_	Gloss=si
 3	zigoue(z)aec'h	degouezhout	verbe	_	_	_	_	_	Gloss=arrivez
-4	nes	nes	adverbe/préposition	_	_	_	_	_	Gloss=sans
+4	nes	nes	préposition/adverbe	_	_	_	_	_	Gloss=sans
 5	koût	gouzout	verbe/auxiliaire	_	_	_	_	_	Gloss=savoir
 6	tare	dare	adjectif	_	_	_	_	_	Gloss=rien
 7	doc'h	da.pronom_incorporé	préposition.pronom	_	_	_	_	_	Gloss=à.vous
@@ -1509,7 +1509,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	on	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	on	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	daoulagad	duel.lagad	?.nom	_	_	_	_	_	Gloss=deux.oeil
 3	beuc'h	beuc'h	nom	_	_	_	_	_	Gloss=vache
 4	marlouiet	marv.leue.-et_(Adj)	nom/adjectif.nom.?	_	_	_	_	_	Gloss=mort.veau.é
@@ -1520,9 +1520,9 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	mell	mell	?	_	_	_	_	_	Gloss=grand
-3	bern	bern	indéfini/quantifieur/nom	_	_	_	_	_	Gloss=tas
+3	bern	bern	indéfini/nom/quantifieur	_	_	_	_	_	Gloss=tas
 4	keneud	keneud	nom	_	_	_	_	_	Gloss=bois
 
 # sent_id = Favereau(1984:393)__1
@@ -1531,7 +1531,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	pezh	pezh	nom/pronom	_	_	_	_	_	Gloss=pièce
 3	aour	aour	nom	_	_	_	_	_	Gloss=or
 
@@ -1541,7 +1541,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	pezh	pezh	nom/pronom	_	_	_	_	_	Gloss=grand
 3	ki	ki	nom	_	_	_	_	_	Gloss=chien
 4	bras	bras	?	_	_	_	_	_	Gloss=grand
@@ -1553,7 +1553,7 @@
 # location = Poullaouen
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	pezh	pezh	nom/pronom	_	_	_	_	_	Gloss=morceau
 3	mell	mell	nom/pronom	_	_	_	_	_	Gloss=grand
 4	den	den	nom	_	_	_	_	_	Gloss=personne
@@ -1565,7 +1565,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	plac'h	plac'h	?	_	_	_	_	_	Gloss=fille
 3	koant	koant	adjectif	_	_	_	_	_	Gloss=jolie
 4	garoñ	karout	verbe	_	_	_	_	_	Gloss=aime
@@ -1577,7 +1577,7 @@
 # dialect = Breton central
 # source = Favereau (1984)
 # texttype = Ouvrages de recherche
-1	or	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+1	or	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=un
 2	spontailh-brini	spont.spontailh-brini.bran.pluriel_interne	nom.?.nom.pluriel	_	_	_	_	_	Gloss=épouvant.#ailh_(N.corbeau.x
 
 # sent_id = Favereau(1997:§443)__1
@@ -1589,11 +1589,11 @@
 # texttype = Grammaires
 1	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque
 2	'	'	[[R]]	_	_	_	_	_	Gloss=R
-3	zo	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
-4	neve'	nevez-	adjectif/préfixe	_	_	_	_	_	Gloss=nouveau
+3	zo	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
+4	neve'	nevez-	préfixe/adjectif	_	_	_	_	_	Gloss=nouveau
 5	la'	Lazhañ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=tu.é
 6	het	het	nom	_	_	_	_	_	Gloss=?
-7	ur	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+7	ur	art	article indéfini	_	_	_	_	_	Gloss=un
 8	pemoc'h	pemoc'h	nom	_	_	_	_	_	Gloss=cochon
 9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1605,12 +1605,12 @@
 # source = Favereau (1997)
 # texttype = Grammaires
 1	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque
-2	'zo	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
-3	neve'	nevez-	adjectif/préfixe	_	_	_	_	_	Gloss=nouveau
+2	'zo	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
+3	neve'	nevez-	préfixe/adjectif	_	_	_	_	_	Gloss=nouveau
 4				_	_	_	_	_	Gloss=?
 5	la'	lazhañ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=tu.é
 6	het	het		_	_	_	_	_	Gloss=?
-7	ur	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+7	ur	art	article indéfini	_	_	_	_	_	Gloss=un
 8	pemoc'h	pemoc'h	?	_	_	_	_	_	Gloss=cochon
 9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1622,12 +1622,12 @@
 # source = Favereau (1997)
 # texttype = Grammaires
 1	pa	pa	complémenteur	_	_	_	_	_	Gloss=puisque
-2	'	ez_eus	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
-3	zo	zo	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=?
-4	neve'	nevez-	adjectif/préfixe	_	_	_	_	_	Gloss=nouveau
+2	'	ez_eus	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
+3	zo	zo	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=?
+4	neve'	nevez-	préfixe/adjectif	_	_	_	_	_	Gloss=nouveau
 5	la'	lazhañ.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=tu.é
 6	het	het	nom	_	_	_	_	_	Gloss=?
-7	ur	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=un
+7	ur	art	article indéfini	_	_	_	_	_	Gloss=un
 8	pemoc'h	pemoc'h	?	_	_	_	_	_	Gloss=cochon
 9	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1654,7 +1654,7 @@
 3	gɛj_ə_ɤ	gaou	nom	_	_	_	_	_	Gloss=mensonges
 4	piɤ	piɤ	complémenteur	_	_	_	_	_	Gloss=C
 5	wijã	gouzout	verbe/auxiliaire	_	_	_	_	_	Gloss=sais
-6	a_ɤ_	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+6	a_ɤ_	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 7	veɤjõn_ə_	gwirionez	nom	_	_	_	_	_	Gloss=vérité|Mutation=target|MutationNUM=1
 8	]	]	?	_	_	_	_	_	Gloss=?
 
@@ -1666,13 +1666,13 @@
 # source = Avezard-Roger (2004a)
 # texttype = Ouvrages de recherche
 1	pe	pa	complémenteur	_	_	_	_	_	Gloss=quand
-2	vɛn	vez	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=étais
+2	vɛn	vez	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=étais
 3	eo	eno	adverbe	_	_	_	_	_	Gloss=là
-4	ebaz	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
-5	a_ʁ_	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+4	ebaz	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
+5	a_ʁ_	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 6	paʁk	park	nom	_	_	_	_	_	Gloss=champ
 7	e	e	particule_verbale	_	_	_	_	_	Gloss=R
-8	vez	vez	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+8	vez	vez	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 9	sklɛʁ	sklaer	adverbe/adjectif	_	_	_	_	_	Gloss=clair
 10	o	POSS	POSS	_	_	_	_	_	Gloss=leur
 11	lagad	lagad	nom	_	_	_	_	_	Gloss=œil
@@ -1687,11 +1687,11 @@
 1	pe	pa	complémenteur	_	_	_	_	_	Gloss=quand
 2	vɛn	COP	COP	_	_	_	_	_	Gloss=étais
 3	eo	eno	adverbe	_	_	_	_	_	Gloss=là
-4	ebaz	ebaz	postposition/préposition	_	_	_	_	_	Gloss=dans
-5	a_ʁ_	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+4	ebaz	ebaz	préposition/postposition	_	_	_	_	_	Gloss=dans
+5	a_ʁ_	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 6	paʁk	park	nom	_	_	_	_	_	Gloss=parc
 7	e	e	particule_verbale	_	_	_	_	_	Gloss=R
-8	vez	vez	verbe/copule/auxiliaire	_	_	_	_	_	Gloss=est
+8	vez	vez	copule/verbe/auxiliaire	_	_	_	_	_	Gloss=est
 9	sklɛʁ	sklaer	adverbe/adjectif	_	_	_	_	_	Gloss=clair
 10	o	POSS	POSS	_	_	_	_	_	Gloss=leur
 11	lagad	lagad	nom	_	_	_	_	_	Gloss=œil
@@ -1719,10 +1719,10 @@
 2	e'	COP	COP	_	_	_	_	_	Gloss=est
 3	aet	mont.-et_(Adj)	verbe.?	_	_	_	_	_	Gloss=all.é
 4	toud	tout	?	_	_	_	_	_	Gloss=tout
-5	an	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+5	an	art	article défini	_	_	_	_	_	Gloss=le
 6	hanoiou	anv.-ioù_(PL)	nom.?	_	_	_	_	_	Gloss=nom.s
 7	gan'	gant	préposition	_	_	_	_	_	Gloss=avec
-8	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+8	ar	art	article défini	_	_	_	_	_	Gloss=le
 9	re	hini	indéfini/adverbe	_	_	_	_	_	Gloss=ceux
 10	all	all	?	_	_	_	_	_	Gloss=autre
 11	!	!	PUNCT	_	_	_	_	_	Gloss=punct
@@ -1736,7 +1736,7 @@
 # texttype = Ouvrages de recherche
 1	pigwir	peogwir	complémenteur	_	_	_	_	_	Gloss=car
 2	oa	COP	COP	_	_	_	_	_	Gloss=était
-3	on	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	on	art	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=le
 4	den	den	nom	_	_	_	_	_	Gloss=personne
 
 # sent_id = Favereau(1984:394)__1
@@ -1763,7 +1763,7 @@
 # source =   Landré (1981)
 1	vije	COP	COP	_	_	_	_	_	Gloss=serait
 2	bet	bet	?	_	_	_	_	_	Gloss=été
-3	ar	art	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=le
+3	ar	art	article défini	_	_	_	_	_	Gloss=le
 4	chañs	chañs	nom	_	_	_	_	_	Gloss=chance
 5	'ta	eta	conjonction	_	_	_	_	_	Gloss=donc
 6	lar	lar	complémenteur	_	_	_	_	_	Gloss=que
@@ -1771,7 +1771,7 @@
 8	mïoc'h	muioc'h	?	_	_	_	_	_	Gloss=plus
 9	a	a	particule_verbale	_	_	_	_	_	Gloss=de
 10	re-yowank	hini-yaouank	?-adjectif	_	_	_	_	_	Gloss=ceux-jeune
-11	barzh	e-barzh	postposition/préposition	_	_	_	_	_	Gloss=dans
+11	barzh	e-barzh	préposition/postposition	_	_	_	_	_	Gloss=dans
 12	Skrigneg	Scrignac	nom_propre	_	_	_	_	_	Gloss=Scrignac
 13	.	.	PUNCT	_	_	_	_	_	Gloss=punct
 
@@ -1783,7 +1783,7 @@
 # source = Avezard-Roger (2007)
 # texttype = Ouvrages de recherche
 1	wa	COP	COP	_	_	_	_	_	Gloss=était
-2	n	n	déterminant/indéfini/quantifieur	_	_	_	_	_	Gloss=def-indef
+2	n	n	indéfini/déterminant/quantifieur	_	_	_	_	_	Gloss=def-indef
 3	øʁt	eured	nom	_	_	_	_	_	Gloss=noce
 4	]	]	?	_	_	_	_	_	Gloss=?
 
