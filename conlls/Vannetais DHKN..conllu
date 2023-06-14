@@ -1,0 +1,29 @@
+# sent_id = Vannetais DHKN.__1
+# text = klañv mat NOTOK NOTOK COP bet evit ervat NOTOK art
+# text_fr = 'Elle aurait été bien embêtée pour emmailloter correctement un enfant.'(2015)| Louis 
+1	klañv	klañv	ADJ	adjectif	_	_	_	_	_	
+2	mat	mat	ADJ	adjectif	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	COP	COP	???	v	_	_	_	_	_	
+6	bet	bet	DET	art	_	_	_	_	_	
+7	evit	evit	ADP	préposition	_	_	_	_	_	
+8	ervat	ervat	ADJ	adjectif	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	art	art	DET	art	_	_	_	_	_	
+
+# sent_id = Vannetais DHKN.__2
+# text = klañv mat NOTOK NOTOK COP bet evit bouchennein ervat NOTOK art krouadur
+# text_fr = 'Elle aurait été bien embêtée pour emmailloter correctement un enfant.'(2015)| Louis 
+1	klañv	klañv	ADJ	adjectif	_	_	_	_	_	
+2	mat	mat	ADJ	adjectif	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	COP	COP	???	v	_	_	_	_	_	
+6	bet	bet	DET	art	_	_	_	_	_	
+7	evit	evit	ADP	préposition	_	_	_	_	_	
+8	bouchennein	bouchennein	???	v	_	_	_	_	_	
+9	ervat	ervat	ADJ	adjectif	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+12	krouadur	krouadur	NOUN	nom	_	_	_	_	_	

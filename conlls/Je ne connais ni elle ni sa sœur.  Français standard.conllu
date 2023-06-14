@@ -1,0 +1,12 @@
+# sent_id = Je ne connais ni elle ni sa sœur.  Français standard__1
+# text = NOTOK NOTOK anavezout na… na NOTOK POSS c'hoar na… na hi
+# text_fr = 'Je ne connais ni sa sœur, ni elle.' || ''Français Plozévet'', [[Goyat (2012)|Goyat (2012]]:246)
+1	???	???	???	_	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	anavezout	anavezout	VERB	verbe	_	_	_	_	_	
+4	na… na	na… na	SCONJ	conjonction	_	_	_	_	_	
+5	???	???	???	_	_	_	_	_	_	
+6	POSS	POSS	???	nc	_	_	_	_	_	
+7	c'hoar	c'hoar	NOUN	nom	_	_	_	_	_	
+8	na… na	na… na	SCONJ	conjonction	_	_	_	_	_	
+9	hi	hi	???	pro	_	_	_	_	_	

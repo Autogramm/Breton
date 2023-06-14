@@ -1,0 +1,35 @@
+# sent_id = Sud Cornouaille Faits de langue Derib 1982bAn Orignal p.30.__1
+# text = gwall- huñvreal kaout ober -et (Adj.) NOTOK NOTOK emañ ket ads
+# text_fr = 'Tu as fait un cauchemar. Il n'est pas ici.'
+1	gwall-	gwall-	NOUN	nom	_	_	_	_	_	
+2	huñvreal	huñvreal	VERB	verbe	_	_	_	_	_	
+3	kaout	kaout	VERB	verbe	_	_	_	_	_	
+4	ober	ober	VERB	verbe	_	_	_	_	_	
+5	-et (Adj.)	-et (Adj.)	PART	suffixe	_	_	_	_	_	
+6	???	???	???	_	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	emañ	emañ	VERB	verbe	_	_	_	_	_	
+9	ket	ket	ADV	adverbe	_	_	_	_	_	
+10	ads	ads	???	adverbes	_	_	_	_	_	
+
+# sent_id = Sud Cornouaille Faits de langue Derib 1982bAn Orignal p.30.__2
+# text = met geo bez' emañ aze
+# text_fr = 'Mais si ! il est là !'
+1	met	met	SCONJ	conjonction	_	_	_	_	_	
+2	geo	geo	INTJ	interjection	_	_	_	_	_	
+3	bez'	bez'	DET	art	_	_	_	_	_	
+4	emañ	emañ	VERB	verbe	_	_	_	_	_	
+5	aze	aze	???	adverbes	_	_	_	_	_	
+
+# sent_id = Sud Cornouaille Faits de langue Derib 1982bAn Orignal p.30.__3
+# text = NOTOK NOTOK E tra all ebet NOTOK da ober
+# text_fr = 'Il n'y a rien d'autre à faire.'
+1	???	???	???	_	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	E	E	AUX	copule	_	_	_	_	_	
+4	tra	tra	NOUN	nom	_	_	_	_	_	
+5	all	all	DET	art	_	_	_	_	_	
+6	ebet	ebet	DET	quantifieur	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	da	da	ADP	préposition	_	_	_	_	_	
+9	ober	ober	VERB	verbe	_	_	_	_	_	

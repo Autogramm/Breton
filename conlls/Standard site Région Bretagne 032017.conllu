@@ -1,0 +1,15 @@
+# sent_id = Standard site Région Bretagne 032017__1
+# text = gant unan eus POSS cardinal yezh & perak NOTOK gant art cardinal
+# text_fr = 'avec l'une de nos deux langues, et pourquoi pas avec les deux?'
+1	gant	gant	ADP	préposition	_	_	_	_	_	
+2	unan	unan	???	adjectifs	_	_	_	_	_	
+3	eus	eus	ADP	préposition	_	_	_	_	_	
+4	POSS	POSS	???	det	_	_	_	_	_	
+5	cardinal	cardinal	NOUN	nom	_	_	_	_	_	
+6	yezh	yezh	NOUN	nom	_	_	_	_	_	
+7	&	&	SCONJ	conjonction	_	_	_	_	_	
+8	perak	perak	PART	interrogatif	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	gant	gant	ADP	préposition	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+12	cardinal	cardinal	NOUN	nom	_	_	_	_	_	

@@ -1,0 +1,43 @@
+# sent_id = Rochalan__1
+# text = art lagad leun NOTOK a dous -ter & NOTOK a karantez NOTOK NOTOK skediñ P.e NOTOK POSS penn
+# text_fr = 'Son visage rayonnait d'un regard plein d'amour et douceur.'(1995)|Kervella 
+1	art	art	DET	art	_	_	_	_	_	
+2	lagad	lagad	NOUN	nom	_	_	_	_	_	
+3	leun	leun	ADJ	adjectif	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	a	a	ADP	préposition	_	_	_	_	_	
+6	dous	dous	ADJ	adjectif	_	_	_	_	_	
+7	-ter	-ter	???	noms	_	_	_	_	_	
+8	&	&	SCONJ	conjonction	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	a	a	ADP	préposition	_	_	_	_	_	
+11	karantez	karantez	NOUN	nom	_	_	_	_	_	
+12	???	???	???	_	_	_	_	_	_	
+13	???	???	???	_	_	_	_	_	_	
+14	skediñ	skediñ	VERB	verbe	_	_	_	_	_	
+15	P.e	P.e	ADP	préposition	_	_	_	_	_	
+16	???	???	???	_	_	_	_	_	_	
+17	POSS	POSS	???	nc	_	_	_	_	_	
+18	penn	penn	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Rochalan__2
+# text = art duel lagad leun NOTOK a dous -ter & NOTOK a karantez NOTOK skediñ P.e NOTOK POSS penn
+# text_fr = 'Son visage rayonnait d'un regard plein d'amour et douceur.'(1995)|Kervella 
+1	art	art	DET	art	_	_	_	_	_	
+2	duel	duel	NOUN	nom	_	_	_	_	_	
+3	lagad	lagad	NOUN	nom	_	_	_	_	_	
+4	leun	leun	ADJ	adjectif	_	_	_	_	_	
+5	???	???	???	_	_	_	_	_	_	
+6	a	a	ADP	préposition	_	_	_	_	_	
+7	dous	dous	ADJ	adjectif	_	_	_	_	_	
+8	-ter	-ter	???	noms	_	_	_	_	_	
+9	&	&	SCONJ	conjonction	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	a	a	ADP	préposition	_	_	_	_	_	
+12	karantez	karantez	NOUN	nom	_	_	_	_	_	
+13	???	???	???	_	_	_	_	_	_	
+14	skediñ	skediñ	VERB	verbe	_	_	_	_	_	
+15	P.e	P.e	ADP	préposition	_	_	_	_	_	
+16	???	???	???	_	_	_	_	_	_	
+17	POSS	POSS	???	nc	_	_	_	_	_	
+18	penn	penn	NOUN	nom	_	_	_	_	_	

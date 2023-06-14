@@ -1,0 +1,61 @@
+# sent_id = Vannetais__1
+# text = & -eiñ NOTOK NOTOK ober NOTOK a peban NOTOK NOTOK dont art dour NOTOK ma(r) vez mat
+# text_fr = 'Et il importe d'où vient l'eau si elle est bonne.'(2016)|Châtelier 
+1	&	&	SCONJ	conjonction	_	_	_	_	_	
+2	-eiñ	-eiñ	PART	suffixe	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	ober	ober	VERB	verbe	_	_	_	_	_	
+6	???	???	???	_	_	_	_	_	_	
+7	a	a	ADP	préposition	_	_	_	_	_	
+8	peban	peban	PART	interrogatif	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	dont	dont	VERB	verbe	_	_	_	_	_	
+12	art	art	DET	art	_	_	_	_	_	
+13	dour	dour	NOUN	nom	_	_	_	_	_	
+14	???	???	???	_	_	_	_	_	_	
+15	ma(r)	ma(r)	SCONJ	complémenteur	_	_	_	_	_	
+16	vez	vez	VERB	verbe	_	_	_	_	_	
+17	mat	mat	ADJ	adjectif	_	_	_	_	_	
+
+# sent_id = Vannetais__2
+# text = NOTOK POSS gwele pfi POP gwele
+# text_fr = 'Son lit, je le vois.'
+1	???	???	???	_	_	_	_	_	_	
+2	POSS	POSS	???	nc	_	_	_	_	_	
+3	gwele	gwele	NOUN	nom	_	_	_	_	_	
+4	pfi	pfi	???	pronoms	_	_	_	_	_	
+5	POP	POP	???	det	_	_	_	_	_	
+6	gwele	gwele	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Vannetais__3
+# text = art levr DEM dre nom propre
+# text_fr = 'ce livre d'Angela Davis'
+1	art	art	DET	art	_	_	_	_	_	
+2	levr	levr	NOUN	nom	_	_	_	_	_	
+3	DEM	DEM	???	_	_	_	_	_	_	
+4	dre	dre	ADP	préposition	_	_	_	_	_	
+5	nom propre	nom propre	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Vannetais__4
+# text = NOTOK war art cardinal tu NOTOK er pazenneu war art NOTOK vez lavarout -et (Adj.) war pronom incorporé art oferenn abred
+# text_fr = 'Les marches aboutissent à un autel sur lequel sont dites les mâtines.'
+1	???	???	???	_	_	_	_	_	_	
+2	war	war	ADP	préposition	_	_	_	_	_	
+3	art	art	DET	art	_	_	_	_	_	
+4	cardinal	cardinal	NOUN	nom	_	_	_	_	_	
+5	tu	tu	NOUN	nom	_	_	_	_	_	
+6	???	???	???	_	_	_	_	_	_	
+7	er pazenneu	er pazenneu	???	_	_	_	_	_	_	
+8	war	war	ADP	préposition	_	_	_	_	_	
+9	art	art	DET	art	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	vez	vez	VERB	verbe	_	_	_	_	_	
+12	lavarout	lavarout	VERB	verbe	_	_	_	_	_	
+13	-et (Adj.)	-et (Adj.)	PART	suffixe	_	_	_	_	_	
+14	war	war	ADP	préposition	_	_	_	_	_	
+15	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+16	art	art	DET	art	_	_	_	_	_	
+17	oferenn	oferenn	NOUN	nom	_	_	_	_	_	
+18	abred	abred	ADV	adverbe	_	_	_	_	_	

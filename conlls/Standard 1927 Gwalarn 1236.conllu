@@ -1,0 +1,17 @@
+# sent_id = Standard 1927 Gwalarn 1236__1
+# text = pfi NOTOK NOTOK soñjal COP ret da pronom incorporé kaout POSS asant NOTOK da kentañ
+# text_fr = 'Je pense qu'il vous faut son accord avant toute chose.'
+1	pfi	pfi	???	pronoms	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	soñjal	soñjal	VERB	verbe	_	_	_	_	_	
+5	COP	COP	???	nc	_	_	_	_	_	
+6	ret	ret	NOUN	nom	_	_	_	_	_	
+7	da	da	ADP	préposition	_	_	_	_	_	
+8	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+9	kaout	kaout	VERB	verbe	_	_	_	_	_	
+10	POSS	POSS	???	nc	_	_	_	_	_	
+11	asant	asant	???	nc	_	_	_	_	_	
+12	???	???	???	_	_	_	_	_	_	
+13	da	da	ADP	préposition	_	_	_	_	_	
+14	kentañ	kentañ	???	adjectifs	_	_	_	_	_	

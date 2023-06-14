@@ -1,0 +1,24 @@
+# sent_id = Breton standard__1
+# text = komz kaout diwar NOTOK POSS penn
+# text_fr = 'Elle a parlé de moi.' (et non pas 'de ma tête')
+1	komz	komz	VERB	verbe	_	_	_	_	_	
+2	kaout	kaout	VERB	verbe	_	_	_	_	_	
+3	diwar	diwar	ADP	préposition	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	POSS	POSS	???	det	_	_	_	_	_	
+6	penn	penn	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Breton standard__2
+# text = komz kaout diwar NOTOK POSS penn da pronom incorporé NOTOK POSS unan
+# text_fr = 'J'ai parlé de moi-même.'
+1	komz	komz	VERB	verbe	_	_	_	_	_	
+2	kaout	kaout	VERB	verbe	_	_	_	_	_	
+3	diwar	diwar	ADP	préposition	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	POSS	POSS	???	det	_	_	_	_	_	
+6	penn	penn	NOUN	nom	_	_	_	_	_	
+7	da	da	ADP	préposition	_	_	_	_	_	
+8	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	POSS	POSS	???	det	_	_	_	_	_	
+11	unan	unan	???	adjectifs	_	_	_	_	_	

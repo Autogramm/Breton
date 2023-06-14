@@ -1,0 +1,138 @@
+# sent_id = Standard Drezen__1
+# text = kerzhout NOTOK da ober géd, tu -hont a-dreñv puñs NOTOK art
+# text_fr = '… va faire le guet, là-bas, derrière le puits de la métairie.'(1957)|Seite & Stéphan 
+1	kerzhout	kerzhout	VERB	verbe	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	da	da	ADP	préposition	_	_	_	_	_	
+4	ober	ober	VERB	verbe	_	_	_	_	_	
+5	géd,	géd,	???	nc	_	_	_	_	_	
+6	tu	tu	NOUN	nom	_	_	_	_	_	
+7	-hont	-hont	???	adverbes	_	_	_	_	_	
+8	a-dreñv	a-dreñv	ADP	préposition	_	_	_	_	_	
+9	puñs	puñs	NOUN	nom	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+
+# sent_id = Standard Drezen__2
+# text = keuz kaout NOTOK da bezañ -et (Adj.) gant pronom incorporé art sac'h NOTOK re bihan
+# text_fr = 'Je regrette d'avoir emmené un sac trop petit.'(1957)|Seite & Stéphan 
+1	keuz	keuz	NOUN	nom	_	_	_	_	_	
+2	kaout	kaout	VERB	verbe	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	da	da	ADP	préposition	_	_	_	_	_	
+5	bezañ	bezañ	VERB	verbe	_	_	_	_	_	
+6	-et (Adj.)	-et (Adj.)	PART	suffixe	_	_	_	_	_	
+7	gant	gant	ADP	préposition	_	_	_	_	_	
+8	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+9	art	art	DET	art	_	_	_	_	_	
+10	sac'h	sac'h	NOUN	nom	_	_	_	_	_	
+11	???	???	???	_	_	_	_	_	_	
+12	re	re	ADV	adverbe	_	_	_	_	_	
+13	bihan	bihan	ADJ	adjectif	_	_	_	_	_	
+
+# sent_id = Standard Drezen__3
+# text = kement NOTOK COP NOTOK ma NOTOK NOTOK gouzout NOTOK dre peseurt tu stagañ gant pronom incorporé
+# text_fr = 'Il y en avait tellement que je ne savais par quel bout commencer.'(1957)|Seite & Stéphan 
+1	kement	kement	DET	déterminant	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	COP	COP	???	v	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	ma	ma	SCONJ	complémenteur	_	_	_	_	_	
+6	???	???	???	_	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	gouzout	gouzout	VERB	verbe	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	dre	dre	ADP	préposition	_	_	_	_	_	
+11	peseurt	peseurt	PART	interrogatif	_	_	_	_	_	
+12	tu	tu	NOUN	nom	_	_	_	_	_	
+13	stagañ	stagañ	VERB	verbe	_	_	_	_	_	
+14	gant	gant	ADP	préposition	_	_	_	_	_	
+15	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+
+# sent_id = Standard Drezen__4
+# text = kerz NOTOK da ober géd, tu -hont a-dreñv puñs NOTOK art -euri
+# text_fr = '… va faire le guet, là-bas, derrière le puits de la métairie.'(1957)|Seite & Stéphan 
+1	kerz	kerz	???	v	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	da	da	ADP	préposition	_	_	_	_	_	
+4	ober	ober	VERB	verbe	_	_	_	_	_	
+5	géd,	géd,	???	nc	_	_	_	_	_	
+6	tu	tu	NOUN	nom	_	_	_	_	_	
+7	-hont	-hont	???	adverbes	_	_	_	_	_	
+8	a-dreñv	a-dreñv	ADP	préposition	_	_	_	_	_	
+9	puñs	puñs	NOUN	nom	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+12	-euri	-euri	PART	suffixe	_	_	_	_	_	
+
+# sent_id = Standard Drezen__5
+# text = Keuz NOTOK kaout NOTOK da bezañ degas -et (Adj.) gant pronom incorporé art sac'h NOTOK re bihan
+# text_fr = 'Je regrette d'avoir emmené un sac trop petit.'(1957)|Seite & Stéphan 
+1	Keuz	Keuz	NOUN	nom	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	kaout	kaout	VERB	verbe	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	da	da	ADP	préposition	_	_	_	_	_	
+6	bezañ	bezañ	VERB	verbe	_	_	_	_	_	
+7	degas	degas	VERB	verbe	_	_	_	_	_	
+8	-et (Adj.)	-et (Adj.)	PART	suffixe	_	_	_	_	_	
+9	gant	gant	ADP	préposition	_	_	_	_	_	
+10	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+12	sac'h	sac'h	NOUN	nom	_	_	_	_	_	
+13	???	???	???	_	_	_	_	_	_	
+14	re	re	ADV	adverbe	_	_	_	_	_	
+15	bihan	bihan	ADJ	adjectif	_	_	_	_	_	
+
+# sent_id = Standard Drezen__6
+# text = strafuilh & youc'h & tec'h timat NOTOK war tu NOTOK art koad
+# text_fr = 'Effroi et cri ! Repli éclair vers la pinède.'(1957)|Seite & Stéphan 
+1	strafuilh	strafuilh	NOUN	nom	_	_	_	_	_	
+2	&	&	SCONJ	conjonction	_	_	_	_	_	
+3	youc'h	youc'h	NOUN	nom	_	_	_	_	_	
+4	&	&	SCONJ	conjonction	_	_	_	_	_	
+5	tec'h	tec'h	NOUN	nom	_	_	_	_	_	
+6	timat	timat	ADV	adverbe	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	war	war	ADP	préposition	_	_	_	_	_	
+9	tu	tu	NOUN	nom	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	art	art	DET	art	_	_	_	_	_	
+12	koad	koad	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Standard Drezen__7
+# text = kement NOTOK COP NOTOK ma NOTOK NOTOK gouzout NOTOK dre be tu stagañ gant pronom incorporé
+# text_fr = 'Il y en avait tellement que je ne savais par quel bout commencer.'(1957)|Seite & Stéphan 
+1	kement	kement	DET	déterminant	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	COP	COP	???	v	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	ma	ma	SCONJ	complémenteur	_	_	_	_	_	
+6	???	???	???	_	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	gouzout	gouzout	VERB	verbe	_	_	_	_	_	
+9	???	???	???	_	_	_	_	_	_	
+10	dre	dre	ADP	préposition	_	_	_	_	_	
+11	be	be	???	pri	_	_	_	_	_	
+12	tu	tu	NOUN	nom	_	_	_	_	_	
+13	stagañ	stagañ	VERB	verbe	_	_	_	_	_	
+14	gant	gant	ADP	préposition	_	_	_	_	_	
+15	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+
+# sent_id = Standard Drezen__8
+# text = keuz kaout NOTOK da bezañ degas -et (Adj.) gant pronom incorporé art zah NOTOK re bihan
+# text_fr = 'Je regrette d'avoir emmené un sac trop petit.'(1957)|Seite & Stéphan 
+1	keuz	keuz	NOUN	nom	_	_	_	_	_	
+2	kaout	kaout	VERB	verbe	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	da	da	ADP	préposition	_	_	_	_	_	
+5	bezañ	bezañ	VERB	verbe	_	_	_	_	_	
+6	degas	degas	VERB	verbe	_	_	_	_	_	
+7	-et (Adj.)	-et (Adj.)	PART	suffixe	_	_	_	_	_	
+8	gant	gant	ADP	préposition	_	_	_	_	_	
+9	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+10	art	art	DET	art	_	_	_	_	_	
+11	zah	zah	???	nc	_	_	_	_	_	
+12	???	???	???	_	_	_	_	_	_	
+13	re	re	ADV	adverbe	_	_	_	_	_	
+14	bihan	bihan	ADJ	adjectif	_	_	_	_	_	

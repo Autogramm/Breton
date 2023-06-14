@@ -1,0 +1,16 @@
+# sent_id = LLMM. 11463__1
+# text = arc'hant NOTOK NOTOK ez eus P.e Breizh tud kalon -ek NOTOK NOTOK ez eus ivez
+# text_fr = 'En Bretagne, il y a de l'argent, des gens courageux aussi.'(1973)|Le Gléau 
+1	arc'hant	arc'hant	NOUN	nom	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	ez eus	ez eus	PART	indéfini	_	_	_	_	_	
+5	P.e	P.e	ADP	préposition	_	_	_	_	_	
+6	Breizh	Breizh	NOUN	nom	_	_	_	_	_	
+7	tud	tud	NOUN	nom	_	_	_	_	_	
+8	kalon	kalon	NOUN	nom	_	_	_	_	_	
+9	-ek	-ek	PART	suffixe	_	_	_	_	_	
+10	???	???	???	_	_	_	_	_	_	
+11	???	???	???	_	_	_	_	_	_	
+12	ez eus	ez eus	PART	indéfini	_	_	_	_	_	
+13	ivez	ivez	???	particule_de_discours	_	_	_	_	_	

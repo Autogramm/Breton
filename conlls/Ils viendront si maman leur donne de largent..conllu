@@ -1,0 +1,14 @@
+# sent_id = Ils viendront si maman leur donne de largent.__1
+# text = NOTOK NOTOK pfi dont pa rein NOTOK mamm da pronom incorporé arc'hant
+# text_fr = 'Ils viendront quand maman leur donnera de l'argent.'(1986)|Press 
+1	???	???	???	_	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	pfi	pfi	???	pronoms	_	_	_	_	_	
+4	dont	dont	VERB	verbe	_	_	_	_	_	
+5	pa	pa	SCONJ	complémenteur	_	_	_	_	_	
+6	rein	rein	VERB	verbe	_	_	_	_	_	
+7	???	???	???	_	_	_	_	_	_	
+8	mamm	mamm	NOUN	nom	_	_	_	_	_	
+9	da	da	ADP	préposition	_	_	_	_	_	
+10	pronom incorporé	pronom incorporé	PRON	pronom	_	_	_	_	_	
+11	arc'hant	arc'hant	NOUN	nom	_	_	_	_	_	

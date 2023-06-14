@@ -1,0 +1,33 @@
+# sent_id = Standard Brezhoneg 2 p.15__1
+# text = Estreget pizza NOTOK NOTOK debriñ memes tra
+# text_fr = 'Nous ne mangeons pas que de la pizza quand même !'
+1	Estreget	Estreget	ADP	préposition	_	_	_	_	_	
+2	pizza	pizza	NOUN	nom	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	debriñ	debriñ	VERB	verbe	_	_	_	_	_	
+6	memes	memes	ADJ	adjectif	_	_	_	_	_	
+7	tra	tra	NOUN	nom	_	_	_	_	_	
+
+# sent_id = Standard Brezhoneg 2 p.15__2
+# text = selaou NOTOK NOTOK ober -oc'h evit sonerezh pop.
+# text_fr = 'Je n'écoute pas que de la musique pop !'
+1	selaou	selaou	VERB	verbe	_	_	_	_	_	
+2	???	???	???	_	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	ober	ober	VERB	verbe	_	_	_	_	_	
+5	-oc'h	-oc'h	PART	suffixe	_	_	_	_	_	
+6	evit	evit	ADP	préposition	_	_	_	_	_	
+7	sonerezh	sonerezh	???	v	_	_	_	_	_	
+8	pop.	pop.	???	nc	_	_	_	_	_	
+
+# sent_id = Standard Brezhoneg 2 p.15__3
+# text = estreget pizza NOTOK NOTOK debriñ memes tra
+# text_fr = 'Nous ne mangeons pas que de la pizza quand même !'
+1	estreget	estreget	ADP	préposition	_	_	_	_	_	
+2	pizza	pizza	NOUN	nom	_	_	_	_	_	
+3	???	???	???	_	_	_	_	_	_	
+4	???	???	???	_	_	_	_	_	_	
+5	debriñ	debriñ	VERB	verbe	_	_	_	_	_	
+6	memes	memes	ADJ	adjectif	_	_	_	_	_	
+7	tra	tra	NOUN	nom	_	_	_	_	_	

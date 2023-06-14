@@ -1,0 +1,13 @@
+# sent_id = CONTEXTE2 Dans le restaurant un serveur doit servir les desserts et demande si chaque gâteau a été décoré.__1
+# text = ya pep skotenn zo bet dekoret gant art apranti bennak
+# text_fr = 'Chaque gâteau a été décoré par un apprenti.'(Lesneven/Kerlouan)'', [[A. M. 
+1	ya	ya	INTJ	interjection	_	_	_	_	_	
+2	pep	pep	DET	déterminant	_	_	_	_	_	
+3	skotenn	skotenn	NOUN	nom	_	_	_	_	_	
+4	zo	zo	VERB	verbe	_	_	_	_	_	
+5	bet	bet	DET	art	_	_	_	_	_	
+6	dekoret	dekoret	???	v	_	_	_	_	_	
+7	gant	gant	ADP	préposition	_	_	_	_	_	
+8	art	art	DET	art	_	_	_	_	_	
+9	apranti	apranti	NOUN	nom	_	_	_	_	_	
+10	bennak	bennak	ADJ	adjectif	_	_	_	_	_	

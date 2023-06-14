@@ -1,0 +1,51 @@
+# sent_id = LéonStandard M. Lincoln__1
+# text = sellout eta art logod -enn jentil war DEM
+# text_fr = 'Regarde-donc ces vingt-deux gentilles souris.'
+1	sellout	sellout	VERB	verbe	_	_	_	_	_	
+2	eta	eta	SCONJ	conjonction	_	_	_	_	_	
+3	art	art	DET	art	_	_	_	_	_	
+4	logod	logod	NOUN	nom	_	_	_	_	_	
+5	-enn	-enn	PART	suffixe	_	_	_	_	_	
+6	jentil	jentil	ADJ	adjectif	_	_	_	_	_	
+7	war	war	ADP	préposition	_	_	_	_	_	
+8	DEM	DEM	???	_	_	_	_	_	_	
+
+# sent_id = LéonStandard M. Lincoln__2
+# text = sellout eta art jentil -enn war DEM jentil
+# text_fr = 'Regarde-donc ces gentilles vingt-deux gentilles souris.'
+1	sellout	sellout	VERB	verbe	_	_	_	_	_	
+2	eta	eta	SCONJ	conjonction	_	_	_	_	_	
+3	art	art	DET	art	_	_	_	_	_	
+4	jentil	jentil	ADJ	adjectif	_	_	_	_	_	
+5	-enn	-enn	PART	suffixe	_	_	_	_	_	
+6	war	war	ADP	préposition	_	_	_	_	_	
+7	DEM	DEM	???	_	_	_	_	_	_	
+8	jentil	jentil	ADJ	adjectif	_	_	_	_	_	
+
+# sent_id = LéonStandard M. Lincoln__3
+# text = sellout eta art logod -enn war -mañ.
+# text_fr = 'Regarde-donc ces vingt-deux petites souris.'
+1	sellout	sellout	VERB	verbe	_	_	_	_	_	
+2	eta	eta	SCONJ	conjonction	_	_	_	_	_	
+3	art	art	DET	art	_	_	_	_	_	
+4	logod	logod	NOUN	nom	_	_	_	_	_	
+5	-enn	-enn	PART	suffixe	_	_	_	_	_	
+6	war	war	ADP	préposition	_	_	_	_	_	
+7	-mañ.	-mañ.	???	poncts	_	_	_	_	_	
+
+# sent_id = LéonStandard M. Lincoln__4
+# text = sellout eta art bihan logod -enn war DEM bihan
+# text_fr = 'Regarde-donc ces vingt-deux petites souris.'
+1	sellout	sellout	VERB	verbe	_	_	_	_	_	
+2	eta	eta	SCONJ	conjonction	_	_	_	_	_	
+3	art	art	DET	art	_	_	_	_	_	
+4	bihan	bihan	ADJ	adjectif	_	_	_	_	_	
+5	logod	logod	NOUN	nom	_	_	_	_	_	
+6	-enn	-enn	PART	suffixe	_	_	_	_	_	
+7	war	war	ADP	préposition	_	_	_	_	_	
+8	DEM	DEM	???	_	_	_	_	_	_	
+9	bihan	bihan	ADJ	adjectif	_	_	_	_	_	
+
+# sent_id = LéonStandard M. Lincoln__5
+# text = 
+# text_fr = 'Amène-moi ces trente-quatre roches blanches.'
