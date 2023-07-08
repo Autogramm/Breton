@@ -295,7 +295,7 @@ text
 translation
 'Je regarde par la fenêtre qui donne directement sur l'usine.'
 text
-|| En || ti || all || ez eus || { kaoze ||  / || #kaozeadeg }.
+|| En || ti || all || ez eus || { kaoze || / || #kaozeadeg }.
 translation
 'Dans la maison voisine, il y a du bavardage.'
 text
@@ -2519,7 +2519,7 @@ text
 translation
 'Je n'ai pas mangé depuis trois jours.'
 text
-|| Hañni || en des || gouiet '''a-oudé''' || ma || ou doé || kavet || mad || en tri || deloh.
+|| Hañni || en des || gouiet || '''a-oudé''' || ma || ou doé || kavet || mad || en tri || deloh.
 translation
 'Personne depuis n'a su s'ils avaient aimé les trois truites.'
 text
@@ -2591,9 +2591,9 @@ text
 translation
 'Il a reculé sans regarder.'
 text
-|| Hag || eñ || o vond || '''a-droujouez''' || war || ar gwele.
+|| Hag || eñ || o || vond || '''a-droujouez''' || war || ar gwele.
 translation
-'Et le voila qui tombe à la renverse, comme une masse, sur le lit.'
+'Et le voilà qui tombe à la renverse, comme une masse, sur le lit.'
 text
 || En || êr || '''enep''' || emaint.
 translation
@@ -3919,7 +3919,7 @@ text
 translation
 'Alors il faudra qu'il aille tout nu.'
 text
-|| Ar haz || e-neus debret || al logodenn || '''e-beo'''.
+|| Ar || haz || e-neus debret || al logodenn || '''e-beo'''.
 translation
 'Le chat a mangé la souris vivante.'
 text
@@ -4431,9 +4431,9 @@ text
 translation
 'C'est le plus pratique pour travailler.'
 text
-|| bout eh eus || bet || ha || me || 'yae || bemdez || àr ma belo || d'ar || labour.
+|| Bout eo || estroc'h-evidin-me || a || ouia || gober || an traoù-se.
 translation
-'Il fut un temps où j'allais tous les jours au travail à vélo.'
+'Il n'y a pas que moi qui sait faire ça.'
 text
 || Aze || ' || rit || ket || tort || da || hani.
 translation
@@ -5151,7 +5151,7 @@ text
 translation
 'Mon cousin et moi étions en chemise.'
 text
-|| Petra || '''c'hast''' || eo || an APA?
+|| Petra || '''c'hast''' || eo || an || APA ?
 translation
 'C'est quoi diable cet APA ?'
 text
@@ -5659,7 +5659,7 @@ text
 translation
 'Il aurait acheté la ferme avec quoi ? Les poux de son cul ?'
 text
-|| '''Atav''' || nend eo || ket || forzh || blot || ar gwele:|| peder || flankenn || diblaen, || hep || tamm || plouz.
+|| '''Atav''' || nend eo || ket || forzh || blot || ar gwele : || peder || flankenn || diblaen, || hep || tamm || plouz.
 translation
 'Le lit n'est toujours pas très douillet: quatre planches grossières, sans paille.'
 text
@@ -6335,7 +6335,7 @@ text
 translation
 'Même si j'allais en Australie, je ne verrais pas des kangourous tous les jours.'
 text
-|| Bout eh eus || bet || ha || me || 'yae || '''bemdez''' || àr || ma || belo || d'ar || labour.
+|| Bout eo || bet || ha || me || 'yae || bemdez || àr || ma || belo || d'ar || labour.
 translation
 'Il fut un temps où j'allais tous les jours au travail à vélo.'
 text
@@ -10007,7 +10007,7 @@ text
 translation
 'Il ne peut s'en passer, tant il l'aime.'
 text
-|| Daouzek || bloaz || ha tri-ugent || am bo || d'an || unnek || '''dabord'''.
+|| Daouzek || bloaz || ha || tri-ugent || am bo || d'an || unnek || '''dabord'''.
 translation
 'J'aurai soixante-douze ans le onze de ce mois.'
 text
@@ -10646,18 +10646,6 @@ text
 || Ha || roet || ez eus || da || '''zibri''' || ha || da || eva || d'ezañ.
 translation
 'Et il lui est donné à manger et à boire.'
-text
-|| O || tebri || ema.
-translation
-'Il est en train de manger.'
-text
-|| Gouzout || a-walc'h || a || oar || an nen || n'eus || ket || ezhomm || debriñ || re || diontañ.
-translation
-'On sait bien qu'il ne faut pas trop en manger.'
-text
-|| O || vont || da || zrebi || ema.
-translation
-'Il va manger.'
 text
 || Amañ || ez eus || '''drebet''' || traoù || eus || ar mor.
 translation
@@ -11567,6 +11555,10 @@ text
 translation
 'Alors il y a de quoi faire pour se développer au pays !'
 text
+|| Fla || ' || vo || gantañ || '''diaouer''' || 'nezhi.
+translation
+'Il aura du mal à se passer d'elle.'
+text
 || Diwallit || mat || '''diouzh''' || ar || bilpouzed !
 translation
 'Méfiez-vous des hypocrites !'
@@ -12171,11 +12163,11 @@ text
 translation
 'Il ne devrait plus y avoir de neige en cette saison.'
 text
-|| Al '''dluzh''' || bras || a fell || da Lom || tapout.
+|| Al || '''dluzh''' || bras || a || fell || da || Lom || tapout.
 translation
 'Lom veut attraper la grande truite.'
 text
-|| Hañni || en des || gouiet a-oudé || ma ou doé || kavet mad || en tri  '''deloh'''.
+|| Hañni || en des || gouiet a-oudé || ma ou doé || kavet || mad || en tri || '''deloh'''.
 translation
 'Personne depuis n'a su s'ils avaient aimé les trois truites.'
 text
@@ -13147,17 +13139,17 @@ text
 translation
 '(Il a) de grands yeux noirs.'
 text
-|| '''Un''' || daoulagad || leun || a || zouster || hag || a || garantez || a skede || en || he || fenn.
+|| '''Un''' || daoulagad || leun || a || zouster || hag || a || garantez || a || skede || en || he || fenn.
 translation
 'Son visage rayonnait d'un regard plein d'amour et douceur.'
 text
-|| '''Eun''' || daoulagad || glaz, || '''eur''' || bleo || bloundin
+|| '''eun''' || daoulagad || glaz, || '''eur''' || bleo || bloundin
 translation
-'Des yeux clairs, une chevelure blonde'
+'des yeux clairs, une chevelure blonde'
 text
-|| '''eun''' || daoulagad || du || dezañ.
+|| '''Eun''' || daoulagad || du || dezañ.
 translation
-'(Il avait) un de ces regards noirs.'
+'Il avait un de ces regards noirs.'
 text
 || gedon || gant || '''di'''skouarn'''ioù''' || hir
 translation
@@ -13631,7 +13623,7 @@ text
 translation
 'Au lieu de sacs neufs, j'en ai trouvé des vieux.'
 text
-|| Ma || oa || brao || dezo || || '''e-leh''' || '''ma'''||  oant || || e oa || dezo || beza || chomet || eno.
+|| Ma || oa || brao || dezo || || '''e-leh''' || '''ma'''|| oant || || e oa || dezo || beza || chomet || eno.
 translation
 'S'ils se trouvaient bien où ils étaient, c'était à eux d'y être restés.'
 text
@@ -14075,11 +14067,11 @@ text
 translation
 'Les deux routes ont la même longueur.'
 text
-|| Kement 'neus bet || an teir c'hoar || '''an eil hag eben'''.
+|| Kement || 'neus || bet || an || teir || c'hoar || '''an eil''' || '''hag''' || '''eben'''.
 translation
 'Les trois sœurs ont reçu autant l'une que l'autre.'
 text
-|| Mar deo || '''hemañ''' || treut || e || vrezhoneg, || '''egile''' || a zo || deus ar vro...
+|| Mar deo || '''hemañ''' || treut || e || vrezhoneg, || '''egile''' || a zo || deus || ar vro...
 translation
 'Si le premier ne comprend pas bien le breton, l'autre est du pays… '
 text
@@ -14147,6 +14139,10 @@ text
 translation
 'En voilà un qui en fait des manières.'
 text
+|| En || deiz-se || e oa || '''daou''' || || amañ || o || leinañ.
+translation
+'Ce jour-là, il y avait deux hommes ici en train de déjeuner.'
+text
 || Kalz || || ' || zo || deuet || gant || o || c'harr-tan.
 translation
 'Beaucoup sont venus en voiture.'
@@ -14155,7 +14151,7 @@ text
 translation
 'Beaucoup ont crié de peur.'
 text
-|| '''bout eh eus bet''' || <font color=violet>_[''ø'']_</font color=violet> || ha || me 'yae || bemdez || àr || ma || belo || d'ar || labour.
+|| '''Bout eo''' || '''bet''' || <font color=violet>_[''ø'']_</font color=violet> || ha || me || ' || yae || bemdez || àr || ma || belo || d'ar || labour.
 translation
 'Il fut un temps où j'allais tous les jours au travail à vélo.'
 text
@@ -14179,7 +14175,7 @@ text
 translation
 'Vous alliez me (le) dire.'
 text
-|| Piou || e-nevoa || '''greet''' ||   ?
+|| Piou || e-nevoa || '''greet''' ||  ?
 translation
 'Qui l'a fait ?'
 text
@@ -14323,11 +14319,11 @@ text
 translation
 'Que pense-t-il faire ?'
 text
-|| War || an || olifant || ez || eus || {ur c'hazh || / ||  tri c'hazh }.
+|| War || an || olifant || ez || eus || { ur c'hazh || / || tri c'hazh }.
 translation
 'Il y a {un chat / trois chats} sur l'éléphant.'
 text
-|| War || an || olifant || || zo || {ur || c'hazh || / ||  tri || c'hazh}.
+|| War || an || olifant || || zo || {ur || c'hazh || / || tri || c'hazh}.
 translation
 'Il y a {un chat / trois chats} sur l'éléphant.'
 text
@@ -14819,7 +14815,7 @@ text
 translation
 'pour pouvoir retourner'
 text
-|| Met || ' || c'hell || deoc'h || bezan || sur || ne || werzhin || ket || anezhi ||  '''en dro'''…
+|| Met || ' || c'hell || deoc'h || bezan || sur || ne || werzhin || ket || anezhi || '''en dro'''…
 translation
 'Mais vous pouvez être sûr que je ne la revendrai pas.'
 text
@@ -16963,13 +16959,13 @@ text
 translation
 'Voici que bouge l'image sainte.'
 text
-|| '''Fla''' || 'vo || gantañ || diaouer || 'nezhi.
-translation
-'Il aura du mal à se passer d'elle.'
-text
 || '''Fla''' || ' || vo || geném || 'benn || vèc'h || ké || mi !
 translation
 'Comment ferons-nous quand vous ne serez plus là ?!'
+text
+|| '''Fla''' || ' || vo || gantañ || diaouer || 'nezhi.
+translation
+'Il aura du mal à se passer d'elle.'
 text
 || '''Flac'hadoù''' || a || vez || taolet || amañ !
 translation
@@ -17203,7 +17199,7 @@ text
 translation
 'Ce n'est pas seulement un problème individuel, mais de santé publique.'
 text
-|| Mont || a rajomp || hon-tri || d'ar || prad || gant || bep || a || '''forc'h''' || koad.
+|| Mont || a || rajomp || hon-tri || d'ar || prad || gant || bep || a || '''forc'h''' || koad.
 translation
 'Nous allâmes nous trois au pré avec chacun une fourche en bois.'
 text
@@ -17507,13 +17503,9 @@ text
 translation
 'Laisse les chiens faire courir le lièvre.' ('Laisse tomber')
 text
-|| Ma || c'hi || a red || war-lerc'h || ar '''gedon'''.
+|| Ma || c'hi || a || red || war-lerc'h || ar '''gedon'''.
 translation
 'Mon chien court les lièvres.'
-text
-|| Dec'h || oa || tapet || teir || c'had || ganin.
-translation
-'Hier j'ai attrapé trois lapins.'
 text
 || Sañset || rañkes || kozeal || '''galleg'''.
 translation
@@ -17769,13 +17761,13 @@ translation
 text
 || Ma || fenn || a zo || pounner || ha || gwan || eo || man || '''divhar'''.
 translation
-'Ma tête est lourde et faibles sont mes jambes.'
+'Ma tête est lourde et mes jambes sont faibles.'
 text
 || N'on || ket || kapab, || krena || ra || on || '''divesker''' || niennon.
 translation
 'Je n'en suis pas capable, mes jambes tremblent sous moi.'
 text
-|| abarz || mond || en || douar || e || rankfen || lakaad || divesker || nevez
+|| abarz || mond || en || douar || e || rankfen || lakaad || divesker || nevez.
 translation
 'Avant de travailler un sol retourné, je devrais mettre des jambes neuves.'
 text
@@ -17910,6 +17902,10 @@ text
 || Ur '''saro''' || '''g'''wenn || a || oa || endro || dezhi.
 translation
 'Elle avait une blouse blanche.'
+text
+|| Start || eo || d'ober ? || '''Eo'''.
+translation
+'C'est dur à faire ? Oui.'
 text
 || Aze || a || zo || '''geot''' || a-walh, || med || '''ar re-ze''' || a zo || geot || pud.
 translation
@@ -20623,7 +20619,7 @@ text
 translation
 'la plus vieille'
 text
-|| hi || zo || '''ar goshañ''' || er || barrez.
+|| Hi || zo || '''ar goshañ''' || er || barrez.
 translation
 'Elle est la plus vieille de la paroisse.'
 text
@@ -23423,7 +23419,7 @@ text
 translation
 'Les deux routes ont la même longueur.'
 text
-|| Brest || ha || Kemper zo || '''keid-ha-keid''' || eus || Roazhon.
+|| Brest || ha || Kemper || || zo || '''keid-ha-keid''' || eus || Roazhon.
 translation
 'Brest et Quimper sont à égale distance de Rennes.'
 text
@@ -24467,7 +24463,7 @@ text
 translation
 'la marée, arrivée là par on ne sait quelle ruse… '
 text
-|| Ar voul || a yeas […] || war-du || an || teir || reñkad || kilhou.
+|| Ar || voul || a || yeas […] || war-du || an || teir || reñkad || kilhou.
 translation
 'La boule se dirigea […] vers les trois rangées de quilles.'
 text
@@ -27175,9 +27171,9 @@ text
 translation
 'Je ne serais pas mécontent de vous voir y rester.'
 text
-|| al '''laouénédigues''' || a voa || diaguent || a voa || troét || é || tristidigues...
+|| Al '''laouénédigues''' || a || voa || diaguent || a || voa || troét || é || tristidigues...
 translation
-'La joie qui régnait avant s'était transformée en tristesse.'
+'La joie qui régnait avant s'était transformée en tristesse...'
 text
 || '''Laouen''' || e || vez || ar gouel || pa || deu || Yann.
 translation
@@ -27487,9 +27483,13 @@ text
 translation
 'Les maisons qui ont un toit ne seront pas détruites.'
 text
-|| Pa || ve'''f'''et || daou. || / || Dre || amañ || n'e'''f'''omp || ket.
+|| Pa || ve'''f'''et || daou.
 translation
-'Quand vous serez deux.' / 'Nous n'irons pas par ici.'
+'Quand vous serez deux.'
+text
+|| Dre || amañ || n'e'''f'''omp || ket.
+translation
+'Nous n'irons pas par ici.'
 text
 || C'hwi || ''''arruo''' || da || serriñ || un arum || bennak.
 translation
@@ -28281,7 +28281,7 @@ translation
 text
 || <u>ar vro</u> || '''e''' || savas || e || di || enni.
 translation
-'Le pays où il a construit sa maison.'
+'le pays où il a construit sa maison'
 text
 || Me a wele an den. |||| … ec'h welen anezhañ
 translation
@@ -29079,9 +29079,9 @@ text
 translation
 'Je ne sais pas s'il est resté à la maison.'
 text
-|| Tec'het || 'neus || kuit || dirak || '''ar''' || eontroù-kordenn.
+|| Tec'het || ' || neus || kuit || dirak || '''ar''' || eontroù-kordenn.
 translation
-'Il s'est échappé devant les gendarmes (les tontons à corde).'
+'Il s'est échappé devant les gendarmes.'
 text
 a. || C'hwi || 'zo c'hwi || u'''n''' c'hwil.
 translation
@@ -29091,7 +29091,7 @@ b. || A'''n''' || wiz || a || zozva.
 translation
 'La truie pond.' (!)
 text
-|| bout eh eus bet || ha || me 'yae bemdez || àr ma belo || d'a'''r l'''abour.
+|| bout eo || bet || ha || me || ' || yae || bemdez || àr ma || belo || d'a'''r''' || '''l'''abour.
 translation
 'Il fut un temps où j'allais tous les jours au travail à vélo.'
 text
@@ -29103,7 +29103,7 @@ text
 translation
 'un énorme tas de fagots'
 text
-|| 'Po || ke' || me' || selled, || ene || zo || '''or''' || pezh || blokad || re(h)ier.
+|| 'Po || ke' || me' || selled, || ene || zo || '''or''' || pezh || blokad || rehier.
 translation
 'Tu n'auras qu'à regarder, il y a là un gros bloc de rochers.'
 text
@@ -29735,7 +29735,7 @@ text
 translation
 '… et hue ! On retourne au Mexique !'
 text
-|| Ac'hanta, || petra || 'soñjez || eus || '''kement-se''' ?
+|| Ac'hanta, || petra || ' || soñjez || eus || '''kement-se''' ?
 translation
 'Dis-donc, mon vieux, qu'en penses-tu ?'
 text
@@ -32095,7 +32095,7 @@ text
 translation
 'Combien de chevaux avez-vous ?'
 text
-|| Sell || gwasad || pez || toull || a zo || em || '''loer'''.
+|| Sell || gwasad || pez || toull || a || zo || em || '''loer'''.
 translation
 'Regarde quel grand trou il y a dans mon bas.'
 text
@@ -33103,7 +33103,7 @@ text
 translation
 'Quand j'arrivais, les enfants étaient en train de rapidement réparer leurs jeux.'
 text
-|| Pa || erruen, || (alies) || ar vugale || (<sup>?/OK</sup> alies) || a || oa ||  ('''alies''') || o || kempenn || (<sup>?/OK</sup>alies) || buan || (alies) || o || c'hoarioù.
+|| Pa || erruen, || (alies) || ar vugale || (<sup>?/OK</sup> alies) || a || oa || ('''alies''') || o || kempenn || (<sup>?/OK</sup>alies) || buan || (alies) || o || c'hoarioù.
 translation
 ''Léonard (Plougerneau/Diwan)'', [[M. Lincoln]] [28/06/2014]
 text
@@ -35611,9 +35611,9 @@ text
 translation
 'Je ne suis plus capable.'
 text
-|||| Glaskit || tche || '''mi''' || be || meus || (bet) || ar respont.
+|||| Glaskit || tche || '''mi''' || be || meus || bet || ar respont.
 translation
-'Ne cherche plus, j'ai la réponse.'
+'Ne cherche plus, j'ai eu la réponse.'
 text
 || N'es || bliavenn || bi || '''mi''' || var || e || benn.
 translation
@@ -35807,7 +35807,7 @@ text
 translation
 'Sapristi ! Que c'est long !'
 text
-|| '''Nag''' || <u>hen</u> || '''a'''  || '''zo''' || diod || koulskoude !
+|| '''Nag''' || <u>hen</u> || '''a''' || '''zo''' || diod || koulskoude !
 translation
 'Mais qu'est-ce qu'il est bête !'
 text
@@ -36511,7 +36511,7 @@ text
 translation
 'Alors une très vieille femme surgit d'un coin.'
 text
-|| '''A-benn neuze''' || e || vint || debret || toud.
+|| '''A-benn''' || '''neuze''' || e || vint || debret || toud.
 translation
 'D'ici là ils seront tous mangés.'
 text
@@ -37191,9 +37191,9 @@ text
 translation
 'J'entends et je ne comprends pas.'
 text
-|| Bout eh eus || estroc'h-evidin-me || ha 'ouia || '''gober''' || an traoù-se.
+|| Bout eo || estroc'h-evidin-me || a || ouia || '''gober''' || an traoù-se.
 translation
-'Il n'y a pas[?] que moi qui sait faire ça.'
+'Il n'y a pas que moi qui sait faire ça.'
 text
 || '''Gober''' || a '''ra''' || pleg-kein || lies.
 translation
@@ -37203,11 +37203,11 @@ text
 translation
 'Elle lui ferma les yeux.'
 text
-|| Kalz || fougasoù || a '''eure''' || ar baraer || gant || e || gi || yaouank...
+|| Kalz || fougasoù || a || '''eure''' || ar baraer || gant || e || gi || yaouank...
 translation
 'Le boulanger frimait avec son petit chien… '
 text
-|| Degouezhout || a '''eure''' || hepdale || an tri || all || er || gwaremm.
+|| Degouezhout || a || '''eure''' || hepdale || an tri || all || er || gwaremm.
 translation
 'Les trois autres arrivèrent tout de suite après à la garenne.'
 text
@@ -37247,7 +37247,7 @@ text
 translation
 'Cet enfant travaille énormément.'
 text
-|| '''Harz''', || ma || faotr, || ha || '''gra''' ||  !
+|| '''Harz''', || ma || faotr, || ha || '''gra''' || !
 translation
 'Aboie, mon garçon, allez vas-y.'
 text
@@ -37458,10 +37458,6 @@ text
 || ('''Ar brud''' || '''vat''' || en doa) || <u>bed</u> || e || '''houie''' || dresañ || pep || tra.
 translation
 '(Il avait acquis la réputation qu')il savait tout réparer.'
-text
-|| bout eh eus bet || _ || '''ha''' || <u>me</u> 'yae bemdez || àr ma belo || d'ar labour.
-translation
-'Il fut un temps où j'allais tous les jours au travail à vélo.'
 text
 || '''E neus''' || lennet || Alain || an dra-se, || tout an dud || neus keuz || _.
 translation
@@ -38487,7 +38483,7 @@ text
 translation
 'Je vais me faire enlever une dent à l'hôpital.'
 text
-|| Simone || a zo || eat || d'an || '''ospital'''.
+|| Simone || a || zo || eat || d'an || '''ospital'''.
 translation
 'Simone est allée à l'hôpital.'
 text
@@ -40501,7 +40497,7 @@ translation
 text
 || gant || unan || eus || hon || div yezh, || ha || '''perak''' || '''pas''' || gant || an div.
 translation
-'avec l'une de nos deux langues, et pourquoi pas avec les deux?'
+'avec l'une de nos deux langues, et pourquoi pas avec les deux ?'
 text
 || I || pin || gerift || pa || zaiten || '''umbrómm''' || i || '''hån''' || nèt || vorlórt || di || korìara.
 translation
@@ -41543,7 +41539,7 @@ text
 translation
 'La cour est pleine d'enfants.'
 text
- || '''Poseve''' || vichen || aet, || pet'a || mije || gwelet ?
+|| '''Poseve''' || vichen || aet, || pet'a || mije || gwelet ?
 translation
 'Quand bien même j'y serais allé, qu'y aurais-je vu ?'
 text
@@ -43427,7 +43423,7 @@ text
 translation
 'Quand on devait se déplacer de temps en temps, si on trouvait qu'il venait à manquer d'algues, on tirait sur le grapin pour le remonter.'
 text
-|| bgcolor=#F0FF80|Teir reunenn hepken || a c'hellan || da || gemerout _ || digant || pep~hini.
+|| bgcolor=#F0FF80| Teir reunenn hepken || a c'hellan || da || gemerout _ || digant || pep~hini.
 translation
 'Je peux prendre seulement trois crins à chacun.'
 text
@@ -45239,7 +45235,7 @@ text
 translation
 'Pourquoi… ne nous sommes nous pas obéi comme de vrais enfants ?'
 text
-|| Yann || a zo || o || tond || da || '''zerri''' || an || nor.
+|| Yann || a || zo || o || tond || da || '''zerri''' || an || nor.
 translation
 'Jean vient de fermer la porte.'
 text
@@ -45787,7 +45783,7 @@ text
 translation
 'Il y a plus d'air aujourd'hui qu'hier.'
 text
-|| Ober || a reas || egile || '''un hej''' || '''d'e''' || '''skoaz'''.
+|| Ober || a || reas || egile || '''un hej''' || '''d'e''' || '''skoaz'''.
 translation
 'L'autre haussa les épaules.'
 text
@@ -47191,9 +47187,9 @@ text
 translation
 'Appuyé sur le rebord de la fenêtre, l'adolescent respire profondément.'
 text
-|| div || vuoc'h, || uzet || o || dent || hir || || ' || krignat || ar mogerioù...
+|| div || vuoc'h, || uzet || o || dent || hir || || ' || krignat || ar mogerioù
 translation
-'deux vaches, dont les dents sont usées à force de ronger les murs.'
+'deux vaches, dont les dents sont usées à force de ronger les murs'
 text
 || || '''Dre''' || dostaat || d'ar || vizer, || || e || tesker || ur bochad || traoù.
 translation
@@ -48145,7 +48141,7 @@ translation
 text
 || daou || chô || skoaz-ha-skoaz || pi || kost-ha-kostez
 translation
-'deux chevaux côte-à-côte ou de front.'
+'deux chevaux côte-à-côte ou de front'
 text
 || youc'hadennoù || an dud || ha || '''talabao''' || al loened
 translation
@@ -48299,7 +48295,7 @@ text
 translation
 'Mes pieds sont brûlants.'
 text
-|| an '''tan gwall''' || a || oa || en || e || wasan.
+|| an || '''tan gwall''' || a || oa || en || e || wasan.
 translation
 'L'incendie était dans toute sa force'
 text
@@ -48313,7 +48309,7 @@ translation
 text
 || Pa || vo || daoulammet || ar || '''zoubenn''' || ne || vo || ket || mad.
 translation
-'Quand on fait bouillir le pot-au-feu au galot (à gros bouillons) il n'est pas bon.'
+'Quand on fait bouillir le pot-au-feu à gros bouillons il n'est pas bon.'
 text
 || e || korn || an || '''oaled''', || e-lec'h || ma || vourremp || o || tommañ.
 translation
@@ -48937,13 +48933,13 @@ translation
 text
 || Honnez || na || oa || ket || eur || plah || vrao, || na || '''tost''' || ivez !
 translation
-'Ce n'était pas une jolie fille, ni près de l'être (elle était laide).'
+'Ce n'était pas une jolie fille, ni près de l'être.'
 text
 || Dre || '''dostaat''' || d'ar || vizer, || e || tesker || ur bochad || traoù.
 translation
 'En approchant la misère, on apprend beaucoup.'
 text
-|| '''Tost''' || '''da''' || dri || bloaz || 'zo || emaon || amañ.
+|| '''Tost''' || '''da''' || dri || bloaz || ' || zo || emaon || amañ.
 translation
 'Il y a près de trois ans que je suis ici.'
 text
@@ -50143,7 +50139,7 @@ text
 translation
 'J'étais là absolument tout seul.'
 text
-|| Emaint diouig || eno '''o'''-unan'''ou'''.
+|| Emaint || diouig || eno || '''o'''-unan'''ou'''.
 translation
 'Elles sont deux pauvres filles là-bas toutes seules.'
 text
@@ -50391,7 +50387,7 @@ text
 translation
 'Elle parle plein de langues.'
 text
-|| Ben... || '''paseal''' || a ||  ra || biou || aze, e-giz-se, || hein.
+|| Ben... || '''paseal''' || a || ra || biou || aze, e-giz-se, || hein.
 translation
 'Eh bien, le fait est qu'il passe par ici, einh.'
 text
@@ -50579,7 +50575,7 @@ text
 translation
 'Il avait oublié que l'eau passait par dessus la passerelle.'
 text
-|| <u>Pelec'h</u> || peus || { '''laret''' || / || [[*]] '''gouiet''' } || || o doa || lezet || al levr ||  ?
+|| <u>Pelec'h</u> || peus || { '''laret''' || / || [[*]] '''gouiet''' } || || o doa || lezet || al levr || ?
 translation
 'Tu as dit/su qu'ils avaient laissé le livre où ça ?'
 text
@@ -51803,7 +51799,7 @@ text
 translation
 'Je savais depuis un moment que la mère était grosse !'
 text
- … || un den || kozh || hag || en deus || graet || e || amzer || soudard || en Oriant, || '''bout''' || 'zo <u>50 vlez</u> || 'zo !
+ … || un den || kozh || hag || en deus || graet || e || amzer || soudard || en Oriant, || '''bout''' || ' || zo || <u>50 vlez</u> || ' || zo !
 translation
 '... un vieil homme qui a fait son service militaire à Lorient, il y a 50 ans !'
 text
