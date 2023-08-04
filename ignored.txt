@@ -618,7 +618,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Bochad
 {| class="prettytable" <take not>
 |(4)||<font color=orange>'''A'''</font color=orange> :|| Tud || ' || oa || ba || sinema ? ||<font color=orange>'''B'''</font color=orange> :|| Pas || '''bochad'''.
 |- 
-||||| [[tud|gens]] || [[R]] || [[eo|était]] || [[e-barzh|dans]] || [[sinema|cinéma]] |||| [[pas]] || beaucoup 
+||||| [[tud|gens]] || [[R]] || [[eo|était]] || [[e-barzh|dans]] || [[sinema|cinéma]] |||| [[pas|pas]] || beaucoup 
 |-
 ||| colspan="15" | '- Il y avait du monde au cinéma ? - Pas beaucoup.' 
 |-
@@ -704,7 +704,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Concordance des temps
 {| class="prettytable"
 |(1)|| Ha || c'hwi, || ma || flah || bihan, || ma || 'ho pije || gwelet || an traou-ze, || e || '''oa''' || eet || ar bleo || diwar || ho || penn.
 |- 
-||| [[&|et]] || [[pfi|vous]] || [[POSS|mon]]<sup>[[2]]</sup> || [[plac'h|fille]] || [[bihan|petit]] || [[ma(r)|si]] || 2PL [[kaout|auriez]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[art|le]] [[traoù|choses]]-[[DEM|là]] || [[R]] || [[eo|était]] || [[mont|all]].[[-et (Adj.)|é]] || [[art|le]] [[blev|chevelure]] || [[diwar|de]] || [[POSS|votre]]<sup>[[3]]</sup> || [[penn|tête]]
+||| [[&|et]] || [[pfi|vous]] || [[POSS|mon]]<sup>[[2]]</sup> || [[plac'h|fille]] || [[bihan|petit]] || [[ma(r)|si]] || 2PL 2.[[kaout|aurait]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[art|le]] [[traoù|choses]]-[[DEM|là]] || [[R]] || [[eo|était]] || [[mont|all]].[[-et (Adj.)|é]] || [[art|le]] [[blev|chevelure]] || [[diwar|de]] || [[POSS|votre]]<sup>[[3]]</sup> || [[penn|tête]]
 |-
 ||| colspan="15" | 'Et vous, ma petite fille, si vous aviez vu ces choses-là, vous auriez perdu vos cheveux.'
 |-
@@ -2151,6 +2151,17 @@ https://arbres.iker.cnrs.fr/index.php?title=Les ordres T3
 
 https://arbres.iker.cnrs.fr/index.php?title=Les pronoms écho
 {| class="prettytable" <take not>
+|(3)||<font color=green> ɟənɛ̃ɲ || > ||<font color=green> ɟənɔ'''mɛ̃ɲ''' ||; ||<font color=green> ɛjdɛ̃ɲ || > ||<font color=green> ɛjdɔ'''mɛ̃ɲ'''
+|-
+||| ganin || || ganin-me || || evidon || || evidon-me
+|-
+||| colspan="15" | '[[gant|avec]] moi' > '[[gant|avec]] MOI.'; '[[evit|pour]] moi' > '[[evit|pour]] MOI'
+|- 
+||||||||| colspan="15" | [[Cheveau (2007)|Cheveau (2007]]:133)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Les pronoms écho
+{| class="prettytable" <take not>
 |(2)||<i><font color=green>1SG</font></i> || ma<sup>[[2]]</sup> zi-me || 'ma maison (à moi)'
 |-
 | ||<i><font color=green>1PL</font></i> || on<sup>[[5]]</sup> ti-ni || 'notre maison (à nous)'
@@ -2722,6 +2733,21 @@ https://arbres.iker.cnrs.fr/index.php?title=Ordres à temps second en basque
 
 https://arbres.iker.cnrs.fr/index.php?title=Ordres à verbe initial
 {| class="prettytable" <take not>
+|(4)||- Ur wech oa kouezhet klañv. An dra-se oa er bloavezh, a gav din, 1949.
+|-
+||| [[art|un]] <sup>[[1]]</sup>[[gwech|fois]] [[eo|était]] [[kouezhañ|tomb]].[[-et (Adj.)|é]] [[klañv|malade]]. [[art|le]] <sup>[[1]]</sup>[[tra|chose]]-[[DEM|là]] [[eo|était]] [[P.e|en]].[[art|e]] [[bloaz|ann]].[[-vezh|ée]], [[R]]<sup>[[1]]</sup> [[kavout|trouve]] [[da|à]].[[pronom incorporé|moi]], 1949.
+|-
+||| '''Em oa''' kemeret ludu da lakaat gant an artichaod hag ar patatez tout, en avañs.
+|-
+||| [[R]].1SG [[kaout|avait]] [[kemer|pr]].[[-et (Adj.)|is]] [[ludu|engrais]] [[da|pour]] [[lakaat|mettre]] [[gant|avec]] [[art|le]] [[artichaod|artichaut]] [[&|et]] [[art|le]] [[patatez|patates]] [[tout]], [[P.e|en]] [[avañs|avance]] 
+|-
+||| colspan="15" | 'Une fois il est tombé malade. C'était l'année 1949, je crois. Et j'avais pris de l'engrais pour mettre aux artichauts et les patates, à l'avance.'
+|-
+||||||||| colspan="15" | ''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:113)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Ordres à verbe initial
+{| class="prettytable" <take not>
 |(1)|| Setu, en ur zont d'ar gêr e choment a-sav eno neuze. 
 |-
 ||| Ha neuze e veze noz o tont d'ar gêr de ar marc'had. 
@@ -2747,6 +2773,17 @@ https://arbres.iker.cnrs.fr/index.php?title=Ordres à verbe initial
 ||| ''Magazennoù a oa, peogwir ar brikoli a oa gwerzhet de ar penn kwir, ne peze james da gont.'' 
 |-
 ||| colspan="15" | 'Il y avait des magasins, parce que les choux étaient vendus à la tête, où tu n'avais jamais ton compte … '
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Ordres à verbe initial
+{| class="prettytable" <take not>
+| … || '''E''' || '''peze''' || atav || des manquants. || … '''E''' || '''kountes''' || anezho || en ur || droc'hañ || ha || goude || en ur || gargañ.
+|-
+||| [[R]] || 2.[[kaout|avait]] || [[atav|toujours]] || "des manquants" || [[R]]<sup>[[4]]</sup> || [[kontañ|comptes]] || [[a|P]].[[pronom incorporé|eux]] || [[en ur|en]]<sup>[[1]]</sup> || [[troc'hañ|couper]] || [[&|et]] || [[goude|après]] || [[en ur|en]]<sup>[[1]]</sup> || [[kargañ|charger]]
+|-
+||| colspan="15" | '... Tu avais toujours des manquants. Tu les comptais en les coupant, et après en les chargeant.'
+|-
+||||||| colspan="15" | ''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:74)
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Pal, ar bal
@@ -3031,6 +3068,17 @@ https://arbres.iker.cnrs.fr/index.php?title=Prédicat
 ||||||| colspan="15" | ''Standard'', [[Evenou (1987)|Evenou (1987]]:575)
 |}
 
+https://arbres.iker.cnrs.fr/index.php?title=Pseudo-relatives
+{| class="prettytable" <take not>
+|(1)|| Idha || ton Yani || pu || opios || etreche.
+|-
+||| vu.1SG || le Yani || que || qui || courait 
+|- 
+||| colspan="15" | 'J'ai vu Yani qui courait, J'ai vu Yani courir'
+|- 
+||||||||| colspan="15" | ''Grec'', Angelopoulos (2015)
+|}
+
 https://arbres.iker.cnrs.fr/index.php?title=Périphéries de la phrase
 {| class="prettytable" <take not>
 |(2)|| [<sub>ForceP</sub> || || || Force° ||[<sub>TopP</sub> ||||[<sub>FocP</sub> || ||[<sub>ModeP</sub> || NEG||[<sub>FinP</sub> |||| Fin
@@ -3121,11 +3169,11 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
 |(4)||<font color=orange>'''A'''</font color=orange>: - || Ha || Doué || en dès || ur horf ? ||<font color=orange>'''B'''</font color=orange>: - || '''Nepas'''.
 |- 
-||| || [[C.ha(g)|Q]] || [[Doue|Dieu]] || [[R]].3SGM [[kaout|a]] || [[art|un]] <sup>[[5]]</sup>[[korf|corps]] |||| non
+||| || [[C.ha(g)|Q]] || [[Doue|Dieu]] || [[R]].3SGM 3.[[kaout|a]] || [[art|un]] <sup>[[5]]</sup>[[korf|corps]] |||| non
 |-
 ||| colspan="15" | 'A : 'Dieu a-t-il un corps ?' / B : 'Non.'
 |-
-||||||||| colspan="15" | ''Vannetais'', [[Le Bayon (1878)|Le Bayon (1878]]:57) 
+||||||||| colspan="15" | ''Vannetais pré-moderne'', [[Le Bayon (1878)|Le Bayon (1878]]:57) 
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
@@ -3154,7 +3202,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
 |(8)||<font color=orange>'''A'''</font color=orange>: - || Drebet || peus || ho || lein ? ||<font color=orange>'''B'''</font color=orange>: - || '''Ket''' || c'hoazh.
 |- 
-||||| [[debriñ|mang]].[[-et (Adj.)|é]] || [[personne|2]].[[kaout|a]] || [[POSS|votre]]<sup>[[3]]</sup> || [[lein|déjeuner]] || || [[ket|non]] || [[c'hoazh|déjà]]  
+||||| [[debriñ|mang]].[[-et (Adj.)|é]] || 2.[[kaout|a]] || [[POSS|votre]]<sup>[[3]]</sup> || [[lein|déjeuner]] || || [[ket|non]] || [[c'hoazh|déjà]]  
 |-
 ||| colspan="15" | 'A : 'Vous avez déjeuné ?' / B : 'Pas encore.'
 |-
@@ -3309,7 +3357,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 |-
 ||| || || Teufint ket ? || || - '''Eo'''
 |-
-||| || ([[ne|ne]]) || [[dont|viendront]] [[ket|pas]] ? || || si
+||| || [[ne|ne]]<sup>[[1]]</sup> || [[dont|viendront]] [[ket|pas]] ? || || si
 |- 
 ||| colspan="15" | 'A: - Ne viendront-ils pas ? / B: - Si !' 
 |- 
@@ -3397,7 +3445,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
 |(1)||<font color=orange>'''A'''</font color=orange>:- ||<font color=green> ʃil'əwa kə hónón ? ||<font color=orange>'''B'''</font color=orange>:- ||<font color=green> '''ʃil'əwa, ʃil'əwa'''</font color=green>.
 |-  
-||| ([[ne|ne]]<sup>[[1]]</sup>) || [[selaou|écoute]] [[ket|pas]] [[a|P]].[[pronom incorporé|moi]] |||| [[selaou|écoute]], [[selaou|écoute]] 
+||| [[ne|ne]]<sup>[[1]]</sup> || [[selaou|écoute]] [[ket|pas]] [[a|P]].[[pronom incorporé|moi]] |||| [[selaou|écoute]], [[selaou|écoute]] 
 |-
 ||| colspan="15" | 'A: - Il ne m'écoute pas ? / B: - Si, bien sûr.' 
 |- 
@@ -3408,7 +3456,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
 |(2)||<font color=orange>'''A'''</font color=orange>:- ||<font color=green> g'uskén kət ? ||<font color=orange>'''B'''</font color=orange>:- ||<font color=green> '''k'uski, k'uskit'''</font color=green>.
 |-  
-||| ([[ne|ne]]<sup>[[1]]</sup>) || [[kousk|dormirai]] [[ket|pas]] |||| [[kousk|dormiras]], [[kousk|dormiras]] 
+||| [[ne|ne]]<sup>[[1]]</sup> || [[kousk|dormirai]] [[ket|pas]] |||| [[kousk|dormiras]], [[kousk|dormiras]] 
 |-
 ||| colspan="15" | 'A: - Je ne dormirai pas ? / B: - Si, certainement.'
 |- 
@@ -3456,9 +3504,9 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 
 https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
-|(4)|| <font color=orange>'''A'''</font color=orange>:- |||| 'Po ket un tamm bara ? ||<font color=orange>'''B'''</font color=orange>:- || '''Bou''' !
+|(4)|| <font color=orange>'''A'''</font color=orange>:- || || 'Po ket un tamm bara ? ||<font color=orange>'''B'''</font color=orange>:- || '''Bou''' !
 |-
-||| || ([[ne|ne]]) || [[kaout|auras]] [[ket|pas]] [[art|un]] [[tamm|morceau]] [[bara|pain]] ? |||| [[kaout|aurai]]
+||| || [[ne|ne]]<sup>[[1]]</sup> || [[R]].2PL 2.[[kaout|aura]] [[ket|pas]] [[art|un]] [[tamm|morceau]] [[bara|pain]] ? |||| 1.[[kaout|aura]]
 |- 
 ||| colspan="15" | 'Tu ne veux pas de pain ? - Si !'
 |- 
@@ -3467,9 +3515,9 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 
 https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
-|(5)|| <font color=orange>'''A'''</font color=orange>:- || ur bok all 'to ? ||<font color=orange>'''B'''</font color=orange>:- || 'mo ket ||<font color=orange>'''A'''</font color=orange>:- || '''Bo''' !
+|(5)|| <font color=orange>'''A'''</font color=orange>:- || Ur bok all 'to ? ||<font color=orange>'''B'''</font color=orange>:- || 'mo ket ||<font color=orange>'''A'''</font color=orange>:- || '''Bo''' !
 |-
-||| || [[art|un]] bock [[all|autre]] [[kaout|auras]] ? |||| [[kaout|aurai]] [[ket|pas]] || || si
+||| || [[art|un]] "bock" [[all|autre]] 2SG.[[kaout|aura]] ? |||| [[ne|ne]] [[R]].1SG [[kaout|aura]] [[ket|pas]] || || 1.[[kaout|aura]]
 |- 
 ||| colspan="15" | A: 'Tu auras un autre boc (de bière) ?', B: - Non,  A:- Si.' 
 |- 
@@ -3480,9 +3528,9 @@ https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 
 https://arbres.iker.cnrs.fr/index.php?title=Réponses aux questions
 {| class="prettytable" <take not>
-|(6)|| <font color=orange>'''A'''</font color=orange>:- || N'onn ket || hag-eñ ||'no un tamm all ? ||<font color=orange>'''B'''</font color=orange>:- || '''Geo'''.
+|(6)|| <font color=orange>'''A'''</font color=orange>:- || N'onn ket || hag-eñ || 'no un tamm all ? ||<font color=orange>'''B'''</font color=orange>:- || '''Geo'''.
 |-
-||| || [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] [[ket|pas]] || [[hag-eñ|si]] || [[kaout|aura]] [[art|un]] [[tamm|morceau]] all ? |||| si
+||| || [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] [[ket|pas]] || [[hag-eñ|si]] || [[R]].3SGM [[kaout|aura]] [[art|un]] [[tamm|morceau]] [[all|autre]] ? |||| si
 |- 
 ||| colspan="15" | 'Je ne sais pas s'il aura un autre bout ? - Si.' 
 |- 
@@ -3961,6 +4009,32 @@ https://arbres.iker.cnrs.fr/index.php?title=Tutoiement et vouvoiement
 ||| colspan="15" | 'Maintenant c'est ton camion à toi toute seule.' 
 |-
 ||||||| colspan="15" | ''GB2210 (Douarnenez)'', [[Kontañ kaoz (06/2019)]] 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Tutoiement et vouvoiement
+{| class="prettytable" <take not>
+|(2)|| colspan="15" | CONTEXTE: (femme, à une femme familière et d'âge équivalent)
+|-
+||| Gouzout || a r'''ez''' || '''ho''' peus || disoñjet || '''da''' || levrig || kanañ || disadorn || diwezhañ ? 
+|- 
+||| [[gouzout|savoir]] || [[R]] [[ober|fais]] || 2PL 2.[[kaout|a]] || [[di-, dis-|dé]].[[soñjal|pens]].[[-et (Adj.)|é]] || [[POSS|ton]]<sup>[[1]]</sup> || [[levr|livr]].[[DIM|et]] || [[kanañ|chanter]] || [[di-/(deiz-)|jour]].[[sadorn|samedi]] || [[diwezhat|tard]].[[superlatif|le.plus]]
+|-
+||| colspan="15" | 'Tu sais que tu as oublié ton livret de chant samedi ?!' 
+|-
+||||||| colspan="15" | ''Cornouaillais (Gourlizon)'', [[Kontañ kaoz (06/2019)]] 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Tutoiement et vouvoiement
+{| class="prettytable" <take not>
+|(3)|| colspan="15" | CONTEXTE: (à un homme ou une femme de son âge)
+|-
+||| '''Fi''' || voar lac'h || peus digonget || oc'h lior kan || di sadorn ?!
+|- 
+||| [[pfi|vous]] [[R]]<sup>[[1]]</sup> || [[gouzout|sais]] [[la(r)|que]] || 2.[[kaout|a]] [[di-, dis-|dé]].[[soñjal|pens]].[[-et (Adj.)|é]] || [[POSS|votre]]<sup>[[+C]]</sup> [[levr|livre]] chant || [[Di-/(deiz-)|jour]] [[jours de la semaine|samedi]]
+|-
+||| colspan="15" | 'Tu sais que tu as oublié ton livret de chant samedi ?!' 
+|-
+||||||| colspan="15" | ''Michelle Nicolas (Plozévet)'', [[Kontañ kaoz (06/2019)]]
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=V1 en corpus dessiné
