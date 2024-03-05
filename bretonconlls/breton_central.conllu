@@ -6,9 +6,9 @@
 # source = Avezard-Roger (2004a:452)
 # status = WIP
 1	Aze	aze	_	adverbes	_	_	_	_	Gloss=ici
-2	e	e	_	copule	Mut=4	_	_	_	Gloss=_
+2	e	e	_	copule|Mut=4	_	_	_	_	Gloss=_
 3	vije	COP	_	v	_	_	_	_	Gloss=serait
-4-5	tremenet	_	_	adjectif	tremenɛt	_	_	_	Gloss=pass é
+4-5	tremenet	_	_	adjectif|tremenɛt	_	_	_	_	Gloss=pass é
 4	tremen	tremen	_	verbe	_	_	_	_	Gloss=pass
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	forzh	forzh	_	nom	_	_	_	_	Gloss=beaucoup
@@ -39,7 +39,7 @@
 8	kenver	kenver	_	verbe	_	_	_	_	Gloss=côté
 9-10	d'e	_	_	_	_	_	_	_	Gloss=de son
 9	da	da	_	préposition	_	_	_	_	Gloss=de
-10	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+10	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 11	señturenn	ceinture.-enn	_	_	_	_	_	_	Gloss=SG
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -53,7 +53,7 @@
 1	Deus	deus	_	préposition	_	_	_	_	Gloss=selon
 2	al	an,al,ar	_	défini	_	_	_	_	Gloss=le
 3	loar	loar	_	nom	_	_	_	_	Gloss=lune
-4	'	e	_	SCONJ	Mut=4	_	_	_	Gloss=_
+4	'	e	_	SCONJ|Mut=4	_	_	_	_	Gloss=_
 5	hadoñ	hadañ	_	verbe	_	_	_	_	Gloss=sème
 6	ma	POSS	_	det	_	_	_	_	Gloss=mon
 7	saladen	saladen	_	nc	_	_	_	_	Gloss=salade
@@ -69,7 +69,7 @@
 1	'Faot	faotañ	_	verbe	_	_	_	_	Gloss=faut
 2	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 3	lar	lavarout	_	verbe	_	_	_	_	Gloss=dire
-4-5	gevier	_	_	_	gɛj<sup>ə</sup>ɤ	_	_	_	Gloss=mensonge s
+4-5	gevier	_	_	_|gɛj<sup>ə</sup>ɤ	_	_	_	_	Gloss=mensonge s
 4	gaou	gaou	_	nom	_	_	_	_	Gloss=mensonge
 5	-ier	-ier	_	suffixe	_	_	_	_	Gloss=s
 6	kar	rak	_	préposition	_	_	_	_	Gloss=car
@@ -98,8 +98,8 @@
 8	erez	erez	_	nc	_	_	_	_	Gloss=action
 9	n' euz	3SG kaout	_	v	_	_	_	_	Gloss=a
 10	bet	bet	_	verbe	_	_	_	_	Gloss=eu
-11	en	eñ	_	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=en
-12	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=votre
+11	en	eñ	_	PRON|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=en
+12	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=votre
 13	kever	e-keñver	_	préposition	_	_	_	_	Gloss=endroit
 
 # sent_id = KazetennarMenez(1981)__6
@@ -149,7 +149,7 @@
 8	kenver	kenver	_	verbe	_	_	_	_	Gloss=côté
 9-10	d'e	_	_	_	_	_	_	_	Gloss=de son
 9	da	da	_	préposition	_	_	_	_	Gloss=de
-10	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+10	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 11	señturenn	señturenn	_	v	_	_	_	_	Gloss=ceinture
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -161,9 +161,9 @@
 # source = Avezard-Roger (2004a:288)
 # status = WIP
 1	Gwelout	gwelout	_	verbe	_	_	_	_	Gloss=voir
-2	a	R	_	SCONJ	Mut=1	_	_	_	Gloss=_
+2	a	R	_	SCONJ|Mut=1	_	_	_	_	Gloss=_
 3	ran	ober	_	verbe	_	_	_	_	Gloss=fais
-4	ac'hanoc'h	P.c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+4	ac'hanoc'h	P.c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 5	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Avezard-Roger(2004a:121)__10
@@ -177,8 +177,8 @@
 2	'	R	_	verbe	_	_	_	_	Gloss=_
 3	zo	zo	_	verbe	_	_	_	_	Gloss=est
 4	dija	dija	_	adverbe	_	_	_	_	Gloss=déjà
-5-6	'meus	_	_	_	ke	_	_	_	Gloss=moi a
-5	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5-6	'meus	_	_	_|ke	_	_	_	_	Gloss=moi a
+5	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 6	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 7	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 8	bet	bet	_	verbe	_	_	_	_	Gloss=eu
@@ -205,7 +205,7 @@
 8	keñver	keñver	_	verbe	_	_	_	_	Gloss=côté
 9-10	d'e	_	_	_	_	_	_	_	Gloss=de son
 9	da	da	_	préposition	_	_	_	_	Gloss=de
-10	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+10	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 11	señturenn	señturenn	_	v	_	_	_	_	Gloss=ceinture
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -216,7 +216,7 @@
 # location = Poullaouen
 # source = Favereau (1984:438)
 # status = WIP
-1	kaout	kaout	_	v	Person=2	_	_	_	Gloss=aura
+1	kaout	kaout	_	v|Person=2	_	_	_	_	Gloss=aura
 2	ke'	ket	_	adverbe	_	_	_	_	Gloss=pas
 3	me'	met	_	conjonction	_	_	_	_	Gloss=mais
 4	selled	sellout	_	verbe	_	_	_	_	Gloss=voir
@@ -258,7 +258,7 @@
 5	lâret	lavarout	_	verbe	_	_	_	_	Gloss=dire
 6-7	din	_	_	_	_	_	_	_	Gloss=à moi
 6	da	da	_	préposition	_	_	_	_	Gloss=à
-7	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+7	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1984:376)__15
@@ -276,7 +276,7 @@
 6	tare	dare	_	nom	_	_	_	_	Gloss=rien
 7-8	doc'h 	_	_	_	_	_	_	_	Gloss=à vous
 7	da	da	_	préposition	_	_	_	_	Gloss=à
-8	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+8	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 9	!	!	_	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = LeGarrec(1901:64)__16
@@ -289,7 +289,7 @@
 1	Anez	Anez	_	préposition	_	_	_	_	Gloss=sans
 2-3	am	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 4	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 5	true	truez	_	nom	_	_	_	_	Gloss=pitié
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -349,7 +349,7 @@
 4	henn'zh	hennezh	_	déterminant	_	_	_	_	Gloss=celui là
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	pezh	pezh	_	nom	_	_	_	_	Gloss=morceau
-7	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+7	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 8	gari	karout	_	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -385,7 +385,7 @@
 4	henn'zh	hennezh	_	déterminant	_	_	_	_	Gloss=celui-là
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	pezh	pezh	_	nom	_	_	_	_	Gloss=ce que
-7	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+7	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 8	gari	karout	_	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -399,7 +399,7 @@
 1	Lak'	lakaat	_	verbe	_	_	_	_	Gloss=mets
 2-3	'neoñ	_	_	_	_	_	_	_	Gloss=lui
 2	a	a	_	préposition	_	_	_	_	Gloss=P
-3	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+3	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 4	beke	beke	_	complémenteur	_	_	_	_	Gloss=puisque
 5	'moc'h	emañ	_	verbe	_	_	_	_	Gloss=êtes
 6	'	particuleo	_	prep	_	_	_	_	Gloss=à
@@ -443,7 +443,7 @@
 6	-où	-où(PL.)	_	suffixe	_	_	_	_	Gloss=s
 7	hezh	hennezh	_	déterminant	_	_	_	_	Gloss=celui-là
 8	beñ	beñ	_	interjection	_	_	_	_	Gloss=ben
-9	heñ	pfi	_	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+9	heñ	pfi	_	pronoms|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 10-11	n'a	_	_	_	_	_	_	_	Gloss=ne va
 10	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 11	mont	mont	_	verbe	_	_	_	_	Gloss=va
@@ -451,7 +451,7 @@
 13	pell	pell	_	adjectif	_	_	_	_	Gloss=loin
 14-15	nahoñ	_	_	_	_	_	_	_	Gloss=lui
 14	a	a	_	préposition	_	_	_	_	Gloss=P
-15	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+15	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 16	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1984:299)__26
@@ -470,7 +470,7 @@
 6	gweled	gwelout	_	verbe	_	_	_	_	Gloss=voir
 7	bleizi	loup.-i(PL.)	_	nc	_	_	_	_	Gloss=s
 8	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
-9	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+9	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 10	blass	plas	_	nom	_	_	_	_	Gloss=place
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -483,11 +483,11 @@
 # status = WIP
 1	An	an,al,ar	_	défini	_	_	_	_	Gloss=le
 2	dud	tud	_	nom	_	_	_	_	Gloss=gens|Mut=1|Mutchoice=right
-3	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+3	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 4	larae	lavarout	_	verbe	_	_	_	_	Gloss=disait
 5-6	dehi	_	_	_	_	_	_	_	Gloss=à elle
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	he	he	_	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
+6	he	he	_	PRON|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=elle
 7	peneus	penaos	_	adverbe	_	_	_	_	Gloss=que
 8	"ah	interjection	_	interjection	_	_	_	_	Gloss=ah
 9	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -521,19 +521,19 @@
 # location = None
 # source = Humphreys (1995:353)
 # status = WIP
-1-3	M-eus	_	_	_	m,əs	_	_	_	Gloss=_ moi a
+1-3	M-eus	_	_	_|m,əs	_	_	_	_	Gloss=_ moi a
 1	R	R	_	SCONJ	_	_	_	_	Gloss=_
-2	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+2	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 3	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 4	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
-5-6	arruet	_	_	adjectif	'a:jə	_	_	_	Gloss=arriv é
+5-6	arruet	_	_	adjectif|'a:jə	_	_	_	_	Gloss=arriv é
 5	arru	arru	_	verbe	_	_	_	_	Gloss=arriv
 6	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 7	da	da	_	préposition	_	_	_	_	Gloss=à
 8	welet	gwelout	_	verbe	_	_	_	_	Gloss=voir
-9-10	anezhañ	_	_	_	nã	_	_	_	Gloss=lui
+9-10	anezhañ	_	_	_|nã	_	_	_	_	Gloss=lui
 9	a	a	_	préposition	_	_	_	_	Gloss=P
-10	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+10	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 11	c'hoazh	c'hoazh	_	adverbe	_	_	_	_	Gloss=encore
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -548,7 +548,7 @@
 2	'vize	COP	_	AUX	_	_	_	_	Gloss=serait
 3-4	dac'h	_	_	_	_	_	_	_	Gloss=à vous
 3	da	da	_	préposition	_	_	_	_	Gloss=à
-4	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+4	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 5	bout	bezañ	_	verbe	_	_	_	_	Gloss=être
 6-7	refuzet	_	_	adjectif	_	_	_	_	Gloss=refus é
 6	refuziñ	refuziñ	_	nc	_	_	_	_	Gloss=refus
@@ -569,14 +569,14 @@
 4	oa	eo	_	AUX	_	_	_	_	Gloss=était
 5-6	din	_	_	_	_	_	_	_	Gloss=à moi
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	bezañ	bezañ	_	verbe	_	_	_	_	Gloss=être
 8-9	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-8	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+8	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 9	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 10-11	anezhañ	_	_	_	_	_	_	_	Gloss=lui
 10	a	a	_	préposition	_	_	_	_	Gloss=P
-11	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+11	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Humphreys(1995:393)__32
@@ -599,16 +599,16 @@
 # location = None
 # source = Humphreys (1995:353)
 # status = WIP
-1-4	M-eusket	_	_	_	m,əs kəd	_	_	_	Gloss=_ moi a pas
+1-4	M-eusket	_	_	_|m,əs kəd	_	_	_	_	Gloss=_ moi a pas
 1	R	R	_	SCONJ	_	_	_	_	Gloss=_
-2	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+2	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 3	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 4	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 5	''arruet''	_	_	_	_	_	_	_	Gloss=_
 6	da welet	à gwelout	_	v	_	_	_	_	Gloss=voir
-7-8	anezhañ	_	_	_	nã	_	_	_	Gloss=lui
+7-8	anezhañ	_	_	_|nã	_	_	_	_	Gloss=lui
 7	a	a	_	préposition	_	_	_	_	Gloss=P
-8	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+8	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 9	c'hoazh	c'hoazh	_	adverbe	_	_	_	_	Gloss=encore
 10	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -639,14 +639,14 @@
 3	oa	eo	_	AUX	_	_	_	_	Gloss=était
 4-5	din	_	_	_	_	_	_	_	Gloss=à moi
 4	da	da	_	préposition	_	_	_	_	Gloss=à
-5	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 6	bezañ	bezañ	_	verbe	_	_	_	_	Gloss=être
 7-8	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-7	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+7	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 8	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 9-10	anezhañ	_	_	_	_	_	_	_	Gloss=lui
 9	a	a	_	préposition	_	_	_	_	Gloss=P
-10	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+10	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Solliec(2015)__36
@@ -659,7 +659,7 @@
 1	Hoñzh	hounnezh	_	déterminant	_	_	_	_	Gloss=celle-là
 2	zeske	zeske	_	v	_	_	_	_	Gloss=apprenait
 3	'lec'h	e-lec'h	_	préposition	_	_	_	_	Gloss=en lieu
-4	me	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+4	me	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 5	reen	ober	_	verbe	_	_	_	_	Gloss=faisais
 6	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 7	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -675,8 +675,8 @@
 2	'	R	_	verbe	_	_	_	_	Gloss=_
 3	zo	zo	_	verbe	_	_	_	_	Gloss=est
 4	dija	dija	_	adverbe	_	_	_	_	Gloss=déjà
-5-6	'meus	_	_	_	ke	_	_	_	Gloss=moi a
-5	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5-6	'meus	_	_	_|ke	_	_	_	_	Gloss=moi a
+5	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 6	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 7	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 8	bet	bet	_	verbe	_	_	_	_	Gloss=eu
@@ -695,7 +695,7 @@
 3	-aat	-aat	_	suffixe	_	_	_	_	Gloss=er
 4-5	deuzouzon	_	_	_	_	_	_	_	Gloss=de moi
 4	ouzh	ouzh	_	préposition	_	_	_	_	Gloss=de
-5	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 6-6	trubuill	_	_	_	_	_	_	_	Gloss=et
 6	hag	&	_	conjonction	_	_	_	_	Gloss=et
 7-8	enkrezo	_	_	nom	_	_	_	_	Gloss=angoisse s
@@ -713,7 +713,7 @@
 1	Deus	Deus	_	préposition	_	_	_	_	Gloss=selon
 2	al	an,al,ar	_	défini	_	_	_	_	Gloss=le
 3	loar	loar	_	nom	_	_	_	_	Gloss=lune
-4	'	e	_	SCONJ	Mut=4	_	_	_	Gloss=_
+4	'	e	_	SCONJ|Mut=4	_	_	_	_	Gloss=_
 5	hadoñ	hadañ	_	verbe	_	_	_	_	Gloss=sème
 6	ma	POSS	_	det	_	_	_	_	Gloss=mon
 7	saladen	saladen	_	nc	_	_	_	_	Gloss=salade
@@ -750,13 +750,13 @@
 2-3	lavar	_	_	adjectif	_	_	_	_	Gloss=d it
 2	lavarout	lavarout	_	verbe	_	_	_	_	Gloss=d
 3	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=it
-4	e	e	_	SCONJ	Mut=4	_	_	_	Gloss=_
+4	e	e	_	SCONJ|Mut=4	_	_	_	_	Gloss=_
 5	tiskouezo	tiskouezo	_	v	_	_	_	_	Gloss=montrera
-6	e	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	e	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	di	ti	_	nom	_	_	_	_	Gloss=maison
 8-9	deoc'h	_	_	_	_	_	_	_	Gloss=à vous
 8	da	da	_	préposition	_	_	_	_	Gloss=à
-9	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+9	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 10	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = LeGarrec(1901:64)__42
@@ -777,8 +777,8 @@
 7	divaloerez	laid.-erezh,-ereah,-ourezh	_	nc	_	_	_	_	Gloss=action
 8	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 9	bet	bet	_	verbe	_	_	_	_	Gloss=eu
-10	en	eñ	_	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=en
-11	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=votre
+10	en	eñ	_	PRON|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=en
+11	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=votre
 12	kever	e-keñver	_	préposition	_	_	_	_	Gloss=endroit
 
 # sent_id = Solliec(2015:75)__43
@@ -788,7 +788,7 @@
 # location = Loqueffret
 # source = Solliec (2015:75)
 # status = WIP
-1	en	eñ	_	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=en
+1	en	eñ	_	PRON|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=en
 2	-istribilh	istribilh	_	préposition	_	_	_	_	Gloss=suspens
 3	doc'h	doc'h	_	préposition	_	_	_	_	Gloss=de
 4	ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
@@ -851,7 +851,7 @@
 7	bleiz	bleiz	_	nom	_	_	_	_	Gloss=loup
 8	-i	-i(PL.)	_	suffixe	_	_	_	_	Gloss=s
 9	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
-10	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+10	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 11	blass	plas	_	nom	_	_	_	_	Gloss=place
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -886,7 +886,7 @@
 2	zeske	deskiñ	_	verbe	_	_	_	_	Gloss=apprenait
 3	'lec'h	(P.e	_	_	_	_	_	_	Gloss=en ) lieu
 4-5	me	_	_	_	_	_	_	_	Gloss=moi ne
-4	pfi	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+4	pfi	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 5	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 6	reen	ober	_	verbe	_	_	_	_	Gloss=faisais
 7	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
@@ -900,13 +900,13 @@
 # source = Humphreys (1995:393)
 # status = WIP
 1	'oac'h	COP	_	v	_	_	_	_	Gloss=étiez
-2	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+2	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 3	vont	mont	_	verbe	_	_	_	_	Gloss=aller
 4	da	da	_	préposition	_	_	_	_	Gloss=à
 5	lâret	lavarout	_	verbe	_	_	_	_	Gloss=dire
-6-7	din	_	_	_	tén	_	_	_	Gloss=à moi
+6-7	din	_	_	_|tén	_	_	_	_	Gloss=à moi
 6	da	da	_	préposition	_	_	_	_	Gloss=à
-7	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+7	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 
 # sent_id = Lozac'h(2014:'Be(za)')__50
 # text = a. Set'  ma  braw  an  amzer.
@@ -986,7 +986,7 @@
 4	deuz	deus	_	préposition	_	_	_	_	Gloss=de
 5-6	ouzon	_	_	_	_	_	_	_	Gloss=de moi
 5	ouzh	ouzh	_	préposition	_	_	_	_	Gloss=de
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	trubuill	trubuilh	_	nom	_	_	_	_	Gloss=anxiété
 8	hag	&	_	conjonction	_	_	_	_	Gloss=et
 9	enkrezo	angoisse.-où(PL.)	_	nc	_	_	_	_	Gloss=s
@@ -1095,9 +1095,9 @@
 # source = Avezard-Roger (2004a:452)
 # status = WIP
 1	Aze	aze	_	adverbes	_	_	_	_	Gloss=ici
-2	e	e	_	copule	Mut=4	_	_	_	Gloss=_
+2	e	e	_	copule|Mut=4	_	_	_	_	Gloss=_
 3	vije	COP	_	v	_	_	_	_	Gloss=serait
-4-5	tremenet	_	_	adjectif	tremenɛt	_	_	_	Gloss=pass é
+4-5	tremenet	_	_	adjectif|tremenɛt	_	_	_	_	Gloss=pass é
 4	tremen	tremen	_	verbe	_	_	_	_	Gloss=pass
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	forzh	forzh	_	nom	_	_	_	_	Gloss=beaucoup
@@ -1114,13 +1114,13 @@
 # source = Favereau (1984:376)
 # status = WIP
 1	Don'	dont	_	verbe	_	_	_	_	Gloss=venir
-2	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	rae	ober	_	verbe	_	_	_	_	Gloss=faisait
 4	forzhig	beaucoup.-ig	_	_	_	_	_	_	Gloss=DIM
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	ya	ya	_	interjection	_	_	_	_	Gloss=oui
 7	;	;	_	PUNCT	_	_	_	_	Gloss=;
-8	hehi	pfi	_	pronoms	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
+8	hehi	pfi	_	pronoms|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=elle
 9-10	n'ae	_	_	_	_	_	_	_	Gloss=ne allait
 9	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 10	mont	mont	_	verbe	_	_	_	_	Gloss=allait
@@ -1142,7 +1142,7 @@
 6	lakad	lakaat	_	verbe	_	_	_	_	Gloss=mettre
 7-8	'nahoñ	_	_	_	_	_	_	_	Gloss=lui
 7	a	a	_	préposition	_	_	_	_	Gloss=P
-8	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+8	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 9	da	da	_	préposition	_	_	_	_	Gloss=à
 10	vale	bale	_	verbe	_	_	_	_	Gloss=marcher
 11	'mesk	e-mesk	_	préposition	_	_	_	_	Gloss=parmi
@@ -1211,14 +1211,14 @@
 4	hini	hini	_	nom	_	_	_	_	Gloss=ceux
 5-7	'ma	_	_	_	_	_	_	_	Gloss=_ moi avait
 5	R	R	_	SCONJ	_	_	_	_	Gloss=_
-6	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 8-9	reit	_	_	adjectif	_	_	_	_	Gloss=donn é
 8	reiñ	reiñ	_	verbe	_	_	_	_	Gloss=donn
 9	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 10-11	tit	_	_	_	_	_	_	_	Gloss=à toi
 10	da	da	_	préposition	_	_	_	_	Gloss=à
-11	te	te	_	nom	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
+11	te	te	_	nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=toi
 12	bremañ	bremañ	_	adverbe	_	_	_	_	Gloss=maintenant
 13	zo	zo	_	AUX	_	_	_	_	Gloss=est
 14	seizh	seizh	_	quantifieurs	_	_	_	_	Gloss=sept
@@ -1233,13 +1233,13 @@
 # source = Favereau (1997:§592)
 # status = WIP
 1	Pell	pell	_	adjectif	_	_	_	_	Gloss=loin
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	oa	eo	_	AUX	_	_	_	_	Gloss=était
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	glevemp	klevout	_	verbe	_	_	_	_	Gloss=entendions
 6-7	'nezhoñ	_	_	_	_	_	_	_	Gloss=lui
 6	a	a	_	préposition	_	_	_	_	Gloss=P
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	'	particuleo	_	prep	_	_	_	_	Gloss=à
 9-10	hediñ	_	_	_	_	_	_	_	Gloss=long er
 9	hed	hed	_	nom	_	_	_	_	Gloss=long
@@ -1257,26 +1257,26 @@
 # status = WIP
 1	Ma	ma(r)	_	complémenteur	_	_	_	_	Gloss=si
 2-3	mije	_	_	_	_	_	_	_	Gloss=moi avait
-2	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+2	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 3	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 4-5	gouïet	_	_	adjectif	_	_	_	_	Gloss=s u
 4	gouzout	gouzout	_	verbe	_	_	_	_	Gloss=s
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=u
 6	lar	la(r)	_	complémenteur	_	_	_	_	Gloss=que
-7	a	R	_	SCONJ	Mut=1	_	_	_	Gloss=_
+7	a	R	_	SCONJ|Mut=1	_	_	_	_	Gloss=_
 8	oah	COP	_	AUX	_	_	_	_	Gloss=étiez
-9	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+9	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 10	tond	dont	_	verbe	_	_	_	_	Gloss=venir
 11	,	,	_	PUNCT	_	_	_	_	Gloss=,
 12-13	ma	_	_	_	_	_	_	_	Gloss=moi avait
-12	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+12	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 13	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 14-15	laket	_	_	adjectif	_	_	_	_	Gloss=m is
 14	lakaat	lakaat	_	verbe	_	_	_	_	Gloss=m
 15	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=is
 16-17	'han'h	_	_	_	_	_	_	_	Gloss=vous
 16	a	a	_	préposition	_	_	_	_	Gloss=P
-17	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+17	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 18	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
 19	ma	POSS	_	det	_	_	_	_	Gloss=mon
 20	goetur	goetur	_	v	_	_	_	_	Gloss=voiture
@@ -1294,10 +1294,10 @@
 2	zo	zo	_	verbe	_	_	_	_	Gloss=est
 3	ur	un,ul,ur	_	pro	_	_	_	_	Gloss=un
 4	bugel	bugel	_	nom	_	_	_	_	Gloss=enfant
-5	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+5	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 6	laboura	labourat	_	verbe	_	_	_	_	Gloss=travaille
 7	mat	mat	_	adjectif	_	_	_	_	Gloss=bien
-8-9	e-barzh	_	_	_	baʁ	_	_	_	Gloss=dans le
+8-9	e-barzh	_	_	_|baʁ	_	_	_	_	Gloss=dans le
 8	e-barzh	e-barzh	_	préposition	_	_	_	_	Gloss=dans
 9	an,al,ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -1310,13 +1310,13 @@
 # source = Favereau (1997:§592)
 # status = WIP
 1	Pell	pell	_	adjectif	_	_	_	_	Gloss=loin
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	oa	COP	_	AUX	_	_	_	_	Gloss=était
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	glevemp	klevout	_	verbe	_	_	_	_	Gloss=entendions
 6-7	'nezhoñ	_	_	_	_	_	_	_	Gloss=lui
 6	a	a	_	préposition	_	_	_	_	Gloss=P
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	'	particuleo	_	prep	_	_	_	_	Gloss=à
 9	hediñ	long.-iñ	_	_	_	_	_	_	Gloss=er
 10	ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
@@ -1340,7 +1340,7 @@
 6	-uz	-uz	_	suffixe	_	_	_	_	Gloss=eux
 7	heol	heol	_	nom	_	_	_	_	Gloss=soleil
 8	ebet	ebet	_	quantifieur	_	_	_	_	Gloss=aucun
-9	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+9	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 10	para	parañ	_	verbes	_	_	_	_	Gloss=briller
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -1379,7 +1379,7 @@
 2	'zo	zo	_	AUX	_	_	_	_	Gloss=est
 3	neve' 	nevez-	_	prefixe	_	_	_	_	Gloss=nouveau
 4-5	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-4	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+4	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	ur	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un
 7	pemoc'h	pemoc'h	_	nom	_	_	_	_	Gloss=cochon
@@ -1393,9 +1393,9 @@
 # source = Avezard-Roger (2004a:452)
 # status = WIP
 1	Aze	aze	_	adverbes	_	_	_	_	Gloss=ici
-2	e	e	_	copule	Mut=4	_	_	_	Gloss=_
+2	e	e	_	copule|Mut=4	_	_	_	_	Gloss=_
 3	vije	COP	_	v	_	_	_	_	Gloss=serait
-4-5	tremenet	_	_	adjectif	tremenɛt	_	_	_	Gloss=pass é
+4-5	tremenet	_	_	adjectif|tremenɛt	_	_	_	_	Gloss=pass é
 4	tremen	tremen	_	verbe	_	_	_	_	Gloss=pass
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	forzh	forzh	_	nom	_	_	_	_	Gloss=beaucoup
@@ -1470,7 +1470,7 @@
 8	keñver	keñver	_	verbe	_	_	_	_	Gloss=côté
 9-10	d'e	_	_	_	_	_	_	_	Gloss=de son
 9	da	da	_	préposition	_	_	_	_	Gloss=de
-10	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+10	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 11	señturenn	señturenn	_	v	_	_	_	_	Gloss=ceinture
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -1498,7 +1498,7 @@
 1	Tout	tout	_	quantifieurs	_	_	_	_	Gloss=tout
 2	an	an,al,ar	_	det	_	_	_	_	Gloss=le
 3	dud	tud	_	nom	_	_	_	_	Gloss=gensMut=1Mutchoice=right
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	gas	gas	_	v	_	_	_	_	Gloss=cherche
 6	gwel	gwelout	_	verbe	_	_	_	_	Gloss=voir
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -1531,7 +1531,7 @@
 4	larae	lavarout	_	verbe	_	_	_	_	Gloss=disait
 5-6	dehi	_	_	_	_	_	_	_	Gloss=à elle
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	he	he	_	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
+6	he	he	_	PRON|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=elle
 7	peneus	penaos	_	adverbe	_	_	_	_	Gloss=que
 8	"ah	interjection	_	interjection	_	_	_	_	Gloss=ah
 9	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -1587,7 +1587,7 @@
 7	bleiz	bleiz	_	nom	_	_	_	_	Gloss=loup
 8	-i	-i(PL.)	_	suffixe	_	_	_	_	Gloss=s
 9	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
-10	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+10	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 11	blass	plas	_	nom	_	_	_	_	Gloss=place
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -1615,8 +1615,8 @@
 1	Klevet	entend.-et(Adj.)	_	nc	_	_	_	_	Gloss=u
 2-3	'm	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	kaout	kaout	_	v	Person=1	_	_	_	Gloss=avait
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
+4	kaout	kaout	_	v|Person=1	_	_	_	_	Gloss=avait
 5	peneus	penaos	_	adverbe	_	_	_	_	Gloss=que
 6	'	R	_	verbe	_	_	_	_	Gloss=_
 7	oa	eo	_	AUX	_	_	_	_	Gloss=était
@@ -1636,7 +1636,7 @@
 4	henn'zh	DEM	_	_	_	_	_	_	Gloss=celui là
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	pezh	arpezh	_	_	_	_	_	_	Gloss=ceque
-7	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+7	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 8	gari	karout	_	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -1653,7 +1653,7 @@
 4-6	pezhani	_	_	verbe	_	_	_	_	Gloss=quel ceux _
 4	pe-	pe-	_	prefixe	_	_	_	_	Gloss=quel
 5	hini	hini	_	nom	_	_	_	_	Gloss=ceux
-6	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+6	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 7	garoñ	karout	_	verbe	_	_	_	_	Gloss=aime
 8	parfed	_	_	_	_	_	_	_	Gloss=_
 
@@ -1692,7 +1692,7 @@
 5	koumouluz	nuag.-uz	_	pro	_	_	_	_	Gloss=eux
 6	heol	heol	_	nom	_	_	_	_	Gloss=soleil
 7	ebet	ebet	_	quantifieur	_	_	_	_	Gloss=aucun
-8	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+8	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 9	para	parañ	_	verbes	_	_	_	_	Gloss=briller
 10	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -1733,7 +1733,7 @@
 10	paour	paour	_	adjectif	_	_	_	_	Gloss=pauvr|Mut=1|Mutchoice=right
 11	-entez	-entez	_	suffixe	_	_	_	_	Gloss=eté
 12	dindan	dindan	_	préposition	_	_	_	_	Gloss=sous
-13	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+13	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 14-15	zreid 	_	_	nom	_	_	_	_	Gloss=pied s
 14	troad	troad	_	nom	_	_	_	_	Gloss=pied
 15	plurielinterne	plurielinterne	_	pluriel	_	_	_	_	Gloss=s
@@ -1774,7 +1774,7 @@
 1	Anez	anez	_	préposition	_	_	_	_	Gloss=sans
 2-3	am	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 4	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 5	true	truez	_	nom	_	_	_	_	Gloss=pitié
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -1832,7 +1832,7 @@
 5	krabanou	paluche-où(PL.)	_	nc	_	_	_	_	Gloss=s
 6	hezh	hennezh	_	déterminant	_	_	_	_	Gloss=celui-là
 7	beñ	beñ	_	interjection	_	_	_	_	Gloss=ben
-8	heñ	pfi	_	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+8	heñ	pfi	_	pronoms|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 9-10	n'a	_	_	_	_	_	_	_	Gloss=ne va
 9	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 10	mont	mont	_	verbe	_	_	_	_	Gloss=va
@@ -1840,7 +1840,7 @@
 12	pell	pell	_	adjectif	_	_	_	_	Gloss=loin
 13-14	nahoñ	_	_	_	_	_	_	_	Gloss=lui
 13	a	a	_	préposition	_	_	_	_	Gloss=P
-14	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+14	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 15	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Avezard-Roger(2004a:258)__101
@@ -1851,8 +1851,8 @@
 # source = Avezard-Roger (2004a:258)
 # status = WIP
 1	C'hoant	c'hoant	_	nom	_	_	_	_	Gloss=envie
-2-3	meus	_	_	_	møs	_	_	_	Gloss=moi a
-2	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+2-3	meus	_	_	_|møs	_	_	_	_	Gloss=moi a
+2	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 3	eus	kaout	_	verbe	_	_	_	_	Gloss=a
 4	lar teuio	que dont	_	v	_	_	_	_	Gloss=viendra
 5	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -1865,7 +1865,7 @@
 # source = Favereau (1984:439)
 # status = WIP
 1	Kompen	kompren	_	verbe	_	_	_	_	Gloss=comprendre
-2	a	R	_	SCONJ	Mut=1	_	_	_	Gloss=_
+2	a	R	_	SCONJ|Mut=1	_	_	_	_	Gloss=_
 3	raoñ	ober	_	verbe	_	_	_	_	Gloss=fais
 4	la	la	_	complémenteur	_	_	_	_	Gloss=que
 5	out	COP	_	AUX	_	_	_	_	Gloss=es
@@ -1904,9 +1904,9 @@
 2	vont	mont	_	verbe	_	_	_	_	Gloss=aller
 3	da	da	_	préposition	_	_	_	_	Gloss=à
 4	lâret	lâret	_	v	_	_	_	_	Gloss=dire
-5-6	din	_	_	_	tén	_	_	_	Gloss=à moi
+5-6	din	_	_	_|tén	_	_	_	_	Gloss=à moi
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 
 # sent_id = Favereau(1997:§200)__105
 # text =  ken  koant  { 'giz / 'vel }  d'ar  rozenn  gaera
@@ -1968,9 +1968,9 @@
 2	vont	mont	_	verbe	_	_	_	_	Gloss=aller
 3	da	da	_	préposition	_	_	_	_	Gloss=à
 4	lâret	lavarout	_	verbe	_	_	_	_	Gloss=dire
-5-6	din	_	_	_	tén	_	_	_	Gloss=à moi
+5-6	din	_	_	_|tén	_	_	_	_	Gloss=à moi
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 
 # sent_id = Favereau(1984:392)__109
 # text =  ar  chô  gwenn   tri  gi  gantoñ.
@@ -1986,7 +1986,7 @@
 5	gi	ki	_	nom	_	_	_	_	Gloss=chien
 6-7	gantoñ	_	_	_	_	_	_	_	Gloss=avec lui
 6	gant	gant	_	préposition	_	_	_	_	Gloss=avec
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1984:370)__110
@@ -2022,7 +2022,7 @@
 # location = Poullaouen
 # source = Favereau (1984:438)
 # status = WIP
-1	kaout	kaout	_	v	Person=2	_	_	_	Gloss=aura
+1	kaout	kaout	_	v|Person=2	_	_	_	_	Gloss=aura
 2	ke'	ket	_	adverbe	_	_	_	_	Gloss=pas
 3	me'	met	_	conjonction	_	_	_	_	Gloss=mais
 4	selled	sellout	_	verbe	_	_	_	_	Gloss=voir
@@ -2045,7 +2045,7 @@
 # source = Favereau (1984:439)
 # status = WIP
 1	Kompen	kompren	_	verbe	_	_	_	_	Gloss=comprendre
-2	a	R	_	SCONJ	Mut=1	_	_	_	Gloss=_
+2	a	R	_	SCONJ|Mut=1	_	_	_	_	Gloss=_
 3	raoñ	ober	_	verbe	_	_	_	_	Gloss=fais
 4	la	la(r)	_	complémenteur	_	_	_	_	Gloss=que
 5	out	COP	_	AUX	_	_	_	_	Gloss=es
@@ -2083,7 +2083,7 @@
 3	e	P.e	_	préposition	_	_	_	_	Gloss=en
 4	lec'h	lec'h	_	nom	_	_	_	_	Gloss=lieu
 5-6	me	_	_	_	_	_	_	_	Gloss=moi ne
-5	pfi	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5	pfi	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 6	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 7	reen	ober	_	verbe	_	_	_	_	Gloss=faisais
 8	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
@@ -2104,7 +2104,7 @@
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	pet'a	petra	_	pronom	_	_	_	_	Gloss=quoi
 7-8	mije	_	_	_	_	_	_	_	Gloss=moi aurait
-7	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+7	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 8	eus	kaout	_	verbe	_	_	_	_	Gloss=aurait
 9-10	gwelet 	_	_	adjectif	_	_	_	_	Gloss=v u
 9	gwelout	gwelout	_	verbe	_	_	_	_	Gloss=v
@@ -2122,13 +2122,13 @@
 2-3	lavar	_	_	adjectif	_	_	_	_	Gloss=d it
 2	lavarout	lavarout	_	verbe	_	_	_	_	Gloss=d
 3	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=it
-4	e	e	_	SCONJ	Mut=4	_	_	_	Gloss=_
+4	e	e	_	SCONJ|Mut=4	_	_	_	_	Gloss=_
 5	tiskouezo	diskouez	_	verbe	_	_	_	_	Gloss=montrera
-6	e	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	e	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	di	ti	_	nom	_	_	_	_	Gloss=maison
 8-9	deoc'h	_	_	_	_	_	_	_	Gloss=à vous
 8	da	da	_	préposition	_	_	_	_	Gloss=à
-9	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+9	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 10	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1984:441)__118
@@ -2176,7 +2176,7 @@
 3	deir	teir	_	nom	_	_	_	_	Gloss=trois
 4-5	mecher	_	_	verbe	_	_	_	_	Gloss=métier _
 4	micher	micher	_	nom	_	_	_	_	Gloss=métier
-5	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+5	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 6	rae	ober	_	verbe	_	_	_	_	Gloss=faisait
 7	ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
 8-9	vigwale	_	_	nom	_	_	_	_	Gloss=enfant s
@@ -2198,7 +2198,7 @@
 5	gi	ki	_	nom	_	_	_	_	Gloss=chien
 6-7	gantoñ	_	_	_	_	_	_	_	Gloss=avec lui
 6	gant	gant	_	préposition	_	_	_	_	Gloss=avec
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1984:441)__122
@@ -2233,7 +2233,7 @@
 4-5	zac'had	_	_	nom	_	_	_	_	Gloss=sach ée
 4	sac'h	sac'h	_	nom	_	_	_	_	Gloss=sach
 5	-ad	-ad	_	suffixe	_	_	_	_	Gloss=ée
-6	brenn	brenn	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	brenn	brenn	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	,	,	_	PUNCT	_	_	_	_	Gloss=,
 8	-te 	te	_	nom	_	_	_	_	Gloss=toi!
 9	?	?	_	PUNCT	_	_	_	_	Gloss=?
@@ -2368,11 +2368,11 @@
 # source = Favereau (1997:§443)
 # status = WIP
 1	pa	pa	_	complémenteur	_	_	_	_	Gloss=puisque
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	zo	zo	_	AUX	_	_	_	_	Gloss=est
 4	neve'	nevez-	_	prefixe	_	_	_	_	Gloss=nouveau
 5-6	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-5	Lazhañ	Lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+5	Lazhañ	Lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 6	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 7	ur	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un
 8	pemoc'h	pemoc'h	_	nom	_	_	_	_	Gloss=cochon
@@ -2510,7 +2510,7 @@
 6	-uz	-uz	_	suffixe	_	_	_	_	Gloss=eux
 7	heol	heol	_	nom	_	_	_	_	Gloss=soleil
 8	ebet	ebet	_	quantifieur	_	_	_	_	Gloss=aucun
-9	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+9	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 10	para	parañ	_	verbes	_	_	_	_	Gloss=briller
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -2524,7 +2524,7 @@
 1	faot	faotañ	_	verbe	_	_	_	_	Gloss=faut
 2	ket	ket	_	adverbe	_	_	_	_	Gloss=pas
 3	lavar	lavarout	_	verbe	_	_	_	_	Gloss=dire
-4-5	gevier	_	_	nom	la:ɤ gɛj<sup>ə</sup>ɤ	_	_	_	Gloss=mensonge s
+4-5	gevier	_	_	nom|la:ɤ gɛj<sup>ə</sup>ɤ	_	_	_	_	Gloss=mensonge s
 4	gaou	gaou	_	nom	_	_	_	_	Gloss=mensonge
 5	plurielinterne	plurielinterne	_	pluriel	_	_	_	_	Gloss=s
 6	kar	rak	_	préposition	_	_	_	_	Gloss=car
@@ -2600,7 +2600,7 @@
 8	kenver	kenver	_	verbe	_	_	_	_	Gloss=côté
 9-10	d'e	_	_	_	_	_	_	_	Gloss=de son
 9	da	da	_	préposition	_	_	_	_	Gloss=de
-10	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+10	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 11	señturenn	señturenn	_	v	_	_	_	_	Gloss=ceinture
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -2615,7 +2615,7 @@
 2	'zo	ezeus	_	nc	_	_	_	_	Gloss=est
 3	neve'	nevez-	_	prefixe	_	_	_	_	Gloss=nouveau
 4-5	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-4	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+4	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	ur	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un
 7	pemoc'h	pemoc'h	_	nom	_	_	_	_	Gloss=cochon
@@ -2638,7 +2638,7 @@
 6	-uz	-uz	_	suffixe	_	_	_	_	Gloss=eux
 7	heol	heol	_	nom	_	_	_	_	Gloss=soleil
 8	ebet	ebet	_	quantifieur	_	_	_	_	Gloss=aucun
-9	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
+9	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=à
 10	para	para	_	v	_	_	_	_	Gloss=briller
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -2650,7 +2650,7 @@
 # source = Wmffre (1998:36)
 # status = WIP
 1	pa	pa	_	complémenteur	_	_	_	_	Gloss=quand
-2-3	vezer	_	_	_	vɛɤ	_	_	_	Gloss=on est
+2-3	vezer	_	_	_|vɛɤ	_	_	_	_	Gloss=on est
 2	vez	vez	_	verbe	_	_	_	_	Gloss=est
 3	IMP	IMP	_	cln	_	_	_	_	Gloss=on
 4	labourat	labourat	_	verbe	_	_	_	_	Gloss=travailler
@@ -2677,7 +2677,7 @@
 # source = Favereau (1984:400)
 # status = WIP
 1	Lak	lakaat	_	verbe	_	_	_	_	Gloss=mettre
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	ri	ober	_	verbe	_	_	_	_	Gloss=feras
 4-6	pedraig	_	_	_	_	_	_	_	Gloss=quel de chose
 4	pe-	pe-	_	prefixe	_	_	_	_	Gloss=quel
@@ -2715,14 +2715,14 @@
 4	hini	hini	_	nom	_	_	_	_	Gloss=celui
 5-7	'ma	_	_	_	_	_	_	_	Gloss=_ moi avait
 5	R	R	_	SCONJ	_	_	_	_	Gloss=_
-6	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 8-9	reit	_	_	adjectif	_	_	_	_	Gloss=donn é
 8	reiñ	reiñ	_	verbe	_	_	_	_	Gloss=donn
 9	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 10-11	tit	_	_	_	_	_	_	_	Gloss=à toi
 10	da	da	_	préposition	_	_	_	_	Gloss=à
-11	te	te	_	nom	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
+11	te	te	_	nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=toi
 12	bremañ	bremañ	_	adverbe	_	_	_	_	Gloss=maintenant
 13	zo	zo	_	AUX	_	_	_	_	Gloss=est
 14	seizh	seizh	_	quantifieurs	_	_	_	_	Gloss=sept
@@ -2760,7 +2760,7 @@
 4-6	deuzouzon	_	_	_	_	_	_	_	Gloss=de de moi
 4	deus	deus	_	préposition	_	_	_	_	Gloss=de
 5	ouzh	ouzh	_	préposition	_	_	_	_	Gloss=de
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	trubuill	trubuilh	_	nom	_	_	_	_	Gloss=anxiété
 8	hag	&	_	conjonction	_	_	_	_	Gloss=et
 9	enkrezo	_	_	_	_	_	_	_	Gloss=_
@@ -2778,8 +2778,8 @@
 2	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=u
 3-4	'm	_	_	_	_	_	_	_	Gloss=_ moi
 3	R	R	_	SCONJ	_	_	_	_	Gloss=_
-4	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	kaout	kaout	_	v	Person=1	_	_	_	Gloss=avait
+4	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
+5	kaout	kaout	_	v|Person=1	_	_	_	_	Gloss=avait
 6	peneus	peneus	_	pri	_	_	_	_	Gloss=que
 7	'	R	_	verbe	_	_	_	_	Gloss=_
 8	oa	eo	_	AUX	_	_	_	_	Gloss=était
@@ -2816,7 +2816,7 @@
 4	larae	lavarout	_	verbe	_	_	_	_	Gloss=disait
 5-6	dehi	_	_	_	_	_	_	_	Gloss=à elle
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	he	he	_	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
+6	he	he	_	PRON|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=elle
 7	peneus	peneus	_	_	_	_	_	_	Gloss=que/comment
 8	"ah	interjection	_	interjection	_	_	_	_	Gloss=ah
 9	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -2899,7 +2899,7 @@
 7	bleiz	bleiz	_	nom	_	_	_	_	Gloss=loup
 8	-i	-i(PL.)	_	suffixe	_	_	_	_	Gloss=s
 9	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
-10	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+10	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 11	blass	blass	_	v	_	_	_	_	Gloss=place
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -2956,7 +2956,7 @@
 7	bleiz	bleiz	_	nom	_	_	_	_	Gloss=loup
 8	-i	-i(PL.)	_	suffixe	_	_	_	_	Gloss=s
 9	ba	e-barzh	_	préposition	_	_	_	_	Gloss=dans
-10	o	int	_	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=leur
+10	o	int	_	PRON|Number=Plur|Person=3|PronType=Prs	_	_	_	_	Gloss=leur
 11	blass	plas	_	nom	_	_	_	_	Gloss=place
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -2976,7 +2976,7 @@
 6	pet'a	petra	_	pronom	_	_	_	_	Gloss=quoi
 7-9	mije	_	_	_	_	_	_	_	Gloss=_ moi aurait
 7	R	R	_	SCONJ	_	_	_	_	Gloss=_
-8	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+8	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 9	eus	kaout	_	verbe	_	_	_	_	Gloss=aurait
 10-11	gwelet 	_	_	adjectif	_	_	_	_	Gloss=v u
 10	gwelout	gwelout	_	verbe	_	_	_	_	Gloss=v
@@ -3018,7 +3018,7 @@
 # source = Favereau (1984:376)
 # status = WIP
 1	Don'	dont	_	verbe	_	_	_	_	Gloss=venir
-2	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	rae	ober	_	verbe	_	_	_	_	Gloss=faisait
 4-5	forzhig	_	_	_	_	_	_	_	Gloss=petit beaucoup
 4	forzh	forzh	_	nom	_	_	_	_	Gloss=beaucoup
@@ -3026,7 +3026,7 @@
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
 7	ya	ya	_	interjection	_	_	_	_	Gloss=oui
 8	;	;	_	PUNCT	_	_	_	_	Gloss=;
-9	hehi	hehi	_	pro	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
+9	hehi	hehi	_	pro|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=elle
 10-11	n'ae	_	_	_	_	_	_	_	Gloss=ne allait
 10	ne	ne	_	complémenteur	_	_	_	_	Gloss=ne
 11	mont	mont	_	verbe	_	_	_	_	Gloss=allait
@@ -3045,9 +3045,9 @@
 3	vont	mont	_	verbe	_	_	_	_	Gloss=aller
 4	da	da	_	préposition	_	_	_	_	Gloss=à
 5	lâret	lavar	_	nom	_	_	_	_	Gloss=dire
-6-7	din	_	_	_	tén	_	_	_	Gloss=à moi
+6-7	din	_	_	_|tén	_	_	_	_	Gloss=à moi
 6	da	da	_	préposition	_	_	_	_	Gloss=à
-7	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+7	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 
 # sent_id = Favereau(1984:438)__168
 # text = …  pigwir  oa  on den  re-vras.
@@ -3077,14 +3077,14 @@
 3	heni	hini	_	nom	_	_	_	_	Gloss=celui
 4-5	'nihe	_	_	_	_	_	_	_	Gloss=_ aurait
 4	R	R	_	SCONJ	_	_	_	_	Gloss=_
-5	kaout	kaout	_	v	Person=3	_	_	_	Gloss=aurait
+5	kaout	kaout	_	v|Person=3	_	_	_	_	Gloss=aurait
 6	ràet	donn.-et(Adj.)	_	_	_	_	_	_	Gloss=é
 7	on dra	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un  chose
 8-9	d'ar	_	_	_	_	_	_	_	Gloss=pour le
 8	da	da	_	préposition	_	_	_	_	Gloss=pour
 9	an,al,ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
 10	zant	sant	_	nom	_	_	_	_	Gloss=saint
-11	kaout	kaout	_	v	Person=3	_	_	_	Gloss=aurait
+11	kaout	kaout	_	v|Person=3	_	_	_	_	Gloss=aurait
 12	eus	kaout	_	verbe	_	_	_	_	Gloss=eu
 13	tri	tri	_	nom	_	_	_	_	Gloss=trois
 14	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -3168,7 +3168,7 @@
 4	henn'zh	DEM	_	_	_	_	_	_	Gloss=celui là
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6	pezh	arpezh	_	_	_	_	_	_	Gloss=ceque
-7	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+7	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 8	gari	karout	_	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -3179,7 +3179,7 @@
 # location = Loqueffret
 # source = Solliec (2015:75)
 # status = WIP
-1	Me	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+1	Me	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 2	joñj	soñjal	_	verbe	_	_	_	_	Gloss=pense
 3	'	ne	_	complémenteur	_	_	_	_	Gloss=ne
 4	m'on	emañ	_	verbe	_	_	_	_	Gloss=suis
@@ -3187,7 +3187,7 @@
 6	mat	mat	_	adjectif	_	_	_	_	Gloss=bien
 7-8	 'noñ	_	_	_	_	_	_	_	Gloss=moi
 7	a	a	_	préposition	_	_	_	_	Gloss=P
-8	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+8	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 9	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Solliec(2015:75)__176
@@ -3197,14 +3197,14 @@
 # location = Loqueffret
 # source = Solliec (2015:75)
 # status = WIP
-1	Me	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+1	Me	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 2	joñj	soñjal	_	verbe	_	_	_	_	Gloss=pense
 3	'm'on	emañ	_	verbe	_	_	_	_	Gloss=suis
 4	ke	ket	_	adverbe	_	_	_	_	Gloss=pas
 5	mat	mat	_	adjectif	_	_	_	_	Gloss=bien
 6-7	 'noñ	_	_	_	_	_	_	_	Gloss=moi
 6	a	a	_	préposition	_	_	_	_	Gloss=P
-7	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+7	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = LeGarrec(1901:64)__177
@@ -3231,7 +3231,7 @@
 1	Anez	anez	_	préposition	_	_	_	_	Gloss=sans
 2-3	am	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 4	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 5	true	truez	_	nom	_	_	_	_	Gloss=pitié
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -3251,13 +3251,13 @@
 # source = Favereau (1997:§592)
 # status = WIP
 1	Pell	pell	_	adjectif	_	_	_	_	Gloss=loin
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	oa	COP	_	AUX	_	_	_	_	Gloss=était
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	glevemp	klevout	_	verbe	_	_	_	_	Gloss=entendions
 6-7	'nezhoñ	_	_	_	_	_	_	_	Gloss=lui
 6	a	a	_	préposition	_	_	_	_	Gloss=P
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	'	particuleo	_	prep	_	_	_	_	Gloss=à
 9-10	hediñ	_	_	_	_	_	_	_	Gloss=long er
 9	hed	hed	_	nom	_	_	_	_	Gloss=long
@@ -3276,7 +3276,7 @@
 1	Anez	anez	_	préposition	_	_	_	_	Gloss=sans
 2-3	am	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 4	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 5	true	truez	_	nom	_	_	_	_	Gloss=pitié
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -3298,10 +3298,10 @@
 1	Yann	nompropre	_	nom	_	_	_	_	Gloss=Yann
 2	zo	zo	_	verbe	_	_	_	_	Gloss=est
 3	bugel	bugel	_	nom	_	_	_	_	Gloss=enfant
-4	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	laboura	labourat	_	verbe	_	_	_	_	Gloss=travaille
 6	mat	mat	_	adjectif	_	_	_	_	Gloss=bien
-7-8	e-barzh	_	_	_	baʁ	_	_	_	Gloss=dans le
+7-8	e-barzh	_	_	_|baʁ	_	_	_	_	Gloss=dans le
 7	e-barzh	e-barzh	_	préposition	_	_	_	_	Gloss=dans
 8	an,al,ar	an,al,ar	_	défini	_	_	_	_	Gloss=le
 10	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -3351,7 +3351,7 @@
 3	vize	vez	_	verbe	_	_	_	_	Gloss=serait
 4-5	dac'h	_	_	_	_	_	_	_	Gloss=à vous
 4	da	da	_	préposition	_	_	_	_	Gloss=à
-5	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+5	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 6	bout	bezañ	_	verbe	_	_	_	_	Gloss=être
 7-8	refuzet	_	_	adjectif	_	_	_	_	Gloss=refus é
 7	refuziñ	refuziñ	_	nc	_	_	_	_	Gloss=refus
@@ -3372,14 +3372,14 @@
 4	oa	eo	_	AUX	_	_	_	_	Gloss=était
 5-6	din	_	_	_	_	_	_	_	Gloss=à moi
 5	da	da	_	préposition	_	_	_	_	Gloss=à
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	bezañ	bezañ	_	verbe	_	_	_	_	Gloss=être
 8-9	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-8	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+8	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 9	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 10-11	anezhañ	_	_	_	_	_	_	_	Gloss=lui
 10	a	a	_	préposition	_	_	_	_	Gloss=P
-11	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+11	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 12	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Avezard-Roger(2004a:119)__186
@@ -3462,9 +3462,9 @@
 4-5	zac'had	_	_	nom	_	_	_	_	Gloss=sach ée
 4	sac'h	sac'h	_	nom	_	_	_	_	Gloss=sach
 5	-ad	-ad	_	suffixe	_	_	_	_	Gloss=ée
-6	brenn	brenn	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	brenn	brenn	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	,	,	_	PUNCT	_	_	_	_	Gloss=,
-8	-te 	-te 	_	suffixe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
+8	-te 	-te 	_	suffixe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=toi
 9	?	?	_	PUNCT	_	_	_	_	Gloss=?
 
 # sent_id = LeGarrec(1901:60)__191
@@ -3480,7 +3480,7 @@
 3	mat	mat	_	adjectif	_	_	_	_	Gloss=bon
 4	war eon	war-eeun	_	préposition	_	_	_	_	Gloss=sur-droit
 5	beteg	betek	_	préposition	_	_	_	_	Gloss=jusque
-6	e	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	e	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	di	di	_	adverbe	_	_	_	_	Gloss=maison
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -3491,8 +3491,8 @@
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901:32)
 # status = WIP
-1	Me	pfi	_	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+1	Me	pfi	_	pronoms|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
+2	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	zônfe	seniñ	_	verbe	_	_	_	_	Gloss=sonnerais
 4	da	da	_	préposition	_	_	_	_	Gloss=pour
 5	Fanch	nompropre	_	nom	_	_	_	_	Gloss=Fanch
@@ -3500,7 +3500,7 @@
 7	timad	timad	_	adv	_	_	_	_	Gloss=promptement
 8-9	d'e	_	_	_	_	_	_	_	Gloss=à son
 8	da	da	_	préposition	_	_	_	_	Gloss=à
-9	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+9	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 10	goan	koan	_	nom	_	_	_	_	Gloss=souper
 11	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -3515,7 +3515,7 @@
 2	timad	vitesse.mat	_	nc	_	_	_	_	Gloss=bon
 3	war eon	war-eeun	_	préposition	_	_	_	_	Gloss=tout-droit
 4	beteg	betek	_	préposition	_	_	_	_	Gloss=jusque
-5	e	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+5	e	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 6	di	ti	_	nom	_	_	_	_	Gloss=maison
 7	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -3527,7 +3527,7 @@
 # source = Favereau (1984:298)
 # status = WIP
 1-2	i-heun	_	_	_	_	_	_	_	Gloss=son un
-1	POSS	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+1	POSS	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 2	unan	unan	_	adjectifs	_	_	_	_	Gloss=un
 3	'vel	evel	_	préposition	_	_	_	_	Gloss=comme
 4	or	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un
@@ -3547,7 +3547,7 @@
 4-6	deuzouzon	_	_	_	_	_	_	_	Gloss=de de moi
 4	deus	deus	_	préposition	_	_	_	_	Gloss=de
 5	ouzh	ouzh	_	préposition	_	_	_	_	Gloss=de
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	trubuill	trubuill	_	nc	_	_	_	_	Gloss=anxiété
 8	hag	&	_	conjonction	_	_	_	_	Gloss=et
 9-10	enkrezo	_	_	nom	_	_	_	_	Gloss=angoisse s
@@ -3565,7 +3565,7 @@
 1	Anez	anez	_	préposition	_	_	_	_	Gloss=sans
 2-3	am	_	_	_	_	_	_	_	Gloss=_ moi
 2	R	R	_	SCONJ	_	_	_	_	Gloss=_
-3	-m	me	_	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+3	-m	me	_	PRON|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 4	eus	kaout	_	verbe	_	_	_	_	Gloss=avait
 5	true	true	_	ncpred	_	_	_	_	Gloss=pitié
 6	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -3588,7 +3588,7 @@
 2	mad	mat	_	adjectif	_	_	_	_	Gloss=bon
 3-4	d'id	_	_	_	_	_	_	_	Gloss=à toi
 3	da	da	_	préposition	_	_	_	_	Gloss=à
-4	te	te	_	nom	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
+4	te	te	_	nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=toi
 5	,	,	_	PUNCT	_	_	_	_	Gloss=,
 6-7	Fanchik 	_	_	_	_	_	_	_	Gloss=petit Fanch
 6	nompropre	nompropre	_	nom	_	_	_	_	Gloss=Fanch
@@ -3596,7 +3596,7 @@
 8	!	!	_	PUNCT	_	_	_	_	Gloss=!
 9-10	d'ec'h	_	_	_	_	_	_	_	Gloss=à vous
 9	da	da	_	préposition	_	_	_	_	Gloss=à
-10	c’hwi	c’hwi	_	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
+10	c’hwi	c’hwi	_	pro|Number=Plur|Person=2|PronType=Prs	_	_	_	_	Gloss=vous
 11	,	,	_	PUNCT	_	_	_	_	Gloss=,
 12	itron	itron	_	nom	_	_	_	_	Gloss=madame
 13	,	,	_	PUNCT	_	_	_	_	Gloss=,
@@ -3615,7 +3615,7 @@
 # source = Le Garrec (1901:18, 19)
 # status = WIP
 1	Diskwez	diskouez	_	verbe	_	_	_	_	Gloss=montrer
-2	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	ret	ober	_	verbe	_	_	_	_	Gloss=faites
 4	,	,	_	PUNCT	_	_	_	_	Gloss=,
 5	Kaour-Vraz	nompropre	_	nom	_	_	_	_	Gloss=Caour-Vraz
@@ -3634,7 +3634,7 @@
 1	Lak'	lakaat	_	verbe	_	_	_	_	Gloss=mets
 2-3	'neoñ	_	_	_	_	_	_	_	Gloss=lui
 2	a	a	_	préposition	_	_	_	_	Gloss=P
-3	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+3	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 4	beke	beke	_	complémenteur	_	_	_	_	Gloss=puisque
 5	 'moc'h	emañ	_	verbe	_	_	_	_	Gloss=êtes
 6	'	particuleo	_	prep	_	_	_	_	Gloss=à
@@ -3651,7 +3651,7 @@
 1	Tout	tout	_	quantifieurs	_	_	_	_	Gloss=tout
 2	an	an,al,ar	_	det	_	_	_	_	Gloss=le
 3	dud	tud	_	nom	_	_	_	_	Gloss=gensMut=1Mutchoice=right
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	gas	kas	_	verbe	_	_	_	_	Gloss=cherche
 6	gwel	gwelout	_	verbe	_	_	_	_	Gloss=voir
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
@@ -3679,7 +3679,7 @@
 # source = Favereau (1984:444)
 # status = WIP
 1	Sevel	sevel	_	verbe	_	_	_	_	Gloss=lever
-2	a	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	a	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	rae	ober	_	verbe	_	_	_	_	Gloss=faisait
 4	an	an,al,ar	_	défini	_	_	_	_	Gloss=le
 5	dud	tud	_	nom	_	_	_	_	Gloss=gens
@@ -3726,13 +3726,13 @@
 # source = Favereau (1997:§592)
 # status = WIP
 1	Pell	pell	_	adjectif	_	_	_	_	Gloss=loin
-2	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+2	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 3	oa	eo	_	AUX	_	_	_	_	Gloss=était
-4	'	a	_	préposition	Mut=1	_	_	_	Gloss=_
+4	'	a	_	préposition|Mut=1	_	_	_	_	Gloss=_
 5	glevemp	klevout	_	verbe	_	_	_	_	Gloss=entendions
 6-7	'nezhoñ	_	_	_	_	_	_	_	Gloss=lui
 6	a	a	_	préposition	_	_	_	_	Gloss=P
-7	añ	eñ	_	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+7	añ	eñ	_	pronom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=lui
 8	'	particuleo	_	prep	_	_	_	_	Gloss=à
 9-10	hediñ	_	_	_	_	_	_	_	Gloss=long er
 9	hed	hed	_	nom	_	_	_	_	Gloss=long
@@ -3755,7 +3755,7 @@
 4	deuz	deus	_	préposition	_	_	_	_	Gloss=de
 5-6	ouzon	_	_	_	_	_	_	_	Gloss=de moi
 5	ouzh	ouzh	_	préposition	_	_	_	_	Gloss=de
-6	me	me	_	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	me	me	_	pro|Number=Sing|Person=1|PronType=Prs	_	_	_	_	Gloss=moi
 7	trubuill	trubuilh	_	nom	_	_	_	_	Gloss=anxiété
 8	hag	&	_	conjonction	_	_	_	_	Gloss=et
 9-10	enkrezo	_	_	nom	_	_	_	_	Gloss=angoisse s
@@ -3797,7 +3797,7 @@
 4-5	zac'had	_	_	nom	_	_	_	_	Gloss=sach ée
 4	sac'h	sac'h	_	nom	_	_	_	_	Gloss=sach
 5	-ad	-ad	_	suffixe	_	_	_	_	Gloss=ée
-6	brenn	brenn	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	brenn	brenn	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	,	,	_	PUNCT	_	_	_	_	Gloss=,
 8	-te ?	te!	_	_	_	_	_	_	Gloss=toi!
 10	?	?	_	PUNCT	_	_	_	_	gloss=?
@@ -3815,7 +3815,7 @@
 3	mat	mat	_	adjectif	_	_	_	_	Gloss=bon
 4	war eon	war eon	_	_	_	_	_	_	Gloss=sur-droit
 5	beteg	betek	_	préposition	_	_	_	_	Gloss=jusque
-6	e	POSS	_	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+6	e	POSS	_	nc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	Gloss=son
 7	di	ti	_	nom	_	_	_	_	Gloss=maison
 8	.	.	_	PUNCT	_	_	_	_	Gloss=.
 
@@ -3830,7 +3830,7 @@
 2	'zo	ezeus	_	nc	_	_	_	_	Gloss=est
 3	neve'	nevez-	_	prefixe	_	_	_	_	Gloss=nouveau
 4-5	la'het	_	_	adjectif	_	_	_	_	Gloss=tu é
-4	lazhañ	lazhañ	_	verbe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=tu
+4	lazhañ	lazhañ	_	verbe|Number=Sing|Person=2|PronType=Prs	_	_	_	_	Gloss=tu
 5	-et	-et(Adj.)	_	suffixe	_	_	_	_	Gloss=é
 6	ur	un,ul,ur	_	indéfini	_	_	_	_	Gloss=un
 7	pemoc'h	pemoc'h	_	nom	_	_	_	_	Gloss=cochon
