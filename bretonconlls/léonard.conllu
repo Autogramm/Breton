@@ -7949,13 +7949,13 @@
 
 # sent_id = Briant-Cadiou(1998:8)__346
 # text =  Anez  e  helled  toulla  ha  sklabeza  al lard  a  oa  outo.
-# text_fr = 'Sans ça on pouvait les trouer et salir le lard sur eux (les boyaux).'
+# text_fr = 'Sans ça on pouvait les trouer et salir leur lard.' (les boyaux)
 # dialect = Léonard
 # location = Plouzane
 # source = Briant-Cadiou (1998:8)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Briant-Cadiou_(1998)
-# wiki_annotation = title:Briant-Cadiou (1998);contexte:None;phonetic:None;text:|| Anez || e || helled || toulla || ha || sklabeza || al lard || a || oa || outo.;gloss:None;standardise:None;lemgloss:|| [[anez|sans]] (ça) || [[R]]<sup>[[4]]</sup> || [[gallout|pouvait]].[[IMP|on]] || [[toullañ|trouer]] || [[&|et]] || [[sklabezañ|salir]] || [[an, al, ar|le]] [[lard|lard]] || [[R]]<sup>[[1]]</sup> || [[eo|était]] || [[ouzh|sur]].[[pronom incorporé|eux]];translation:'Sans ça on pouvait les trouer et salir le lard sur eux (les boyaux).';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:8);category:Léonard (Plouzane);source:Briant-Cadiou (1998:8);link:https://arbres.iker.cnrs.fr/index.php?title=Briant-Cadiou_(1998)
+# wiki_annotation = title:Briant-Cadiou (1998);contexte:None;phonetic:None;text:|| Anez || e || helled || toulla || ha || sklabeza || al lard || a || oa || outo.;gloss:None;standardise:None;lemgloss:|| [[anez|sans]] (ça) || [[R]]<sup>[[4]]</sup> || [[gallout|pouvait]].[[IMP|on]] || [[toullañ|trouer]] || [[&|et]] || [[sklabezañ|salir]] || [[an, al, ar|le]] [[lard|lard]] || [[R]]<sup>[[1]]</sup> || [[eo|était]] || [[ouzh|sur]].[[pronom incorporé|eux]];translation:'Sans ça on pouvait les trouer et salir leur lard.' (les boyaux);agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:8);category:Léonard (Plouzane);source:Briant-Cadiou (1998:8);link:https://arbres.iker.cnrs.fr/index.php?title=Briant-Cadiou_(1998)
 1	Anez	anez	ADP	préposition	_	_	_	_	Gloss=sans  (ça)
 2	e	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 3-4	helled	_	_	_	_	_	_	_	_
@@ -9217,14 +9217,14 @@
 17	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Seite(1998:50)__399
-# text =  Ne  jom  anezi  nemed  he  hloh  Maria Pia  hag a  heller  gweled ().
-# text_fr = 'Il ne reste d'elle que sa cloche Maria Pia que l'on peut voir ().'
+# text =  Ne  jom  anezi  nemed  he  hloh  Maria Pia  hag a  heller  gweled
+# text_fr = 'Il ne reste d'elle que sa cloche Maria Pia que l'on peut voir '
 # dialect = Léonard
 # location = None
 # source = Seite (1998:50)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Chom
-# wiki_annotation = title:Chom;contexte:None;phonetic:None;text:|| Ne ||  jom  || anezi || nemed || he || hloh || Maria Pia || hag a || heller || gweled (...).;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || reste || [[a|de]].[[pronom incorporé|elle]] || [[nemet|seulement]] || [[POSS|sa]]<sup>[[2]]</sup> || [[kloc'h|cloche]] || [[nom propre|Maria Pia]] || [[ha(g)|que]] [[R]] || [[gallout|peut]].[[IMP|on]] || [[gwelout|voir]];translation:'Il ne reste d'elle que sa cloche Maria Pia que l'on peut voir (...).';agrammaticale:None;info:''Léonard'', [[Seite (1998)|Seite (1998]]:50);category:Léonard;source:Seite (1998:50);link:https://arbres.iker.cnrs.fr/index.php?title=Chom
+# wiki_annotation = title:Chom;contexte:None;phonetic:None;text:|| Ne ||  jom  || anezi || nemed || he || hloh || Maria Pia || hag a || heller || gweled ...;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || reste || [[a|de]].[[pronom incorporé|elle]] || [[nemet|seulement]] || [[POSS|sa]]<sup>[[2]]</sup> || [[kloc'h|cloche]] || [[nom propre|Maria Pia]] || [[ha(g)|que]] [[R]] || [[gallout|peut]].[[IMP|on]] || [[gwelout|voir]];translation:'Il ne reste d'elle que sa cloche Maria Pia que l'on peut voir ...';agrammaticale:None;info:''Léonard'', [[Seite (1998)|Seite (1998]]:50);category:Léonard;source:Seite (1998:50);link:https://arbres.iker.cnrs.fr/index.php?title=Chom
 1	Ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	jom	jom	VERB	v	_	_	_	_	Gloss=reste
 3-4	anezi	_	_	_	_	_	_	_	_
@@ -9239,8 +9239,7 @@
 11-12	heller	_	_	_	_	_	_	_	_
 11	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=peut
 12	IMP	IMP	PRON	cln	_	_	_	_	Gloss=on
-13	gweled 	gwelout	VERB	verbe	_	_	_	_	Gloss=voir
-14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+13	gweled	gwelout	VERB	verbe	_	_	_	_	Gloss=voir
 
 # sent_id = Burel(2012:198)__400
 # text =  pa  zéo  guir  pénaos  hini  eus  ar famil  al  n'hint  ket  é  poan  da  choum  ébars.
@@ -9791,14 +9790,14 @@
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = M-L.B.(04/2016)__423
-# text =  Amañ  ez eus  c'hoariet  gant  an echedoù…  hag  o deus  ket  renket  nentra.
+# text =  Amañ  ez eus  c'hoariet  gant  an  echedoù…  hag  o deus  ket  renket  nentra.
 # text_fr = 'Des gens ont joué aux échecs ici, et ils n'ont rien rangé.'
 # dialect = Léonard
 # location = Plougerneau
 # source = M-L. B. (04/2016)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
-# wiki_annotation = title:Concordance négative;contexte:None;phonetic:None;text:|| Amañ || ez eus || c'hoariet || gant || an echedoù… || hag || o deus ||  ket  || renket ||  nentra .;gloss:None;standardise:None;lemgloss:|| [[Amañ|ici]] || [[R]]<sup>[[+C]]</sup> [[ez eus|est]] || [[c'hoari (V.)|jou]].[[-et (Adj.)|é]] || [[gant|avec]] || [[an, al, ar|le]] échec.[[-où (PL.)|s]] || [[&|et]] || 3PL [[kaout|a]] || [[ket|pas]] || [[renkañ|rangé]] || [[netra|rien]];translation:'Des gens ont joué aux échecs ici, et ils n'ont rien rangé.';agrammaticale:None;info:''Léonard (Plougerneau)'', [[M-L. B. (04/2016)]];category:Léonard (Plougerneau);source:M-L. B. (04/2016);link:https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
+# wiki_annotation = title:Concordance négative;contexte:None;phonetic:None;text:|| Amañ || ez eus || c'hoariet || gant || an || echedoù… || hag || o deus ||  ket  || renket ||  nentra .;gloss:None;standardise:None;lemgloss:|| [[Amañ|ici]] || [[R]]<sup>[[+C]]</sup> [[ez eus|est]] || [[c'hoari (V.)|jou]].[[-et (Adj.)|é]] || [[gant|avec]] || [[an, al, ar|le]] || échec.[[-où (PL.)|s]] || [[&|et]] || 3PL [[kaout|a]] || [[ket|pas]] || [[renkañ|rang]].[[-et (Adj.)|é]] || [[netra|rien]];translation:'Des gens ont joué aux échecs ici, et ils n'ont rien rangé.';agrammaticale:None;info:''Léonard (Plougerneau)'', [[M-L. B. (04/2016)]];category:Léonard (Plougerneau);source:M-L. B. (04/2016);link:https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
 1	Amañ	Amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 2	ez	R	VERB	verbe	_	_	_	_	Gloss=_
 3	eus	ezeus	NOUN	nc	_	_	_	_	Gloss=est
@@ -9813,9 +9812,11 @@
 11	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
 12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 13	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-14	renket	renkañ	VERB	verbe	_	_	_	_	Gloss=rangé
-15	nentra	netra	NOUN	nom	_	_	_	_	Gloss=rien
-16	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+14-15	renket	_	_	_	_	_	_	_	_
+14	renkañ	renkañ	VERB	verbe	_	_	_	_	Gloss=rang
+15	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
+16	nentra	netra	NOUN	nom	_	_	_	_	Gloss=rien
+17	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Briant-Cadiou(1998:26)__424
 # text =  Medisin  ebed  n'en-defe  ket  greet  gwelloh.
@@ -10473,14 +10474,14 @@
 17	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 
 # sent_id = ArFloc'h(1985:30)__450
-# text =  da  c'hortoz  an tren  da  erruout  er  gar.
+# text =  da  c'hortoz  an  tren  da  erruout  er  gar.
 # text_fr = 'en attendant que le train arrive'
 # dialect = Léonard
 # location = Bodilis
 # source = Ar Floc'h (1985:30)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Da
-# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| da || c'hortoz || an tren ||  da  || erruout || er || gar.;gloss:None;standardise:None;lemgloss:|| pour<sup>[[1]]</sup> || [[gortoz|attendre]] || [[an, al, ar|le]] [[tren|train]] || de<sup>[[1]]</sup> || [[erruout|arriver]] || [[P.e|en]].[[an, al, ar|le]] || [[gar|gare]];translation:'en attendant que le train arrive';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:30);category:Léonard (Bodilis);source:Ar Floc'h (1985:30);link:https://arbres.iker.cnrs.fr/index.php?title=Da
+# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| da || c'hortoz || an || tren ||  da  || erruout || er || gar.;gloss:None;standardise:None;lemgloss:|| pour<sup>[[1]]</sup> || [[gortoz|attendre]] || [[an, al, ar|le]] || [[tren|train]] || de<sup>[[1]]</sup> || [[erruout|arriver]] || [[P.e|en]].[[an, al, ar|le]] || [[gar|gare]];translation:'en attendant que le train arrive';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:30);category:Léonard (Bodilis);source:Ar Floc'h (1985:30);link:https://arbres.iker.cnrs.fr/index.php?title=Da
 1	da	_	_	_	_	_	_	_	Gloss=_
 2	c'hortoz	gortoz	VERB	verbe	_	_	_	_	Gloss=attendre
 3	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
@@ -11714,28 +11715,26 @@
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Elégoët(1982:27)__503
-# text =  war-laez  e peus  un all  evit  dalc'her  anezhañ  dres.
+# text =  war-laez  e peus  un  all  evit  dalc'her  anezhañ  dres.
 # text_fr = '… en haut tu en as un autre pour le tenir droit.'
 # dialect = Léonard
 # location = Plougerneau
 # source = Elégoët (1982:27)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
-# wiki_annotation = title:Derc'hel;contexte:None;phonetic:None;text:|| war-laez || e peus || un all || evit ||  dalc'her  || anezhañ || dres.;gloss:None;standardise:None;lemgloss:|| [[war-laez|sur-haut]] || [[R]] 2.[[kaout|a]] || [[unan|un]] [[all|autre]] || [[evit|pour]] || garder || [[a|P]].[[pronom incorporé|lui]] || [[dres|droit]];translation:'… en haut tu en as un autre pour le tenir droit.';agrammaticale:None;info:''Léonard (Plougerneau)'', [[Elégoët (1982)|Elégoët (1982]]:27);category:Léonard (Plougerneau);source:Elégoët (1982:27);link:https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
+# wiki_annotation = title:Derc'hel;contexte:None;phonetic:None;text:|| war-laez || e peus || un || all || evit ||  dalc'her  || anezhañ || dres.;gloss:None;standardise:None;lemgloss:|| [[war-laez|sur-haut]] || [[R]] 2.[[kaout|a]] || [[unan|un]] || [[all|autre]] || [[evit|pour]] || garder || [[a|P]].[[pronom incorporé|lui]] || [[dres|droit]];translation:'… en haut tu en as un autre pour le tenir droit.';agrammaticale:None;info:''Léonard (Plougerneau)'', [[Elégoët (1982)|Elégoët (1982]]:27);category:Léonard (Plougerneau);source:Elégoët (1982:27);link:https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
 1	war-laez	war-laez	ADV	adverbe	_	_	_	_	Gloss=sur-haut
 2	e	R	VERB	verbe	_	_	_	_	Gloss=_|Mut=4
 3	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
-4-5	un	_	_	_	_	_	_	_	_
-4	unan	unan	ADJ	adjectifs	_	_	_	_	Gloss=un
+4	un	unan	ADJ	adjectifs	_	_	_	_	Gloss=un
 5	all	all	PRON	pronom	_	_	_	_	Gloss=autre
-6	all	evit	ADP	préposition	_	_	_	_	Gloss=pour
-7	evit	_	_	_	_	_	_	_	Gloss=_
-8-9	dalc'her	_	_	_	_	_	_	_	_
+6	evit	evit	ADP	préposition	_	_	_	_	Gloss=pour
+7	dalc'her	dalc'her	VERB	verbe	_	_	_	_	Gloss=garder
+8-9	anezhañ	_	_	_	_	_	_	_	_
 8	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
 9	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-10	anezhañ	dres	ADJ	adjectif	_	_	_	_	Gloss=droit
-11	dres	_	_	_	_	_	_	_	Gloss=_
-12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+10	dres	dres	ADJ	adjectif	_	_	_	_	Gloss=droit
+11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Elégoët(1982:27)__504
 # text =  Seul  vui  ma  vezo  hir  diouzh  an  adreñv,  en eus  muioc'h  a  zalc'h  er  mor.
@@ -14331,21 +14330,20 @@
 7	_	_	_	_	_	_	_	_	Gloss=_
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Mellouet&Pennec(2004:79).__618
-# text =  ur  breur  da  va  zad.
-# text_fr = 'un frère de mon père.'
+# sent_id = Mellouet&Pennec(2004:79)__618
+# text =  ur  breur  da  va  zad
+# text_fr = 'un frère de mon père'
 # dialect = Léonard
 # location = None
-# source = Mellouet & Pennec (2004:79).
+# source = Mellouet & Pennec (2004:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
-# wiki_annotation = title:Déterminants possessifs;contexte:None;phonetic:None;text:|| ur || breur ||  da  ||  va  || zad.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[breur|frère]] || [[da|à]]<sup>[[1]]</sup> || mon<sup>[[2]]</sup> || [[tad|père]];translation:'un frère de mon père.';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79).;category:Léonard;source:Mellouet & Pennec (2004:79).;link:https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
+# wiki_annotation = title:Déterminants possessifs;contexte:None;phonetic:None;text:|| ur || breur ||  da  ||  va  || zad;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[breur|frère]] || [[da|à]]<sup>[[1]]</sup> || mon<sup>[[2]]</sup> || [[tad|père]];translation:'un frère de mon père';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79);category:Léonard;source:Mellouet & Pennec (2004:79);link:https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
 1	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 2	breur	breur	NOUN	nom	_	_	_	_	Gloss=frère
 3	da	da	ADP	préposition	_	_	_	_	Gloss=à
 4	va	va	DET	det	_	_	_	_	Gloss=mon
 5	zad	tad	NOUN	nom	_	_	_	_	Gloss=père
-6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = ArFloc'h(1985:9)__619
 # text =  an  eontr-se  din
@@ -14565,15 +14563,15 @@
 8	den	den	NOUN	nom	_	_	_	_	Gloss=personne
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Mellouet&Pennec(2004:79).__629
+# sent_id = Mellouet&Pennec(2004:79)__629
 # text =  Hag  e  chome  e-giz-se  div  pe  deir  eur  horolaj,  ha  den  ebet  war  e  dro.
 # text_fr = 'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).'
 # dialect = Léonard
 # location = None
-# source = Mellouet & Pennec (2004:79).
+# source = Mellouet & Pennec (2004:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=E-giz
-# wiki_annotation = title:E-giz;contexte:None;phonetic:None;text:|| Hag || e || chome ||  e-giz-se  || div || pe || deir || eur || horolaj, || ha || den || ebet || war || e || dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]]<sup>[[4]]</sup> || [[chom|restait]] || comme.[[se|ça]] || [[div|deux]] || [[pe|ou]]<sup>[[1]]</sup> || [[teir|trois]] || [[eur|heure]] || [[orolaj|horloge]] || [[&|et]] || [[den|personne]] || [[ebet|aucune]] || [[war|sur]] || [[POSS|son]]<sup>[[1]]</sup> || [[war-dro|tour]];translation:'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79).;category:Léonard;source:Mellouet & Pennec (2004:79).;link:https://arbres.iker.cnrs.fr/index.php?title=E-giz
+# wiki_annotation = title:E-giz;contexte:None;phonetic:None;text:|| Hag || e || chome ||  e-giz-se  || div || pe || deir || eur || horolaj, || ha || den || ebet || war || e || dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]]<sup>[[4]]</sup> || [[chom|restait]] || comme.[[se|ça]] || [[div|deux]] || [[pe|ou]]<sup>[[1]]</sup> || [[teir|trois]] || [[eur|heure]] || [[orolaj|horloge]] || [[&|et]] || [[den|personne]] || [[ebet|aucune]] || [[war|sur]] || [[POSS|son]]<sup>[[1]]</sup> || [[war-dro|tour]];translation:'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79);category:Léonard;source:Mellouet & Pennec (2004:79);link:https://arbres.iker.cnrs.fr/index.php?title=E-giz
 1	Hag	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	e	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 3	chome	chom	VERB	verbe	_	_	_	_	Gloss=restait
@@ -15529,7 +15527,7 @@
 # source = Briant-Cadiou (1998:189)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Emañ
-# wiki_annotation = title:Emañ;contexte:None;phonetic:None;text:|| O || chom ||  edont  || e || Kerber.;gloss:None;standardise:None;lemgloss:|| [[particule o|à]]<sup>[[1]]</sup> || [[chom|rester]] || étaient || [[P.e|en]] || [[nom propre|Kerber]];translation:'Ils habitaient à Kerber.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:189);category:Léonard (Plouzane);source:Briant-Cadiou (1998:189);link:https://arbres.iker.cnrs.fr/index.php?title=Emañ
+# wiki_annotation = title:Emañ;contexte:None;phonetic:None;text:|| O || chom ||  edont  || e || Kerber.;gloss:None;standardise:None;lemgloss:|| [[particule o|à]]<sup>[[4]]</sup> || [[chom|rester]] || étaient || [[P.e|en]] || [[nom propre|Kerber]];translation:'Ils habitaient à Kerber.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:189);category:Léonard (Plouzane);source:Briant-Cadiou (1998:189);link:https://arbres.iker.cnrs.fr/index.php?title=Emañ
 1	O	particuleo	ADP	prep	_	_	_	_	Gloss=à
 2	chom	chom	VERB	verbe	_	_	_	_	Gloss=rester
 3	edont	edont	VERB	v	_	_	_	_	Gloss=étaient
@@ -17794,14 +17792,14 @@
 14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Mellouet&Pennec(2004:87)__768
-# text =  Ar merc'hed  n'  o doa  lodenn  ebet  en  aod  evit  ar bezhin  troc'h.
+# text =  Ar  merc'hed  n'  o doa  lodenn  ebet  en  aod  evit  ar  bezhin  troc'h.
 # text_fr = 'Les femmes n'avaient pas de lot pour le goémon de coupe.'
 # dialect = Léonard
 # location = None
 # source = Mellouet & Pennec (2004:87)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Evit
-# wiki_annotation = title:Evit;contexte:None;phonetic:None;text:|| Ar merc'hed || n' || o doa || lodenn || ebet || en || aod ||  evit  || ar bezhin || troc'h.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] [[merc'h|fille]].[[-ed (PL.)|s]] || [[ne|ne]]<sup>[[1]]</sup> || 3PL 3.[[kaout|avait]] || [[lodenn|lot]] || [[ebet|aucun]] || [[P.e|en]].[[an, al, ar|le]] || [[aod|grève]] || pour || [[an, al, ar|le]] [[bezhin|goémon]] || [[troc'hañ|coupe]];translation:'Les femmes n'avaient pas de lot pour le goémon de coupe.';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:87);category:Léonard;source:Mellouet & Pennec (2004:87);link:https://arbres.iker.cnrs.fr/index.php?title=Evit
+# wiki_annotation = title:Evit;contexte:None;phonetic:None;text:|| Ar || merc'hed || n' || o doa || lodenn || ebet || en || aod ||  evit  || ar || bezhin || troc'h.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[merc'h|fille]].[[-ed (PL.)|s]] || [[ne|ne]]<sup>[[1]]</sup> || 3PL 3.[[kaout|avait]] || [[lodenn|lot]] || [[ebet|aucun]] || [[P.e|en]].[[an, al, ar|le]] || [[aod|grève]] || pour || [[an, al, ar|le]] || [[bezhin|goémon]] || [[troc'hañ|coupe]];translation:'Les femmes n'avaient pas de lot pour le goémon de coupe.';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:87);category:Léonard;source:Mellouet & Pennec (2004:87);link:https://arbres.iker.cnrs.fr/index.php?title=Evit
 1	Ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-3	merc'hed	_	_	_	_	_	_	_	_
 2	merc'h	merc'h	NOUN	nom	_	_	_	_	Gloss=fille
@@ -18137,7 +18135,7 @@
 # source = Briant-Cadiou (1998:195)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
-# wiki_annotation = title:Ezhomm;contexte:None;phonetic:None;text:|| n'en-doe || ket ||  a  ||  ezomm  || da || en em || servicha || diouz || outañ.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> 3SGM [[kaout|avait]] || [[ket|pas]] || [[a|de]]<sup>[[1]]</sup> || besoin || [[da|de]]<sup>[[1]]</sup> || [[en em|se]]<sup>[[1]]</sup> || [[servijañ|servir]] || [[diouzh|de]] || [[ouzh|de]].[[pronom incorporé|lui]];translation:'… (où) il n'avait pas besoin de s'en servir.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:195);category:Léonard (Plouzane);source:Briant-Cadiou (1998:195);link:https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
+# wiki_annotation = title:Ezhomm;contexte:None;phonetic:None;text:|| n'en-doe || ket ||  a  ||  ezomm  || da || en em || servicha || diouz || outañ.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> 3SGM [[kaout|avait]] || [[ket|pas]] || [[a|de]]<sup>[[1]]</sup> || besoin || [[da|de]]<sup>[[1]]</sup> || [[en em|se]]<sup>[[1]]</sup> || [[servijout|servir]] || [[diouzh|de]] || [[ouzh|de]].[[pronom incorporé|lui]];translation:'… (où) il n'avait pas besoin de s'en servir.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:195);category:Léonard (Plouzane);source:Briant-Cadiou (1998:195);link:https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
 1-3	n'en-doe	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
@@ -18147,7 +18145,7 @@
 6	ezomm	ezomm	NOUN	nom	_	_	_	_	Gloss=besoin
 7	da	da	ADP	préposition	_	_	_	_	Gloss=de
 8	en em	enem	PRON	clr	_	_	_	_	Gloss=se
-9	servicha	servijañ	VERB	v	_	_	_	_	Gloss=servir
+9	servicha	servijout	VERB	verbe	_	_	_	_	Gloss=servir
 10	diouz	diouzh	ADP	préposition	_	_	_	_	Gloss=de
 11-12	outañ	_	_	_	_	_	_	_	_
 11	ouzh	ouzh	ADP	préposition	_	_	_	_	Gloss=de
@@ -18966,21 +18964,21 @@
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Perrot(1912:845)__820
-# text =  hep  dibri  frouezen  ebet  ken  ar rest  eus  e  vue.
-# text_fr = '… sans manger de fruits (pour) le reste de sa vie.'
+# text =  hep  dibri  frouezen  ebet  ken  ar  rest  eus  e  vue.
+# text_fr = '… sans manger de fruits pour le reste de sa vie.'
 # dialect = Léonard
 # location = None
 # source = Perrot (1912:845)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Frouezh
-# wiki_annotation = title:Frouezh;contexte:None;phonetic:None;text:|| hep || dibri || frouez en  || ebet || ken || ar rest || eus || e || vue.;gloss:None;standardise:None;lemgloss:|| [[hep|sans]] || [[debriñ|manger]] || fruit.[[singulatif|SG]] || [[ebet|aucun]] || [[ken|plus]] || [[an, al, ar|le]] reste || [[eus|de]] || [[POSS|son]]<sup>[[1]]</sup> || [[buhez|vie]];translation:'… sans manger de fruits (pour) le reste de sa vie.';agrammaticale:None;info:''Léonard'', [[Perrot (1912)|Perrot (1912]]:845);category:Léonard;source:Perrot (1912:845);link:https://arbres.iker.cnrs.fr/index.php?title=Frouezh
+# wiki_annotation = title:Frouezh;contexte:None;phonetic:None;text:|| hep || dibri || frouez en  || ebet || ken || ar || rest || eus || e || vue.;gloss:None;standardise:None;lemgloss:|| [[hep|sans]] || [[debriñ|manger]] || fruit.[[singulatif|SG]] || [[ebet|aucun]] || [[ken|plus]] || [[an, al, ar|le]] || [[rest|reste]] || [[eus|de]] || [[POSS|son]]<sup>[[1]]</sup> || [[buhez|vie]];translation:'… sans manger de fruits pour le reste de sa vie.';agrammaticale:None;info:''Léonard'', [[Perrot (1912)|Perrot (1912]]:845);category:Léonard;source:Perrot (1912:845);link:https://arbres.iker.cnrs.fr/index.php?title=Frouezh
 1	hep	hep	ADP	préposition	_	_	_	_	Gloss=sans
 2	dibri	debriñ	VERB	verbe	_	_	_	_	Gloss=manger
 3	frouezen	fruit.singulatif	_	_	_	_	_	_	Gloss=SG
 4	ebet	ebet	DET/ADJ/ADV/PRON	quantifieur	_	_	_	_	Gloss=aucun
 5	ken	ken	ADP	préposition	_	_	_	_	Gloss=plus
 6	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-7	rest	_	_	_	_	_	_	_	Gloss=_
+7	rest	rest	VERB	v	_	_	_	_	Gloss=reste
 8	eus	eus	ADP	préposition	_	_	_	_	Gloss=de
 9	e	POSS	NOUN	nc	Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
 10	vue	buhez	NOUN	nom	_	_	_	_	Gloss=vie
@@ -21843,23 +21841,24 @@
 6	Kemper	nompropre	NOUN	nom	_	_	_	_	Gloss=Quimper
 
 # sent_id = Fave(1998:135)__944
-# text =  Te  eo  an hini  e-neus  /  Ni  eo  ar re  o-deus.
-# text_fr = 'Tu es celui qui a (qqch).'/ 'Nous sommes ceux qui ont (qqch).'
+# text =  Te  eo  an hini  e-neus.  Ni  eo  ar re  o-deus.
+# text_fr = 'Tu es celui qui a quelque chose. Nous sommes ceux qui ont quelque chose.'
 # dialect = Léonard
 # location = None
 # source = Fave (1998:135)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Hini
-# wiki_annotation = title:Hini;contexte:None;phonetic:None;text:|| Te || eo || an hini || e-neus || / || Ni || eo || ar re || o-deus.;gloss:None;standardise:None;lemgloss:|| [[pfi|toi]] || [[eo|est]] || [[an, al, ar|le]]N.SG ||  3 SGM a |||| [[pfi|nous]] || [[eo|est]] || [[an, al, ar|le]]N.PL ||  3 PL a.;translation:'Tu es celui qui a (qqch).'/ 'Nous sommes ceux qui ont (qqch).';agrammaticale:None;info:''Léonard'', [[Fave (1998)|Fave (1998]]:135);category:Léonard;source:Fave (1998:135);link:https://arbres.iker.cnrs.fr/index.php?title=Hini
+# wiki_annotation = title:Hini;contexte:None;phonetic:None;text:|| Te || eo || an hini || e-neus. || Ni || eo || ar re || o-deus.;gloss:None;standardise:None;lemgloss:|| [[pfi|toi]] || [[eo|est]] || [[an, al, ar|le]]N.SG ||  3 SGM a |||| [[pfi|nous]] || [[eo|est]] || [[an, al, ar|le]] N.PL ||  3 PL a.;translation:'Tu es celui qui a quelque chose. Nous sommes ceux qui ont quelque chose.';agrammaticale:None;info:''Léonard'', [[Fave (1998)|Fave (1998]]:135);category:Léonard;source:Fave (1998:135);link:https://arbres.iker.cnrs.fr/index.php?title=Hini
 1	Te	pfi	PRON	pronoms	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
 2	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
 3	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 4	hini	_	_	_	_	_	_	_	Gloss=_
 5	e-neus	_	_	_	_	_	_	_	Gloss=_
-6	Ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-7	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
-8	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-9	re	_	_	_	_	_	_	_	Gloss=_
+6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+7	eo	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
+8	ar	eo	AUX	AUX	_	_	_	_	Gloss=est
+9	re	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le  N.PL
+10	o deus	_	_	_	_	_	_	_	Gloss=_
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Briant-Cadiou(1998:13)__945
@@ -30621,13 +30620,13 @@
 
 # sent_id = ArFloc'h(1985:117)__1324
 # text =  Lec'h  em oa  da  soñjal
-# text_fr = '… J'avais lieu de penser (que).'
+# text_fr = 'J'avais lieu de penser que …'
 # dialect = Léonard
 # location = Bodilis
 # source = Ar Floc'h (1985:117)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Lec'h
-# wiki_annotation = title:Lec'h;contexte:None;phonetic:None;text:||  Lec'h  || em oa || da || soñjal...;gloss:None;standardise:None;lemgloss:|| lieu || 1SG [[kaout|avait]] || [[da|à]]<sup>[[1]]</sup> || [[soñjal|penser]];translation:'… J'avais lieu de penser (que...).';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:117);category:Léonard (Bodilis);source:Ar Floc'h (1985:117);link:https://arbres.iker.cnrs.fr/index.php?title=Lec'h
+# wiki_annotation = title:Lec'h;contexte:None;phonetic:None;text:||  Lec'h  || em oa || da || soñjal...;gloss:None;standardise:None;lemgloss:|| lieu || 1SG [[kaout|avait]] || [[da|à]]<sup>[[1]]</sup> || [[soñjal|penser]];translation:'J'avais lieu de penser que …';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:117);category:Léonard (Bodilis);source:Ar Floc'h (1985:117);link:https://arbres.iker.cnrs.fr/index.php?title=Lec'h
 1	Lec'h	Lec'h	NOUN	nom	_	_	_	_	Gloss=lieu
 2	em	-m	X	suffixe	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
@@ -31471,13 +31470,13 @@
 
 # sent_id = Gouedig(1982)__1364
 # text =  Ni  zo  da  veza  lazet  gand  henhont.
-# text_fr = 'Il va nous tuer, (l'avion au loin).'
+# text_fr = 'Il va nous tuer.' (l'avion au loin)
 # dialect = Léonard
 # location = Ouessant
 # source = Gouedig (1982)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
-# wiki_annotation = title:Les démonstratifs;contexte:None;phonetic:None;text:|| Ni || zo || da || veza || lazet || gand ||  henhont .;gloss:None;standardise:None;lemgloss:|| [[pfi|nous]] || [[zo|est]] || [[da|à]]<sup>[[1]]</sup> || [[bezañ|être]] || [[lazhañ|tu]].[[-et (Adj.)|é]] || [[gant|avec]] || celui-là;translation:'Il va nous tuer, (l'avion au loin).';agrammaticale:None;info:''Léonard (Ouessant)'', [[Gouedig (1982)]];category:Léonard (Ouessant);source:Gouedig (1982);link:https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
+# wiki_annotation = title:Les démonstratifs;contexte:None;phonetic:None;text:|| Ni || zo || da || veza || lazet || gand ||  henhont .;gloss:None;standardise:None;lemgloss:|| [[pfi|nous]] || [[zo|est]] || [[da|à]]<sup>[[1]]</sup> || [[bezañ|être]] || [[lazhañ|tu]].[[-et (Adj.)|é]] || [[gant|avec]] || celui-là;translation:'Il va nous tuer.' (l'avion au loin);agrammaticale:None;info:''Léonard (Ouessant)'', [[Gouedig (1982)]];category:Léonard (Ouessant);source:Gouedig (1982);link:https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
 1	Ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
 2	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 3	da	da	ADP	préposition	_	_	_	_	Gloss=à
@@ -34366,13 +34365,13 @@
 
 # sent_id = M-L.B.(04/2016)__1495
 # text =  Ne  rankchomp  ket  evañ  ha  kondui  esambles.
-# text_fr = 'On ne devrait pas boire en conduisant (et non pas 'en ayant bu').'
+# text_fr = 'On ne devrait pas boire en conduisant.' (et non pas 'en ayant bu')
 # dialect = Léonard
 # location = Plougerneau
 # source = M-L. B. (04/2016)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=M-L._B._(04/2016)
-# wiki_annotation = title:M-L. B. (04/2016);contexte:None;phonetic:None;text:|| Ne || rankchomp || ket || evañ || ha || kondui || esambles.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || [[rankout|devrions]] || [[ket|pas]] || [[evañ|boire]] || [[&|et]] || [[konduiñ|conduire]] || [[asambles|ensemble]];translation:'On ne devrait pas boire en conduisant (et non pas 'en ayant bu').';agrammaticale:None;info:''Léonard (Plougerneau)'', M-L. B. (04/2016);category:Léonard (Plougerneau);source:M-L. B. (04/2016);link:https://arbres.iker.cnrs.fr/index.php?title=M-L._B._(04/2016)
+# wiki_annotation = title:M-L. B. (04/2016);contexte:None;phonetic:None;text:|| Ne || rankchomp || ket || evañ || ha || kondui || esambles.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || [[rankout|devrions]] || [[ket|pas]] || [[evañ|boire]] || [[&|et]] || [[konduiñ|conduire]] || [[asambles|ensemble]];translation:'On ne devrait pas boire en conduisant.' (et non pas 'en ayant bu');agrammaticale:None;info:''Léonard (Plougerneau)'', M-L. B. (04/2016);category:Léonard (Plougerneau);source:M-L. B. (04/2016);link:https://arbres.iker.cnrs.fr/index.php?title=M-L._B._(04/2016)
 1	Ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	rankchomp	rankout	VERB	verbe	_	_	_	_	Gloss=devrions
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
@@ -46028,15 +46027,15 @@
 5	batatez	batatez	NOUN	nc	_	_	_	_	Gloss=patates
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Mellouet&Pennec(2004:79).__1979
+# sent_id = Mellouet&Pennec(2004:79)__1979
 # text =  Hag  e chome  e-giz-se  div  pe  deir eur horolaj,  ha den ebet  war e dro.
-# text_fr = 'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).'
+# text_fr = 'Et il restait deux ou trois heures comme ça sans que personne s'en occupe.'
 # dialect = Léonard
 # location = None
-# source = Mellouet & Pennec (2004:79).
+# source = Mellouet & Pennec (2004:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pe
-# wiki_annotation = title:Pe;contexte:None;phonetic:None;text:|| Hag || e chome || e-giz-se || div ||  pe  ||  d eir eur horolaj, || ha den ebet || war e dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]] [[chom|restait]] || [[e-giz|comme]].[[se|ça]] || [[div|deux]] || ou<sup>[[1]]</sup> || [[teir|trois]] [[eur|heure]] horloge || [[&|et]] [[den|personne]] [[ebet|aucun]] || [[war|sur]] [[POSS|son]]<sup>[[1]]</sup> [[tro|tour]];translation:'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne s'en occupe).';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79).;category:Léonard;source:Mellouet & Pennec (2004:79).;link:https://arbres.iker.cnrs.fr/index.php?title=Pe
+# wiki_annotation = title:Pe;contexte:None;phonetic:None;text:|| Hag || e chome || e-giz-se || div ||  pe  ||  d eir eur horolaj, || ha den ebet || war e dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]] [[chom|restait]] || [[e-giz|comme]].[[se|ça]] || [[div|deux]] || ou<sup>[[1]]</sup> || [[teir|trois]] [[eur|heure]] horloge || [[&|et]] [[den|personne]] [[ebet|aucun]] || [[war|sur]] [[POSS|son]]<sup>[[1]]</sup> [[tro|tour]];translation:'Et il restait deux ou trois heures comme ça sans que personne s'en occupe.';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79);category:Léonard;source:Mellouet & Pennec (2004:79);link:https://arbres.iker.cnrs.fr/index.php?title=Pe
 1	Hag	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	e	R	VERB	verbe	_	_	_	_	Gloss=_|Mut=4
 3	chome	chom	VERB	verbe	_	_	_	_	Gloss=restait
@@ -46140,13 +46139,13 @@
 
 # sent_id = Seite(1975:64)__1984
 # text =  Gwelit  'ta  pegement  eo  sklêreet  pep tra  abaoe  m'int  digoret !
-# text_fr = 'Voyez donc comme tout est plus clair depuis qu'elles sont ouvertes ! (les fenêtres).'
+# text_fr = 'Voyez donc comme tout est plus clair depuis qu'elles sont ouvertes !' (les fenêtres)
 # dialect = Léonard
 # location = None
 # source = Seite (1975:64)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pegement
-# wiki_annotation = title:Pegement;contexte:None;phonetic:None;text:|| Gwelit || 'ta ||  pegement  || eo || sklêreet || pep tra || abaoe || m'int || digoret !;gloss:None;standardise:None;lemgloss:|| voyez || [[eta|donc]] || combien || [[COP|est]] || é.[[sklaer|clair]].é || [[pep|chaque]] [[tra|chose]] || [[abaoe|depuis]] || [[ma|que]] [[COP|sont]] || [[digeriñ|ouv]].[[-et (Adj.)|ert]];translation:'Voyez donc comme tout est plus clair depuis qu'elles sont ouvertes ! (les fenêtres).';agrammaticale:None;info:''Léonard'', [[Seite (1975)|Seite (1975]]:64);category:Léonard;source:Seite (1975:64);link:https://arbres.iker.cnrs.fr/index.php?title=Pegement
+# wiki_annotation = title:Pegement;contexte:None;phonetic:None;text:|| Gwelit || 'ta ||  pegement  || eo || sklêreet || pep tra || abaoe || m'int || digoret !;gloss:None;standardise:None;lemgloss:|| voyez || [[eta|donc]] || combien || [[COP|est]] || é.[[sklaer|clair]].é || [[pep|chaque]] [[tra|chose]] || [[abaoe|depuis]] || [[ma|que]] [[COP|sont]] || [[digeriñ|ouv]].[[-et (Adj.)|ert]];translation:'Voyez donc comme tout est plus clair depuis qu'elles sont ouvertes !' (les fenêtres);agrammaticale:None;info:''Léonard'', [[Seite (1975)|Seite (1975]]:64);category:Léonard;source:Seite (1975:64);link:https://arbres.iker.cnrs.fr/index.php?title=Pegement
 1	Gwelit	_	_	_	_	_	_	_	Gloss=_
 2	'ta	eta	CCONJ	conjonction	_	_	_	_	Gloss=donc
 3	pegement	pegement	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=combien
@@ -47128,14 +47127,14 @@
 10	…	…	PUNCT	PUNCT	_	_	_	_	Gloss=…
 
 # sent_id = Briant-Cadiou(1998:34)__2024
-# text =  Hag  ar  baotred  nehet
+# text =  Hag  ar  baotred  nehet.
 # text_fr = 'Les gars étaient bien embêtés.'
 # dialect = Léonard
 # location = Plouzane
 # source = Briant-Cadiou (1998:34)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
-# wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:||  Hag  || ar || baotred || nehet;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[an, al, ar|le]] || <sup>[[1]]</sup>[[paotr|gars]].[[-ed (PL.)|s]] || [[nec'hañ|inquiét]].[[-et (Adj.)|é]];translation:'Les gars étaient bien embêtés.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:34);category:Léonard (Plouzane);source:Briant-Cadiou (1998:34);link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
+# wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:||  Hag  || ar || baotred || nehet.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[an, al, ar|le]] || <sup>[[1]]</sup>[[paotr|gars]].[[-ed (PL.)|s]] || [[nec'hañ|inquiét]].[[-et (Adj.)|é]];translation:'Les gars étaient bien embêtés.';agrammaticale:None;info:''Léonard (Plouzane)'', [[Briant-Cadiou (1998)|Briant-Cadiou (1998]]:34);category:Léonard (Plouzane);source:Briant-Cadiou (1998:34);link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 1	Hag	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 3-4	baotred	_	_	_	_	_	_	_	_
@@ -47144,16 +47143,17 @@
 5-6	nehet	_	_	_	_	_	_	_	_
 5	nec'hañ	nec'hañ	VERB	verbe	_	_	_	_	Gloss=inquiét
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
+7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Mellouet&Pennec(2004:79)__2025
 # text =  Hag  e  chome  e-giz-se  div  pe  deir  eur  horolaj,  ha  den ebet  war e  dro.
-# text_fr = 'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne ne s'en occupe).'
+# text_fr = 'Et il restait deux ou trois heures comme ça sans que personne ne s'en occupe.'
 # dialect = Léonard
 # location = None
 # source = Mellouet & Pennec (2004:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
-# wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:|| Hag || e || chome || e-giz-se || div || pe || deir || eur || horolaj, ||  ha  || den ebet || war e || dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]]<sup>[[4]]</sup> || [[chom|restait]] || [[e-giz|comme]].[[se|ça]] || [[div|deux]] || [[pe|ou]]<sup>[[1]]</sup> || [[teir|trois]] || [[eur|heure]] || horloge || [[&|et]] <font color=green>[<sub>[[SC]]</sub> </font color=green> || [[den|personne]] [[ebet|aucun]] || [[war|sur]]<sup>[[1]]</sup> [[POSS|son]]<sup>[[1]]</sup> || [[war-dro|tour]] <font color=green>]</font color=green>;translation:'Et il restait deux ou trois heures comme ça sans personne autour (sans que personne ne s'en occupe).';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79);category:Léonard;source:Mellouet & Pennec (2004:79);link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
+# wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:|| Hag || e || chome || e-giz-se || div || pe || deir || eur || horolaj, ||  ha  || den ebet || war e || dro.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]]<sup>[[4]]</sup> || [[chom|restait]] || [[e-giz|comme]].[[se|ça]] || [[div|deux]] || [[pe|ou]]<sup>[[1]]</sup> || [[teir|trois]] || [[eur|heure]] || horloge || [[&|et]] <font color=green>[<sub>[[SC]]</sub> </font color=green> || [[den|personne]] [[ebet|aucun]] || [[war|sur]]<sup>[[1]]</sup> [[POSS|son]]<sup>[[1]]</sup> || [[war-dro|tour]] <font color=green>]</font color=green>;translation:'Et il restait deux ou trois heures comme ça sans que personne ne s'en occupe.';agrammaticale:None;info:''Léonard'', [[Mellouet & Pennec (2004)|Mellouet & Pennec (2004]]:79);category:Léonard;source:Mellouet & Pennec (2004:79);link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 1	Hag	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	e	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 3	chome	chom	VERB	verbe	_	_	_	_	Gloss=restait
@@ -51983,13 +51983,13 @@
 
 # sent_id = ArFloc'h(1985:74)__2233
 # text =  Koulskoude,  ret   oa  din  bevañ,  hag  ober  seurt  pe  seurt.
-# text_fr = 'Pourtant, il me fallait me nourrir et faire quelque chose (comme métier).'
+# text_fr = 'Pourtant, il me fallait me nourrir et choisir un métier.'
 # dialect = Léonard
 # location = Bodilis
 # source = Ar Floc'h (1985:74)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Seurt
-# wiki_annotation = title:Seurt;contexte:None;phonetic:None;text:|| Koulskoude, || ret || || oa || din || bevañ, || hag || ober ||  seurt  ||  pe  ||  seurt .;gloss:None;standardise:None;lemgloss:|| [[koulskoude|cependant]] || [[ret|obligé]] || [[R]]<sup>[[1]]</sup> || [[COP|était]] || [[da|à]].[[pronom incorporé|moi]] || [[bevañ|vivre]] || [[&|et]] || [[ober|faire]] || sorte || [[pe|ou]]<sup>[[1]]</sup> || sorte;translation:'Pourtant, il me fallait me nourrir et faire quelque chose (comme métier).';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:74);category:Léonard (Bodilis);source:Ar Floc'h (1985:74);link:https://arbres.iker.cnrs.fr/index.php?title=Seurt
+# wiki_annotation = title:Seurt;contexte:None;phonetic:None;text:|| Koulskoude, || ret || || oa || din || bevañ, || hag || ober ||  seurt  ||  pe  ||  seurt .;gloss:None;standardise:None;lemgloss:|| [[koulskoude|cependant]] || [[ret|obligé]] || [[R]]<sup>[[1]]</sup> || [[COP|était]] || [[da|à]].[[pronom incorporé|moi]] || [[bevañ|vivre]] || [[&|et]] || [[ober|faire]] || sorte || [[pe|ou]]<sup>[[1]]</sup> || sorte;translation:'Pourtant, il me fallait me nourrir et choisir un métier.';agrammaticale:None;info:''Léonard (Bodilis)'', [[Ar Floc'h (1985)|Ar Floc'h (1985]]:74);category:Léonard (Bodilis);source:Ar Floc'h (1985:74);link:https://arbres.iker.cnrs.fr/index.php?title=Seurt
 1	Koulskoude	koulskoude	ADV	adverbe	_	_	_	_	Gloss=cependant
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	ret	ret	NOUN	nom	_	_	_	_	Gloss=obligé
@@ -53215,14 +53215,14 @@
 16	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Abeozen(1942:364)__2287
-# text =  Ur strollad  listri  a  c'hortoz  al lanv  da  dostaat  ouz  an aod.
+# text =  Ur  strollad  listri  a  c'hortoz  al  lanv  da  dostaat  ouz  an  aod.
 # text_fr = 'Un groupe de bateaux attend la marée pour s'approcher de la côte.'
 # dialect = Léonard
 # location = None
 # source = Abeozen (1942:364)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Strollad
-# wiki_annotation = title:Strollad;contexte:None;phonetic:None;text:|| Ur  strollad  || listri || a || c'hortoz || al lanv || da || dostaat || ouz || an aod.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] groupe || [[lestr|vaisseau]].[[-i (PL.)|x]] || [[R]]<sup>[[1]]</sup> || [[gortoz|attend]] || [[an, al, ar|le]] [[lanv|marée]] || [[da|pour]]<sup>[[1]]</sup> || [[tost|proch]].[[-aat|er]] || [[ouzh|de]] || [[an, al, ar|le]] [[aod|côte]];translation:'Un groupe de bateaux attend la marée pour s'approcher de la côte.';agrammaticale:None;info:''Léonard'', [[Abeozen (1942)|Abeozen (1942]]:364);category:Léonard;source:Abeozen (1942:364);link:https://arbres.iker.cnrs.fr/index.php?title=Strollad
+# wiki_annotation = title:Strollad;contexte:None;phonetic:None;text:|| Ur ||  strollad  || listri || a || c'hortoz || al || lanv || da || dostaat || ouz || an || aod.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || groupe || [[lestr|vaisseau]].[[-i (PL.)|x]] || [[R]]<sup>[[1]]</sup> || [[gortoz|attend]] || [[an, al, ar|le]] || [[lanv|marée]] || [[da|pour]]<sup>[[1]]</sup> || [[tost|proch]].[[-aat|er]] || [[ouzh|de]] || [[an, al, ar|le]] || [[aod|côte]];translation:'Un groupe de bateaux attend la marée pour s'approcher de la côte.';agrammaticale:None;info:''Léonard'', [[Abeozen (1942)|Abeozen (1942]]:364);category:Léonard;source:Abeozen (1942:364);link:https://arbres.iker.cnrs.fr/index.php?title=Strollad
 1	Ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 2	strollad	strollad	NOUN	nom	_	_	_	_	Gloss=groupe
 3-4	listri	_	_	_	_	_	_	_	_

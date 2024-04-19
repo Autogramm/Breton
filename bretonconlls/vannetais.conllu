@@ -1904,13 +1904,13 @@
 
 # sent_id = Louis(2015:209)__88
 # text =  Un  ivraign  e  goll  é  speret  a nebedigueu,  e  uz  é  yéhæd.
-# text_fr = 'Un ivrogne perd son esprit petit-à-petit, s'use la santé, ().'
+# text_fr = 'Un ivrogne perd son esprit petit-à-petit, s'use la santé.'
 # dialect = Vannetais pré-moderne
 # location = 1830
 # source = Louis (2015:209)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-nebeudigoù
-# wiki_annotation = title:A-nebeudigoù;contexte:None;phonetic:None;text:|| Un || ivraign || e || goll || é || speret || a  nebed igueu, || e || uz || é || yéhæd.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[ivraign|ivrogne]] || [[R]]<sup>[[1]]</sup> || [[koll|perd]] || [[POSS|son]]<sup>[[1]]</sup> || [[spered|esprit]] || [[a|à]] [[nebeut|peu]].[[-ig|DIM]].[[-où (PL.)|PL]] || [[R]]<sup>[[1]]</sup> || [[uziñ|use]] || [[POSS|son]]<sup>[[1]]</sup> || [[yec'hed|santé]];translation:'Un ivrogne perd son esprit petit-à-petit, s'use la santé, (...).';agrammaticale:None;info:''Vannetais pré-moderne (1830)'', [[IS.]] cité dans  dans [[Louis (2015)|Louis (2015]]:209);category:Vannetais pré-moderne (1830);source:Louis (2015:209);link:https://arbres.iker.cnrs.fr/index.php?title=A-nebeudigoù
+# wiki_annotation = title:A-nebeudigoù;contexte:None;phonetic:None;text:|| Un || ivraign || e || goll || é || speret || a  nebed igueu, || e || uz || é || yéhæd.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[ivraign|ivrogne]] || [[R]]<sup>[[1]]</sup> || [[koll|perd]] || [[POSS|son]]<sup>[[1]]</sup> || [[spered|esprit]] || [[a|à]] [[nebeut|peu]].[[-ig|DIM]].[[-où (PL.)|PL]] || [[R]]<sup>[[1]]</sup> || [[uziñ|use]] || [[POSS|son]]<sup>[[1]]</sup> || [[yec'hed|santé]];translation:'Un ivrogne perd son esprit petit-à-petit, s'use la santé.';agrammaticale:None;info:''Vannetais pré-moderne (1830)'', [[IS.]] cité dans  dans [[Louis (2015)|Louis (2015]]:209);category:Vannetais pré-moderne (1830);source:Louis (2015:209);link:https://arbres.iker.cnrs.fr/index.php?title=A-nebeudigoù
 1	Un	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 2	ivraign	ivraign	NOUN	nc	_	_	_	_	Gloss=ivrogne
 3	e	a	ADP	préposition	_	_	_	_	Gloss=_|Mut=1
@@ -2247,14 +2247,14 @@
 7	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = Herrieu(1994:92)__104
-# text =  Setu  unan,  ar gwad  é  tiver  a-zoc'htoñ.
+# text =  Setu  unan,  ar  gwad  é  tiver  a-zoc'htoñ.
 # text_fr = 'En voici un qui saigne.'
 # dialect = Vannetais
 # location = None
 # source = Herrieu (1994:92)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-ziouzh
-# wiki_annotation = title:A-ziouzh;contexte:None;phonetic:None;text:|| Setu || unan, || ar gwad || é || tiver ||  a-zoc'htoñ .;gloss:None;standardise:None;lemgloss:|| [[setu|voici]] || [[unan|un]] || [[an, al, ar|le]] [[gwad|sang]] || [[particule o|à]]<sup>[[4]]</sup> || [[diverañ|couler]] || de.[[pronom incorporé|lui]];translation:'En voici un qui saigne.';agrammaticale:None;info:''Vannetais'', [[Herrieu (1994)|Herrieu (1994]]:92);category:Vannetais;source:Herrieu (1994:92);link:https://arbres.iker.cnrs.fr/index.php?title=A-ziouzh
+# wiki_annotation = title:A-ziouzh;contexte:None;phonetic:None;text:|| Setu || unan, || ar || gwad || é || tiver ||  a-zoc'htoñ .;gloss:None;standardise:None;lemgloss:|| [[setu|voici]] || [[unan|un]] || [[an, al, ar|le]] || [[gwad|sang]] || [[particule o|à]]<sup>[[4]]</sup> || [[diverañ|couler]] || de.[[pronom incorporé|lui]];translation:'En voici un qui saigne.';agrammaticale:None;info:''Vannetais'', [[Herrieu (1994)|Herrieu (1994]]:92);category:Vannetais;source:Herrieu (1994:92);link:https://arbres.iker.cnrs.fr/index.php?title=A-ziouzh
 1	Setu	setu	ADV	adverbe	_	_	_	_	Gloss=voici
 2	unan	unan	ADJ	adjectifs	_	_	_	_	Gloss=un
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -3876,9 +3876,9 @@
 # source = Herrieu (1994:35)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Atav
-# wiki_annotation = title:Atav;contexte:None;phonetic:None;text:|| Dav || eo || bet || dezhe || distroiñ || d'o || lec'h || lod ||  atav .;gloss:None;standardise:None;lemgloss:|| [[dav|dû]] || [[COP|est]] || [[bezañ|été]] || [[da|à]].[[pronom incorporé|eux]] || [[distreiñ|retourner]] || [[da|à]] [[POSS|leur]]<sup>[[2]]</sup> || [[lec'h|lieu]] || [[lod|certain]] || toujours;translation:'Ils ont dû s'en retourner, certains d'entre eux en tout cas.';agrammaticale:None;info:''Vannetais'', [[Herrieu (1994)|Herrieu (1994]]:35);category:Vannetais;source:Herrieu (1994:35);link:https://arbres.iker.cnrs.fr/index.php?title=Atav
+# wiki_annotation = title:Atav;contexte:None;phonetic:None;text:|| Dav || eo || bet || dezhe || distroiñ || d'o || lec'h || lod ||  atav .;gloss:None;standardise:None;lemgloss:|| [[dav|dû]] || [[eo|est]] || [[bezañ|été]] || [[da|à]].[[pronom incorporé|eux]] || [[distreiñ|retourner]] || [[da|à]] [[POSS|leur]]<sup>[[2]]</sup> || [[lec'h|lieu]] || [[lod|certain]] || toujours;translation:'Ils ont dû s'en retourner, certains d'entre eux en tout cas.';agrammaticale:None;info:''Vannetais'', [[Herrieu (1994)|Herrieu (1994]]:35);category:Vannetais;source:Herrieu (1994:35);link:https://arbres.iker.cnrs.fr/index.php?title=Atav
 1	Dav	dav	ADJ	adjectif	_	_	_	_	Gloss=dû
-2	eo	COP	AUX	AUX	_	_	_	_	Gloss=est
+2	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
 3	bet	bezañ	VERB	verbe	_	_	_	_	Gloss=été
 4-5	dezhe	_	_	_	_	_	_	_	_
 4	da	da	ADP	préposition	_	_	_	_	Gloss=à
@@ -4058,14 +4058,14 @@
 15	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = LeBayon(1878:45)__189
-# text =  Hadet  ur fawen  benak.
+# text =  Hadet  ur  fawen  benak.
 # text_fr = 'Semez quelques hêtres.'
 # dialect = Vannetais pré-moderne
 # location = 1878
 # source = Le Bayon (1878:45)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Bennak
-# wiki_annotation = title:Bennak;contexte:None;phonetic:None;text:|| Hadet || ur fawen || benak.;gloss:None;standardise:None;lemgloss:|| [[hadañ|semez]] || [[un, ul, ur|un]] [[faou|hêtres]].[[-enn|SG]] || quelconque;translation:'Semez quelques hêtres.';agrammaticale:None;info:''Vannetais pré-moderne (1878)'', [[Le Bayon (1878)|Le Bayon (1878]]:45);category:Vannetais pré-moderne (1878);source:Le Bayon (1878:45);link:https://arbres.iker.cnrs.fr/index.php?title=Bennak
+# wiki_annotation = title:Bennak;contexte:None;phonetic:None;text:|| Hadet || ur || fawen || benak.;gloss:None;standardise:None;lemgloss:|| [[hadañ|semez]] || [[un, ul, ur|un]] || [[faou|hêtres]].[[-enn|SG]] || quelconque;translation:'Semez quelques hêtres.';agrammaticale:None;info:''Vannetais pré-moderne (1878)'', [[Le Bayon (1878)|Le Bayon (1878]]:45);category:Vannetais pré-moderne (1878);source:Le Bayon (1878:45);link:https://arbres.iker.cnrs.fr/index.php?title=Bennak
 1	Hadet	hadañ	VERB	verbe	_	_	_	_	Gloss=semez
 2	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 3-4	fawen	_	_	_	_	_	_	_	_
@@ -5059,15 +5059,15 @@
 9	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 10	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = }__235
+# sent_id = Lamy(2021)__235
 # text =  E-barzh  ur  volenn  vraz,  bruzunit  ar  wastell  amanenn  (pe  teuzenn  chokolad).
 # text_fr = 'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).'
 # dialect = Vannetais standard
 # location = None
-# source = }
+# source = Lamy (2021)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Bruzuniñ
-# wiki_annotation = title:Bruzuniñ;contexte:None;phonetic:None;text:|| E-barzh || ur || volenn || vraz, ||  bruzunit  || ar || wastell || amanenn || (pe || teuzenn || chokolad).;gloss:None;standardise:None;lemgloss:|| [[e-barzh|dans]] || [[un, ul, ur|un]] || <sup>[[1]]</sup>[[bolenn|bol]] || <sup>[[1]]</sup>[[bras|grand]] || émiettez || [[an, al, ar|le]] || <sup>[[1]]</sup>[[gwastell|gâteau]] || [[amanenn|beurre]] || [[pe|ou]] || [[teuziñ|fond]].[[-enn|ant]] || [[chokolad|chocolat]];translation:'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).';agrammaticale:None;info:''Vannetais standard'', [[Lamy (2021)]]|};category:Vannetais standard;source:};link:https://arbres.iker.cnrs.fr/index.php?title=Bruzuniñ
+# wiki_annotation = title:Bruzuniñ;contexte:None;phonetic:None;text:|| E-barzh || ur || volenn || vraz, ||  bruzunit  || ar || wastell || amanenn || (pe || teuzenn || chokolad).;gloss:None;standardise:None;lemgloss:|| [[e-barzh|dans]] || [[un, ul, ur|un]] || <sup>[[1]]</sup>[[bolenn|bol]] || <sup>[[1]]</sup>[[bras|grand]] || émiettez || [[an, al, ar|le]] || <sup>[[1]]</sup>[[gwastell|gâteau]] || [[amanenn|beurre]] || [[pe|ou]] || [[teuziñ|fond]].[[-enn|ant]] || [[chokolad|chocolat]];translation:'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).';agrammaticale:None;info:''Vannetais standard'', [[Lamy (2021)]];category:Vannetais standard;source:Lamy (2021);link:https://arbres.iker.cnrs.fr/index.php?title=Bruzuniñ
 1	E-barzh	e-barzh	ADP	préposition	_	_	_	_	Gloss=dans
 2	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 3	volenn	bolenn	NOUN	nom	_	_	_	_	Gloss=bol
@@ -6972,13 +6972,13 @@
 
 # sent_id = ArBorgn(2011:36)__324
 # text =  Derc'hel  a  rae  da  lâret,  mes  lard  n'eo  ket  kig  eo.
-# text_fr = 'Il continuait à dire, mais dire n'est pas viande.' (''lâret'' = ''lar't'')
+# text_fr = 'Il continuait à dire, mais c'est bien beau de parler.'
 # dialect = Vannetais
 # location = Le Scorff
 # source = Ar Borgn (2011:36)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
-# wiki_annotation = title:Derc'hel;contexte:None;phonetic:None;text:||  Derc'hel  || a || rae || da || lâret, || mes || lard || n'eo || ket || kig || eo.;gloss:None;standardise:None;lemgloss:|| garder || [[R]] || [[ober|faisait]] || [[da|de]] || [[lavarout|dire]] || [[met|mais]] || [[lard|lard]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[kig|viande]] || [[eo|est]];translation:'Il continuait à dire, mais dire n'est pas viande.' (''lâret'' = ''lar't'');agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:36);category:Vannetais (Le Scorff);source:Ar Borgn (2011:36);link:https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
+# wiki_annotation = title:Derc'hel;contexte:None;phonetic:None;text:||  Derc'hel  || a || rae || da || lâret, || mes || lard || n'eo || ket || kig || eo.;gloss:None;standardise:None;lemgloss:|| garder || [[R]] || [[ober|faisait]] || [[da|de]] || [[lavarout|dire]] || [[met|mais]] || [[lard|lard]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[kig|viande]] || [[eo|est]];translation:'Il continuait à dire, mais c'est bien beau de parler.';agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:36);category:Vannetais (Le Scorff);source:Ar Borgn (2011:36);link:https://arbres.iker.cnrs.fr/index.php?title=Derc'hel
 1	Derc'hel	Derc'hel	VERB	verbe	_	_	_	_	Gloss=garder
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	rae	ober	VERB	verbe	_	_	_	_	Gloss=faisait
@@ -14058,15 +14058,15 @@
 15	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Guillevic&LeGoff(1986:79)__653
-# text =  (na)  braùet  un  iliz !
+# text =  Na  braùet  un  iliz !
 # text_fr = 'Quelle belle église !'
 # dialect = Vannetais
 # location = None
 # source = Guillevic & Le Goff (1986:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Iliz
-# wiki_annotation = title:Iliz;contexte:None;phonetic:None;text:|| (na) || braùet || un ||  iliz  !;gloss:None;standardise:None;lemgloss:|| [[na(g)|quel]] || [[brav|beau]].[[-at, -et (excl.)|excl.]] || [[un, ul, ur|un]] || église;translation:'Quelle belle église !';agrammaticale:None;info:''Vannetais'', [[Guillevic & Le Goff (1986)|Guillevic & Le Goff (1986]]:79);category:Vannetais;source:Guillevic & Le Goff (1986:79);link:https://arbres.iker.cnrs.fr/index.php?title=Iliz
-1	_	na(g)	SCONJ	complémenteur	_	_	_	_	Gloss=quel
+# wiki_annotation = title:Iliz;contexte:None;phonetic:None;text:|| Na || braùet || un ||  iliz  !;gloss:None;standardise:None;lemgloss:|| [[na(g)|quel]] || [[brav|beau]].[[-at, -et (excl.)|excl.]] || [[un, ul, ur|un]] || église;translation:'Quelle belle église !';agrammaticale:None;info:''Vannetais'', [[Guillevic & Le Goff (1986)|Guillevic & Le Goff (1986]]:79);category:Vannetais;source:Guillevic & Le Goff (1986:79);link:https://arbres.iker.cnrs.fr/index.php?title=Iliz
+1	Na	na(g)	SCONJ	complémenteur	_	_	_	_	Gloss=quel
 2-3	braùet	_	_	_	_	_	_	_	_
 2	brav	brav	ADJ	adjectif	_	_	_	_	Gloss=beau
 3	-at,-et	-at,-et(excl.)	X	suffixe	_	_	_	_	Gloss=excl
@@ -15459,26 +15459,28 @@
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = ArBorgn(2011:13)__718
-# text =  Chomet  '  oa  badaouet  ar  c'hazh  e-dan  ar peul.
+# text =  Chomet  '  oa  badaouet  ar  c'hazh  e-dan  ar  peul.
 # text_fr = 'Le chat était resté assommé sous le poteau.'
 # dialect = Vannetais
 # location = Le Scorff
 # source = Ar Borgn (2011:13)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Kazh
-# wiki_annotation = title:Kazh;contexte:None;phonetic:None;text:|| Chomet || ' || oa || badaouet || ar ||  c'hazh  || e-dan || ar peul.;gloss:None;standardise:None;lemgloss:|| [[chom|rest]].[[-et (Adj.)|é]] || [[R]] || [[eo|était]] || [[badaouiñ|assommé]] || [[an, al, ar|le]] || <sup>[[5]]</sup>chat || [[dindan|sous]] || [[an, al, ar|le]] [[peul|poteau]];translation:'Le chat était resté assommé sous le poteau.';agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:13);category:Vannetais (Le Scorff);source:Ar Borgn (2011:13);link:https://arbres.iker.cnrs.fr/index.php?title=Kazh
+# wiki_annotation = title:Kazh;contexte:None;phonetic:None;text:|| Chomet || ' || oa || badaouet || ar ||  c'hazh  || e-dan || ar || peul.;gloss:None;standardise:None;lemgloss:|| [[chom|rest]].[[-et (Adj.)|é]] || [[R]] || [[eo|était]] || [[badaouiñ|assomm]].[[-et (Adj.)|é]] || [[an, al, ar|le]] || <sup>[[5]]</sup>chat || [[dindan|sous]] || [[an, al, ar|le]] || [[peul|poteau]];translation:'Le chat était resté assommé sous le poteau.';agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:13);category:Vannetais (Le Scorff);source:Ar Borgn (2011:13);link:https://arbres.iker.cnrs.fr/index.php?title=Kazh
 1-2	Chomet	_	_	_	_	_	_	_	_
 1	chom	chom	VERB	verbe	_	_	_	_	Gloss=rest
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 3	'	R	VERB	verbe	_	_	_	_	Gloss=_
 4	oa	eo	AUX	AUX	_	_	_	_	Gloss=était
-5	badaouet	badaouiñ	VERB	v	_	_	_	_	Gloss=assommé
-6	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-7	c'hazh	c'hazh	NOUN	nc	_	_	_	_	Gloss=chat
-8	e-dan	dindan	ADP	préposition	_	_	_	_	Gloss=sous
-9	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-10	peul	peul	NOUN	nom	_	_	_	_	Gloss=poteau
-11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+5-6	badaouet	_	_	_	_	_	_	_	_
+5	badaouiñ	badaouiñ	_	_	_	_	_	_	Gloss=assomm
+6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
+7	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
+8	c'hazh	c'hazh	NOUN	nc	_	_	_	_	Gloss=chat
+9	e-dan	dindan	ADP	préposition	_	_	_	_	Gloss=sous
+10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
+11	peul	peul	NOUN	nom	_	_	_	_	Gloss=poteau
+12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Nicolas(2005:34)__719
 # text =  Kenevezoñ  'vehe  ket  bet  kement  a  dud.
@@ -17492,24 +17494,23 @@
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1997:§459)__813
-# text =  ken  ' teze  d'ar gêr.
-# text_fr = 'Jusqu'à ce qu'il revînt à la maison (régulièrement).'
+# text =  ken  ' teze  d'ar  gêr
+# text_fr = 'jusqu'à ce qu'il revînt à la maison régulièrement'
 # dialect = entre Cornouaille et Vannetais
 # location = None
 # source = Favereau (1997:§459)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=L'habitude
-# wiki_annotation = title:L'habitude;contexte:None;phonetic:None;text:|| ken || '  teze  || d'ar gêr.;gloss:None;standardise:None;lemgloss:|| [[ken|jusqu'à]] || [[R]]<sup>[[4]]</sup> [[dont|venait]].HAB || [[da|à]] [[an, al, ar|le]] <sup>[[1]]</sup>[[kêr|foyer]];translation:'Jusqu'à ce qu'il revînt à la maison (régulièrement).';agrammaticale:None;info:''entre Cornouaille et Vannetais'', [[Favereau (1997)|Favereau (1997]]:§459);category:entre Cornouaille et Vannetais;source:Favereau (1997:§459);link:https://arbres.iker.cnrs.fr/index.php?title=L'habitude
+# wiki_annotation = title:L'habitude;contexte:None;phonetic:None;text:|| ken || '  teze  || d'ar || gêr;gloss:None;standardise:None;lemgloss:|| [[ken|jusqu'à]] || [[R]]<sup>[[4]]</sup> [[dont|venait]].HAB || [[da|à]] [[an, al, ar|le]] || <sup>[[1]]</sup>[[kêr|foyer]];translation:'jusqu'à ce qu'il revînt à la maison régulièrement';agrammaticale:None;info:''entre Cornouaille et Vannetais'', [[Favereau (1997)|Favereau (1997]]:§459);category:entre Cornouaille et Vannetais;source:Favereau (1997:§459);link:https://arbres.iker.cnrs.fr/index.php?title=L'habitude
 1	ken	ken	ADP	préposition	_	_	_	_	Gloss=jusqu'à
 2-4	'teze	_	_	_	_	_	_	_	_
 2	e	R	VERB	verbe	_	_	_	_	Gloss=_|Mut=4
 3	dont	dont	VERB	verbe	_	_	_	_	Gloss=venait
 4	teze	teze	_	_	_	_	_	_	Gloss=HAB
-5-7	d'argêr	_	_	_	_	_	_	_	_
+5-6	d'ar	_	_	_	_	_	_	_	_
 5	da	da	ADP	préposition	_	_	_	_	Gloss=à
 6	an,al,ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-7	kêr	kêr	NOUN	nom	_	_	_	_	Gloss=foyer
-8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+7	gêr	kêr	NOUN	nom	_	_	_	_	Gloss=foyer
 
 # sent_id = Favereau(1997:§459)__814
 # text =  Neuze  'h reze  skorn.
@@ -21493,20 +21494,19 @@
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = ArBorgn(2011:38)__995
-# text =  Kroget  'oant  get  brezel  al linselioù.
-# text_fr = 'Ils avaient attaqué la guerre des draps (ébats amoureux).'
+# text =  Kroget  '  oant  get  brezel  al  linselioù.
+# text_fr = 'Ils avaient attaqué la guerre des draps.' (ébats amoureux)
 # dialect = Vannetais
 # location = Le Scorff
 # source = Ar Borgn (2011:38)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Liñsel,_liñser
-# wiki_annotation = title:Liñsel, liñser;contexte:None;phonetic:None;text:|| Kroget || 'oant || get || brezel || al  linselioù .;gloss:None;standardise:None;lemgloss:|| [[kregiñ|commenc]].[[-et (Adj.)|é]] || [[R]] [[COP|étaient]] || [[gant|avec]] || [[brezel|guerre]] || [[an, al, ar|le]] drap.[[-ioù (PL.)|s]];translation:'Ils avaient attaqué la guerre des draps (ébats amoureux).';agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:38);category:Vannetais (Le Scorff);source:Ar Borgn (2011:38);link:https://arbres.iker.cnrs.fr/index.php?title=Liñsel,_liñser
+# wiki_annotation = title:Liñsel, liñser;contexte:None;phonetic:None;text:|| Kroget || ' || oant || get || brezel || al ||  linselioù .;gloss:None;standardise:None;lemgloss:|| [[kregiñ|commenc]].[[-et (Adj.)|é]] || [[R]] || [[eo|étaient]] || [[gant|avec]] || [[brezel|guerre]] || [[an, al, ar|le]] || drap.[[-ioù (PL.)|s]];translation:'Ils avaient attaqué la guerre des draps.' (ébats amoureux);agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:38);category:Vannetais (Le Scorff);source:Ar Borgn (2011:38);link:https://arbres.iker.cnrs.fr/index.php?title=Liñsel,_liñser
 1-2	Kroget	_	_	_	_	_	_	_	_
 1	kregiñ	kregiñ	VERB	verbe	_	_	_	_	Gloss=commenc
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
-3-4	'oant	_	_	_	_	_	_	_	_
-3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-4	COP	COP	AUX	AUX	_	_	_	_	Gloss=étaient
+3	'	R	VERB	verbe	_	_	_	_	Gloss=_
+4	oant	eo	AUX	AUX	_	_	_	_	Gloss=étaient
 5	get	gant	ADP	préposition	_	_	_	_	Gloss=avec
 6	brezel	brezel	NOUN	nom	_	_	_	_	Gloss=guerre
 7	al	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
@@ -24813,15 +24813,15 @@
 
 # sent_id = Brenn(2002)__1147
 # text =  Pa  me  fou  chuih.
-# text_fr = 'Quand je serai fatigué(e).'
+# text_fr = 'Quand je serai fatiguée.'
 # dialect = Vannetais
 # location = Guérande
 # source = Brenn (2002)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ordres_V2_en_enchâssées
-# wiki_annotation = title:Ordres V2 en enchâssées;contexte:None;phonetic:None;text:||  Pa  || <u>me</u> ||  fou  || chuih.;gloss:None;standardise:None;lemgloss:|| [[pa|quand]] || [[Pfi|moi]] || [[COP|sera]] || [[skuizh|fatigué]];translation:'Quand je serai fatigué(e).';agrammaticale:None;info:''Vannetais (Guérande)'', [[Brenn (2002)]];category:Vannetais (Guérande);source:Brenn (2002);link:https://arbres.iker.cnrs.fr/index.php?title=Ordres_V2_en_enchâssées
+# wiki_annotation = title:Ordres V2 en enchâssées;contexte:None;phonetic:None;text:||  Pa  || <u>me</u> ||  fou  || chuih.;gloss:None;standardise:None;lemgloss:|| [[pa|quand]] || [[pfi|moi]] || [[COP|sera]] || [[skuizh|fatigué]];translation:'Quand je serai fatiguée.';agrammaticale:None;info:''Vannetais (Guérande)'', [[Brenn (2002)]];category:Vannetais (Guérande);source:Brenn (2002);link:https://arbres.iker.cnrs.fr/index.php?title=Ordres_V2_en_enchâssées
 1	Pa	pa	SCONJ	complémenteur	_	_	_	_	Gloss=quand
-2	me	Pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+2	me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 3	fou	COP	AUX	AUX	_	_	_	_	Gloss=sera
 4	chuih	skuizh	ADJ	adjectif	_	_	_	_	Gloss=fatigué
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -31626,13 +31626,13 @@
 
 # sent_id = Brenn(2002)__1465
 # text =  Pa  me  fou  chuih.
-# text_fr = 'Quand je serai fatigué(e).'
+# text_fr = 'Quand je serai fatiguée.'
 # dialect = Vannetais
 # location = Guérande
 # source = Brenn (2002)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Skuizh
-# wiki_annotation = title:Skuizh;contexte:None;phonetic:None;text:|| Pa || me || fou ||  chuih .;gloss:None;standardise:None;lemgloss:|| [[pa|quand]]<sup>[[1]]</sup> || [[Pfi|moi]] || [[COP|sera]] || fatigué;translation:'Quand je serai fatigué(e).';agrammaticale:None;info:''Vannetais (Guérande)'', [[Brenn (2002)]];category:Vannetais (Guérande);source:Brenn (2002);link:https://arbres.iker.cnrs.fr/index.php?title=Skuizh
+# wiki_annotation = title:Skuizh;contexte:None;phonetic:None;text:|| Pa || me || fou ||  chuih .;gloss:None;standardise:None;lemgloss:|| [[pa|quand]]<sup>[[1]]</sup> || [[Pfi|moi]] || [[COP|sera]] || fatigué;translation:'Quand je serai fatiguée.';agrammaticale:None;info:''Vannetais (Guérande)'', [[Brenn (2002)]];category:Vannetais (Guérande);source:Brenn (2002);link:https://arbres.iker.cnrs.fr/index.php?title=Skuizh
 1	Pa	pa	SCONJ	complémenteur	_	_	_	_	Gloss=quand
 2	me	Pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 3	fou	COP	AUX	AUX	_	_	_	_	Gloss=sera
@@ -32348,31 +32348,32 @@
 20	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Nicolas(2005:II.53)__1497
-# text =  marse  '  oa  daouzek milion  'oa.
-# text_fr = 'peut-être que c'était douze millions (que c'était).'
+# text =  marse  '  oa  daouzek  milion  'oa.
+# text_fr = 'peut-être que c'était douze millions que c'était.'
 # dialect = Vannetais
 # location = Kistinid
 # source = Nicolas (2005:II.53)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
-# wiki_annotation = title:Structures clivées;contexte:None;phonetic:(3)||<font color=green> [ marsə ||<font color=green> ||<font color=green>  wɛ  ||<font color=green> dawzɛ̃k miliõ||<font color=green>  wɛ  ];text:|| marse || ' || oa || daouzek milion || 'oa.;gloss:None;standardise:None;lemgloss:|| [[marteze|peut-être]] || [[R]] || [[eo|était]] || [[daouzek|douze]] million || [[R]] [[eo|était]];translation:'...peut-être que c'était douze millions (que c'était).';agrammaticale:None;info:''Vannetais (Kistinid)'', [[Nicolas (2005)|Nicolas (2005]]:II.53);category:Vannetais (Kistinid);source:Nicolas (2005:II.53);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
+# wiki_annotation = title:Structures clivées;contexte:None;phonetic:(3)||<font color=green> [ marsə ||<font color=green> ||<font color=green>  wɛ  ||<font color=green> dawzɛ̃k ||<font color=green> miliõ ||<font color=green>  wɛ  ];text:|| marse || ' || oa || daouzek || milion || 'oa.;gloss:None;standardise:None;lemgloss:|| [[marteze|peut-être]] || [[R]] || [[eo|était]] || [[daouzek|douze]] || [[milion|million]] || [[R]] [[eo|était]];translation:'...peut-être que c'était douze millions que c'était.';agrammaticale:None;info:''Vannetais (Kistinid)'', [[Nicolas (2005)|Nicolas (2005]]:II.53);category:Vannetais (Kistinid);source:Nicolas (2005:II.53);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
 1	marse	marteze	ADV	adverbe	_	_	_	_	Gloss=peut-être
 2	oa	eo	VERB	verbe	_	_	_	_	Gloss=était
-3	daouzek milion	daouzek	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=douze  million
-4-5	'oa	_	_	_	_	_	_	_	_
-4	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-5	eo	eo	AUX	AUX	_	_	_	_	Gloss=était
-6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+3	daouzek	daouzek	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=douze
+4	milion	milion	NOUN	nc	_	_	_	_	Gloss=million
+5-6	'oa	_	_	_	_	_	_	_	_
+5	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
+6	eo	eo	AUX	AUX	_	_	_	_	Gloss=était
+7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = ArBorgn(2011:36)__1498
 # text =  Derc'hel  a  rae  da  lâret,  mes  lard  n'eo  ket  kig  eo.
-# text_fr = 'Il continuait à dire, mais dire n'est pas viande.' (''lar't'' vs. ''[[lard]]'' ).'
+# text_fr = 'Il continuait à dire, mais dire n'est pas viande.' (lar't vs. [[lard]])
 # dialect = Vannetais
 # location = Le Scorff
 # source = Ar Borgn (2011:36)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
-# wiki_annotation = title:Structures clivées;contexte:None;phonetic:None;text:|| Derc'hel || a || rae || da || lâret, || mes || lard ||  n'eo  ||  ket  || kig ||  eo .;gloss:None;standardise:None;lemgloss:|| [[derc'hel|continuer]] || [[R]] || [[ober|faisait]] || [[da|de]] || [[lavarout|dire]] || [[met|mais]] || [[lavarout|dire]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[kig|viande]] || [[eo|est]];translation:'Il continuait à dire, mais dire n'est pas viande.' (''lar't'' vs. ''[[lard]]'' ).';agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:36);category:Vannetais (Le Scorff);source:Ar Borgn (2011:36);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
+# wiki_annotation = title:Structures clivées;contexte:None;phonetic:None;text:|| Derc'hel || a || rae || da || lâret, || mes || lard ||  n'eo  ||  ket  || kig ||  eo .;gloss:None;standardise:None;lemgloss:|| [[derc'hel|continuer]] || [[R]] || [[ober|faisait]] || [[da|de]] || [[lavarout|dire]] || [[met|mais]] || [[lavarout|dire]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[kig|viande]] || [[eo|est]];translation:'Il continuait à dire, mais dire n'est pas viande.' (lar't vs. [[lard]]);agrammaticale:None;info:''Vannetais (Le Scorff)'', [[Ar Borgn (2011)|Ar Borgn (2011]]:36);category:Vannetais (Le Scorff);source:Ar Borgn (2011:36);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_clivées
 1	Derc'hel	derc'hel	VERB	verbe	_	_	_	_	Gloss=continuer
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	rae	ober	VERB	verbe	_	_	_	_	Gloss=faisait
@@ -33930,15 +33931,15 @@
 6	zennerezh	tir.-erezh	NOUN	nc	_	_	_	_	Gloss=activité
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = }__1567
+# sent_id = Lamy(2021)__1567
 # text =  E-barzh  ur  volenn  vraz,  bruzunit  ar  wastell  amanenn  (pe  teuzenn  chokolad).
 # text_fr = 'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).'
 # dialect = Vannetais standard
 # location = None
-# source = }
+# source = Lamy (2021)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Teuziñ
-# wiki_annotation = title:Teuziñ;contexte:None;phonetic:None;text:|| E-barzh || ur || volenn || vraz, || bruzunit || ar || wastell || amanenn || (pe ||  teuzenn  || chokolad).;gloss:None;standardise:None;lemgloss:|| [[e-barzh|dans]] || [[un, ul, ur|un]] || <sup>[[1]]</sup>[[bolenn|bol]] || <sup>[[1]]</sup>[[bras|grand]] || [[bruzuniñ|émiettez]] || [[an, al, ar|le]] || <sup>[[1]]</sup>[[gwastell|gâteau]] || [[amanenn|beurre]] || [[pe|ou]] || fondant || [[chokolad|chocolat]];translation:'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).';agrammaticale:None;info:''Vannetais standard'', [[Lamy (2021)]]|};category:Vannetais standard;source:};link:https://arbres.iker.cnrs.fr/index.php?title=Teuziñ
+# wiki_annotation = title:Teuziñ;contexte:None;phonetic:None;text:|| E-barzh || ur || volenn || vraz, || bruzunit || ar || wastell || amanenn || (pe ||  teuzenn  || chokolad).;gloss:None;standardise:None;lemgloss:|| [[e-barzh|dans]] || [[un, ul, ur|un]] || <sup>[[1]]</sup>[[bolenn|bol]] || <sup>[[1]]</sup>[[bras|grand]] || [[bruzuniñ|émiettez]] || [[an, al, ar|le]] || <sup>[[1]]</sup>[[gwastell|gâteau]] || [[amanenn|beurre]] || [[pe|ou]] || fondant || [[chokolad|chocolat]];translation:'Dans un grand bol, émiettez le quatre-quarts (ou le fondant au chocolat).';agrammaticale:None;info:''Vannetais standard'', [[Lamy (2021)]];category:Vannetais standard;source:Lamy (2021);link:https://arbres.iker.cnrs.fr/index.php?title=Teuziñ
 1	E-barzh	e-barzh	ADP	préposition	_	_	_	_	Gloss=dans
 2	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 3	volenn	bolenn	NOUN	nom	_	_	_	_	Gloss=bol

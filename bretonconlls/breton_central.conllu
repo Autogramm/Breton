@@ -454,13 +454,13 @@
 
 # sent_id = Favereau(1984:439)__24
 # text =  ha  '  vez  gouezet  papred  lar  e'  be  Begeor  e'.
-# text_fr = '… et on sait toujours que c'est la tombe de Bégéor (que c'est).'
+# text_fr = '… et on sait toujours que c'est la tombe de Bégéor.'
 # dialect = Breton central
 # location = Poullaouen
 # source = Favereau (1984:439)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Bepred
-# wiki_annotation = title:Bepred;contexte:None;phonetic:None;text:|| ha || ' || vez || gouezet ||  papred  || lar || e' || be || Begeor || e'.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]] || [[vez|est]] || [[gouzout|s]].[[-et (Adj.)|u]] || toujours || [[la(r)|que]] || [[eo|est]] || [[bez, ar bez|tombe]] || [[nom propre|Begeor]] || [[eo|est]];translation:'… et on sait toujours que c'est la tombe de Bégéor (que c'est).';agrammaticale:None;info:''Breton central (Poullaouen)'', locuteur né vers 1910 cité dans  dans [[Favereau (1984)|Favereau (1984]]:439);category:Breton central (Poullaouen);source:Favereau (1984:439);link:https://arbres.iker.cnrs.fr/index.php?title=Bepred
+# wiki_annotation = title:Bepred;contexte:None;phonetic:None;text:|| ha || ' || vez || gouezet ||  papred  || lar || e' || be || Begeor || e'.;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[R]] || [[vez|est]] || [[gouzout|s]].[[-et (Adj.)|u]] || toujours || [[la(r)|que]] || [[eo|est]] || [[bez, ar bez|tombe]] || [[nom propre|Begeor]] || [[eo|est]];translation:'… et on sait toujours que c'est la tombe de Bégéor.';agrammaticale:None;info:''Breton central (Poullaouen)'', locuteur né vers 1910 cité dans  dans [[Favereau (1984)|Favereau (1984]]:439);category:Breton central (Poullaouen);source:Favereau (1984:439);link:https://arbres.iker.cnrs.fr/index.php?title=Bepred
 1	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	'	R	VERB	verbe	_	_	_	_	Gloss=_
 3	vez	vez	VERB	verbe	_	_	_	_	Gloss=est
@@ -642,41 +642,45 @@
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Humphreys(1995:393)__32
-# text =  'oac'h  ''o vont''  da lâret  din
-# text_fr = 'Vous alliez me (le) dire.'
+# text =  '  Oac'h  o  vont  da  lâret  din.
+# text_fr = 'Vous alliez me dire.'
 # dialect = Breton central
 # location = None
 # source = Humphreys (1995:393)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Da
-# wiki_annotation = title:Da;contexte:None;phonetic:(2)||<font color=green> wèh ||<font color=green> ''h,ón'' ||<font color=green>  tǝ  l'a:r ||<font color=green> tén;text:|| 'oac'h || ''o vont'' ||  da  lâret || din;gloss:None;standardise:None;lemgloss:|| [[eo|étiez]] || [[particule o|à]]<sup>[[1]]</sup> [[mont|aller]] || à [[lavarout|dire]] || à.[[pronom incorporé|moi]];translation:'Vous alliez me (le) dire.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:393);category:Breton central;source:Humphreys (1995:393);link:https://arbres.iker.cnrs.fr/index.php?title=Da
-1	'oac'h	eo	VERB	verbe	_	_	_	_	Gloss=étiez
-2	''o	particuleo	ADP	prep	_	_	_	_	Gloss=à
-3	vont''	mont	VERB	verbe	_	_	_	_	Gloss=aller
-4	da lâret	à lavarout	VERB	v	_	_	_	_	Gloss=dire
-5	din	à.me	DET	pro	_	_	_	_	Gloss=moi
+# wiki_annotation = title:Da;contexte:None;phonetic:(2)||<font color=green> ||<font color=green> wèh ||<font color=green> ||<font color=green> h,ón ||<font color=green>  tǝ  || l'a:r ||<font color=green> tén;text:|| ' || Oac'h || o || vont ||  da  || lâret || din.;gloss:None;standardise:None;lemgloss:|| [[R]] || [[eo|étiez]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || à || [[lavarout|dire]] || à.[[pronom incorporé|moi]];translation:'Vous alliez me dire.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:393);category:Breton central;source:Humphreys (1995:393);link:https://arbres.iker.cnrs.fr/index.php?title=Da
+1	Oac'h	eo	VERB	verbe	_	_	_	_	Gloss=étiez
+2	vont	mont	VERB	verbe	_	_	_	_	Gloss=aller
+3	da	da	ADP	préposition	_	_	_	_	Gloss=à
+4	lâret	lavarout	VERB	verbe	_	_	_	_	Gloss=dire
+5	din	à.me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Humphreys(1995:353)__33
-# text =  M-eus ket  ''arruet''  da welet  anezhañ  c'hoazh.
+# text =  M-eus  ket  arruet  da  welet  anezhañ  c'hoazh.
 # text_fr = 'Je n'ai pas encore réussi à le voir.'
 # dialect = Breton central
 # location = None
 # source = Humphreys (1995:353)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Da
-# wiki_annotation = title:Da;contexte:None;phonetic:(3)||<font color=green>m,əs kəd ||<font color=green>  a:jə'' ||<font color=green>  tǝ  v'el ||<font color=green> nã ||<font color=green> hw'as.;text:|| M-eus ket || ''arruet'' ||  da  welet || anezhañ || c'hoazh.;gloss:None;standardise:None;lemgloss:|| [[R]].1SG [[kaout|a]] [[ket|pas]] || arrivé || à<sup>[[1]]</sup> [[gwelout|voir]] || [[a|P]].[[pronom incorporé|lui]] || [[c'hoazh|encore]];translation:'Je n'ai pas encore réussi à le voir.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:353);category:Breton central;source:Humphreys (1995:353);link:https://arbres.iker.cnrs.fr/index.php?title=Da
-1-4	M-eusket	_	_	_	_	_	_	_	_
+# wiki_annotation = title:Da;contexte:None;phonetic:(3)||<font color=green> m,əs ||<font color=green> kəd ||<font color=green> 'a:jə ||<font color=green>  tǝ  ||<font color=green> v'el ||<font color=green> nã ||<font color=green> hw'as.;text:|| M-eus || ket || arruet ||  da  || welet || anezhañ || c'hoazh.;gloss:None;standardise:None;lemgloss:|| [[R]].1SG [[kaout|a]] || [[ket|pas]] || [[erruout|arriv]].[[-et (Adj.)|é]] || à<sup>[[1]]</sup> || [[gwelout|voir]] || [[a|P]].[[pronom incorporé|lui]] || [[c'hoazh|encore]];translation:'Je n'ai pas encore réussi à le voir.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:353);category:Breton central;source:Humphreys (1995:353);link:https://arbres.iker.cnrs.fr/index.php?title=Da
+1-3	M-eus	_	_	_	_	_	_	_	_
 1	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5	''arruet''	_	_	_	_	_	_	_	Gloss=_
-6	da welet	à gwelout	VERB	v	_	_	_	_	Gloss=voir
-7-8	anezhañ	_	_	_	_	_	_	_	_
-7	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
-8	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-9	c'hoazh	c'hoazh	ADV	adverbe	_	_	_	_	Gloss=encore
-10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+5-6	arruet	_	_	_	_	_	_	_	_
+5	erruout	erruout	VERB	verbe	_	_	_	_	Gloss=arriv
+6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
+7	da	da	ADP	préposition	_	_	_	_	Gloss=à
+8	welet	gwelout	VERB	verbe	_	_	_	_	Gloss=voir
+9-10	anezhañ	_	_	_	_	_	_	_	_
+9	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
+10	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
+11	c'hoazh	c'hoazh	ADV	adverbe	_	_	_	_	Gloss=encore
+12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1993)__34
 # text =  Diwall  dam  'h  es  da  gaoud !
@@ -970,25 +974,39 @@
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Solliec(2015)__48
-# text =  Hoñzh   zeske  'lec'h  me  reen  ket.
-# text_fr = 'Elle, elle apprenait [bien] alors que ce n'est pas mon cas (litt. je ne faisais pas).'
+# text =  Hoñzh   zeske  'lec'h  me   reen  ket.
+# text_fr = 'Elle, elle apprenait alors que moi non.'
 # dialect = Breton central
 # location = Loqueffret
 # source = Solliec (2015)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=E-lec'h
-# wiki_annotation = title:E-lec'h;contexte:None;phonetic:None;text:|| Hoñzh || || zeske ||  'lec'h  || me || reen || ket.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[R]]<sup>[[1]]</sup> || [[deskiñ|apprenait]] || ([[P.e|en]]).lieu || [[pfi|moi]] [[ne|ne]]<sup>[[1]]</sup> || [[ober|faisais]] || [[ket|pas]];translation:'Elle, elle apprenait [bien] alors que ce n'est pas mon cas (litt. je ne faisais pas).';agrammaticale:None;info:''Breton central (Loqueffret)'', [[Solliec (2015)]];category:Breton central (Loqueffret);source:Solliec (2015);link:https://arbres.iker.cnrs.fr/index.php?title=E-lec'h
+# wiki_annotation = title:E-lec'h;contexte:None;phonetic:None;text:|| Hoñzh || || zeske ||  'lec'h  || me || || reen || ket.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[R]]<sup>[[1]]</sup> || [[deskiñ|apprenait]] || en.lieu || [[pfi|moi]] || [[ne|ne]]<sup>[[1]]</sup> || [[ober|faisais]] || [[ket|pas]];translation:'Elle, elle apprenait alors que moi non.';agrammaticale:None;info:''Breton central (Loqueffret)'', [[Solliec (2015)]];category:Breton central (Loqueffret);source:Solliec (2015);link:https://arbres.iker.cnrs.fr/index.php?title=E-lec'h
 1	Hoñzh	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	zeske	deskiñ	VERB	verbe	_	_	_	_	Gloss=apprenait
-3	'lec'h	(P.e	_	_	_	_	_	_	Gloss=en ) lieu
-4-5	me	_	_	_	_	_	_	_	_
-4	pfi	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
-6	reen	ober	VERB	verbe	_	_	_	_	Gloss=faisais
-7	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+3	'lec'h	'lec'h	_	_	_	_	_	_	Gloss=en lieu
+4	me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+5	reen	ober	VERB	verbe	_	_	_	_	Gloss=faisais
+6	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
+7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Lozac'h(2014:'Be(za)')__49
+# sent_id = Humphreys(1995:393)__49
+# text =  'Oac'h  o  vont  da  lâret   din.
+# text_fr = 'Vous alliez me le dire.'
+# dialect = Breton central
+# location = None
+# source = Humphreys (1995:393)
+# status = WIP
+# wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ellipses
+# wiki_annotation = title:Ellipses;contexte:None;phonetic:(2)||<font color=green> [ wèh ||<font color=green> ||<font color=green> h,ón ||<font color=green> tǝ ||<font color=green>  l'a:r  || <font color=violet>_[''ø'']_</font color=violet> ||<font color=green> tén  ];text:|| 'Oac'h || o || vont || da ||  lâret  || || din.;gloss:None;standardise:None;lemgloss:|| [[R]] || [[eo|étiez]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || [[da|à]]<sup>[[1]]</sup> || [[lavarout|dire]] || _ || [[da|à]].[[pronom incorporé|moi]];translation:'Vous alliez me le dire.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:393);category:Breton central;source:Humphreys (1995:393);link:https://arbres.iker.cnrs.fr/index.php?title=Ellipses
+1	'Oac'h	R	VERB	verbe	_	_	_	_	Gloss=_
+2	vont	particuleo	ADP	prep	_	_	_	_	Gloss=à
+3	da	mont	VERB	verbe	_	_	_	_	Gloss=aller
+4	lâret	da	ADP	préposition	_	_	_	_	Gloss=à
+5	din	_	_	_	_	_	_	_	Gloss=_
+6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
+
+# sent_id = Lozac'h(2014:'Be(za)')__50
 # text =  Set'  ma  braw  an  amzer.
 # text_fr = 'Voilà que le temps est beau.' (passager)
 # dialect = Breton central
@@ -1004,7 +1022,7 @@
 5	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Lozac'h(2014:'Be(za)')__50
+# sent_id = Lozac'h(2014:'Be(za)')__51
 # text =  Braw  é  an  amzer
 # text_fr = 'Le temps est beau.' (constant)
 # dialect = Breton central
@@ -1018,7 +1036,7 @@
 3	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 4	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 
-# sent_id = Favereau(1984:357)__51
+# sent_id = Favereau(1984:357)__52
 # text =  ar joent(r)ell  pi  ar souvantrierenn
 # text_fr = 'la souventrière (attelage)'
 # dialect = Breton central
@@ -1033,7 +1051,7 @@
 4	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 5	souvantrierenn	souventrière.-enn	_	_	_	_	_	_	Gloss=SG
 
-# sent_id = Solliec(2015:75)__52
+# sent_id = Solliec(2015:75)__53
 # text =  en-istribilh  doc'h  ar skeul.
 # text_fr = 'suspendu à l'échelle'
 # dialect = Breton central
@@ -1048,7 +1066,7 @@
 4	skeul	skeul	NOUN	nom	_	_	_	_	Gloss=échelle
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§235)__53
+# sent_id = Favereau(1997:§235)__54
 # text =  chom  es-kroug,  es-pign
 # text_fr = 'rester accroché'
 # dialect = Breton central
@@ -1062,7 +1080,7 @@
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 4	es-pign	''pfx''-pignat	VERB	v	_	_	_	_	Gloss=monter
 
-# sent_id = LeGarrec(1901:74)__54
+# sent_id = LeGarrec(1901:74)__55
 # text =  da  bellât  deuz  ouzon  trubuill  hag  enkrezo.
 # text_fr = ' d'éloigner de moi des anxiétés et des angoisses'
 # dialect = Breton central
@@ -1084,7 +1102,7 @@
 9	enkrezo	angoisse.-où(PL.)	NOUN	nc	_	_	_	_	Gloss=s
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§200)__55
+# sent_id = Favereau(1997:§200)__56
 # text =  ken  koant  'giz  d'ar  rozenn  gaera
 # text_fr = 'aussi beau que la plus belle rose'
 # dialect = Breton central
@@ -1104,7 +1122,7 @@
 7	kaer	kaer	ADJ	adjectif	_	_	_	_	Gloss=belle
 8	superlatif	superlatif	ADJ	adjectif	_	_	_	_	Gloss=le plus
 
-# sent_id = Favereau(1997:§200)__56
+# sent_id = Favereau(1997:§200)__57
 # text =  ken  koant  'vel  ar rozenn  gaera
 # text_fr = 'aussi jolie que la plus belle des roses'
 # dialect = Breton central
@@ -1122,7 +1140,7 @@
 6	kaer	kaer	ADJ	adjectif	_	_	_	_	Gloss=belle
 7	superlatif	superlatif	ADJ	adjectif	_	_	_	_	Gloss=le plus
 
-# sent_id = LeGarrec(1901:40)__57
+# sent_id = LeGarrec(1901:40)__58
 # text =  Eun  den  karantezuz  sort  eo  Fanch  em c'hever.
 # text_fr = 'Un homme aussi aimant que l'est Fanch à mon égard'
 # dialect = Breton central
@@ -1145,7 +1163,7 @@
 10	c'hever	e-keñver	ADP	préposition	_	_	_	_	Gloss=endroit
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:358)__58
+# sent_id = Favereau(1984:358)__59
 # text =  Ne  visae  ket  e'mm  da  daol  evezh  pi  plet  tehe !
 # text_fr = 'Il n'y avait pas besoin d'y prêter attention ou cas.'
 # dialect = Breton central
@@ -1168,7 +1186,7 @@
 11	int	int	DET	pro	_	_	_	_	Gloss=eux
 12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:441)__59
+# sent_id = Favereau(1984:441)__60
 # text =  ha  vrrip,  Yann  '  hont  roud  nor  gass  ar liñsen
 # text_fr = 'et vrrip, Yann s'en fût en prenant le drap.'
 # dialect = Breton central
@@ -1189,7 +1207,7 @@
 10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	liñsen	liñsen	NOUN	nom	_	_	_	_	Gloss=drap
 
-# sent_id = Avezard-Roger(2004a:452)__60
+# sent_id = Avezard-Roger(2004a:452)__61
 # text =  Aze  […]  e  vije  tremenet  forzh  kanaouennoù.
 # text_fr = 'Ici […], on passait pas mal de chansons.'
 # dialect = Breton central
@@ -1210,7 +1228,7 @@
 8	-où	-où(PL.)	X	suffixe	_	_	_	_	Gloss=s
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:376)__61
+# sent_id = Favereau(1984:376)__62
 # text =  Don'  a  rae  forzhig,  ya;  hehi  n'ae  ket.
 # text_fr = 'Ça venait pas mal, mais elle, elle n'y allait pas.' (en consultation)
 # dialect = Breton central
@@ -1233,7 +1251,7 @@
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:438)__62
+# sent_id = Favereau(1984:438)__63
 # text =  Da  belec'h  'vihe  be'  gallet  lakad  'nahoñ  da  vale  'mesk  an dud  all ?
 # text_fr = 'Où est-ce qu'on aurait pu le faire marcher avec les autres ?'
 # dialect = Breton central
@@ -1259,7 +1277,7 @@
 14	all 	all	PRON	pronom	_	_	_	_	Gloss=autre
 15	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = Favereau(1984:357)__63
+# sent_id = Favereau(1984:357)__64
 # text =  Gouest  eo  houmañ  da  goueo.
 # text_fr = 'Celle-ci était susceptible de tomber.'
 # dialect = Breton central
@@ -1275,7 +1293,7 @@
 5	goueo	kouezho	VERB	verbe	_	_	_	_	Gloss=tomber
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:439)__64
+# sent_id = Favereau(1984:439)__65
 # text =  ha  '  vez  gouezet  papred  lar  e'  be  Begeor  e'.
 # text_fr = 'et on sait toujours que c'est la tombe de Bégéor que c'est.'
 # dialect = Breton central
@@ -1296,7 +1314,7 @@
 10	e'	eo	AUX	AUX	_	_	_	_	Gloss=est
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Wmffre(1998:59)__65
+# sent_id = Wmffre(1998:59)__66
 # text =  '… Ha  Pier  de  Bro-Frañs  rout …'
 # text_fr = '… Et Pierre de France parti …'
 # dialect = Breton central
@@ -1311,7 +1329,7 @@
 4	Bro-Frañs	nompropre	NOUN	nom	_	_	_	_	Gloss=Po-Frans
 5	rout …'	rout	NOUN	nom	_	_	_	_	Gloss=parti
 
-# sent_id = Favereau(1984:263)__66
+# sent_id = Favereau(1984:263)__67
 # text =  ar walenn  pehini  'ma  reit  tit  bremañ  zo  seizh  'la  so
 # text_fr = 'la bague que je t'avais donnée il y a maintenant sept ans'
 # dialect = Breton central
@@ -1341,7 +1359,7 @@
 15	'la	bloaz	NOUN	nom	_	_	_	_	Gloss=an
 16	so	zo	AUX	AUX	_	_	_	_	Gloss=est
 
-# sent_id = Favereau(1997:§592)__67
+# sent_id = Favereau(1997:§592)__68
 # text =  Pell  '  oa  '  glevemp  'nezhoñ  '  hediñ  ar wazh.
 # text_fr = 'Il y avait longtemps que nous l'entendions longer le ruisseau.'
 # dialect = Breton central
@@ -1366,7 +1384,7 @@
 12	wazh	wazh	NOUN	nc	_	_	_	_	Gloss=ruisseau
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Lozac'h(2020:'(a)han(o)c'h')__68
+# sent_id = Lozac'h(2020:'(a)han(o)c'h')__69
 # text =  Ma  mije  gouïet  lar  a  oah  o  tond,  ma  laket  'han'h  ba  ma  goetur  'mestra !
 # text_fr = 'Si j'avais su que tu venais, je t'aurais quand-même pris dans ma voiture !'
 # dialect = Breton central
@@ -1403,7 +1421,7 @@
 21	'mestra 	memestra	ADV	adverbe	_	_	_	_	Gloss=quandmême
 22	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Avezard-Roger(2004a:248)__69
+# sent_id = Avezard-Roger(2004a:248)__70
 # text =  Yann  '  zo  ur  bugel  a  laboura  mat  e-barzh ar  skol.
 # text_fr = 'Yann est un enfant qui travaille bien à l'école.'
 # dialect = Breton central
@@ -1424,7 +1442,7 @@
 9	an,al,ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§592)__70
+# sent_id = Favereau(1997:§592)__71
 # text =  Pell  '  oa  '  glevemp  'nezhoñ  '  hediñ  ar wazh.
 # text_fr = 'Il y avait longtemps que nous l'entendions longer le ruisseau.'
 # dialect = Breton central
@@ -1447,7 +1465,7 @@
 11	wazh	gwazh	NOUN	nom	_	_	_	_	Gloss=ruisseau|Mut=1|Mutchoice=right
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:74)__71
+# sent_id = LeGarrec(1901:74)__72
 # text =  Nag  èn  oabr  koumouluz  heol  ebet  o  para.
 # text_fr = 'Et, dans le ciel nuageux, jamais un soleil qui se levât.'
 # dialect = Breton central
@@ -1470,7 +1488,7 @@
 10	para	parañ	VERB	verbes	_	_	_	_	Gloss=briller
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:395)__72
+# sent_id = Favereau(1984:395)__73
 # text =  la  'n heni  'nihe  ràet  on dra  d'ar  zant  nihe  bet  tri.
 # text_fr = '… que celui qui donnerait une chose au saint en recevrait trois.'
 # dialect = Breton central
@@ -1496,7 +1514,7 @@
 13	tri	tri	NOUN	nom	_	_	_	_	Gloss=trois
 14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§443)__73
+# sent_id = Favereau(1997:§443)__74
 # text =  pa  'zo  neve'   la'het  ur pemoc'h.
 # text_fr = 'Puisqu'on vient de tuer un cochon.'
 # dialect = Breton central
@@ -1515,7 +1533,7 @@
 7	pemoc'h	pemoc'h	NOUN	nom	_	_	_	_	Gloss=cochon
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:452)__74
+# sent_id = Avezard-Roger(2004a:452)__75
 # text =  Aze  […]  e  vije  tremenet  forzh  kanaouennoù.
 # text_fr = 'Ici […], on passait pas mal de chansons.'
 # dialect = Breton central
@@ -1537,7 +1555,7 @@
 9	-où	-où(PL.)	X	suffixe	_	_	_	_	Gloss=s
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = SperedArYezh(2002)__75
+# sent_id = SperedArYezh(2002)__76
 # text =  An  dud  o doa  ur  sell  stard,  du.
 # text_fr = 'Les gens avaient un regard dur, noir.'
 # dialect = Breton central
@@ -1557,7 +1575,7 @@
 9	du	du	ADJ	adjectif	_	_	_	_	Gloss=noir
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Humphreys(1995:337)__76
+# sent_id = Humphreys(1995:337)__77
 # text =  p-eus  ket  c'hoant   ma  p-eus  c'hoant
 # text_fr = 'Tu ne veux pas.' / 'Si tu veux.'
 # dialect = Breton central
@@ -1572,7 +1590,7 @@
 4	p-eus	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
 5	c'hoant	-c'h	X	suffixe	_	_	_	_	Gloss=toi -a
 
-# sent_id = Favereau(1984:441)__77
+# sent_id = Favereau(1984:441)__78
 # text =  Be'  meus  be'  Yann!
 # text_fr = 'J'ai eu Yann !'
 # dialect = Breton central
@@ -1587,7 +1605,7 @@
 4	Yann	nompropre	NOUN	nom	_	_	_	_	Gloss=Yann
 5	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Menard(1995:§gloc'hor)__78
+# sent_id = Menard(1995:§gloc'hor)__79
 # text =  En deus  tapet  gloc'horennoù  a-geñver  d'e  señturenn.
 # text_fr = 'Il a attrapé des ampoules du côté de la ceinture.'
 # dialect = Breton central
@@ -1613,7 +1631,7 @@
 11	señturenn	señturenn	VERB	v	_	_	_	_	Gloss=ceinture
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:357)__79
+# sent_id = Favereau(1984:357)__80
 # text =  kapad  eo  houmañ  da  goueo.
 # text_fr = 'Celle-ci était susceptible de tomber.'
 # dialect = Breton central
@@ -1629,7 +1647,7 @@
 5	goueo	kouezhañ	VERB	verbe	_	_	_	_	Gloss=tomber
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:412)__80
+# sent_id = Avezard-Roger(2004a:412)__81
 # text =  Tout  an dud  atav  '  gas  gwel  Kristiane.
 # text_fr = 'Tout le monde demande toujours Christiane.'
 # dialect = Breton central
@@ -1646,7 +1664,7 @@
 6	gwel	gwelout	VERB	verbe	_	_	_	_	Gloss=voir
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:119)__81
+# sent_id = Avezard-Roger(2004a:119)__82
 # text =  un  tamm  kuizin  tamm  kegin  vihan  vihan
 # text_fr = 'une petite cuisine, une petite cuisine toute petite.'
 # dialect = Breton central
@@ -1663,7 +1681,7 @@
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 7	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 
-# sent_id = Favereau(1984:443)__82
+# sent_id = Favereau(1984:443)__83
 # text =  an dud  '  larae  dehi  peneus  "ah,  rin  ket  boued  kin".
 # text_fr = 'Les gens lui disaient "ah, je ne ferai plus la cuisine … '
 # dialect = Breton central
@@ -1688,7 +1706,7 @@
 13	kin"	ken	ADP	préposition	_	_	_	_	Gloss=plus
 14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:397)__83
+# sent_id = Favereau(1984:397)__84
 # text =  ken  ne-int  miser  '  redeg.
 # text_fr = 'tant qu'ils auront du mal à courir.'
 # dialect = Breton central
@@ -1706,7 +1724,7 @@
 6	redeg	redek	VERB	verbe	_	_	_	_	Gloss=courir
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:392)__84
+# sent_id = Favereau(1984:392)__85
 # text =  or mell  bern  keneud
 # text_fr = 'un énorme tas de fagots'
 # dialect = Breton central
@@ -1720,7 +1738,7 @@
 3	bern	bern	NOUN	nom	_	_	_	_	Gloss=tas
 4	keneud	keneud	NOUN	nom	_	_	_	_	Gloss=bois
 
-# sent_id = Favereau(1984:299)__85
+# sent_id = Favereau(1984:299)__86
 # text =  Koulz  oa  d'ar  bobl  gweled  bleizi  ba  o  blass.
 # text_fr = 'La population aurait préféré avoir des loups plutôt qu'eux.'
 # dialect = Breton central
@@ -1744,7 +1762,7 @@
 11	blass	plas	NOUN	nom	_	_	_	_	Gloss=place
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__86
+# sent_id = LeGarrec(1901:64)__87
 # text =  Lavar  kerc'hat  Ar Prad  aman.
 # text_fr = 'Fais dire à Prat de venir ici.'
 # dialect = Breton central
@@ -1760,7 +1778,7 @@
 5	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§281)__87
+# sent_id = Favereau(1997:§281)__88
 # text =  Klevet  'm 'oa  peneus  '  oa  klañv.
 # text_fr = 'J'avais entendu dire qu'il était malade.'
 # dialect = Breton central
@@ -1780,7 +1798,7 @@
 8	klañv	klañv	ADJ	adjectif	_	_	_	_	Gloss=malade
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:394)__88
+# sent_id = Favereau(1984:394)__89
 # text =  Rei  koat  ta  henn'zh,  pezh  a gari.
 # text_fr = 'Frappez-le, tant que vous voudrez.'
 # dialect = Breton central
@@ -1799,7 +1817,7 @@
 8	gari	karout	VERB	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:263)__89
+# sent_id = Favereau(1984:263)__90
 # text =  or plac'h  koant  pezhani  garoñ  parfed
 # text_fr = 'une belle fille, que j'aime sérieusement'
 # dialect = Breton central
@@ -1818,7 +1836,7 @@
 7	garoñ	karout	VERB	verbe	_	_	_	_	Gloss=aime
 8	parfed	_	_	_	_	_	_	_	Gloss=_
 
-# sent_id = Favereau(1997:§200)__90
+# sent_id = Favereau(1997:§200)__91
 # text =  ken  koant  'giz  d'ar  rozenn  gaera
 # text_fr = 'aussi beau que la plus belle rose'
 # dialect = Breton central
@@ -1840,7 +1858,7 @@
 8	kaer	kaer	ADJ	adjectif	_	_	_	_	Gloss=belle
 9	superlatif	superlatif	ADJ	adjectif	_	_	_	_	Gloss=le plus
 
-# sent_id = LeGarrec(1901:74)__91
+# sent_id = LeGarrec(1901:74)__92
 # text =  Nag  èn  oabr  koumouluz  heol  ebet  o  para.
 # text_fr = 'Et, dans le ciel nuageux, jamais un soleil qui se levât.'
 # dialect = Breton central
@@ -1861,7 +1879,7 @@
 9	para	parañ	VERB	verbes	_	_	_	_	Gloss=briller
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:438)__92
+# sent_id = Favereau(1984:438)__93
 # text =  ha  'na  evet  an dour  kuit !
 # text_fr = '… et il avait bu toute l'eau !'
 # dialect = Breton central
@@ -1880,7 +1898,7 @@
 7	kuit 	kuit 	VERB	v	_	_	_	_	Gloss=parti
 8	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:347)__93
+# sent_id = Favereau(1984:347)__94
 # text =  'Vi'  bi'  kuit  ta  weled  ar viser  hag  ar baourente(z) dindan  o  zreid !
 # text_fr = 'Pour ne pas voir la misère et la pauvreté sous leurs pieds !'
 # dialect = Breton central
@@ -1908,7 +1926,7 @@
 15	plurielinterne	plurielinterne	X	pluriel	_	_	_	_	Gloss=s
 16	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Avezard-Roger(2004a:119)__94
+# sent_id = Avezard-Roger(2004a:119)__95
 # text =  un  tamm  kuizin  tamm  kegin  vihan  vihan
 # text_fr = 'une petite cuisine, une petite cuisine toute petite.'
 # dialect = Breton central
@@ -1925,7 +1943,7 @@
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 7	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 
-# sent_id = Favereau(1984:358)__95
+# sent_id = Favereau(1984:358)__96
 # text =  c'hoari  koach-koach
 # text_fr = 'jouer à cache-cache'
 # dialect = Breton central
@@ -1937,7 +1955,7 @@
 1	c'hoari	c'hoari(V.)	VERB	v	_	_	_	_	Gloss=jouer
 2	koach-koach	koach-koach	NOUN	nc	_	_	_	_	Gloss=cache-cache
 
-# sent_id = LeGarrec(1901:64)__96
+# sent_id = LeGarrec(1901:64)__97
 # text =  Anez  am oa  true,  vijen  ket  deut  aman.
 # text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
 # dialect = Breton central
@@ -1961,7 +1979,7 @@
 11	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:393)__97
+# sent_id = Favereau(1984:393)__98
 # text =  'Faot  ven  ki  d'ont  war-lerc'h  ar c'had.
 # text_fr = 'Que je sois chien pour poursuivre le lièvre.'
 # dialect = Breton central
@@ -1981,7 +1999,7 @@
 8	c'had	gad	NOUN	nom	_	_	_	_	Gloss=lièvre|Mut=1|Mutchoice=right
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:448)__98
+# sent_id = Avezard-Roger(2004a:448)__99
 # text =  pa  yemp  'barzh  (ar)  sal  ar gouelioù
 # text_fr = 'Quand nous allions à la salle des fêtes… '
 # dialect = Breton central
@@ -1997,7 +2015,7 @@
 5	sal	sal	NOUN	nc	_	_	_	_	Gloss=salle
 6	ar	an,al,ar	DET	det	_	_	_	_	Gloss=le
 
-# sent_id = Lozac'h(2014:'mond')__99
+# sent_id = Lozac'h(2014:'mond')__100
 # text =  An heñi   gouez  ba  krabanou  hezh  beñ  heñ  n'a  ket  pell  (a)nahoñ.
 # text_fr = 'Celui qui tombe entre ses paluches ne va pas loin.'
 # dialect = Breton central
@@ -2024,7 +2042,7 @@
 14	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 15	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:258)__100
+# sent_id = Avezard-Roger(2004a:258)__101
 # text =  C'hoant  meus  lar teuio.
 # text_fr = 'J'ai envie qu'il vienne.'
 # dialect = Breton central
@@ -2040,7 +2058,7 @@
 4	lar teuio	que dont	VERB	v	_	_	_	_	Gloss=viendra
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:439)__101
+# sent_id = Favereau(1984:439)__102
 # text =  Kompen  a  raoñ  la  out  gwasket  on  tamm.
 # text_fr = 'Je comprends que ça te pèse.'
 # dialect = Breton central
@@ -2061,7 +2079,7 @@
 9	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Landré(1981)__102
+# sent_id = Landré(1981)__103
 # text =  domaj  é  la  vé  ket  favoriset.
 # text_fr = 'Il est dommage que ce ne soit pas favorisé.'
 # dialect = Breton central
@@ -2080,7 +2098,7 @@
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§200)__103
+# sent_id = Favereau(1997:§200)__104
 # text =  ken  koant  { 'giz / 'vel }  d'ar  rozenn  gaera
 # text_fr = 'aussi beau que la plus belle rose'
 # dialect = Breton central
@@ -2102,7 +2120,7 @@
 8	kaer	kaer	ADJ	adjectif	_	_	_	_	Gloss=belle
 9	superlatif	superlatif	ADJ	adjectif	_	_	_	_	Gloss=le plus
 
-# sent_id = Avezard-Roger(2004a:222)__104
+# sent_id = Avezard-Roger(2004a:222)__105
 # text =  Eñ  '  zo  '  tont  deus  (a)  zebriñ.
 # text_fr = 'Il vient de manger.'
 # dialect = Breton central
@@ -2118,7 +2136,7 @@
 5	zebriñ	debriñ	VERB	verbe	_	_	_	_	Gloss=manger
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:439)__105
+# sent_id = Favereau(1984:439)__106
 # text =  '  Bassef  ket  kalz  a dud.
 # text_fr = 'Il ne passe pas beaucoup de gens.'
 # dialect = Breton central
@@ -2135,7 +2153,7 @@
 6	dud	tud	NOUN	nom	_	_	_	_	Gloss=gens
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Humphreys(1995:393)__106
+# sent_id = Humphreys(1995:393)__107
 # text =  'oac'h  o  vont  da  lâret  din
 # text_fr = 'Vous alliez me le dire.'
 # dialect = Breton central
@@ -2152,7 +2170,7 @@
 5	da	da	ADP	préposition	_	_	_	_	Gloss=à
 6	me	me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 
-# sent_id = Favereau(1984:392)__107
+# sent_id = Favereau(1984:392)__108
 # text =  ar  chô  gwenn   tri  gi  gantoñ.
 # text_fr = 'le cheval blanc, accompagné de trois chiens'
 # dialect = Breton central
@@ -2171,7 +2189,7 @@
 7	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:370)__108
+# sent_id = Favereau(1984:370)__109
 # text =  ar  lutun   daoulagad  paper
 # text_fr = 'le lutin aux yeux de papier'
 # dialect = Breton central
@@ -2187,7 +2205,7 @@
 4	lagad	lagad	NOUN	nom	_	_	_	_	Gloss=œil
 5	paper	paper	NOUN	nom	_	_	_	_	Gloss=papier
 
-# sent_id = Favereau(1984:392)__109
+# sent_id = Favereau(1984:392)__110
 # text =  or  mell  bern  keneud
 # text_fr = 'un énorme tas de fagots'
 # dialect = Breton central
@@ -2201,7 +2219,7 @@
 3	bern	bern	NOUN	nom	_	_	_	_	Gloss=tas
 4	keneud	keneud	NOUN	nom	_	_	_	_	Gloss=bois
 
-# sent_id = Favereau(1984:438)__110
+# sent_id = Favereau(1984:438)__111
 # text =  'Po  ke'  me'  selled,  ene  zo  or  pezh  blokad  rehier.
 # text_fr = 'Tu n'auras qu'à regarder, il y a là un gros bloc de rochers.'
 # dialect = Breton central
@@ -2225,7 +2243,7 @@
 12	plurielinterne	plurielinterne	X	pluriel	_	_	_	_	Gloss=s
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:439)__111
+# sent_id = Favereau(1984:439)__112
 # text =  Kompen  a  raoñ  la  out  gwasket  on  tamm.
 # text_fr = 'Je comprends que ça te pèse.'
 # dialect = Breton central
@@ -2246,7 +2264,7 @@
 9	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__112
+# sent_id = LeGarrec(1901:64)__113
 # text =  Lavar  kerc'hat  Ar Prad  aman.
 # text_fr = 'Fais dire à Prat de venir ici.'
 # dialect = Breton central
@@ -2262,15 +2280,15 @@
 5	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Solliec(2015)__113
+# sent_id = Solliec(2015)__114
 # text =  Hoñzh   zeske  'lec'h  me  reen  ket.
-# text_fr = 'Elle, elle apprenait [bien] alors que ce n'est pas mon cas.'
+# text_fr = 'Elle, elle apprenait bien mais pas moi.'
 # dialect = Breton central
 # location = Loqueffret
 # source = Solliec (2015)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_complémenteurs
-# wiki_annotation = title:Les complémenteurs;contexte:None;phonetic:None;text:|| Hoñzh || || zeske ||  'lec'h  || me || reen || ket.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[R]]<sup>[[1]]</sup> || [[deskiñ|apprenait]] || ([[P.e|en]]).[[lec'h|lieu]] || [[pfi|moi]] [[ne|ne]]<sup>[[1]]</sup> || [[ober|faisais]] || [[ket|pas]];translation:'Elle, elle apprenait [bien] alors que ce n'est pas mon cas.';agrammaticale:None;info:''Breton central (Loqueffret)'', [[Solliec (2015)]];category:Breton central (Loqueffret);source:Solliec (2015);link:https://arbres.iker.cnrs.fr/index.php?title=Les_complémenteurs
+# wiki_annotation = title:Les complémenteurs;contexte:None;phonetic:None;text:|| Hoñzh || || zeske ||  'lec'h  || me || reen || ket.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[R]]<sup>[[1]]</sup> || [[deskiñ|apprenait]] || ([[P.e|en]]).[[lec'h|lieu]] || [[pfi|moi]] [[ne|ne]]<sup>[[1]]</sup> || [[ober|faisais]] || [[ket|pas]];translation:'Elle, elle apprenait bien mais pas moi.';agrammaticale:None;info:''Breton central (Loqueffret)'', [[Solliec (2015)]];category:Breton central (Loqueffret);source:Solliec (2015);link:https://arbres.iker.cnrs.fr/index.php?title=Les_complémenteurs
 1	Hoñzh	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	zeske	deskiñ	VERB	verbe	_	_	_	_	Gloss=apprenait
 3-4	'lec'h	_	_	_	_	_	_	_	_
@@ -2283,7 +2301,7 @@
 8	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Solliec(2015:78)__114
+# sent_id = Solliec(2015:78)__115
 # text =  Poseve  vichen  aet,  pet'a  mije  gwelet ?
 # text_fr = 'Quand bien même j'[y] serais allé, qu'y aurais-je vu ?'
 # dialect = Breton central
@@ -2307,7 +2325,7 @@
 10	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
 11	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = :56,57,58)__115
+# sent_id = :56,57,58)__116
 # text =  Hemañ  lavar  e  tiskouezo  e  di  deoc'h.
 # text_fr = 'Il dit qu'il vous montrera sa maison.'
 # dialect = Breton central
@@ -2329,7 +2347,7 @@
 9	c’hwi	c’hwi	DET	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:441)__116
+# sent_id = Favereau(1984:441)__117
 # text =  ha  vrrip,  Yann  '  hont  roud  nor  gass  ar liñsen
 # text_fr = '… et vrrip, Yann s'en fût en prenant le drap.'
 # dialect = Breton central
@@ -2350,7 +2368,7 @@
 10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	liñsen	liñsen	NOUN	nom	_	_	_	_	Gloss=drap
 
-# sent_id = Avezard-Roger(2004a:119)__117
+# sent_id = Avezard-Roger(2004a:119)__118
 # text =  un tamm  kuizin  tamm  kegin  vihan  vihan
 # text_fr = 'une petite cuisine, une petite cuisine toute petite.'
 # dialect = Breton central
@@ -2366,7 +2384,7 @@
 5	kegin	kegin	NOUN	noms	_	_	_	_	Gloss=cuisine
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 
-# sent_id = Favereau(1984:360)__118
+# sent_id = Favereau(1984:360)__119
 # text =  Diw  pe  deir  mecher  rae  ar vigwale.
 # text_fr = 'Les enfants avaient deux, voire trois activités.'
 # dialect = Breton central
@@ -2388,7 +2406,7 @@
 9	plurielinterne	plurielinterne	X	pluriel	_	_	_	_	Gloss=s
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:392)__119
+# sent_id = Favereau(1984:392)__120
 # text =  ar chô  gwenn  tri  gi  gantoñ.
 # text_fr = 'le cheval blanc, accompagné de trois chiens'
 # dialect = Breton central
@@ -2407,7 +2425,7 @@
 7	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:441)__120
+# sent_id = Favereau(1984:441)__121
 # text =  ha  vrrip,  Yann  '  hont  roud  nor  gass  ar liñsen
 # text_fr = 'et vrrip, Yann s'en fût en prenant le drap.'
 # dialect = Breton central
@@ -2428,7 +2446,7 @@
 10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	liñsen	liñsen	NOUN	nom	_	_	_	_	Gloss=drap
 
-# sent_id = Favereau(1984:354)__121
+# sent_id = Favereau(1984:354)__122
 # text =  Piw  e'  ar zac'had  brenn,  -te ?
 # text_fr = 'Qui c'est ce sac de son ?' (cette bonne femme)
 # dialect = Breton central
@@ -2448,7 +2466,7 @@
 8	-te 	te	NOUN	nom	_	_	_	_	Gloss=toi!
 9	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = Favereau(1984:300)__122
+# sent_id = Favereau(1984:300)__123
 # text =  on  daoulagad  beuc'h  marlouiet
 # text_fr = 'une paire d'yeux de vache ayant eu un veau mort-né.'| (triste, incrédule, décontenancé)
 # dialect = Breton central
@@ -2466,7 +2484,7 @@
 5	marv	marv	NOUN	nom	_	_	_	_	Gloss=mort
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 
-# sent_id = Avezard-Roger(2004a:119)__123
+# sent_id = Avezard-Roger(2004a:119)__124
 # text =  un  tamm  kuizin  tamm  kegin  vihan  vihan
 # text_fr = 'une petite cuisine, une petite cuisine toute petite.'
 # dialect = Breton central
@@ -2483,7 +2501,7 @@
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 7	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 
-# sent_id = Favereau(1984:441)__124
+# sent_id = Favereau(1984:441)__125
 # text =  ha  vrrip,  Yann  '  hont  roud  nor  gass  ar liñsen
 # text_fr = '… et vrrip, Yann s'en fût en prenant le drap.'
 # dialect = Breton central
@@ -2504,7 +2522,7 @@
 10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	liñsen	liñsen	NOUN	nom	_	_	_	_	Gloss=drap
 
-# sent_id = Favereau(1984:370)__125
+# sent_id = Favereau(1984:370)__126
 # text =  ar  lutun  daoulagad  paper
 # text_fr = 'le lutin aux yeux de papier'
 # dialect = Breton central
@@ -2520,7 +2538,7 @@
 4	lagad	lagad	NOUN	nom	_	_	_	_	Gloss=œil
 5	paper	paper	NOUN	nom	_	_	_	_	Gloss=papier
 
-# sent_id = Favereau(1997:§585)__126
+# sent_id = Favereau(1997:§585)__127
 # text =  an dez  oa  bet  prenet
 # text_fr = 'le jour où il fut acheté'
 # dialect = Breton central
@@ -2537,7 +2555,7 @@
 5	prenañ	prenañ	VERB	verbe	_	_	_	_	Gloss=achet
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 
-# sent_id = Favereau(1984:392)__127
+# sent_id = Favereau(1984:392)__128
 # text =  or  mell  bern  keneud
 # text_fr = 'un énorme tas de fagots'
 # dialect = Breton central
@@ -2551,7 +2569,7 @@
 3	bern	bern	NOUN	nom	_	_	_	_	Gloss=tas
 4	keneud	keneud	NOUN	nom	_	_	_	_	Gloss=bois
 
-# sent_id = Favereau(1984:439)__128
+# sent_id = Favereau(1984:439)__129
 # text =  or  pezh  mell  den  bras
 # text_fr = 'un sacré grand gars'
 # dialect = Breton central
@@ -2566,7 +2584,7 @@
 4	den	den	NOUN	nom	_	_	_	_	Gloss=personne
 5	bras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 
-# sent_id = Favereau(1984:360)__129
+# sent_id = Favereau(1984:360)__130
 # text =  diw  pe  deir  mecher   rae  ar  vigwale.
 # text_fr = 'les enfants avaient deux, voire trois activités.'
 # dialect = Breton central
@@ -2586,7 +2604,7 @@
 8	plurielinterne	plurielinterne	X	pluriel	_	_	_	_	Gloss=s
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§443)__130
+# sent_id = Favereau(1997:§443)__131
 # text =  pa  '  zo  neve'  la'het  ur  pemoc'h.
 # text_fr = 'Puisqu'on vient de tuer un cochon.'
 # dialect = Breton central
@@ -2606,7 +2624,7 @@
 8	pemoc'h	pemoc'h	NOUN	nom	_	_	_	_	Gloss=cochon
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:300)__131
+# sent_id = Favereau(1984:300)__132
 # text =  on  daoulagad  beuc'h  marlouiet
 # text_fr = 'une paire d'yeux de vache ayant eu un veau mort-né.'| (triste, incrédule, décontenancé)
 # dialect = Breton central
@@ -2624,7 +2642,7 @@
 5	leue	leue	NOUN	nom	_	_	_	_	Gloss=veau
 6	mar	mar	NOUN	nom	_	_	_	_	Gloss=é
 
-# sent_id = Favereau(1984:353)__132
+# sent_id = Favereau(1984:353)__133
 # text =  N'eo  ket  bet  toullgofet  c'hoazh ?
 # text_fr = 'Elle n'a pas encore été déflorée ?'
 # dialect = Breton central
@@ -2645,7 +2663,7 @@
 8	c'hoazh 	c'hoazh	ADV	adverbe	_	_	_	_	Gloss=encore
 9	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = Favereau(1984:300)__133
+# sent_id = Favereau(1984:300)__134
 # text =  on  daoulagad  beuc'h  marlouiet
 # text_fr = 'une paire d'yeux de vache ayant eu un veau mort-né.'
 # dialect = Breton central
@@ -2663,7 +2681,7 @@
 5	marv	marv	NOUN	nom	_	_	_	_	Gloss=mort
 6	leue	leue	NOUN	nom	_	_	_	_	Gloss=veau
 
-# sent_id = Lozac'h(2012-:'nekon')__134
+# sent_id = Lozac'h(2012-:'nekon')__135
 # text =  Aet  oain  da  gerc'had  ar saout  d'ar  gêr,  mes  ne oa  nekon  e-bed kin  ba'r  park !
 # text_fr = 'J'étais allé chercher les vaches pour les ramener à la maison, mais il n'y en avait plus aucune dans le champ !'
 # dialect = Breton central
@@ -2697,7 +2715,7 @@
 20	park 	park	NOUN	nom	_	_	_	_	Gloss=parc
 21	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Plourin(1982:552)__135
+# sent_id = Plourin(1982:552)__136
 # text =  ar c'hoad  bihan  hag  ar re  vras.
 # text_fr = 'les petits morceaux de bois et les grands.'
 # dialect = Breton central
@@ -2715,7 +2733,7 @@
 7	vras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Plourin(1982:552)__136
+# sent_id = Plourin(1982:552)__137
 # text =  ar c'hoad  bihan  hag  ar  re  vras.
 # text_fr = 'les petits morceaux de bois et les grands.'
 # dialect = Breton central
@@ -2733,7 +2751,7 @@
 7	vras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:74)__137
+# sent_id = LeGarrec(1901:74)__138
 # text =  Nag  èn  oabr  koumouluz  heol  ebet  o  para.
 # text_fr = 'Et, dans le ciel nuageux, jamais un soleil qui se levât'
 # dialect = Breton central
@@ -2756,7 +2774,7 @@
 10	para	parañ	VERB	verbes	_	_	_	_	Gloss=briller
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Wmffre1998:56)__138
+# sent_id = Wmffre1998:56)__139
 # text =  faot ket  lavar gevier  kar gout 'ran  ar wirionez.
 # text_fr = 'Ne dites pas de mensonges car je connais la vérité.'
 # dialect = Breton central
@@ -2777,7 +2795,7 @@
 9	ar	an,al,ar	DET	det	_	_	_	_	Gloss=le
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:351)__139
+# sent_id = Favereau(1984:351)__140
 # text =  N'e  ke'  drol  neus  blew  ru  ho mab.
 # text_fr = 'Ce n'est pas étonnant que votre fils ait les cheveux roux.'
 # dialect = Breton central
@@ -2798,7 +2816,7 @@
 9	mab	mab	NOUN	nom	_	_	_	_	Gloss=fils
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:395)__140
+# sent_id = Favereau(1984:395)__141
 # text =  la   'n heni  'nihe  ràet  on dra  d'ar  zant  nihe  bet  tri.
 # text_fr = '… que celui qui donnerait une chose au saint en recevrait trois.'
 # dialect = Breton central
@@ -2828,7 +2846,7 @@
 16	tri	tri	NOUN	nom	_	_	_	_	Gloss=trois
 17	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Menard(1995:'gloc'hor')__141
+# sent_id = Menard(1995:'gloc'hor')__142
 # text =  En deus  tapet  gloc'horennoù  a-geñver  d'e  señturenn.
 # text_fr = 'Il a attrapé des ampoules du côté de la ceinture.'
 # dialect = Breton central
@@ -2854,7 +2872,7 @@
 11	señturenn	señturenn	VERB	v	_	_	_	_	Gloss=ceinture
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§443)__142
+# sent_id = Favereau(1997:§443)__143
 # text =  Pa  'zo  neve'  la'het  ur pemoc'h.
 # text_fr = 'Puisqu'on vient de tuer un cochon.'
 # dialect = Breton central
@@ -2873,7 +2891,7 @@
 7	pemoc'h	pemoc'h	NOUN	nom	_	_	_	_	Gloss=cochon
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:74)__143
+# sent_id = LeGarrec(1901:74)__144
 # text =  Nag  èn  oabr  koumouluz  heol  ebet  o  para.
 # text_fr = 'Et, dans le ciel nuageux, jamais un soleil qui se levât.'
 # dialect = Breton central
@@ -2896,7 +2914,7 @@
 10	para	para	VERB	v	_	_	_	_	Gloss=briller
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Wmffre(1998:36)__144
+# sent_id = Wmffre(1998:36)__145
 # text =  pa  vezer  o  labourat
 # text_fr = 'quand on travaille'
 # dialect = Breton central
@@ -2911,7 +2929,7 @@
 3	IMP	IMP	PRON	cln	_	_	_	_	Gloss=on
 4	labourat	labourat	VERB	verbe	_	_	_	_	Gloss=travailler
 
-# sent_id = Favereau(1984:396)__145
+# sent_id = Favereau(1984:396)__146
 # text =  Pas  lared  gir  da  henn'zh !
 # text_fr = 'Il ne faut pas dire un mot à celui-là !.'
 # dialect = Breton central
@@ -2927,7 +2945,7 @@
 5	henn'zh 	hennezh	DET	déterminant	_	_	_	_	Gloss=celui-là
 6	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:400)__146
+# sent_id = Favereau(1984:400)__147
 # text =  Lak  '  ri  pe(a)draig  bar  soubenn !
 # text_fr = 'Tu mettras de quoi dans la soupe !'
 # dialect = Breton central
@@ -2949,7 +2967,7 @@
 9	soubenn 	soubenn	NOUN	nom	_	_	_	_	Gloss=soupe
 10	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:401)__147
+# sent_id = Favereau(1984:401)__148
 # text =  penvar'  oa  maro  Jesus Krist
 # text_fr = '… quand était mort Jésus-Christ'
 # dialect = Breton central
@@ -2963,7 +2981,7 @@
 3	maro	marv	NOUN	nom	_	_	_	_	Gloss=mort
 4	Jesus Krist	nompropre	NOUN	nom	_	_	_	_	Gloss=Jésus-Christ
 
-# sent_id = Favereau(1984:263)__148
+# sent_id = Favereau(1984:263)__149
 # text =  ar walenn  pehini  'ma  reit  tit  bremañ  zo  seizh  'la  so
 # text_fr = 'la bague que je t'avais donnée il y a maintenant sept ans'
 # dialect = Breton central
@@ -2993,7 +3011,7 @@
 15	'la	bloaz	NOUN	nom	_	_	_	_	Gloss=an
 16	so	zo	AUX	AUX	_	_	_	_	Gloss=est
 
-# sent_id = Favereau(1984:263)__149
+# sent_id = Favereau(1984:263)__150
 # text =  or  plac'h  koant  pezhani   garoñ  parfed.
 # text_fr = 'une belle fille, que j'aime sérieusement'
 # dialect = Breton central
@@ -3012,7 +3030,7 @@
 7	parfed	parfet	ADV	adv	_	_	_	_	Gloss=parfaitement
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:74)__150
+# sent_id = LeGarrec(1901:74)__151
 # text =  da  bellât  deuz ouzon  trubuill  hag  enkrezo.
 # text_fr = '… d'éloigner de moi des anxiétés et des angoisses'
 # dialect = Breton central
@@ -3034,7 +3052,7 @@
 9	enkrezo	_	_	_	_	_	_	_	Gloss=_
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§281)__151
+# sent_id = Favereau(1997:§281)__152
 # text =  Klevet  'm 'oa  peneus  '  oa  klañv.
 # text_fr = 'J'avais entendu dire qu'il était malade.'
 # dialect = Breton central
@@ -3056,7 +3074,7 @@
 9	klañv	klañv	ADJ	adjectif	_	_	_	_	Gloss=malade
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:443)__152
+# sent_id = Favereau(1984:443)__153
 # text =  kontant  ta  c'hoûd  pessor(t)  mod  'peus  graet
 # text_fr = ' contant de savoir comment tu as fait… '
 # dialect = Breton central
@@ -3075,7 +3093,7 @@
 7	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
 
-# sent_id = Favereau(1984:443)__153
+# sent_id = Favereau(1984:443)__154
 # text =  an dud  '  larae  dehi  peneus  "ah,  rin  ket  boued  kin".
 # text_fr = 'Les gens lui disaient "ah, je ne ferai plus la cuisine … '
 # dialect = Breton central
@@ -3100,7 +3118,7 @@
 13	kin"	ken	ADP	préposition	_	_	_	_	Gloss=plus
 14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:401)__154
+# sent_id = Favereau(1984:401)__155
 # text =  pigwir  e'  aet  toud  an hanoiou  gan'  ar  re  all !
 # text_fr = '… puisque tous les noms ont été pris par les autres.'
 # dialect = Breton central
@@ -3125,7 +3143,7 @@
 12	all 	all	PRON	pronom	_	_	_	_	Gloss=autre
 13	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:438)__155
+# sent_id = Favereau(1984:438)__156
 # text =  pigwir  oa  on den  re-vras.
 # text_fr = '… car il était trop grand.'
 # dialect = Breton central
@@ -3143,7 +3161,7 @@
 6	bras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:438)__156
+# sent_id = Favereau(1984:438)__157
 # text =  pigwir  oa  on den  re-vras.
 # text_fr = '… car il était trop grand.'
 # dialect = Breton central
@@ -3161,7 +3179,7 @@
 6	bras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:299)__157
+# sent_id = Favereau(1984:299)__158
 # text =  Koulz  oa  d'ar  bobl  gweled  bleizi  ba  o  blass.
 # text_fr = 'La population aurait préféré avoir des loups plutôt qu'eux.'
 # dialect = Breton central
@@ -3185,7 +3203,7 @@
 11	blass	blass	VERB	v	_	_	_	_	Gloss=place
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:358)__158
+# sent_id = Favereau(1984:358)__159
 # text =  Ne  visae  ket  e'mm  da  daol  evezh  pi  plet  tehe !
 # text_fr = 'Il n'y avait pas besoin d'y prêter attention ou cas.'
 # dialect = Breton central
@@ -3208,7 +3226,7 @@
 11	int	int	DET	pro	_	_	_	_	Gloss=eux
 12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau1997:§316)__159
+# sent_id = Favereau1997:§316)__160
 # text =  Poa'hañ  '  ra  beg  'n nen.
 # text_fr = 'Ça vous brûle la gueule.'
 # dialect = Breton central
@@ -3224,7 +3242,7 @@
 5	'n nen	IMP	PRON	cln	_	_	_	_	Gloss=on
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:299)__160
+# sent_id = Favereau(1984:299)__161
 # text =  Koulz  oa  d'ar  bobl  gweled  bleizi  ba  o  blass.
 # text_fr = 'La population aurait préféré avoir des loups plutôt qu'eux.'
 # dialect = Breton central
@@ -3248,7 +3266,7 @@
 11	blass	plas	NOUN	nom	_	_	_	_	Gloss=place
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Solliec(2015:78)__161
+# sent_id = Solliec(2015:78)__162
 # text =  Poseve  vichen  aet,  pet'a  mije  gwelet ?
 # text_fr = 'Quand bien même j'y serais allé, qu'y aurais-je vu ?'
 # dialect = Breton central
@@ -3273,7 +3291,7 @@
 11	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
 12	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = Wmffre(1998:59)__162
+# sent_id = Wmffre(1998:59)__163
 # text =  '… Ha  Pier  de  Bro-Frañs  rout …'
 # text_fr = '… Et Pierre de France parti …'
 # dialect = Breton central
@@ -3288,7 +3306,7 @@
 4	Bro-Frañs	nompropre	NOUN	nom	_	_	_	_	Gloss=Po-Frans
 5	rout …'	rout	NOUN	nom	_	_	_	_	Gloss=parti
 
-# sent_id = Favereau1997:§316)__163
+# sent_id = Favereau1997:§316)__164
 # text =  Poa'hañ  '  ra  beg  'n nen.
 # text_fr = 'Ça vous brûle la gueule.'
 # dialect = Breton central
@@ -3304,15 +3322,15 @@
 5	'n nen	'n nen	PRON	cln	_	_	_	_	Gloss=on
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:376)__164
+# sent_id = Favereau(1984:376)__165
 # text =  Don'  a  rae  forzhig,  ya;  hehi  n'ae  ket.
-# text_fr = 'Ça venait pas mal, mais elle, elle n'allait pas (en consultation).'
+# text_fr = 'Ça venait pas mal, mais elle, elle n'allait pas consulter.'
 # dialect = Breton central
 # location = None
 # source = Favereau (1984:376)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronoms_forts_indépendants
-# wiki_annotation = title:Pronoms forts indépendants;contexte:None;phonetic:None;text:|| Don' || a || rae || forzhig, || ya; ||  hehi  || n'ae || ket.;gloss:None;standardise:None;lemgloss:|| [[dont|venir]] || [[R]]<sup>[[1]]</sup> || [[ober|faisait]] || [[forzh|beaucoup]].[[-ig|DIM]] || [[ya|oui]] || elle || [[ne|ne]]<sup>[[1]]</sup> [[mont|allait]] || [[ket|pas]];translation:'Ça venait pas mal, mais elle, elle n'allait pas (en consultation).';agrammaticale:None;info:''Breton central'', [[Favereau (1984)|Favereau (1984]]:376);category:Breton central;source:Favereau (1984:376);link:https://arbres.iker.cnrs.fr/index.php?title=Pronoms_forts_indépendants
+# wiki_annotation = title:Pronoms forts indépendants;contexte:None;phonetic:None;text:|| Don' || a || rae || forzhig, || ya; ||  hehi  || n'ae || ket.;gloss:None;standardise:None;lemgloss:|| [[dont|venir]] || [[R]]<sup>[[1]]</sup> || [[ober|faisait]] || [[forzh|beaucoup]].[[-ig|DIM]] || [[ya|oui]] || elle || [[ne|ne]]<sup>[[1]]</sup> [[mont|allait]] || [[ket|pas]];translation:'Ça venait pas mal, mais elle, elle n'allait pas consulter.';agrammaticale:None;info:''Breton central'', [[Favereau (1984)|Favereau (1984]]:376);category:Breton central;source:Favereau (1984:376);link:https://arbres.iker.cnrs.fr/index.php?title=Pronoms_forts_indépendants
 1	Don'	dont	VERB	verbe	_	_	_	_	Gloss=venir
 2	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
 3	rae	ober	VERB	verbe	_	_	_	_	Gloss=faisait
@@ -3329,25 +3347,26 @@
 12	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Humphreys(1995:393)__165
-# text =  '  oac'h  o  vont  da  lâret   din
+# sent_id = Humphreys(1995:393)__166
+# text =  '  Oac'h  o  vont  da  lâret   din.
 # text_fr = 'Vous alliez me le dire.'
 # dialect = Breton central
 # location = None
 # source = Humphreys (1995:393)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronoms_objet_proclitiques
-# wiki_annotation = title:Pronoms objet proclitiques;contexte:None;phonetic:(1)||<font color=green> [ ||<font color=green> wèh ||<font color=green> ||<font color=green> h,ón ||<font color=green> tǝ ||<font color=green> l'a:r || ||<font color=green> tén  ];text:|| ' || oac'h || o || vont || da || lâret || || din;gloss:None;standardise:None;lemgloss:|| [[R]] || [[eo|étiez]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || [[da|à]] || [[lavar|dire]] || <font color=violet>_[''ø'']_</font color=violet> || [[da|à]].[[pronom incorporé|moi]];translation:'Vous alliez me le dire.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:393);category:Breton central;source:Humphreys (1995:393);link:https://arbres.iker.cnrs.fr/index.php?title=Pronoms_objet_proclitiques
+# wiki_annotation = title:Pronoms objet proclitiques;contexte:None;phonetic:(1)||<font color=green> [ ||<font color=green> wèh ||<font color=green> ||<font color=green> h,ón ||<font color=green> tǝ ||<font color=green> l'a:r || ||<font color=green> tén  ];text:|| ' || Oac'h || o || vont || da || lâret || || din.;gloss:None;standardise:None;lemgloss:|| [[R]] || [[eo|étiez]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || [[da|à]] || [[lavar|dire]] || <font color=violet>_[''ø'']_</font color=violet> || [[da|à]].[[pronom incorporé|moi]];translation:'Vous alliez me le dire.';agrammaticale:None;info:''Breton central'', [[Humphreys (1995)|Humphreys (1995]]:393);category:Breton central;source:Humphreys (1995:393);link:https://arbres.iker.cnrs.fr/index.php?title=Pronoms_objet_proclitiques
 1	'	R	VERB	verbe	_	_	_	_	Gloss=_
-2	oac'h	eo	VERB	verbe	_	_	_	_	Gloss=étiez
+2	Oac'h	eo	VERB	verbe	_	_	_	_	Gloss=étiez
 3	vont	mont	VERB	verbe	_	_	_	_	Gloss=aller
 4	da	da	ADP	préposition	_	_	_	_	Gloss=à
 5	lâret	lavar	NOUN	nom	_	_	_	_	Gloss=dire
 6-7	din	_	_	_	_	_	_	_	_
 6	da	da	ADP	préposition	_	_	_	_	Gloss=à
 7	me	me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
+8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:438)__166
+# sent_id = Favereau(1984:438)__167
 # text =  pigwir  oa  on den  re-vras.
 # text_fr = '… car il était trop grand.'
 # dialect = Breton central
@@ -3365,7 +3384,7 @@
 6	bras	bras	ADJ	adjectif	_	_	_	_	Gloss=grand
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:395)__167
+# sent_id = Favereau(1984:395)__168
 # text =  la  'n heni  'nihe  ràet  on dra  d'ar  zant  nihe  bet  tri.
 # text_fr = '… que celui qui donnerait une chose au saint en recevrait trois.'
 # dialect = Breton central
@@ -3391,7 +3410,7 @@
 13	tri	tri	NOUN	nom	_	_	_	_	Gloss=trois
 14	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Wmffre(1998:59)__168
+# sent_id = Wmffre(1998:59)__169
 # text =  '… Ha  Pier  de  Bro-Frañs  rout …'
 # text_fr = '… Et Pierre de France parti …'
 # dialect = Breton central
@@ -3406,7 +3425,7 @@
 4	Bro-Frañs	nompropre	NOUN	nom	_	_	_	_	Gloss=Po-Frans
 5	rout …'	rout …'	VERB	v	_	_	_	_	Gloss=parti
 
-# sent_id = Favereau(1984:376)__169
+# sent_id = Favereau(1984:376)__170
 # text =  pa  yét  rout  ta  bourmen
 # text_fr = 'quand tu vas en promenade'
 # dialect = Breton central
@@ -3421,19 +3440,19 @@
 4	ta	da	ADP	préposition	_	_	_	_	Gloss=pour
 5	bourmen	pourmen	VERB	verbe	_	_	_	_	Gloss=promener
 
-# sent_id = Favereau(1984:441)__170
-# text =  ha  vrrip,  [[nom propre|Yann]]  '  hont  roud  nor  gass  ar liñsen
+# sent_id = Favereau(1984:441)__171
+# text =  ha  vrrip,  Yann  '  hont  roud  nor  gass  ar liñsen
 # text_fr = '… et vrrip, Yann s'en fût en prenant le drap.'
 # dialect = Breton central
 # location = Poullaouen
 # source = Favereau (1984:441)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Rout
-# wiki_annotation = title:Rout;contexte:None;phonetic:None;text:|| ha || vrrip, || [[nom propre|Yann]] || ' || hont ||  roud  || nor || gass || ar liñsen...;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[interjection|vrrip]] || [[nom propre|Yann]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || route || [[en ur|en]]<sup>[[1]]</sup> || [[kas|envoyer]] || [[an, al, ar|le]] [[liñsen|drap]];translation:'… et vrrip, Yann s'en fût en prenant le drap.';agrammaticale:None;info:''Breton central (Poullaouen)'', locuteur né vers 1910[[Favereau (1984)|Favereau (1984]]:441);category:Breton central (Poullaouen);source:Favereau (1984:441);link:https://arbres.iker.cnrs.fr/index.php?title=Rout
+# wiki_annotation = title:Rout;contexte:None;phonetic:None;text:|| ha || vrrip, || Yann || ' || hont ||  roud  || nor || gass || ar liñsen...;gloss:None;standardise:None;lemgloss:|| [[&|et]] || [[interjection|vrrip]] || [[nom propre|Yann]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || route || [[en ur|en]]<sup>[[1]]</sup> || [[kas|envoyer]] || [[an, al, ar|le]] [[liñsen|drap]];translation:'… et vrrip, Yann s'en fût en prenant le drap.';agrammaticale:None;info:''Breton central (Poullaouen)'', locuteur né vers 1910[[Favereau (1984)|Favereau (1984]]:441);category:Breton central (Poullaouen);source:Favereau (1984:441);link:https://arbres.iker.cnrs.fr/index.php?title=Rout
 1	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 2	vrrip	interjection	INTJ	interjection	_	_	_	_	Gloss=vrrip
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-4	nom propre|Yann 	nompropre	NOUN	nom	_	_	_	_	Gloss=Yann
+4	Yann	nompropre	NOUN	nom	_	_	_	_	Gloss=Yann
 5	'	particuleo	ADP	prep	_	_	_	_	Gloss=à
 6	hont	mont	VERB	verbe	_	_	_	_	Gloss=aller
 7	roud	roud	NOUN	nom	_	_	_	_	Gloss=route
@@ -3442,7 +3461,7 @@
 10	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 11	liñsen	liñsen	NOUN	nom	_	_	_	_	Gloss=drap
 
-# sent_id = LeGarrec(1901:40)__171
+# sent_id = LeGarrec(1901:40)__172
 # text =  Eun  den  karantezuz  sort  eo  Fanch  em  c'hever.
 # text_fr = 'Un homme aussi aimant que l'est Fanch à mon égard'
 # dialect = Breton central
@@ -3465,7 +3484,7 @@
 10	c'hever	e-keñver	ADP	préposition	_	_	_	_	Gloss=endroit
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:394)__172
+# sent_id = Favereau(1984:394)__173
 # text =  rei  koat  ta  henn'zh,  pezh  a  gari.
 # text_fr = 'Frappez-le, tant que vous voudrez.'
 # dialect = Breton central
@@ -3484,7 +3503,7 @@
 8	gari	karout	VERB	verbe	_	_	_	_	Gloss=aimeras
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Solliec(2015:75)__173
+# sent_id = Solliec(2015:75)__174
 # text =  Me   joñj  '  m'on  ke  mat   'noñ.
 # text_fr = 'Je me suis dit que je ne me trouve pas au bon endroit.'
 # dialect = Breton central
@@ -3504,7 +3523,7 @@
 8	me	me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Solliec(2015:75)__174
+# sent_id = Solliec(2015:75)__175
 # text =  Me   joñj  'm'on  ke  mat   'noñ.
 # text_fr = 'Je me suis dit que je ne me trouve pas au bon endroit.'
 # dialect = Breton central
@@ -3523,7 +3542,7 @@
 7	me	me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__175
+# sent_id = LeGarrec(1901:64)__176
 # text =  Lavar  kerc'hat  Ar Prad  aman.
 # text_fr = 'Ordonne d'aller chercher Le Prat.'
 # dialect = Breton central
@@ -3539,7 +3558,7 @@
 5	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__176
+# sent_id = LeGarrec(1901:64)__177
 # text =  Anez  am  oa  true,  vijen  ket  deut  aman.
 # text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
 # dialect = Breton central
@@ -3563,7 +3582,7 @@
 11	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§592)__177
+# sent_id = Favereau(1997:§592)__178
 # text =  Pell  '  oa  '  glevemp   'nezhoñ  '  hediñ  ar wazh.
 # text_fr = 'Il y avait longtemps que nous l'entendions longer le ruisseau.'
 # dialect = Breton central
@@ -3588,7 +3607,7 @@
 12	wazh	gwazh	NOUN	nom	_	_	_	_	Gloss=ruisseau|Mut=1|Mutchoice=right
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__178
+# sent_id = LeGarrec(1901:64)__179
 # text =  Anez  am  oa  true,  vijen  ket  deut  aman.
 # text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
 # dialect = Breton central
@@ -3612,7 +3631,7 @@
 11	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:248)__179
+# sent_id = Avezard-Roger(2004a:248)__180
 # text =  Yann  '  zo   bugel  a  laboura  mat  e-barzh ar  skol.
 # text_fr = 'Yann est un enfant qui travaille bien à l'école.'
 # dialect = Breton central
@@ -3632,7 +3651,7 @@
 8	an,al,ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:439)__180
+# sent_id = Favereau(1984:439)__181
 # text =  '  Bassef  ket  kalz  a  dud.
 # text_fr = 'Il ne passe pas beaucoup de gens.'
 # dialect = Breton central
@@ -3649,7 +3668,7 @@
 6	dud	tud	NOUN	nom	_	_	_	_	Gloss=gens
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = SperedArYezh(2002)__181
+# sent_id = SperedArYezh(2002)__182
 # text =  An dud  o doa  ur sell  stard,  du.
 # text_fr = 'Les gens avaient un regard dur, noir.'
 # dialect = Breton central
@@ -3669,7 +3688,7 @@
 9	du	du	ADJ	adjectif	_	_	_	_	Gloss=noir
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§375)__182
+# sent_id = Favereau(1997:§375)__183
 # text =  Gwell  '  vize  dac'h   bout  refuzet.
 # text_fr = 'Il aurait mieux valu que vous refusiez.'
 # dialect = Breton central
@@ -3690,7 +3709,7 @@
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§375)__183
+# sent_id = Favereau(1997:§375)__184
 # text =  Darbet  '  oa  din   bezañ  la'het  anezhañ.
 # text_fr = 'J'ai failli le tuer.'
 # dialect = Breton central
@@ -3716,7 +3735,7 @@
 11	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:119)__184
+# sent_id = Avezard-Roger(2004a:119)__185
 # text =  un tamm  kuizin  tamm  kegin  vihan  vihan
 # text_fr = 'une petite cuisine, une petite cuisine toute petite'
 # dialect = Breton central
@@ -3732,7 +3751,7 @@
 5	kegin	kegin	NOUN	noms	_	_	_	_	Gloss=cuisine
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
 
-# sent_id = LeGarrec(1901:24,25)__185
+# sent_id = LeGarrec(1901:24,25)__186
 # text =  'Rabad  eo,  Bastien,  heul  tamm  war  va  gourre.
 # text_fr = 'Inutile, Bastien, d'insister du tout sur moi.'
 # dialect = Breton central
@@ -3753,7 +3772,7 @@
 10	gourre	gorre	NOUN	nom	_	_	_	_	Gloss=dessus
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:358)__186
+# sent_id = Favereau(1984:358)__187
 # text =  Ne  visae  ket  e'mm  da  daol  evezh  pi  plet  tehe !
 # text_fr = 'Il n'y avait pas besoin d'y prêter attention ou cas.'
 # dialect = Breton central
@@ -3776,7 +3795,7 @@
 11	int	int	DET	pro	_	_	_	_	Gloss=eux
 12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:353)__187
+# sent_id = Favereau(1984:353)__188
 # text =  Hounn'zh  oa  be'   targasha !
 # text_fr = 'Elle avait été draguer.' (les matous)
 # dialect = Breton central
@@ -3791,7 +3810,7 @@
 4	targasha 	mâle.kazh	NOUN	nc	_	_	_	_	Gloss=chat
 5	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:354)__188
+# sent_id = Favereau(1984:354)__189
 # text =  Piw  e'  ar zac'had  brenn,  -te ?
 # text_fr = 'Qui c'est ce sac de son ?' (cette bonne femme)
 # dialect = Breton central
@@ -3811,7 +3830,7 @@
 8	-te 	-te 	X	suffixe	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
 9	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
-# sent_id = LeGarrec(1901:60)__189
+# sent_id = LeGarrec(1901:60)__190
 # text =  Kê  timad  war eon  beteg  e  di.
 # text_fr = 'Va promptement tout droit jusque chez lui.'
 # dialect = Breton central
@@ -3830,7 +3849,7 @@
 7	di	di	ADV	adverbe	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:32)__190
+# sent_id = LeGarrec(1901:32)__191
 # text =  Me  a  zônfe  da  Fanch  donet  timad  d'e  goan.
 # text_fr = 'Je sonnerais à Fanch de venir promptement souper.'
 # dialect = Breton central
@@ -3852,7 +3871,7 @@
 10	goan	koan	NOUN	nom	_	_	_	_	Gloss=souper
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:60)__191
+# sent_id = LeGarrec(1901:60)__192
 # text =  Kê  timad  war eon  beteg  e  di.
 # text_fr = 'Va promptement tout droit jusque chez lui.'
 # dialect = Breton central
@@ -3869,7 +3888,7 @@
 6	di	ti	NOUN	nom	_	_	_	_	Gloss=maison
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:298)__192
+# sent_id = Favereau(1984:298)__193
 # text =  i-heun  'vel  or  c'hi
 # text_fr = 'seul comme un chien'
 # dialect = Breton central
@@ -3885,7 +3904,7 @@
 4	or	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 5	c'hi	ki	NOUN	nom	_	_	_	_	Gloss=chien
 
-# sent_id = LeGarrec(1901:74)__193
+# sent_id = LeGarrec(1901:74)__194
 # text =  da  bellât  deuz ouzon  trubuill  hag  enkrezo.
 # text_fr = 'd'éloigner de moi des anxiétés et des angoisses'
 # dialect = Breton central
@@ -3909,7 +3928,7 @@
 10	-où	-où(PL.)	X	suffixe	_	_	_	_	Gloss=s
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:64)__194
+# sent_id = LeGarrec(1901:64)__195
 # text =  Anez  am  oa  true,  vijen  ket  deut  aman.
 # text_fr = 'Si je n'avais eu pitié, je ne serais pas venu ici.'
 # dialect = Breton central
@@ -3933,7 +3952,7 @@
 11	aman	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:16,17)__195
+# sent_id = LeGarrec(1901:16,17)__196
 # text =  BASTIEN:  Iec'hed  mad  d'id,  Fanchik !  d'ec'h,  itron,  ha  d'ho  tad !
 # text_fr = 'A ta bonne santé, mon cher Fanch ! A vous Madame, et à votre père !'
 # dialect = Breton central
@@ -3965,7 +3984,7 @@
 17	tad 	tad	NOUN	nom	_	_	_	_	Gloss=père
 18	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = LeGarrec(1901:18,19)__196
+# sent_id = LeGarrec(1901:18,19)__197
 # text =  BASTIEN:  Diskwez  a  ret,  Kaour-Vraz,  na  intentez  netra
 # text_fr = 'Vous faites voir, grand Caour, que vous n'entendez rien '
 # dialect = Breton central
@@ -3984,7 +4003,7 @@
 8	intentez	intentout	VERB	v	_	_	_	_	Gloss=comprends
 9	netra	netra	NOUN	nom	_	_	_	_	Gloss=rien
 
-# sent_id = Solliec(2015)__197
+# sent_id = Solliec(2015)__198
 # text =  Lak'  'neoñ  beke   'moc'h  '  sell' !
 # text_fr = 'Mets-la, puisque tu es en train de regarder !' (ceinture de sécurité)
 # dialect = Breton central
@@ -4003,7 +4022,7 @@
 7	sell' 	sellout	VERB	verbe	_	_	_	_	Gloss=regarder
 8	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Avezard-Roger(2004a:412)__198
+# sent_id = Avezard-Roger(2004a:412)__199
 # text =  Tout  an dud  atav  '  gas  gwel  Kristiane.
 # text_fr = 'Tout le monde demande toujours Christiane.'
 # dialect = Breton central
@@ -4020,7 +4039,7 @@
 6	gwel	gwelout	VERB	verbe	_	_	_	_	Gloss=voir
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Avezard-Roger(2004a:145)__199
+# sent_id = Avezard-Roger(2004a:145)__200
 # text =  Met  mont  a  ra  an den  skuizh.
 # text_fr = 'Mais les gens se fatiguent.'
 # dialect = Breton central
@@ -4037,7 +4056,7 @@
 6	skuizh	skuizh	ADJ	adjectif	_	_	_	_	Gloss=fatigué
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:444)__200
+# sent_id = Favereau(1984:444)__201
 # text =  Sevel  a  rae  an dud  abretoc'h  pa  veze  devejou.
 # text_fr = 'Les gens se levaient plus tôt les jours de corvée.'
 # dialect = Breton central
@@ -4061,7 +4080,7 @@
 11	-vezh	-vezh	X	suffixe	_	_	_	_	Gloss=ées
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Menard(1995:§geizoù)__201
+# sent_id = Menard(1995:§geizoù)__202
 # text =  Ne  ra  ket  kalz  geizoù,  O !  ul lipañ  pillig  gwezh  an amzer.
 # text_fr = 'Il ne fait pas beaucoup de caresses, O ! Un cunni une fois le temps.'
 # dialect = Breton central
@@ -4088,7 +4107,7 @@
 15	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 16	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§592)__202
+# sent_id = Favereau(1997:§592)__203
 # text =  Pell  '  oa  '  glevemp   'nezhoñ  '  hediñ  ar wazh.
 # text_fr = 'Il y avait longtemps que nous l'entendions longer le ruisseau.'
 # dialect = Breton central
@@ -4113,7 +4132,7 @@
 12	wazh	gwazh	NOUN	nom	_	_	_	_	Gloss=ruisseau|Mut=1|Mutchoice=right
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = LeGarrec(1901:74)__203
+# sent_id = LeGarrec(1901:74)__204
 # text =  da  bellât  deuz  ouzon  trubuill  hag  enkrezo.
 # text_fr = ' d'éloigner de moi des anxiétés et des angoisses'
 # dialect = Breton central
@@ -4137,7 +4156,7 @@
 10	-où	-où(PL.)	X	suffixe	_	_	_	_	Gloss=s
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:358)__204
+# sent_id = Favereau(1984:358)__205
 # text =  Ne  visae  ket  e'mm  da  daol  evezh  pi  plet  tehe !
 # text_fr = 'Il n'y avait pas besoin d'y prêter attention ou cas.'
 # dialect = Breton central
@@ -4160,7 +4179,7 @@
 11	int	int	DET	pro	_	_	_	_	Gloss=eux
 12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
-# sent_id = Favereau(1984:354)__205
+# sent_id = Favereau(1984:354)__206
 # text =  Piw  e'  ar  zac'had  brenn,  -te ?
 # text_fr = 'Qui c'est ce sac de son ?' (cette bonne femme)
 # dialect = Breton central
@@ -4180,7 +4199,7 @@
 8	-te ?	te!	_	_	_	_	_	_	Gloss=toi!
 10	?	?	PUNCT	PUNCT	_	_	_	_	gloss=?
 
-# sent_id = LeGarrec(1901:60)__206
+# sent_id = LeGarrec(1901:60)__207
 # text =  Kê  timad  war eon  beteg  e  di.
 # text_fr = 'Va promptement tout droit jusque chez lui.'
 # dialect = Breton central
@@ -4199,7 +4218,7 @@
 7	di	ti	NOUN	nom	_	_	_	_	Gloss=maison
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1997:§443)__207
+# sent_id = Favereau(1997:§443)__208
 # text =  pa  'zo  neve'  la'het  ur pemoc'h.
 # text_fr = 'Puisqu'on vient de tuer un cochon.'
 # dialect = Breton central
@@ -4218,7 +4237,7 @@
 7	pemoc'h	pemoc'h	NOUN	nom	_	_	_	_	Gloss=cochon
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:357)__208
+# sent_id = Favereau(1984:357)__209
 # text =  Kapad  eo  houmañ  da  gouezo.
 # text_fr = 'Celle-ci est susceptible de tomber.'
 # dialect = Breton central
@@ -4234,7 +4253,7 @@
 5	gouezo	kouezhañ	VERB	verbe	_	_	_	_	Gloss=tomber
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
-# sent_id = Favereau(1984:357)__209
+# sent_id = Favereau(1984:357)__210
 # text =  Gouest  eo  houmañ  da  gouezo.
 # text_fr = 'Celle-ci est susceptible de tomber.'
 # dialect = Breton central

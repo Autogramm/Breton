@@ -1837,8 +1837,8 @@
 # source = Gros (1984:363)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=-erez,_-ourez
-# wiki_annotation = title:-erez, -ourez;contexte:None;phonetic:None;text:|| Honnez || a zo || dispign erez . || Koufon erez  || eo || da-vad.;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle.là]] || [[R]] [[zo|est]] || [[dispign (V.)|dépens]].euse || gaspill.euse || [[eo|est]] || [[da|pour]]<sup>[[1]]</sup>-[[mat|bon]];translation:'Celle-là est dépensière. Elle est très gaspilleuse.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:363);category:Trégorrois;source:Gros (1984:363);link:https://arbres.iker.cnrs.fr/index.php?title=-erez,_-ourez
-1	Honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+# wiki_annotation = title:-erez, -ourez;contexte:None;phonetic:None;text:|| Honnez || a zo || dispign erez . || Koufon erez  || eo || da-vad.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle.là]] || [[R]] [[zo|est]] || [[dispign (V.)|dépens]].euse || gaspill.euse || [[eo|est]] || [[da|pour]]<sup>[[1]]</sup>-[[mat|bon]];translation:'Celle-là est dépensière. Elle est très gaspilleuse.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:363);category:Trégorrois;source:Gros (1984:363);link:https://arbres.iker.cnrs.fr/index.php?title=-erez,_-ourez
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 4-5	dispignerez 	_	_	_	_	_	_	_	_
@@ -2328,8 +2328,8 @@
 # source = Gros (1984:199)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=-iñ_(Inf.)
-# wiki_annotation = title:-iñ (Inf.);contexte:None;phonetic:None;text:|| Honnez, || bepred, || a || vez || e-pad || an oll || amzer || o || klakenn i .;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle-là]] || [[bepred|toujours]] || [[R]]<sup>[[1]]</sup> || [[vez|est]] || [[e-pad|pendant]] || [[an, al, ar|le]] [[holl|tout]] || [[amzer|temps]] || [[particule o|à]]<sup>[[4]]</sup> || [[klakenniñ|bavarder]];translation:'Celle-là, en tout cas, est continuellement en train de bavarder.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:199);category:Trégorrois;source:Gros (1984:199);link:https://arbres.iker.cnrs.fr/index.php?title=-iñ_(Inf.)
-1	Honnez	honnezh	DET	pro	_	_	_	_	Gloss=celle-là
+# wiki_annotation = title:-iñ (Inf.);contexte:None;phonetic:None;text:|| Honnez, || bepred, || a || vez || e-pad || an oll || amzer || o || klakenn i .;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[bepred|toujours]] || [[R]]<sup>[[1]]</sup> || [[vez|est]] || [[e-pad|pendant]] || [[an, al, ar|le]] [[holl|tout]] || [[amzer|temps]] || [[particule o|à]]<sup>[[4]]</sup> || [[klakenniñ|bavarder]];translation:'Celle-là, en tout cas, est continuellement en train de bavarder.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:199);category:Trégorrois;source:Gros (1984:199);link:https://arbres.iker.cnrs.fr/index.php?title=-iñ_(Inf.)
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	bepred	bepred	ADV	adverbe	_	_	_	_	Gloss=toujours
 4	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -3150,13 +3150,13 @@
 
 # sent_id = Gros(1974:100)__140
 # text =  Neb-aon !  C'hwi  na  chomot  ket  amañ  da  enebi !
-# text_fr = 'N'ayez crainte ! Vous ne resterez pas ici à me contrecarrer (m'agacer).'
+# text_fr = 'N'ayez crainte ! Vous ne resterez pas ici à m'agacer.'
 # dialect = Trégorrois parlé
 # location = Trédrez
 # source = Gros (1974:100)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-enep
-# wiki_annotation = title:A-enep;contexte:None;phonetic:None;text:|| Neb-aon ! || C'hwi || na || chomot || ket || amañ || da ||  enebi  !;gloss:None;standardise:None;lemgloss:|| [[nep|sans]]-[[aon|peur]] || [[pfi|vous]] || [[ne|ne]].[[R]]<sup>[[1]]</sup> || [[chom|resterez]] || [[ket|pas]] || [[amañ|ici]] || [[da|à]]<sup>[[1]]</sup> || [[enep|contre]].[[-iñ|er]];translation:'N'ayez crainte ! Vous ne resterez pas ici à me contrecarrer (m'agacer).';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1974)|Gros (1974]]:100);category:Trégorrois parlé (Trédrez);source:Gros (1974:100);link:https://arbres.iker.cnrs.fr/index.php?title=A-enep
+# wiki_annotation = title:A-enep;contexte:None;phonetic:None;text:|| Neb-aon ! || C'hwi || na || chomot || ket || amañ || da ||  enebi  !;gloss:None;standardise:None;lemgloss:|| [[nep|sans]]-[[aon|peur]] || [[pfi|vous]] || [[ne|ne]].[[R]]<sup>[[1]]</sup> || [[chom|resterez]] || [[ket|pas]] || [[amañ|ici]] || [[da|à]]<sup>[[1]]</sup> || [[enebiñ|contrer]];translation:'N'ayez crainte ! Vous ne resterez pas ici à m'agacer.';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1974)|Gros (1974]]:100);category:Trégorrois parlé (Trédrez);source:Gros (1974:100);link:https://arbres.iker.cnrs.fr/index.php?title=A-enep
 1	Neb	nep	DET	déterminant	_	_	_	_	Gloss=sans
 2	-aon 	aon	NOUN	nom	_	_	_	_	Gloss=peur
 3	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
@@ -3168,10 +3168,8 @@
 8	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 9	amañ	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 10	da	da	ADP	préposition	_	_	_	_	Gloss=à
-11-12	enebi 	_	_	_	_	_	_	_	_
-11	enep	enep	ADP	préposition	_	_	_	_	Gloss=contre
-12	-iñ	-iñ	X	suffixe	_	_	_	_	Gloss=er
-13	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
+11	enebi 	enebiñ	VERB	v	_	_	_	_	Gloss=contrer
+12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = Gros(2014:'a-gement')__141
 # text =  N'eus  marvet  den  ebet  a-gement  a  ouifen.
@@ -4708,13 +4706,13 @@
 
 # sent_id = Gros(1984:540)__212
 # text =  Ouz  red  n'eus  ket  a  remed  _  .
-# text_fr = 'Contre la nécessité il n'y a pas de remède (nécessité n'a pas de loi).'
+# text_fr = 'Nécessité n'a pas de loi.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:540)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Antéposition
-# wiki_annotation = title:Antéposition;contexte:None;phonetic:None;text:||  Ouz  ||  red  || n'eus || ket || a || remed || _ || .;gloss:None;standardise:None;lemgloss:|| [[ouzh|à]] || [[ret|nécessité]] || [[ne|ne]]<sup>[[1]]</sup> [[ez eus|est]] || [[ket|pas]] || [[a|de]] || remède || <''à nécessité''>;translation:'Contre la nécessité il n'y a pas de remède (nécessité n'a pas de loi).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:540);category:Trégorrois;source:Gros (1984:540);link:https://arbres.iker.cnrs.fr/index.php?title=Antéposition
+# wiki_annotation = title:Antéposition;contexte:None;phonetic:None;text:||  Ouz  ||  red  || n'eus || ket || a || remed || _ || .;gloss:None;standardise:None;lemgloss:|| [[ouzh|à]] || [[ret|nécessité]] || [[ne|ne]]<sup>[[1]]</sup> [[ez eus|est]] || [[ket|pas]] || [[a|de]] || remède || <''à nécessité''>;translation:'Nécessité n'a pas de loi.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:540);category:Trégorrois;source:Gros (1984:540);link:https://arbres.iker.cnrs.fr/index.php?title=Antéposition
 1	Ouz	ouzh	ADP	préposition	_	_	_	_	Gloss=à
 2	red	ret	NOUN	nom	_	_	_	_	Gloss=nécessité
 3-4	n'eus	_	_	_	_	_	_	_	_
@@ -5396,26 +5394,28 @@
 
 # sent_id = Gros(1984:488)__243
 # text =  Honnez,  tav  n'eo  ket  taget  diwar  he  hentañ  gaou !
-# text_fr = 'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge.' (est menteuse).'
+# text_fr = 'Celle-là, tu sais, n'en est pas à son premier mensonge.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:488)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Atav
-# wiki_annotation = title:Atav;contexte:None;phonetic:None;text:|| Honnez, ||  tav  || n'eo || ket || taget || diwar || he || hentañ || gaou !;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle-là]] || toujours || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[tagañ|blessé]] || [[diwar|par]] || [[POSS|son]]<sup>[[2]]</sup> || [[les numéraux ordinaux|premier]] || [[gaou|mensonge]];translation:'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge.' (est menteuse).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:488);category:Trégorrois;source:Gros (1984:488);link:https://arbres.iker.cnrs.fr/index.php?title=Atav
-1	Honnez	honnezh	DET	pro	_	_	_	_	Gloss=celle-là
+# wiki_annotation = title:Atav;contexte:None;phonetic:None;text:|| Honnez, ||  tav  || n'eo || ket || taget || diwar || he || hentañ || gaou !;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || toujours || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[tagañ|bless]].[[-et (Adj.)|é]] || [[diwar|par]] || [[POSS|son]]<sup>[[2]]</sup> || [[les numéraux ordinaux|premier]] || [[gaou|mensonge]];translation:'Celle-là, tu sais, n'en est pas à son premier mensonge.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:488);category:Trégorrois;source:Gros (1984:488);link:https://arbres.iker.cnrs.fr/index.php?title=Atav
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	tav	tav	ADV	adv	_	_	_	_	Gloss=toujours
 4-5	n'eo	_	_	_	_	_	_	_	_
 4	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 5	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
 6	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-7	taget	tagañ	VERB	verbe	_	_	_	_	Gloss=blessé
-8	diwar	diwar	ADP	préposition	_	_	_	_	Gloss=par
-9	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
-10	hentañ	lesnumérauxordinaux	NOUN	nc	_	_	_	_	Gloss=premier
-11	gaou 	gaou	NOUN	nom	_	_	_	_	Gloss=mensonge
-12	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
+7-8	taget	_	_	_	_	_	_	_	_
+7	tagañ	tagañ	VERB	verbe	_	_	_	_	Gloss=bless
+8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
+9	diwar	diwar	ADP	préposition	_	_	_	_	Gloss=par
+10	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=son
+11	hentañ	lesnumérauxordinaux	NOUN	nc	_	_	_	_	Gloss=premier
+12	gaou 	gaou	NOUN	nom	_	_	_	_	Gloss=mensonge
+13	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = Gros(1989:'gouzoud')__244
 # text =  N'oufe  ket  beza  eet  a-bell.
@@ -5650,13 +5650,13 @@
 
 # sent_id = Gros(1984:162)__254
 # text =  N'ema  ket  e-kreiz  an  avel-suill  eo !
-# text_fr = 'Il n'est pas au milieu du vent brûlant (il est à l'abri).'
+# text_fr = 'Il est à l'abri !'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:162)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Avel
-# wiki_annotation = title:Avel;contexte:None;phonetic:None;text:|| N'ema || ket || e-kreiz || an ||  avel -suill || eo !;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> [[emañ|est]] || [[ket|pas]] || [[e-kreiz|au-milieu]] || [[an, al, ar|le]] || vent [[suilhañ|brûle]] || [[eo|est]];translation:'Il n'est pas au milieu du vent brûlant (il est à l'abri).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:162);category:Trégorrois;source:Gros (1984:162);link:https://arbres.iker.cnrs.fr/index.php?title=Avel
+# wiki_annotation = title:Avel;contexte:None;phonetic:None;text:|| N'ema || ket || e-kreiz || an ||  avel -suill || eo !;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> [[emañ|est]] || [[ket|pas]] || [[e-kreiz|au-milieu]] || [[an, al, ar|le]] || vent [[suilhañ|brûle]] || [[eo|est]];translation:'Il est à l'abri !';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:162);category:Trégorrois;source:Gros (1984:162);link:https://arbres.iker.cnrs.fr/index.php?title=Avel
 1-2	N'ema	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	emañ	emañ	VERB	verbe	_	_	_	_	Gloss=est
@@ -6498,13 +6498,13 @@
 
 # sent_id = Gros(1996:118)__293
 # text =  mar  teu  hemañ  diwar  dour  bervet,  emañ  pell  ahann.
-# text_fr = 'S'il provient d'une eau bouillante, elle se trouve loin d'ici (il est froid).'
+# text_fr = 'S'il provient d'une eau bouillante, elle est loin d'ici.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1996:118)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Birviñ,_berviñ,_berwein
-# wiki_annotation = title:Birviñ, berviñ, berwein;contexte:None;phonetic:None;text:|| mar || teu || hemañ || diwar || dour ||  bervet , || emañ || pell || ahann.;gloss:None;standardise:None;lemgloss:|| [[mar|si]]<sup>[[4]]</sup> || [[dont|vient]] || [[hemañ|celui-ci]] || [[diwar|de]] || [[dour|eau]] || bouill.[[-et (Adj.)|ie]] || [[emañ|se.trouve]] || [[pell|loin]] || [[ac'hann|de.là]];translation:'S'il provient d'une eau bouillante, elle se trouve loin d'ici (il est froid).';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:118);category:Trégorrois;source:Gros (1996:118);link:https://arbres.iker.cnrs.fr/index.php?title=Birviñ,_berviñ,_berwein
+# wiki_annotation = title:Birviñ, berviñ, berwein;contexte:None;phonetic:None;text:|| mar || teu || hemañ || diwar || dour ||  bervet , || emañ || pell || ahann.;gloss:None;standardise:None;lemgloss:|| [[mar|si]]<sup>[[4]]</sup> || [[dont|vient]] || [[hemañ|celui-ci]] || [[diwar|de]] || [[dour|eau]] || bouill.[[-et (Adj.)|ie]] || [[emañ|se.trouve]] || [[pell|loin]] || [[ac'hann|de.là]];translation:'S'il provient d'une eau bouillante, elle est loin d'ici.';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:118);category:Trégorrois;source:Gros (1996:118);link:https://arbres.iker.cnrs.fr/index.php?title=Birviñ,_berviñ,_berwein
 1	mar	mar	NOUN	nom	_	_	_	_	Gloss=si
 2	teu	dont	VERB	verbe	_	_	_	_	Gloss=vient
 3	hemañ	hemañ	DET	déterminant	_	_	_	_	Gloss=celui-ci
@@ -6682,17 +6682,17 @@
 
 # sent_id = Gros(1970:29)__301
 # text =  A-viskoaz  eo  bet  plijet  e  wele  dezañ.
-# text_fr = 'De tout temps son lit lui a plu (il a aimé son lit).'
+# text_fr = 'Il a toujours aimé son lit.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1970:29)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Biskoazh
-# wiki_annotation = title:Biskoazh;contexte:None;phonetic:None;text:|| A- viskoaz  || eo || bet || plijet || e || wele || dezañ.;gloss:None;standardise:None;lemgloss:|| [[a|à]]<sup>[[1]]</sup>.toujours || [[COP|est]] || [[bet|été]] || [[plijout|pl]].[[-et (Adj.)|u]] || [[POSS|son]]<sup>[[1]]</sup> || [[gwele|lit]] || [[da|à]].[[pronom incorporé|lui]];translation:'De tout temps son lit lui a plu (il a aimé son lit).';agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:29);category:Trégorrois;source:Gros (1970:29);link:https://arbres.iker.cnrs.fr/index.php?title=Biskoazh
+# wiki_annotation = title:Biskoazh;contexte:None;phonetic:None;text:|| A- viskoaz  || eo || bet || plijet || e || wele || dezañ.;gloss:None;standardise:None;lemgloss:|| [[a|à]]<sup>[[1]]</sup>.toujours || [[eo|est]] || [[bet|été]] || [[plijout|pl]].[[-et (Adj.)|u]] || [[POSS|son]]<sup>[[1]]</sup> || [[gwele|lit]] || [[da|à]].[[pronom incorporé|lui]];translation:'Il a toujours aimé son lit.';agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:29);category:Trégorrois;source:Gros (1970:29);link:https://arbres.iker.cnrs.fr/index.php?title=Biskoazh
 1-2	A-viskoaz	_	_	_	_	_	_	_	_
 1	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=à
 2	viskoaz	viskoaz	ADV	adv	_	_	_	_	Gloss=toujours
-3	eo	COP	AUX	AUX	_	_	_	_	Gloss=est
+3	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
 4	bet	bet	VERB	verbe	_	_	_	_	Gloss=été
 5-6	plijet	_	_	_	_	_	_	_	_
 5	plijout	plijout	VERB	verbe	_	_	_	_	Gloss=pl
@@ -8337,12 +8337,11 @@
 # source = Le Clerc (1986:205)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=C'hwistim
-# wiki_annotation = title:C'hwistim;contexte:None;phonetic:None;text:|| Daoust || || hag-eñ || ec'h i || da || Bariz ?;gloss:|| C'hwistim || || hag-eñ || ec'h i || da || Bariz ?;standardise:None;lemgloss:|| interrogatif || <font color=green>[</font color=green><sub>[[CP]]</sub> || [[Q|est-ce-que]] || [[R]]<sup>[[+C</sup> [[mont|iras]] || [[da|à]]<sup>[[1]]</sup> || [[nom propre|Paris]] <font color=green>]</font color=green>;translation:'Est-ce que tu iras à Paris ?';agrammaticale:None;info:''Trégorrois (Tréguier)'', [[Le Clerc (1986)|Le Clerc (1986]]:205);category:Trégorrois (Tréguier);source:Le Clerc (1986:205);link:https://arbres.iker.cnrs.fr/index.php?title=C'hwistim
+# wiki_annotation = title:C'hwistim;contexte:None;phonetic:None;text:|| Daoust || || hag-eñ || ec'h i || da || Bariz ?;gloss:|| C'hwistim || || hag-eñ || ec'h i || da || Bariz ?;standardise:None;lemgloss:|| interrogatif || <font color=green>[</font color=green><sub>[[CP]]</sub> || [[Q|est-ce-que]] || [[R]]<sup>[[+C]]</sup> [[mont|iras]] || [[da|à]]<sup>[[1]]</sup> || [[nom propre|Paris]] <font color=green>]</font color=green>;translation:'Est-ce que tu iras à Paris ?';agrammaticale:None;info:''Trégorrois (Tréguier)'', [[Le Clerc (1986)|Le Clerc (1986]]:205);category:Trégorrois (Tréguier);source:Le Clerc (1986:205);link:https://arbres.iker.cnrs.fr/index.php?title=C'hwistim
 1	Daoust	_	_	_	_	_	_	_	Gloss=_
 2	hag-eñ	Q	NOUN	nom	_	_	_	_	Gloss=est-ce-que
-3-4	ec'hi	_	_	_	_	_	_	_	_
-3	+C	R	VERB	verbe	_	_	_	_	Gloss=_
-4	mont	mont	VERB	verbe	_	_	_	_	Gloss=iras
+3	ec'h	R	VERB	verbe	_	_	_	_	Gloss=_
+4	i	mont	VERB	verbe	_	_	_	_	Gloss=iras
 5	da	da	ADP	préposition	_	_	_	_	Gloss=à
 6	Bariz 	nompropre	NOUN	nom	_	_	_	_	Gloss=Paris
 7	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
@@ -8782,13 +8781,13 @@
 
 # sent_id = Schafer(1995:153)__391
 # text =  Ne  sentont  ouzh  den  (ebet).
-# text_fr = 'Ils n'obéissent à personne (du tout).'
+# text_fr = 'Ils n'obéissent à personne.'
 # dialect = Trégorrois
 # location = None
 # source = Schafer (1995:153)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
-# wiki_annotation = title:Concordance négative;contexte:None;phonetic:None;text:||  Ne  || sentont || ouzh ||  den  || ( ebet ).;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || [[sentiñ|obéissent]] || [[ouzh|à]] || [[den|personne]] || ([[ebet|du tout]]);translation:'Ils n'obéissent à personne (du tout).';agrammaticale:None;info:''Trégorrois'', [[Schafer (1995)|Schafer (1995]]:153);category:Trégorrois;source:Schafer (1995:153);link:https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
+# wiki_annotation = title:Concordance négative;contexte:None;phonetic:None;text:||  Ne  || sentont || ouzh ||  den  || ( ebet ).;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || [[sentiñ|obéissent]] || [[ouzh|à]] || [[den|personne]] || ([[ebet|du tout]]);translation:'Ils n'obéissent à personne.';agrammaticale:None;info:''Trégorrois'', [[Schafer (1995)|Schafer (1995]]:153);category:Trégorrois;source:Schafer (1995:153);link:https://arbres.iker.cnrs.fr/index.php?title=Concordance_négative
 1	Ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	sentont	sentiñ	VERB	verbe	_	_	_	_	Gloss=obéissent
 3	ouzh	ouzh	ADP	préposition	_	_	_	_	Gloss=à
@@ -8845,13 +8844,13 @@
 
 # sent_id = Stephens(1990:157)__394
 # text =  Pedin  a  reas  Yann  Lenaig   da  respont  [[*]] e-unan / he-unan.
-# text_fr = 'Yann a demandé à Lenaig de lui répondre (*lui-même/elle-même).'
+# text_fr = 'Yann a demandé à Lenaig de lui répondre (elle-même / [[*]] lui-même).'
 # dialect = Trégorrois
 # location = None
 # source = Stephens (1990:157)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Condition_A_du_liage
-# wiki_annotation = title:Condition A du liage;contexte:None;phonetic:None;text:||  Pedin  || a || reas || Yann || Lenaig || || da || respont ||  [[*]] e-unan / he-unan .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]] || [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lenaig]]<sub>''x''</sub> || <font color=green>[</font color=green> [[PRO]]<sub>''x''</sub> || [[da|de]] || [[respont (V.)|répondre]] || [[réfléchi|lui-même]] / [[réfléchi|elle-même]]<sub>''x''</sub> <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre (*lui-même/elle-même).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Condition_A_du_liage
+# wiki_annotation = title:Condition A du liage;contexte:None;phonetic:None;text:||  Pedin  || a || reas || Yann || Lenaig || || da || respont ||  [[*]] e-unan / he-unan .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]] || [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lenaig]]<sub>''x''</sub> || <font color=green>[</font color=green> [[PRO]]<sub>''x''</sub> || [[da|de]] || [[respont (V.)|répondre]] || [[réfléchi|lui-même]] / [[réfléchi|elle-même]]<sub>''x''</sub> <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre (elle-même / [[*]] lui-même).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Condition_A_du_liage
 1	Pedin	pediñ	VERB	verbe	_	_	_	_	Gloss=inviter
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	reas	ober	VERB	verbe	_	_	_	_	Gloss=fit
@@ -8865,13 +8864,13 @@
 
 # sent_id = Stephens(1990:157)__395
 # text =  Pedin  a reas  Yann  Lenaig   da  respont  anezhañ /*anezhi.
-# text_fr = 'Yann a demandé à Lenaig de lui répondre (à lui/*à elle).'
+# text_fr = 'Yann a demandé à Lenaig de lui répondre (à lui/[[*]] à elle).'
 # dialect = Trégorrois
 # location = None
 # source = Stephens (1990:157)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Condition_B_du_liage
-# wiki_annotation = title:Condition B du liage;contexte:None;phonetic:None;text:|| Pedin || a reas || Yann || Lenaig || || da || respont ||  anezhañ /*anezhi .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]] [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lenaig]]<sub>''x''</sub> || <font color=green>[</font color=green> [[PRO]]<sub>''x''</sub> || [[da|de]]<sup>[[1]]</sup> || [[respont (V.)|répondre]] || [[a|P]].[[pronom incorporé|lui]] / [[a|P]].[[pronom incorporé|elle]] <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre (à lui/*à elle).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Condition_B_du_liage
+# wiki_annotation = title:Condition B du liage;contexte:None;phonetic:None;text:|| Pedin || a reas || Yann || Lenaig || || da || respont ||  anezhañ /*anezhi .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]] [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lenaig]]<sub>''x''</sub> || <font color=green>[</font color=green> [[PRO]]<sub>''x''</sub> || [[da|de]]<sup>[[1]]</sup> || [[respont (V.)|répondre]] || [[a|P]].[[pronom incorporé|lui]] / [[a|P]].[[pronom incorporé|elle]] <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre (à lui/[[*]] à elle).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Condition_B_du_liage
 1	Pedin	pediñ	VERB	verbe	_	_	_	_	Gloss=inviter
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	reas	ober	VERB	verbe	_	_	_	_	Gloss=fit
@@ -9154,13 +9153,13 @@
 
 # sent_id = Gros,(1984:152)__409
 # text =  Honnez  n'eo  ket  roet  he  zeod  dezi  da  lipad  mogeriou.
-# text_fr = 'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).'
+# text_fr = 'Sa langue, elle s'en sert pas pour lécher les murs.' (elle bavarde)
 # dialect = Trégorrois
 # location = None
 # source = Gros, (1984:152)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Construction_du_faux_sujet
-# wiki_annotation = title:Construction du faux sujet;contexte:None;phonetic:None;text:|| <u>Honnez</u> || n'eo || ket || roet ||  he  || zeod || dez i  || da || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || [[da|pour]]<sup>[[1]]</sup> || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]];translation:'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros, (1984]]:152);category:Trégorrois;source:Gros, (1984:152);link:https://arbres.iker.cnrs.fr/index.php?title=Construction_du_faux_sujet
+# wiki_annotation = title:Construction du faux sujet;contexte:None;phonetic:None;text:|| <u>Honnez</u> || n'eo || ket || roet ||  he  || zeod || dez i  || da || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || [[da|pour]]<sup>[[1]]</sup> || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]];translation:'Sa langue, elle s'en sert pas pour lécher les murs.' (elle bavarde);agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros, (1984]]:152);category:Trégorrois;source:Gros, (1984:152);link:https://arbres.iker.cnrs.fr/index.php?title=Construction_du_faux_sujet
 1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2-3	n'eo	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
@@ -9623,14 +9622,14 @@
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Gros(1984:522)__430
-# text =  Poan  ar re  all  a zo  skañv  da   zougen.
+# text =  Poan  ar  re  all  a  zo  skañv  da   zougen.
 # text_fr = 'La peine des autres est facile à endurer.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:522)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Da
-# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| Poan || ar re || all || a zo || skañv ||  da  || || zougen.;gloss:None;standardise:None;lemgloss:|| [[poan|peine]] || [[an, al, ar|le]] [[hini|ceux]] || [[all|autre]] || [[R]] [[zo|est]] || [[skañv|léger]] || à<sup>[[1]]</sup> || [[PRO]] || [[dougen|porter]];translation:'La peine des autres est facile à endurer.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:522);category:Trégorrois;source:Gros (1984:522);link:https://arbres.iker.cnrs.fr/index.php?title=Da
+# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| Poan || ar || re || all || a || zo || skañv ||  da  || || zougen.;gloss:None;standardise:None;lemgloss:|| [[poan|peine]] || [[an, al, ar|le]] || [[hini|ceux]] || [[all|autre]] || [[R]] || [[zo|est]] || [[skañv|léger]] || à<sup>[[1]]</sup> || [[PRO]] || [[dougen|porter]];translation:'La peine des autres est facile à endurer.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:522);category:Trégorrois;source:Gros (1984:522);link:https://arbres.iker.cnrs.fr/index.php?title=Da
 1	Poan	poan	NOUN	nom	_	_	_	_	Gloss=peine
 2	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 3	re	hini	NOUN	nom	_	_	_	_	Gloss=ceux
@@ -9892,13 +9891,13 @@
 
 # sent_id = Gros(1970:149)__443
 # text =  Kerz  d'ar  vuoc'h !
-# text_fr = 'Cours après la vache (se dit à un chien).'
+# text_fr = 'Cours après la vache !' (à un chien)
 # dialect = Trégorrois
 # location = None
 # source = Gros (1970:149)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Da
-# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| Kerz ||  d 'ar || vuoc'h !;gloss:None;standardise:None;lemgloss:|| [[kerzhout|va]] || à<sup>[[1]]</sup> [[an, al, ar|le]] || <sup>[[1]]</sup>[[buoc'h|vache]];translation:'Cours après la vache (se dit à un chien).';agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:149);category:Trégorrois;source:Gros (1970:149);link:https://arbres.iker.cnrs.fr/index.php?title=Da
+# wiki_annotation = title:Da;contexte:None;phonetic:None;text:|| Kerz ||  d 'ar || vuoc'h !;gloss:None;standardise:None;lemgloss:|| [[kerzhout|va]] || à<sup>[[1]]</sup> [[an, al, ar|le]] || <sup>[[1]]</sup>[[buoc'h|vache]];translation:'Cours après la vache !' (à un chien);agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:149);category:Trégorrois;source:Gros (1970:149);link:https://arbres.iker.cnrs.fr/index.php?title=Da
 1	Kerz	kerzhout	VERB	verbe	_	_	_	_	Gloss=va
 2	d'ar	à an,al,ar	DET	det	_	_	_	_	Gloss=le
 3	vuoc'h 	buoc'h	NOUN	nom	_	_	_	_	Gloss=vache
@@ -10502,13 +10501,13 @@
 
 # sent_id = Gros(1989:'kalon')__470
 # text =  Pa  vez  druz  ar zoubenn  e teu  da  zarneui  war  ar galon.
-# text_fr = 'Quand le bouillon est gras, il vient à surnager sur l'estomac (il écœure).'
+# text_fr = 'Quand le bouillon est gras, il écœure.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1989:'kalon')
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Dar-,_dor-,_tar-,_tor-
-# wiki_annotation = title:Dar-, dor-, tar-, tor-;contexte:None;phonetic:None;text:|| Pa || vez || druz || ar zoubenn || e teu || da ||  zar neui || war || ar galon.;gloss:None;standardise:None;lemgloss:|| [[pa|quand]]<sup>[[1]]</sup> || [[vez|est]] || [[druz|gras]] || [[an, al, ar|le]] [[soubenn|soupe]] || [[R]]<sup>[[4]]</sup> [[dont|vient]] || [[da|à]]<sup>[[1]]</sup> || pfx.[[neuial|nager]] || [[war|sur]] || [[an, al, ar|le]] <sup>[[1]]</sup>[[kalon|cœur]];translation:'Quand le bouillon est gras, il vient à surnager sur l'estomac (il écœure).';agrammaticale:None;info:''Trégorrois'', [[Gros (1989)|Gros (1989]]:'kalon');category:Trégorrois;source:Gros (1989:'kalon');link:https://arbres.iker.cnrs.fr/index.php?title=Dar-,_dor-,_tar-,_tor-
+# wiki_annotation = title:Dar-, dor-, tar-, tor-;contexte:None;phonetic:None;text:|| Pa || vez || druz || ar zoubenn || e teu || da ||  zar neui || war || ar galon.;gloss:None;standardise:None;lemgloss:|| [[pa|quand]]<sup>[[1]]</sup> || [[vez|est]] || [[druz|gras]] || [[an, al, ar|le]] [[soubenn|soupe]] || [[R]]<sup>[[4]]</sup> [[dont|vient]] || [[da|à]]<sup>[[1]]</sup> || pfx.[[neuial|nager]] || [[war|sur]] || [[an, al, ar|le]] <sup>[[1]]</sup>[[kalon|cœur]];translation:'Quand le bouillon est gras, il écœure.';agrammaticale:None;info:''Trégorrois'', [[Gros (1989)|Gros (1989]]:'kalon');category:Trégorrois;source:Gros (1989:'kalon');link:https://arbres.iker.cnrs.fr/index.php?title=Dar-,_dor-,_tar-,_tor-
 1	Pa	pa	SCONJ	complémenteur	_	_	_	_	Gloss=quand
 2	vez	vez	VERB	verbe	_	_	_	_	Gloss=est
 3	druz	druz	ADJ	adjectif	_	_	_	_	Gloss=gras
@@ -11992,10 +11991,10 @@
 # source = Gros (1984:137)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
-# wiki_annotation = title:Dislocations à gauche;contexte:None;phonetic:None;text:||  Jañn , ||  honnez  || a || oa || maeronez || din.;gloss:None;standardise:None;lemgloss:|| [[nom propre|Jañn]] || [[honnezh|celle.là]] || [[R]] || [[eo|était]] || [[maeronez|marraine]] || [[da|à]].[[pronom incorporé|moi]];translation:'Jañn, elle était ma marraine.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
+# wiki_annotation = title:Dislocations à gauche;contexte:None;phonetic:None;text:||  Jañn , ||  honnez  || a || oa || maeronez || din.;gloss:None;standardise:None;lemgloss:|| [[nom propre|Jañn]] || [[hounnezh|celle.là]] || [[R]] || [[eo|était]] || [[maeronez|marraine]] || [[da|à]].[[pronom incorporé|moi]];translation:'Jañn, elle était ma marraine.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
 1	Jañn	nompropre	NOUN	nom	_	_	_	_	Gloss=Jañn
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-3	honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+3	honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 4	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 5	oa	eo	AUX	AUX	_	_	_	_	Gloss=était
 6	maeronez	maeronez	NOUN	nom	_	_	_	_	Gloss=marraine
@@ -12059,14 +12058,14 @@
 # source = Gros (1984:137)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
-# wiki_annotation = title:Dislocations à gauche;contexte:None;phonetic:None;text:||  An dostenn-ze , ||  honnez  || a zo || peg ||  he  || hrohenn || ouz ||  he  || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[honnezh|celle-là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || [[kroc'hen|peau]] || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
+# wiki_annotation = title:Dislocations à gauche;contexte:None;phonetic:None;text:||  An dostenn-ze , ||  honnez  || a zo || peg ||  he  || hrohenn || ouz ||  he  || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[hounnezh|celle-là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || [[kroc'hen|peau]] || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Dislocations_à_gauche
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-4	dostenn-ze	_	_	_	_	_	_	_	_
 2	tost	tost	ADJ	adjectif	_	_	_	_	Gloss=près
 3	-enn	-enn	X	suffixe	_	_	_	_	Gloss=ée
 4	-se	-se	X	suffixe	_	_	_	_	Gloss=là
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-6	honnez	honnezh	DET	pro	_	_	_	_	Gloss=celle-là
+6	honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 7	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 8	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 9	peg	pegañ	VERB	verbe	_	_	_	_	Gloss=collé
@@ -12992,7 +12991,7 @@
 # source = Duval (1964), 'Aour al lanneg'
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Drevezañ
-# wiki_annotation = title:Drevezañ;contexte:None;phonetic:None;text:|| Emaout || o ||  trevezañ  || ar || C'hwec'hkogneg ?;gloss:None;standardise:None;lemgloss:|| [[Emañ|es]] || [[particule o|à]]<sup>[[1]]</sup> || imiter || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train de singer l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Drevezañ
+# wiki_annotation = title:Drevezañ;contexte:None;phonetic:None;text:|| Emaout || o ||  trevezañ  || ar || C'hwec'hkogneg ?;gloss:None;standardise:None;lemgloss:|| [[Emañ|es]] || [[particule o|à]]<sup>[[4]]</sup> || imiter || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train de singer l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Drevezañ
 1	Emaout	Emañ	VERB	verbe	_	_	_	_	Gloss=es
 2	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
 3	trevezañ	trevezañ	VERB	verbe	_	_	_	_	Gloss=imiter
@@ -13317,7 +13316,7 @@
 # source = Gros (1989:'joga')
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
-# wiki_annotation = title:Déterminants possessifs;contexte:None;phonetic:None;text:|| A-benn || ma'z-po || joget || an tamm || bara-ze || e chomi || div || eur ||  ez  || kourvez.;gloss:None;standardise:None;lemgloss:|| [[a-benn|quand]] || [[ma|que]]<sup>[[4]]</sup> [[R]].2SG [[kaout|aura]] || [[jogañ|froiss]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[tamm|morceau]] || [[bara|pain]].[[-se|là]] || [[R]]<sup>[[4]]</sup> [[chom|resteras]] || [[div|deux]] || [[eur|heure]] || [[P.e|en]].[[POSS|ton]]<sup>[[3]]</sup> || [[gourvez|allongé]];translation:'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.';agrammaticale:None;info:''Trégorrois'', [[Gros (1989)|Gros (1989]]:'joga');category:Trégorrois;source:Gros (1989:'joga');link:https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
+# wiki_annotation = title:Déterminants possessifs;contexte:None;phonetic:None;text:|| A-benn || ma'z-po || joget || an tamm || bara-ze || e chomi || div || eur ||  ez  || kourvez.;gloss:None;standardise:None;lemgloss:|| [[a-benn|quand]] || [[ma|que]]<sup>[[4]]</sup> [[R]].2SG [[kaout|aura]] || [[jogañ|froiss]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[tamm|morceau]] || [[bara|pain]].[[-se|là]] || [[R]]<sup>[[4]]</sup> [[chom|resteras]] || [[div|deux]] || [[eur|heure]] || [[P.e|en]].[[POSS|ton]]<sup>[[3]]</sup> || [[gourvez|allonge]];translation:'Quand tu auras mangé ce morceau de pain là, tu pourras rester deux heures couché.';agrammaticale:None;info:''Trégorrois'', [[Gros (1989)|Gros (1989]]:'joga');category:Trégorrois;source:Gros (1989:'joga');link:https://arbres.iker.cnrs.fr/index.php?title=Déterminants_possessifs
 1	A-benn	a-benn	ADP	préposition	_	_	_	_	Gloss=quand
 2-6	ma'z-po	_	_	_	_	_	_	_	_
 2	ma	ma	SCONJ	complémenteur	_	_	_	_	Gloss=que
@@ -13340,7 +13339,7 @@
 17-18	ez	_	_	_	_	_	_	_	_
 17	e	P.e	ADP	préposition	_	_	_	_	Gloss=en
 18	POSS	POSS	NOUN	nc	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=ton
-19	kourvez	gourvez	NOUN	nom	_	_	_	_	Gloss=allongé
+19	kourvez	gourvez	NOUN	nom	_	_	_	_	Gloss=allonge
 20	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = LeClerc(1986:135)__597
@@ -13878,37 +13877,37 @@
 
 # sent_id = Gros(1984:318)__623
 # text =  Bezañ  lakeet  honnez  da  labourat !
-# text_fr = 'L'avoir fait travailler (il fallait, on aurait dû la faire travailler).'
+# text_fr = 'On aurait dû la faire travailler.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:318)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ellipses
-# wiki_annotation = title:Ellipses;contexte:None;phonetic:None;text:|| Bezañ || lakeet || honnez || da || labourat !;gloss:None;standardise:None;lemgloss:|| [[bezañ|être]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[honnezh|celle.là]] || [[da|à]]<sup>[[1]]</sup> || [[labourat|travailler]];translation:'L'avoir fait travailler (il fallait, on aurait dû la faire travailler).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:318);category:Trégorrois;source:Gros (1984:318);link:https://arbres.iker.cnrs.fr/index.php?title=Ellipses
+# wiki_annotation = title:Ellipses;contexte:None;phonetic:None;text:|| Bezañ || lakeet || honnez || da || labourat !;gloss:None;standardise:None;lemgloss:|| [[bezañ|être]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[hounnezh|celle.là]] || [[da|à]]<sup>[[1]]</sup> || [[labourat|travailler]];translation:'On aurait dû la faire travailler.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:318);category:Trégorrois;source:Gros (1984:318);link:https://arbres.iker.cnrs.fr/index.php?title=Ellipses
 1	Bezañ	bezañ	VERB	verbe	_	_	_	_	Gloss=être
 2-3	lakeet	_	_	_	_	_	_	_	_
 2	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 3	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
-4	honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+4	honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 5	da	da	ADP	préposition	_	_	_	_	Gloss=à
 6	labourat 	labourat	VERB	verbe	_	_	_	_	Gloss=travailler
 7	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = Gros(1970b:§'ober-20')__624
-# text =  Ar gloaneier  a zo  ker,  hag  an ober  anezo  a zo   ive.
+# text =  Ar  gloaneier  a  zo  ker,  hag  an ober  anezo  a  zo   ive.
 # text_fr = 'Les laines sont chères, et leur façon l'est aussi.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1970b:§'ober-20')
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ellipses
-# wiki_annotation = title:Ellipses;contexte:None;phonetic:None;text:|| Ar gloaneier || a zo || ker, || hag || an ober || anezo || a zo || || ive.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] [[gloan|laine]].[[-eier|s]] || [[R]]<sup>[[1]]</sup> [[COP|est]] || [[ker|cher]] || [[&|et]] || [[an, al, ar|le]] [[ober|faire]] || [[a|de]].[[pronom incorporé|eux]] || [[R]]<sup>[[1]]</sup> [[COP|est]] || <''cher''> || [[ivez|aussi]];translation:'Les laines sont chères, et leur façon l'est aussi.';agrammaticale:None;info:''Trégorrois'', [[Gros (1970b)|Gros (1970b:]]§'ober-20');category:Trégorrois;source:Gros (1970b:§'ober-20');link:https://arbres.iker.cnrs.fr/index.php?title=Ellipses
+# wiki_annotation = title:Ellipses;contexte:None;phonetic:None;text:|| Ar || gloaneier || a || zo || ker, || hag || an ober || anezo || a || zo || || ive.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[gloan|laine]].[[-eier|s]] || [[R]]<sup>[[1]]</sup> || [[zo|est]] || [[ker|cher]] || [[&|et]] || [[an, al, ar|le]] [[ober|faire]] || [[a|de]].[[pronom incorporé|eux]] || [[R]]<sup>[[1]]</sup> || [[zo|est]] || <''cher''> || [[ivez|aussi]];translation:'Les laines sont chères, et leur façon l'est aussi.';agrammaticale:None;info:''Trégorrois'', [[Gros (1970b)|Gros (1970b:]]§'ober-20');category:Trégorrois;source:Gros (1970b:§'ober-20');link:https://arbres.iker.cnrs.fr/index.php?title=Ellipses
 1	Ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-3	gloaneier	_	_	_	_	_	_	_	_
 2	gloan	gloan	NOUN	nom	_	_	_	_	Gloss=laine
 3	-eier	-eier	X	suffixe	_	_	_	_	Gloss=s
 4	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
-5	zo	COP	AUX	AUX	_	_	_	_	Gloss=est
+5	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 6	ker	ker	ADJ	adjectif	_	_	_	_	Gloss=cher
 7	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 8	hag	&	CCONJ	conjonction	_	_	_	_	Gloss=et
@@ -13918,7 +13917,7 @@
 11	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=de
 12	int	int	DET	pro	_	_	_	_	Gloss=eux
 13	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
-14	zo	COP	AUX	AUX	_	_	_	_	Gloss=est
+14	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 15	ive	ivez	ADV	particule de discours	_	_	_	_	Gloss=aussi
 16	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -14818,13 +14817,13 @@
 
 # sent_id = Berthou(1985:77)__665
 # text =  Biskoazh  n'em eus  gwelet  den  o  c'hoarzhin  evelti.
-# text_fr = 'Jamais je n'ai vu personne rire comme elle (rit).'
+# text_fr = 'Jamais je n'ai vu personne rire comme elle.'
 # dialect = Trégorrois
 # location = None
 # source = Berthou (1985:77)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Evel
-# wiki_annotation = title:Evel;contexte:None;phonetic:None;text:|| Biskoazh || n'em eus || gwelet || den || o || c'hoarzhin ||  evelti .;gloss:None;standardise:None;lemgloss:|| [[biskoazh|jamais]] || [[ne|ne]]<sup>[[1]]</sup> [[R]].1SG [[kaout|a]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[den|homme]] || [[particule o|à]]<sup>[[4]]</sup> || [[c'hoarzhin|rire]] || comme.[[pronom incorporé|elle]];translation:'Jamais je n'ai vu personne rire comme elle (rit).';agrammaticale:None;info:''Trégorrois'', [[Berthou (1985)|Berthou (1985]]:77);category:Trégorrois;source:Berthou (1985:77);link:https://arbres.iker.cnrs.fr/index.php?title=Evel
+# wiki_annotation = title:Evel;contexte:None;phonetic:None;text:|| Biskoazh || n'em eus || gwelet || den || o || c'hoarzhin ||  evelti .;gloss:None;standardise:None;lemgloss:|| [[biskoazh|jamais]] || [[ne|ne]]<sup>[[1]]</sup> [[R]].1SG [[kaout|a]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[den|homme]] || [[particule o|à]]<sup>[[4]]</sup> || [[c'hoarzhin|rire]] || comme.[[pronom incorporé|elle]];translation:'Jamais je n'ai vu personne rire comme elle.';agrammaticale:None;info:''Trégorrois'', [[Berthou (1985)|Berthou (1985]]:77);category:Trégorrois;source:Berthou (1985:77);link:https://arbres.iker.cnrs.fr/index.php?title=Evel
 1	Biskoazh	biskoazh	ADV	adverbe	_	_	_	_	Gloss=jamais
 2-5	n'emeus	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
@@ -16095,8 +16094,8 @@
 # source = Gros (1970b:§'ezomm')
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
-# wiki_annotation = title:Ezhomm;contexte:None;phonetic:None;text:|| Ezomm || glao || a || zo.;gloss:None;standardise:None;lemgloss:|| besoin || [[glav|pluie]] || [[R]] || [[zo|est]];translation:'On a besoin de pluie.';agrammaticale:None;info:''Trégorrois'', [[Gros (1970b)|Gros (1970b:]]§'ezomm');category:Trégorrois;source:Gros (1970b:§'ezomm');link:https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
-1	Ezomm	_	_	_	_	_	_	_	Gloss=_
+# wiki_annotation = title:Ezhomm;contexte:None;phonetic:None;text:||  Ezomm  || glao || a || zo.;gloss:None;standardise:None;lemgloss:|| besoin || [[glav|pluie]] || [[R]] || [[zo|est]];translation:'On a besoin de pluie.';agrammaticale:None;info:''Trégorrois'', [[Gros (1970b)|Gros (1970b:]]§'ezomm');category:Trégorrois;source:Gros (1970b:§'ezomm');link:https://arbres.iker.cnrs.fr/index.php?title=Ezhomm
+1	Ezomm	Ezomm	NOUN	nom	_	_	_	_	Gloss=besoin
 2	glao	glav	NOUN	nom	_	_	_	_	Gloss=pluie
 3	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 4	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
@@ -16374,13 +16373,13 @@
 
 # sent_id = Gros(1996:112)__733
 # text =  Amañ  ez arru  an avel  ken  e  fell  dezañ  diskar  eun den.
-# text_fr = 'Le vent arrive ici tellement qu'il manque de faire tomber un homme (c'est-à-dire moi).'
+# text_fr = 'Ici il y a du vent à faire tomber.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1996:112)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Fellout
-# wiki_annotation = title:Fellout;contexte:None;phonetic:None;text:|| Amañ || ez arru || an avel || ken || e ||  fell  ||  dezañ  || diskar || eun den.;gloss:None;standardise:None;lemgloss:|| [[adverbes déictiques spatiaux statiques|ici]] || [[R]]<sup>[[4]]</sup> [[arruout|arrive]] || [[an, al, ar|le]] [[avel|vent]] || [[ken, ker, kel|tellement]] || [[R]]<sup>[[4]]</sup> || plait || [[da|à]].[[pronom incorporé|lui]] || [[diskar|détruire]] || [[un, ul, ur|un]] [[den|personne]];translation:'Le vent arrive ici tellement qu'il manque de faire tomber un homme (c'est-à-dire moi).';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:112);category:Trégorrois;source:Gros (1996:112);link:https://arbres.iker.cnrs.fr/index.php?title=Fellout
+# wiki_annotation = title:Fellout;contexte:None;phonetic:None;text:|| Amañ || ez arru || an avel || ken || e ||  fell  ||  dezañ  || diskar || eun den.;gloss:None;standardise:None;lemgloss:|| [[adverbes déictiques spatiaux statiques|ici]] || [[R]]<sup>[[4]]</sup> [[arruout|arrive]] || [[an, al, ar|le]] [[avel|vent]] || [[ken, ker, kel|tellement]] || [[R]]<sup>[[4]]</sup> || plait || [[da|à]].[[pronom incorporé|lui]] || [[diskar|détruire]] || [[un, ul, ur|un]] [[den|personne]];translation:'Ici il y a du vent à faire tomber.';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:112);category:Trégorrois;source:Gros (1996:112);link:https://arbres.iker.cnrs.fr/index.php?title=Fellout
 1	Amañ	adverbesdéictiquesspatiauxstatiques	ADV	adverbe	_	_	_	_	Gloss=ici
 2	ez	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 3	arru	arruout	VERB	verbe	_	_	_	_	Gloss=arrive
@@ -18863,14 +18862,14 @@
 
 # sent_id = Gros(1984:152).__845
 # text =  Honnez  n' eo  ket  roet  he  zeod  dezi  da  lipad  mogeriou.
-# text_fr = 'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).'
+# text_fr = 'Sa langue lui sert pas à lécher les murs.' (elle bavarde)
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:152).
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Généricité
-# wiki_annotation = title:Généricité;contexte:None;phonetic:None;text:|| Honnez || n'  eo  || ket || roet || he || zeod || dezi || da || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle.là]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || [[da|pour]]<sup>[[1]]</sup> || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]];translation:'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:152).;category:Trégorrois;source:Gros (1984:152).;link:https://arbres.iker.cnrs.fr/index.php?title=Généricité
-1	Honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+# wiki_annotation = title:Généricité;contexte:None;phonetic:None;text:|| Honnez || n'  eo  || ket || roet || he || zeod || dezi || da || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle.là]] || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || [[da|pour]]<sup>[[1]]</sup> || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]];translation:'Sa langue lui sert pas à lécher les murs.' (elle bavarde);agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:152).;category:Trégorrois;source:Gros (1984:152).;link:https://arbres.iker.cnrs.fr/index.php?title=Généricité
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 2	n'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	eo	eo	AUX	AUX	_	_	_	_	Gloss=est
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
@@ -19717,8 +19716,8 @@
 # source = Gros (1984:199)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Holl
-# wiki_annotation = title:Holl;contexte:None;phonetic:None;text:|| Honnez, || bepred, || a || vez || e-pad ||  an oll  ||  amzer  || o || klakenni.;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle.là]] || [[bepred|toujours]] || [[R]]<sup>[[1]]</sup> || [[vez|est]] || [[e-pad|pendant]] || [[an, al, ar|le]] tout || [[amzer|temps]] || [[particule o|à]]<sup>[[4]]</sup> || [[klakenniñ|bavarder]];translation:'Celle-là, en tout cas, est continuellement en train de bavarder.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:199);category:Trégorrois;source:Gros (1984:199);link:https://arbres.iker.cnrs.fr/index.php?title=Holl
-1	Honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+# wiki_annotation = title:Holl;contexte:None;phonetic:None;text:|| Honnez, || bepred, || a || vez || e-pad ||  an oll  ||  amzer  || o || klakenni.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle.là]] || [[bepred|toujours]] || [[R]]<sup>[[1]]</sup> || [[vez|est]] || [[e-pad|pendant]] || [[an, al, ar|le]] tout || [[amzer|temps]] || [[particule o|à]]<sup>[[4]]</sup> || [[klakenniñ|bavarder]];translation:'Celle-là, en tout cas, est continuellement en train de bavarder.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:199);category:Trégorrois;source:Gros (1984:199);link:https://arbres.iker.cnrs.fr/index.php?title=Holl
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	bepred	bepred	ADV	adverbe	_	_	_	_	Gloss=toujours
 4	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -23179,21 +23178,20 @@
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = None__1035
-# text =  Me  ne  sellan  ket  deus ar  c'hozh  traoù  a vez  warni.
-# text_fr = 'Moi je ne regarde pas les faits divers qu'il y a dedans (le journal).'
+# text =  Me  ne  sellan  ket  deus  ar  c'hozh  traoù  a  vez  warni.
+# text_fr = 'Moi je ne regarde pas les faits divers qu'il y a dedans.' (le journal)
 # dialect = Trégorrois
 # location = Bégard
 # source = None
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Kozh-
-# wiki_annotation = title:Kozh-;contexte:None;phonetic:None;text:|| Me || ne || sellan || ket || deus ar ||  c'hozh  || traoù || a vez || warni.;gloss:None;standardise:None;lemgloss:|| [[pfi|moi]] || [[ne|ne]]<sup>[[1]]</sup> || [[sellout|regarde]] || [[ket|pas]] || [[deus|à]] [[an, al, ar|le]] || vieux || [[traoù|choses]] || [[R]]<sup>[[1]]</sup> [[vez|est]] || [[war|sur]].[[pronom incorporé|elle]];translation:'Moi je ne regarde pas les faits divers qu'il y a dedans (le journal).';agrammaticale:None;info:''Trégorrois (Bégard), locuteur né en 1928[[Yekel, Georgelin & Ar C'hozh (2015-2019)]];category:Trégorrois (Bégard), locuteur né en 1928[[Yekel, Georgelin & Ar C'hozh (2015-2019)]];source:None;link:https://arbres.iker.cnrs.fr/index.php?title=Kozh-
+# wiki_annotation = title:Kozh-;contexte:None;phonetic:None;text:|| Me || ne || sellan || ket || deus || ar ||  c'hozh  || traoù || a || vez || warni.;gloss:None;standardise:None;lemgloss:|| [[pfi|moi]] || [[ne|ne]]<sup>[[1]]</sup> || [[sellout|regarde]] || [[ket|pas]] || [[deus|à]] || [[an, al, ar|le]] || <sup>[[5]]</sup>vieux || [[traoù|choses]] || [[R]]<sup>[[1]]</sup> || [[vez|est]] || [[war|sur]].[[pronom incorporé|elle]];translation:'Moi je ne regarde pas les faits divers qu'il y a dedans.' (le journal);agrammaticale:None;info:''Trégorrois (Bégard), locuteur né en 1928[[Yekel, Georgelin & Ar C'hozh (2015-2019)]];category:Trégorrois (Bégard), locuteur né en 1928[[Yekel, Georgelin & Ar C'hozh (2015-2019)]];source:None;link:https://arbres.iker.cnrs.fr/index.php?title=Kozh-
 1	Me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	sellan	sellout	VERB	verbe	_	_	_	_	Gloss=regarde
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5-6	deus	_	_	_	_	_	_	_	_
 5	deus	deus	ADP	préposition	_	_	_	_	Gloss=à
-6	an,al,ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
+6	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 7	c'hozh	c'hozh	NOUN	nc	_	_	_	_	Gloss=vieux
 8	traoù	traoù	NOUN	nom	_	_	_	_	Gloss=choses
 9	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
@@ -23663,14 +23661,14 @@
 # source = Gros (1984:137)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Kroc'hen
-# wiki_annotation = title:Kroc'hen;contexte:None;phonetic:None;text:|| An dostenn-ze, || honnez || a zo || peg || he ||  hrohenn  || ouz || he || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[honnezh|celle.là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || peau || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Kroc'hen
+# wiki_annotation = title:Kroc'hen;contexte:None;phonetic:None;text:|| An dostenn-ze, || honnez || a zo || peg || he ||  hrohenn  || ouz || he || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[hounnezh|celle.là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || peau || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Kroc'hen
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-4	dostenn-ze	_	_	_	_	_	_	_	_
 2	tost	tost	ADJ	adjectif	_	_	_	_	Gloss=près|Mut=1|Mutchoice=right
 3	-enn	-enn	X	suffixe	_	_	_	_	Gloss=ée
 4	-se	-se	X	suffixe	_	_	_	_	Gloss=là
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-6	honnez	honnezh	_	_	_	_	_	_	Gloss=celle là
+6	honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 7	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 8	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 9	peg	pegañ	VERB	verbe	_	_	_	_	Gloss=collé
@@ -23923,8 +23921,8 @@
 # source = Gros (1966:26)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=L'habitude
-# wiki_annotation = title:L'habitude;contexte:None;phonetic:None;text:|| Honnez, || da || bemp || eur || diouz || ar beure, ||  a zo  || war || ar || bale.;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle-là]] || [[da|à]]<sup>[[1]]</sup> || [[pemp|cinq]] || [[eur|heure]] || [[diouzh|de]] || [[an, al, ar|le]] [[beure|matin]] || [[R]]<sup>[[1]]</sup> [[zo|est]] || [[war|sur]]<sup>[[1]]</sup> || [[an, al, ar|le]] || [[bale|marcher]];translation:'Celle-là est debout à 5h du matin.';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1966)|Gros (1966]]:26);category:Trégorrois parlé (Trédrez);source:Gros (1966:26);link:https://arbres.iker.cnrs.fr/index.php?title=L'habitude
-1	Honnez	honnezh	DET	pro	_	_	_	_	Gloss=celle-là
+# wiki_annotation = title:L'habitude;contexte:None;phonetic:None;text:|| Honnez, || da || bemp || eur || diouz || ar beure, ||  a zo  || war || ar || bale.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[da|à]]<sup>[[1]]</sup> || [[pemp|cinq]] || [[eur|heure]] || [[diouzh|de]] || [[an, al, ar|le]] [[beure|matin]] || [[R]]<sup>[[1]]</sup> [[zo|est]] || [[war|sur]]<sup>[[1]]</sup> || [[an, al, ar|le]] || [[bale|marcher]];translation:'Celle-là est debout à 5h du matin.';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1966)|Gros (1966]]:26);category:Trégorrois parlé (Trédrez);source:Gros (1966:26);link:https://arbres.iker.cnrs.fr/index.php?title=L'habitude
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	da	da	ADP	préposition	_	_	_	_	Gloss=à
 4	bemp	pemp	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=cinq
@@ -26721,13 +26719,13 @@
 
 # sent_id = Gros(1996:118)__1190
 # text =  mar  teu  hemañ  diwar  dour  bervet,  emañ  pell  ahann.
-# text_fr = 'S'il provient d'une eau bouillante, elle se trouve loin d'ici (il est froid).'
+# text_fr = 'S'il provient d'une eau bouillante, elle est pas tout près.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1996:118)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
-# wiki_annotation = title:Les démonstratifs;contexte:None;phonetic:None;text:|| mar || teu ||  hemañ  || diwar || dour || bervet, || emañ || pell || ahann.;gloss:None;standardise:None;lemgloss:|| [[ma(r)|si]] || [[dont|vient]] || [[hemañ|celui-ci]] || [[diwar|de]] || [[dour|eau]] || [[birviñ|bouillante]] || [[emañ|se.trouve]] || [[pell|loin]] || [[ac'hann|de.là]];translation:'S'il provient d'une eau bouillante, elle se trouve loin d'ici (il est froid).';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:118);category:Trégorrois;source:Gros (1996:118);link:https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
+# wiki_annotation = title:Les démonstratifs;contexte:None;phonetic:None;text:|| mar || teu ||  hemañ  || diwar || dour || bervet, || emañ || pell || ahann.;gloss:None;standardise:None;lemgloss:|| [[ma(r)|si]] || [[dont|vient]] || [[hemañ|celui-ci]] || [[diwar|de]] || [[dour|eau]] || [[birviñ|bouillante]] || [[emañ|se.trouve]] || [[pell|loin]] || [[ac'hann|de.là]];translation:'S'il provient d'une eau bouillante, elle est pas tout près.';agrammaticale:None;info:''Trégorrois'', [[Gros (1996)|Gros (1996]]:118);category:Trégorrois;source:Gros (1996:118);link:https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
 1	mar	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
 2	teu	dont	VERB	verbe	_	_	_	_	Gloss=vient
 3	hemañ	hemañ	DET	déterminant	_	_	_	_	Gloss=celui-ci
@@ -27550,7 +27548,7 @@
 # source = Duval (1964), 'Aour al lanneg'
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
-# wiki_annotation = title:Les numéraux cardinaux;contexte:None;phonetic:None;text:|| Emaout || o || trevezañ || ar ||  C'hwec'hkogneg  ?;gloss:None;standardise:None;lemgloss:|| [[emañ|es]] || [[particule o|à]]<sup>[[1]]</sup> || [[drevezañ|singer]] || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train d'imiter l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
+# wiki_annotation = title:Les numéraux cardinaux;contexte:None;phonetic:None;text:|| Emaout || o || trevezañ || ar ||  C'hwec'hkogneg  ?;gloss:None;standardise:None;lemgloss:|| [[emañ|es]] || [[particule o|à]]<sup>[[4]]</sup> || [[drevezañ|singer]] || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train d'imiter l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
 1	Emaout	emañ	VERB	verbe	_	_	_	_	Gloss=es
 2	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
 3	trevezañ	drevezañ	VERB	verbe	_	_	_	_	Gloss=singer
@@ -28297,13 +28295,13 @@
 
 # sent_id = Gros(1984:176)__1262
 # text =  Bremañ  ne  guz  ket  an heol  da  hweh  eur:  ouspennig  e vez.
-# text_fr = 'Maintenant le soleil ne se couche pas à six heures: il est un peu plus (de 6h).'
+# text_fr = 'Maintenant le soleil ne se couche pas à six heures: il est un peu plus tard.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:176)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_verbes_inaccusatifs
-# wiki_annotation = title:Les verbes inaccusatifs;contexte:None;phonetic:None;text:|| Bremañ || ne ||  guz  || ket || <u>an heol</u> || da || hweh || eur: || ouspennig || e vez.;gloss:None;standardise:None;lemgloss:|| [[bremañ|maintenant]] || [[ne|ne]]<sup>[[1]]</sup> || [[kuzhat|cache]] || [[ket|pas]] || [[an, al, ar|le]] [[heol|soleil]] || [[da|à]]<sup>[[1]]</sup> || [[c'hwec'h|six]] || [[eur|heure]] || [[ouzhpenn|plus]].[[-ig|DIM]] || [[R]]<sup>[[4]]</sup> [[vez|est]];translation:'Maintenant le soleil ne se couche pas à six heures: il est un peu plus (de 6h).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:176);category:Trégorrois;source:Gros (1984:176);link:https://arbres.iker.cnrs.fr/index.php?title=Les_verbes_inaccusatifs
+# wiki_annotation = title:Les verbes inaccusatifs;contexte:None;phonetic:None;text:|| Bremañ || ne ||  guz  || ket || <u>an heol</u> || da || hweh || eur: || ouspennig || e vez.;gloss:None;standardise:None;lemgloss:|| [[bremañ|maintenant]] || [[ne|ne]]<sup>[[1]]</sup> || [[kuzhat|cache]] || [[ket|pas]] || [[an, al, ar|le]] [[heol|soleil]] || [[da|à]]<sup>[[1]]</sup> || [[c'hwec'h|six]] || [[eur|heure]] || [[ouzhpenn|plus]].[[-ig|DIM]] || [[R]]<sup>[[4]]</sup> [[vez|est]];translation:'Maintenant le soleil ne se couche pas à six heures: il est un peu plus tard.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:176);category:Trégorrois;source:Gros (1984:176);link:https://arbres.iker.cnrs.fr/index.php?title=Les_verbes_inaccusatifs
 1	Bremañ	bremañ	ADV	adverbe	_	_	_	_	Gloss=maintenant
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	guz	kuzhat	VERB	verbe	_	_	_	_	Gloss=cache
@@ -31998,13 +31996,13 @@
 
 # sent_id = Gros(1984:378)__1427
 # text =  Eun  hantér-kant  patatez  am-eus  ranket  prenañ.
-# text_fr = 'J'ai dû acheter un demi-cent de pommes-de-terres (25kg).'
+# text_fr = 'J'ai dû acheter un demi-cent de pommes-de-terres.' (25kg)
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:378)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Noms_massiques
-# wiki_annotation = title:Noms massiques;contexte:None;phonetic:None;text:|| Eun || hantér-kant || patatez || am-eus || ranket || prenañ.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[hanter|moitié]]-[[kant|cent]] || [[patatez|patates]] || [[R]].1SG [[kaout|a]] || [[rankout|d]].[[-et (Adj.)|û]] || [[prenañ|acheter]];translation:'J'ai dû acheter un demi-cent de pommes-de-terres (25kg).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:378);category:Trégorrois;source:Gros (1984:378);link:https://arbres.iker.cnrs.fr/index.php?title=Noms_massiques
+# wiki_annotation = title:Noms massiques;contexte:None;phonetic:None;text:|| Eun || hantér-kant || patatez || am-eus || ranket || prenañ.;gloss:None;standardise:None;lemgloss:|| [[un, ul, ur|un]] || [[hanter|moitié]]-[[kant|cent]] || [[patatez|patates]] || [[R]].1SG [[kaout|a]] || [[rankout|d]].[[-et (Adj.)|û]] || [[prenañ|acheter]];translation:'J'ai dû acheter un demi-cent de pommes-de-terres.' (25kg);agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:378);category:Trégorrois;source:Gros (1984:378);link:https://arbres.iker.cnrs.fr/index.php?title=Noms_massiques
 1	Eun	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 2	hantér	hanter	DET/ADJ/ADV/PRON	quantifieur	_	_	_	_	Gloss=moitié
 3	-kant	kant	NOUN	nom	_	_	_	_	Gloss=cent
@@ -33510,13 +33508,13 @@
 
 # sent_id = Gros(1984:176,263)__1496
 # text =  Bremañ  ne  guz  ket  an  heol  da  hweh  eur:  ouspennig  e  vez.
-# text_fr = 'Maintenant le soleil ne se couche pas à six heures: il est un peu plus (de 6h).'
+# text_fr = 'Maintenant le soleil ne se couche pas à six heures: il est un peu plus tard.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:176, 263)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ouzhpenn
-# wiki_annotation = title:Ouzhpenn;contexte:None;phonetic:None;text:|| Bremañ || ne || guz || ket || an || heol || da || hweh || eur: || ouspenn ig  || e || vez.;gloss:None;standardise:None;lemgloss:|| [[bremañ|maintenant]] || [[ne|ne]]<sup>[[1]]</sup> || [[kuzhat|cache]] || [[ket|pas]] || [[an, al, ar|le]] || [[heol|soleil]] || [[da|à]] || [[c'hwec'h|six]] || [[eur|heure]] || plus.[[-ig|DIM]] || [[R]] || [[vez|est]];translation:'Maintenant le soleil ne se couche pas à six heures: il est un peu plus (de 6h).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:176, 263);category:Trégorrois;source:Gros (1984:176, 263);link:https://arbres.iker.cnrs.fr/index.php?title=Ouzhpenn
+# wiki_annotation = title:Ouzhpenn;contexte:None;phonetic:None;text:|| Bremañ || ne || guz || ket || an || heol || da || hweh || eur: || ouspenn ig  || e || vez.;gloss:None;standardise:None;lemgloss:|| [[bremañ|maintenant]] || [[ne|ne]]<sup>[[1]]</sup> || [[kuzhat|cache]] || [[ket|pas]] || [[an, al, ar|le]] || [[heol|soleil]] || [[da|à]] || [[c'hwec'h|six]] || [[eur|heure]] || plus.[[-ig|DIM]] || [[R]] || [[vez|est]];translation:'Maintenant le soleil ne se couche pas à six heures: il est un peu plus tard.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:176, 263);category:Trégorrois;source:Gros (1984:176, 263);link:https://arbres.iker.cnrs.fr/index.php?title=Ouzhpenn
 1	Bremañ	bremañ	ADV	adverbe	_	_	_	_	Gloss=maintenant
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	guz	kuzhat	VERB	verbe	_	_	_	_	Gloss=cache
@@ -34885,13 +34883,13 @@
 
 # sent_id = Gros(1984:96)__1554
 # text =  Pep  hini  a vez  sod  gand  e  dammou  loened.
-# text_fr = 'Chacun aime les quelques bêtes qu'il a (ses petites bêtes).'
+# text_fr = 'Chacun aime ses petites bêtes.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:96)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pep
-# wiki_annotation = title:Pep;contexte:None;phonetic:None;text:||  Pep ||  hini  || a vez || sod || gand ||  e  || dammou || loened.;gloss:None;standardise:None;lemgloss:|| chaque || [[hini|celui]] || [[R]] [[vez|est]] || [[sot|sot]] || [[gant|avec]] || [[POSS|son]]<sup>[[1]]</sup> || [[tamm|bout]].[[-où (PL.)|s]] || [[loen|bête]].[[-ed (PL.)|s]];translation:'Chacun aime les quelques bêtes qu'il a (ses petites bêtes).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:96);category:Trégorrois;source:Gros (1984:96);link:https://arbres.iker.cnrs.fr/index.php?title=Pep
+# wiki_annotation = title:Pep;contexte:None;phonetic:None;text:||  Pep ||  hini  || a vez || sod || gand ||  e  || dammou || loened.;gloss:None;standardise:None;lemgloss:|| chaque || [[hini|celui]] || [[R]] [[vez|est]] || [[sot|sot]] || [[gant|avec]] || [[POSS|son]]<sup>[[1]]</sup> || [[tamm|bout]].[[-où (PL.)|s]] || [[loen|bête]].[[-ed (PL.)|s]];translation:'Chacun aime ses petites bêtes.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:96);category:Trégorrois;source:Gros (1984:96);link:https://arbres.iker.cnrs.fr/index.php?title=Pep
 1	Pep	Pep	DET	déterminant	_	_	_	_	Gloss=chaque
 2	hini	hini	NOUN	nom	_	_	_	_	Gloss=celui
 3	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
@@ -35303,13 +35301,13 @@
 
 # sent_id = Gros(1984:161)__1573
 # text =  Honnez  na  oa  ket  eur  plah  vrao,  na  tost  ivez !
-# text_fr = 'Ce n'était pas une jolie fille, ni près de l'être (elle était laide).'
+# text_fr = 'Ce n'était pas une jolie fille, ni près de l'être.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:161)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Plac'h
-# wiki_annotation = title:Plac'h;contexte:None;phonetic:None;text:|| Honnez || na || oa || ket || eur || plah ||  v rao, || na || tost || ivez !;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]].[[R]] || [[eo|était]] || [[ket|pas]] || [[un, ul, ur|un]] || fille<sup>[[1]]</sup> || [[brav|belle]] || [[na… na|ni]] || [[tost|près]] || [[ivez|aussi]];translation:'Ce n'était pas une jolie fille, ni près de l'être (elle était laide).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:161);category:Trégorrois;source:Gros (1984:161);link:https://arbres.iker.cnrs.fr/index.php?title=Plac'h
+# wiki_annotation = title:Plac'h;contexte:None;phonetic:None;text:|| Honnez || na || oa || ket || eur || plah ||  v rao, || na || tost || ivez !;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]].[[R]] || [[eo|était]] || [[ket|pas]] || [[un, ul, ur|un]] || fille<sup>[[1]]</sup> || [[brav|belle]] || [[na… na|ni]] || [[tost|près]] || [[ivez|aussi]];translation:'Ce n'était pas une jolie fille, ni près de l'être.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:161);category:Trégorrois;source:Gros (1984:161);link:https://arbres.iker.cnrs.fr/index.php?title=Plac'h
 1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2-3	na	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
@@ -36160,25 +36158,25 @@
 10	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Gros(1984:159)__1613
-# text =  Poaniañ  a reer !  Hastañ  a reer !
-# text_fr = 'Comme on peine (vous peinez).' , 'On se dépêche (vous vous dépêchez)!'
+# text =  Poaniañ  a  reer !  Hastañ  a  reer !
+# text_fr = 'Vous peinez !' , 'Vous vous dépêchez !'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:159)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronom_impersonnel
-# wiki_annotation = title:Pronom impersonnel;contexte:None;phonetic:None;text:|| Poaniañ || a re er  ! || Hastañ || a re er  !;gloss:None;standardise:None;lemgloss:|| [[poan|pein]].[[-iañ (V.)|er]] || [[R]] [[ober|fait]].on || [[hastañ|dépêcher]] || [[R]] [[ober|fait]].on;translation:'Comme on peine (vous peinez).' , 'On se dépêche (vous vous dépêchez)!';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:159);category:Trégorrois;source:Gros (1984:159);link:https://arbres.iker.cnrs.fr/index.php?title=Pronom_impersonnel
+# wiki_annotation = title:Pronom impersonnel;contexte:None;phonetic:None;text:|| Poaniañ || a || re er  ! || Hastañ || a || re er  !;gloss:None;standardise:None;lemgloss:|| [[poan|pein]].[[-iañ (V.)|er]] || [[R]] || [[ober|fait]].on || [[hastañ|dépêcher]] || [[R]] || [[ober|fait]].on;translation:'Vous peinez !' , 'Vous vous dépêchez !';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:159);category:Trégorrois;source:Gros (1984:159);link:https://arbres.iker.cnrs.fr/index.php?title=Pronom_impersonnel
 1-2	Poaniañ	_	_	_	_	_	_	_	_
 1	poan	poan	NOUN	nom	_	_	_	_	Gloss=pein
 2	-iañ	-iañ(V.)	X	suffixe	_	_	_	_	Gloss=er
-3-5	areer  	_	_	_	_	_	_	_	_
-3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
+3	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
+4-5	reer  	_	_	_	_	_	_	_	_
 4	ober	ober	VERB	verbe	_	_	_	_	Gloss=fait
 5	er	er	PRON	cln	_	_	_	_	Gloss=on
 6	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 7	Hastañ	hastañ	VERB	verbe	_	_	_	_	Gloss=dépêcher
-8-10	areer  	_	_	_	_	_	_	_	_
-8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
+8	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
+9-10	reer  	_	_	_	_	_	_	_	_
 9	ober	ober	VERB	verbe	_	_	_	_	Gloss=fait
 10	er	er	PRON	cln	_	_	_	_	Gloss=on
 11	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
@@ -37887,14 +37885,14 @@
 # source = Gros (1984:137)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Référence
-# wiki_annotation = title:Référence;contexte:None;phonetic:None;text:||  An dostenn-ze <sub>''x''</sub>, ||  honnez <sub>''x''</sub> || a zo || peg ||  he <sub>''x''</sub> || hrohenn || ouz ||  he <sub>''x''</sub> || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[honnezh|celle.là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || [[kroc'hen|peau]] || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Référence
+# wiki_annotation = title:Référence;contexte:None;phonetic:None;text:||  An dostenn-ze <sub>''x''</sub>, ||  honnez <sub>''x''</sub> || a zo || peg ||  he <sub>''x''</sub> || hrohenn || ouz ||  he <sub>''x''</sub> || hein.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] <sup>[[1]]</sup>[[tost|près]].[[-enn|ée]].[[-se|là]] || [[hounnezh|celle.là]] || [[R]] [[zo|est]] || [[pegañ|collé]] || [[POSS|son]]<sup>[[2]]</sup> || [[kroc'hen|peau]] || [[ouzh|à]] || [[POSS|son]]<sup>[[2]]</sup> || [[kein|dos]];translation:'Cette avare-là, celle-là a la peau collée au dos.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:137);category:Trégorrois;source:Gros (1984:137);link:https://arbres.iker.cnrs.fr/index.php?title=Référence
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-4	dostenn-ze''x	_	_	_	_	_	_	_	_
 2	tost	tost	ADJ	adjectif	_	_	_	_	Gloss=près
 3	-enn	-enn	X	suffixe	_	_	_	_	Gloss=ée
 4	-se	-se	X	suffixe	_	_	_	_	Gloss=là
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-6	honnez''x''	honnezh	_	_	_	_	_	_	Gloss=celle là
+6	honnez''x''	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle là
 7	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 8	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 9	peg	pegañ	VERB	verbe	_	_	_	_	Gloss=collé
@@ -38360,13 +38358,13 @@
 
 # sent_id = Gros(1984:79)__1711
 # text =  Ar  vrumenn-ze  na  glebiañ  na  sehañ  ne  ra.
-# text_fr = 'Cette brume-là ni ne mouille ni ne sèche (elle ne sert à rien).'
+# text_fr = 'Cette brume-là ni ne mouille ni ne sèche.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:79)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Sec'hiñ
-# wiki_annotation = title:Sec'hiñ;contexte:None;phonetic:None;text:|| Ar || vrumenn-ze || na || glebiañ || na ||  sehañ  || ne || ra.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || <sup>[[1]]</sup>[[brumenn|brume]].[[DEM|là]] || [[na… na|ni]] || [[gleb|mouiller]] || [[na… na|ni]] || sécher || [[ne|ne]]<sup>[[1]]</sup> || [[ober|fa]].[[-et (Adj.)|it]];translation:'Cette brume-là ni ne mouille ni ne sèche (elle ne sert à rien).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:79);category:Trégorrois;source:Gros (1984:79);link:https://arbres.iker.cnrs.fr/index.php?title=Sec'hiñ
+# wiki_annotation = title:Sec'hiñ;contexte:None;phonetic:None;text:|| Ar || vrumenn-ze || na || glebiañ || na ||  sehañ  || ne || ra.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || <sup>[[1]]</sup>[[brumenn|brume]].[[DEM|là]] || [[na… na|ni]] || [[gleb|mouiller]] || [[na… na|ni]] || sécher || [[ne|ne]]<sup>[[1]]</sup> || [[ober|fa]].[[-et (Adj.)|it]];translation:'Cette brume-là ni ne mouille ni ne sèche.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:79);category:Trégorrois;source:Gros (1984:79);link:https://arbres.iker.cnrs.fr/index.php?title=Sec'hiñ
 1	Ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-3	vrumenn-ze	_	_	_	_	_	_	_	_
 2	brumenn	brumenn	VERB	v	_	_	_	_	Gloss=brume
@@ -38747,14 +38745,14 @@
 14	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 
 # sent_id = Gros(1984:331)__1729
-# text =  Ar re-ze  a zoñj  ganto  n'e-nevez  sort  eun den  d'ober.
+# text =  Ar  re-ze  a  zoñj  ganto  n'e-nevez  sort  eun den  d'ober.
 # text_fr = 'Ceux-ci se figurent qu'on n'a rien à faire.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:331)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Seurt
-# wiki_annotation = title:Seurt;contexte:None;phonetic:None;text:|| Ar re-ze || a zoñj || ganto || n'e-nevez ||  sort  || eun den || d'ober.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] [[hini|ceux]].[[DEM|ci]] || [[R]] [[soñjal|pense]] || [[gant|avec]].[[pronom incorporé|eux]] || [[ne|ne]]<sup>[[1]]</sup> [[R]] [[kaout|a.HAB]] || rien || [[IMP|on]] || [[da|à]] [[ober|faire]];translation:'Ceux-ci se figurent qu'on n'a rien à faire.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:331);category:Trégorrois;source:Gros (1984:331);link:https://arbres.iker.cnrs.fr/index.php?title=Seurt
+# wiki_annotation = title:Seurt;contexte:None;phonetic:None;text:|| Ar || re-ze || a || zoñj || ganto || n'e-nevez ||  sort  || eun den || d'ober.;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[hini|ceux]].[[DEM|ci]] || [[R]] || [[soñjal|pense]] || [[gant|avec]].[[pronom incorporé|eux]] || [[ne|ne]]<sup>[[1]]</sup> [[R]] [[kaout|a.HAB]] || rien || [[IMP|on]] || [[da|à]] [[ober|faire]];translation:'Ceux-ci se figurent qu'on n'a rien à faire.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:331);category:Trégorrois;source:Gros (1984:331);link:https://arbres.iker.cnrs.fr/index.php?title=Seurt
 1	Ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2-3	re-ze	_	_	_	_	_	_	_	_
 2	hini	hini	NOUN	nom	_	_	_	_	Gloss=ceux
@@ -40576,13 +40574,13 @@
 
 # sent_id = Gros,(1984:152)__1808
 # text =  Honnez  n'eo  ket  roet  he  zeod  dezi   da  lipad  mogeriou.
-# text_fr = 'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).'
+# text_fr = 'Sa langue lui sert pas à lécher les murs.' (elle bavarde)
 # dialect = Trégorrois
 # location = None
 # source = Gros, (1984:152)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Subordonnées_de_but
-# wiki_annotation = title:Subordonnées de but;contexte:None;phonetic:None;text:|| Honnez || n'eo || ket || roet || he || zeod || dezi || ||  da  || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]]<sup>[[1]]</sup> [[COP|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || <font color=green>[</font color=green> || [[da|pour]] || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]] <font color=green>]</font color=green>;translation:'Sa langue ne lui a pas été donnée pour lécher les murs (mais bien pour bavarder).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros, (1984]]:152);category:Trégorrois;source:Gros, (1984:152);link:https://arbres.iker.cnrs.fr/index.php?title=Subordonnées_de_but
+# wiki_annotation = title:Subordonnées de but;contexte:None;phonetic:None;text:|| Honnez || n'eo || ket || roet || he || zeod || dezi || ||  da  || lipad || mogeriou.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[ne|ne]]<sup>[[1]]</sup> [[COP|est]] || [[ket|pas]] || [[reiñ|donn]].[[-et (Adj.)|é]] || [[POSS|son]]<sup>[[2]]</sup> || [[teod|langue]] || [[da|à]].[[pronom incorporé|elle]] || <font color=green>[</font color=green> || [[da|pour]] || [[lipat|lécher]] || [[moger|mur]].[[-ioù (PL.)|s]] <font color=green>]</font color=green>;translation:'Sa langue lui sert pas à lécher les murs.' (elle bavarde);agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros, (1984]]:152);category:Trégorrois;source:Gros, (1984:152);link:https://arbres.iker.cnrs.fr/index.php?title=Subordonnées_de_but
 1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2-3	n'eo	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
@@ -41330,13 +41328,13 @@
 
 # sent_id = Gros(1984:488)__1840
 # text =  Honnez,  tav  n'eo  ket  taget  diwar  he  hentañ  gaou!
-# text_fr = 'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge (elle est menteuse).'
+# text_fr = 'Celle-là, tu sais, le mensonge l'étouffe pas.'
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:488)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Tagañ
-# wiki_annotation = title:Tagañ;contexte:None;phonetic:None;text:|| Honnez, || tav || n'eo || ket ||  taget  || diwar || he || hentañ || gaou!;gloss:None;standardise:None;lemgloss:|| [[DEM|celle-là]] || [[atav|toujours]] || [[ne|ne]]<sup>[[1]]</sup> [[COP|est]] || [[ket|pas]] || blessé || [[diwar|par]] || [[POSS|son]]<sup>[[2]]</sup> || [[kentañ|premier]] || [[gaou|mensonge]];translation:'Celle-là, tu sais, n'a pas été étranglée par son premier mensonge (elle est menteuse).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:488);category:Trégorrois;source:Gros (1984:488);link:https://arbres.iker.cnrs.fr/index.php?title=Tagañ
+# wiki_annotation = title:Tagañ;contexte:None;phonetic:None;text:|| Honnez, || tav || n'eo || ket ||  taget  || diwar || he || hentañ || gaou!;gloss:None;standardise:None;lemgloss:|| [[DEM|celle-là]] || [[atav|toujours]] || [[ne|ne]]<sup>[[1]]</sup> [[COP|est]] || [[ket|pas]] || blessé || [[diwar|par]] || [[POSS|son]]<sup>[[2]]</sup> || [[kentañ|premier]] || [[gaou|mensonge]];translation:'Celle-là, tu sais, le mensonge l'étouffe pas.';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:488);category:Trégorrois;source:Gros (1984:488);link:https://arbres.iker.cnrs.fr/index.php?title=Tagañ
 1	Honnez	DEM	DET	pro	_	_	_	_	Gloss=celle-là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	tav	atav	ADV	adverbe	_	_	_	_	Gloss=toujours
@@ -42832,7 +42830,7 @@
 # source = Duval (1964), 'Aour al lanneg'
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Trevezañ
-# wiki_annotation = title:Trevezañ;contexte:None;phonetic:None;text:|| Emaout || o ||  trevezañ  || ar || C'hwec'hkogneg ?;gloss:None;standardise:None;lemgloss:|| [[Emañ|es]] || [[particule o|à]]<sup>[[1]]</sup> || imiter || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train de singer l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Trevezañ
+# wiki_annotation = title:Trevezañ;contexte:None;phonetic:None;text:|| Emaout || o ||  trevezañ  || ar || C'hwec'hkogneg ?;gloss:None;standardise:None;lemgloss:|| [[Emañ|es]] || [[particule o|à]]<sup>[[4]]</sup> || imiter || [[an, al, ar|le]] || [[c'hwec'h|six]].[[kogn|coint]].[[-ek|é]];translation:'Tu ne serais pas en train de singer l'Hexagone ?' (France);agrammaticale:None;info:''Trégorrois'', Duval (1964), 'Aour al lanneg';category:Trégorrois;source:Duval (1964), 'Aour al lanneg';link:https://arbres.iker.cnrs.fr/index.php?title=Trevezañ
 1	Emaout	Emañ	VERB	verbe	_	_	_	_	Gloss=es
 2	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
 3	trevezañ	trevezañ	VERB	verbe	_	_	_	_	Gloss=imiter
@@ -43189,13 +43187,13 @@
 
 # sent_id = Gros(1984:186)__1923
 # text =  Amañ  ez  eer  an-unan.
-# text_fr = 'Ici on marche seul (à un enfant).'
+# text_fr = 'Ici on marche seul.' (à un enfant)
 # dialect = Trégorrois
 # location = None
 # source = Gros (1984:186)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Unan
-# wiki_annotation = title:Unan;contexte:None;phonetic:None;text:|| Amañ || ez || e er  ||  an-unan .;gloss:None;standardise:None;lemgloss:|| [[amañ|ici]] || [[R]]<sup>[[4]]</sup> || [[mont|va]].[[IMP|on]] || [[art|le]]-un;translation:'Ici on marche seul (à un enfant).';agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:186);category:Trégorrois;source:Gros (1984:186);link:https://arbres.iker.cnrs.fr/index.php?title=Unan
+# wiki_annotation = title:Unan;contexte:None;phonetic:None;text:|| Amañ || ez || e er  ||  an-unan .;gloss:None;standardise:None;lemgloss:|| [[amañ|ici]] || [[R]]<sup>[[4]]</sup> || [[mont|va]].[[IMP|on]] || [[art|le]]-un;translation:'Ici on marche seul.' (à un enfant);agrammaticale:None;info:''Trégorrois'', [[Gros (1984)|Gros (1984]]:186);category:Trégorrois;source:Gros (1984:186);link:https://arbres.iker.cnrs.fr/index.php?title=Unan
 1	Amañ	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 2	ez	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 3-4	eer	_	_	_	_	_	_	_	_
@@ -43750,8 +43748,8 @@
 # source = Gros (1966:26)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Verbes_infinitifs
-# wiki_annotation = title:Verbes infinitifs;contexte:None;phonetic:None;text:|| Honnez, || da || bemp || eur || diouz || ar beure, || a zo || war || ar  b ale.;gloss:None;standardise:None;lemgloss:|| [[honnezh|celle-là]] || [[da|à]]<sup>[[1]]</sup> || [[pemp|cinq]] || [[eur|heure]] || [[diouzh|de]] || [[an, al, ar|le]] [[beure|matin]] || [[R]]<sup>[[1]]</sup> [[zo|est]] || [[war|sur]]<sup>[[1]]</sup> || [[an, al, ar|le]] [[bale|marcher]];translation:'Celle-là est debout à 5h du matin.';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1966)|Gros (1966]]:26);category:Trégorrois parlé (Trédrez);source:Gros (1966:26);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_infinitifs
-1	Honnez	honnezh	DET	pro	_	_	_	_	Gloss=celle-là
+# wiki_annotation = title:Verbes infinitifs;contexte:None;phonetic:None;text:|| Honnez, || da || bemp || eur || diouz || ar beure, || a zo || war || ar  b ale.;gloss:None;standardise:None;lemgloss:|| [[hounnezh|celle-là]] || [[da|à]]<sup>[[1]]</sup> || [[pemp|cinq]] || [[eur|heure]] || [[diouzh|de]] || [[an, al, ar|le]] [[beure|matin]] || [[R]]<sup>[[1]]</sup> [[zo|est]] || [[war|sur]]<sup>[[1]]</sup> || [[an, al, ar|le]] [[bale|marcher]];translation:'Celle-là est debout à 5h du matin.';agrammaticale:None;info:''Trégorrois parlé (Trédrez)'', [[Gros (1966)|Gros (1966]]:26);category:Trégorrois parlé (Trédrez);source:Gros (1966:26);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_infinitifs
+1	Honnez	hounnezh	DET	déterminant	_	_	_	_	Gloss=celle-là
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	da	da	ADP	préposition	_	_	_	_	Gloss=à
 4	bemp	pemp	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=cinq
@@ -44100,13 +44098,13 @@
 
 # sent_id = Stephens(1990:157)__1964
 # text =  Pedin  a reas  Yann  Lenaig   _  da  respont  [[*]] e-unan / he-unan.
-# text_fr = 'Yann a demandé à Lenaig de lui répondre ([[*]] lui-même/elle-même).'
+# text_fr = 'Yann a demandé à Lenaig de lui répondre ([[*]] lui-même / elle-même).'
 # dialect = Trégorrois
 # location = None
 # source = Stephens (1990:157)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
-# wiki_annotation = title:Verbes à contrôle;contexte:None;phonetic:None;text:||  Pedin  || a reas || Yann || Lenaig || || _ || da || respont ||  [[*]] e-unan / he-unan .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]]<sup>[[1]]</sup> [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lena]].[[-ig|DIM]]<sub>''x''</sub> || <font color=green>[</font color=green> || [[PRO]]<sub>''x''</sub> || [[da|de]] || [[respont (V.)|répondre]] || [[réfléchi|lui-même]] / [[réfléchi|elle-même]] <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre ([[*]] lui-même/elle-même).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
+# wiki_annotation = title:Verbes à contrôle;contexte:None;phonetic:None;text:||  Pedin  || a reas || Yann || Lenaig || || _ || da || respont ||  [[*]] e-unan / he-unan .;gloss:None;standardise:None;lemgloss:|| [[pediñ|inviter]] || [[R]]<sup>[[1]]</sup> [[ober|fit]] || [[nom propre|Yann]] || [[nom propre|Lena]].[[-ig|DIM]]<sub>''x''</sub> || <font color=green>[</font color=green> || [[PRO]]<sub>''x''</sub> || [[da|de]] || [[respont (V.)|répondre]] || [[réfléchi|lui-même]] / [[réfléchi|elle-même]] <font color=green>]</font color=green>;translation:'Yann a demandé à Lenaig de lui répondre ([[*]] lui-même / elle-même).';agrammaticale:None;info:''Trégorrois'', [[Stephens (1990)|Stephens (1990]]:157);category:Trégorrois;source:Stephens (1990:157);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
 1	Pedin	pediñ	VERB	verbe	_	_	_	_	Gloss=inviter
 2	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
 3	reas	ober	VERB	verbe	_	_	_	_	Gloss=fit
@@ -44219,13 +44217,13 @@
 
 # sent_id = Gros(1970:150)__1969
 # text =  Hennez  zo  da   lakâd  blaz  war  ar boued.
-# text_fr = 'Cela est destiné à donner du goût aux aliments.' (à les assaisonner).'
+# text_fr = 'Cela est destiné à donner du goût aux aliments.' (à les assaisonner)
 # dialect = Trégorrois
 # location = None
 # source = Gros (1970:150)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
-# wiki_annotation = title:Verbes à contrôle;contexte:None;phonetic:None;text:|| Hennez ||  zo  || da || || lakâd || blaz || war || ar boued.;gloss:None;standardise:None;lemgloss:|| [[DEM|celui.là]]<sub>''x''</sub> || [[zo|est]] || [[da|pour]]<sup>[[1]]</sup> <font color=green>[</font color=green> || [[PRO]]<sub>''x/*y''</sub> || [[lakaat|mettre]] || [[blaz|goût]] || [[war|sur]] || [[an, al, ar|le]] [[boued|nourriture]] <font color=green>]</font color=green>;translation:'Cela est destiné à donner du goût aux aliments.' (à les assaisonner).';agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:150);category:Trégorrois;source:Gros (1970:150);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
+# wiki_annotation = title:Verbes à contrôle;contexte:None;phonetic:None;text:|| Hennez ||  zo  || da || || lakâd || blaz || war || ar boued.;gloss:None;standardise:None;lemgloss:|| [[DEM|celui.là]]<sub>''x''</sub> || [[zo|est]] || [[da|pour]]<sup>[[1]]</sup> <font color=green>[</font color=green> || [[PRO]]<sub>''x/*y''</sub> || [[lakaat|mettre]] || [[blaz|goût]] || [[war|sur]] || [[an, al, ar|le]] [[boued|nourriture]] <font color=green>]</font color=green>;translation:'Cela est destiné à donner du goût aux aliments.' (à les assaisonner);agrammaticale:None;info:''Trégorrois'', [[Gros (1970)|Gros (1970]]:150);category:Trégorrois;source:Gros (1970:150);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
 1	Hennez	DEM	_	_	_	_	_	_	Gloss=celui là ''x''
 2	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 3	da	da	ADP	préposition	_	_	_	_	Gloss=pour
