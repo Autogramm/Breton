@@ -456,7 +456,7 @@
 3	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 4	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 5	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 8-9	gwraet	_	_	_	_	_	_	_	_
 8	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
@@ -1406,7 +1406,7 @@
 3	re	hini	NOUN	nom	_	_	_	_	Gloss=Nom
 4-5	o-doa	_	_	_	_	_	_	_	_
 4	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+5	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 6-7	gwelet	_	_	_	_	_	_	_	_
 6	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -1664,7 +1664,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-ziouzh
 # wiki_annotation = title:A-ziouzh;contexte:None;phonetic:None;text:|| En deus || me || distaget ||  a zoc'h  || ar || barrig || kamm.;gloss:None;standardise:None;lemgloss:|| [[R]].3SG [[kaout|a]] || [[POP|me]] || [[dis-|dé]].[[stagañ|attach]].[[-et (Adj.)|é]] || de || [[an, al, ar|le]] || [[barr|branche]].[[-ig|DIM]] || [[kamm (Adj.)|tordue]];translation:'Il m'a détaché de la branche torte.';agrammaticale:None;info:Guillam ar Borgn, ''Le Scorff'' cité dans  dans [[Ar Borgn (2011)|Ar Borgn (2011]]:31);category:None;source:Ar Borgn (2011:31);link:https://arbres.iker.cnrs.fr/index.php?title=A-ziouzh
 1	En	R	VERB	verbe	_	_	_	_	Gloss=_  3SG
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	me	POP	PRON	clr	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=me
 4-6	distaget	_	_	_	_	_	_	_	_
 4	dis-	dis-	X	prefixe	_	_	_	_	Gloss=dé
@@ -1696,7 +1696,7 @@
 6-7	en	_	_	_	_	_	_	_	_
 6	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 7	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-8	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+8	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 9-10	lennet	_	_	_	_	_	_	_	_
 9	lenn	lenn(V.)	NOUN	nc	_	_	_	_	Gloss=l
 10	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -2174,7 +2174,7 @@
 2-4	m'endeus	_	_	_	_	_	_	_	_
 2	ma	ma	SCONJ	complémenteur	_	_	_	_	Gloss=que
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	klevet	_	_	_	_	_	_	_	_
 5	klevout	klevout	VERB	verbe	_	_	_	_	Gloss=entend
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -2329,7 +2329,7 @@
 3	-ad	-ad	X	suffixe	_	_	_	_	Gloss=coup
 4	bourrapl	bourrapl	ADJ	adjectif	_	_	_	_	Gloss=joyeux
 5	ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7-8	gwraet	_	_	_	_	_	_	_	_
 7	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -2592,7 +2592,7 @@
 4	kompren	kompren	VERB	verbe	_	_	_	_	Gloss=compr
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
 6	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+7	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 8	Yann	nompropre	NOUN	nom	_	_	_	_	Gloss=Yann
 9	al	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 10	levr	levr	NOUN	nom	_	_	_	_	Gloss=livre
@@ -2632,7 +2632,7 @@
 2	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 3	trebuchet	_	_	_	_	_	_	_	Gloss=_
 4	hez	he	DET	pro	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	deues	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 7	edeficc	_	_	_	_	_	_	_	Gloss=_
 8	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=de
@@ -2850,7 +2850,7 @@
 8-9	em	_	_	_	_	_	_	_	_
 8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 9	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+10	beze	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 11	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 12	da	da	ADP	préposition	_	_	_	_	Gloss=de
 13	vont	mont	VERB	verbe	_	_	_	_	Gloss=aller
@@ -3157,8 +3157,8 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Bet
 # wiki_annotation = title:Bet;contexte:None;phonetic:None;text:||  Bet  || neusont ||  bet  || ac'hanon.;gloss:None;standardise:None;lemgloss:|| bet || [[kaout|ont]] || [[kaout|eu]] || [[a|P]].[[pronom incorporé|moi]];translation:'Ils m'ont eu.';agrammaticale:None;info:''Hag ar menez a gano evidoc'h'', Jonathan 2, p.41;category:Hag ar menez a gano evidoc'h;source:Jonathan 2, p.41;link:https://arbres.iker.cnrs.fr/index.php?title=Bet
 1	Bet	Bet	VERB	verbe	_	_	_	_	Gloss=bet
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=ont
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+2	neusont	kaout	VERB	verbe	_	_	_	_	Gloss=ont
+3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4-5	ac'hanon	_	_	_	_	_	_	_	_
 4	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
 5	me	me	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
@@ -3250,7 +3250,7 @@
 3-4	'n	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+5	dije	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 6-7	soñjet	_	_	_	_	_	_	_	_
 6	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -3276,7 +3276,7 @@
 2-4	n'emboa	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5	_	_	_	_	_	_	_	_	Gloss=_
 6-7	gwelet	_	_	_	_	_	_	_	_
 6	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
@@ -3311,7 +3311,7 @@
 # wiki_annotation = title:Bleiz;contexte:None;phonetic:None;text:|| T'eus || ket || james || klewet || komz || ag ||  ar garew  ?;gloss:None;standardise:None;lemgloss:|| 2SG [[kaout|a]] || [[ket|pas]] || [[james|jamais]] || [[klevout|entend]].[[-et (Adj.)|u]] || [[komz|parler]] || [[eus, a(g)|de]] || [[an, al, ar|le]] "garou";translation:'Tu n'as jamais entendu parler du loup-garou ?';agrammaticale:None;info:''Arradon'', [[Audic (2013)|Audic (2013]]:282);category:Arradon;source:Audic (2013:282);link:https://arbres.iker.cnrs.fr/index.php?title=Bleiz
 1-2	T'eus	_	_	_	_	_	_	_	_
 1	-c'h	te	PRON	PRON	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4	james	james	ADV	adverbe	_	_	_	_	Gloss=jamais
 5-6	klewet	_	_	_	_	_	_	_	_
@@ -3412,7 +3412,7 @@
 3	-ad	-ad	X	suffixe	_	_	_	_	Gloss=coup
 4	bourrapl	bourrapl	ADJ	adjectif	_	_	_	_	Gloss=joyeux
 5	ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7-8	gwraet	_	_	_	_	_	_	_	_
 7	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -3583,7 +3583,7 @@
 3-4	en	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+5	doé	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 6	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=le
 7	Eutru	aotrou	NOUN	nom	_	_	_	_	Gloss=monsieur
 8	Touz	nompropre	NOUN	nom	_	_	_	_	Gloss=Touz
@@ -3754,7 +3754,7 @@
 8-10	pez	_	_	_	_	_	_	_	_
 8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 9	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+10	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 11-12	endeus	_	_	_	_	_	_	_	_
 11	koll	koll	VERB	verbe	_	_	_	_	Gloss=perd
 12	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -3831,13 +3831,13 @@
 3	c'hwi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 4	wel	gwelout	VERB	verbe	_	_	_	_	Gloss=voit
 5	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 7	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 8	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9-10	re-mañ	_	_	_	_	_	_	_	_
 9	hini	hini	NOUN	nom	_	_	_	_	Gloss=ceux
 10	-mañ	-mañ	X	suffixe	_	_	_	_	Gloss=ci
-11	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+11	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 12	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 13-14	mouchouiroù	_	_	_	_	_	_	_	_
 13	mouchouer	mouchouer	NOUN	nc	_	_	_	_	Gloss=mouchoir
@@ -3926,7 +3926,7 @@
 # wiki_annotation = title:Classement syntactico-sémantique des adverbes;contexte:None;phonetic:None;text:|| N' || he deus || klasket ||  zoken  || gwalc'hiñ || he || belo.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || 3SGF [[kaout|a]] || [[klask|cherch]].[[-et (Adj.)|é]] || [[zoken|même]] || [[gwalc'hiñ|laver]] || [[POSS|son]]<sup>[[2]]</sup> || vélo;translation:'Elle n'a même pas cherché à laver son vélo.';agrammaticale:None;info:[[Press (1986)|Press (1986]]:183);category:None;source:Press (1986:183);link:https://arbres.iker.cnrs.fr/index.php?title=Classement_syntactico-sémantique_des_adverbes
 1	N'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	klasket	_	_	_	_	_	_	_	_
 4	klask	klask	VERB	verbe	_	_	_	_	Gloss=cherch
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -3975,7 +3975,7 @@
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=envie
+5	c'hoant	kaout	VERB	verbe	_	_	_	_	Gloss=envie
 6	da	da	ADP	préposition	_	_	_	_	Gloss=de
 7	lavared	lavarout	VERB	verbe	_	_	_	_	Gloss=dire
 8	penaoz	penaos	ADV	adverbe	_	_	_	_	Gloss=que
@@ -4292,7 +4292,7 @@
 7	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 9	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+10	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12-13	greet	_	_	_	_	_	_	_	_
 12	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
@@ -4528,7 +4528,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	gwelet	_	_	_	_	_	_	_	_
 5	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -4872,7 +4872,7 @@
 4-5	merc'hed	_	_	_	_	_	_	_	_
 4	merc'h	merc'h	NOUN	nom	_	_	_	_	Gloss=fille
 5	-ed	-ed(PL.)	X	suffixe	_	_	_	_	Gloss=s
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	noe	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 8	chal	_	_	_	_	_	_	_	Gloss=_
 9	bihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
@@ -4978,7 +4978,7 @@
 1	Adal	adalek	ADP	préposition	_	_	_	_	Gloss=depuis
 2	m'	ma	SCONJ	complémenteur	_	_	_	_	Gloss=que
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	klevet	_	_	_	_	_	_	_	_
 5	klevout	klevout	VERB	verbe	_	_	_	_	Gloss=entend
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -5004,7 +5004,7 @@
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 3-4	ma	_	_	_	_	_	_	_	_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	gasketenn	POSS	DET	det	_	_	_	_	Gloss=mon
 6	ganin	kasketenn	NOUN	nc	_	_	_	_	Gloss=casquette
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -5069,7 +5069,7 @@
 7-8	em	_	_	_	_	_	_	_	_
 7	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 8	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+9	beze	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 10	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 11	da	da	ADP	préposition	_	_	_	_	Gloss=de
 12	vont	mont	VERB	verbe	_	_	_	_	Gloss=aller
@@ -5236,9 +5236,9 @@
 # wiki_annotation = title:Deus, douz, dac'h;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou|Ankou]] || [[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || de.[[ouzh|de]].[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Hag ar menez a gano evidoc'h'', Jonathan 2, p.45;category:None;source:traducteur Cosey,  Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Deus,_douz,_dac'h
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2	ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=Ankou
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 6	ezhomm	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
 7-8	deusouzoc'h	_	_	_	_	_	_	_	_
 7	ouzh	ouzh	ADP	préposition	_	_	_	_	Gloss=de
@@ -5508,7 +5508,7 @@
 1-3	N'ameuz	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	foeltr	foeltr	NOUN	nom	_	_	_	_	Gloss=foutre
 5	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 6	ezom	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
@@ -6059,7 +6059,7 @@
 4-5	dud-se	_	_	_	_	_	_	_	_
 4	tud	tud	NOUN	nom	_	_	_	_	Gloss=gens|Mut=1|Mutchoice=right
 5	se	se	PRON	pronom	_	_	_	_	Gloss=là
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	noe	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7	un	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 8	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 9	douar	douar	NOUN	nom	_	_	_	_	Gloss=terre
@@ -6252,7 +6252,7 @@
 8	ar	arpezh	_	_	_	_	_	_	Gloss=ceque
 9-10	pez	_	_	_	_	_	_	_	_
 9	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+10	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 11-12	endeus	_	_	_	_	_	_	_	_
 11	koll	koll	VERB	verbe	_	_	_	_	Gloss=perd
 12	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -6274,7 +6274,7 @@
 3-5	'n'a	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+5	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 6	la	la(r)	SCONJ	complémenteur	_	_	_	_	Gloss=que
 7	'h	R	VERB	verbe	_	_	_	_	Gloss=_
 8	ae	mont	VERB	verbe	_	_	_	_	Gloss=allait
@@ -6317,7 +6317,7 @@
 4	'	R	VERB	verbe	_	_	_	_	Gloss=_
 5-6	meus	_	_	_	_	_	_	_	_
 5	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 7-8	labouret	_	_	_	_	_	_	_	_
 7	labourat	labourat	VERB	verbe	_	_	_	_	Gloss=travaill
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -7209,7 +7209,7 @@
 6-8	n'odevije	_	_	_	_	_	_	_	_
 6	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 7	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
-8	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+8	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 9	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 10-11	kroget	_	_	_	_	_	_	_	_
 10	kregiñ	kregiñ	VERB	verbe	_	_	_	_	Gloss=commenc
@@ -7679,7 +7679,7 @@
 # wiki_annotation = title:Eus, a(g);contexte:None;phonetic:None;text:|| T'eus || ket || james || klewet || komz ||  ag  || ar garew ?;gloss:None;standardise:None;lemgloss:|| 2SG [[kaout|a]] || [[ket|pas]] || [[james|jamais]] || [[klevout|entend]].[[-et (Adj.)|u]] || [[komz|parler]] || de || [[an, al, ar|le]]"garou";translation:'Tu n'as jamais entendu parler du loup-garou ?';agrammaticale:None;info:''Arradon'', [[Audic (2013)|Audic (2013]]:282);category:Arradon;source:Audic (2013:282);link:https://arbres.iker.cnrs.fr/index.php?title=Eus,_a(g)
 1-2	T'eus	_	_	_	_	_	_	_	_
 1	-c'h	te	PRON	PRON	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4	james	james	ADV	adverbe	_	_	_	_	Gloss=jamais
 5-6	klewet	_	_	_	_	_	_	_	_
@@ -8238,7 +8238,7 @@
 2-4	am-eus 	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	…	…	PUNCT	PUNCT	_	_	_	_	Gloss=…
 6	da	da	ADP	préposition	_	_	_	_	Gloss=de
 7	gemer	kemer	VERB	verbe	_	_	_	_	Gloss=prendre
@@ -8313,7 +8313,7 @@
 7	Bez	bezañpréverbal	VERB	v	_	_	_	_	Gloss=être
 8-9	'meus	_	_	_	_	_	_	_	_
 8	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+9	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 10	dija	dija	ADV	adverbe	_	_	_	_	Gloss=déjà
 11	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 12	fordellad	_	_	_	_	_	_	_	Gloss=_
@@ -8336,7 +8336,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 6-7	kanet	_	_	_	_	_	_	_	_
 6	kanañ	kanañ	VERB	verbe	_	_	_	_	Gloss=chant
@@ -8399,7 +8399,7 @@
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 5	amañ	amañ	ADV	adverbe	_	_	_	_	Gloss=ici
 6	a-benn	a-benn	ADP	préposition	_	_	_	_	Gloss=quand
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=auront
+7	'noint	kaout	VERB	verbe	_	_	_	_	Gloss=auront
 8-9	debret	_	_	_	_	_	_	_	_
 8	debriñ	debriñ	VERB	verbe	_	_	_	_	Gloss=mang
 9	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -8451,20 +8451,19 @@
 5	an nen	IMP	_	_	_	_	_	_	Gloss=lehomme
 
 # sent_id = traducteurCosey,Jonathan2,p.45__396
-# text =  An ankou  neus  ket  bet  ezhomm  deusouzoc'h.
+# text =  An  ankou  neus  ket  bet  ezhomm  deusouzoc'h.
 # text_fr = 'L'Ankou n'a pas eu besoin de vous.'
 # dialect = None
 # location = None
 # source = traducteur Cosey, Jonathan 2, p.45
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Faits_de_langue_Cosey
-# wiki_annotation = title:Faits de langue Cosey;contexte:None;phonetic:None;text:|| An ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] [[Ankou]] || [[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].[[ouzh|de]].[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], Jonathan 2, p.45;category:None;source:traducteur Cosey, Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Faits_de_langue_Cosey
+# wiki_annotation = title:Faits de langue Cosey;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou|Ankou]] || [[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].[[ouzh|de]].[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], Jonathan 2, p.45;category:None;source:traducteur Cosey, Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Faits_de_langue_Cosey
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-2-2	ankou	_	_	_	_	_	_	_	_
-2	Ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=Ankou
+3	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 6	ezhomm	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
 7-9	deusouzoc'h	_	_	_	_	_	_	_	_
 7	deus	deus	ADP	préposition	_	_	_	_	Gloss=de
@@ -8505,7 +8504,7 @@
 1-3	N'hedeus	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 5-6	kavet	_	_	_	_	_	_	_	_
 5	kavout	kavout	VERB	verbe	_	_	_	_	Gloss=trouv
@@ -8529,7 +8528,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	kavet	_	_	_	_	_	_	_	_
 5	kavout	kavout	VERB	verbe	_	_	_	_	Gloss=trouv
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -8842,7 +8841,7 @@
 3	-ad	-ad	X	suffixe	_	_	_	_	Gloss=coup
 4	bourrapl	_	_	_	_	_	_	_	Gloss=_
 5	ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7-8	gwraet	_	_	_	_	_	_	_	_
 7	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -9034,7 +9033,7 @@
 4	da	da	ADP	préposition	_	_	_	_	Gloss=à
 5	ober	ober	VERB	verbe	_	_	_	_	Gloss=faire
 6	hoc'h	c'hwi	PRON	PRON	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+7	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 8	gant	gant	ADP	préposition	_	_	_	_	Gloss=avec
 9	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 10	gwaz	gwaz,gwazed	NOUN	nc	_	_	_	_	Gloss=homme
@@ -9282,7 +9281,7 @@
 9	haoñ	pfi	PRON	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 10	'	particuleo	ADP	prep	_	_	_	_	Gloss=à
 11	kas	kas	VERB	verbe	_	_	_	_	Gloss=chercher
-12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+12	kaoud	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Favereau(1997:§443)__436
@@ -10274,7 +10273,7 @@
 # wiki_annotation = title:Holl;contexte:None;phonetic:None;text:|| Er yadweñkeñ || a bué ||  vol  || dachtumèit.;gloss:None;standardise:|| Ar yaouankañ || en doa || holl || dastumet. |||| ''Équivalent standardisé'';lemgloss:|| [[an, al, ar|le]] [[yaouank|jeune]] || [[kaout|avait]] || tout || [[dastum|ramassé]];translation:'Le plus jeune avait tout ramassé.';agrammaticale:None;info:''Guérandais fin XIXe'', [[Mathelier (2017)|Mathelier (2017]]:418);category:Guérandais fin XIXe;source:Mathelier (2017:418);link:https://arbres.iker.cnrs.fr/index.php?title=Holl
 1	Er	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2	yadweñkeñ	yaouank	ADJ	adjectif	_	_	_	_	Gloss=jeune
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+3	a bué	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 4	vol	vol	DET	pro	_	_	_	_	Gloss=tout
 5	dachtumèit	dastum	VERB	verbe	_	_	_	_	Gloss=ramassé
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -10458,8 +10457,8 @@
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	vad	avat	ADV	adverbe	_	_	_	_	Gloss=cependant
 4	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	e-neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	bed	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 7	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 8	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9	Diaoul	diaoul	NOUN	nom	_	_	_	_	Gloss=diable
@@ -10601,9 +10600,9 @@
 2-3	am	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	euz	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	da	da	ADP	préposition	_	_	_	_	Gloss=de
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+6	gaoud	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 7	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8-9	marc'h-mañ	_	_	_	_	_	_	_	_
 8	marc'h	marc'h	NOUN	nom	_	_	_	_	Gloss=cheval
@@ -10835,7 +10834,7 @@
 1	goulenn	goulenn	VERB	verbe	_	_	_	_	Gloss=demand
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 3	em	-m	X	suffixe	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5-6	diganti	_	_	_	_	_	_	_	_
 5	digant	digant	ADP	préposition	_	_	_	_	Gloss=à
 6	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
@@ -10968,7 +10967,7 @@
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 4-5	'meus	_	_	_	_	_	_	_	_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	_	_	_	_	_	_	_	_	Gloss=_
 7-8	labouret	_	_	_	_	_	_	_	_
 7	labourat	labourat	VERB	verbe	_	_	_	_	Gloss=travaill
@@ -10993,12 +10992,12 @@
 6	da	da	ADP	préposition	_	_	_	_	Gloss=à
 7	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
 8	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+9	nie	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 10	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 11-12	gallet	_	_	_	_	_	_	_	_
 11	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 12	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-13	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+13	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 14	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 15-16	anezho	_	_	_	_	_	_	_	_
 15	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -11041,7 +11040,7 @@
 # wiki_annotation = title:James;contexte:None;phonetic:None;text:|| T'eus || ket ||  james  || <u>klewet</u> || komz || ag || ar garew ?;gloss:None;standardise:None;lemgloss:|| 2SG [[kaout|a]] || [[ket|pas]] || jamais || [[klevout|entend]].[[-et (Adj.)|u]] || [[komz|parler]] || [[eus, a(g)|de]] || [[an, al, ar|le]]"garou";translation:'Tu n'as jamais entendu parler du loup-garou ?';agrammaticale:None;info:''Arradon'', [[Audic (2013)|Audic (2013]]:282);category:Arradon;source:Audic (2013:282);link:https://arbres.iker.cnrs.fr/index.php?title=James
 1-2	T'eus	_	_	_	_	_	_	_	_
 1	-c'h	te	PRON	PRON	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4	james	james	ADV	adverbe	_	_	_	_	Gloss=jamais
 5-6	klewet	_	_	_	_	_	_	_	_
@@ -11451,9 +11450,9 @@
 2-3	heñchou	_	_	_	_	_	_	_	_
 2	hent	hent	NOUN	nom	_	_	_	_	Gloss=route
 3	-où	-où(PL.)	X	suffixe	_	_	_	_	Gloss=s
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=ont
+4	neunt	kaout	VERB	verbe	_	_	_	_	Gloss=ont
 5	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+6	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 7	kleuñiou	kleñ	NOUN	nom	_	_	_	_	Gloss=talus
 8	gwech	gwech	NOUN	nom	_	_	_	_	Gloss=fois
 9	ebet	ebet	DET/ADJ/ADV/PRON	quantifieur	_	_	_	_	Gloss=aucun
@@ -11815,7 +11814,7 @@
 3	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 4	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
 5	kas	kas	VERB	verbe	_	_	_	_	Gloss=chercher
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+6	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 7-9	madigoù	_	_	_	_	_	_	_	_
 7	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bon
 8	-ig	-ig	X	suffixe	_	_	_	_	Gloss=petit
@@ -11842,7 +11841,7 @@
 9	haoñ	pfi	PRON	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 10	'	particuleo	ADP	prep	_	_	_	_	Gloss=à
 11	kas	kas	VERB	verbe	_	_	_	_	Gloss=chercher
-12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+12	kaoud	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = H.Gaudart(03/2017)__557
@@ -11857,17 +11856,17 @@
 1	Bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 2-3	meus	_	_	_	_	_	_	_	_
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 5	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 6	bizaoù	bizoù	NOUN	nom	_	_	_	_	Gloss=bague
 7-8	ma	_	_	_	_	_	_	_	_
 7	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-8	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+8	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 9	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 10	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 11	da	da	ADP	préposition	_	_	_	_	Gloss=de
-12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+12	gaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 13	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Académiebretonne(1922:293)__558
@@ -12732,7 +12731,7 @@
 1-3	ma	_	_	_	_	_	_	_	_
 1	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	gasketenn	POSS	DET	det	_	_	_	_	Gloss=mon
 5	ganin	_	_	_	_	_	_	_	Gloss=_
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -13100,7 +13099,7 @@
 6	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 7	kontant	kontant	X	pluriel	_	_	_	_	Gloss=content
 8	da	da	ADP	préposition	_	_	_	_	Gloss=de
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+9	gaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 10	kuit da	kuit da	SCONJ	complémenteur	_	_	_	_	Gloss=C
 11	reiñ	reiñ	VERB	verbe	_	_	_	_	Gloss=donner
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -13124,7 +13123,7 @@
 8-9	em	_	_	_	_	_	_	_	_
 8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 9	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait.HAB
+10	beze	kaout	VERB	verbe	_	_	_	_	Gloss=avait HAB
 11	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 12-13	davont	_	_	_	_	_	_	_	_
 12	da	da	ADP	préposition	_	_	_	_	Gloss=de
@@ -13271,7 +13270,7 @@
 1	Heñv	pfi	PRON	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
 2-3	meus	_	_	_	_	_	_	_	_
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	gweled	_	_	_	_	_	_	_	_
 4	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -13294,7 +13293,7 @@
 2	te	te	NOUN	nom	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
 3-4	meus	_	_	_	_	_	_	_	_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	gweled	_	_	_	_	_	_	_	_
 5	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -13441,7 +13440,7 @@
 8	lar me	C pfi	DET	pro	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 9-10	meus	_	_	_	_	_	_	_	_
 9	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+10	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=baucoup
 13-14	speredkin 	_	_	_	_	_	_	_	_
@@ -13842,7 +13841,7 @@
 # wiki_annotation = title:Lazhañ;contexte:None;phonetic:None;text:|| Hou || tat || dez || kwé ||  lac'heñ  || er || lè || michteñ.;gloss:None;standardise:|| Ho || tad || 'deus || graet || lazhañ || al || leue || mistrañ. |||| ''Équivalent standardisé'';lemgloss:|| [[POSS|votre]]<sup>[[3]]</sup> || [[tad|père]] || [[kaout|a]] || [[ober|fa]].[[-et (Adj.)|it]] || tuer || [[an, al, ar|le]] || [[leue|veau]] || [[mistr|beau]].[[superlatif|le.plus]];translation:'Votre père a fait tuer le veau le plus beau.';agrammaticale:None;info:''Guérandais fin XIXe'', [[Mathelier (2017)|Mathelier (2017]]:418);category:Guérandais fin XIXe;source:Mathelier (2017:418);link:https://arbres.iker.cnrs.fr/index.php?title=Lazhañ
 1	Hou	POSS	DET	det	_	_	_	_	Gloss=votre
 2	tat	tad	NOUN	nom	_	_	_	_	Gloss=père
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	dez	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	kwé	_	_	_	_	_	_	_	_
 4	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -14654,7 +14653,7 @@
 1	Ne	Ne	SCONJ	complémenteur	_	_	_	_	Gloss=
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5	_	(ket	_	_	_	_	_	_	Gloss=pas )
 6-7	greet	_	_	_	_	_	_	_	_
 6	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
@@ -14700,7 +14699,7 @@
 1	evañ	evañ	VERB	verbe	_	_	_	_	Gloss=b
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 6	gwechall	gwechall	ADV	adverbe	_	_	_	_	Gloss=autrefois
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -14946,7 +14945,7 @@
 4	mous	mous	NOUN	nom	_	_	_	_	Gloss=mousse|Mut=1|Mutchoice=right
 5	-ed	-ed(PL.)	X	suffixe	_	_	_	_	Gloss=s
 6	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+7	noe	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 8	ivez	ivez	ADV	particule de discours	_	_	_	_	Gloss=aussi
 9	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 10	gasketenn	kasketenn	_	_	_	_	_	_	Gloss=casquette|Mut=1|Mutchoice=right
@@ -15256,7 +15255,7 @@
 6	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 7	kontant	kontant	X	pluriel	_	_	_	_	Gloss=content
 8	da	da	ADP	préposition	_	_	_	_	Gloss=de
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+9	gaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 10	kuit da	kuitda	_	_	_	_	_	_	Gloss=C
 11	reiñ	reiñ	VERB	verbe	_	_	_	_	Gloss=donner
 12	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -15345,7 +15344,7 @@
 4-5	merc'hed	_	_	_	_	_	_	_	_
 4	merc'h	merc'h	NOUN	nom	_	_	_	_	Gloss=fille
 5	-ed	-ed(PL.)	X	suffixe	_	_	_	_	Gloss=s
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	noe	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 8	chal	chal	NOUN	nc	_	_	_	_	Gloss=châle
 9	bihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
@@ -15429,7 +15428,7 @@
 3-4	paour	_	_	_	_	_	_	_	_
 3	paour	paour	ADJ	adjectif	_	_	_	_	Gloss=pauvre
 4	DEM	DEM	_	_	_	_	_	_	Gloss=ci
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -15498,13 +15497,13 @@
 3	c'hwi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 4	wel	gwelout	VERB	verbe	_	_	_	_	Gloss=voit
 5	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 7	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 8	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9-10	re-mañ	_	_	_	_	_	_	_	_
 9	hini	hini	NOUN	nom	_	_	_	_	Gloss=ceux
 10	DEM	DEM	_	_	_	_	_	_	Gloss=ci
-11	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+11	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 12	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 13-14	mouchouiroù	_	_	_	_	_	_	_	_
 13	mouchouer	mouchouer	NOUN	nc	_	_	_	_	Gloss=mouchoir
@@ -16254,7 +16253,7 @@
 # wiki_annotation = title:Les questions;contexte:None;phonetic:None;text:||  Daoust  ||  piv  || 'neus || laret || dit ?;gloss:None;standardise:None;lemgloss:|| [[daoust|à.savoir]] || [[piv|qui]] || [[kaout|a]] || [[lavarout|d]].[[-et (Adj.)|it]] || [[da|à]].[[pronom incorporé|toi]];translation:'Qui est-ce qui te l'a dit ?';agrammaticale:None;info:[[Favereau (1997)|Favereau (1997]]:§531);category:None;source:Favereau (1997:§531);link:https://arbres.iker.cnrs.fr/index.php?title=Les_questions
 1	Daoust	daoust	SCONJ	complémenteur	_	_	_	_	Gloss=à savoir
 2	piv	piv	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=qui
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	'neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	laret	_	_	_	_	_	_	_	_
 4	lavarout	lavarout	VERB	verbe	_	_	_	_	Gloss=d
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -16975,7 +16974,7 @@
 3	zo	zo	AUX	AUX	_	_	_	_	Gloss=est
 4	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=à
 5	kas	kas	VERB	verbe	_	_	_	_	Gloss=chercher
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+6	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 7	madigoù	bonbon.-où(PL.)	NOUN	nc	_	_	_	_	Gloss=s
 8	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -17106,7 +17105,7 @@
 1	Ne	Ne	SCONJ	complémenteur	_	_	_	_	Gloss=
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5-6	greet	_	_	_	_	_	_	_	_
 5	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -17206,7 +17205,7 @@
 2-3	'm	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5-6	lakaet	_	_	_	_	_	_	_	_
 5	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -17250,7 +17249,7 @@
 # wiki_annotation = title:Mistr;contexte:None;phonetic:None;text:|| Hou || tat || dez || kwé || lac'heñ || er lè ||  michteñ .;gloss:None;standardise:|| Ho || tad || 'deus || graet || lazhañ || al leue ||  mistrañ . |||| ''Équivalent standardisé'';lemgloss:|| [[POSS|votre]]<sup>[[3]]</sup> || [[tad|père]] || [[kaout|a]] || [[ober|fa]].[[-et (Adj.)|it]] || [[lazhañ|tuer]] || [[an, al, ar|le]] [[leue|veau]] || beau.[[superlatif|le.plus]];translation:'Votre père a fait tuer le veau le plus beau.';agrammaticale:None;info:''Guérandais fin XIXe'', [[Mathelier (2017)|Mathelier (2017]]:418);category:Guérandais fin XIXe;source:Mathelier (2017:418);link:https://arbres.iker.cnrs.fr/index.php?title=Mistr
 1	Hou	POSS	DET	det	_	_	_	_	Gloss=votre
 2	tat	tad	NOUN	nom	_	_	_	_	Gloss=père
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	dez	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	kwé	_	_	_	_	_	_	_	_
 4	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -17427,7 +17426,7 @@
 2-4	n'emboa	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 5	_	_	_	_	_	_	_	_	Gloss=_
 6-7	gwelet	_	_	_	_	_	_	_	_
 6	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
@@ -17450,7 +17449,7 @@
 1-3	N'endije	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 4	_	(ket	_	_	_	_	_	_	Gloss=pas )
 5	_	_	_	_	_	_	_	_	Gloss=_
 6	gallet	gellout	VERB	verbe	_	_	_	_	Gloss=pu
@@ -17611,7 +17610,7 @@
 3	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 4	voused	mousse.-ed(PL.)	_	_	_	_	_	_	Gloss=s|Mut=1|Mutchoice=right
 5	vihan	bihan	ADJ	adjectif	_	_	_	_	Gloss=petit
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+6	noe	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 7	ivez	ivez	ADV	particule de discours	_	_	_	_	Gloss=aussi
 8	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9	gasketenn	kasketenn	NOUN	nc	_	_	_	_	Gloss=casquette
@@ -17723,7 +17722,7 @@
 9	peseurt	peseurt	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=quelle
 10	abeg	abeg	PRON/ADV/DET	Interrogatif	_	_	_	_	Gloss=raison
 11	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+12	dije	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 13-14	sachet	_	_	_	_	_	_	_	_
 13	sachañ	sachañ	VERB	verbe	_	_	_	_	Gloss=tir
 14	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -18151,7 +18150,7 @@
 # wiki_annotation = title:Niz, nizez;contexte:None;phonetic:None;text:|| Nompas || he doa || kalz || oad || en || tu || all || d'he ||  nizez .;gloss:None;standardise:None;lemgloss:|| [[nompas|non.pas]] || 3SGF [[kaout|avait]] || [[kalz|beaucoup]] || [[oad|âge]] || [[P.e|en]].[[an, al, ar|le]] || [[tu|côté]] || [[all|autre]] || [[da|de]] [[POSS|son]]<sup>[[2]]</sup> || [[nizez|nièce]];translation:'Non pas qu'elle soit beaucoup plus vieille que sa nièce.';agrammaticale:None;info:[[Favereau (1993)|Favereau (1993]]:§'nompas');category:None;source:Favereau (1993:§'nompas');link:https://arbres.iker.cnrs.fr/index.php?title=Niz,_nizez
 1	Nompas	nompas	NOUN	nom	_	_	_	_	Gloss=non pas
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+3	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 4	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=beaucoup
 5	oad	oad	NOUN	nom	_	_	_	_	Gloss=âge
 6-7	en	_	_	_	_	_	_	_	_
@@ -18216,7 +18215,7 @@
 # wiki_annotation = title:Nompas;contexte:None;phonetic:None;text:||  Nompas  || he doa || kalz || oad || en || tu || all || d'he || nizez.;gloss:None;standardise:None;lemgloss:|| non.pas || 3SGF [[kaout|avait]] || [[kalz|beaucoup]] || [[oad|âge]] || [[P.e|en]].[[an, al, ar|le]] || [[tu|côté]] || [[all|autre]] || [[da|de]] [[POSS|son]]<sup>[[2]]</sup> || [[nizez|nièce]];translation:'Non pas qu'elle soit beaucoup plus vieille que sa nièce.';agrammaticale:None;info:[[Favereau (1993)|Favereau (1993]]:§'nompas');category:None;source:Favereau (1993:§'nompas');link:https://arbres.iker.cnrs.fr/index.php?title=Nompas
 1	Nompas	Nompas	NOUN	Nom	_	_	_	_	Gloss=non pas
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+3	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 4	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=beaucoup
 5	oad	oad	NOUN	nom	_	_	_	_	Gloss=âge
 6-7	en	_	_	_	_	_	_	_	_
@@ -18354,7 +18353,7 @@
 3-4	paourmañ	_	_	_	_	_	_	_	_
 3	paour	paour	ADJ	adjectif	_	_	_	_	Gloss=pauvre
 4	-mañ	-mañ	X	suffixe	_	_	_	_	Gloss=-ci
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -18370,7 +18369,7 @@
 1	Kaer	kaer	ADJ	adjectif	_	_	_	_	Gloss=beau
 2-3	e-neus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	goulenn	goulenn	VERB	verbe	_	_	_	_	Gloss=demander
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 6	den	den	NOUN	nom	_	_	_	_	Gloss=personne
@@ -18473,7 +18472,7 @@
 # wiki_annotation = title:Oad;contexte:None;phonetic:None;text:|| Nompas || he doa || kalz ||  oad  en || tu all || d'he || nizez.;gloss:None;standardise:None;lemgloss:|| [[nompas|non.pas]] || 3SGF [[kaout|avait]] || [[kalz|beaucoup]] || âge [[P.e|en]].[[an, al, ar|le]] || [[tu|côté]] [[all|autre]] || [[da|de]] [[POSS|son]]<sup>[[2]]</sup> || [[nizez|nièce]];translation:'Non pas qu'elle soit beaucoup plus vieille que sa nièce.';agrammaticale:None;info:[[Favereau (1993)|Favereau (1993]]:§'nompas');category:None;source:Favereau (1993:§'nompas');link:https://arbres.iker.cnrs.fr/index.php?title=Oad
 1	Nompas	nompas	NOUN	nom	_	_	_	_	Gloss=non pas
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+3	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 4	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=beaucoup
 5-6	en	_	_	_	_	_	_	_	_
 5	e	P.e	ADP	préposition	_	_	_	_	Gloss=en
@@ -18727,8 +18726,8 @@
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	vad	avat	ADV	adverbe	_	_	_	_	Gloss=cependant
 4	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	e-neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	bed	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 7	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 8	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9	Diaoul	diaoul	NOUN	nom	_	_	_	_	Gloss=diable
@@ -18755,7 +18754,7 @@
 2	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 3	holl	holl	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tous
 4	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+5	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 6	pellaet	é.pell	_	_	_	_	_	_	Gloss=loign  é
 7	a-benn	a-benn	ADP	préposition	_	_	_	_	Gloss=aussitôt
 8	doc'h	doc'h	ADP	préposition	_	_	_	_	Gloss=de
@@ -18764,7 +18763,7 @@
 11	e'it	evit	ADP	préposition	_	_	_	_	Gloss=pour
 12	m'	ma	SCONJ	complémenteur	_	_	_	_	Gloss=que
 13	en	en	SCONJ	complémenteur	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-14	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+14	dehe	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 15	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 16	tan	tan	NOUN	nom	_	_	_	_	Gloss=feu
 17-18	raet	_	_	_	_	_	_	_	_
@@ -19141,7 +19140,7 @@
 # wiki_annotation = title:Ordres à verbe initial;contexte:None;phonetic:None;text:||  E  ||  rankomp  || kaout || ar menoz || start || da || chom || mui || hep || pec'hiñ.;gloss:None;standardise:None;lemgloss:|| [[R]] || [[rankout|devons]] || [[kaout|avoir]] || [[an, al, ar|le]] [[mennozh|idée]] || [[start|fort]] || [[da|de]]<sup>[[1]]</sup> || [[chom|rester]] || [[mui|plus]] || [[hep|sans]] || [[pec'hiñ|pêcher]];translation:'Nous devons prendre la ferme résolution de ne plus pêcher.';agrammaticale:None;info:Jézégou, ''Prezegennou diwar-benn ar Binijenn hag ar Briedelez'' , p.49 cité dans  dans [[Le Gléau (1973)|Le Gléau (1973]]:46).;category:None;source:Le Gléau (1973:46).;link:https://arbres.iker.cnrs.fr/index.php?title=Ordres_à_verbe_initial
 1	E	R	VERB	verbe	_	_	_	_	Gloss=_
 2	rankomp	rankout	VERB	verbe	_	_	_	_	Gloss=devons
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 4	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 5	menoz	mennozh	NOUN	nom	_	_	_	_	Gloss=idée
 6	start	start	ADJ	adjectif	_	_	_	_	Gloss=fort
@@ -19247,13 +19246,12 @@
 # source = traducteur Cosey,  Jonathan 2, p.45
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ouzh
-# wiki_annotation = title:Ouzh;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou]] || 3.[[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].de.[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Hag ar menez a gano evidoc'h'', Jonathan 2, p.45;category:None;source:traducteur Cosey,  Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Ouzh
+# wiki_annotation = title:Ouzh;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou|Ankou]] || 3.[[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].de.[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Hag ar menez a gano evidoc'h'', Jonathan 2, p.45;category:None;source:traducteur Cosey,  Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Ouzh
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-2-2	ankou	_	_	_	_	_	_	_	_
-2	Ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=
+2	ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=Ankou
 3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 6	ezhomm	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
 7-8	deusouzoc'h	_	_	_	_	_	_	_	_
 7	deus	deus	ADP	préposition	_	_	_	_	Gloss=de
@@ -19562,12 +19560,12 @@
 7	da	da	ADP	préposition	_	_	_	_	Gloss=à
 8	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
 9	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+10	nie	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12-13	gallet	_	_	_	_	_	_	_	_
 12	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 13	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-14	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+14	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 15	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 16-17	anezho	_	_	_	_	_	_	_	_
 16	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -19622,25 +19620,24 @@
 5-6	paour	_	_	_	_	_	_	_	_
 5	paour	paour	ADJ	adjectif	_	_	_	_	Gloss=pauvre
 6	DEM	DEM	_	_	_	_	_	_	Gloss=-ci
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+7	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 8	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
 9	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = traducteurCosey,2,p.45__935
-# text =  An ankou  neus  ket  bet  ezhomm  deusouzoc'h.
+# text =  An  ankou  neus  ket  bet  ezhomm  deusouzoc'h.
 # text_fr = 'L'Ankou n'a pas eu besoin de vous.'
 # dialect = None
 # location = None
 # source = traducteur Cosey, 2, p.45
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Paradigmes_des_prépositions
-# wiki_annotation = title:Paradigmes des prépositions;contexte:None;phonetic:None;text:|| An ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] [[Ankou]] || [[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].[[ouzh|de]].[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Jonathan'' 2, p.45;category:None;source:traducteur Cosey, 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Paradigmes_des_prépositions
+# wiki_annotation = title:Paradigmes des prépositions;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou|Ankou]] || [[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].[[ouzh|de]].[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Jonathan'' 2, p.45;category:None;source:traducteur Cosey, 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Paradigmes_des_prépositions
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
-2-2	ankou	_	_	_	_	_	_	_	_
-2	Ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=Ankou
+3	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=eu
+5	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 6	ezhomm	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
 7-9	deusouzoc'h	_	_	_	_	_	_	_	_
 7	deus	deus	ADP	préposition	_	_	_	_	Gloss=de
@@ -19766,7 +19763,7 @@
 # wiki_annotation = title:Participe;contexte:None;phonetic:None;text:|| N'en-deus || ket ||  skrivet  || <u>Yann</u> || al lizher.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> 3SG [[kaout|a]] || [[ket|pas]] || [[skrivañ|écr]].[[-et (Adj.)|it]] || [[nom propre|Yann]] || [[an, al, ar|le]] [[lizher|lettre]];translation:'Yann n'a pas écrit la lettre.';agrammaticale:None;info:[[Wojcik (1976)|Wojcik (1976]]:260) cité dans  dans [[Woolford (1991)|Woolford (1991]]:512);category:None;source:Woolford (1991:512);link:https://arbres.iker.cnrs.fr/index.php?title=Participe
 1-2	N'endeus	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4-5	skrivet	_	_	_	_	_	_	_	_
 4	skrivañ	skrivañ	VERB	verbe	_	_	_	_	Gloss=écr
@@ -19821,7 +19818,7 @@
 4	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
 5	-se	-se	X	suffixe	_	_	_	_	Gloss=là
 6	'm	-m	X	suffixe	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+7	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 8-9	graet	_	_	_	_	_	_	_	_
 8	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 9	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -20106,7 +20103,7 @@
 10	-ien,-ion	-ien,-ion	X	suffixe	_	_	_	_	Gloss=s
 11	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 12	am	-m	X	suffixe	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-13	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+13	euz	kaout	VERB	verbe	_	_	_	_	Gloss=a
 14-15	lezet	_	_	_	_	_	_	_	_
 14	lezel	lezel	VERB	verbe	_	_	_	_	Gloss=laiss
 15	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -20345,7 +20342,7 @@
 3-4	em	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	eûz	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	penaoz	penaoz	ADV	adverbe	_	_	_	_	Gloss=que
 7	ez	e	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=4
 8	oa	eo	AUX	AUX	_	_	_	_	Gloss=était
@@ -20386,7 +20383,7 @@
 1	kavout	kavout	VERB	verbe	_	_	_	_	Gloss=trouv
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 6	penn	penn	NOUN	nom	_	_	_	_	Gloss=moyen
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -20518,7 +20515,7 @@
 2	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=de
 3	wenneg	gwenneg	NOUN	nom	_	_	_	_	Gloss=sous
 4	hon	ni	PRON	PRON	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	euz	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6-7	évid-hoc'h	_	_	_	_	_	_	_	_
 6	evit	evit	ADP	préposition	_	_	_	_	Gloss=pour
 7	c’hwi	c’hwi	DET	pro	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
@@ -20775,7 +20772,7 @@
 2-4	n'hedeus	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 6-7	gwelet	_	_	_	_	_	_	_	_
 6	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
@@ -21055,7 +21052,7 @@
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 4-5	'meus	_	_	_	_	_	_	_	_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6-7	labouret	_	_	_	_	_	_	_	_
 6	labourat	labourat	VERB	verbe	_	_	_	_	Gloss=travaill
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -21080,7 +21077,7 @@
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 4-5	'meus	_	_	_	_	_	_	_	_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6-7	labouret	_	_	_	_	_	_	_	_
 6	labourat	labourat	VERB	verbe	_	_	_	_	Gloss=travaill
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -21099,7 +21096,7 @@
 # wiki_annotation = title:Place des adverbes;contexte:None;phonetic:None;text:|| N' || he deus || <u>klasket</u> ||  zoken  || gwalc'hiñ || he || belo.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || 3SGF [[kaout|a]] || [[klask|cherch]].[[-et (Adj.)|é]] || [[zoken|même]] || [[gwalc'hiñ|laver]] || [[POSS|son]]<sup>[[2]]</sup> || [[belo|vélo]];translation:'Elle n'a même pas cherché à laver son vélo.';agrammaticale:None;info:[[Press (1986)|Press (1986]]:183);category:None;source:Press (1986:183);link:https://arbres.iker.cnrs.fr/index.php?title=Place_des_adverbes
 1	N'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	klasket	_	_	_	_	_	_	_	_
 4	klask	klask	VERB	verbe	_	_	_	_	Gloss=cherch
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -21433,7 +21430,7 @@
 7-8	en	_	_	_	_	_	_	_	_
 7	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 8	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+9	deze	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 10	amzer	amzer	NOUN	nom	_	_	_	_	Gloss=temps
 11	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -21513,7 +21510,7 @@
 4	an nen	an nen	PRON	cln	_	_	_	_	Gloss=on
 5-6	'neus	_	_	_	_	_	_	_	_
 5	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
-6	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+6	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 7	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 8-9	gouzanvet	_	_	_	_	_	_	_	_
 8	gouzañv	gouzañv	VERB	verbe	_	_	_	_	Gloss=souff
@@ -21622,7 +21619,7 @@
 # wiki_annotation = title:Pronom impersonnel;contexte:None;phonetic:None;text:|| Aon || en doa || bet ||  an den .;gloss:None;standardise:None;lemgloss:|| [[aon|peur]] || 3SGM [[kaout|avait]] || [[bet|eu]] || on;translation:'On avait eu peur.';agrammaticale:None;info:''Lanvénégen'', [[Evenou (1989)|Evenou (1989]]:54);category:Lanvénégen;source:Evenou (1989:54);link:https://arbres.iker.cnrs.fr/index.php?title=Pronom_impersonnel
 1	Aon	aon	NOUN	nom	_	_	_	_	Gloss=peur
 2	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+3	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 4	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 5	an den	an den	PRON	cln	_	_	_	_	Gloss=on
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -21815,7 +21812,7 @@
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 5	particuleo	particuleo	ADP	prep	_	_	_	_	Gloss=à
 6	'kas	kas	VERB	verbe	_	_	_	_	Gloss=vouloir
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+7	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 8	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9-10	dra-se	_	_	_	_	_	_	_	_
 9	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
@@ -22188,7 +22185,7 @@
 2-4	neus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	gwelet	_	_	_	_	_	_	_	_
 5	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -22530,12 +22527,12 @@
 9	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 10-11	nie	_	_	_	_	_	_	_	_
 10	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-11	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+11	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 12	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 13-14	gallet	_	_	_	_	_	_	_	_
 13	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 14	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-15	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+15	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 16	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 17-18	anezho	_	_	_	_	_	_	_	_
 17	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -22679,7 +22676,7 @@
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 5	'	particuleo	ADP	prep	_	_	_	_	Gloss=à
 6	kas	kas	VERB	verbe	_	_	_	_	Gloss=vouloir
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+7	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 8	an	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9-10	dra-se	_	_	_	_	_	_	_	_
 9	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose|Mut=1|Mutchoice=right
@@ -22735,12 +22732,12 @@
 8	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 9-10	nie	_	_	_	_	_	_	_	_
 9	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+10	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12-13	gallet	_	_	_	_	_	_	_	_
 12	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 13	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-14	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+14	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 15	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 16-17	anezho	_	_	_	_	_	_	_	_
 16	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -22761,7 +22758,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	kavet	_	_	_	_	_	_	_	_
 5	kavout	kavout	VERB	verbe	_	_	_	_	Gloss=trouv
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -22926,7 +22923,7 @@
 # wiki_annotation = title:Salv;contexte:None;phonetic:None;text:||  Salv  || o dije || gallet || dont || a-benn || eus || o || zaol.;gloss:None;standardise:None;lemgloss:|| _ || 3PL [[kaout|aurait]] || [[gallout|p]].[[-et (Adj.)|u]] || [[dont|venir]] || [[a-benn|à-bout]] || [[eus|de]] || [[POSS|leur]]<sup>[[2]]</sup> || [[taol (M.)|coup]];translation:'C'est dommage qu'elles n'aient pas réussi.';agrammaticale:None;info:[[Menard & Kadored (2001)|Menard & Kadored (2001]]:'salv');category:None;source:Menard & Kadored (2001:'salv');link:https://arbres.iker.cnrs.fr/index.php?title=Salv
 1	Salv	Salv	ADJ	adjectif	_	_	_	_	Gloss=_
 2	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+3	dije	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 4-5	gallet	_	_	_	_	_	_	_	_
 4	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -22997,12 +22994,12 @@
 7	da	da	ADP	préposition	_	_	_	_	Gloss=à
 8	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
 9	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-10	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+10	nie	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 11	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 12-13	gallet	_	_	_	_	_	_	_	_
 12	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 13	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-14	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+14	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 15	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 16-17	anezho	_	_	_	_	_	_	_	_
 16	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -23124,7 +23121,7 @@
 7-8	em	_	_	_	_	_	_	_	_
 7	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 8	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+9	beze	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 10	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 11	dont	dont	VERB	verbe	_	_	_	_	Gloss=venir
 12	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -23562,7 +23559,7 @@
 9	me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
 10-11	meus	_	_	_	_	_	_	_	_
 10	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-11	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+11	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 12	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 13	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=baucoup
 14	spered	spered	NOUN	nom	_	_	_	_	Gloss=esprit
@@ -23864,7 +23861,7 @@
 # wiki_annotation = title:Structures causatives;contexte:None;phonetic:None;text:|| Hou || tat || dez ||  kwé  || lac'heñ || er lè || michteñ.;gloss:None;standardise:|| Ho || tad || 'deus || graet || lazhañ || al leue || mistrañ. |||| ''Équivalent standardisé'';lemgloss:|| [[POSS|votre]]<sup>[[3]]</sup> || [[tad|père]] || [[kaout|a]] || [[ober|fa]].[[-et (Adj.)|it]] <font color=green>[</font color=green> || [[lazhañ|tuer]] || [[an, al, ar|le]] [[leue|veau]] || [[mistr|beau]].[[superlatif|le.plus]] <font color=green>]</font color=green>;translation:'Votre père a fait tuer le veau le plus beau.';agrammaticale:None;info:''Guérandais fin XIXe'', [[Mathelier (2017)|Mathelier (2017]]:418);category:Guérandais fin XIXe;source:Mathelier (2017:418);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_causatives
 1	Hou	POSS	DET	det	_	_	_	_	Gloss=votre
 2	tat	tad	NOUN	nom	_	_	_	_	Gloss=père
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	dez	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	kwé	_	_	_	_	_	_	_	_
 4	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -23954,7 +23951,7 @@
 # wiki_annotation = title:Structures causatives;contexte:None;phonetic:None;text:|| Pa' || m boa || lakaet |||| || mirout || ur plas || war || ar vag ...;gloss:None;standardise:None;lemgloss:|| [[pa|quand]]<sup>[[1]]</sup> || 1SG [[kaout|avait]]<sub>i</sub> || [[lakaat|m]].[[-et (Adj.)|is]] || <font color=green>[</font color=green> || [[Pronom_vide#pronom_sujet_des_infinitives_.28grand_PRO.29|PRO]] <sub>*i/j</sub> || [[mirout|garder]] || [[un, ul, ur|un]] [[plas|place]] || [[war|sur]]<sup>[[1]]</sup> || [[an, al, ar|le]] <sup>[[1]]</sup>[[bag|bateau]]<font color=green>]</font color=green>;translation:'Quand j'avais fait la réservation pour le bateau...';agrammaticale:None;info:[[Beyer (2009)|Beyer (2009]]:5);category:None;source:Beyer (2009:5);link:https://arbres.iker.cnrs.fr/index.php?title=Structures_causatives
 1	Pa'	pa	SCONJ	complémenteur	_	_	_	_	Gloss=quand
 2	m	-m	X	suffixe	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait i
+3	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait i
 4-5	lakaet	_	_	_	_	_	_	_	_
 4	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -24234,7 +24231,7 @@
 9	peseurt	peseurt	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=quelle
 10	abeg	abeg	PRON/ADV/DET	Interrogatif	_	_	_	_	Gloss=raison
 11	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-12	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+12	dije	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 13-14	sachet	_	_	_	_	_	_	_	_
 13	sachañ	sachañ	VERB	verbe	_	_	_	_	Gloss=tir
 14	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -24456,7 +24453,7 @@
 3-4	paour	_	_	_	_	_	_	_	_
 3	paour	paour	ADJ	adjectif	_	_	_	_	Gloss=pauvre
 4	-mañ	-mañ	X	suffixe	_	_	_	_	Gloss=ci
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+5	neus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 6	tra	tra	NOUN	nom	_	_	_	_	Gloss=chose
 7	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -24824,7 +24821,7 @@
 # wiki_annotation = title:Tamm;contexte:None;phonetic:None;text:|| 'Po || ket || un  tamm  ||  bara  ? || - Bou !;gloss:None;standardise:None;lemgloss:|| 2SG.[[kaout|aura]] || [[ket|pas]] || [[un, ul, ur|un]] morceau || [[bara|pain]] || - 1.[[kaout|aura]];translation:'Tu ne veux pas (un morceau) de pain ? - Si !';agrammaticale:None;info:''Goëlo'', [[Koadig (2010)|Koadig (2010]]:42);category:Goëlo;source:Koadig (2010:42);link:https://arbres.iker.cnrs.fr/index.php?title=Tamm
 1-2	'Po	_	_	_	_	_	_	_	_
 1	-c'h	te	PRON	PRON	Number=Sing|Person=2|PronType=Prs	_	_	_	Gloss=toi
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aura
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=aura
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4	un	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 5	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
@@ -24874,7 +24871,7 @@
 2	taolad	taolad	NOUN	nc	_	_	_	_	Gloss=coup
 3	bourrapl	bourrapl	ADJ	adjectif	_	_	_	_	Gloss=joyeux
 4	ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-5	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+5	boa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 6-7	gwraet	_	_	_	_	_	_	_	_
 6	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -25280,7 +25277,7 @@
 # wiki_annotation = title:Tournures réfléchies;contexte:None;phonetic:None;text:|| Meus || ket || keuz || tamm || ebet || da || vezañ ||  en em  || gavet || ganeoc'h !;gloss:None;standardise:None;lemgloss:|| 1SG.[[kaout|a]] || [[ket|pas]] || [[keuz|regret]] || [[tamm|morceau]] || [[ebet|aucun]] || [[da|de]]<sup>[[1]]</sup> || [[bezañ|être]] || se<sup>[[1]]</sup> || [[kavout|trouv]].[[-et (Adj.)|é]] || [[gant|avec]].[[pronom incorporé|vous]];translation:'Je ne regrette pas m'être trouvé avec vous !';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]] (1983:7);category:None;source:traducteur Cosey (1983:7);link:https://arbres.iker.cnrs.fr/index.php?title=Tournures_réfléchies
 1-2	Meus	_	_	_	_	_	_	_	_
 1	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+2	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 3	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 4	keuz	keuz	NOUN	nom	_	_	_	_	Gloss=regret
 5	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
@@ -25590,12 +25587,12 @@
 6	da	da	ADP	préposition	_	_	_	_	Gloss=à
 7	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
 8	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
+9	nie	kaout	VERB	verbe	_	_	_	_	Gloss=aurait
 10	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 11-12	gallet	_	_	_	_	_	_	_	_
 11	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 12	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
-13	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
+13	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=avoir
 14	boued	boued	NOUN	nom	_	_	_	_	Gloss=nourriture
 15-16	anezho	_	_	_	_	_	_	_	_
 15	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -25633,7 +25630,7 @@
 1-3	N'ameuz	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	foeltr	foeltr	NOUN	nom	_	_	_	_	Gloss=foutre
 5	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 6	ezom	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
@@ -25654,7 +25651,7 @@
 1-3	N'ameuz	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4	foeltr	foeltr	NOUN	nom	_	_	_	_	Gloss=foutre
 5	tamm	tamm	NOUN	nom	_	_	_	_	Gloss=morceau
 6	ezom	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
@@ -25977,7 +25974,7 @@
 5-6	en	_	_	_	_	_	_	_	_
 5	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 6	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-7	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+7	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 8-9	lennet	_	_	_	_	_	_	_	_
 8	lenn	lenn(V.)	NOUN	nc	_	_	_	_	Gloss=l
 9	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -26320,7 +26317,7 @@
 6	gouzout	gouzout	VERB	verbe	_	_	_	_	Gloss=s
 7	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
 8	o	int	PRON	PRON	Number=Plur|Person=3|PronType=Prs	_	_	_	Gloss=eux,elles
-9	eus	kaout	VERB	verbe	_	_	_	_	Gloss=avait
+9	doa	kaout	VERB	verbe	_	_	_	_	Gloss=avait
 10-11	lezet	_	_	_	_	_	_	_	_
 10	lezel	lezel	VERB	verbe	_	_	_	_	Gloss=laiss
 11	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26436,7 +26433,7 @@
 # wiki_annotation = title:Verbes à contrôle;contexte:None;phonetic:None;text:|| N' || he deus ||  klasket  || zoken || _ || gwalc'hiñ || he || belo.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || 3SGF<sub>''x''</sub> [[kaout|a]] || [[klask|cherch]].[[-et (Adj.)|é]] || [[zoken|même]] || <font color=green>[</font color=green> [[PRO]]<sub>''x''</sub> || [[gwalc'hiñ|laver]] || [[POSS|son]]<sup>[[2]]</sup> || [[belo|vélo]] <font color=green>]</font color=green>;translation:'Elle n'a même pas cherché à laver son vélo.';agrammaticale:None;info:[[Press (1986)|Press (1986]]:183);category:None;source:Press (1986:183);link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_à_contrôle
 1	N'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle ''x''
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	klasket	_	_	_	_	_	_	_	_
 4	klask	klask	VERB	verbe	_	_	_	_	Gloss=cherch
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26631,7 +26628,7 @@
 2-4	neus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	degaset	_	_	_	_	_	_	_	_
 5	degas	degas	VERB	verbe	_	_	_	_	Gloss=amen
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26657,7 +26654,7 @@
 2	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bon
 3-4	neus	_	_	_	_	_	_	_	_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	degaset	_	_	_	_	_	_	_	_
 5	degas	degas	VERB	verbe	_	_	_	_	Gloss=amen
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26678,7 +26675,7 @@
 2	gwall-zarvoud	gwall-	X	prefixe	_	_	_	_	Gloss=mauvais -évènement
 3-4	neus	_	_	_	_	_	_	_	_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	degaset	_	_	_	_	_	_	_	_
 5	degas	degas	VERB	verbe	_	_	_	_	Gloss=amen
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26700,7 +26697,7 @@
 2	avel	avel	NOUN	nom	_	_	_	_	Gloss=vent
 3-4	neus	_	_	_	_	_	_	_	_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+4	kaout	kaout	VERB	verbe	_	_	_	_	Gloss=a
 5-6	degaset	_	_	_	_	_	_	_	_
 5	degas	degas	VERB	verbe	_	_	_	_	Gloss=amen
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -26845,7 +26842,7 @@
 # wiki_annotation = title:Zoken;contexte:None;phonetic:None;text:|| N' || he deus || klasket ||  zoken  || <u>gwalc'hiñ he belo </u>.;gloss:None;standardise:None;lemgloss:|| [[ne|ne]]<sup>[[1]]</sup> || 3SGF [[kaout|a]] || [[klask|cherch]].[[-et (Adj.)|é]] || même || [[gwalc'hiñ|laver]] [[POSS|son]]<sup>[[2]]</sup> [[belo|vélo]];translation:'Elle n'a même pas cherché à laver son vélo.';agrammaticale:None;info:[[Press (1986)|Press (1986]]:183);category:None;source:Press (1986:183);link:https://arbres.iker.cnrs.fr/index.php?title=Zoken
 1	N'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-3	eus	kaout	VERB	verbe	_	_	_	_	Gloss=a
+3	deus	kaout	VERB	verbe	_	_	_	_	Gloss=a
 4-5	klasket	_	_	_	_	_	_	_	_
 4	klask	klask	VERB	verbe	_	_	_	_	Gloss=cherch
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
