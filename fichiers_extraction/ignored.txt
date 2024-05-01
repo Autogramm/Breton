@@ -748,7 +748,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Concordance_des_temps
 {| class="prettytable"
 |(1)|| Ha || c'hwi, || ma || flah || bihan, || ma || 'ho pije || gwelet || an traou-ze, || e || '''oa''' || eet || ar bleo || diwar || ho || penn.
 |- 
-||| [[&|et]] || [[pfi|vous]] || [[POSS|mon]]<sup>[[2]]</sup> || [[plac'h|fille]] || [[bihan|petit]] || [[ma(r)|si]] || 2PL 2.[[kaout|aurait]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[an, al, ar|le]] [[traoù|choses]].[[-se|là]] || [[R]] || [[eo|était]] || [[mont|all]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[blev|chevelure]] || [[diwar|de]] || [[POSS|votre]]<sup>[[3]]</sup> || [[penn|tête]]
+||| [[&|et]] || [[pfi|vous]] || [[POSS|mon]]<sup>[[2]]</sup> || [[plac'h|fille]] || [[bihan|petit]] || [[ma(r)|si]] || 2PL 2.[[kaout|aurait]] || [[gwelout|v]].[[-et (Adj.)|u]] || [[an, al, ar|le]] [[traoù|choses]]-[[-se|là]] || [[R]] || [[eo|était]] || [[mont|all]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[blev|chevelure]] || [[diwar|de]] || [[POSS|votre]]<sup>[[3]]</sup> || [[penn|tête]]
 |-
 ||| colspan="15" | 'Et vous, ma petite fille, si vous aviez vu ces choses-là, vous auriez perdu vos cheveux.'
 |-
@@ -1255,6 +1255,43 @@ https://arbres.iker.cnrs.fr/index.php?title=Gwall-
 ||| ''GWALLdro'' || 'malheur, accident' |||| ''Standard'', [[Menard & Kadored (2001)]]
 |}
 
+https://arbres.iker.cnrs.fr/index.php?title=Hag-eñ
+{| class="prettytable" <take not>
+|(3)|| N'ouzon || ket || ha || '''lennet''' || en deus |||| al levr.
+|- 
+||| N'ouzon || ket || hag- || '''eñ''' || en deus || lennet || al levr.
+|- 
+||| [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] || [[ket|pas]] || si || || 3SGM [[kaout|a]] || [[lenn (V.)|l]].[[-et (Adj.)|u]] || [[an, al, ar|le]] [[levr|livre]]
+|- 
+||| colspan="15" | 'Je ne sais pas s'il a lu le livre.'
+|- 
+||||||| colspan="15" | ''Trégorrois'' (données Stephens), [[Rivero (1999)|Rivero (1999]]:81-82)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Hag-eñ
+{| class="prettytable" <take not>
+|(4)|| N'ouzon ket || ha || '''brav''' || e vo || || an amzer || a-benn || arc'hoazh.
+|- 
+||| N'ouzon ket || hag- || '''eñ''' || e vo || brav || an amzer || a-benn || arc'hoazh.
+|- 
+||| [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] [[ket|pas]] || si || || [[R]] [[COP|sera]] || [[brav|beau]] || [[an, al, ar|le]] [[amzer|temps]] || [[a-benn|P]] || [[warc'hoazh|demain]]
+|- 
+||| colspan="15" | 'Je ne sais pas si il fera beau demain.'
+|- 
+||||||| colspan="15" | [[Bihan & Press (2003)|Bihan & Press (2003]]:187)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Hag-eñ
+{| class="prettytable" <take not>
+|(5)|| It || da || welet || { hag || '''ho preur''' || a zo || deuet. || / || hag-'''eñ''' || eo deuet || ho preur  }.
+|- 
+||| [[mont|allez]] || [[da|pour]]<sup>[[1]]</sup> || [[gwelout|voir]] || si || [[POSS|votre]]<sup>[[3]]</sup> [[breur|frère]] || [[R]] [[zo|est]] || [[dont|ven]].[[-et (Adj.)|u]] || || si-3SGM || [[COP|est]] [[dont|ven]].[[-et (Adj.)|u]] || [[POSS|votre]]<sup>[[3]]</sup> [[breur|frère]] 
+|- 
+||| colspan="15" | 'Allez voir si votre frère est venu.'
+|- 
+||||||| colspan="15" | ''Standard'', [[Merser (2011)|Merser (2011]]:56)
+|}
+
 https://arbres.iker.cnrs.fr/index.php?title=Hanter
 {| class="prettytable"
 |(2)|| '''hanter'''-'''v'''ezw. ||
@@ -1310,7 +1347,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Indéfini_de_choix_libre_formé_par_
 |-
 ||| an ti ||> || an ti-mañ (an) ti
 |-
-||| [[an, al, ar|le]] [[ti|maison]] |||| [[an, al, ar|le]] [[ti|maison]].[[-mañ|ci]] ([[art|le]]) [[ti|maison]]
+||| [[an, al, ar|le]] [[ti|maison]] |||| [[an, al, ar|le]] [[ti|maison]]-[[-mañ|ci]] ([[art|le]]) [[ti|maison]]
 |-
 ||| 'la maison' |||| 'telle ou telle maison'
 |}
@@ -1321,7 +1358,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Indéfini_de_choix_libre_formé_par_
 |-
 ||| plac'h ||> || plac'h-mañ plac'h
 |-
-||| [[plac'h|fille]] || || [[plac'h|fille]].[[-mañ|ci]] [[plac'h|fille]]
+||| [[plac'h|fille]] || || [[plac'h|fille]]-[[-mañ|ci]] [[plac'h|fille]]
 |-
 ||| fille || || 'telle ou telle fille'
 |}
@@ -1333,7 +1370,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Indéfini_de_choix_libre_formé_par_
 |-
 ||| an den-mañ > || an den-mañ-''''n''' den || ar c'hi-mañ > || ar c'hi-mañ-''''r''' c'hi || el lec'h-mañ > || el lec'h-mañ-''''l''' lec'h
 |-
-||| [[an, al, ar|le]] [[den|personne]].[[-mañ|ci]] || [[an, al, ar|le]] [[den|personne]].[[-mañ|ci]]-[[an, al, ar|le]] [[den|personne]] || [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]].[[-mañ|ci]] || [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]].[[-mañ|ci]] [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]] || [[P.e|en]].[[an, al, ar|le]] [[lec'h|lieu]].[[-mañ|ci]] || [[P.e|en]].[[an, al, ar|le]] [[lec'h|lieu]].[[-mañ|ci]]-[[an, al, ar|le]] [[lec'h|lieu]]
+||| [[an, al, ar|le]] [[den|personne]]-[[-mañ|ci]] || [[an, al, ar|le]] [[den|personne]]-[[-mañ|ci]]-[[an, al, ar|le]] [[den|personne]] || [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]]-[[-mañ|ci]] || [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]]-[[-mañ|ci]] [[an, al, ar|le]] <sup>[[5]]</sup>[[ki|chien]] || [[P.e|en]].[[an, al, ar|le]] [[lec'h|lieu]]-[[-mañ|ci]] || [[P.e|en]].[[an, al, ar|le]] [[lec'h|lieu]]-[[-mañ|ci]]-[[an, al, ar|le]] [[lec'h|lieu]]
 |-
 ||| 'cet homme' || 'tel ou tel homme' || 'ce chien' || 'tel ou tel chien' || 'dans ce lieu' || 'dans tel ou tel lieu' 
 |-
@@ -1358,6 +1395,19 @@ https://arbres.iker.cnrs.fr/index.php?title=Indéfini_de_choix_libre_formé_par_
 ||| '(à/vers/de) où?' || ''(di/ke/dari) '''mana''''' ||> '(à/vers/de) où que ce soit' || ''(di/ke/dari) mana saja'' || ou '''''mana-mana'''''
 |-
 ||||||||| colspan="15" | ''Indonésien'', Sneddon (1996), cité [http://www.bahasakita.com/indefinite-pronouns/ ici]
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Interrogatives_polaires
+{| class="prettytable" <take not>
+|(3)|| N'ouzon || ket || ha || '''lennet''' || en deus || || al levr.
+|- 
+||| N'ouzon || ket || hag- || '''eñ''' || en deus || lennet || al levr.
+|- 
+||| [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] || [[ket|pas]] || si || || 3SGM [[kaout|a]] || [[lenn (V.)|l]].[[-et (Adj.)|u]] || [[an, al, ar|le]] [[levr|livre]]
+|- 
+||| colspan="15" | 'Je ne sais pas s'il a lu le livre.'
+|- 
+||||||||| colspan="15" | ''Trégorrois'', [[Rivero (1999)|Rivero (1999]]:81-82)
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Interrogatives_polaires
@@ -2040,32 +2090,6 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_articles
 
 https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
 {| class="prettytable" <take not>
-|(2)|| || bgcolor=#5F9EA0|proximité immédiate || bgcolor=#20B2AA|proximité relative || bgcolor=#66CDAA| éloignement
-|-
-||| bgcolor="#4682B4"|<font color=white>3SGM</font> || hemañ, [http://sbahuaud.free.fr/ALBB/Kartenn-312.jpg carte 312] || hennezh, [http://sbahuaud.free.fr/ALBB/Kartenn-313.jpg carte 313] || hen-hont, [http://sbahuaud.free.fr/ALBB/Kartenn-314.jpg carte 314]
-|-
-||| bgcolor="#4682B4"|<font color=white>3SGF</font> || houmañ, [http://sbahuaud.free.fr/ALBB/Kartenn-312.jpg carte 312] || hounnezh, [http://sbahuaud.free.fr/ALBB/Kartenn-313.jpg carte 313] || hou-hont, [http://sbahuaud.free.fr/ALBB/Kartenn-314.jpg carte 314]
-|-
-||| bgcolor="#4682B4"|<font color=white>3PL</font> || ar re-mañ, [http://sbahuaud.free.fr/ALBB/Kartenn-315.jpg carte 315] || ar re-se, [http://sbahuaud.free.fr/ALBB/Kartenn-316.jpg carte 316] 
-|- 
-||||||||| colspan="15" | ''Standard'' et cartes de variation dialectale de l'[[ALBB]]
-|}
-
-https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
-{| class="prettytable" <take not>
-|(1)|| || bgcolor=#5F9EA0|proximité immédiate || bgcolor=#20B2AA|proximité relative 
-|-
-||| bgcolor="#4682B4"|<font color=white>3SGM</font> || hemañ || hennezh, heñzh 
-|-
-||| bgcolor="#4682B4"|<font color=white>3SGF</font> || homañ || honnezh, hoñzh
-|-
-||| bgcolor="#4682B4"|<font color=white>3PL</font> || ar re-mañ, <font color=green>ar mâ'''où''', är mâ'''o''', ma'''ó''' </font color=green> || ar re-se, ar re-he, <font color=green>ar reñzh, ar se'''où''', är zé'''u''', zé'''w'''</font color=green>
-|-
-||||||||| colspan="15" | ''Trégorrois'', [[Hewitt (2001)]], [[Le Dû (2012)|Le Dû (2012]]:71)
-|}
-
-https://arbres.iker.cnrs.fr/index.php?title=Les_démonstratifs
-{| class="prettytable" <take not>
 |(1)a. || Gris-'''en''' med lång svans grymtade. 
 |-
 ||| cochon-défini avec longue queue grogna  
@@ -2098,11 +2122,26 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_indéfinis
 |-
 ||| [[*]] || Beuzet || eo || bet || un den || ''agrammatical''
 |-
-||| || [[beuziñ|noyé]] || est || [[bet|été]] || [[un, ul, ur|un]] [[den|personne]]
+||| || [[beuziñ|noy]].[[-et (Adj.)|é]] || est || [[bet|été]] || [[un, ul, ur|un]] [[den|personne]]
 |-
 ||| colspan="15" | 'Un homme s'est noyé.'
 |-
 ||||||||||||| colspan="15" | [[Madeg (2013)|Madeg (2013]]:7)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Les_indéfinis_de_choix_libre
+{| class="prettytable" <take not>
+|CONTEXTE:|| colspan="15" | ''Med prestig e krogas keleier fall da zond d'ar barrez:'' 
+|-
+||| colspan="15" | ''Mais bientôt de mauvaises nouvelles parvinrent à la paroisse:''
+|-
+|(2)|| '''an hén-mañ-hén''' || a zo lazet, || '''an hén-mañ-hén''' || a zo bleset.
+|-
+||| [[an, al, ar|le]] [[henn|celui.ci]]-[[-mañ|ci]].[[henn|celui.ci]] || [[R]] [[zo|est]] [[lazhañ|tu]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[henn|celui.ci]]-[[-mañ|ci]].[[henn|celui.ci]] || [[R]] [[zo|est]] blessé
+|-
+||| colspan="15" | 'qui est tué, qui est blessé.' 
+|-
+||||||||| colspan="15" | ''Léonard'', [[Seite (1985)|Seite (1985]]:36)
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
@@ -2127,7 +2166,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
 {| class="prettytable" <take not>
 |(8)|| Kas || din || ar pevar ||<font color=orange>'''([[*]] gwenn)'''</font color=orange> || roc'h || ha || tregont ||-mañ ||<font color=orange>'''([[*]] gwenn)'''</font color=orange>. 
 |-
-||| [[kas|envoie]] || [[da|à]].[[pronom incorporé|moi]] || [[an, al, ar|le]] [[pevar|quatre]] || [[gwenn|blanc]] || [[roc'h|roche]] || [[&|et]] || [[tregont|trente]] || [[DEM|-ci]] || [[gwenn|blanc]] 
+||| [[kas|envoie]] || [[da|à]].[[pronom incorporé|moi]] || [[an, al, ar|le]] [[pevar|quatre]] || [[gwenn|blanc]] || [[roc'h|roche]] || [[&|et]] || [[tregont|trente]] || [[-mañ|ci]] || [[gwenn|blanc]] 
 |-
 ||||||| colspan="15" | ''Standard'', [[M. Lincoln (01/2015)]]
 |}
@@ -2136,7 +2175,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_numéraux_cardinaux
 {| class="prettytable" <take not>
 |(9)|| Sell || 'ta || an div ||<font color=orange>'''([[*]] jentil)'''</font color=orange> || logodenn || warn-ugent ||-mañ ||<font color=orange>'''([[*]] jentil)'''</font color=orange>.
 |-
-||| [[sellout|regarde]] || [[eta|donc]] || [[an, al, ar|le]] [[div|deux]].F || [[jentil|gentil]] || [[logod|souris]].[[-enn|SG]] || [[war|sur]].[[art|le]]-[[ugent|vingt]] || [[DEM|-ci]] || [[jentil|gentil]]
+||| [[sellout|regarde]] || [[eta|donc]] || [[an, al, ar|le]] [[div|deux]].F || [[jentil|gentil]] || [[logod|souris]].[[-enn|SG]] || [[war|sur]].[[art|le]]-[[ugent|vingt]] || [[-mañ|ci]] || [[jentil|gentil]]
 |-
 ||||||| colspan="15" | ''Standard'', [[M. Lincoln (01/2015)]]
 |}
@@ -2214,7 +2253,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_ordres_T3
 {| class="prettytable"
 |(2)|| bgcolor=#8E80FF| Ar re-se, || bgcolor=#F0FF80| o gwelet || em eus  __ || meur || a || wech.
 |- 
-||| [[an, al, ar|le]] [[hini|ceux]].[[DEM|ci]] || [[POP|les]]<sup>[[2]]</sup> [[gwelout|v]].[[-et (Adj.)|u]] || 1SG [[kaout|a]] || [[meur|moulte]] || [[a|de]]<sup>[[1]]</sup> || [[gwech|fois]]
+||| [[an, al, ar|le]] [[hini|ceux]]-[[-se|là]] || [[POP|les]]<sup>[[2]]</sup> [[gwelout|v]].[[-et (Adj.)|u]] || 1SG [[kaout|a]] || [[meur|moulte]] || [[a|de]]<sup>[[1]]</sup> || [[gwech|fois]]
 |- 
 ||| colspan="15" | 'Ceux-là, je les ai vus plus d'une fois.' 
 |- 
@@ -2230,6 +2269,32 @@ https://arbres.iker.cnrs.fr/index.php?title=Les_ordres_T3
 ||| colspan="15" | 'Moi, dès que je bois une goutte de vin, le sang me saute tout de suite à la tête.' 
 |- 
 ||||||||| colspan="15" | ''Trégorrois'', [[Gros (1984)|Gros (1984]]:55).  
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Les_pronoms_démonstratifs
+{| class="prettytable" <take not>
+|(2)|| || bgcolor=#5F9EA0|proximité immédiate || bgcolor=#20B2AA|proximité relative || bgcolor=#66CDAA| éloignement
+|-
+||| bgcolor="#4682B4"|<font color=white>3SGM</font> || hemañ, [http://sbahuaud.free.fr/ALBB/Kartenn-312.jpg carte 312] || hennezh, [http://sbahuaud.free.fr/ALBB/Kartenn-313.jpg carte 313] || hen-hont, [http://sbahuaud.free.fr/ALBB/Kartenn-314.jpg carte 314]
+|-
+||| bgcolor="#4682B4"|<font color=white>3SGF</font> || houmañ, [http://sbahuaud.free.fr/ALBB/Kartenn-312.jpg carte 312] || hounnezh, [http://sbahuaud.free.fr/ALBB/Kartenn-313.jpg carte 313] || hou-hont, [http://sbahuaud.free.fr/ALBB/Kartenn-314.jpg carte 314]
+|-
+||| bgcolor="#4682B4"|<font color=white>3PL</font> || ar re-mañ, [http://sbahuaud.free.fr/ALBB/Kartenn-315.jpg carte 315] || ar re-se, [http://sbahuaud.free.fr/ALBB/Kartenn-316.jpg carte 316] 
+|- 
+||||||||| colspan="15" | ''Standard'' et cartes de variation dialectale de l'[[ALBB]]
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Les_pronoms_démonstratifs
+{| class="prettytable" <take not>
+|(5)|| || bgcolor=#5F9EA0|proximité immédiate || bgcolor=#20B2AA|proximité relative 
+|-
+||| bgcolor="#4682B4"|<font color=white>3SGM</font> || hemañ || hennezh, heñzh 
+|-
+||| bgcolor="#4682B4"|<font color=white>3SGF</font> || homañ || honnezh, hoñzh
+|-
+||| bgcolor="#4682B4"|<font color=white>3PL</font> || ar re-mañ, <font color=green>ar mâ'''où''', är mâ'''o''', ma'''ó''' </font color=green> || ar re-se, ar re-he, <font color=green>ar reñzh, ar se'''où''', är zé'''u''', zé'''w'''</font color=green>
+|-
+||||||||| colspan="15" | ''Trégorrois'', [[Hewitt (2001)]], [[Le Dû (2012)|Le Dû (2012]]:71)
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Les_pronoms_écho
@@ -2322,11 +2387,11 @@ https://arbres.iker.cnrs.fr/index.php?title=M-L._B._(04/2016)
 
 https://arbres.iker.cnrs.fr/index.php?title=M._Lincoln_(01/2015)
 {| class="prettytable" <take not>
-|(2) ? || Sell || 'ta || an div || logodenn || jentil || warn-ugent ||-mañ. 
+|(2) ? || Sell || 'ta || an div || logodenn || jentil || warn-ugent-mañ. 
 |-
-||| [[sellout|regarde]] || [[eta|donc]] || [[an, al, ar|le]] deux.F || [[logod|souris]].[[-enn|SG]] || gentil || [[war|sur]]-vingt || [[DEM|-ci]]
+||| [[sellout|regarde]] || [[eta|donc]] || [[an, al, ar|le]] deux.F || [[logod|souris]].[[-enn|SG]] || gentil || [[war|sur]]-[[ugent|vingt]]-[[-mañ|ci]]
 |-
-||| colspan="15" | 'Regarde-donc ces vingt-deux gentilles souris.'
+||| colspan="15" | 'Regarde donc ces vingt-deux gentilles souris.'
 |-
 ||||||||| colspan="15" | ''Léon/Standard'', [[M. Lincoln]]
 |}
@@ -2441,6 +2506,32 @@ https://arbres.iker.cnrs.fr/index.php?title=M._Lincoln_(05/2015)
 ||| fubu || OK|| OK || OK || OK || OK || OK || _ || OK 
 |-
 ||| plant || OK||? || OK|| OK || [[*]] || _ || _ || OK 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Ma
+{| class="prettytable" <take not>
+|(1)|| N'uion || ket || '''ma''' || ([[*]] lennet) || neus || (lennet) || al || levr. 
+|- 
+||| [[ne|ne]]<sup>[[1]]</sup> [[gouzout|sais]] || [[ket]] || si || [[lenn (V.)|l]].[[-et (Adj.)|u]] || [[kaout|a]] || [[lenn (V.)|l]].[[-et (Adj.)|u]] || [[an, al, ar|le]] || [[levr|livre]]
+|- 
+||| colspan="15" | 'Je ne sais pas si il a lu le livre.'
+|-
+||||||| colspan="15" | ''Cornouaillais (Scaër/Bannalec)'', [[H. Gaudart (04/2016b)]]
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Ma
+{| class="prettytable" <take not>
+|(4)|| <u>an ti</u> || || oa || oc'h || labourat
+|-
+||| <u>an ti</u> || '''ma''' || oa || oc'h || labourat
+|-
+||| [[an, al, ar|le]] [[ti|maison]] || <font color=violet>_[''ø'']_</font color=violet>/C || [[eo|était]] || [[particule o|à]]<sup>[[4]]</sup> || [[labourat|travailler]]
+|-
+||| colspan="15" | 'la maison où il travaillait'
+|-
+||||||||| colspan="15" | ''Cornouaillais (Lanvenejen)'', [[Evenou (1989)]]
+|-
+||||||||| colspan="15" | cité dans [[Favereau (1997)|Favereau (1997]]:§585)
 |}
 
 https://arbres.iker.cnrs.fr/index.php?title=Mann
@@ -2845,7 +2936,7 @@ https://arbres.iker.cnrs.fr/index.php?title=Ordres_à_verbe_initial
 {| class="prettytable" <take not>
 |(4)|| Ur wech oa kouezhet klañv. An dra-se oa er bloavezh, a gav din, 1949.
 |-
-||| [[un, ul, ur|un]] <sup>[[1]]</sup>[[gwech|fois]] [[eo|était]] [[kouezhañ|tomb]].[[-et (Adj.)|é]] [[klañv|malade]]. [[an, al, ar|le]] <sup>[[1]]</sup>[[tra|chose]].[[DEM|là]] [[eo|était]] [[P.e|en]].[[art|e]] [[bloaz|ann]].[[-vezh|ée]], [[R]]<sup>[[1]]</sup> [[kavout|trouve]] [[da|à]].[[pronom incorporé|moi]], 1949.
+||| [[un, ul, ur|un]] <sup>[[1]]</sup>[[gwech|fois]] [[eo|était]] [[kouezhañ|tomb]].[[-et (Adj.)|é]] [[klañv|malade]]. [[an, al, ar|le]] <sup>[[1]]</sup>[[tra|chose]]-[[-se|là]] [[eo|était]] [[P.e|en]].[[art|e]] [[bloaz|ann]].[[-vezh|ée]], [[R]]<sup>[[1]]</sup> [[kavout|trouve]] [[da|à]].[[pronom incorporé|moi]], 1949.
 |-
 ||| '''Em oa''' kemeret ludu da lakaat gant an artichaod hag ar patatez tout, en avañs.
 |-
@@ -4256,5 +4347,155 @@ https://arbres.iker.cnrs.fr/index.php?title=Troadec_(verbe_'kaout')
 |||<font color=green>2SG</font color=green> || '''peus''' ||<font color=green>2PL</font color=green> || ''' '''
 |-
 |||<font color=green>3SG</font color=green> || ''' ''' ||<font color=green>3PL</font color=green> || '''neus''' 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Troadec_(verbe_'kaout')
+{| class="prettytable"
+|(2)|| 
+|-
+|||<font color=green>1SG</font color=green> || '''m'eus''' ||<font color=green>1PL</font color=green> || ''''n eus ''' 
+|-
+|||<font color=green>2SG</font color=green> || ''' ''' ||<font color=green>2PL</font color=green> || '''peus'''
+|-
+|||<font color=green>3SG</font color=green> || '''neus''' ||<font color=green>3PL</font color=green> || ''' ''' 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Troadec_(verbe_'kaout')
+{| class="prettytable"
+|(3)|| 
+|-
+|||<font color=green>1SG</font color=green> || ''' ''' ||<font color=green>1PL</font color=green> || ''' ''' 
+|-
+|||<font color=green>2SG</font color=green> || ''' ''' ||<font color=green>2PL</font color=green> || ''' '''
+|-
+|||<font color=green>3SG</font color=green> || '''(a) neus''' ||<font color=green>3PL</font color=green> || '''(a) neus''' 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Tutoiement_et_vouvoiement
+{| class="prettytable" <take not>
+|(1)|| colspan="15" | CONTEXTE: (à une petite fille de la famille)
+|-
+||| Breman || eo || hennezh || '''ho''' || kamion || deuzout'''oc'h''' || '''ho''' keñ.
+|- 
+||| [[bremañ|maintenant]] || [[eo|est]] || [[hennezh|celui-là]] || [[POSS|votre]]<sup>[[3]]</sup> || [[kamion|camion]] || [[deus|de]].[[ouzh|à]].[[pronom incorporé|vous]] || [[POSS|votre]]<sup>[[3]]</sup> [[unan|un]] 
+|-
+||| colspan="15" | 'Maintenant c'est ton camion à toi toute seule.' 
+|-
+||||||| colspan="15" | ''GB2210 (Douarnenez)'', [[Kontañ kaoz (06/2019)]] 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Tutoiement_et_vouvoiement
+{| class="prettytable" <take not>
+|(2)|| colspan="15" | CONTEXTE: (femme, à une femme familière et d'âge équivalent)
+|-
+||| Gouzout || a r'''ez''' || '''ho''' peus || disoñjet || '''da''' || levrig || kanañ || disadorn || diwezhañ ? 
+|- 
+||| [[gouzout|savoir]] || [[R]] [[ober|fais]] || 2PL 2.[[kaout|a]] || [[di-, dis-|dé]].[[soñjal|pens]].[[-et (Adj.)|é]] || [[POSS|ton]]<sup>[[1]]</sup> || [[levr|livr]].[[DIM|et]] || [[kanañ|chanter]] || [[di-/(deiz-)|jour]].[[sadorn|samedi]] || [[diwezhat|tard]].[[superlatif|le.plus]]
+|-
+||| colspan="15" | 'Tu sais que tu as oublié ton livret de chant samedi ?!' 
+|-
+||||||| colspan="15" | ''Cornouaillais (Gourlizon)'', [[Kontañ kaoz (06/2019)]] 
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Tutoiement_et_vouvoiement
+{| class="prettytable" <take not>
+|(3)|| colspan="15" | CONTEXTE: (à un homme ou une femme de son âge)
+|-
+||| '''Fi''' || voar lac'h || peus digonget || oc'h lior kan || di sadorn ?!
+|- 
+||| [[pfi|vous]] [[R]]<sup>[[1]]</sup> || [[gouzout|sais]] [[la(r)|que]] || 2.[[kaout|a]] [[di-, dis-|dé]].[[soñjal|pens]].[[-et (Adj.)|é]] || [[POSS|votre]]<sup>[[+C]]</sup> [[levr|livre]] chant || [[Di-/(deiz-)|jour]] [[jours de la semaine|samedi]]
+|-
+||| colspan="15" | 'Tu sais que tu as oublié ton livret de chant samedi ?!' 
+|-
+||||||| colspan="15" | ''Michelle Nicolas (Plozévet)'', [[Kontañ kaoz (06/2019)]]
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=V1_en_corpus_dessiné
+{| class="prettytable" <take not>
+|(p.9)|| ASTERIKS (dezhañ e unan) : || '''Ez an d''' 'e heuliañ a-bell....
+|-
+| (p.12)|| ASTERIKS : || '''Ez an da''' glask e zisemplañ !
+|-
+| 
+|-
+|(p.16)|| [trouz] : || BAHAAAHOOO
+|-
+| || ANERZHBREC'HIKS : || Petra eo se ?
+|-
+||| OBELIKS : || Tennañ a ra da Avihaniks pa gan.
+|-
+||| ASTERIKS : || '''Ez an da''' welout.
+|-
+| 
+|-
+|(p.22)|| OBELIKS : || '''Ez an da''' dañva...
+|-
+|(p.22)|| CHEF ROMAIN : || '''Ez an da''' boazhañ ac'hanout e'z kaoter c'hwez ar pesk ganti !
+|-
+|(p.48)|| OBELIKS : || '''Ez an da''' heuliañ ur reol-voued...
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Verbes_ditransitifs
+{| class="prettytable" <take not>
+|(3)|| ''X'' || lavar || ''un dra bennak'' || da ''unan bennak'' ||> || ''X'' [[lavarout|dire]] ''quelque chose'' à ''quelqu'un''
+|-
+||| ''X'' || diskuliañ || ''un dra bennak'' || da ''unan bennak'' ||> || ''X'' [[diskuliañ|révéler]] ''quelque chose'' à ''quelqu'un''
+|-
+||| ''X'' || laerañ || ''un dra bennak'' || digant ''unan bennak'' ||> || ''X'' [[laerañ|voler]] ''quelque chose'' à ''quelqu'un''
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Verbes_factifs
+{| class="prettytable" <take not>
+|(A)|| assertions fortes, verbes déclaratifs || ''dire, rapporter, être vrai que, être certain que, être sur, être évident...
+|- 
+|(B)|| assertions faibles, verbes dénotant des processus mentaux || ''supposer, croire, penser, s'attendre à, deviner, paraître, se trouver que... 
+|-
+|(C)|| ni présupposée ni assertive || ''être probable, être (im)possible, douter, nier... 
+|-
+|(D)|| factives, présupposée, attitudes subjectives || ''sentir, regretter, s'inquiéter que, être surpris que...
+|-
+|(E)|| semi-factives, présupposées || ''réaliser, apprendre, découvrir, comprendre, savoir, voir, reconnaître, oublier...
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Weisser_(2019b)
+{| class="prettytable"
+|(5)|| [<sub>ForceP</sub> || || || Force° ||[<sub>TopP</sub> ||||[<sub>FocP</sub> || ||[<sub>ModeP</sub> || NEG||[<sub>FinP</sub> |||| Fin
+|- 
+||| || bgcolor=#8E80FF|[[topique suspendu]] || bgcolor=#80D0FF| adjoints scéniques || || || bgcolor=#90FF80|[[topique]] |||| bgcolor=#F0FF80|[[focus]] || || bgcolor=#FFDF80| [[négation]] ''[[ne|ne]]'' || || bgcolor=#FFAE80|[[explétif]] || bgcolor=#FF8080|[[R|rannig]]-[[verbe]]
+|- 
+||||||||||||||||||| colspan="15" | ''structure du domaine [[CP]]'', [[Jouitteau (2005/2010)|Jouitteau (2005/2010]]:126)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Wmffre_(1998:19,20)
+{| class="prettytable" <take not>
+|(x)|| '''n ø.s  ''' || '''d~ɛn''' || '''e'bet''' || '''~ɑm<sup>ə</sup>'''
+|-
+||| [[ne|ne]]<sup>[[1]]</sup> [[ez eus|est]] || [[den|personne]] || [[ebet|aucun]] || [[amañ|ici]]
+|-
+||| colspan="15" | 'There is nobody here.' 
+|-
+||| colspan="15" | [équivalent standard: ''N'eus den ebet amañ''- ]
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Wmffre_(1998:37,40)
+{| class="prettytable"
+|(1)|| [[Wmffre (1998)|Wmffre (1998]]:40)
+|-
+| ||<i><font color=green>1SG</font></i> || '''møs''' ||<i><font color=green>1PL</font></i> || '''m˜œm''' (/œ/ nasal)
+|-
+| ||<i><font color=green>2SG</font></i> || '''føs''' ||<i><font color=green>2PL</font></i> || '''pøs'''
+|-
+| ||<i><font color=green>3SG</font></i> || '''nøs''' ||<i><font color=green>3PL</font></i> || '''n˜œɲ''' (/œ/ nasal)
+|}
+
+https://arbres.iker.cnrs.fr/index.php?title=Wmffre_(1998:37,40)
+{| class="prettytable"
+| [fig. 20] || [[Wmffre (1998)|Wmffre (1998]]:37)
+|-
+| ||<i><font color=green>1SG</font></i> || '''me møs''' ||<i><font color=green>1PL</font></i> || '''nim m˜œm''' (/œ/ nasal)
+|-
+| ||<i><font color=green>2SG</font></i> || '''te føs''' ||<i><font color=green>2PL</font></i> || '''wi pøs'''
+|-
+| ||<i><font color=green>3SG</font></i> || '''h˜ɛw / hi nøs''' (/ɛ/ nasal)||<i><font color=green>3PL</font></i> || '''hiɲ nøs''' 
 |}
 
