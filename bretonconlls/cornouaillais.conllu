@@ -2196,7 +2196,7 @@
 1	Ac'h 	ac'h	_	_	_	_	_	_	Gloss=Yew!
 2	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 3	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 5-6	lakaet	_	_	_	_	_	_	_	_
 5	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -2221,7 +2221,7 @@
 # wiki_annotation = title:A-M. Louboutin (02/2022);contexte:None;phonetic:None;text:|| (Ac'h !) || Henn || neus || lakaet || din || ([[*]] Ac'h !) || e || zaorn || war || ma || foñs || (Ac'h !) ||!;gloss:None;standardise:None;lemgloss:|| [[ac'h !|Yew !]] || [[hennezh|celui-là]] || 3.[[kaout|a]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[da|à]].[[pronom incorporé|moi]] || [[ac'h !|Yew !]] || [[POSS|son]]<sup>[[1]]</sup> || [[dorn|main]] || [[war|sur]]<sup>[[1]]</sup> || [[POSS|son]]<sup>[[1]]</sup> || [[foñs|fond]] || [[ac'h !|Yew !]];translation:'Je t'assure, yew, il m'a mis la main aux fesses !';agrammaticale:None;info:''Cornouaillais (Locronan)'', A-M. Louboutin (02/2022);category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 1	_	ac'h!	_	_	_	_	_	_	Gloss=Yew!
 2	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4-5	lakaet	_	_	_	_	_	_	_	_
 4	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -2247,7 +2247,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 # wiki_annotation = title:A-M. Louboutin (02/2022);contexte:None;phonetic:None;text:|| Aaaa ! || Me || meus || bet || tomm || ayayaylh ! || Ma || vouefes || pegement.;gloss:None;standardise:None;lemgloss:|| Ahlala ! || [[pfi|moi]] || 3.[[kaout|a]] || [[kaout|eu]] || [[tomm|chaud]] || [[Aiou !|aîeaïeaïe !]] || [[ma(r)|si]]<sup>[[4]]</sup> || [[gouzout|savais]] || [[pegement|combien]];translation:'J'ai eu un coup de chaud, ahlala !' (tellement ! si tu savais !);agrammaticale:None;info:''Cornouaillais (Locronan)'', A-M. Louboutin (02/2022);category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 1	Me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4	tomm	tomm	ADJ	adjectif	_	_	_	_	Gloss=chaud
 5	ayayaylh 	Aiou	_	_	_	_	_	_	Gloss=aîeaïeaïe!
@@ -2267,7 +2267,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 # wiki_annotation = title:A-M. Louboutin (02/2022);contexte:None;phonetic:None;text:|| Me || meus || bet || tomm || ha || plouf || kouet || ar plac'h || bars || an dour.;gloss:None;standardise:None;lemgloss:|| [[pfi|moi]] || 3.[[kaout|a]] || [[kaout|eu]] || [[tomm|chaud]] || [[&|et]] || [[onomatopée|plouf !]] || [[kouezhañ|tomb]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[plac'h|fille]] || [[e-barzh|dans]] || [[an, al, ar|le]] [[dour|eau]];translation:'J'ai eu un coup de chaud, et plouf ! La tête de linotte est tombée dans l'eau.';agrammaticale:None;info:''Cornouaillais (Locronan)'', A-M. Louboutin (02/2022);category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 1	Me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4	tomm	tomm	ADJ	adjectif	_	_	_	_	Gloss=chaud
 5	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
@@ -2292,7 +2292,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 # wiki_annotation = title:A-M. Louboutin (02/2022);contexte:None;phonetic:None;text:|| Me || meus || bet || tomm || ha || plouf || kouet || penn || golo || bars || an dour.;gloss:None;standardise:None;lemgloss:|| [[pfi|moi]] || 3.[[kaout|a]] || [[kaout|eu]] || [[tomm|chaud]] || [[&|et]] || [[onomatopée|plouf !]] || [[kouezhañ|tomb]].[[-et (Adj.)|é]] || [[penn|tête]] || [[golo|vide]] || [[e-barzh|dans]] || [[an, al, ar|le]] [[dour|eau]];translation:'J'ai eu un coup de chaud, et plouf ! La tête de linotte est tombée dans l'eau.';agrammaticale:None;info:''Cornouaillais (Locronan)'', A-M. Louboutin (02/2022);category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 1	Me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4	tomm	tomm	ADJ	adjectif	_	_	_	_	Gloss=chaud
 5	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
@@ -2317,7 +2317,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 # wiki_annotation = title:A-M. Louboutin (02/2022);contexte:None;phonetic:None;text:|| Me || meus || bet || tomm || ha || dustu || 'n || un taol || kouet || ma || benn || golo || bars || an dour.;gloss:None;standardise:None;lemgloss:|| [[pfi|moi]] || 3.[[kaout|a]] || [[kaout|eu]] || [[tomm|chaud]] || [[&|et]] || [[dioustu|de.suite]] || [[P.e|en]] || [[un, ul, ur|un]] [[taol (M.)|coup]] || [[kouezhañ|tomb]].[[-et (Adj.)|é]] || [[POSS|mon]]<sup>[[1]]</sup> || [[penn|tête]] || [[golo|vide]] || [[e-barzh|dans]] || [[an, al, ar|le]] [[dour|eau]];translation:'J'ai eu un coup de chaud, et plouf ! La tête de linotte est tombée dans l'eau.';agrammaticale:None;info:''Cornouaillais (Locronan)'', A-M. Louboutin (02/2022);category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=A-M._Louboutin_(02/2022)
 1	Me	pfi	PRON	pronoms	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4	tomm	tomm	ADJ	adjectif	_	_	_	_	Gloss=chaud
 5	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
@@ -3215,7 +3215,7 @@
 2	garfe	karout	VERB	verbe	_	_	_	_	Gloss=aimerait
 3	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bien
 4	ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-5	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
+5	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
 6	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 7	a	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8-9	brozioù	_	_	_	_	_	_	_	_
@@ -3995,7 +3995,7 @@
 # wiki_annotation = title:A-rez;contexte:None;phonetic:None;text:|| 'pè || dour ||  'resk  || hou || fouessenno.;gloss:None;standardise:|| Ho poa || dour ||  a-res  || ho || feskennoù. |||||| ''Équivalent standardisé'';lemgloss:|| [[R]] 2.[[kaout|avait]] || [[dour|eau]] || [[a|à]]<sup>[[1]]</sup>-ras || [[POSS|votre]]<sup>[[3]]</sup> || [[feskenn|fesse]].[[-où (PL.)|s]];translation:'On avait de l'eau jusqu'aux fesses.';agrammaticale:None;info:''Cornouaillais (Moëlan)'', [[Bouzec & al. (2017)|Bouzec & al. (2017]]:357);category:Cornouaillais (Moëlan);source:Bouzec & al. (2017:357);link:https://arbres.iker.cnrs.fr/index.php?title=A-rez
 1-2	'pè	_	_	_	_	_	_	_	_
 1	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=avait
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=avait
 3	dour	dour	NOUN	nom	_	_	_	_	Gloss=eau
 4	'resk	a	ADP	préposition	_	_	_	_	Gloss=à -ras
 5	hou	POSS	DET	det	_	_	_	_	Gloss=votre
@@ -4507,7 +4507,7 @@
 # wiki_annotation = title:Ac'h !, Ec'h ! Fac'h !, Fec'h !, Oc'h !;contexte:None;phonetic:None;text:|| ( Ac'h ! ) || Henn || neus || lakaet || din || ( [[*]] Ac'h ! ) || e || zaorn || war || ma || foñs || ( Ac'h ! ) ||!;gloss:None;standardise:None;lemgloss:|| [[ac'h !|Yew !]] || [[hennezh|celui-là]] || 3.[[kaout|a]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[da|à]].[[pronom incorporé|moi]] || [[ac'h !|Yew !]] || [[POSS|son]]<sup>[[1]]</sup> || [[dorn|main]] || [[war|sur]]<sup>[[1]]</sup> || [[POSS|son]]<sup>[[1]]</sup> || [[foñs|fond]] || [[ac'h !|Yew !]];translation:'Je t'assure, yew, il m'a mis la main aux fesses !';agrammaticale:None;info:''Cornouaillais (Locronan)'', [[A-M. Louboutin (02/2022)]];category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=Ac'h_!,_Ec'h_!_Fac'h_!,_Fec'h_!,_Oc'h_!
 1	_	ac'h!	_	_	_	_	_	_	Gloss=Yew!
 2	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4-5	lakaet	_	_	_	_	_	_	_	_
 4	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -4534,7 +4534,7 @@
 # wiki_annotation = title:Ac'h !, Ec'h ! Fac'h !, Fec'h !, Oc'h !;contexte:None;phonetic:None;text:||  Ac'h !  || Henn || neus || lakaet || din || e || zaorn || war || ma || foñs !;gloss:None;standardise:None;lemgloss:|| [[ac'h !|Yew !]] || [[hennezh|celui-là]] || 3.[[kaout|a]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[da|à]].[[pronom incorporé|moi]] || [[POSS|son]]<sup>[[1]]</sup> || [[dorn|main]] || [[war|sur]]<sup>[[1]]</sup> || [[POSS|son]]<sup>[[1]]</sup> || [[foñs|fond]];translation:'Je t'assure, yew, il m'a mis la main aux fesses !';agrammaticale:None;info:''Cornouaillais (Locronan)'', [[A-M. Louboutin (02/2022)]];category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=Ac'h_!,_Ec'h_!_Fac'h_!,_Fec'h_!,_Oc'h_!
 1	Ac'h !	ac'h!	_	_	_	_	_	_	Gloss=Yew!
 2	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4-5	lakaet	_	_	_	_	_	_	_	_
 4	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -5229,7 +5229,7 @@
 4	ha	&	CCONJ	conjonction	_	_	_	_	Gloss=et
 5	c'hwi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 6	'	R	VERB	verbe	_	_	_	_	Gloss=_
-7	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+7	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 8	'n	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9	anal	anal	NOUN	nom	_	_	_	_	Gloss=haleine
 10	hir	hir	ADJ	adjectif	_	_	_	_	Gloss=long
@@ -7324,7 +7324,7 @@
 7	ti	ti	NOUN	nom	_	_	_	_	Gloss=maison
 8	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 9	'	R	VERB	verbe	_	_	_	_	Gloss=_
-10	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+10	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 11	na	nana	CCONJ	coo	_	_	_	_	Gloss=ni
 12	lagad	lagad	NOUN	nom	_	_	_	_	Gloss=œil
 13	na	nana	CCONJ	coo	_	_	_	_	Gloss=ni
@@ -8834,7 +8834,7 @@
 1	Daoust	daoust	SCONJ	complémenteur	_	_	_	_	Gloss=à savoir
 2	hag	Q	NOUN	nom	_	_	_	_	Gloss=si
 3	ho	hoc'h	NOUN	nom	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5-6	gwelet	_	_	_	_	_	_	_	_
 5	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -8910,7 +8910,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Bizaj
 # wiki_annotation = title:Bizaj;contexte:None;phonetic:None;text:|| 'Peus || ket || lakaet || tra || war || ho ||  pizaj .;gloss:None;standardise:None;lemgloss:|| 2.[[kaout|a]] || [[ket|pas]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[tra|chose]] || [[war|sur]] || [[POSS|votre]]<sup>[[1]]</sup> || visage;translation:'Tu n'a pas mis de maquillage.' (à une femme);agrammaticale:None;info:''Cornouaillais (Douarnenez)'', Jouitteau (c.p. 2002);category:Cornouaillais (Douarnenez);source:Jouitteau (c.p. 2002);link:https://arbres.iker.cnrs.fr/index.php?title=Bizaj
-1	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+1	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 2	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 3-4	lakaet	_	_	_	_	_	_	_	_
 3	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
@@ -9972,7 +9972,7 @@
 2	garfe	karout	VERB	verbe	_	_	_	_	Gloss=aimerait
 3	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bien
 4	ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-5	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
+5	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
 6	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 7	a	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8	brozioù	jupe.-ioù(PL.)	NOUN	nc	_	_	_	_	Gloss=s
@@ -10564,7 +10564,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-4	kaout	kaout	VERB	v	Person=1	_	_	_	Gloss=aurai
+4	deus	kaout	VERB	v	Person=1	_	_	_	Gloss=aurai
 5	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 6	aon	aon	NOUN	nom	_	_	_	_	Gloss=peur
 7	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -10699,7 +10699,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Cause
 # wiki_annotation = title:Cause;contexte:None;phonetic:None;text:|| Ni || n'oe || bet || bazhadoù ||  dam betra  || oamp || ket || aet || d'ar || skol.;gloss:None;standardise:None;lemgloss:|| [[pfi|nous]] || 3.[[kaout|avait]] || [[kaout|eu]] || [[bazh|bâton]].[[-ad|nade]].[[-où (PL.)|s]] || [[dam (C.)|car]] || [[eo|étions]] || [[ket|pas]] || [[mont|all]].[[-et (Adj.)|é]] || [[da|à]] [[an, al, ar|le]] || [[skol|école]];translation:'Nous avions ramassé des coups de bâton car nous avions séché l'école.';agrammaticale:None;info:''Cornouaillais (Le Juch)'', [[Hor Yezh (1983)|Hor Yezh (1983]]:18);category:Cornouaillais (Le Juch);source:Hor Yezh (1983:18);link:https://arbres.iker.cnrs.fr/index.php?title=Cause
 1	Ni	pfi	PRON	pronoms	Number=Plur|Person=1|PronType=Prs	_	_	_	Gloss=nous
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4-6	bazhadoù	_	_	_	_	_	_	_	_
 4	bazh	bazh	NOUN	nom	_	_	_	_	Gloss=bâton
@@ -11688,7 +11688,7 @@
 1	Gwall	gwall-	X	prefixe	_	_	_	_	Gloss=mauvais
 2	-huñvreal	huñvreal	VERB	verbe	_	_	_	_	Gloss=rêver
 3	'	R	VERB	verbe	_	_	_	_	Gloss=_
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5-6	graet	_	_	_	_	_	_	_	_
 5	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -12558,7 +12558,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Dav
 # wiki_annotation = title:Dav;contexte:None;phonetic:None;text:|| Benn || po || droug || kein, || ' || vo ||  dav  ||  deoc'h  || chom || ho || kourvo.;gloss:None;standardise:None;lemgloss:|| [[a-benn|quand]] || 2.[[kaout|aura]] || [[droug|mal]] || [[kein|dos]] || [[R]] || [[COP|sera]] || dû || [[da|à]].[[pronom incorporé|vous]] || [[chom|rester]] || [[POSS|vos]]<sup>[[3]]</sup> || [[gourvez|allongé]].[[-où (PL.)|s]];translation:'Quand vous aurez mal au dos, vous devrez rester allongé.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:29);category:Cornouaillais (Riec);source:Bouzeg (1986:29);link:https://arbres.iker.cnrs.fr/index.php?title=Dav
 1	Benn	a-benn	ADP	préposition	_	_	_	_	Gloss=quand
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 3	droug	droug	NOUN	nom	_	_	_	_	Gloss=mal
 4	kein	kein	NOUN	nom	_	_	_	_	Gloss=dos
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -17287,7 +17287,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Emañ
 # wiki_annotation = title:Emañ;contexte:None;phonetic:None;text:|| Eoñ || daoa || lavaret ||  yade  || é || vont || da || vilout || e || gekenn…;gloss:None;standardise:None;lemgloss:|| [[pfi|lui]] || 3.[[kaout|avait]] || [[lavarout|d]].[[-et (Adj.)|it]] || [[COP|était]] || [[particule o|à]]<sup>[[4]]</sup> || [[mont|aller]] || [[da|pour]]<sup>[[1]]</sup> || [[gwelout|voir]] || [[POSS|son]]<sup>[[1]]</sup> || [[kaekenn|fiancée]];translation:'Il avait dit qu'il allait voir sa fiancée.';agrammaticale:None;info:''Cornouaillais (Sein)'', [[Kersulec (2016)|Kersulec (2016]]:7);category:Cornouaillais (Sein);source:Kersulec (2016:7);link:https://arbres.iker.cnrs.fr/index.php?title=Emañ
 1	Eoñ	pfi	PRON	pronoms	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 3-4	lavaret	_	_	_	_	_	_	_	_
 3	lavarout	lavarout	VERB	verbe	_	_	_	_	Gloss=d
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -18864,7 +18864,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Evit
 # wiki_annotation = title:Evit;contexte:None;phonetic:None;text:|| Bet || neus || bet || ur begad, || ken || n'eo || ket ||  'wid  || respont.;gloss:None;standardise:None;lemgloss:|| [[bet|eu]] || 3.[[kaout|a]] || [[bet|eu]] || [[un, ul, ur|un]] "becquée" || [[ken, ker, kel|tant]] (que) || [[ne|ne]]<sup>[[1]]</sup> [[eo|est]] || [[ket|pas]] || ''P'' || répondre;translation:'Il a eu son compte, tellement qu'il ne peut pas répondre, qu'il en reste muet.';agrammaticale:None;info:''Cornouaillais'', [[Plourin (2000)|Plourin (2000]]:34);category:Cornouaillais;source:Plourin (2000:34);link:https://arbres.iker.cnrs.fr/index.php?title=Evit
 1	Bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 4	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 5	begad	_	_	_	_	_	_	_	Gloss=_
@@ -18971,7 +18971,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Explétif
 # wiki_annotation = title:Explétif;contexte:None;phonetic:None;text:|| Aze || || peus || logn ||  anezhi .;gloss:None;standardise:None;lemgloss:|| [[aze|ici]] || [[R]] || 2.[[kaout|a]] || [[lonkañ|aval]].[[-et (Adj.)|é]] || [[a|P]].[[pronom incorporé|elle]];translation:'Là vous en avez essuyé des grains.';agrammaticale:None;info:''Cornouaillais (Douarnenez)'', [[Denez (1972)|Denez (1972]]:150);category:Cornouaillais (Douarnenez);source:Denez (1972:150);link:https://arbres.iker.cnrs.fr/index.php?title=Explétif
 1	Aze	aze	ADV	adverbe	_	_	_	_	Gloss=ici
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3-4	logn	_	_	_	_	_	_	_	_
 3	lonkañ	lonkañ	VERB	verbe	_	_	_	_	Gloss=aval
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -20507,7 +20507,7 @@
 1	Blew	blev	NOUN	nom	_	_	_	_	Gloss=cheveu
 2	fumet	fum.-et(Adj.)	_	_	_	_	_	_	Gloss=é
 3	'	R	VERB	verbe	_	_	_	_	Gloss=_
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
 # sent_id = Goyat(2012:340)__923
@@ -21991,7 +21991,7 @@
 7	goz	kozh	ADJ	adjectif	_	_	_	_	Gloss=vieil
 8-9	e-noant	_	_	_	_	_	_	_	_
 8	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-9	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avaient
+9	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avaient
 10	goulennet	demand.-et(Adj.)	_	_	_	_	_	_	Gloss=é
 11	e-barz	e-barzh	ADP	préposition	_	_	_	_	Gloss=dans
 12	peleh	pelec'h	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=où
@@ -22199,7 +22199,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Gourvez
 # wiki_annotation = title:Gourvez;contexte:None;phonetic:None;text:|| Benn || po || droug || kein, || ' || vo || dav || deoc'h || chom || ho || kourv o .;gloss:None;standardise:None;lemgloss:|| [[a-benn|quand]] || 2.[[kaout|aura]] || [[droug|mal]] || [[kein|dos]] || [[R]] || [[COP|sera]] || [[dav|dû]] || [[da|à]].[[pronom incorporé|vous]] || [[chom|rester]] || [[POSS|vos]]<sup>[[3]]</sup> || allongé.s;translation:'Quand vous aurez mal au dos, vous devrez rester allongé.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:29);category:Cornouaillais (Riec);source:Bouzeg (1986:29);link:https://arbres.iker.cnrs.fr/index.php?title=Gourvez
 1	Benn	a-benn	ADP	préposition	_	_	_	_	Gloss=quand
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 3	droug	droug	NOUN	nom	_	_	_	_	Gloss=mal
 4	kein	kein	NOUN	nom	_	_	_	_	Gloss=dos
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -22799,7 +22799,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Gwelout
 # wiki_annotation = title:Gwelout;contexte:None;phonetic:None;text:|| Ma || pefe || gallet ||  djwelet  || se, || hwi !;gloss:None;standardise:None;lemgloss:|| [[ma(r)|si]] || 2.[[kaout|aurait]] || [[gallout|p]].[[-et (Adj.)|u]] || voir || [[se|ça]] || [[pfi|vous]];translation:'Si seulement tu avais pu voir ça, toi !';agrammaticale:None;info:''Cornouaillais (Scaër/Bannalec)'', [[H. Gaudart (09/2022)]];category:Cornouaillais (Scaër/Bannalec);source:H. Gaudart (09/2022);link:https://arbres.iker.cnrs.fr/index.php?title=Gwelout
 1	Ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
 3-4	gallet	_	_	_	_	_	_	_	_
 3	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -25183,7 +25183,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=H._Gaudart_(09/2022)
 # wiki_annotation = title:H. Gaudart (09/2022);contexte:None;phonetic:None;text:|| Ma || pefe || gallet || djwelet || se, || hwi !;gloss:None;standardise:None;lemgloss:|| [[ma(r)|si]] || 2.[[kaout|aurait]] || [[gallout|p]].[[-et (Adj.)|u]] || [[gwelout|voir]] || [[se|ça]] || [[pfi|vous]];translation:'Si seulement tu avais pu voir ça, toi !';agrammaticale:None;info:''Cornouaillais (Scaër/Bannalec)'', H. Gaudart (09/2022);category:Cornouaillais (Scaër/Bannalec);source:H. Gaudart (09/2022);link:https://arbres.iker.cnrs.fr/index.php?title=H._Gaudart_(09/2022)
 1	Ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
 3-4	gallet	_	_	_	_	_	_	_	_
 3	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -26476,7 +26476,7 @@
 1	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 2	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
 3	'	hoc'h	NOUN	nom	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5	ho	POSS	DET	det	_	_	_	_	Gloss=votre
 6	hiviz	hiviz	NOUN	nom	_	_	_	_	Gloss=chemise
 7	war	war	ADP	préposition	_	_	_	_	Gloss=sur
@@ -26915,7 +26915,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Impératif
 # wiki_annotation = title:Impératif;contexte:None;phonetic:None;text:|| 'Po || ken || met || lârout || un || dra || bennak.;gloss:None;standardise:None;lemgloss:|| 2.[[kaout|aura]] || [[ken|que]] || [[met|mais]] || [[lavarout|dire]] || [[un, ul, ur|un]] || <sup>[[1]]</sup>[[tra|chose]] || [[bennak|quelconque]];translation:'Prévenez-nous.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:37);category:Cornouaillais (Riec);source:Bouzeg (1986:37);link:https://arbres.iker.cnrs.fr/index.php?title=Impératif
-1	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+1	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 2	ken	ken	ADP	préposition	_	_	_	_	Gloss=que
 3	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 4	lârout	lavarout	VERB	verbe	_	_	_	_	Gloss=dire
@@ -26933,7 +26933,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Impératif
 # wiki_annotation = title:Impératif;contexte:None;phonetic:None;text:|| 'Peus || ken || met || mont || war 'n eeun.;gloss:None;standardise:None;lemgloss:|| 2.[[kaout|a]] || [[ken|que]] || [[met|mais]] || [[mont|aller]] || [[war-eeun|sur.le.droit]];translation:'Allez tout droit.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:37);category:Cornouaillais (Riec);source:Bouzeg (1986:37);link:https://arbres.iker.cnrs.fr/index.php?title=Impératif
-1	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+1	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 2	ken	ken	ADP	préposition	_	_	_	_	Gloss=que
 3	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 4	mont	mont	VERB	verbe	_	_	_	_	Gloss=aller
@@ -27482,7 +27482,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Interrogatives_polaires
 # wiki_annotation = title:Interrogatives polaires;contexte:None;phonetic:None;text:|| 'Peus ||  ket  || anavezet || Soaz ?;gloss:None;standardise:None;lemgloss:|| 3.[[kaout|a]] || [[ket|pas]] || [[anavezout|conn]].[[-et (Adj.)|u]] || [[nom propre|Soaz]];translation:'Avez-vous connu Soaz?';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:37);category:Cornouaillais (Riec);source:Bouzeg (1986:37);link:https://arbres.iker.cnrs.fr/index.php?title=Interrogatives_polaires
-1	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+1	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 2	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 3-4	anavezet	_	_	_	_	_	_	_	_
 3	anavezout	anavezout	VERB	verbe	_	_	_	_	Gloss=conn
@@ -29557,7 +29557,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Kein
 # wiki_annotation = title:Kein;contexte:None;phonetic:None;text:|| Benn || po || droug ||  kein , || ' vo || dav || deoc'h || chom || ho kourvo.;gloss:None;standardise:None;lemgloss:|| [[a-benn|quand]] || 2.[[kaout|aura]] || [[droug|mal]] || dos || [[COP|sera]] || [[dav|dû]] || [[da|à]].[[pronom incorporé|vous]] || [[chom|rester]] || [[POSS|vos]]<sup>[[3]]</sup> [[gourvez|allongé]].PL;translation:'Quand vous aurez mal au dos, vous devrez rester allongé.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:29);category:Cornouaillais (Riec);source:Bouzeg (1986:29);link:https://arbres.iker.cnrs.fr/index.php?title=Kein
 1	Benn	a-benn	ADP	préposition	_	_	_	_	Gloss=quand
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 3	droug	droug	NOUN	nom	_	_	_	_	Gloss=mal
 4	kein	kein	NOUN	nom	_	_	_	_	Gloss=dos
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -29918,7 +29918,7 @@
 1	Kement	Kement	DET	déterminant	_	_	_	_	Gloss=autant
 2-3	'neus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 5	an	an,al,ar	DET	det	_	_	_	_	Gloss=le
 6	teir	teir	NOUN	nom	_	_	_	_	Gloss=trois
@@ -30043,7 +30043,7 @@
 1-3	N'hopeus	_	_	_	_	_	_	_	_
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	hoc'h	c'hwi	PRON	PRON	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-3	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 4-5	graet	_	_	_	_	_	_	_	_
 4	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -30243,7 +30243,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ken
 # wiki_annotation = title:Ken;contexte:None;phonetic:None;text:|| 'Peus || ken || met || mont || war || 'n eeun.;gloss:None;standardise:None;lemgloss:|| 2.[[kaout|a]] || que || [[met|mais]] || [[mont|aller]] || [[war|sur]] || [[an, al, ar|le]] [[eeun|droit]];translation:'Allez tout droit.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:37);category:Cornouaillais (Riec);source:Bouzeg (1986:37);link:https://arbres.iker.cnrs.fr/index.php?title=Ken
-1	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+1	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 2	ken	_	_	_	_	_	_	_	Gloss=_
 3	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 4	mont	mont	VERB	verbe	_	_	_	_	Gloss=aller
@@ -30379,7 +30379,7 @@
 2-4	n'hedoa	_	_	_	_	_	_	_	_
 2	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 3	he	he	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=elle
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 5	Naig	nompropre	NOUN	nom	_	_	_	_	Gloss=Naig
 6-7	gwelet	_	_	_	_	_	_	_	_
 6	gwelout	gwelout	VERB	verbe	_	_	_	_	Gloss=v
@@ -33330,7 +33330,7 @@
 8	guitaat	kuitaat	VERB	verbe	_	_	_	_	Gloss=quitter
 9	la	la	SCONJ	complémenteur	_	_	_	_	Gloss=que
 10	ma	ma	SCONJ	complémenteur	_	_	_	_	Gloss=que
-11	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+11	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 12-13	leset	_	_	_	_	_	_	_	_
 12	lezel	lezel	VERB	verbe	_	_	_	_	Gloss=laiss
 13	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -34060,7 +34060,7 @@
 2-3	_	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	hoc'h	c'hwi	PRON	PRON	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5	ho	POSS	DET	det	_	_	_	_	Gloss=votre
 6	hiviz	hiviz	NOUN	nom	_	_	_	_	Gloss=chemise
 7	war	war	ADP	préposition	_	_	_	_	Gloss=sur
@@ -35297,7 +35297,7 @@
 3-4	em	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	kaout	kaout	VERB	v	Person=1	_	_	_	Gloss=avait
+5	deus	kaout	VERB	v	Person=1	_	_	_	Gloss=avait
 6	ma	POSS	DET	det	_	_	_	_	Gloss=mon
 7	rastell	rastell	NOUN	nom	_	_	_	_	Gloss=râteau
 8-9	din	_	_	_	_	_	_	_	_
@@ -35910,7 +35910,7 @@
 2	garfe	karout	VERB	verbe	_	_	_	_	Gloss=aimerait
 3	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bien
 4	ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-5	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
+5	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
 6	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 7	a	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8-9	brozioù	_	_	_	_	_	_	_	_
@@ -36507,7 +36507,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Les_complémenteurs
 # wiki_annotation = title:Les complémenteurs;contexte:None;phonetic:None;text:||  ha posubl  || dize || gôet || neoñ.;gloss:None;standardise:None;lemgloss:|| [[ha posubl|et.possible]] || 3.[[kaout|avait]] || [[gouzout|s]].[[-et (Adj.)|u]] || [[neuial|nager]];translation:'Et même s'il avait su nager.';agrammaticale:None;info:''Cornouaillais (Sein)'', [[Fagon & Riou (2015)|Fagon & Riou (2015]]:165);category:Cornouaillais (Sein);source:Fagon & Riou (2015:165);link:https://arbres.iker.cnrs.fr/index.php?title=Les_complémenteurs
 1	ha posubl	haposubl	_	_	_	_	_	_	Gloss=et possible
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 3-4	gôet	_	_	_	_	_	_	_	_
 3	gouzout	gouzout	VERB	verbe	_	_	_	_	Gloss=s
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -36924,14 +36924,14 @@
 3	Iliz	Iliz	NOUN	nom	_	_	_	_	Gloss=Église
 4	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 5	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
-6	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+6	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 7	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8-9	furnez	_	_	_	_	_	_	_	_
 8	fur	fur	ADJ	adjectif	_	_	_	_	Gloss=sag
 9	-nezh	-nezh	X	suffixe	_	_	_	_	Gloss=esse
 10	piou	piv	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=qui
 11	bénag	bennak	ADJ	adjectif	_	_	_	_	Gloss=quelconque
-12	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+12	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 13	seiz	seizh	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=sept
 14	vloas	bloaz	NOUN	nom	_	_	_	_	Gloss=an
 15	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
@@ -37164,7 +37164,7 @@
 # wiki_annotation = title:Les interjections;contexte:None;phonetic:None;text:|| ( Ac'h ! ) || Henn || neus || lakaet || din || ( [[*]] Ac'h ! ) || e || zaorn || war || ma || foñs || ( Ac'h ! ) ||!;gloss:None;standardise:None;lemgloss:|| [[ac'h !|Yew !]] || [[hennezh|celui-là]] || 3.[[kaout|a]] || [[lakaat|m]].[[-et (Adj.)|is]] || [[da|à]].[[pronom incorporé|moi]] || [[ac'h !|Yew !]] || [[POSS|son]]<sup>[[1]]</sup> || [[dorn|main]] || [[war|sur]]<sup>[[1]]</sup> || [[POSS|son]]<sup>[[1]]</sup> || [[foñs|fond]] || [[ac'h !|Yew !]];translation:'Je t'assure, yew, il m'a mis la main aux fesses !';agrammaticale:None;info:''Cornouaillais (Locronan)'', [[A-M. Louboutin (02/2022)]];category:Cornouaillais (Locronan);source:A-M. Louboutin (02/2022);link:https://arbres.iker.cnrs.fr/index.php?title=Les_interjections
 1	_	ac'h!	_	_	_	_	_	_	Gloss=Yew!
 2	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4-5	lakaet	_	_	_	_	_	_	_	_
 4	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -39093,7 +39093,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Lonkañ
 # wiki_annotation = title:Lonkañ;contexte:None;phonetic:None;text:|| Az' || peus || lon' || an'hei.;gloss:None;standardise:None;lemgloss:|| [[aze|là]] || 2.[[kaout|a]] || avalé || [[a|P]].[[pronom incorporé|elle]];translation:'Là vous en avez essuyé des grains.';agrammaticale:None;info:''Cornouaillais (Douarnenez)'', [[Denis (1972)|Denis (1972]]:150);category:Cornouaillais (Douarnenez);source:Denis (1972:150);link:https://arbres.iker.cnrs.fr/index.php?title=Lonkañ
 1	Az'	aze	ADV	adverbe	_	_	_	_	Gloss=là
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3	lon'	_	_	_	_	_	_	_	Gloss=_
 4-5	an'hei	_	_	_	_	_	_	_	_
 4	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
@@ -39386,7 +39386,7 @@
 2	garfe	karout	VERB	verbe	_	_	_	_	Gloss=aimerait
 3	mat	mat	ADJ	adjectif	_	_	_	_	Gloss=bien
 4	ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-5	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
+5	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=aurait
 6	tout	tout	DET/ADJ/ADV/PRON	quantifieurs	_	_	_	_	Gloss=tout
 7	a	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 8-9	brozioù	_	_	_	_	_	_	_	_
@@ -40381,7 +40381,7 @@
 1	Setu	setu	ADV	adverbe	_	_	_	_	Gloss=voici
 2	bremañ	bremañ	ADV	adverbe	_	_	_	_	Gloss=maintenant
 3	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 5	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
 6	mell	mell	NOUN	nom	_	_	_	_	Gloss=grand
 7	pañsion	pañsion	NOUN	nom	_	_	_	_	Gloss=pension
@@ -42981,7 +42981,7 @@
 3	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 4	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 5	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-6	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+6	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 7	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 8-9	gwraet	_	_	_	_	_	_	_	_
 8	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
@@ -44879,7 +44879,7 @@
 # wiki_annotation = title:Ordres à objet préverbal;contexte:None;phonetic:(4)||<font color=green>/ zehɛt ||<font color=green> pøs ||<font color=green> mətRɛnɛ/ </font color=green>;text:|| Sec'het || ' peus || marteze.;gloss:None;standardise:None;lemgloss:|| [[sec'hed|soif]] || [[R]] 2.[[kaout|a]] || [[marteze|peut-être]];translation:'Peut-être que tu as soif.';agrammaticale:None;info:''Cornouaillais (Carhaix)'', [[Timm (1989)|Timm (1989]]:367);category:Cornouaillais (Carhaix);source:Timm (1989:367);link:https://arbres.iker.cnrs.fr/index.php?title=Ordres_à_objet_préverbal
 1	Sec'het	sec'hed	NOUN	nom	_	_	_	_	Gloss=soif
 2	'	R	VERB	verbe	_	_	_	_	Gloss=_
-3	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 4	marteze	marteze	ADV	adverbe	_	_	_	_	Gloss=peut-être
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -45463,7 +45463,7 @@
 5	kouezhañ	kouezhañ	VERB	verbe	_	_	_	_	Gloss=tomb
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
 7	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=_  3SG
-8	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+8	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 9-11	dirusket	_	_	_	_	_	_	_	_
 9	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dés
 10	rusk	rusk	NOUN	nom	_	_	_	_	Gloss=écorc
@@ -47322,7 +47322,7 @@
 # wiki_annotation = title:Peseurt, pese, pezh;contexte:None;phonetic:None;text:||  Pésort  || pouez || peus ?;gloss:None;standardise:None;lemgloss:|| [[peseurt|quel]] || [[pouez|poids]] || 2.[[kaout|a]];translation:'Quel poids faites-vous ?';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzec & al. (2017)|Bouzec & al. (2017]]:91);category:Cornouaillais (Riec);source:Bouzec & al. (2017:91);link:https://arbres.iker.cnrs.fr/index.php?title=Peseurt,_pese,_pezh
 1	Pésort	peseurt	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=quel
 2	pouez	pouez	NOUN	nom	_	_	_	_	Gloss=poids
-3	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 4	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
 
 # sent_id = HorYezh(1983:72)__2143
@@ -47335,7 +47335,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Peseurt,_pese,_pezh
 # wiki_annotation = title:Peseurt, pese, pezh;contexte:None;phonetic:None;text:|| Met || peus || ken || soñjal ||  peseurt  || gwisket || e || oamp || ivez || en || amzer || gwechall...;gloss:None;standardise:None;lemgloss:|| [[met|mais]] || 2.[[kaout|a]] || [[ken|seulement]] || [[soñjal|penser]] || quel.sorte || [[gwiskañ|habill]].[[-et (Adj.)|é]] || [[R]] || [[eo|étions]] || [[ivez|aussi]] || [[P.e|en]].[[an, al, ar|le]] || [[amzer|temps]] || [[gwechall|jadis]];translation:'Mais tu n'as qu'à penser comment nous étions habillés autrefois, aussi.';agrammaticale:None;info:''Cornouaillais (Tréboul)'', Troadec, [[Hor Yezh (1983)|Hor Yezh (1983]]:72);category:Cornouaillais (Tréboul);source:Hor Yezh (1983:72);link:https://arbres.iker.cnrs.fr/index.php?title=Peseurt,_pese,_pezh
 1	Met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3	ken	ken	ADP	préposition	_	_	_	_	Gloss=seulement
 4	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=penser
 5	peseurt	peseurt	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=quel sorte
@@ -49665,7 +49665,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronom_objet_direct_après_le_verbe_'avoir'
 # wiki_annotation = title:Pronom objet direct après le verbe 'avoir';contexte:None;phonetic:None;text:|| Marijo || neus || ([[*]] int) || prenet || ([[*]] int).;gloss:None;standardise:None;lemgloss:|| [[nom propre|Marijo]] || 3.[[kaout|a]] || eux || [[prenañ|achet]].[[-et (Adj.)|é]] || eux;translation:'Marijo (les) a achetés.';agrammaticale:None;info:''Cornouaillais (Douarnenez)'', [HD 2010];category:Cornouaillais (Douarnenez);source:[HD 2010];link:https://arbres.iker.cnrs.fr/index.php?title=Pronom_objet_direct_après_le_verbe_'avoir'
 1	Marijo	nompropre	NOUN	nom	_	_	_	_	Gloss=Marijo
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	_	_	_	_	_	_	_	_	Gloss=_
 4-5	prenet	_	_	_	_	_	_	_	_
 4	prenañ	prenañ	VERB	verbe	_	_	_	_	Gloss=achet
@@ -49682,7 +49682,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronom_objet_direct_après_le_verbe_'avoir'
 # wiki_annotation = title:Pronom objet direct après le verbe 'avoir';contexte:None;phonetic:None;text:|| Marijo || neus || ([[*]] int) || bet || ([[*]] int) || prenet.;gloss:None;standardise:None;lemgloss:|| [[nom propre|Marijo]] || 3.[[kaout|a]] || eux || [[bet|eu]] || eux || [[prenañ|achet]].[[-et (Adj.)|é]];translation:'Marijo (les) a achetés.';agrammaticale:None;info:''Cornouaillais (Douarnenez)'', [HD 2010];category:Cornouaillais (Douarnenez);source:[HD 2010];link:https://arbres.iker.cnrs.fr/index.php?title=Pronom_objet_direct_après_le_verbe_'avoir'
 1	Marijo	nompropre	NOUN	nom	_	_	_	_	Gloss=Marijo
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	_	_	_	_	_	_	_	_	Gloss=_
 4	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 5	_	_	_	_	_	_	_	_	Gloss=_
@@ -50041,7 +50041,7 @@
 5-7	c'hwi'po	_	_	_	_	_	_	_	_
 5	pfi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 6	hoc'h	c'hwi	PRON	PRON	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-7	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
+7	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aura
 8	'n	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 9	anal	anal	NOUN	nom	_	_	_	_	Gloss=haleine
 10	hir	hir	ADJ	adjectif	_	_	_	_	Gloss=long
@@ -50160,7 +50160,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Pronoms_objet_proclitiques
 # wiki_annotation = title:Pronoms objet proclitiques;contexte:None;phonetic:None;text:|| Marijo || neus || {  o  || frenet / prenet  anezho  } .;gloss:None;standardise:None;lemgloss:|| [[nom propre|Marijo]] || 3.[[kaout|a]] || les || [[prenañ|achet]].[[-et (Adj.)|é]] / [[prenañ|achet]].[[-et (Adj.)|é]] [[a|P]].[[pronom incorporé|eux]];translation:'Marijo les a achetés.';agrammaticale:None;info:''Cornouaillais (Douarnenez)'', [HD 2010];category:Cornouaillais (Douarnenez);source:[HD 2010];link:https://arbres.iker.cnrs.fr/index.php?title=Pronoms_objet_proclitiques
 1	Marijo	nompropre	NOUN	nom	_	_	_	_	Gloss=Marijo
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	{ o	_	_	_	_	_	_	_	Gloss=_
 4-9	frenet/prenetanezho} 	_	_	_	_	_	_	_	_
 4	prenañ	prenañ	VERB	verbe	_	_	_	_	Gloss=achet
@@ -51332,7 +51332,7 @@
 1	Ac'h 	ac'h	_	_	_	_	_	_	Gloss=Yew!
 2	!	!	PUNCT	PUNCT	_	_	_	_	Gloss=!
 3	Henn	hennezh	PRON	pronom	_	_	_	_	Gloss=celui-là
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 5-6	lakaet	_	_	_	_	_	_	_	_
 5	lakaat	lakaat	VERB	verbe	_	_	_	_	Gloss=m
 6	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=is
@@ -52250,7 +52250,7 @@
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	rez	ober	VERB	verbe	_	_	_	_	Gloss=fais
 4	ho	hoc'h	NOUN	nom	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-5	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+5	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 6-8	disoñjet	_	_	_	_	_	_	_	_
 6	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dé
 7	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -52541,7 +52541,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Se
 # wiki_annotation = title:Se;contexte:None;phonetic:None;text:|| Ma || pefe || gallet || djwelet ||  se , || hwi !;gloss:None;standardise:None;lemgloss:|| [[ma(r)|si]] || 2.[[kaout|aurait]] || [[gallout|p]].[[-et (Adj.)|u]] || [[gwelout|voir]] || ça || [[pfi|vous]];translation:'Si seulement tu avais pu voir ça, toi !';agrammaticale:None;info:''Cornouaillais (Scaër/Bannalec)'', [[H. Gaudart (09/2022)]];category:Cornouaillais (Scaër/Bannalec);source:H. Gaudart (09/2022);link:https://arbres.iker.cnrs.fr/index.php?title=Se
 1	Ma	ma(r)	SCONJ	complémenteur	_	_	_	_	Gloss=si
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=aurait
 3-4	gallet	_	_	_	_	_	_	_	_
 3	gallout	gallout	VERB	verbe	_	_	_	_	Gloss=p
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -52579,7 +52579,7 @@
 2-4	'peus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	hoc'h	c'hwi	PRON	PRON	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5	marteze	marteze	ADV	adverbe	_	_	_	_	Gloss=peut-être
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -53457,7 +53457,7 @@
 7	ti	ti	NOUN	nom	_	_	_	_	Gloss=maison
 8	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 9	'	R	VERB	verbe	_	_	_	_	Gloss=_
-10	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+10	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 11	na	nana	CCONJ	coo	_	_	_	_	Gloss=ni
 12	lagad	lagad	NOUN	nom	_	_	_	_	Gloss=œil
 13	na	nana	CCONJ	coo	_	_	_	_	Gloss=ni
@@ -55774,7 +55774,7 @@
 1	Trapit	Trapit	VERB	v	_	_	_	_	Gloss=prenez
 2	ar	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 3	gartenn	kartenn	NOUN	nom	_	_	_	_	Gloss=carte|Mut=1|Mutchoice=right
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5	c'hoant	c'hoant	NOUN	nom	_	_	_	_	Gloss=envie
 6	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.
 
@@ -58630,7 +58630,7 @@
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=War-eeun
 # wiki_annotation = title:War-eeun;contexte:None;phonetic:None;text:|| 'Peus || ken || met || mont ||  war  ||   'n eeun .;gloss:None;standardise:None;lemgloss:|| 2.[[kaout|a]] || [[ken|que]] || [[met|mais]] || [[mont|aller]] || [[war|sur]] || [[an, al, ar|le]] [[eeun|droit]];translation:'Allez tout droit.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:37);category:Cornouaillais (Riec);source:Bouzeg (1986:37);link:https://arbres.iker.cnrs.fr/index.php?title=War-eeun
-1	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+1	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 2	ken	ken	ADP	préposition	_	_	_	_	Gloss=que
 3	met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
 4	mont	mont	VERB	verbe	_	_	_	_	Gloss=aller
@@ -58979,7 +58979,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Yod
 # wiki_annotation = title:Yod;contexte:None;phonetic:None;text:|| Bet || neus || bet ||  yod .;gloss:None;standardise:None;lemgloss:|| [[bet|eu]] || 3.[[kaout|a]] || [[kaout|eu]] || bouillie;translation:'Il a été collé à un examen.';agrammaticale:None;info:''Cornouaillais (Riec)'', [[Bouzeg (1986)|Bouzeg (1986]]:I);category:Cornouaillais (Riec);source:Bouzeg (1986:I);link:https://arbres.iker.cnrs.fr/index.php?title=Yod
 1	Bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
-2	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 3	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 4	yod	yod	NOUN	nom	_	_	_	_	Gloss=bouillie
 5	.	.	PUNCT	PUNCT	_	_	_	_	Gloss=.

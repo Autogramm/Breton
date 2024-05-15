@@ -1938,7 +1938,7 @@
 1-2	d'ober	_	_	_	_	_	_	_	_
 1	da	da	ADP	préposition	_	_	_	_	Gloss=à
 2	ober	ober	VERB	verbe	_	_	_	_	Gloss=faire
-3	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 4	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=de
 5	sikour 	sikour	VERB	verbe	_	_	_	_	Gloss=aide
 6	?	?	PUNCT	PUNCT	_	_	_	_	Gloss=?
@@ -2677,7 +2677,7 @@
 # wiki_annotation = title:Aon;contexte:None;phonetic:None;text:||  Aon  || en doa || bet || an den.;gloss:None;standardise:None;lemgloss:|| peur || 3SGM 3.[[kaout|avait]] || [[bet|eu]] || [[IMP|on]];translation:'On avait eu peur.';agrammaticale:None;info:''Lanvénégen'', [[Evenou (1989)|Evenou (1989]]:54);category:Lanvénégen;source:Evenou (1989:54);link:https://arbres.iker.cnrs.fr/index.php?title=Aon
 1	Aon	Aon	NOUN	nom	_	_	_	_	Gloss=peur
 2	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 4	bet	bet	VERB	verbe	_	_	_	_	Gloss=eu
 5	an	IMP	PRON	cln	_	_	_	_	Gloss=on
 6	den	_	_	_	_	_	_	_	Gloss=_
@@ -4945,13 +4945,13 @@
 
 # sent_id = LeGarrec(1901:46,47)__230
 # text =  De mad,  Fanch !  Marc'hared,  ho  saludi  a ran !
-# text_fr = 'Bonjour, Fanch, Marguerite, je vous salue !'
+# text_fr = 'Bonjour, Fanch ! Marguerite, je vous salue !'
 # dialect = Haute-Cornouaille
 # location = Kergrist-Moëlou
 # source = Le Garrec (1901:46, 47)
 # status = WIP
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Demat_!
-# wiki_annotation = title:Demat !;contexte:None;phonetic:None;text:||  De mad , || Fanch ! || Marc'hared, || ho ||  saludi  || a ran !;gloss:None;standardise:None;lemgloss:|| [[deiz|jour]] [[mat|bon]] || [[nom propre|Fanch]] || [[nom propre|Marguerite]] || [[POP|vous]]<sup>[[3]]</sup> || [[saludiñ|saluer]] || [[R]]<sup>[[1]]</sup> [[ober|fais]];translation:'Bonjour, Fanch, Marguerite, je vous salue !';agrammaticale:None;info:''Haute-Cornouaille (Kergrist-Moëlou)'', [[Le Garrec (1901)|Le Garrec (1901]]:46, 47);category:Haute-Cornouaille (Kergrist-Moëlou);source:Le Garrec (1901:46, 47);link:https://arbres.iker.cnrs.fr/index.php?title=Demat_!
+# wiki_annotation = title:Demat !;contexte:None;phonetic:None;text:||  De mad , || Fanch ! || Marc'hared, || ho ||  saludi  || a ran !;gloss:None;standardise:None;lemgloss:|| [[deiz|jour]] [[mat|bon]] || [[nom propre|Fanch]] || [[nom propre|Marguerite]] || [[POP|vous]]<sup>[[3]]</sup> || [[saludiñ|saluer]] || [[R]]<sup>[[1]]</sup> [[ober|fais]];translation:'Bonjour, Fanch ! Marguerite, je vous salue !';agrammaticale:None;info:''Haute-Cornouaille (Kergrist-Moëlou)'', [[Le Garrec (1901)|Le Garrec (1901]]:46, 47);category:Haute-Cornouaille (Kergrist-Moëlou);source:Le Garrec (1901:46, 47);link:https://arbres.iker.cnrs.fr/index.php?title=Demat_!
 1	De	deiz	NOUN	nom	_	_	_	_	Gloss=jour
 2	mad	mat	ADJ	adjectif	_	_	_	_	Gloss=bon
 3	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
@@ -5181,7 +5181,7 @@
 1	Fi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 2	voar	gouzout	VERB	verbe	_	_	_	_	Gloss=sais
 3	lac'h	la(r)	SCONJ	complémenteur	_	_	_	_	Gloss=que
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5-7	digonget	_	_	_	_	_	_	_	_
 5	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dé
 6	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -6356,7 +6356,7 @@
 6-7	em	_	_	_	_	_	_	_	_
 6	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 7	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-8	kaout	kaout	VERB	v	Person=1	_	_	_	Gloss=aurait
+8	deus	kaout	VERB	v	Person=1	_	_	_	Gloss=aurait
 9-10	kaset	_	_	_	_	_	_	_	_
 9	kas	kas	VERB	verbe	_	_	_	_	Gloss=envoy
 10	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -9667,7 +9667,7 @@
 4-6	n'endès	_	_	_	_	_	_	_	_
 4	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 5	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-6	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+6	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 7	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 8	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=beaucoup
 9	él	evel	ADP	préposition	_	_	_	_	Gloss=comme
@@ -10762,7 +10762,7 @@
 3-4	em	_	_	_	_	_	_	_	_
 3	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 4	-m	me	PRON	PRON	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=moi
-5	kaout	kaout	VERB	v	Person=1	_	_	_	Gloss=aurait
+5	deus	kaout	VERB	v	Person=1	_	_	_	Gloss=aurait
 6	_	(*  ket	_	_	_	_	_	_	Gloss=pas )
 7-8	sonjet	_	_	_	_	_	_	_	_
 7	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -10939,7 +10939,7 @@
 1	Kaer	Kaer	ADJ	adjectif	_	_	_	_	Gloss=beau
 2-3	e-neus	_	_	_	_	_	_	_	_
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4	goulenn	goulenn	VERB	verbe	_	_	_	_	Gloss=demander
 5	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 6	den	den	NOUN	nom	_	_	_	_	Gloss=personne
@@ -11589,7 +11589,7 @@
 8	ar	arpezh	_	_	_	_	_	_	Gloss=ceque
 9-10	pez	_	_	_	_	_	_	_	_
 9	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-10	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+10	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 11-12	endeus	_	_	_	_	_	_	_	_
 11	koll	koll	VERB	verbe	_	_	_	_	Gloss=perd
 12	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=u
@@ -11807,7 +11807,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Ken
 # wiki_annotation = title:Ken;contexte:None;phonetic:None;text:|| Met || peus ||  ken  || soñjal || peseurt || gwisket || e || oamp || ivez || en || amzer || gwechall...;gloss:None;standardise:None;lemgloss:|| [[met|mais]] || 2.[[kaout|a]] || seulement || [[soñjal|penser]] || [[wh|quelle.sorte]] || [[gwiskañ|habill]].[[-et (Adj.)|é]] || [[R]] || [[eo|étions]] || [[ivez|aussi]] || [[P.e|en]].[[an, al, ar|le]] || [[amzer|temps]] || [[gwechall|jadis]];translation:'Mais tu n'as qu'à penser comment nous étions habillés autrefois, aussi.';agrammaticale:None;info:''Douarneniste (Tréboul)'', Troadec, [[Hor Yezh (1983)|Hor Yezh (1983]]:72);category:Douarneniste (Tréboul);source:Hor Yezh (1983:72);link:https://arbres.iker.cnrs.fr/index.php?title=Ken
 1	Met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3	ken	ken	ADP	préposition	_	_	_	_	Gloss=seulement
 4	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=penser
 5	peseurt	wh	PRON/ADV/DET	interrogatifs	_	_	_	_	Gloss=quelle sorte
@@ -12381,7 +12381,7 @@
 2	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=R|Mut=1
 3	voar	gouzout	VERB	verbe	_	_	_	_	Gloss=sais
 4	lac'h	la(r)	SCONJ	complémenteur	_	_	_	_	Gloss=que
-5	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+5	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 6-8	digonget	_	_	_	_	_	_	_	_
 6	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dé
 7	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -12406,7 +12406,7 @@
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
 3	rez	ober	VERB	verbe	_	_	_	_	Gloss=fais
 4	ho	hoc'h	NOUN	nom	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
-5	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+5	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 6-8	disoñjet	_	_	_	_	_	_	_	_
 6	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dé
 7	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -13170,7 +13170,7 @@
 1	Fi	pfi	PRON	pronoms	Number=Plur|Person=2|PronType=Prs	_	_	_	Gloss=vous
 2	voar	gouzout	VERB	verbe	_	_	_	_	Gloss=sais
 3	lac'h	lac'h	PRON	pri	_	_	_	_	Gloss=que
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5-7	digonget	_	_	_	_	_	_	_	_
 5	di-,dis-	di-,dis-	X	prefixe	_	_	_	_	Gloss=dé
 6	soñjal	soñjal	VERB	verbe	_	_	_	_	Gloss=pens
@@ -13298,7 +13298,7 @@
 4	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 5	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 6	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-7	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+7	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 8	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 9	kalz	kalz	DET	déterminant	_	_	_	_	Gloss=beaucoup
 10	él	evel	ADP	préposition	_	_	_	_	Gloss=comme
@@ -13430,7 +13430,7 @@
 3	al	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 4	levr	levr	NOUN	nom	_	_	_	_	Gloss=livre
 5	e	R	VERB	verbe	_	_	_	_	Gloss=_|Mut=4
-6	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+6	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 7-8	roet	_	_	_	_	_	_	_	_
 7	reiñ	reiñ	VERB	verbe	_	_	_	_	Gloss=donn
 8	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -15381,7 +15381,7 @@
 1	O	interjection	INTJ	interjection	_	_	_	_	Gloss=Oh
 2	,	,	PUNCT	PUNCT	_	_	_	_	Gloss=,
 3	'	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
-4	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+4	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 5	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 6-7	graet	_	_	_	_	_	_	_	_
 6	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
@@ -17364,7 +17364,7 @@
 1	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 2	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 3	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-4	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
+4	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=avait
 5	ken	ken	ADP	préposition	_	_	_	_	Gloss=plus/pas
 6	bugel	bugel	NOUN	nom	_	_	_	_	Gloss=enfant
 7	ur	un,ul,ur	PRON/DET	indéfini	_	_	_	_	Gloss=un
@@ -17589,7 +17589,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Netra
 # wiki_annotation = title:Netra;contexte:None;phonetic:None;text:|| A: - || Petra || peus || prenet ? || B: - ||  Netra .;gloss:None;standardise:None;lemgloss:|| || [[petra|quoi]] || 2.[[kaout|a]] || [[prenañ|achet]].[[-et (Adj.)|é]] |||| rien;translation:A: - 'Tu as acheté quoi ?'  B: - 'Rien.';agrammaticale:None;info:None;category:None;source:None;link:https://arbres.iker.cnrs.fr/index.php?title=Netra
 1	Petra	petra	PRON	pronom	_	_	_	_	Gloss=quoi
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3-4	prenet 	_	_	_	_	_	_	_	_
 3	prenañ	prenañ	VERB	verbe	_	_	_	_	Gloss=achet
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -18654,7 +18654,7 @@
 # wiki_annotation = title:Ouzh;contexte:None;phonetic:None;text:|| An || ankou || neus || ket || bet || ezhomm ||  deusouzoc'h .;gloss:None;standardise:None;lemgloss:|| [[an, al, ar|le]] || [[Ankou|Ankou]] || 3.[[kaout|a]] || [[ket|pas]] || [[kaout|eu]] || [[ezhomm|besoin]] || [[deus|de]].de.[[pronom incorporé|vous]];translation:'L'Ankou n'a pas eu besoin de vous.';agrammaticale:None;info:[[Faits de langue Cosey|traducteur Cosey]], ''Hag ar menez a gano evidoc'h'', Jonathan 2, p.45;category:None;source:traducteur Cosey,  Jonathan 2, p.45;link:https://arbres.iker.cnrs.fr/index.php?title=Ouzh
 1	An	an,al,ar	PRON/DET	défini	_	_	_	_	Gloss=le
 2	ankou	Ankou	NOUN	nom	_	_	_	_	Gloss=Ankou
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4	ket	ket	ADV	adverbe	_	_	_	_	Gloss=pas
 5	bet	kaout	VERB	verbe	_	_	_	_	Gloss=eu
 6	ezhomm	ezhomm	NOUN	nom	_	_	_	_	Gloss=besoin
@@ -20051,7 +20051,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 # wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:|| Petra || 'peus || graet || evit || ampech || (*a/*eus) ||  Yann  || da || evañ ?;gloss:None;standardise:None;lemgloss:|| [[petra|quoi]] || 2.[[kaout|a]] || [[ober|fa]].[[-et (Adj.)|it]] || [[evit|pour]] || empêcher <font color=green>[</font color=green><sub>[[SC]]</sub> || [[*]] P || [[nom propre|Yann]] || [[da|de]]<sup>[[1]]</sup> || [[evañ|boire]] <font color=green>]</font color=green>;translation:'Qu'est-ce que tu as fait pour empêcher  (*à) Yann  de boire ?';agrammaticale:None;info:None;category:None;source:None;link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 1	Petra	petra	PRON	pronom	_	_	_	_	Gloss=quoi
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3-4	graet	_	_	_	_	_	_	_	_
 3	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -20075,7 +20075,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 # wiki_annotation = title:Petites propositions;contexte:None;phonetic:None;text:|| Petra || 'peus || graet || evit || ampech ||  anezhañ  / *eñ || da || evañ ?;gloss:None;standardise:None;lemgloss:|| [[petra|quoi]] || 2.[[kaout|a]] || [[ober|fa]].[[-et (Adj.)|it]] || [[evit|pour]] || empêcher <font color=green>[</font color=green><sub>[[SC]]</sub> || [[a|P]].[[pronom incorporé|lui]] / [[pfi|lui]] || [[da|de]]<sup>[[1]]</sup> || [[evañ|boire]] <font color=green>]</font color=green>;translation:'Qu'est-ce que tu as fait pour  l 'empêcher de boire ?';agrammaticale:None;info:''Plonevez du Faou'', Dastum, Fer, [http://mediatheque.dastum.net/Record.htm?idlist=1&record=19260451124910886339 informateur SAY 001/2003].;category:Plonevez du Faou;source:Dastum, Fer, [http://mediatheque.dastum.net/Record.htm?idlist=1&record=19260451124910886339 informateur SAY 001/2003].;link:https://arbres.iker.cnrs.fr/index.php?title=Petites_propositions
 1	Petra	petra	PRON	pronom	_	_	_	_	Gloss=quoi
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3-4	graet	_	_	_	_	_	_	_	_
 3	ober	ober	VERB	verbe	_	_	_	_	Gloss=fa
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
@@ -20527,7 +20527,7 @@
 # wiki_annotation = title:Poltred;contexte:None;phonetic:None;text:|| Tristan || a neus || dieset || ur ||  poltre  || dac'houta || evit || lakaat || gant || tout || ar || familh || barzh || ar || guzun.;gloss:None;standardise:None;lemgloss:|| [[nom propre|Tristan]] || [[R]] 3.[[kaout|a]] || [[degas|amen]].[[-et (Adj.)|é]] || [[un, ul, ur|un]] || photo || [[dac'h|de]].[[ouzh|à]].[[pronom incorporé|toi]] || [[evit|pour]] || [[lakaat|mettre]] || [[gant|avec]] || [[tout|tous]] || [[an, al, ar|le]] || [[familh|famille]] || [[e-barzh|dans]] || [[an, al, ar|le]] || <sup>[[1]]</sup>[[kuzun|cuisine]];translation:'Tristan amené une photo de lui pour mettre avec toute la famille dans la cuisine.';agrammaticale:None;info:''Léon (Lesneven/Kerlouan)'', [[A. M. (05/2016)]];category:Léon (Lesneven/Kerlouan);source:A. M. (05/2016);link:https://arbres.iker.cnrs.fr/index.php?title=Poltred
 1	Tristan	nompropre	NOUN	nom	_	_	_	_	Gloss=Tristan
 2	a	R	SCONJ	SCONJ	_	_	_	_	Gloss=_|Mut=1
-3	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+3	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 4-5	dieset	_	_	_	_	_	_	_	_
 4	degas	degas	VERB	verbe	_	_	_	_	Gloss=amen
 5	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=é
@@ -22043,7 +22043,7 @@
 3	ne	ne	SCONJ	complémenteur	_	_	_	_	Gloss=ne
 4	R	R	SCONJ	SCONJ	_	_	_	_	Gloss=_
 5	en	eñ	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
-6	kaout	kaout	VERB	v	Person=3	_	_	_	Gloss=a
+6	deus	kaout	VERB	v	Person=3	_	_	_	Gloss=a
 7-8	anezhañ	_	_	_	_	_	_	_	_
 7	a	a	SCONJ	SCONJ	_	_	_	_	Gloss=P
 8	añ	eñ	PRON	pronom	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	Gloss=lui
@@ -22689,7 +22689,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Soñjal
 # wiki_annotation = title:Soñjal;contexte:None;phonetic:None;text:|| Met peus || ken || soñjal || peseurt || gwisket || e oamp || ivez || en amzer gwechall...;gloss:None;standardise:None;lemgloss:|| [[met|mais]] 2.[[kaout|a]] || [[ken|seulement]] || penser || [[peseurt|quelle.sorte]] || [[gwiskañ|habill]].[[-et (Adj.)|é]] || [[R]] [[COP|étions]] || [[ivez|aussi]] || [[P.e|en]].[[an, al, ar|le]] temps [[gwechall|jadis]];translation:'Mais tu n'as qu'à penser comment nous étions habillés autrefois, aussi.';agrammaticale:None;info:''Douarneniste (Tréboul)'', Troadec, [[Hor Yezh (1983)|Hor Yezh (1983]]:72);category:Douarneniste (Tréboul);source:Hor Yezh (1983:72);link:https://arbres.iker.cnrs.fr/index.php?title=Soñjal
 1	Met	met	CCONJ	conjonction	_	_	_	_	Gloss=mais
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3	ken	ken	ADP	préposition	_	_	_	_	Gloss=seulement
 4	soñjal	_	_	_	_	_	_	_	Gloss=_
 5	peseurt	peseurt	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=quelle sorte
@@ -25367,7 +25367,7 @@
 # wiki_url = https://arbres.iker.cnrs.fr/index.php?title=Verbes_factifs
 # wiki_annotation = title:Verbes factifs;contexte:None;phonetic:None;text:|| <u>Pelec'h</u> || peus || {  laret  || / || [[*]]  gouiet  } || || o doa || lezet || al levr || ?;gloss:None;standardise:None;lemgloss:|| [[pelec'h|où]] || 2.[[kaout|a]] || [[lavarout|d]].[[-et (Adj.)|it]] || / || [[gouzout|s]].[[-et (Adj.)|u]] || <font color=green>[</font color=green> || 3PL [[kaout|avait]] || [[lezel|laiss]].[[-et (Adj.)|é]] || [[an, al, ar|le]] [[levr|livre]] _ <font color=green>]</font color=green>;translation:'Tu as dit/su qu'ils avaient laissé le livre où ça ?';agrammaticale:None;info:None;category:None;source:None;link:https://arbres.iker.cnrs.fr/index.php?title=Verbes_factifs
 1	Pelec'h	pelec'h	PRON/ADV/DET	interrogatif	_	_	_	_	Gloss=où
-2	kaout	kaout	VERB	v	Person=2	_	_	_	Gloss=a
+2	deus	kaout	VERB	v	Person=2	_	_	_	Gloss=a
 3-4	{laret	_	_	_	_	_	_	_	_
 3	lavarout	lavarout	VERB	verbe	_	_	_	_	Gloss=d
 4	-et	-et(Adj.)	X	suffixe	_	_	_	_	Gloss=it
